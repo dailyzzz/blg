@@ -1,0 +1,134 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","natural-immunity-god-given-design",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","natural-immunity-god-given-design","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","natural-immunity-god-given-design","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4074,<h1 id="natural-immunity-the-god-given-design-they-deny">Natural Immunity: The God-Given Design They Deny</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well." — Psalm 139:14</p>
+</blockquote>
+<p>The human body is fearfully and wonderfully made. The immune system alone — a network of trillions of cells, hundreds of proteins, dozens of organs and tissues, communicating through chemical signals more complex than any computer network — testifies to the intelligence of a Creator whose design the pharmaceutical industry has spent a century denying, suppressing, and replacing with products that generate profit at the expense of health. Natural immunity is not merely a biological fact. It is a theological statement: the evidence that God designed the human body to defend itself, to heal itself, and to thrive without the interventions of an industry that profits from undermining that design.</p>
+<p>As the Confliction album track <a href="https://confliction.zzzdaily.com/tracks/es/15-From_Dust_to_Glory.mp4">From Dust to Glory</a> declares, the body formed from dust carries within it the glory of its Maker — a design so sophisticated that the greatest minds in science have not fully mapped it, a system so resilient that it has sustained humanity through millennia of plague, famine, and war without a single pharmaceutical product.</p>
+<hr>
+<h2 id="the-immune-system-a-design-of-astonishing-complexity">The Immune System: A Design of Astonishing Complexity</h2>
+<p>The human immune system is not a single organ or a simple defense mechanism. It is a layered, adaptive, self-learning network of extraordinary sophistication:</p>
+<h3 id="innate-immunity--the-first-line-of-defense">Innate Immunity — The First Line of Defense</h3>
+<p>The innate immune system provides immediate, non-specific defense against pathogens:</p>
+<ul>
+<li><strong>Physical barriers</strong> — skin, mucous membranes, stomach acid, respiratory cilia, and the blood-brain barrier prevent pathogen entry</li>
+<li><strong>Chemical barriers</strong> — lysozyme in tears and saliva, antimicrobial peptides on the skin, and acid in the stomach destroy pathogens on contact</li>
+<li><strong>Cellular defenses</strong> — natural killer cells, macrophages, neutrophils, and dendritic cells identify and destroy foreign organisms without prior exposure</li>
+<li><strong>Inflammation</strong> — a targeted response that increases blood flow, temperature, and immune cell activity at the site of infection</li>
+<li><strong>The complement system</strong> — a cascade of over 30 proteins that tag pathogens for destruction, punch holes in bacterial cell membranes, and amplify the immune response</li>
+<li><strong>Fever</strong> — a systemic temperature increase that inhibits pathogen reproduction and enhances immune cell function. Fever is not a malfunction — it is a designed response that the pharmaceutical approach of suppressing fever with antipyretics actually undermines</li>
+</ul>
+<h3 id="adaptive-immunity--the-learning-defense">Adaptive Immunity — The Learning Defense</h3>
+<p>The adaptive immune system provides specific, targeted, and remembered defense:</p>
+<ul>
+<li><strong>T cells</strong> — including killer T cells that destroy infected cells, helper T cells that coordinate the immune response, and regulatory T cells that prevent the immune system from attacking the body's own tissue</li>
+<li><strong>B cells</strong> — produce antibodies (immunoglobulins) tailored to specific pathogens, providing targeted neutralization</li>
+<li><strong>Memory cells</strong> — T and B memory cells persist for years to decades (and in some cases, a lifetime) after initial infection, providing rapid response upon re-exposure</li>
+<li><strong>Natural antibodies</strong> — produced without prior pathogen exposure, providing broad-spectrum protection against common threats</li>
+</ul>
+<h3 id="the-microbiome--the-third-immune-system">The Microbiome — The Third Immune System</h3>
+<p>The trillions of bacteria, fungi, and viruses that colonize the human gut, skin, respiratory tract, and other mucosal surfaces constitute what researchers increasingly recognize as a third arm of the immune system:</p>
+<ul>
+<li><strong>70-80% of immune tissue</strong> is located in the gut (gut-associated lymphoid tissue, or GALT)</li>
+<li><strong>Commensal bacteria</strong> compete with pathogens for space and nutrients, producing antimicrobial compounds and maintaining the integrity of the intestinal barrier</li>
+<li><strong>The microbiome educates the immune system</strong> — training T cells to distinguish between harmful pathogens and harmless substances, and modulating inflammatory responses throughout the body</li>
+<li><strong>The gut-brain axis</strong> — the microbiome communicates with the brain through the vagus nerve and chemical signaling, influencing mood, cognition, and behavior</li>
+</ul>
+<p>As documented throughout this site, the microbiome is under systematic assault from <a href="/glyphosate-food-supply-poison/?lang=es">glyphosate</a>, <a href="/processed-food-addiction-design/?lang=es">processed food</a>, antibiotics, <a href="/water-fluoridation-mass-medication/?lang=es">fluoridated water</a>, and the pharmaceutical products that the medical establishment prescribes as alternatives to the immune function the microbiome provides.</p>
+<h2 id="the-denial-of-natural-immunity">The Denial of Natural Immunity</h2>
+<p>During the COVID-19 pandemic, the concept of natural immunity — the immune protection acquired through recovery from infection — was systematically denied, censored, and attacked by public health authorities, media organizations, and social media platforms:</p>
+<ul>
+<li><strong>The CDC</strong> changed its definition of "immunity" on its website, removing references to natural immunity and defining immunity exclusively through vaccination</li>
+<li><strong>Social media platforms</strong> censored posts discussing natural immunity as "misinformation"</li>
+<li><strong>Vaccine mandates</strong> made no accommodation for naturally immune individuals, requiring vaccination regardless of prior infection and demonstrated antibody levels</li>
+<li><strong>Medical journals</strong> published studies that were later shown to underestimate natural immunity, while studies demonstrating the superiority of natural immunity faced publication delays and editorial resistance</li>
+</ul>
+<p>A comprehensive 2022 study published in The Lancet found that natural immunity provided at least equivalent — and in many cases superior — protection compared to vaccination, with protection lasting at least 10 months and showing no significant decline over the study period. A study published in Science found that natural immunity produced a broader, more durable, and more adaptively flexible response than vaccine-induced immunity.</p>
+<p>The denial of natural immunity was not a scientific position. It was a commercial and political one — because acknowledging natural immunity would have undermined the justification for universal vaccination mandates and the revenue those mandates generated.</p>
+<h2 id="terrain-theory-vs-germ-theory">Terrain Theory vs. Germ Theory</h2>
+<p>As documented in our article on <a href="/terrain-theory-vs-germ-theory/?lang=es">Terrain Theory vs. Germ Theory: The Foundational Lie</a>, the dominant paradigm of modern medicine — germ theory — holds that disease is caused by external pathogens that invade the body. The alternative paradigm — terrain theory — holds that disease occurs when the body's internal environment (the "terrain") becomes compromised, allowing pathogens that would otherwise be harmless to proliferate.</p>
+<p>Antoine Bechamp, a contemporary of Louis Pasteur, argued that the condition of the host — not the presence of the pathogen — determines whether disease develops. Pasteur himself reportedly acknowledged on his deathbed: "The microbe is nothing. The terrain is everything."</p>
+<p>The pharmaceutical industry has built its entire business model on germ theory: identify the pathogen, develop a product (antibiotic, antiviral, vaccine) that targets the pathogen, and sell it to everyone who might be exposed. This model generates revenue per dose, per patient, per pathogen — and it has generated trillions of dollars in revenue over the last century.</p>
+<p>Terrain theory generates no pharmaceutical revenue. If disease is prevented by maintaining a healthy internal environment — through nutrition, clean water, exercise, sleep, stress management, and the avoidance of toxins — there is nothing to sell. The medical-industrial complex cannot monetize health. It can only monetize disease.</p>
+<p>As documented in <a href="/rockefeller-medicine-captured-healthcare/?lang=es">Rockefeller Medicine: How Healthcare Was Captured</a>, the institutional capture of American medicine ensured that terrain theory was marginalized, its practitioners suppressed, and its principles excluded from medical education. The result is a medical system that treats disease after it develops rather than supporting the body's design to prevent it.</p>
+<h2 id="the-pharmaceutical-assault-on-immunity">The Pharmaceutical Assault on Immunity</h2>
+<p>The modern pharmaceutical approach to health systematically undermines the body's own immune function:</p>
+<p><strong>Fever suppression.</strong> Over-the-counter antipyretics (acetaminophen, ibuprofen) suppress fever — the body's designed response to infection. By suppressing fever, these drugs impair immune cell function, prolong infection duration, and increase pathogen shedding.</p>
+<p><strong>Antibiotic overuse.</strong> The widespread and often unnecessary use of antibiotics destroys beneficial gut bacteria along with target pathogens, undermining the microbiome-based immune function that provides the body's broadest protection. An estimated 30-50% of antibiotic prescriptions in the United States are unnecessary.</p>
+<p><strong>Immune-suppressing pharmaceuticals.</strong> Corticosteroids, immunosuppressants, and biologics prescribed for autoimmune conditions and allergies suppress the immune system by design — managing symptoms while leaving the underlying immune dysfunction unaddressed and increasing susceptibility to infections and cancer.</p>
+<p><strong>Childhood vaccination.</strong> As documented in our article on <a href="/vaccine-of-the-beast-revelation/?lang=es">The Vaccine of the Beast</a>, the childhood vaccine schedule — 72 doses of 16 vaccines before age 18 — introduces pharmaceutical immune stimulation at the expense of natural immune development. The hygiene hypothesis and its updated versions suggest that the absence of natural immune challenges in early childhood, combined with repeated pharmaceutical immune stimulation, may contribute to the epidemic of autoimmune disease, allergies, and immune dysfunction in developed nations.</p>
+<h2 id="food-as-the-foundation-of-immunity">Food as the Foundation of Immunity</h2>
+<p>As documented in our article on <a href="/food-as-medicine-healing-nutrition/?lang=es">Food as Medicine: The Healing Power of Nutrition</a>, the immune system's function depends on nutritional inputs that the modern food system systematically fails to provide:</p>
+<ul>
+<li><strong>Vitamin C</strong> — essential for immune cell function, absent from processed food</li>
+<li><strong>Vitamin D</strong> — produced by sun exposure, blocked by <a href="/sunscreen-toxic-protection-myth/?lang=es">sunscreen</a>, and depleted by indoor lifestyles</li>
+<li><strong>Zinc</strong> — critical for T cell function, depleted from soil and food through industrial agriculture</li>
+<li><strong>Selenium</strong> — essential for antioxidant defense and immune regulation</li>
+<li><strong>Vitamin A</strong> — vital for mucosal immunity and T cell development</li>
+<li><strong>Omega-3 fatty acids</strong> — anti-inflammatory, supportive of immune resolution</li>
+<li><strong>Probiotics and fermented foods</strong> — supporting the microbiome-immune system axis</li>
+</ul>
+<p>The institutions that deny natural immunity also promote the dietary guidelines, food systems, and pharmaceutical products that systematically undermine it. The cycle is self-reinforcing: degrade immune function through poor nutrition and toxic exposure, deny that natural immunity works, and sell pharmaceutical products as the only alternative.</p>
+<p>As documented in <a href="/detox-protocols-comprehensive-guide/?lang=es">Detox Protocols: A Comprehensive Guide to Cleansing</a>, restoring immune function requires removing the toxic burden that impairs it — heavy metals, nanoparticles, and chemical contaminants that overwhelm the body's natural defenses.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/191-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The system that denies natural immunity to sell pharmaceutical replacements</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — When pharmaceutical products replace divine design</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/179-Engineering_Contagion.mp4">Terrain Theory</a> — The suppressed paradigm that puts the body's internal environment first</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li>
+<p><a href="https://confliction.zzzdaily.com/tracks/es/15-From_Dust_to_Glory.mp4">From Dust to Glory</a> — The body formed from dust carries within it the glory of its Maker's design</p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/es/249-Wake_Up_And_Build.mp4">Wake Up And Build</a></p>
+</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/terrain-theory-vs-germ-theory/?lang=es">Terrain Theory vs. Germ Theory: The Foundational Lie</a> — The suppressed paradigm that explains why the terrain matters more than the pathogen</li>
+<li><a href="/rockefeller-medicine-captured-healthcare/?lang=es">Rockefeller Medicine: How Healthcare Was Captured</a> — How the system that denies natural immunity was built</li>
+<li><a href="/vaccine-of-the-beast-revelation/?lang=es">The Vaccine of the Beast: Revelation and Modern Medicine</a> — The pharmaceutical replacement of divine design</li>
+<li><a href="/food-as-medicine-healing-nutrition/?lang=es">Food as Medicine: The Healing Power of Nutrition</a> — The nutritional foundation that natural immunity depends on</li>
+</ul>
+<hr>
+<p><em>As it was in the beginning, so it remains — fearfully and wonderfully made. The immune system is not a flaw in God's design that requires pharmaceutical correction. It is the masterwork of a Creator who formed the body from dust and breathed into it the capacity to defend, repair, and heal itself. The serpent's system denies this design, degrades the conditions that support it, and sells replacements that profit the seller while diminishing the user. Satan is still a liar. The lie is that the body is broken and only the pharmaceutical industry can fix it. The truth is that the body is brilliantly designed, and what it needs is not more products but fewer poisons — and the faith to trust the One who made it.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/food-environment/","className":"category-badge","children":"food-environment"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Inmunidad natural: diseño de Dios"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"El sistema inmunológico natural de Dios proporciona inmunidad superior y duradera comparada con la inmunidad artificial inducida por drogas."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-10-02T10:00:00Z","children":"2 de octubre de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","natural-immunity",{"href":"/es/tag/natural-immunity/","className":"tag-pill","children":["#","natural-immunity"]}],["$","a","immune-system",{"href":"/es/tag/immune-system/","className":"tag-pill","children":["#","immune-system"]}],["$","a","design",{"href":"/es/tag/design/","className":"tag-pill","children":["#","design"]}],["$","a","health",{"href":"/es/tag/health/","className":"tag-pill","children":["#","health"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/natural-immunity-god-given-design/","title":"Inmunidad natural: diseño de Dios"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/natural-immunity-god-given-design/","title":"Inmunidad natural: diseño de Dios"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Inmunidad natural: diseño de Dios | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"El sistema inmunológico natural de Dios proporciona inmunidad superior y duradera comparada con la inmunidad artificial inducida por drogas."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"natural-immunity, immune-system, design, health"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/natural-immunity-god-given-design/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/natural-immunity-god-given-design/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/natural-immunity-god-given-design/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/natural-immunity-god-given-design/"}],["$","meta","10",{"property":"og:title","content":"Inmunidad natural: diseño de Dios"}],["$","meta","11",{"property":"og:description","content":"El sistema inmunológico natural de Dios proporciona inmunidad superior y duradera comparada con la inmunidad artificial inducida por drogas."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/natural-immunity-god-given-design/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/natural-immunity-god-given-design.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Inmunidad natural: diseño de Dios"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Inmunidad natural: diseño de Dios"}],["$","meta","25",{"name":"twitter:description","content":"El sistema inmunológico natural de Dios proporciona inmunidad superior y duradera comparada con la inmunidad artificial inducida por drogas."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/natural-immunity-god-given-design.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

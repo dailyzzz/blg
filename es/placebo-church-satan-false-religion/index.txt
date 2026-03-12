@@ -1,0 +1,114 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","placebo-church-satan-false-religion",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","placebo-church-satan-false-religion","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","placebo-church-satan-false-religion","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T1637,<h1 id="placebo-la-iglesia-de-satán-y-la-religión-falsa">Placebo, la Iglesia de Satán, y la Religión Falsa</h1>
+<h2 id="el-poder-del-placebo">El Poder del Placebo</h2>
+<p>El efecto placebo es medible: si una persona cree que una sustancia inerte la ayudará, frecuentemente lo hace. El cuerpo responde a la creencia. La mente crea la realidad.</p>
+<p>Satán entiende esto. Una religión falsa no requiere que sea verdadera. Solo requiere que sea creída. Si suficientemente muchas personas creen que una mentira es verdad, la mentira se vuelve, de facto, verdadera — verdadera en términos de sus consecuencias materiales.</p>
+<p>La Iglesia de Satán ha reconocido explícitamente el poder del placebo:</p>
+<blockquote>
+<p>"Cuando el creyente reza a Dios, obtiene una respuesta del universo. Cuando el satanista realiza un ritual, obtiene lo que desea." — Anton LaVey, Biblia Satánica</p>
+</blockquote>
+<p>No porque Dios responda o porque demonios sean llamados. Sino porque la creencia crea realidad. La expectativa crea resultado.</p>
+<hr>
+<h2 id="la-religión-falsa-en-medicina">La Religión Falsa en Medicina</h2>
+<h3 id="la-vacuna-de-placebo">La Vacuna de Placebo</h3>
+<p>Las inyecciones de mRNA de COVID-19 funcionan, en parte, a través del efecto placebo:</p>
+<ul>
+<li>Las personas creen que están "protegidas"</li>
+<li>La creencia alivia la ansiedad</li>
+<li>La ansiedad reducida produce resultados de salud mejorados</li>
+<li>La salud mejorada es atribuida a la "vacuna" cuando fue causada por alivio de ansiedad</li>
+</ul>
+<p>El fabricante entiende esto. Presiona narrativas que aumentan el efecto placebo:</p>
+<ul>
+<li>"Efectivo 95%"</li>
+<li>"Seguro y efectivo"</li>
+<li>"Confía en la ciencia"</li>
+</ul>
+<p>El lenguaje es diseñado para crear creencia máxima — que es exactamente lo que maximiza el efecto placebo.</p>
+<h3 id="rituales-médicos">Rituales Médicos</h3>
+<p>La medicina moderna, en muchos aspectos, se ha vuelto ritualistic en lugar de médico:</p>
+<ul>
+<li>Las "batas blancas" son rituales de autoridad</li>
+<li>El "equipo médico" es ritual de legitimidad</li>
+<li>Las "estadísticas" son ritual de cientificismo</li>
+<li>Los "protocolos" son ritual de precisión</li>
+</ul>
+<p>El ritual crea creencia. La creencia crea efecto placebo. Y el efecto placebo crea resultados que son atribuidos a la medicina en lugar de a la fe.</p>
+<hr>
+<h2 id="la-religión-satánica-en-control-social">La Religión Satánica en Control Social</h2>
+<h3 id="la-inversión-de-valores">La Inversión de Valores</h3>
+<p>La religión satánica invierte valores:</p>
+<ul>
+<li>La verdad se vuelve mentira</li>
+<li>La mentira se vuelve verdad</li>
+<li>El bien se vuelve mal</li>
+<li>El mal se vuelve bien</li>
+</ul>
+<p>La población es entrenada a través de medios de comunicación, educación, y medicina para aceptar estas inversiones:</p>
+<ul>
+<li>La libertad corporal se vuelve "egoísmo"</li>
+<li>La duda de autoridad se vuelve "anticiencia"</li>
+<li>La adhesión a valores biológicos se vuelve "transfobia"</li>
+<li>La obediencia ciega se vuelve "confianza"</li>
+</ul>
+<p>El ritual de inversión es tan constante que la población olvida que alguna vez hubo valores diferentes.</p>
+<h3 id="la-religión-satánica-en-política">La Religión Satánica en Política</h3>
+<p>Los gobiernos utilizan lenguaje satánico consistentemente:</p>
+<ul>
+<li>"Orden de caos" (ordo ab chaos) — crear problema, resolver con control aumentado</li>
+<li>"Confía en expertos" — inversión de las advertencias bíblicas sobre hechicería</li>
+<li>"Por el bien común" — justificación de coerción</li>
+</ul>
+<p>El patrón es idéntico al lenguaje de la Iglesia de Satán.</p>
+<hr>
+<h2 id="la-defensa-contra-placebo-satánico">La Defensa Contra Placebo Satánico</h2>
+<h3 id="reconocer-el-ritual">Reconocer el Ritual</h3>
+<p>La defensa comienza en reconocer que el ritual no es medicina. Que la autoridad presentada con pompa no es verdadera. Que la estadística presentada con confianza puede ser manipulada.</p>
+<h3 id="rechazar-la-fe-en-la-falsedad">Rechazar la Fe en la Falsedad</h3>
+<p>La población ha puesto su fe en instituciones que la han fallado repetidamente. Esta fe debe ser retirada:</p>
+<ul>
+<li>De gobiernos que mienten</li>
+<li>De corporaciones que priorizan ganancia sobre salud</li>
+<li>De expertos que son pagados por instituciones corrupta</li>
+<li>De rituales que no tienen fundamento</li>
+</ul>
+<h3 id="restaurar-la-fe-en-la-verdad">Restaurar la Fe en la Verdad</h3>
+<p>La fe debe ser reinvertida en:</p>
+<ul>
+<li>Dios, cuya verdad es inmutable</li>
+<li>La naturaleza, cuyas leyes no pueden ser burladas</li>
+<li>La comunidad, cuya sabiduría colectiva es más confiable que expertos individuales</li>
+<li>La conciencia propia, cuya intuición es más confiable que autoridad externa</li>
+</ul>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Jesuitas Deplorables Revelados</a></li>
+<li><a href="/psychology-industry-manufacturing-illness/?lang=es">La Industria de la Psicología: Fabricando Enfermedad Mental para Ganancias</a></li>
+</ul>
+<hr>
+<p><em>Satán es el padre de la mentira. Su iglesia está construida sobre mentiras creídas con fe suficiente para crear realidades falsas. Pero las realidades falsas no perduran. Eventualmente, la verdad emerge. Y cuando lo hace, toda la estructura de mentira se colapsa. El poder del placebo es real. El poder de la fe es real. Pero estos poderes sirven solo a quien cree. Si crees en la verdad de Dios, eres liberado. Si crees en las mentiras de Satán, eres esclavizado.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/spirituality/","className":"category-badge","children":"spirituality"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Placebo, la Iglesia de Satán, y la Religión Falsa"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"La Iglesia de Satán USA el poder del placebo como herramienta de control. Explora cómo creencias falsas crean realidades falsas que esclavizan."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-15T10:00:00Z","children":"15 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","satanism",{"href":"/es/tag/satanism/","className":"tag-pill","children":["#","satanism"]}],["$","a","false-religion",{"href":"/es/tag/false-religion/","className":"tag-pill","children":["#","false-religion"]}],["$","a","placebo",{"href":"/es/tag/placebo/","className":"tag-pill","children":["#","placebo"]}],["$","a","belief",{"href":"/es/tag/belief/","className":"tag-pill","children":["#","belief"]}],["$","a","control",{"href":"/es/tag/control/","className":"tag-pill","children":["#","control"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/placebo-church-satan-false-religion/","title":"Placebo, la Iglesia de Satán, y la Religión Falsa"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/placebo-church-satan-false-religion/","title":"Placebo, la Iglesia de Satán, y la Religión Falsa"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Placebo, la Iglesia de Satán, y la Religión Falsa | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"La Iglesia de Satán USA el poder del placebo como herramienta de control. Explora cómo creencias falsas crean realidades falsas que esclavizan."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"satanism, false-religion, placebo, belief, control"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/placebo-church-satan-false-religion/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/placebo-church-satan-false-religion/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/placebo-church-satan-false-religion/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/placebo-church-satan-false-religion/"}],["$","meta","10",{"property":"og:title","content":"Placebo, la Iglesia de Satán, y la Religión Falsa"}],["$","meta","11",{"property":"og:description","content":"La Iglesia de Satán USA el poder del placebo como herramienta de control. Explora cómo creencias falsas crean realidades falsas que esclavizan."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/placebo-church-satan-false-religion/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/placebo-church-satan-false-religion.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Placebo, la Iglesia de Satán, y la Religión Falsa"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Placebo, la Iglesia de Satán, y la Religión Falsa"}],["$","meta","25",{"name":"twitter:description","content":"La Iglesia de Satán USA el poder del placebo como herramienta de control. Explora cómo creencias falsas crean realidades falsas que esclavizan."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/placebo-church-satan-false-religion.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

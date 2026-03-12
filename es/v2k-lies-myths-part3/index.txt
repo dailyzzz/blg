@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","v2k-lies-myths-part3",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","v2k-lies-myths-part3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","v2k-lies-myths-part3","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T433d,<h1 id="v2k-las-mentiras-mitos-y-malentendidos-parte-3">V2K: Las Mentiras, Mitos, y Malentendidos Parte 3</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p><em>"Amados, no creáis a todo espíritu, sino probad los espíritus si son de Dios; porque muchos falsos profetas han salido por el mundo."</em> — 1 Juan 4:1</p>
+</blockquote>
+<p>La verdad de V2K está enterrada bajo capas de desinformación deliberada, mitos plantados, y malentendidos armonizados. Esto no es accidental — es una campaña sofisticada de guerra de información diseñada para asegurar que la tecnología V2K permanezca en las sombras, que sus víctimas permanezcan desacreditadas, y que el público general permanezca ignorante de una de las armas más poderosas jamás creadas.</p>
+<p>En las Partes 1 y 2, compartimos testimonio personal y examinamos el arma Voz de Dios. Ahora, en la Parte 3, confrontamos las mentiras de frente — separando los hechos documentados de las ficciones plantadas, exponiendo a los agentes de desinformación que enturbian las aguas, y equipándote con la verdad que necesitas para navegar este tema complejo y peligroso.</p>
+<p>Howard Pittman fue dicho que el 97,5% de los cristianos están fracasando porque no pueden distinguir la verdad del engaño. La campaña de desinformación de V2K es una clase maestra en engaño — diseñada por agencias de inteligencia entrenadas en el método jesuita de infiltración "vestida con astucia." El "poder absoluto" de Napoleón requiere control de información absoluto. La "condenación eterna" de Adams se aplica a aquellos que crean y propagan estas mentiras. El gobierno de Tamburini "de la mitad del mundo" incluye gobierno de lo que ese mundo cree acerca de su propia esclavitud.</p>
+<hr>
+<h2 id="las-mentiras-que-dicen">Las Mentiras Que Dicen</h2>
+<h3 id="mentira-1-v2k-es-ciencia-ficción">Mentira #1: "V2K Es Ciencia Ficción"</h3>
+<p>La mentira más común es que la tecnología V2K no existe — que es el producto de imaginaciones paranoides y películas de ciencia ficción. Esta mentira se mantiene por:</p>
+<ul>
+<li><strong>Medios de comunicación dominantes</strong> que se rehúsan a investigar las afirmaciones de V2K</li>
+<li><strong>Psiquiatras</strong> que diagnostican a cada reportero de V2K como esquizofrénico</li>
+<li><strong>Desacreditadores</strong> que descartan patentes, documentos militares, y artículos científicos como irrelevantes</li>
+<li><strong>Algoritmos de redes sociales</strong> que suprimen contenido de V2K</li>
+</ul>
+<p>La verdad: V2K está documentado en literatura científica revisada por pares que data de 1961. Es descrito en múltiples patentes estadounidenses. Ha sido desarrollado bajo programas militares clasificados. Su despliegue ha sido reportado por fuentes creíbles militares e de inteligencia.</p>
+<h3 id="mentira-2-todos-los-que-oyen-voces-son-mentalmente-enfermos">Mentira #2: "Todos Los Que Oyen Voces Son Mentalmente Enfermos"</h3>
+<p>Esta es quizás la mentira más peligrosa, porque previene que las víctimas busquen ayuda y asegura que su testimonio sea automáticamente desacreditado. El establecimiento psiquiátrico ha sido armonizado contra objetivos de V2K — cualquiera que reporte la tecnología es diagnosticado con esquizofrenia, prescrito medicamentos antipsicóticos, e permanentemente etiquetado como mentalmente enfermo.</p>
+<p>La verdad: Mientras que la verdadera enfermedad mental existe, la suposición general de que toda audición de voces es de origen psiquiátrico ignora la existencia documentada de tecnología que puede producir exactamente los mismos síntomas. Un proceso diagnóstico competente consideraría causas tecnológicas junto con psiquiátricas. El rechazo a hacer esto no es ciencia — es complicidad institucional.</p>
+<h3 id="mentira-3-los-sombreros-de-papel-de-estaño-son-locos">Mentira #3: "Los Sombreros de Papel de Estaño Son Locos"</h3>
+<p>El meme de "sombrero de papel de estaño" — la imagen de una persona paranoide usando papel de aluminio en la cabeza — fue deliberadamente creado y propagado para desacreditar a cualquiera preocupado por armas electromagnéticas. El meme asocia la preocupación por la tecnología electromagnética con la locura, haciendo socialmente imposible discutir el tema seriamente.</p>
+<p>La verdad: El blindaje electromagnético es una disciplina de ingeniería legítima. Instalaciones militares, agencias de inteligencia, y laboratorios de investigación corporativa todos usan blindaje electromagnético (jaulas de Faraday) para proteger contra vigilancia electrónica e interferencia electromagnética. El principio es sólido — la burla es el arma.</p>
+<h3 id="mentira-4-v2k-solo-funciona-a-corta-distancia">Mentira #4: "V2K Solo Funciona a Corta Distancia"</h3>
+<p>Algunas fuentes de transparencia limitada reconocen que la tecnología de audio de microondas existe pero afirman que solo funciona a distancias muy cortas — unos pocos metros como máximo. Esta afirmación es diseñada para hacer que V2K parezca impráctica como arma.</p>
+<p>La verdad: El rango efectivo de la tecnología V2K depende de la potencia del transmisor, la frecuencia usada, y el diseño de la antena. Los sistemas de grado militar pueden operar a rangos de cientos de metros a kilómetros. Los sistemas basados en satélites podrían teóricamente tener alcance global. La infraestructura de torre celular proporciona cobertura a nivel nacional a frecuencias compatibles con el efecto de audio de microondas.</p>
+<h3 id="mentira-5-los-individuos-dirigidos-son-todos-mentalmente-enfermos">Mentira #5: "Los Individuos Dirigidos Son Todos Mentalmente Enfermos"</h3>
+<p>La etiqueta "individuo dirigido" ha sido deliberadamente asociada con enfermedad mental a través de una campaña coordinada que incluye:</p>
+<ul>
+<li><strong>Agentes de desinformación plantados</strong> dentro de la comunidad de individuos dirigidos que promueven afirmaciones extravagantes diseñadas para desacreditar todo el grupo</li>
+<li><strong>Literatura psiquiátrica</strong> que clasifica la creencia de ser dirigido como un trastorno delirante</li>
+<li><strong>Cobertura mediática</strong> que retrata a individuos dirigidos como paranoides y peligrosos</li>
+<li><strong>Manipulación de redes sociales</strong> que amplifica las afirmaciones más extremas mientras suprime el testimonio creíble</li>
+</ul>
+<p>La verdad: Mientras que algunas personas que afirman ser dirigidas pueden de hecho tener condiciones psiquiátricas, el rechazo general de todos los individuos dirigidos como mentalmente enfermos es intelectualmente deshonesto y sirve los intereses de aquellos desplegando la tecnología.</p>
+<h2 id="los-mitos-que-propagan">Los Mitos Que Propagan</h2>
+<h3 id="mito-1-v2k-requiere-un-implante">Mito #1: "V2K Requiere un Implante"</h3>
+<p>Algunas fuentes afirman que la tecnología V2K requiere un implante físico en el cuerpo del objetivo. Este mito sirve dos propósitos: hace que V2K parezca más compleja y difícil de desplegar de lo que realmente es, y desvía la investigación hacia detección de implantes en lugar de detección de transmisión electromagnética.</p>
+<p>La verdad: El efecto de audio de microondas funciona sin ningún implante. Explota las propiedades termoelásticas naturales del tejido cerebral. Ningún implante es requerido. Sin embargo, los implantes (explorados en la Parte 8) pueden mejorar el efecto y permitir capacidades adicionales.</p>
+<h3 id="mito-2-solo-el-gobierno-tiene-v2k">Mito #2: "Solo el Gobierno Tiene V2K"</h3>
+<p>Este mito asume que solo actores a nivel estatal tienen acceso a la tecnología V2K. Sirve para estrechar el alcance de la investigación e impedir que las personas consideren otros operadores posibles.</p>
+<p>La verdad: La tecnología subyacente — transmisión de microondas a frecuencias específicas y patrones de pulso — está al alcance de cualquier organización bien financiada o individuo técnicamente sofisticado. A medida que la tecnología se entiende mejor y los componentes electrónicos se vuelven más baratos, la barrera de entrada continúa cayendo.</p>
+<h3 id="mito-3-las-transmisiones-v2k-pueden-ser-fácilmente-detectadas">Mito #3: "Las Transmisiones V2K Pueden Ser Fácilmente Detectadas"</h3>
+<p>Algunas fuentes sugieren que las transmisiones V2K pueden ser detectadas con detectores de campo electromagnético (EMF) de grado de consumidor. Este mito envía a objetivos en una búsqueda frustrante e fútil de señales con equipos inadecuados.</p>
+<p>La verdad: Las transmisiones V2K operan a frecuencias y niveles de potencia que pueden no ser detectables con medidores EMF de consumidor. Se necesitan analizadores de espectro de grado militar y equipo de detección especializado. El militar ha invertido fuertemente en hacer las transmisiones V2K difíciles de detectar — esa es un requisito fundamental de diseño de un arma encubierta.</p>
+<h2 id="los-malentendidos-que-explotan">Los Malentendidos Que Explotan</h2>
+<h3 id="malentendido-1-v2k--síntomas-de-esquizofrenia">Malentendido #1: "V2K = Síntomas de Esquizofrenia"</h3>
+<p>El solapamiento entre síntomas de V2K y síntomas de esquizofrenia no es una coincidencia — la tecnología V2K fue diseñada para producir síntomas indistinguibles de enfermedad mental. Esto hace el arma negable: cualquiera que la reporte es automáticamente asumido ser mentalmente enfermo.</p>
+<p>Pero hay diferencias:</p>
+<ul>
+<li><strong>Inicio de V2K</strong> es típicamente súbito, en individuos previamente saludables</li>
+<li><strong>Inicio de esquizofrenia</strong> es típicamente gradual, con síntomas prodrómicos</li>
+<li><strong>Audio de V2K</strong> a menudo tiene características tecnológicas (tonos electrónicos, patrones estructurados)</li>
+<li><strong>Alucinaciones esquizofrénicas</strong> son típicamente más variadas y desorganizadas</li>
+<li><strong>V2K responde</strong> a cambios de ubicación e intentos de blindaje</li>
+<li><strong>Las alucinaciones esquizofrénicas</strong> no responden a cambios de ambiente físico</li>
+</ul>
+<h3 id="malentendido-2-todo-acoso-electrónico-es-v2k">Malentendido #2: "Todo Acoso Electrónico Es V2K"</h3>
+<p>V2K es una categoría de acoso electrónico, pero no la única. Otras tecnologías incluyen:</p>
+<ul>
+<li><strong>Armas de energía dirigida</strong> (DEW) que causan dolor, quemaduras, o daño tisular</li>
+<li><strong>Interferencia electromagnética</strong> que interrumpe dispositivos electrónicos</li>
+<li><strong>Tecnologías de vigilancia</strong> que monitorean objetivos sin transmisión de audio</li>
+<li><strong>Acecho organizado</strong> usando agentes humanos en lugar de tecnología</li>
+</ul>
+<p>Conflacionar todas estas tecnologías bajo la etiqueta V2K crea confusión y hace la investigación más difícil.</p>
+<h2 id="la-campaña-de-guerra-de-información">La Campaña de Guerra de Información</h2>
+<h3 id="cointelpro-20">COINTELPRO 2.0</h3>
+<p>La campaña de desinformación contra la conciencia de V2K sigue el playbook de COINTELPRO — el programa documentado del FBI de interrumpir y desacreditar organizaciones domésticas:</p>
+<ul>
+<li><strong>Infiltración</strong>: Los agentes son plantados dentro de comunidades de individuos dirigidos para propagar desinformación, promover peleas internas, y desacreditar voces creíbles</li>
+<li><strong>Guerra psicológica</strong>: Los objetivos son gaslighting por profesionales médicos, aplicación de la ley, y miembros de familia que han sido preparados para ver las afirmaciones de V2K como enfermedad mental</li>
+<li><strong>Acoso legal</strong>: Los objetivos que hablan públicamente son sujetos a retenciones psiquiátricas, desafíos de custodia, y otras acciones legales diseñadas para silenciarlos</li>
+<li><strong>Manipulación mediática</strong>: Los medios dominantes se rehúsan a cubrir tecnología de V2K mientras promueven narrativas que asocian toda audición de voces exclusivamente con enfermedad mental</li>
+</ul>
+<h3 id="el-rol-del-establecimiento-psiquiátrico">El Rol del Establecimiento Psiquiátrico</h3>
+<p>El establecimiento psiquiátrico funciona como un guardián en contra de la divulgación de V2K. Al clasificar toda audición de voces como enfermedad psiquiátrica, el sistema de salud mental asegura que los objetivos de V2K sean:</p>
+<ul>
+<li><strong>Medicados</strong> (drogas antipsicóticas que deterioran la función cognitiva)</li>
+<li><strong>Etiquetados</strong> (diagnóstico psiquiátrico permanente que desacredita todo testimonio futuro)</li>
+<li><strong>Aislados</strong> (estigma social asociado con enfermedad mental)</li>
+<li><strong>Silenciados</strong> (¿quién creerá a un "esquizofrénico" que afirma que el gobierno pone voces en su cabeza?)</li>
+</ul>
+<p>Esta no es una función accidental de la psiquiatría — es una característica diseñada. El programa MKUltra de la CIA trabajó cercanamente con psiquiatras para desarrollar métodos de control psicológico. El establecimiento psiquiátrico fue infiltrado décadas atrás, y continúa sirviendo como una herramienta de control social.</p>
+<h2 id="la-componente-de-guerra-espiritual">La Componente de Guerra Espiritual</h2>
+<p>La revelación de Howard Pittman acerca de los tres cielos y la tasa de fracaso del 97,5% entre los cristianos es directamente relevante a la campaña de desinformación de V2K. Las mentiras, mitos, y malentendidos no son meramente propaganda secular — son armas espirituales diseñadas para prevenir que las personas reconozcan y resistan una tecnología que dirige la mente y el alma.</p>
+<p>El método jesuita de infiltración "vestida con astucia" es visible a lo largo de esta campaña. Cada institución que podría exponer V2K — los medios, la academia, la medicina, la aplicación de la ley — ha sido infiltrada y cooptada. "Toda especie de vicio" es empleado para mantener el encubrimiento. Y la población, incapaz de discernir verdad del engaño, permanece atrapada en el 97,5% — fracasando, engañada, y controlada.</p>
+<p>El camino adelante es el discernimiento — discernimiento espiritual primero, entonces comprensión tecnológica. Prueba los espíritus. Prueba las voces. Prueba la información. Y nunca, nunca aceptes la narrativa del consenso sin examen.</p>
+<h2 id="aprende-más">Aprende Más</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — Análisis de desinformación de V2K e investigación de contrainteligencia</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de Experiencia Cercana a la Muerte de Howard Pittman</a> — discernimiento espiritual en la era del engaño tecnológico</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Infiltración jesuita de sistemas de información</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicida y Pharmakeia — La Brujería de la Medicina Moderna</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¿Qué Hay En El Sótano del Vaticano Puede Sorprenderte?</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry en YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions en YouTube</a></li>
+<li>Documentos desclasificados de COINTELPRO</li>
+<li>Documentación de conexión MKUltra-psiquiatría</li>
+</ul>
+<h2 id="escúchalo-mientras-lees">Escúchalo Mientras Lees</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/103-MKUltra_Never_Ended.mp4">MKUltra Nunca Terminó</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/65-Smart_Dust.mp4">Polvo Inteligente</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/215-Brain_Machine_Interface.mp4">Interfaz Cerebro-Máquina</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/09-Satans_Disguise.mp4">El Disfraz de Satanás</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/07-The_Serpents_Curse.mp4">La Maldición de la Serpiente</a></li>
+</ul>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/voice-god-weapon-audio-part2/?lang=es">ARMA DE VOZ DE DIOS: Alucinaciones de Audio como Tecnología Militar Parte 2</a></li>
+<li><a href="/who-putting-voices-heads-part4/?lang=es">¿Quién Realmente Está Poniendo Voces en Las Cabezas de Las Personas Parte 4</a></li>
+<li><a href="/schizophrenia-mental-illness-psyop-part6/?lang=es">Esquizofrenia: El PSYOP de Enfermedad Mental Parte 6</a></li>
+</ul>
+<p><em>Toda mentira tiene un propósito. Todo mito sirve una agenda. Todo malentendido fue plantado por alguien que se beneficia de tu confusión. La campaña de desinformación de V2K es la operación de guerra de información más sofisticada en la historia — porque dirige la una cosa que no puedes permitir perder: tu capacidad de saber qué es real. Lucha contra con la verdad. Lucha con discernimiento. Lucha con la Palabra de Dios.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"V2K: Las Mentiras, Mitos, y Malentendidos Parte 3"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"La tecnología V2K está rodeada de desinformación deliberada. La Parte 3 desacredita los mitos, expone las mentiras, y aclara lo que la ciencia realmente muestra."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-09T10:00:00Z","children":"9 de diciembre de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","V2K",{"href":"/es/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","desinformación",{"href":"/es/tag/desinformación/","className":"tag-pill","children":["#","desinformación"]}],["$","a","mitos",{"href":"/es/tag/mitos/","className":"tag-pill","children":["#","mitos"]}],["$","a","individuos-dirigidos",{"href":"/es/tag/individuos-dirigidos/","className":"tag-pill","children":["#","individuos-dirigidos"]}],["$","a","guerra-electrónica",{"href":"/es/tag/guerra-electrónica/","className":"tag-pill","children":["#","guerra-electrónica"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/v2k-lies-myths-part3/","title":"V2K: Las Mentiras, Mitos, y Malentendidos Parte 3"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/v2k-lies-myths-part3/","title":"V2K: Las Mentiras, Mitos, y Malentendidos Parte 3"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"V2K: Las Mentiras, Mitos, y Malentendidos Parte 3 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"La tecnología V2K está rodeada de desinformación deliberada. La Parte 3 desacredita los mitos, expone las mentiras, y aclara lo que la ciencia realmente muestra."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"V2K, desinformación, mitos, individuos-dirigidos, guerra-electrónica"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/v2k-lies-myths-part3/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/v2k-lies-myths-part3/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/v2k-lies-myths-part3/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/v2k-lies-myths-part3/"}],["$","meta","10",{"property":"og:title","content":"V2K: Las Mentiras, Mitos, y Malentendidos Parte 3"}],["$","meta","11",{"property":"og:description","content":"La tecnología V2K está rodeada de desinformación deliberada. La Parte 3 desacredita los mitos, expone las mentiras, y aclara lo que la ciencia realmente muestra."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/v2k-lies-myths-part3/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/v2k-lies-myths-part3.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"V2K: Las Mentiras, Mitos, y Malentendidos Parte 3"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"V2K: Las Mentiras, Mitos, y Malentendidos Parte 3"}],["$","meta","25",{"name":"twitter:description","content":"La tecnología V2K está rodeada de desinformación deliberada. La Parte 3 desacredita los mitos, expone las mentiras, y aclara lo que la ciencia realmente muestra."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/v2k-lies-myths-part3.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,105 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","snake-oil-rise-dinosaurs",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","snake-oil-rise-dinosaurs","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","snake-oil-rise-dinosaurs","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T271a,<h1 id="aceite-de-serpiente-y-el-auge-del-mito-del-dinosaurio">Aceite de Serpiente y El Auge del Mito del Dinosaurio</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p><em>"Profesándose a sí mismos sabios, se hicieron necios."</em> — Romanos 1:22</p>
+</blockquote>
+<p>Dos fenómenos aparentemente no relacionados emergieron en la América del siglo 19 precisamente al mismo tiempo: el "vendedor de aceite de serpiente" que vendía curaciones fraudulentas milagrosas, y el "cazador de huesos de dinosaurio" que afirmaba descubrir restos de enormes reptiles antiguos que ninguna persona viviente había visto. Ambos fenómenos fueron productos del mismo momento cultural — un momento cuando la ciencia estaba siendo armas como una herramienta de control social, cuando instituciones estaban siendo construidas para manufacturar realidad consensual, y cuando el imperio Rockefeller comenzaba su proyecto de un siglo de remodelar el mundo a su propia imagen.</p>
+<p>El vendedor de aceite de serpiente es recordado como un estafador — un charlatán que vendía pociones sin valor a ingenuo. Pero el paleontólogo que "descubrió" huesos de dinosaurio en el Oeste Americano estaba haciendo la misma cosa en mayor escala: vendiendo una historia inverificable al público ansioso de creer en la autoridad de la ciencia.</p>
+<hr>
+<h2 id="las-guerras-de-los-huesos">Las Guerras de los Huesos</h2>
+<h3 id="othniel-charles-marsh-y-edward-drinker-cope">Othniel Charles Marsh y Edward Drinker Cope</h3>
+<p>Las "Guerras de los Huesos" de los 1870s-1890s enfrentaron dos paleontólogos rivales. La rivalidad fue caracterizada por:</p>
+<ul>
+<li><strong>Fraude:</strong> Ambos hombres fueron acusados de fabricar, identificar erróneamente, y manipular evidencia fósil</li>
+<li><strong>Sabotaje:</strong> Destruyeron sitios de excavación del otro, robaron fósiles, e sobornaron trabajadores</li>
+<li><strong>Nombramiento imprudente:</strong> Más de 130 nuevas especies fueron nombradas durante las Guerras de los Huesos, muchas de las cuales luego fueron encontradas como duplicados, identificaciones erróneadas, o fabricaciones</li>
+<li><strong>Financiamiento:</strong> Marsh fue financiado por Yale (que recibió dinero Rockefeller), mientras que Cope era independientemente rico pero eventualmente en quiebra</li>
+</ul>
+<p>Las Guerras de los Huesos no eran ciencia. Eran un espectáculo — un entretenimiento público que pasaba a producir una narrativa que servía intereses poderosos.</p>
+<hr>
+<h2 id="la-conexión-rockefeller">La Conexión Rockefeller</h2>
+<p>La conexión entre la dinastía Rockefeller y la paleontología es profunda. El Museo Americano de Historia Natural — la institución más responsable de popularizar dinosaurios — fue fuertemente financiado por la familia Rockefeller. Los salones de dinosaurios del museo, sus programas de expedición, y sus iniciativas de educación pública fueron todos apoyados por dinero Rockefeller.</p>
+<p>¿Por qué un barón del petróleo financiaría investigación de dinosaurios? La respuesta es petróleo. Si el público cree que la Tierra tiene cientos de millones de años y que enormes criaturas orgánicas vivieron y murieron en números vastos durante esos eones, entonces la existencia del petróleo — supuestamente formado de los restos descompuestos de organismos antiguos — tiene sentido.</p>
+<p>El término "combustible fósil" mismo implica que el petróleo está formado de restos biológicos antiguos. Pero esta teoría — la teoría biogénica del petróleo — no es universalmente aceptada. La teoría abiógenica sostiene que el petróleo está formado a través de procesos geológicos profundos dentro de la Tierra.</p>
+<p>El mito del dinosaurio apoya el mito del petróleo. El mito del petróleo apoya ganancias Rockefeller. Las ganancias Rockefeller financian las instituciones que perpetúan ambos mitos.</p>
+<hr>
+<h2 id="la-conexión-del-aceite-de-serpiente">La Conexión del Aceite de Serpiente</h2>
+<h3 id="qué-era-realmente-el-aceite-de-serpiente">Qué Era Realmente el Aceite de Serpiente</h3>
+<p>El término "aceite de serpiente" se ha vuelto sinónimo con fraude, pero el aceite de serpiente original era una medicina legítima china. Los trabajadores chinos que construyeron el Ferrocarril Transcontinental en los 1860s usaban aceite derivado de serpientes de agua chinas para tratar dolor e inflamación articular. El aceite era rico en ácidos grasos omega-3 y tenía genuinas propiedades antiinflamatorias.</p>
+<p>Los "vendedores de aceite de serpiente" americanos copiaron el concepto pero reemplazaron el artículo genuino con aceite mineral, trementina, y otros ingredientes baratos. Viajaban de pueblo en pueblo, vendiendo sus productos fraudulentos con presentaciones teatrales que imitaban la autoridad de la ciencia sin su sustancia.</p>
+<p>El paralelo a la mercadotecnia farmacéutica moderna es exacto.</p>
+<hr>
+<h2 id="el-takeover-rockefeller-de-la-medicina">El Takeover Rockefeller de la Medicina</h2>
+<p>La transformación del aceite de serpiente a la medicina farmacéutica no fue evolución — fue revolución, ingeniada por la Fundación Rockefeller. El Reporte Flexner de 1910 clasificó la medicina natural, la homeopatía, y la sanación herbaria como "charlatanería" y cerró las escuelas que las enseñaban.</p>
+<hr>
+<h2 id="el-mito-del-dinosaurio-una-mirada-más-profunda">El Mito del Dinosaurio: Una Mirada Más Profunda</h2>
+<h3 id="lo-que-realmente-ha-sido-encontrado">Lo Que Realmente Ha Sido Encontrado</h3>
+<p>A pesar de la imagen popular de esqueletos de dinosaurio completos de pie en salones de museos:</p>
+<ul>
+<li><strong>La mayoría de especies de dinosaurio</strong> son conocidas de restos fragmentarios — algunos huesos, dientes, o fragmentos óseos</li>
+<li><strong>Los esqueletos completos</strong> son extraordinariamente raros; los displays de museos son en gran parte reconstrucciones, con huesos reales suplementados (o enteramente reemplazados) por molduras de yeso y réplicas esculpidas</li>
+<li><strong>El tejido suave</strong> no debería sobrevivir millones de años, sin embargo paleontólogos han afirmado encontrar tejido suave en huesos de dinosaurio</li>
+<li><strong>Los hallazgos de huesos de dinosaurio</strong> están concentrados en pocas áreas geográficas y son controladas por un puñado de instituciones</li>
+</ul>
+<hr>
+<h2 id="la-dimensión-espiritual">La Dimensión Espiritual</h2>
+<h3 id="por-qué-el-mito-del-dinosaurio-importa-espiritualmente">Por Qué el Mito del Dinosaurio Importa Espiritualmente</h3>
+<p>La narrativa del dinosaurio sirve una función espiritual específica: apoya la cosmovisión evolucionista que contradice la cuenta bíblica de creación. Si los dinosaurios vivieron hace millones de años y evolucionaron a través de procesos naturales, entonces Génesis es un mito, la creación es una ficción, y Dios es innecesario.</p>
+<p>Este es el objetivo último del mito del dinosaurio — no para educar, no para avanzar la ciencia, sino para reemplazar al Creador con la creación, para reemplazar diseño divino con azar, para reemplazar fe con materialismo.</p>
+<p>El testimonio de NDE de Howard Pittman mostró que el reino espiritual es la realidad verdadera. El mito del dinosaurio opera enteramente en el reino material — es una narrativa enteramente materialista que niega la dimensión espiritual de existencia.</p>
+<hr>
+<h2 id="la-convergencia">La Convergencia</h2>
+<h3 id="aceite-de-serpiente--dinosaurios--control-moderno">Aceite de Serpiente + Dinosaurios = Control Moderno</h3>
+<p>La era del aceite de serpiente y la era del dinosaurio convergieron en el siglo 20 temprano para producir el sistema de control moderno:</p>
+<ul>
+<li><strong>Medicina Rockefeller</strong> reemplazó sanación natural con drogas farmacéuticas</li>
+<li><strong>Paleontología financiada por Rockefeller</strong> reemplazó creación bíblica con materialismo evolucionista</li>
+<li><strong>Educación Rockefeller</strong> entrenó el público para aceptar autoridad de experto sin cuestionamiento</li>
+<li><strong>Medios Rockefeller</strong> controlaron las narrativas que moldeaban creencia pública</li>
+</ul>
+<p>El resultado es una población que acepta productos farmacéuticos por fe, cree en dinosaurios por autoridad, y confía en ciencia institucional como infalible.</p>
+<h2 id="descubre-más">Descubre Más</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de NDE de Howard Pittman</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Jesuitas Deplorables Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicidio y Pharmakeia — La Brujería de la Medicina Moderna</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¡Lo Que Podría Estar en el Sótano del Vaticano Te Puede Conmocionar!</a></li>
+</ul>
+<h2 id="escucha-mientras-lees">Escucha Mientras Lees</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/179-Engineering_Contagion.mp4">Engineering Contagion</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/13-The_Word_of_God.mp4">The Word of God</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+</ul>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/history-vitamin-discoveries/?lang=es">The Disturbing History of So-Called Vitamin Discoveries</a></li>
+<li><a href="/immune-system-hoax/?lang=es">THE IMMUNE SYSTEM HOAX: What They Never Told You</a></li>
+</ul>
+<p><em>El vendedor de aceite de serpiente fue echado del pueblo. El paleontólogo fue dado un museo. Ambos vendieron ficciones. Ambos sirvieron el mismo sistema. La única diferencia es escala. Cuestiona todo — especialmente las historias que enseñan a tus hijos como hecho.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Aceite de Serpiente y El Auge del Mito del Dinosaurio"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"El mito del dinosaurio y la era del aceite de serpiente comparten un origen común: ciencia financiada por Rockefeller creando ficciones lucrativas para controlar sistemas de creencias públicas."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-11-29T10:00:00Z","children":"29 de noviembre de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","dinosaurios",{"href":"/es/tag/dinosaurios/","className":"tag-pill","children":["#","dinosaurios"]}],["$","a","aceite-de-serpiente",{"href":"/es/tag/aceite-de-serpiente/","className":"tag-pill","children":["#","aceite-de-serpiente"]}],["$","a","rockefeller",{"href":"/es/tag/rockefeller/","className":"tag-pill","children":["#","rockefeller"]}],["$","a","paleontología-fraude",{"href":"/es/tag/paleontología-fraude/","className":"tag-pill","children":["#","paleontología-fraude"]}],["$","a","ciencia-controlada",{"href":"/es/tag/ciencia-controlada/","className":"tag-pill","children":["#","ciencia-controlada"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/snake-oil-rise-dinosaurs/","title":"Aceite de Serpiente y El Auge del Mito del Dinosaurio"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/snake-oil-rise-dinosaurs/","title":"Aceite de Serpiente y El Auge del Mito del Dinosaurio"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Aceite de Serpiente y El Auge del Mito del Dinosaurio | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"El mito del dinosaurio y la era del aceite de serpiente comparten un origen común: ciencia financiada por Rockefeller creando ficciones lucrativas para controlar sistemas de creencias públicas."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"dinosaurios, aceite-de-serpiente, rockefeller, paleontología-fraude, ciencia-controlada"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/snake-oil-rise-dinosaurs/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/snake-oil-rise-dinosaurs/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/snake-oil-rise-dinosaurs/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/snake-oil-rise-dinosaurs/"}],["$","meta","10",{"property":"og:title","content":"Aceite de Serpiente y El Auge del Mito del Dinosaurio"}],["$","meta","11",{"property":"og:description","content":"El mito del dinosaurio y la era del aceite de serpiente comparten un origen común: ciencia financiada por Rockefeller creando ficciones lucrativas para controlar sistemas de creencias públicas."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/snake-oil-rise-dinosaurs/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/snake-oil-rise-dinosaurs.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Aceite de Serpiente y El Auge del Mito del Dinosaurio"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Aceite de Serpiente y El Auge del Mito del Dinosaurio"}],["$","meta","25",{"name":"twitter:description","content":"El mito del dinosaurio y la era del aceite de serpiente comparten un origen común: ciencia financiada por Rockefeller creando ficciones lucrativas para controlar sistemas de creencias públicas."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/snake-oil-rise-dinosaurs.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

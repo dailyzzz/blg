@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pedophiles-infiltrated-government-part1",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pedophiles-infiltrated-government-part1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pedophiles-infiltrated-government-part1","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T2091,<h1 id="los-pedófilos-han-infiltrado-el-gobierno-parte-1">Los Pedófilos han Infiltrado el Gobierno: Parte 1</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p>"Cualquiera que cause que uno de estos pequeños tropiece, sería mejor para él que una piedra de molino grande fuera colgada alrededor de su cuello y que fuera ahogado en las profundidades del mar." — Mateo 18:6</p>
+</blockquote>
+<p>El abuso infantil sistemático ha existido en instituciones gubernamentales, policiales, militares, y eclesiásticas durante décadas. No es un accidente. No es una anomalía. Es un patrón — un patrón de selección deliberada, protección institucional, y silencio forzado que ha permitido que depredadores operen con impunidad dentro de sistemas que fueron construidos para proteger a los niños.</p>
+<p>Como <a href="https://confliction.zzzdaily.com/tracks/es/73-The_Fallen_Angels.mp4">Los Caídos Ángeles</a> del álbum Confliction advierte, la rebelión en el cielo fue fundamentalmente sobre la corrupción de la inocencia. Los ángeles caídos que sedujeron a las mujeres humanas e hijos de Dios cometieron los primeros actos de abuso sexual en registros bíblicos (Génesis 6:1-4). La rebelión satánica continúa a través de la depredación sexual de niños — una imitación de la rebelión celestial a nivel terrenal.</p>
+<p>Los Jesuitas, como se describe en <em>Confidencial Católico</em>, han sido históricamente protectores de depredadores dentro del sistema eclesiástico. La documentación del abuso sexual clerical y la cobertura sistemática a través de la orden jesuita es abundante. El mismo patrón de protección — transferencia de sacerdotes acusados a nuevas parroquias, pago de silencio a víctimas, documentos destruidos — aparece ahora en gobiernos civiles.</p>
+<hr>
+<h2 id="los-patrones-de-infiltración">Los Patrones de Infiltración</h2>
+<h3 id="selección-para-posiciones">Selección para Posiciones</h3>
+<p>Los depredadores son sistemáticamente colocados en posiciones donde tienen acceso a niños:</p>
+<ul>
+<li><strong>Agencias de aplicación de la ley</strong>: Los oficiales de policía con historiales de abuso sexual han sido promovidos a posiciones de supervisión de investigaciones de abuso infantil</li>
+<li><strong>Servicios de protección infantil</strong>: Los trabajadores sociales acusados de negligencia en casos de abuso han sido reubicados en agencias donde supervisan investigaciones de abuso</li>
+<li><strong>Fuerzas militares</strong>: Los instructores acusados de abuso sexual han sido transferidos a bases donde entrenan reclutas jóvenes</li>
+<li><strong>Educación</strong>: Los maestros acusados han sido reubicados en escuelas donde tienen acceso a estudiantes</li>
+</ul>
+<p>Este patrón no es aleatorio. Es sistemático. Sugiere que los depredadores no son accidentalmente colocados en posiciones de acceso a niños. Están deliberadamente colocados.</p>
+<h3 id="protección-institucional">Protección Institucional</h3>
+<p>Una vez colocado, el depredador es protegido:</p>
+<ul>
+<li>Las acusaciones son archivadas sin investigación</li>
+<li>Los testigos son presionados para que se retracten</li>
+<li>La documentación de abuso es destruida</li>
+<li>Las víctimas son amenazadas</li>
+<li>Los denunciantes son atacados profesionalmente</li>
+</ul>
+<p>El patrón es consistente a través de jurisdicciones, agencias y décadas. Sugiere una política de nivel superior — una decisión institucional de proteger a los depredadores.</p>
+<hr>
+<h2 id="el-silencio-forzado">El Silencio Forzado</h2>
+<h3 id="la-amenaza-a-los-denunciantes">La Amenaza a los Denunciantes</h3>
+<p>Los que intentan denunciar abuso dentro de agencias gubernamentales enfrentan represalias sistemáticas:</p>
+<ul>
+<li>Los oficiales de policía que reportan abuso sexual en departamentos de policía son transferidos a turnos indeseables, falsos cargos son presentados en su contra, sus carreras son destruidas</li>
+<li>Los trabajadores sociales que reportan abuso en agencias de protección infantil son despedidos</li>
+<li>Los militares que reportan abuso en unidades militares enfrentan cortes marciales</li>
+<li>Los maestros que reportan abuso en sistemas escolares pierden sus certificaciones</li>
+</ul>
+<p>La represalia no es formal. Es ejecutada a través de canales que proporcionan negabilidad plausible. Pero el efecto es idéntico: los denunciantes son silenciados.</p>
+<h3 id="la-destrucción-de-documentación">La Destrucción de Documentación</h3>
+<p>Las investigaciones de abuso dentro de agencias gubernamentales resultan consistentemente en la destrucción de documentación:</p>
+<ul>
+<li>Los registros de investigación interna son archivados como "confidencial" y nunca se hacen públicos</li>
+<li>Los archivos de abuso en agencias de servicios infantiles son "perdidos"</li>
+<li>Los registros militares que documentan abuso sexual son sellados</li>
+<li>Los expedientes escolares que documentan acusaciones son destruidos</li>
+</ul>
+<p>Cada destrucción de documentación es un acto de cobertura deliberada.</p>
+<hr>
+<h2 id="casos-documentados">Casos Documentados</h2>
+<h3 id="la-agencia-de-servicios-infantiles">La Agencia de Servicios Infantiles</h3>
+<p>En un estado del Medio Oeste, investigaciones periodísticas revelaron que la agencia estatal de servicios infantiles empleaba a trabajadores sociales con historiales de negligencia comprobada en casos de abuso infantil. Cuando se hicieron estas acusaciones públicas, la agencia no investigó a los trabajadores. Destruyó los registros de abuso que llevaban.</p>
+<p>El patrón fue identificado: trabajadores que fallaron en proteger a niños no fueron removidos. Fueron reubicados a nuevos territorios donde sus errores previos no eran conocidos.</p>
+<h3 id="el-departamento-de-policía">El Departamento de Policía</h3>
+<p>En una ciudad importante, documentación obtenida a través de Libertad de Información mostró que los oficiales de policía acusados de abuso sexual fueron transferidos a la Unidad de Crímenes Sexuales — donde supervisan investigaciones de violación infantil. Los oficiales que reportaron estos transferencias fueron reubicados a turnos de medianoche en barrios peligrosos.</p>
+<h3 id="la-instalación-militar">La Instalación Militar</h3>
+<p>En una base militar, denunciantes internos documentaron que instructores acusados de acoso sexual de reclutas jóvenes fueron promovidos a posiciones donde tenían acceso expandido a nuevos reclutas. Cuando un oficial de rango superior intentó investigar, fue sometido a una corte marcial en cargos no relacionados — cargos que fueron desestimados después de su remoción de la base.</p>
+<hr>
+<h2 id="el-patrón-jesuita">El Patrón Jesuita</h2>
+<p>Los Jesuitas, como se describe en <em>Confidencial Católico</em>, perfeccionaron el patrón de protección de depredadores en la iglesia. La orden es descrita como:</p>
+<ul>
+<li>Infiltración "cloaked with cunning" (disfrazada con astucia)</li>
+<li>Obediencia ciega a los órdenes superiores</li>
+<li>"Every species of vice" (toda especie de vicio)</li>
+</ul>
+<p>El mismo patrón aparece en gobiernos civiles. La orden puede cambiar. La metodología es idéntica.</p>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman testimonio de ECD - Advertencia de fin de los tiempos de Dios</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Jesuitas Deplorables Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¿Qué hay en el sótano del Vaticano puede sorprenderte!</a></li>
+</ul>
+<hr>
+<p><em>Los depredadores no son plagas que invaden instituciones por accidente. Están sistemáticamente seleccionados, colocados, y protegidos. El silencio que rodea el abuso infantil en agencias gubernamentales no es un fracaso de supervisión. Es una política de nivel superior. El patrón que se extiende a través de décadas, agencias, y jurisdicciones sugiere un sistema — un sistema que prioriza la protección de depredadores sobre la protección de niños. Pero hay Un Poder contra el cual tales sistemas no pueden prevalecer. El que está en vosotros es mayor que el que está en el mundo.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Los Pedófilos han Infiltrado el Gobierno: Parte 1"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Parte 1 de una investigación sobre la infiltración pediófila en el gobierno. Patrones jesuitas de protección institucional y silencio."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-01-20T10:00:00Z","children":"20 de enero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pedophiles",{"href":"/es/tag/pedophiles/","className":"tag-pill","children":["#","pedophiles"]}],["$","a","government",{"href":"/es/tag/government/","className":"tag-pill","children":["#","government"]}],["$","a","infiltration",{"href":"/es/tag/infiltration/","className":"tag-pill","children":["#","infiltration"]}],["$","a","institutional-cover-up",{"href":"/es/tag/institutional-cover-up/","className":"tag-pill","children":["#","institutional-cover-up"]}],["$","a","part1",{"href":"/es/tag/part1/","className":"tag-pill","children":["#","part1"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pedophiles-infiltrated-government-part1/","title":"Los Pedófilos han Infiltrado el Gobierno: Parte 1"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pedophiles-infiltrated-government-part1/","title":"Los Pedófilos han Infiltrado el Gobierno: Parte 1"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Los Pedófilos han Infiltrado el Gobierno: Parte 1 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Parte 1 de una investigación sobre la infiltración pediófila en el gobierno. Patrones jesuitas de protección institucional y silencio."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pedophiles, government, infiltration, institutional-cover-up, part1"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pedophiles-infiltrated-government-part1/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pedophiles-infiltrated-government-part1/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pedophiles-infiltrated-government-part1/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pedophiles-infiltrated-government-part1/"}],["$","meta","10",{"property":"og:title","content":"Los Pedófilos han Infiltrado el Gobierno: Parte 1"}],["$","meta","11",{"property":"og:description","content":"Parte 1 de una investigación sobre la infiltración pediófila en el gobierno. Patrones jesuitas de protección institucional y silencio."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pedophiles-infiltrated-government-part1/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pedophiles-infiltrated-government-part1.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Los Pedófilos han Infiltrado el Gobierno: Parte 1"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Los Pedófilos han Infiltrado el Gobierno: Parte 1"}],["$","meta","25",{"name":"twitter:description","content":"Parte 1 de una investigación sobre la infiltración pediófila en el gobierno. Patrones jesuitas de protección institucional y silencio."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pedophiles-infiltrated-government-part1.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

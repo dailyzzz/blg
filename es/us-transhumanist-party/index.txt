@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","us-transhumanist-party",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","us-transhumanist-party","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","us-transhumanist-party","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T37ae,<h1 id="el-partido-transhumanista-de-estados-unidos-y-el-poshumanismo-político">El Partido Transhumanista de Estados Unidos y el Poshumanismo Político</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p>"¿Cómo has caído del cielo, oh Lucifer, hijo de la mañana! Pues tú dijiste en tu corazón: Subiré al cielo, enalteceré mi trono sobre las estrellas de Dios... Seré semejante al Altísimo." -- Isaías 14:12-14</p>
+</blockquote>
+<p>El deseo de trascender las limitaciones humanas y ser como Dios no es una filosofía moderna. Es el pecado original. Es la caída de Lucifer. Es la tentación en el Edén. Y ahora es un partido político registrado en los Estados Unidos de América. El Partido Transhumanista de Estados Unidos ha traído la ambición de Lucifer al sistema político estadounidense, abogando por la transformación tecnológica de la humanidad en algo más allá de lo humano -- algo poshumano -- algo que reemplaza el diseño de Dios con la ampliación engineered.</p>
+<p>El movimiento poshumanista político no está ocultando su agenda. Declara abiertamente lo que las agencias de inteligencia, las compañías farmacéuticas y los programas de investigación militar persiguen encubiertamente: la alteración fundamental de la especie humana a través de la tecnología.</p>
+<p>Como <a href="https://confliction.zzzdaily.com/tracks/es/73-The_Fallen_Angels.mp4">Los Ángeles Caídos</a> del álbum Confliction declara, el deseo de ascender más allá de su estación designada es la característica definitoria de la rebelión. Y como <a href="https://confliction.zzzdaily.com/tracks/es/01-Cast_Out_of_Paradise.mp4">Expulsado del Paraíso</a> nos recuerda, las consecuencias de buscar la divinidad a través de medios prohibidos son el exilio, la corrupción y la muerte.</p>
+<hr>
+<h2 id="el-partido-transhumanista-de-estados-unidos">El Partido Transhumanista de Estados Unidos</h2>
+<h3 id="plataforma-y-objetivos">Plataforma y Objetivos</h3>
+<p>El Partido Transhumanista de Estados Unidos, fundado en 2014 por Zoltan Istvan, es un partido político que aboga explícitamente por:</p>
+<p><strong>Extensión Radical de la Vida</strong></p>
+<p>La eliminación de la muerte a través de medios tecnológicos, incluyendo modificación genética, reemplazo de órganos, carga de cerebro y reparación celular basada en nanotecnología. El partido ve la muerte biológica como un problema a ser resuelto en lugar de un aspecto ordenado de la condición humana.</p>
+<p><strong>Ampliación Humana</strong></p>
+<p>El mejoramiento de las capacidades físicas y cognitivas humanas a través de:</p>
+<ul>
+<li>Implantes neurales para mejora cognitiva</li>
+<li>Modificación genética para mejora física</li>
+<li>Nanotecnología para reparación y mejora celular</li>
+<li>Integración cibernética para ampliación sensorial y física</li>
+</ul>
+<p><strong>Libertad Morfológica</strong></p>
+<p>El derecho a modificar el cuerpo de uno de cualquier forma deseada, incluida la modificación a formas no humanas. Esto incluye:</p>
+<ul>
+<li>Modificación de género (que el partido apoya como un subconjunto de derechos morfológicos más amplios)</li>
+<li>Modificación de especies (el derecho a añadir características no humanas)</li>
+<li>Modificación cibernética (el derecho a reemplazar componentes biológicos con tecnológicos)</li>
+<li>Encarnación digital (el derecho a cargar la conciencia en sistemas digitales)</li>
+</ul>
+<p><strong>Derechos Tecnológicos</strong></p>
+<p>El establecimiento de marcos legales que reconozcan:</p>
+<ul>
+<li>El derecho de los sistemas de IA a la personalidad legal</li>
+<li>El derecho a la mejora cognitiva sin restricción</li>
+<li>El derecho a la modificación genética sin barreras regulatorias</li>
+<li>El derecho a la inmortalidad tecnológica</li>
+</ul>
+<h3 id="la-estrategia-política">La Estrategia Política</h3>
+<p>La estrategia política transhumanista opera en múltiples niveles:</p>
+<p><strong>Política Electoral</strong></p>
+<p>Los candidatos transhumanistas han presentado candidaturas para presidente, gobernador y cargos locales, usando campañas como plataformas para promover ideas transhumanistas. Aunque el éxito electoral ha sido limitado, las campañas generan cobertura mediática que normaliza conceptos transhumanistas.</p>
+<p><strong>Defensa de Políticas</strong></p>
+<p>El partido aboga por cambios de políticas específicos:</p>
+<ul>
+<li>Aumento de financiamiento gubernamental para investigación de longevidad</li>
+<li>Desregulación de la modificación genética y la nanotecnología</li>
+<li>Reconocimiento legal de personas digitales y derechos de IA</li>
+<li>Acceso universal a la tecnología de ampliación</li>
+<li>Eliminación de regulaciones que restrinjan la experimentación humana</li>
+</ul>
+<p><strong>Influencia Cultural</strong></p>
+<p>Las ideas transhumanistas se promueven a través de medios de entretenimiento, periodismo tecnológico, conferencias académicas y cultura de Silicon Valley. La normalización de conceptos transhumanistas en la cultura popular -- a través de películas, televisión, videojuegos y redes sociales -- es la programación predictiva que prepara a la población para aceptar lo que el partido aboga políticamente.</p>
+<h2 id="el-análisis-espiritual">El Análisis Espiritual</h2>
+<h3 id="la-plantilla-luciferina">La Plantilla Luciferina</h3>
+<p>La plataforma transhumanista sigue la plantilla luciferina descrita en Isaías 14 con precisión:</p>
+<ul>
+<li><strong>"Subiré al cielo"</strong> = tecnología de extensión de vida e inmortalidad</li>
+<li><strong>"Enalteceré mi trono sobre las estrellas de Dios"</strong> = mejora cognitiva más allá de los límites naturales</li>
+<li><strong>"Me sentaré en el monte de la congregación"</strong> = poder político para imponer políticas transhumanistas</li>
+<li><strong>"Subiré sobre las alturas de las nubes"</strong> = trascendencia de limitaciones físicas</li>
+<li><strong>"Seré semejante al Altísimo"</strong> = el objetivo explícito del transhumanismo: ser como Dios a través de la tecnología</li>
+</ul>
+<p>El partido transhumanista no meramente persigue objetivos políticos. Persigue el objetivo espiritual de la rebelión original: reemplazar el diseño de Dios con la evolución autodeterminada, lograr la divinidad a través de la tecnología en lugar de a través de la relación con el Creador.</p>
+<h3 id="génesis-6-repetido">Génesis 6 Repetido</h3>
+<p>La agenda transhumanista es una formalización política de la corrupción de Génesis 6. En Génesis 6, los hijos de Dios cruzaron la frontera entre lo sobrenatural y lo natural, produciendo seres híbridos (Nephilim) que eran una abominación para el Creador. El transhumanismo cruza la frontera entre lo humano y lo tecnológico, produciendo seres híbridos (cyborgs, humanos mejorados, mentes digitales) que violan la imagen de Dios.</p>
+<p>La legitimización política de este cruzamiento a través de un partido político registrado representa la normalización de lo que Dios juzgó con un diluvio. El partido transhumanista pide al público que vote por su propia corrupción genética, biológica y espiritual -- para aprobar democráticamente la agenda de Génesis 6.</p>
+<p>Ana Mihalcea, MD, PhD, ha documentado en su Substack (anamihalceamdphd.substack.com) cómo la nanotecnología ahora encontrada en la sangre humana es la implementación encubierta de la agenda transhumanista que el Partido Transhumanista de Estados Unidos aboga abiertamente. Lo que el partido busca a través de canales políticos ya se está logrando a través de canales farmacéuticos -- sin el consentimiento o conocimiento de la población siendo transformada.</p>
+<h3 id="la-cúpula-y-el-engaño">La Cúpula y el Engaño</h3>
+<p>El sueño transhumanista de colonización espacial, inmortalidad digital y trascendencia evolutiva choca con la realidad del firmamento -- la cúpula que Dios colocó sobre la tierra en Génesis 1:6-8. Bajo esta cúpula, la humanidad existe en su lugar designado. Los ángeles caídos están encarcelados bajo esta cúpula. Y el sueño transhumanista de escapar las limitaciones humanas es, en términos espirituales, el sueño de escapar la cúpula -- de trascender los límites que Dios estableció.</p>
+<p>Pero la cúpula se mantiene. El firmamento perdura. Y el transhumanista que sueña con cargar la conciencia para escapar el cuerpo aún vive bajo la cúpula, en la placa de la tierra, dentro de los límites que Dios estableció en la creación. Ninguna cantidad de nanotecnología, modificación genética o carga digital puede romper el firmamento. La única forma a través de la cúpula es la forma que Dios ordenó: muerte y resurrección a través de Jesucristo. Todo otro camino es una ilusión -- un engaño promovido por seres caídos que están ellos mismos encarcelados bajo la cúpula que no pueden escapar.</p>
+<hr>
+<h3 id="la-advertencia-de-1-samuel-8">La Advertencia de 1 Samuel 8</h3>
+<blockquote>
+<p><em>"Y Jehová dijo a Samuel: Oye la voz del pueblo en todo lo que te digan; porque no te han desechado a ti, sino a mí me han desechado, para que no reine sobre ellos."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=RVR1960">1 Samuel 8:7 (RVR1960)</a></p>
+</blockquote>
+<p>La advertencia antigua de 1 Samuel 8 resuena a través de cada pasillo del gobierno hoy. Cuando Israel demandó un rey como las otras naciones, Dios les advirtió exactamente qué pasaría -- sus hijos tomados para la guerra, sus hijas para servicio, sus campos y viñas confiscados, un décimo de todo confiscado. Eligieron el gobierno humano sobre el reinado de Dios, y la tiranía siguió exactamente como fue prometida. Nada ha cambiado. El sistema político moderno es dos alas del mismo pájaro -- izquierda y derecha, republicano y demócrata -- todo sirviendo a la misma estructura de poder oculta. Votar por cualquiera de los dos lados es elegir cuál ala aletea siguiente mientras el pájaro vuela en la misma dirección. El poder real nunca ha estado en ninguna boleta.</p>
+<h2 id="referencias-de-fuentes">Referencias de Fuentes</h2>
+<ul>
+<li>
+<p>Documentación de plataforma y política del Partido Transhumanista de Estados Unidos</p>
+</li>
+<li>
+<p>Istvan, Z., "The Transhumanist Wager," 2013</p>
+</li>
+<li>
+<p>More, M. and Vita-More, N., "The Transhumanist Reader," 2013</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, transhumanismo encubierto a través de nanotecnología</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=RVR1960">1 Samuel 8 — La Advertencia Contra Reyes Terrenales (RVR1960)</a></p>
+</li>
+</ul>
+<h2 id="entérate-más">Entérate Más</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de Experiencia Cercana a la Muerte de Howard Pittman — Advertencia de Fin de Tiempos que Dios le Dio</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Deplorables de los Jesuitas Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¡Lo que Hay en el Sótano del Vaticano Puede Sorprenderte!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry en YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions en YouTube</a></li>
+</ul>
+<h2 id="escucha-mientras-lees">Escucha Mientras Lees</h2>
+<p>Estas pistas del Álbum ZZZ Daily exploran los temas en este artículo:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/339-The_New_Man.mp4">El Nuevo Hombre</a> -- El rediseño transhumanista de la humanidad</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/447-Modded_Humans.mp4">Humanos Modificados</a> -- El humano ampliado como objetivo político</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/489-Nephilim_Nanobots.mp4">Nanobots Nephilim</a> -- El patrón de Génesis 6 en nanotecnología</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/487-Mark_Of_The_Nanobot.mp4">Marca del Nanobot</a> -- El sistema de marca tecnológica</li>
+</ul>
+<p>Del álbum Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/73-The_Fallen_Angels.mp4">Los Ángeles Caídos</a> -- La rebelión que impulsa el transhumanismo</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/01-Cast_Out_of_Paradise.mp4">Expulsado del Paraíso</a> -- Las consecuencias de buscar la divinidad</li>
+</ul>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/cyborg-dawn-military-augmentation/?lang=es">Cyborg Dawn: Uso Militar de la Tecnología de Ampliación Humana</a> -- La implementación militar de objetivos transhumanistas</li>
+<li><a href="/europeans-augmentation-mandatory/?lang=es">Europeos Cuidado: La Ampliación Humana Se Vuelve Obligatoria</a> -- La implementación obligatoria de tecnología transhumanista</li>
+<li><a href="/beast-land-transhumanism-synthetic/?lang=es">La BESTIA de la TIERRA: Transhumanismo y Futuros Sintéticos</a> -- El estado final de la agenda transhumanista</li>
+</ul>
+<hr>
+<p><em>El deseo de ser como Dios a través de medios prohibidos no es una plataforma política. Es el pecado original. El Partido Transhumanista de Estados Unidos ha formalizado la ambición luciferina en una entidad política registrada, completa con candidatos, políticas y donaciones de campaña. Piden a los votantes que aprueben lo que Dios juzgó con un diluvio. Piden al público que financie lo que los ángeles caídos enseñaron antes del diluvio. Piden a la humanidad que vote por su propia transformación en algo que ya no está hecho a la imagen de Dios. Pero la imagen de Dios no está sujeta a una votación. No es modificada por la legislación. No es mejorada por la tecnología. Es dada por el Creador, sostenida por el Espíritu, y perfeccionada solo a través de la transformación que Cristo proporciona -- una transformación no del genoma, sino del corazón.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"El Partido Transhumanista de Estados Unidos y el Poshumanismo Político"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"El Partido Transhumanista de Estados Unidos aboga abiertamente por la ampliación humana, la extensión de la vida y la evolución poshumana a través de canales políticos y marcos de políticas públicas."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-03T10:00:00Z","children":"3 de abril de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","transhumanist-party",{"href":"/es/tag/transhumanist-party/","className":"tag-pill","children":["#","transhumanist-party"]}],["$","a","posthumanism",{"href":"/es/tag/posthumanism/","className":"tag-pill","children":["#","posthumanism"]}],["$","a","politics",{"href":"/es/tag/politics/","className":"tag-pill","children":["#","politics"]}],["$","a","augmentation",{"href":"/es/tag/augmentation/","className":"tag-pill","children":["#","augmentation"]}],["$","a","life-extension",{"href":"/es/tag/life-extension/","className":"tag-pill","children":["#","life-extension"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/us-transhumanist-party/","title":"El Partido Transhumanista de Estados Unidos y el Poshumanismo Político"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/us-transhumanist-party/","title":"El Partido Transhumanista de Estados Unidos y el Poshumanismo Político"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"El Partido Transhumanista de Estados Unidos y el Poshumanismo Político | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"El Partido Transhumanista de Estados Unidos aboga abiertamente por la ampliación humana, la extensión de la vida y la evolución poshumana a través de canales políticos y marcos de políticas públicas."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"transhumanist-party, posthumanism, politics, augmentation, life-extension"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/us-transhumanist-party/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/us-transhumanist-party/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/us-transhumanist-party/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/us-transhumanist-party/"}],["$","meta","10",{"property":"og:title","content":"El Partido Transhumanista de Estados Unidos y el Poshumanismo Político"}],["$","meta","11",{"property":"og:description","content":"El Partido Transhumanista de Estados Unidos aboga abiertamente por la ampliación humana, la extensión de la vida y la evolución poshumana a través de canales políticos y marcos de políticas públicas."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/us-transhumanist-party/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/us-transhumanist-party.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"El Partido Transhumanista de Estados Unidos y el Poshumanismo Político"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"El Partido Transhumanista de Estados Unidos y el Poshumanismo Político"}],["$","meta","25",{"name":"twitter:description","content":"El Partido Transhumanista de Estados Unidos aboga abiertamente por la ampliación humana, la extensión de la vida y la evolución poshumana a través de canales políticos y marcos de políticas públicas."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/us-transhumanist-party.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

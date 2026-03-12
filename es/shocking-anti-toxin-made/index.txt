@@ -1,0 +1,130 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","shocking-anti-toxin-made",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","shocking-anti-toxin-made","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","shocking-anti-toxin-made","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3b14,<h1 id="impactante-cómo-se-hace-realmente-el-antitoxina">IMPACTANTE: Cómo se Hace Realmente el ANTITOXINA</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p><em>"Sus pies corren al mal, y se apresuran a derramar sangre inocente."</em> — Isaías 59:7</p>
+</blockquote>
+<p>Si el público supiera cómo los antitoxinas y muchos productos farmacéuticos son realmente manufacturados, la industria farmacéutica enfrentaría una crisis de confianza de la cual podría nunca recuperarse. El proceso de producción involucra tortura animal sistemática, cosecha de sangre en escala industrial, e inyección de material enfermo en animales que son luego sangrados repetidamente hasta que sus cuerpos colapsen.</p>
+<p>Esto no es histórico — esto está sucediendo en este momento, en instalaciones de producción farmacéutica alrededor del mundo. Los antitoxinas para difteria, tétano, botulismo, y veneno de serpiente son producidos inyectando caballos con dosis crecientes de toxinas, luego drenando su sangre para cosechar los anticuerpos que sus cuerpos torturados producen.</p>
+<p>Howard Pittman fue mostrado que el reino demoníaco opera a través de jerarquías de engaño. Los tres cielos están estratificados, y lo que aparenta ser benigno en el reino físico puede ser orquestado por oscuridad en el reino espiritual. La imagen pública de la industria farmacéutica — salvando vidas, curando enfermedad, avanzando la ciencia — es la fachada física. Detrás de ella, en la realidad espiritual, el derramamiento de sangre inocente (animal y humana) alimenta una industria que sirve las principalidades y potestades de Efesios 6:12.</p>
+<p>El 97,5% de cristianos que estaban fallando, el 95% que sirven "al yo" — aceptan productos farmacéuticos sin pregunta, nunca pidiendo cómo esos productos son hechos, nunca considerando el sufrimiento codificado en cada vial. Los Jesuitas, con su "poder absoluto" e infiltración "encubierta con astucia," han asegurado que el proceso de producción permanezca invisible a los consumidores. "Toda especie de vicio" es permitido detrás de las paredes de la fábrica.</p>
+<hr>
+<h2 id="el-proceso-de-producción-de-antitoxina">El Proceso de Producción de Antitoxina</h2>
+<h3 id="paso-1-selección-del-caballo">Paso 1: Selección del Caballo</h3>
+<p>La producción de antitoxina comienza con caballos — específicamente, caballos grandes y saludables seleccionados por sus sistemas inmunes robustos y su capacidad de sobrevivir insultos tóxicos repetidos. Estos caballos son comprados de criadores y alojados en instalaciones de producción farmacéutica.</p>
+<p>Los caballos no son tratados como seres vivos. Son tratados como fábricas biológicas — sus cuerpos son el equipo de producción, y su sangre es el producto.</p>
+<h3 id="paso-2-inyección-de-toxina">Paso 2: Inyección de Toxina</h3>
+<p>Los caballos son inyectados con dosis crecientes gradualmente de la toxina que el antitoxina es diseñado para contrarrestar. Para antitoxina de difteria, los caballos reciben toxina de difteria. Para antitoxina de tétano, reciben toxina de tétano. Para anti-veneno, son inyectados con veneno de serpiente.</p>
+<p>El proceso — llamado "hiperimmunización" — toma semanas a meses. Durante este tiempo:</p>
+<ul>
+<li>Los caballos experimentan <strong>reacciones sistémicas severas</strong> a las toxinas</li>
+<li>Desarrollan <strong>fiebres, hinchazón, y dolor</strong> en los sitios de inyección</li>
+<li>Sus cuerpos son forzados en una <strong>respuesta inmune extrema</strong> conforme luchan el asalto tóxico</li>
+<li>Algunos caballos <strong>mueren</strong> durante el proceso — sus cuerpos incapaces de soportar la carga tóxica</li>
+<li>Los caballos sobrevivientes están <strong>estresados, debilitados, y en dolor crónico</strong></li>
+</ul>
+<p>Las dosis se aumentan gradualmente — no por compasión por los caballos, sino porque matar al caballo muy rápido significa perder el activo de producción. El caballo debe sobrevivir lo suficiente para producir los anticuerpos deseados.</p>
+<h3 id="paso-3-cosecha-de-sangre">Paso 3: Cosecha de Sangre</h3>
+<p>Una vez que el caballo ha sido "inmunizado" lo suficiente — que es decir, envenenado al punto donde su cuerpo ha producido grandes cantidades de anticuerpos — la cosecha de sangre comienza.</p>
+<p>Grandes volúmenes de sangre son extraídos de la vena yugular del caballo en intervalos regulares. Un caballo de producción único puede tener <strong>8 a 10 litros de sangre</strong> extraídos cada dos semanas. El cuerpo del caballo es forzado a constantemente regenerar sangre — un proceso que agota los recursos metabólicos del animal y lo debilita aún más ya comprometido.</p>
+<h3 id="paso-4-procesamiento-de-suero">Paso 4: Procesamiento de Suero</h3>
+<p>La sangre es procesada para extraer el suero — la porción líquida conteniendo los anticuerpos. El suero es luego purificado, concentrado, y procesado en el producto antitoxina final. Los glóbulos rojos y otros componentes celulares son descartados (u a veces retornados al caballo para extender su vida productiva).</p>
+<h3 id="paso-5-repetir-hasta-la-muerte">Paso 5: Repetir Hasta la Muerte</h3>
+<p>El proceso — inyección, reacción, extracción de sangre, recuperación, repetir — continúa mientras el caballo permanece productivo. Cuando el cuerpo del caballo no puede ya sustentar el ciclo — cuando sus venas colapsan, sus órganos fallan, u su producción de anticuerpos cae — el caballo es "retirado," que típicamente significa sacrificio.</p>
+<p>Un caballo de producción puede soportar este ciclo durante <strong>varios años</strong> antes de que su cuerpo ceda. Durante este tiempo, experimenta:</p>
+<ul>
+<li>Dolor crónico de inyecciones repetidas y extracciones de sangre</li>
+<li>Toxicidad sistémica de exposición de toxina acumulada</li>
+<li>Anemia de pérdida de sangre repetida</li>
+<li>Agotamiento del sistema inmune</li>
+<li>Daño de órganos</li>
+<li>Trauma psicológico de confinamiento y procedimientos dolorosos repetidos</li>
+</ul>
+<h2 id="el-contexto-histórico">El Contexto Histórico</h2>
+<h3 id="la-historia-del-antitoxina-de-difteria">La Historia del Antitoxina de Difteria</h3>
+<p>El antitoxina de difteria fue uno de los primeros grandes productos farmacéuticos, desarrollado en los 1890s por Emil von Behring y Kitasato Shibasaburo. El producto fue aclamado como un milagro — una cura para una enfermedad que mataba a miles de niños anualmente.</p>
+<p>Pero el proceso de producción fue de pesadilla desde el principio. Los caballos eran envenenados con toxina de difteria en establos y graneros, su sangre era drenada en baldes, y el suero era extraído usando equipo crudo. El proceso mataba caballos regularmente, y el producto era frecuentemente contaminado.</p>
+<p>En 1901, la "tragedia de St. Louis" trajo los peligros de la producción de antitoxina a la atención pública: antitoxina de difteria contaminada mató a 13 niños en St. Louis. El antitoxina había sido producido de un caballo llamado Jim que había desarrollado tétano. El suero contaminado fue administrado a niños que subsecuentemente murieron de tétano — matados por el mismo producto que se suponía los salvaría.</p>
+<p>La tragedia de St. Louis llevó a la Ley de Control de Biologics de 1902 — la primera regulación federal de productos farmacéuticos. Pero el proceso fundamental de producción — envenenar caballos y drenar su sangre — continuó sin cambios. Continúa hoy.</p>
+<h3 id="el-cuadro-más-amplio">El Cuadro Más Amplio</h3>
+<p>La producción de antitoxina no es un caso aislado. La dependencia de la industria farmacéutica en sangre animal y tejido se extiende a través de sus operaciones:</p>
+<ul>
+<li><strong>Vacunas</strong> son producidas en células animales (células de riñón de mono, embriones de pollo, células de insecto)</li>
+<li><strong>Heparina</strong> (anticoagulante) es extraída de intestinos de cerdo</li>
+<li><strong>Insulina</strong> fue históricamente extraída de páncreas de cerdo y vaca</li>
+<li><strong>Premarin</strong> (reemplazo hormonal) es extraído de orina de yegua preñada</li>
+<li><strong>Suero bovino fetal</strong> — sangre tomada de becerros no nacidos en sacrificio — es usado en cultivo celular para producción de vacuna y droga</li>
+</ul>
+<p>La industria farmacéutica es, en su núcleo, una industria construida sobre la sangre y sufrimiento de animales. Esto no es reconocido en la mensajería pública de la industria, que enfatiza la salud humana y el avance científico. El sufrimiento animal es ocultado — encubierto, como los Jesuitas dirían, con astucia.</p>
+<h2 id="por-qué-esto-importa">Por Qué Esto Importa</h2>
+<h3 id="la-pregunta-moral">La Pregunta Moral</h3>
+<p>Para la gente de fe, la pregunta moral es inevitable: ¿es aceptable torturar animales para producir medicinas? El cálculo utilitario — que el sufrimiento animal está justificado por beneficio humano — asume que los productos realmente funcionan como alegado y que no existen alternativas. Ambas asunciones son cuestionables.</p>
+<p>Las reacciones de suero de antitoxina (anafilaxia, enfermedad de suero) han sido históricamente una causa significante de muerte e incapacidad. El mismo producto que supuestamente salva vidas ha matado e injuriado a muchos de sus recipientes. Y alternativas modernas — incluyendo anticuerpos recombinantes producidos sin animales — existen pero no son ampliamente adoptados porque el sistema de producción basado en animal está arraigado y es lucrativo.</p>
+<h3 id="la-dimensión-espiritual">La Dimensión Espiritual</h3>
+<p>Howard Pittman fue mostrado que el reino espiritual es la realidad verdadera. Cada acto en el mundo físico tiene consecuencias espirituales. La tortura sistemática y sangría de animales para producción farmacéutica no es espiritualmente neutral. Crea un ambiente espiritual de sufrimiento, explotación, y sangre inocente — un ambiente en el cual fuerzas demoníacas prosperen.</p>
+<p>La Biblia explícitamente aborda el tratamiento de animales: "El justo se compadece de la vida de su bestia" (Proverbios 12:10). La industria farmacéutica desatiende la vida animal enteramente, tratando criaturas vivientes como equipo de producción desechable. Este desatender no es meramente no-ético — es tóxico espiritualmente.</p>
+<p>Los Jesuitas, operando a través de su red global, han ayudado a construir el marco institucional dentro del cual esta tortura ocurre. Sus hospitales católicos y universidades participan en el sistema farmacéutico. Su teología moral proporciona la cobertura intelectual: los animales no tienen almas, el sufrimiento animal es lamentable pero necesario, el beneficio humano justifica cualquier costo. Esta teología sirve el mismo maestro que la industria farmacéutica misma.</p>
+<h3 id="lo-que-el-consumidor-nunca-ve">Lo Que el Consumidor Nunca Ve</h3>
+<p>Cuando un doctor administra antitoxina a un niño enfermo, el padre ve un vial de líquido claro y un profesional médico realizando un acto sanador. El padre no ve:</p>
+<ul>
+<li>El caballo confinado en un establo, repetidamente inyectado con veneno</li>
+<li>La sangre drenando de la vena yugular del caballo en bolsas de recolección</li>
+<li>El caballo temblando, débil, anémico, en dolor</li>
+<li>El caballo que murió durante la producción, su cuerpo hauled away and disposed of</li>
+<li>La instalación industrial donde la sangre es procesada junto a químicos tóxicos</li>
+</ul>
+<p>Esta invisibilidad es intencional. La industria farmacéutica cuidadosamente gestiona su imagen, presentando una fachada de precisión clínica y propósito humanitario mientras oculta el horror biológico que produce sus productos.</p>
+<h2 id="el-camino-adelante">El Camino Adelante</h2>
+<p>Entender cómo los productos farmacéuticos son hechos es el primer paso hacia tomar decisiones informadas sobre si usarlos. La industria farmacéutica depende de la ignorancia del consumidor — en la disposición de la gente a aceptar productos sin preguntar cómo fueron hechos, qué contienen, y quién sufrió en su producción.</p>
+<p>Busca alternativas. Busca remedios naturales. Busca la provisión del Creador. Y sobre todo, busca la verdad — incluso cuando la verdad es fea, incluso cuando reta tus asunciones, incluso cuando requiere que cambies tu comportamiento.</p>
+<h2 id="descubre-más">Descubre Más</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — investigación sobre métodos de producción farmacéutica</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de NDE de Howard Pittman</a> — las consecuencias espirituales de la sangre inocente</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Jesuitas Deplorables Revelados</a> — Participación jesuita en el complejo farmacéutico-médico</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicidio y Pharmakeia — La Brujería de la Medicina Moderna</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¡Lo Que Podría Estar en el Sótano del Vaticano Te Puede Conmocionar!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry en YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions en YouTube</a></li>
+</ul>
+<h2 id="escucha-mientras-lees">Escucha Mientras Lees</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/61-Synthetic_Biology.mp4">Synthetic Biology</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/73-The_Fallen_Angels.mp4">The Fallen Angels</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/117-The_Burning_of_Sin.mp4">The Burning of Sin</a></li>
+</ul>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/satanic-science-smallpox-vaccine/?lang=es">Ciencia Satánica: La Verdad Horrible Detrás de la Vacuna de Viruela</a></li>
+<li><a href="/big-pharma-bloodlust-torture/?lang=es">Sed de Sangre de Big Pharma: La Historia Oculta de Tortura Médica</a></li>
+<li><a href="/edward-jenner-horse-grease/?lang=es">Hey History: El Fraude de Vacuna de Grasa de Caballo de Edward Jenner</a></li>
+</ul>
+<p><em>La medicina en el vial viene de la sangre de animales torturados. La industria que la produce oculta el proceso detrás de empaque estéril y lenguaje tranquilizador. Pero Dios ve lo que sucede en las instalaciones de producción. Él ve los caballos en sus establos, envenenados y sangrados para ganancia. "El justo se compadece de la vida de su bestia." ¿Qué hace una industria no-justa?</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"IMPACTANTE: Cómo se Hace Realmente el ANTITOXINA"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"La producción de antitoxina implica torturar caballos y cosechar su sangre. El proceso farmacéutico que nunca te muestran es horrible."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-11-27T10:00:00Z","children":"27 de noviembre de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","antitoxina",{"href":"/es/tag/antitoxina/","className":"tag-pill","children":["#","antitoxina"]}],["$","a","sangre-de-caballo",{"href":"/es/tag/sangre-de-caballo/","className":"tag-pill","children":["#","sangre-de-caballo"]}],["$","a","producción-farmacéutica",{"href":"/es/tag/producción-farmacéutica/","className":"tag-pill","children":["#","producción-farmacéutica"]}],["$","a","tortura-animal",{"href":"/es/tag/tortura-animal/","className":"tag-pill","children":["#","tortura-animal"]}],["$","a","difteria",{"href":"/es/tag/difteria/","className":"tag-pill","children":["#","difteria"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/shocking-anti-toxin-made/","title":"IMPACTANTE: Cómo se Hace Realmente el ANTITOXINA"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/shocking-anti-toxin-made/","title":"IMPACTANTE: Cómo se Hace Realmente el ANTITOXINA"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"IMPACTANTE: Cómo se Hace Realmente el ANTITOXINA | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"La producción de antitoxina implica torturar caballos y cosechar su sangre. El proceso farmacéutico que nunca te muestran es horrible."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"antitoxina, sangre-de-caballo, producción-farmacéutica, tortura-animal, difteria"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/shocking-anti-toxin-made/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/shocking-anti-toxin-made/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/shocking-anti-toxin-made/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/shocking-anti-toxin-made/"}],["$","meta","10",{"property":"og:title","content":"IMPACTANTE: Cómo se Hace Realmente el ANTITOXINA"}],["$","meta","11",{"property":"og:description","content":"La producción de antitoxina implica torturar caballos y cosechar su sangre. El proceso farmacéutico que nunca te muestran es horrible."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/shocking-anti-toxin-made/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/shocking-anti-toxin-made.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"IMPACTANTE: Cómo se Hace Realmente el ANTITOXINA"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"IMPACTANTE: Cómo se Hace Realmente el ANTITOXINA"}],["$","meta","25",{"name":"twitter:description","content":"La producción de antitoxina implica torturar caballos y cosechar su sangre. El proceso farmacéutico que nunca te muestran es horrible."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/shocking-anti-toxin-made.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

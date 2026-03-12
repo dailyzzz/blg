@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pfizer-documents-self-amplifying",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pfizer-documents-self-amplifying","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-documents-self-amplifying","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T11e2,<h1 id="documentos-de-pfizer-arn-autoreplicante-y-la-próxima-generación-de-control">Documentos de Pfizer: ARN Autoreplicante y la Próxima Generación de Control</h1>
+<h2 id="la-tecnología-de-arn-autoreplicante">La Tecnología de ARN Autoreplicante</h2>
+<p>Los documentos internos de Pfizer obtenidos a través de descubrimiento legal en litigios en múltiples países revelan que Pfizer estaba desarrollando tecnología de ARN autoreplicante.</p>
+<p>La tecnología de ARN autoreplicante funciona de manera diferente a las inyecciones de mRNA de COVID-19:</p>
+<ul>
+<li>
+<p><strong>mRNA estándar</strong>: Las instrucciones genéticas se entregan a las células. Las células crean proteína. El mRNA es degradado. Una única dosis afecta solo a la persona inyectada.</p>
+</li>
+<li>
+<p><strong>ARN autoreplicante</strong>: Las instrucciones genéticas se entregan a las células. Las células crean proteína Y también crean más de las instrucciones genéticas. El ARN se replica. Una única dosis se propaga desde la persona inyectada a las personas no inyectadas. El proceso continúa indefinidamente.</p>
+</li>
+</ul>
+<hr>
+<h2 id="las-implicaciones">Las Implicaciones</h2>
+<h3 id="transmisión-sin-consentimiento">Transmisión Sin Consentimiento</h3>
+<p>La tecnología de ARN autoreplicante significa que una persona inyectada se convierte en un vehículo de transmisión. Las personas con las que están en contacto — familiares, amigos, colegas, extraños — se convierten en objetivos secundarios de modificación genética sin su conocimiento o consentimiento.</p>
+<p>Esto viola el derecho más básico de autonomía corporal: el derecho de decidir qué sustancias entran en tu cuerpo.</p>
+<h3 id="imposibilidad-de-retracción">Imposibilidad de Retracción</h3>
+<p>Si tecnología de ARN autoreplicante se despliega, no puede ser retirada. No hay "dosis final." El proceso continúa hasta que el ARN replicante sea eliminado del cuerpo — que requeriría terapia génica correctiva.</p>
+<hr>
+<h2 id="por-qué-pfizer-lo-estaba-desarrollando">Por Qué Pfizer lo Estaba Desarrollando</h2>
+<p>La tecnología de ARN autoreplicante tiene un beneficio obvio para Pfizer:</p>
+<ul>
+<li>Una inyección inicia una cadena de replicación que no requiere re-dosificación</li>
+<li>Una dosis puede, teóricamente, contagiar a una población entera</li>
+<li>El costo de manufactura se divide entre múltiples "anfitriones"</li>
+</ul>
+<p>Para una corporación, es una oportunidad financiera incomparable. Para la población, es el precedente final de pérdida de autonomía corporal.</p>
+<hr>
+<h2 id="el-precedente-de-covid-19">El Precedente de COVID-19</h2>
+<p>La inyección de COVID-19 de Pfizer estableció el precedente de que:</p>
+<ul>
+<li>Tecnología biológica experimental puede ser mandatada</li>
+<li>La privacidad médica puede ser anulada</li>
+<li>La autonomía corporal puede ser superada por decreto gubernamental</li>
+</ul>
+<p>La tecnología de ARN autoreplicante aprovecha este precedente. Si ARN autoreplicante es desarrollado y introducido como "vacuna" para una futura enfermedad, el precedente de aceptación está ya establecido.</p>
+<hr>
+<h2 id="el-patrón">El Patrón</h2>
+<p>La progresión es clara:</p>
+<p><strong>Fase 1: mRNA con dosis requeridas múltiples</strong> (COVID-19)</p>
+<ul>
+<li>Establece precedente de medicina mandatada</li>
+<li>Entrena población a aceptar inyecciones</li>
+<li>Demuestra que corporaciones pueden causar efectos secundarios sin responsabilidad</li>
+</ul>
+<p><strong>Fase 2: ARN autoreplicante con transmisión sin consentimiento</strong></p>
+<ul>
+<li>Elimina la necesidad de consentimiento individual</li>
+<li>Transmuta modificación genética de decisión personal a cambio de comportamiento requerido</li>
+<li>Completa el sistema de control biológico</li>
+</ul>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="/pfizer-fraud-criminal-case/?lang=es">Fraude Criminal de Pfizer</a></li>
+<li><a href="/gene-editing-technologies-called-vaccines/?lang=es">¿Por Qué BioPharma Llama Tecnologías de Edición Genética Vacunas?</a></li>
+</ul>
+<hr>
+<p><em>La tecnología de ARN autoreplicante es el paso final hacia el control biológico completo: no simplemente imponer modificación genética en una población, sino hacer esa modificación autoreplicante de modo que se propague indefinidamente sin nuevo consentimiento. Es el sueño tecnológico de los que desearían jugar a Dios alcanzado. Pero la arrogancia de jugar a Dios es que Dios siempre tiene la última palabra.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/pharma/","className":"category-badge","children":"pharma"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Documentos de Pfizer: ARN Autoreplicante y la Próxima Generación de Control"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Los documentos de Pfizer revelan que tecnología de ARN autoreplicante estaba siendo desarrollada. Explora las implicaciones de tecnología que se replica sin consentimiento."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-03T10:00:00Z","children":"3 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pfizer",{"href":"/es/tag/pfizer/","className":"tag-pill","children":["#","pfizer"]}],["$","a","self-amplifying-rna",{"href":"/es/tag/self-amplifying-rna/","className":"tag-pill","children":["#","self-amplifying-rna"]}],["$","a","documents",{"href":"/es/tag/documents/","className":"tag-pill","children":["#","documents"]}],["$","a","biological-control",{"href":"/es/tag/biological-control/","className":"tag-pill","children":["#","biological-control"]}],["$","a","future-technology",{"href":"/es/tag/future-technology/","className":"tag-pill","children":["#","future-technology"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-documents-self-amplifying/","title":"Documentos de Pfizer: ARN Autoreplicante y la Próxima Generación de Control"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-documents-self-amplifying/","title":"Documentos de Pfizer: ARN Autoreplicante y la Próxima Generación de Control"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Documentos de Pfizer: ARN Autoreplicante y la Próxima Generación de Control | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Los documentos de Pfizer revelan que tecnología de ARN autoreplicante estaba siendo desarrollada. Explora las implicaciones de tecnología que se replica sin consentimiento."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pfizer, self-amplifying-rna, documents, biological-control, future-technology"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pfizer-documents-self-amplifying/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-documents-self-amplifying/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-documents-self-amplifying/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-documents-self-amplifying/"}],["$","meta","10",{"property":"og:title","content":"Documentos de Pfizer: ARN Autoreplicante y la Próxima Generación de Control"}],["$","meta","11",{"property":"og:description","content":"Los documentos de Pfizer revelan que tecnología de ARN autoreplicante estaba siendo desarrollada. Explora las implicaciones de tecnología que se replica sin consentimiento."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pfizer-documents-self-amplifying/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-documents-self-amplifying.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Documentos de Pfizer: ARN Autoreplicante y la Próxima Generación de Control"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Documentos de Pfizer: ARN Autoreplicante y la Próxima Generación de Control"}],["$","meta","25",{"name":"twitter:description","content":"Los documentos de Pfizer revelan que tecnología de ARN autoreplicante estaba siendo desarrollada. Explora las implicaciones de tecnología que se replica sin consentimiento."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-documents-self-amplifying.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

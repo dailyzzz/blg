@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","fda-commissioner-behind-rfk-back",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","fda-commissioner-behind-rfk-back","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","fda-commissioner-behind-rfk-back","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T36ba,<h1 id="fda-commissioner-makary-went-behind-rfk-jrs-back">FDA Commissioner Makary Went Behind RFK Jr.'s Back</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"A double minded man is unstable in all his ways." — James 1:8</p>
+</blockquote>
+<p>When Judas sat at the Last Supper, he occupied a position of trust within the inner circle. He had been chosen, commissioned, and entrusted with the group's treasury. His betrayal was devastating not because of the enemy's strength but because of the traitor's proximity. The most destructive breach comes not from without but from within — from those who share the table while serving a different master.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/es/67-The_Enemy_Within.mp4">The Enemy Within</a> reveals, infiltration is the adversary's most effective strategy. Frontal assault can be repelled. Institutional capture can be reformed. But betrayal from within — from those who wear the uniform of the reformation while serving the interests of the old regime — undermines the foundation of every reform effort.</p>
+<p>FDA Commissioner Marty Makary reportedly went behind RFK Jr.'s back — acting in contradiction to HHS directives, maintaining unauthorized communications with pharmaceutical industry stakeholders, and undermining the reform agenda from inside the administration.</p>
+<hr>
+<h2 id="the-appointment-and-the-expectation">The Appointment and the Expectation</h2>
+<p>Dr. Marty Makary, a Johns Hopkins surgeon and public health researcher, was appointed FDA Commissioner with the expectation that he would implement the administration's health reform agenda — including increased transparency in pharmaceutical data, reform of the approval process, and a critical reexamination of products authorized under the Emergency Use Authorization framework.</p>
+<p>Makary had publicly positioned himself as a critic of certain pandemic-era policies. He had questioned school closures, supported natural immunity recognition, and advocated for data transparency. These positions made him appear aligned with the reform agenda and suitable for the role of implementing it within the FDA.</p>
+<p>However, reports indicate that once in office, Makary's actions diverged from his public positions and from HHS directives. Specific allegations include:</p>
+<p><strong>Unauthorized industry communications:</strong> Makary allegedly maintained direct communications with pharmaceutical industry executives and lobbyists without disclosure to HHS leadership, discussing regulatory approaches that contradicted the administration's stated reform objectives.</p>
+<p><strong>Resistance to EUA review:</strong> Despite the administration's direction to conduct a comprehensive review of all products authorized under Emergency Use Authorizations, Makary allegedly slow-walked the review process and resisted the implementation of recommendations that would have restricted or withdrawn existing authorizations.</p>
+<p><strong>Opposition to transparency measures:</strong> Makary allegedly opposed HHS directives requiring the accelerated release of pharmaceutical clinical trial data, arguing that such releases would harm the competitive interests of pharmaceutical companies and discourage future investment in drug development.</p>
+<p><strong>Staff protection:</strong> Makary allegedly shielded FDA career staff who were identified for removal or reassignment as part of the broader agency reform effort, positioning them in protected roles or reassigning them to positions that insulated them from the reform process.</p>
+<p>Karen Kingston has observed in The Kingston Report (karenkingston.substack.com): "The FDA is the pharmaceutical industry's most valuable institutional asset. It provides the regulatory approval that pharmaceutical products require to reach the market, the liability protections that shield manufacturers from accountability, and the institutional authority that transforms industry products into government-recommended standard of care. Any FDA Commissioner who threatens this arrangement will face pressure from every direction — and the pressure will be most intense from within the FDA itself."</p>
+<hr>
+<h2 id="the-institutional-immune-response">The Institutional Immune Response</h2>
+<p>The FDA's resistance to reform is not merely the result of individual disloyalty. It is an institutional immune response — the activation of the agency's embedded defenses against any threat to the pharmaceutical industry relationships that define its operation.</p>
+<p>The FDA derives a significant portion of its funding from pharmaceutical user fees — fees paid by drug and device manufacturers to support the review of their products. Under the Prescription Drug User Fee Act (PDUFA), pharmaceutical companies pay billions in user fees to the FDA, and these fees fund approximately 65% of the FDA's human drug review activities.</p>
+<p>This funding model makes the FDA financially dependent on the industry it regulates. The companies paying user fees are not charitable donors — they are customers purchasing a regulatory service. The service they expect is efficient review and approval of their products. Any FDA Commissioner who disrupts this service — by slowing approvals, increasing scrutiny, or withdrawing previously authorized products — faces institutional pressure not merely from the industry but from within the FDA itself, whose budget depends on industry satisfaction.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/es/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> documents how surveillance systems — both digital and institutional — operate to detect and neutralize threats to established power structures. The FDA's institutional response to reform operates on the same principle: detect the threat, identify its source, and deploy countermeasures to neutralize it — whether through legal challenge, media pressure, or internal sabotage.</p>
+<hr>
+<h2 id="the-reform-vs-the-machine">The Reform vs. The Machine</h2>
+<p>The conflict between RFK Jr. and Makary illustrates a fundamental challenge of institutional reform: the machine is designed to preserve itself.</p>
+<p>Every large institution develops institutional interests distinct from its stated mission. The FDA's stated mission is to protect public health by ensuring the safety and efficacy of pharmaceutical products. Its institutional interest is to maintain its funding, its authority, its personnel, and its relationships with the pharmaceutical companies that constitute its regulatory clientele.</p>
+<p>When the stated mission and the institutional interest diverge — as they have, extensively and documentably — the institution will prioritize its institutional interest. Personnel who attempt to redirect the institution toward its stated mission face resistance not merely from individual bad actors but from the institutional structure itself.</p>
+<p>This is why reform efforts that rely on appointing "the right people" to leadership positions consistently fail. The right people are placed into a structure designed to corrupt them, constrain them, or expel them. The structure itself must be changed — the funding model, the legal authorities, the personnel protections, and the institutional incentives that make capture inevitable.</p>
+<p>Kingston has written: "The FDA cannot be reformed by changing its Commissioner. It can only be reformed by changing its structure — eliminating pharmaceutical user fee funding, prohibiting revolving door employment between the FDA and the pharmaceutical industry, establishing independent safety review boards outside the FDA's authority, and removing the FDA's role in determining which products are mandated for the population. Anything less is theater."</p>
+<hr>
+<h2 id="the-prophetic-pattern">The Prophetic Pattern</h2>
+<blockquote>
+<p>"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon." — Matthew 6:24</p>
+</blockquote>
+<p>The conflict between RFK Jr. and Makary is, at its root, a conflict of masters. RFK Jr.'s reform agenda serves the stated mission of the FDA — protecting the public from pharmaceutical harm. Makary's actions, whether through personal conviction or institutional pressure, served the institutional interest — protecting the FDA's relationship with the pharmaceutical industry.</p>
+<p>No one can serve both masters. The FDA cannot simultaneously protect the public from pharmaceutical harm and depend on the pharmaceutical industry for its funding, its personnel pipeline, and its institutional identity. The attempt to serve both produces exactly what Scripture predicts: instability, duplicity, and betrayal.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>Reports on FDA Commissioner's actions and HHS internal communications</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of FDA institutional capture, user fee funding models, and structural reform requirements</p>
+</li>
+<li>
+<p>Prescription Drug User Fee Act (PDUFA) — FDA.gov</p>
+</li>
+<li>
+<p>FDA Budget — User fee revenue and appropriations breakdown</p>
+</li>
+<li>
+<p>James 1:8, Matthew 6:24 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> — Institutional surveillance systems neutralizing reform threats</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — Compromised individuals within the reform apparatus</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/211-Total_Information_Awareness.mp4">Total Information Awareness</a> — Institutional intelligence gathering to protect entrenched interests</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/67-The_Enemy_Within.mp4">The Enemy Within</a> — Betrayal from inside the inner circle</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/09-Satans_Disguise.mp4">Satan's Disguise</a> — Reform credentials concealing institutional loyalty</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/rfk-cleans-house-cdc/?lang=es">RFK Jr. Cleans House at the CDC</a> — Parallel reform efforts at the CDC</li>
+<li><a href="/medical-associations-sue-rfk/?lang=es">6 Medical Associations Sue RFK Jr. and HHS Leaders</a> — External institutional resistance to reform</li>
+<li><a href="/hhs-maha-transformation/?lang=es">HHS Announces MAHA Transformation of Healthcare</a> — The vision Makary allegedly undermined</li>
+<li><a href="/trump-freezes-nih-grants/?lang=es">Trump Freezes NIH Approvals and Research Grants</a> — Broader federal health agency reform</li>
+</ul>
+<hr>
+<p><em>Judas sat at the table. He broke bread with the Master. He carried the purse. And when the moment came, he chose silver over loyalty. The FDA Commissioner occupied a position of trust within the reform administration, carried the authority of the office, and — according to reports — chose the institutional interest over the reform mandate. "For there is nothing covered, that shall not be revealed; and hid, that shall not be known" (Matthew 10:26). The double-mindedness has been exposed. The question now is whether the administration will address the structural conditions that make such betrayal inevitable — or merely replace one compromised individual with another who will face the same pressures and the same temptation.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"FDA Commissioner Makary Went Behind RFK Jr.'s Back"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"FDA Commissioner Marty Makary reportedly acted against HHS Secretary RFK Jr.'s directives, exposing rifts within the administration's health reform agenda."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-17T10:00:00Z","children":"17 de mayo de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","FDA",{"href":"/es/tag/FDA/","className":"tag-pill","children":["#","FDA"]}],["$","a","Makary",{"href":"/es/tag/Makary/","className":"tag-pill","children":["#","Makary"]}],["$","a","RFK-Jr",{"href":"/es/tag/RFK-Jr/","className":"tag-pill","children":["#","RFK-Jr"]}],["$","a","HHS",{"href":"/es/tag/HHS/","className":"tag-pill","children":["#","HHS"]}],["$","a","internal-conflict",{"href":"/es/tag/internal-conflict/","className":"tag-pill","children":["#","internal-conflict"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/fda-commissioner-behind-rfk-back/","title":"FDA Commissioner Makary Went Behind RFK Jr.'s Back"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/fda-commissioner-behind-rfk-back/","title":"FDA Commissioner Makary Went Behind RFK Jr.'s Back"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"FDA Commissioner Makary Went Behind RFK Jr.'s Back | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"FDA Commissioner Marty Makary reportedly acted against HHS Secretary RFK Jr.'s directives, exposing rifts within the administration's health reform agenda."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"FDA, Makary, RFK-Jr, HHS, internal-conflict"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/fda-commissioner-behind-rfk-back/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/fda-commissioner-behind-rfk-back/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/fda-commissioner-behind-rfk-back/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/fda-commissioner-behind-rfk-back/"}],["$","meta","10",{"property":"og:title","content":"FDA Commissioner Makary Went Behind RFK Jr.'s Back"}],["$","meta","11",{"property":"og:description","content":"FDA Commissioner Marty Makary reportedly acted against HHS Secretary RFK Jr.'s directives, exposing rifts within the administration's health reform agenda."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/fda-commissioner-behind-rfk-back/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/fda-commissioner-behind-rfk-back.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"FDA Commissioner Makary Went Behind RFK Jr.'s Back"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"FDA Commissioner Makary Went Behind RFK Jr.'s Back"}],["$","meta","25",{"name":"twitter:description","content":"FDA Commissioner Marty Makary reportedly acted against HHS Secretary RFK Jr.'s directives, exposing rifts within the administration's health reform agenda."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/fda-commissioner-behind-rfk-back.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,100 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pfizer-denies-birth-defects",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pfizer-denies-birth-defects","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-denies-birth-defects","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T155a,<h1 id="pfizer-niega-defectos-de-nacimiento-la-supresión-de-datos-de-daño-reproductor">Pfizer Niega Defectos de Nacimiento: La Supresión de Datos de Daño Reproductor</h1>
+<h2 id="los-datos">Los Datos</h2>
+<p>En 2022, Pfizer solicitó al tribunal mantener datos de embarazo y reproducción en secreto durante 75 años. El tribunal ordenó a Pfizer que revelara los datos. Cuando fueron revelados, mostraron un aumento en defectos de nacimiento en mujeres que recibieron la inyección durante el embarazo.</p>
+<p>Específicamente, los datos mostraron:</p>
+<ul>
+<li>Aumento de pérdidas de embarazo</li>
+<li>Aumento de malformaciones fetales</li>
+<li>Aumento de nacimientos prematuros</li>
+<li>Aumento de bajo peso al nacer</li>
+</ul>
+<p>Estos datos fueron obtenidos en los ensayos clínicos de Pfizer — en los mismos ensayos que Pfizer usó para obtener aprobación regulatoria.</p>
+<hr>
+<h2 id="lo-que-pfizer-sabía">Lo Que Pfizer Sabía</h2>
+<h3 id="la-documentación-interna">La Documentación Interna</h3>
+<p>Los documentos internos de Pfizer muestran que la corporación fue consciente de riesgos reproductivos:</p>
+<ul>
+<li>Pfizer monitoreó mujeres embarazadas recibiendo la inyección</li>
+<li>Pfizer documentó eventos adversos en mujeres embarazadas</li>
+<li>Pfizer sabía que el lípido nanopartícula se acumula en los órganos reproductivos</li>
+<li>Pfizer conocía que embriones expuestos mostraban anormalidades</li>
+</ul>
+<p>A pesar de este conocimiento, Pfizer:</p>
+<ul>
+<li>No advirtió a mujeres embarazadas</li>
+<li>No recomendó contra el uso en mujeres embarazadas</li>
+<li>No reveló datos de riesgo a reguladores</li>
+<li>Presionó activamente para que mujeres embarazadas recibieran la inyección</li>
+</ul>
+<hr>
+<h2 id="lo-que-el-gobierno-hizo">Lo Que el Gobierno Hizo</h2>
+<h3 id="el-silencio-institucional">El Silencio Institucional</h3>
+<p>Cuando datos de defectos de nacimiento se hicieron públicos, gobiernos no investigaron. No pidieron a Pfizer responsabilidad. No advertieron a mujeres embarazadas.</p>
+<p>Declaraciones de agencias de salud pública:</p>
+<ul>
+<li>"Datos limitados sugieren que la inyección es segura en embarazo"</li>
+<li>"No hay evidencia de aumento en defectos de nacimiento"</li>
+<li>"Los beneficios superan los riesgos"</li>
+</ul>
+<p>Cada una de estas declaraciones fue hecha a pesar de datos públicamente disponibles que mostraban lo contrario.</p>
+<h3 id="la-coerción-continuada">La Coerción Continuada</h3>
+<p>A pesar de datos de daño reproductor, gobiernos continuaron presionando a mujeres embarazadas para recibir inyecciones:</p>
+<ul>
+<li>Mujeres embarazadas fueron excluidas de empleo si se rehusaban</li>
+<li>Acceso a cuidado prenatal fue condicionado en inyecciones</li>
+<li>Mujeres embarazadas fueron coercionadas en hospitales bajo amenaza de perder custodia de otros hijos</li>
+</ul>
+<hr>
+<h2 id="el-patrón-de-supresión-de-datos">El Patrón de Supresión de Datos</h2>
+<h3 id="cómo-los-datos-son-suprimidos">Cómo los Datos son Suprimidos</h3>
+<p>La supresión de datos de daño reproductor sigue un patrón:</p>
+<p><strong>Etapa 1: Ocultación</strong>
+Los datos son mantenidos privados en archivos de la corporación. El público no sabe que existen.</p>
+<p><strong>Etapa 2: Negación</strong>
+Cuando hecho público, la corporación niega. "No hay evidencia de riesgo."</p>
+<p><strong>Etapa 3: Ataque a Mensajeros</strong>
+Los científicos que cuestionan los datos son atacados. "Desinformación." "Anticiencia."</p>
+<p><strong>Etapa 4: Cambio de Tema</strong>
+Después de ataque suficiente a mensajeros, el público se olvida de los datos. La corporación continúa operando.</p>
+<hr>
+<h2 id="lo-que-significa-para-futuras-generaciones">Lo Que Significa Para Futuras Generaciones</h2>
+<h3 id="daño-genético">Daño Genético</h3>
+<p>Si la inyección causa mutaciones en órganos reproductivos, el daño se extiende a futuras generaciones. Las mutaciones se heredan. Los hijos de los lesionados pueden nacer lesionados.</p>
+<p>Pfizer no ha estudiado esto. El daño multigeneracional no será comprendido durante décadas.</p>
+<h3 id="la-aceptación-del-precedente">La Aceptación del Precedente</h3>
+<p>Cuando gobiernos permitieron a Pfizer administrar una inyección de riesgo reproractor conocido a mujeres embarazadas, estableció un precedente: corporaciones pueden causar daño reproductor y gobiernos lo tolerarán.</p>
+<p>Este precedente ahora aplica a futuros productos. Modificación genética. Inyecciones auto-replicables. Cualquier producto que cause daño reproductor será permitido si es presentado como "salud pública."</p>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="/pfizer-documents-self-amplifying/?lang=es">Documentos de Pfizer: ARN Autoreplicante</a></li>
+<li><a href="/pfizer-fraud-criminal-case/?lang=es">Fraude Criminal de Pfizer</a></li>
+<li><a href="/pfizer-case-government-not-interested/?lang=es">Caso de Pfizer: El Gobierno No Está Interesado</a></li>
+</ul>
+<hr>
+<p><em>El daño reproductor es el daño más profundo: roba el futuro. Cuando corporaciones causan defectos de nacimiento, cuando gobiernos lo saben, cuando gobiernos lo permiten de todos modos, la injusticia es completa. Pero hay Un Poder que cura lo quebrantado, que restaura lo dañado, y que redime lo perdido. La esperanza de futuras generaciones no reposa en corporaciones o gobiernos. Reposa en Aquel cuyo poder es eterno.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/pharma/","className":"category-badge","children":"pharma"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Pfizer Niega Defectos de Nacimiento: La Supresión de Datos de Daño Reproductor"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Datos de daño reproductor y defectos de nacimiento de las inyecciones de Pfizer han sido documentados pero negados por Pfizer y autoridades regulatorias."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-01T10:00:00Z","children":"1 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pfizer",{"href":"/es/tag/pfizer/","className":"tag-pill","children":["#","pfizer"]}],["$","a","birth-defects",{"href":"/es/tag/birth-defects/","className":"tag-pill","children":["#","birth-defects"]}],["$","a","reproductive-harm",{"href":"/es/tag/reproductive-harm/","className":"tag-pill","children":["#","reproductive-harm"]}],["$","a","data-suppression",{"href":"/es/tag/data-suppression/","className":"tag-pill","children":["#","data-suppression"]}],["$","a","medical-fraud",{"href":"/es/tag/medical-fraud/","className":"tag-pill","children":["#","medical-fraud"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-denies-birth-defects/","title":"Pfizer Niega Defectos de Nacimiento: La Supresión de Datos de Daño Reproductor"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-denies-birth-defects/","title":"Pfizer Niega Defectos de Nacimiento: La Supresión de Datos de Daño Reproductor"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Pfizer Niega Defectos de Nacimiento: La Supresión de Datos de Daño Reproductor | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Datos de daño reproductor y defectos de nacimiento de las inyecciones de Pfizer han sido documentados pero negados por Pfizer y autoridades regulatorias."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pfizer, birth-defects, reproductive-harm, data-suppression, medical-fraud"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pfizer-denies-birth-defects/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-denies-birth-defects/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-denies-birth-defects/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-denies-birth-defects/"}],["$","meta","10",{"property":"og:title","content":"Pfizer Niega Defectos de Nacimiento: La Supresión de Datos de Daño Reproductor"}],["$","meta","11",{"property":"og:description","content":"Datos de daño reproductor y defectos de nacimiento de las inyecciones de Pfizer han sido documentados pero negados por Pfizer y autoridades regulatorias."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pfizer-denies-birth-defects/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-denies-birth-defects.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Pfizer Niega Defectos de Nacimiento: La Supresión de Datos de Daño Reproductor"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Pfizer Niega Defectos de Nacimiento: La Supresión de Datos de Daño Reproductor"}],["$","meta","25",{"name":"twitter:description","content":"Datos de daño reproductor y defectos de nacimiento de las inyecciones de Pfizer han sido documentados pero negados por Pfizer y autoridades regulatorias."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-denies-birth-defects.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

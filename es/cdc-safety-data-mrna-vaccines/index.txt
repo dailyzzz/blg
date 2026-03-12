@@ -1,0 +1,170 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","cdc-safety-data-mrna-vaccines",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","cdc-safety-data-mrna-vaccines","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cdc-safety-data-mrna-vaccines","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T478f,<h1 id="datos-de-seguridad-actualizados-de-la-cdc-sobre-vacunas-de-arnm-covid-19">Datos de Seguridad Actualizados de la CDC sobre Vacunas de ARNm COVID-19</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p>"Pesos diversos y medidas diversas, ambas cosas son igualmente abominables al SEÑOR." — Proverbios 20:10</p>
+</blockquote>
+<p>Dios odia la medición deshonesta. En el Israel antiguo, el comerciante que usaba pesos falsos — pesados en el lado de la compra, ligeros en el de la venta — cometía una abominación porque explotaba la confianza inherente en el comercio. El comprador confiaba en que las balanzas del comerciante eran honestas. Cuando no lo eran, todo el sistema de intercambio se corrompía.</p>
+<p>La CDC es la comerciante de datos de seguridad. El público confía en que las mediciones de la CDC — sus sistemas de vigilancia, sus análisis de seguridad, sus informes — se realizan con balanzas honestas. Pero cuando el sistema de monitoreo de seguridad está diseñado para subestimar eventos adversos, cuando las señales se descartan en lugar de investigarse, y cuando los datos se presentan con lenguaje eufemístico diseñado para minimizar la alarma, las balanzas son deshonestas. Los pesos son diversos. La medición es una abominación.</p>
+<p>La pista de ZZZ Daily <a href="https://zzzdaily.zzzdaily.com/tracks/es/129-Rockefeller_Medicine.mp4">Medicina Rockefeller</a> documenta cómo el establecimiento médico fue capturado por intereses que no sirven a la salud humana. Y la pista de Confliction <a href="https://confliction.zzzdaily.com/tracks/es/93-The_Great_Exchange.mp4">El Gran Intercambio</a> revela la sustitución de la verdad por una mentira — medición honesta por medición deshonesta.</p>
+<hr>
+<h2 id="el-sistema-de-vigilancia-de-seguridad-cómo-funciona-y-cómo-no">El Sistema de Vigilancia de Seguridad: Cómo Funciona (y Cómo No)</h2>
+<h3 id="vaers-el-sistema-voluntario">VAERS: El Sistema Voluntario</h3>
+<p>El Sistema de Informes de Eventos Adversos de Vacunas (VAERS) es el sistema de vigilancia pasiva primaria para eventos adversos de vacunas en los Estados Unidos. Hechos clave sobre VAERS:</p>
+<ul>
+<li><strong>Es pasivo.</strong> Los informes se envían voluntariamente por proveedores de atención médica, pacientes y miembros de la familia. No hay captura automática de eventos adversos.</li>
+<li><strong>Se sabe que subestima.</strong> Estudios publicados por la CDC misma (el Informe Lazarus, estudio de Harvard Pilgrim Healthcare) han estimado que VAERS captura entre el 1% y el 10% de los eventos adversos reales.</li>
+<li><strong>Fue diseñado para la detección de señales, no para causalidad.</strong> VAERS está destinado a identificar señales de seguridad que justifiquen una investigación adicional — no para establecer si una vacuna causó un evento adverso específico.</li>
+<li><strong>Fue abrumado por informes de vacunas COVID-19.</strong> VAERS recibió más informes después de la vacunación COVID-19 que para todas las otras vacunas combinadas durante los 30 años anteriores.</li>
+</ul>
+<h3 id="v-safe-el-sistema-activo-que-fue-suprimido">V-safe: El Sistema Activo Que Fue Suprimido</h3>
+<p>V-safe era un sistema de vigilancia activa basado en smartphones creado específicamente para el monitoreo de seguridad de vacunas COVID-19. A diferencia de VAERS, V-safe solicitaba activamente informes de los participantes a través de controles de salud basados en texto después de la vacunación.</p>
+<p>Los datos de V-safe no fueron liberados voluntariamente por la CDC. Se obtuvieron a través de litigio — una demanda de la Red de Acción de Consentimiento Informado (ICAN) obligó a la CDC a liberar los datos de V-safe. Cuando se liberaron, los datos mostraron:</p>
+<ul>
+<li><strong>Aproximadamente el 7.7% de los participantes de V-safe informaron necesitar atención médica</strong> después de la vacunación</li>
+<li><strong>Más del 25% informó no poder realizar actividades diarias normales</strong> después de la vacunación</li>
+<li><strong>Aproximadamente el 10% informó faltar al trabajo o la escuela</strong> después de la vacunación</li>
+</ul>
+<p>Estos son números extraordinarios para un producto declarado "seguro". Si el 7.7% de los aproximadamente 270 millones de estadounidenses que recibieron al menos una dosis de vacuna COVID-19 necesitó atención médica, eso representa aproximadamente 20.8 millones de personas — un número que empequeñece los informes de eventos adversos en VAERS.</p>
+<p>La CDC no compartió voluntariamente estos datos. Tuvo que ser demandada para liberarlos.</p>
+<h3 id="el-análisis-de-proporción-de-reportes-prr">El Análisis de Proporción de Reportes (PRR)</h3>
+<p>Se suponía que la CDC realizaría análisis de Proporción de Reportes (PRR) — un método estándar de farmacovigilancia que compara la frecuencia de reportes de eventos adversos específicos para una vacuna particular contra la frecuencia de reportes para todas las otras vacunas. Si una vacuna específica muestra una proporción significativamente más alta de un evento adverso particular, el PRR señala una posible preocupación de seguridad.</p>
+<p>En 2022, la CDC fue atrapada en una contradicción. La agencia inicialmente afirmó que estaba realizando análisis de PRR pero luego admitió que no lo había hecho. Cuando los análisis de PRR finalmente se realizaron (bajo presión), revelaron señales de seguridad para cientos de categorías de eventos adversos — mucho más que las señales limitadas que la CDC había reconocido públicamente.</p>
+<hr>
+<h2 id="los-datos-de-seguridad-actualizados-lo-que-muestran-los-números">Los Datos de Seguridad Actualizados: Lo Que Muestran los Números</h2>
+<h3 id="eventos-cardíacos">Eventos Cardíacos</h3>
+<p>Los datos de seguridad actualizados de la CDC muestran señales persistentes y significativas de eventos adversos cardíacos después de la vacunación de ARNm:</p>
+<ul>
+<li><strong>Miocarditis/pericarditis</strong> sigue siendo la señal cardíaca más prominente, con tasas más altas en hombres de 16-30 años después de la segunda dosis</li>
+<li><strong>Paro cardíaco</strong> Los informes después de la vacunación de ARNm superan las tasas de fondo</li>
+<li><strong>Elevación de troponina</strong> (indicando daño de células cardíacas) ha sido detectada en estudios de poblaciones vacunadas a tasas que sugieren que el daño cardíaco subclínico es mucho más común que la miocarditis clínica</li>
+<li><strong>Fibrilación auricular</strong> ha emergido como una señal en poblaciones de adultos mayores</li>
+</ul>
+<h3 id="eventos-neurológicos">Eventos Neurológicos</h3>
+<p>Los eventos adversos neurológicos muestran señales consistentes:</p>
+<ul>
+<li><strong>Síndrome de Guillain-Barré (SGB)</strong> — parálisis ascendente que afecta los nervios periféricos</li>
+<li><strong>Parálisis de Bell</strong> — parálisis del nervio facial</li>
+<li><strong>Mielitis transversa</strong> — inflamación de la médula espinal</li>
+<li><strong>Convulsiones</strong> — incluyendo convulsiones de nuevo inicio en individuos sin historial de convulsiones</li>
+<li><strong>Tinnitus</strong> — zumbido persistente en los oídos, informado a tasas muy por encima del fondo</li>
+<li><strong>Neuropatía de fibra pequeña</strong> — daño a las fibras nerviosas pequeñas que causa dolor crónico y disfunción autonómica</li>
+</ul>
+<h3 id="eventos-trombóticos">Eventos Trombóticos</h3>
+<p>Los trastornos de coagulación de sangre continúan mostrando señales de seguridad:</p>
+<ul>
+<li><strong>Embolia pulmonar</strong> — coágulos de sangre en los pulmones</li>
+<li><strong>Trombosis venosa profunda</strong> — coágulos de sangre en venas profundas</li>
+<li><strong>Trombosis venosa sinusal cerebral</strong> — coágulos de sangre en las venas de drenaje cerebral</li>
+<li><strong>Trombocitopenia</strong> — recuentos bajos de plaquetas que afectan la capacidad de coagulación de la sangre</li>
+</ul>
+<h3 id="eventos-autoinmunes">Eventos Autoinmunes</h3>
+<p>Las condiciones autoinmunes de nuevo inicio muestran señales:</p>
+<ul>
+<li><strong>Hepatitis autoinmune</strong> — ataque inmunológico del hígado</li>
+<li><strong>Trombocitopenia inmune (PTI)</strong> — destrucción inmunológica de plaquetas</li>
+<li><strong>Enfermedad de Graves y otro autoinmunidad tiroidea</strong> — ataque inmunológico de la tiroides</li>
+<li><strong>Alopecia</strong> — pérdida de cabello por ataque inmunológico de los folículos pilosos</li>
+<li><strong>Exacerbaciones de lupus</strong> — exacerbación del lupus eritematoso sistémico</li>
+</ul>
+<h3 id="señales-de-cáncer">Señales de Cáncer</h3>
+<p>Como se documenta en nuestro artículo sobre <a href="/cdc-advisors-covid-shots-cancer/?lang=es">Asesores de la CDC Divulgan Enlaces Entre Inyecciones COVID-19 y Cáncer</a>, las señales de cáncer están emergiendo en los datos de seguridad — incluyendo señales de linfoma, leucemia y tumores sólidos.</p>
+<hr>
+<h2 id="el-informe-kingston-decodificando-los-datos-oficiales">El Informe Kingston: Decodificando los Datos Oficiales</h2>
+<p>El análisis de Karen Kingston a través de <a href="https://karenkingston.substack.com">El Informe Kingston</a> proporciona contexto crítico para interpretar los datos de seguridad de la CDC.</p>
+<h3 id="lo-que-la-cdc-no-te-está-diciendo">Lo Que la CDC No Te Está Diciendo</h3>
+<p>Kingston ha documentado las formas sistemáticas en que la presentación de datos de la CDC minimiza la severidad aparente de las señales de seguridad:</p>
+<p><strong>Manipulación del denominador:</strong> La CDC presenta tasas de eventos adversos usando el número total de dosis administradas como el denominador. Debido a que se administraron cientos de millones de dosis, incluso grandes números absolutos de eventos adversos aparecen como porcentajes diminutos. Una tasa del 0.01% suena tranquilizadora hasta que calculas que el 0.01% de 670 millones de dosis (dosis estadounidenses totales administradas) es 67,000 eventos.</p>
+<p><strong>Filtrado temporal:</strong> La CDC aplica ventanas temporales a sus análisis de seguridad — por ejemplo, contando solo eventos de miocarditis que ocurren dentro de 7 o 21 días de la vacunación. Los eventos que ocurren después de la ventana se excluyen, incluso si están biológicamente relacionados. Esto subestima sistemáticamente los eventos con aparición retrasada.</p>
+<p><strong>Evitar la atribución:</strong> El lenguaje de la CDC evita consistentemente atribuir eventos adversos a la vacunación. Los eventos se describen como "asociados temporalmente" u "informados después de la vacunación" — lenguaje que mantiene la negación plausible mientras se reconoce que los datos existen.</p>
+<p><strong>Comparación con tasas de fondo:</strong> La CDC compara las tasas de eventos adversos posteriores a la vacunación con las "tasas de fondo" anteriores a la pandemia — tasas establecidas antes de la distribución generalizada de un producto de terapia génica novedosa. Pero si el producto está cambiando las tasas de fondo (causando más eventos cardíacos, más eventos neurológicos, más eventos autoinmunes en la población general), entonces comparar con las tasas de fondo anteriores al producto oscurece la señal.</p>
+<h3 id="los-números-reales">Los Números Reales</h3>
+<p>El análisis de Kingston estima que cuando se corrige por falta de reporte (usando los factores de falta de reporte establecidos por la CDC), el número real de estadounidenses que experimentaron eventos adversos significativos después de la vacunación de ARNm COVID-19 es probablemente de millones — consistente con los datos de V-safe que muestran el 7.7% de los participantes requiriendo atención médica.</p>
+<hr>
+<h2 id="el-estándar-bíblico-de-medición">El Estándar Bíblico de Medición</h2>
+<h3 id="pesos-honestos">Pesos Honestos</h3>
+<blockquote>
+<p>"Una pesa falsa es abominación para el SEÑOR: mas la pesa justa es su deleite." — Proverbios 11:1</p>
+</blockquote>
+<p>El sistema de vigilancia de seguridad de la CDC es una balanza falsa. Subestima por diseño (reporte pasivo). Excluye por política (filtrado temporal). Minimiza por lenguaje (evitar atribución). Oscurece por matemáticas (manipulación de denominador).</p>
+<p>Dios se deleita en pesos justos — en medición honesta que revela en lugar de ocultar. Los datos de seguridad, cuando se miden honestamente — cuando se corrigen por falta de reporte, cuando se expanden las ventanas temporales, cuando se elimina la manipulación de denominador — cuentan una historia de daño a una escala sin precedentes en la historia de la vacunación.</p>
+<h3 id="el-firmamento-de-la-confianza">El Firmamento de la Confianza</h3>
+<p>El firmamento que Dios colocó sobre la tierra separa y protege. La confianza es un firmamento social — separa la información confiable de la información no confiable y protege al público de decisiones dañinas basadas en datos falsos. Cuando la CDC corrompe sus datos de seguridad a través de medición deshonesta, rompe el firmamento de la confianza. El público, desprotegido por información honesta, toma decisiones que dañan sus cuerpos — los templos del Espíritu Santo.</p>
+<hr>
+<h2 id="lo-que-los-individuos-deben-saber">Lo Que Los Individuos Deben Saber</h2>
+<ol>
+<li><strong>VAERS captura solo el 1-10% de los eventos adversos reales.</strong> Multiplica los números reportados por 10-100 para una estimación más realista.</li>
+<li><strong>Los datos de V-safe muestran que el 7.7% de los participantes necesitó atención médica</strong> — datos que la CDC tuvo que ser demandada para liberar.</li>
+<li><strong>Los análisis de PRR revelan cientos de señales de seguridad</strong> — mucho más que lo que la CDC reconoció públicamente.</li>
+<li><strong>La presentación de datos de la CDC sistemáticamente minimiza</strong> la severidad aparente de los eventos adversos a través de manipulación de denominador, filtrado temporal y evitar atribución.</li>
+<li><strong>Las señales cardíacas, neurológicas, trombóticas, autoinmunes y de cáncer</strong> están todas presentes en los datos actualizados.</li>
+<li><strong>El sistema de monitoreo de seguridad no está diseñado para protegerte.</strong> Está diseñado para proporcionar negación plausible.</li>
+</ol>
+<hr>
+<h2 id="fuentes">Fuentes</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">El Informe Kingston</a>. Análisis de datos de seguridad de la CDC y limitaciones del sistema de vigilancia.</li>
+<li>Datos de VAERS (base de datos co-gestionada por CDC/FDA)</li>
+<li>Datos de V-safe (liberados vía litigio de ICAN)</li>
+<li>Análisis de PRR de la CDC</li>
+<li>Informe Lazarus sobre falta de reporte de VAERS</li>
+<li>Estudio de VAERS de Harvard Pilgrim Healthcare</li>
+</ul>
+<h2 id="descubre-más">Descubre Más</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de la Experiencia Cercana a la Muerte de Howard Pittman — Advertencia del Fin de los Tiempos Que Dios Le Dio</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Deplorables de los Jesuitas Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicidio y Pharmakeia — La Brujería de la Medicina Moderna</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¡Lo Que Podría Estar en el Sótano del Vaticano Puede Sorprenderte!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry en YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions en YouTube</a></li>
+</ul>
+<hr>
+<h2 id="escucha-mientras-lees">Escucha Mientras Lees</h2>
+<p>Estas pistas de ZZZ Daily exploran los temas en este artículo:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/129-Rockefeller_Medicine.mp4">Medicina Rockefeller</a> — El establecimiento médico capturado</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/179-Engineering_Contagion.mp4">Ingeniería de Contagio</a> — Enfermedad y tratamiento como sistema unificado</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/255-Vaccine_Of_The_Beast.mp4">Vacuna De La Bestia</a> — El programa de inyección</li>
+</ul>
+<p>Del álbum Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/93-The_Great_Exchange.mp4">El Gran Intercambio</a> — Verdad sustituida por mentira</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/33-The_Fire_in_the_Cave.mp4">El Fuego en la Caverna</a> — Verdad oculta que se libera</li>
+</ul>
+<hr>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/cdc-advisors-covid-shots-cancer/?lang=es">Asesores de la CDC Divulgan Enlaces Entre Inyecciones COVID-19 y Cáncer</a> — La divulgación de cáncer</li>
+<li><a href="/mrna-faulty-genes-myocarditis/?lang=es">La Tecnología de ARNm Puede Agregar Genes Defectuosos Que Conducen a Miocarditis</a> — El mecanismo cardíaco</li>
+<li><a href="/women-hospitalized-mrna-vaccination/?lang=es">Estudio de 4,610 Mujeres Hospitalizadas Después de Vacunación de ARNm</a> — Daño documentado a mujeres</li>
+<li><a href="/mass-awakening-deadly-mrna-shots/?lang=es">Encuesta Confirma Despertar Masivo a Inyecciones Mortales de ARNm COVID-19</a> — La conciencia pública está creciendo</li>
+</ul>
+<hr>
+<p><em>Dios se deleita en pesos justos y medidas honestas. Odia la balanza falsa. El sistema de vigilancia de seguridad de la CDC es una balanza falsa — diseñada para subestimar, construida para minimizar, calibrada para proteger el producto en lugar de las personas. Pero Dios lleva su propio libro de cuentas. Cada evento adverso está registrado. Cada corazón dañado, cada vaso coagulado, cada célula de cáncer se cuenta con precisión perfecta en balanzas que no pueden ser manipuladas. "Porque Dios traerá toda obra a juicio, juntamente con toda cosa encubierta, sea buena o sea mala" (Eclesiastés 12:14).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Datos de Seguridad Actualizados de la CDC sobre Vacunas de ARNm COVID-19"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Analizando los últimos datos de vigilancia de seguridad de la CDC sobre las vacunas de ARNm COVID-19, revelando señales de eventos adversos cardíacos, neurológicos y autoinmunes."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-21T10:00:00Z","children":"21 de abril de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CDC",{"href":"/es/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","safety-data",{"href":"/es/tag/safety-data/","className":"tag-pill","children":["#","safety-data"]}],["$","a","mRNA-vaccines",{"href":"/es/tag/mRNA-vaccines/","className":"tag-pill","children":["#","mRNA-vaccines"]}],["$","a","VAERS",{"href":"/es/tag/VAERS/","className":"tag-pill","children":["#","VAERS"]}],["$","a","adverse-events",{"href":"/es/tag/adverse-events/","className":"tag-pill","children":["#","adverse-events"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/cdc-safety-data-mrna-vaccines/","title":"Datos de Seguridad Actualizados de la CDC sobre Vacunas de ARNm COVID-19"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/cdc-safety-data-mrna-vaccines/","title":"Datos de Seguridad Actualizados de la CDC sobre Vacunas de ARNm COVID-19"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Datos de Seguridad Actualizados de la CDC sobre Vacunas de ARNm COVID-19 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Analizando los últimos datos de vigilancia de seguridad de la CDC sobre las vacunas de ARNm COVID-19, revelando señales de eventos adversos cardíacos, neurológicos y autoinmunes."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CDC, safety-data, mRNA-vaccines, VAERS, adverse-events"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/cdc-safety-data-mrna-vaccines/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cdc-safety-data-mrna-vaccines/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cdc-safety-data-mrna-vaccines/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cdc-safety-data-mrna-vaccines/"}],["$","meta","10",{"property":"og:title","content":"Datos de Seguridad Actualizados de la CDC sobre Vacunas de ARNm COVID-19"}],["$","meta","11",{"property":"og:description","content":"Analizando los últimos datos de vigilancia de seguridad de la CDC sobre las vacunas de ARNm COVID-19, revelando señales de eventos adversos cardíacos, neurológicos y autoinmunes."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/cdc-safety-data-mrna-vaccines/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cdc-safety-data-mrna-vaccines.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Datos de Seguridad Actualizados de la CDC sobre Vacunas de ARNm COVID-19"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Datos de Seguridad Actualizados de la CDC sobre Vacunas de ARNm COVID-19"}],["$","meta","25",{"name":"twitter:description","content":"Analizando los últimos datos de vigilancia de seguridad de la CDC sobre las vacunas de ARNm COVID-19, revelando señales de eventos adversos cardíacos, neurológicos y autoinmunes."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cdc-safety-data-mrna-vaccines.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

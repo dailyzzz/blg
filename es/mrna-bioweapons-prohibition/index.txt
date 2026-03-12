@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","mrna-bioweapons-prohibition",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","mrna-bioweapons-prohibition","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mrna-bioweapons-prohibition","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3c8b,<h1 id="the-mrna-bioweapons-prohibition-case">The mRNA Bioweapons Prohibition Case</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Thou shalt not kill." -- Exodus 20:13</p>
+</blockquote>
+<p>The sixth commandment is unambiguous. The deliberate introduction of harmful biological agents into the human body -- agents designed to self-assemble, self-replicate, and integrate with human biology without disclosure or consent -- meets the legal and moral definition of an attack on human life. The mRNA nanotechnology platform, deployed under the guise of vaccination, functions as a biological weapon: it causes harm, it was deployed without informed consent, and its effects are permanent and irreversible.</p>
+<p>The legal case for classifying mRNA products as bioweapons is not based on speculation. It is based on documented evidence, established legal frameworks, and the testimony of scientists, physicians, and legal experts who have examined both the products and their effects.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/es/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> from the Confliction album promises, the serpent's weapons will be crushed. And as <a href="https://confliction.zzzdaily.com/tracks/es/73-The_Fallen_Angels.mp4">The Fallen Angels</a> reminds us, the rebellion that deploys these weapons is ancient -- but its defeat is assured.</p>
+<hr>
+<h2 id="the-legal-framework">The Legal Framework</h2>
+<h3 id="the-biological-weapons-convention">The Biological Weapons Convention</h3>
+<p>The Biological Weapons Convention (BWC), formally the "Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on Their Destruction," entered into force in 1975. It is the first multilateral disarmament treaty banning an entire category of weapons.</p>
+<p>Article I of the BWC prohibits the development, production, stockpiling, and acquisition of:</p>
+<blockquote>
+<p>"Microbial or other biological agents, or toxins whatever their origin or method of production, of types and in quantities that have no justification for prophylactic, protective or other peaceful purposes."</p>
+</blockquote>
+<p>The key legal question is whether mRNA products containing undisclosed nanotechnology qualify as "biological agents" that "have no justification for prophylactic, protective or other peaceful purposes." The evidence suggests they do:</p>
+<ol>
+<li><strong>The nanotechnology components were not disclosed</strong> -- they serve no disclosed prophylactic purpose</li>
+<li><strong>Self-assembling nanotechnology has no therapeutic justification</strong> -- biochip structures in blood serve surveillance and control functions, not health functions</li>
+<li><strong>SV40 cancer-causing DNA contamination has no prophylactic justification</strong> -- it is a harmful contaminant with known carcinogenic potential</li>
+<li><strong>The products were deployed under military authority</strong> -- the U.S. Department of Defense, not HHS, ordered and distributed the products</li>
+</ol>
+<h3 id="the-nuremberg-code-as-criminal-standard">The Nuremberg Code as Criminal Standard</h3>
+<p>The Nuremberg Code is not merely an ethical guideline. It was established as a criminal standard -- the basis upon which Nazi doctors were prosecuted for crimes against humanity. Violation of the Nuremberg Code constitutes a war crime and a crime against humanity under international law.</p>
+<p>The mass deployment of undisclosed nanotechnology through pharmaceutical injection, without informed consent, to billions of people including children, constitutes a violation of the Nuremberg Code at a scale unprecedented in human history.</p>
+<h3 id="the-rome-statute">The Rome Statute</h3>
+<p>The Rome Statute of the International Criminal Court defines crimes against humanity as acts "committed as part of a widespread or systematic attack directed against any civilian population, with knowledge of the attack." These acts include:</p>
+<ul>
+<li>Murder</li>
+<li>Extermination</li>
+<li>Other inhumane acts of a similar character intentionally causing great suffering, or serious injury to body or to mental or physical health</li>
+</ul>
+<p>The documented harms of mRNA products -- cardiac events, neurological damage, cancer acceleration, nanotechnology contamination, DNA corruption -- constitute "serious injury to body" and "inhumane acts intentionally causing great suffering" when deployed with knowledge of undisclosed harmful components.</p>
+<h2 id="the-scientific-evidence-for-bioweapon-classification">The Scientific Evidence for Bioweapon Classification</h2>
+<h3 id="the-department-of-defense-connection">The Department of Defense Connection</h3>
+<p>The mRNA products deployed during the COVID-19 pandemic were not standard pharmaceutical products. They were countermeasures ordered and distributed under military authority:</p>
+<ul>
+<li><strong>Operation Warp Speed</strong> was a Department of Defense operation, not a public health initiative</li>
+<li><strong>The contracts</strong> for vaccine production were issued by the Department of Defense, not by pharmaceutical companies acting independently</li>
+<li><strong>The distribution</strong> was managed through military logistics channels</li>
+<li><strong>The regulatory framework</strong> used Emergency Use Authorization -- a national security authority, not a standard drug approval pathway</li>
+</ul>
+<p>The military provenance of the mRNA products is significant because products developed, ordered, and distributed by the Department of Defense are subject to the Biological Weapons Convention. If these products contain biological agents (nanotechnology, self-assembling structures, SV40 DNA) that serve no prophylactic purpose, they fall within the BWC's prohibition.</p>
+<p>Ana Mihalcea, MD, PhD, has provided extensive scientific evidence on her Substack (anamihalceamdphd.substack.com) supporting the bioweapon classification, including darkfield microscopy documentation of self-assembling nanotechnology structures that serve no therapeutic function and spectroscopic evidence of undisclosed materials.</p>
+<h3 id="the-dual-use-argument">The Dual-Use Argument</h3>
+<p>Proponents of mRNA technology argue that it serves "peaceful" (medical) purposes and therefore falls outside the BWC's prohibition. The dual-use argument fails for several reasons:</p>
+<ol>
+<li><strong>Undisclosed components cannot serve disclosed purposes.</strong> If the nanotechnology was not disclosed, it cannot be justified as serving the product's stated medical purpose.</li>
+<li><strong>Self-assembling biochips have no medical justification.</strong> There is no therapeutic rationale for circuit-like structures in the blood.</li>
+<li><strong>The harm profile exceeds any therapeutic benefit.</strong> The documented adverse events -- including death -- exceed any reasonable risk-benefit analysis for a product administered to healthy people.</li>
+<li><strong>The military deployment structure</strong> is inconsistent with a purely medical product.</li>
+</ol>
+<h2 id="the-case-proceedings">The Case Proceedings</h2>
+<h3 id="international-legal-actions">International Legal Actions</h3>
+<p>Multiple legal actions are underway at the international level seeking bioweapon classification:</p>
+<p><strong>The Hague / International Criminal Court</strong></p>
+<p>Applications have been submitted to the International Criminal Court alleging crimes against humanity in connection with the mRNA vaccine deployment. These applications cite:</p>
+<ul>
+<li>Violation of the Nuremberg Code through non-consensual experimentation</li>
+<li>Violation of the Biological Weapons Convention through deployment of undisclosed biological agents</li>
+<li>Violation of the Rome Statute through systematic harm to civilian populations</li>
+</ul>
+<p><strong>National Criminal Proceedings</strong></p>
+<p>Criminal proceedings are underway in multiple countries, including criminal complaints filed by scientists, physicians, and legal organizations documenting:</p>
+<ul>
+<li>Fraud in the regulatory process (concealment of nanotechnology components)</li>
+<li>Assault and battery (injection of undisclosed harmful materials without consent)</li>
+<li>Murder and manslaughter (deaths caused by undisclosed product components)</li>
+<li>Violation of biosafety laws (deployment of self-amplifying genetic technology without containment)</li>
+</ul>
+<h3 id="the-expert-testimony">The Expert Testimony</h3>
+<p>Expert witnesses in bioweapon prohibition cases include:</p>
+<ul>
+<li><strong>Physicians</strong> documenting nanotechnology contamination in patient blood through darkfield microscopy</li>
+<li><strong>Chemists</strong> who have conducted spectroscopic and elemental analysis of vaccine vials</li>
+<li><strong>Genomics experts</strong> who have documented SV40 DNA contamination and plasmid DNA levels</li>
+<li><strong>Bioweapons experts</strong> who have assessed the products against BWC criteria</li>
+<li><strong>Military analysts</strong> who have documented the Department of Defense's role in product development and deployment</li>
+</ul>
+<h2 id="the-prophetic-context">The Prophetic Context</h2>
+<h3 id="judgment-on-pharmakeia">Judgment on Pharmakeia</h3>
+<p>Revelation 18:23 pronounces judgment on Babylon, "for by thy sorceries [pharmakeia] were all nations deceived." The mRNA bioweapons prohibition case is, in temporal terms, the legal manifestation of this prophetic judgment. The pharmaceutical system that deceived all nations through undisclosed nanotechnology is being brought before human courts -- not because human courts are sufficient to render divine justice, but because God works through human instruments to begin the process of exposure that will culminate in His final judgment.</p>
+<p>The legal proceedings are imperfect. The courts are compromised. The judges are subject to the same pressures that captured the regulatory agencies. But the process of exposure is unstoppable. Every court filing, every expert witness, every piece of documented evidence contributes to the revelation of what was hidden -- the fulfillment of Jesus' promise that nothing covered shall remain unrevealed.</p>
+<p>The blood covenant corruption through pharmakeia is being documented, classified, and presented for judgment. The serpent's weapons are being identified, cataloged, and challenged. And though the serpent is cunning, the Serpent Crusher is sovereign.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>Biological Weapons Convention, United Nations, 1975</p>
+</li>
+<li>
+<p>Rome Statute of the International Criminal Court, 1998</p>
+</li>
+<li>
+<p>The Nuremberg Code, 1947</p>
+</li>
+<li>
+<p>Various ICC applications and national criminal complaints, 2021-present</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, expert evidence documentation</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> -- The weapon deployed as medicine</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> -- The military origins of the platform</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/179-Engineering_Contagion.mp4">Engineering Contagion</a> -- The engineered biological agent</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> -- The coordinated global deployment</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> -- The defeat of the serpent's weapons</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/73-The_Fallen_Angels.mp4">The Fallen Angels</a> -- The rebellion behind the weapon deployment</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/indigenous-nations-tribunal/?lang=es">Alliance Of Indigenous Nations International Tribunal Against Bioweapons</a> -- Indigenous legal action against bioweapons</li>
+<li><a href="/swiss-criminal-complaint-authorities/?lang=es">Swiss Scientists File Criminal Complaint Against Authorities Over mRNA</a> -- Criminal proceedings in Switzerland</li>
+<li><a href="/biotech-safety-government-lies/?lang=es">Government Assurances of Biotech Safety Are Worthless</a> -- The history of false safety claims</li>
+</ul>
+<hr>
+<p><em>The case has been filed. The evidence has been documented. The witnesses have come forward. The legal framework exists to classify the mRNA nanotechnology platform as a bioweapon -- because that is what the evidence demonstrates it to be. Whether human courts render justice is uncertain. Human institutions are compromised, captured, and corrupted. But divine justice is not uncertain. The God who gave the commandment "thou shalt not kill" has seen every death, documented every injury, and recorded every act of concealment. The bioweapons prohibition case filed in human courts is a shadow of the case already filed in the court of heaven -- where the Judge is incorruptible, the evidence is complete, and the verdict is final.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Prohibición de armas biológicas de ARNm"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"La tecnología de ARNm fue originalmente clasificada como arma biológica, y los tratados internacionales intentaron prohibirla antes de que fuera reempaquetada como medicina."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-22T10:00:00Z","children":"22 de marzo de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","bioweapons",{"href":"/es/tag/bioweapons/","className":"tag-pill","children":["#","bioweapons"]}],["$","a","mrna",{"href":"/es/tag/mrna/","className":"tag-pill","children":["#","mrna"]}],["$","a","legal-action",{"href":"/es/tag/legal-action/","className":"tag-pill","children":["#","legal-action"]}],["$","a","international-law",{"href":"/es/tag/international-law/","className":"tag-pill","children":["#","international-law"]}],["$","a","prohibition",{"href":"/es/tag/prohibition/","className":"tag-pill","children":["#","prohibition"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/mrna-bioweapons-prohibition/","title":"Prohibición de armas biológicas de ARNm"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/mrna-bioweapons-prohibition/","title":"Prohibición de armas biológicas de ARNm"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Prohibición de armas biológicas de ARNm | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"La tecnología de ARNm fue originalmente clasificada como arma biológica, y los tratados internacionales intentaron prohibirla antes de que fuera reempaquetada como medicina."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"bioweapons, mrna, legal-action, international-law, prohibition"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/mrna-bioweapons-prohibition/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/mrna-bioweapons-prohibition/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/mrna-bioweapons-prohibition/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/mrna-bioweapons-prohibition/"}],["$","meta","10",{"property":"og:title","content":"Prohibición de armas biológicas de ARNm"}],["$","meta","11",{"property":"og:description","content":"La tecnología de ARNm fue originalmente clasificada como arma biológica, y los tratados internacionales intentaron prohibirla antes de que fuera reempaquetada como medicina."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/mrna-bioweapons-prohibition/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/mrna-bioweapons-prohibition.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Prohibición de armas biológicas de ARNm"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Prohibición de armas biológicas de ARNm"}],["$","meta","25",{"name":"twitter:description","content":"La tecnología de ARNm fue originalmente clasificada como arma biológica, y los tratados internacionales intentaron prohibirla antes de que fuera reempaquetada como medicina."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/mrna-bioweapons-prohibition.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

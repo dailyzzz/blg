@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","cdc-stop-fluoride-drinking-water",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","cdc-stop-fluoride-drinking-water","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cdc-stop-fluoride-drinking-water","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T39a0,<h1 id="la-cdc-dejará-de-recomendar-la-adición-de-fluoruro-al-agua-potable">La CDC Dejará de Recomendar la Adición de Fluoruro al Agua Potable</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p>"Y el tercer ángel tocó la trompeta, y cayó del cielo una gran estrella, ardiendo como una antorcha, y cayó sobre la tercera parte de los ríos, y sobre las fuentes de las aguas; Y el nombre de la estrella es llamado Ajenjo: y la tercera parte de las aguas se convirtió en ajenjo; y muchos hombres murieron por las aguas, porque se hicieron amargas." — Apocalipsis 8:10-11</p>
+</blockquote>
+<p>Las Escrituras profetizan que en los últimos días, las aguas serán envenenadas. La estrella Ajenjo cae sobre los ríos y las fuentes, y las aguas se vuelven amargas — tóxicas — y muchos mueren por beberlas. La profecía no es metafórica. Describe la contaminación del suministro de agua — el recurso fundamental del cual depende toda la vida humana.</p>
+<p>Como revela la pista de Confliction <a href="https://confliction.zzzdaily.com/tracks/es/47-The_Transgression.mp4">La Transgresión</a>, la violación de los límites de Dios se manifiesta en la corrupción de Su creación — el envenenamiento del aire, el suelo, los alimentos, y el agua que Él diseñó para sustentar la vida. El fluoruro en el agua potable es una transgresión contra el orden creado — la adición deliberada de un producto de desecho industrial al suministro de agua bajo la afirmación de que previene la caries dental, mientras la evidencia del daño neurológico se acumula década tras década.</p>
+<p>La CDC ha revertido su recomendación. El Ajenjo está siendo identificado — si no todavía removido.</p>
+<hr>
+<h2 id="la-historia-de-la-fluoración-del-agua">La Historia de la Fluoración del Agua</h2>
+<p>La fluoración del agua en Estados Unidos comenzó en 1945, cuando Grand Rapids, Michigan se convirtió en la primera ciudad en agregar fluoruro a su suministro público de agua. La CDC posteriormente respaldó la fluoración del agua como una medida de salud pública, y para 2020, aproximadamente el 73% de la población estadounidense servida por sistemas de agua comunitarios recibía agua fluorada.</p>
+<p>La CDC ha llamado a la fluoración del agua uno de los "diez grandes logros de salud pública del siglo XX." La Asociación Dental Americana, la Asociación Médica Americana, y la Organización Mundial de la Salud han respaldado todas la práctica. El nivel de fluoruro recomendado fue establecido en 0.7 miligramos por litro (mg/L) por el Servicio de Salud Pública de Estados Unidos en 2015, reducido del rango anterior de 0.7-1.2 mg/L.</p>
+<p>Sin embargo, la evidencia científica que desafía la fluoración ha crecido constantemente durante las últimas dos décadas:</p>
+<p><strong>Neurotoxicidad:</strong> Un informe histórico de 2024 del Programa Nacional de Toxicología (NTP), después de años de supresión y revisión, concluyó que la exposición a fluoruro a niveles consistentes con la fluoración del agua está asociada con reducción de CI en niños. El informe revisó más de 70 estudios humanos y encontró una asociación consistente entre la exposición a fluoruro y daño neurodesarrollista.</p>
+<p><strong>Disrupción endocrina:</strong> El informe de 2006 del Consejo Nacional de Investigación identificó el fluoruro como un disruptor endocrino, señalando efectos en la función tiroidea, metabolismo óseo, y salud reproductiva a niveles que se superponen con los producidos por la fluoración del agua.</p>
+<p><strong>Reducción de caries dentales:</strong> El beneficio dental afirmado de la fluoración del agua ha sido cada vez más cuestionado. Grandes estudios epidemiológicos comparando comunidades fluoradas y no fluoradas han encontrado diferencias mínimas en las tasas de caries dentales — sugiriendo que el uso generalizado de pasta de dientes fluorada ha hecho que la fluoración del agua sea innecesaria para la salud dental.</p>
+<p><strong>Fluorosis dental:</strong> La fluoración del agua es la causa principal de fluorosis dental — una condición causada por ingesta excesiva de fluoruro durante el desarrollo dental, resultando en decoloración y daño estructural del esmalte de los dientes. Los datos de la CDC muestran que aproximadamente el 65% de los adolescentes estadounidenses ahora exhiben algún grado de fluorosis dental — un aumento dramático desde la tasa de prevalencia del 10% cuando se introdujo la fluoración.</p>
+<p>Karen Kingston ha documentado en El Informe Kingston (karenkingston.substack.com): "La fluoración del agua es el programa de medicación masiva más exitoso en la historia humana. Fue implementado sin consentimiento individual, mantenido sin monitoreo de seguridad adecuado, y defendido sin compromiso honesto con la evidencia acumulada del daño. La reversión de la CDC no es una actualización científica — es una confesión de que la agencia ha estado equivocada durante 80 años mientras rechazaba a los científicos que intentaban advertirla."</p>
+<hr>
+<h2 id="la-sentencia-de-la-corte-federal">La Sentencia de la Corte Federal</h2>
+<p>La reversión de política de la CDC sigue una sentencia de corte federal histórica en el caso de <em>Food &#x26; Water Watch et al. v. EPA</em>, en el cual el Juez Edward Chen del Distrito Norte de California falló que la fluoración del agua a niveles actuales plantea un riesgo irrazonable de daño neurotóxico, particularmente a niños. La sentencia ordenó a la EPA tomar acciones regulatorias para abordar el riesgo.</p>
+<p>La sentencia del Juez Chen se basó en testimonio experto extenso y el informe del NTP, que el juez encontró ser la revisión más comprehensiva de neurotoxicidad de fluoruro jamás realizada. La sentencia notó que la propia evaluación de riesgo de la EPA no había explicado adecuadamente los efectos neurodesarrollistas y que la agencia había fallado en aplicar el principio de precaución a una sustancia administrada involuntariamente a toda la población.</p>
+<p>La reversión de la CDC de su recomendación de fluoración efectivamente elimina el respaldo del gobierno federal de la práctica — aunque la decisión de fluorar permanece con gobiernos municipales y estatales individuales.</p>
+<hr>
+<h2 id="el-problema-más-profundo-medicación-masiva-sin-consentimiento">El Problema Más Profundo: Medicación Masiva Sin Consentimiento</h2>
+<p>La fluoración del agua es medicación masiva. Implica la adición de una sustancia farmacológicamente activa al suministro de agua pública con el propósito de producir un efecto terapéutico (la prevención de caries dentales) en la población que consume el agua. La sustancia es administrada:</p>
+<ul>
+<li>Sin consentimiento individual</li>
+<li>Sin control de dosis individual (el consumo varía según la ingesta de agua)</li>
+<li>Sin evaluación médica individual</li>
+<li>Sin monitoreo individual de efectos adversos</li>
+<li>Sin la capacidad de individuos para optar por no participar (aparte de comprar sistemas de filtración o fuentes alternativas de agua)</li>
+</ul>
+<p>Esta es una violación fundamental de la ética médica, que requiere consentimiento informado para cualquier intervención médica. El Código de Nuremberg, la Declaración de Helsinki, y principios establecidos de bioética todos requieren que las intervenciones médicas sean voluntarias, consentidas individualmente, y sujetas al derecho de retirarse.</p>
+<p>La pista <a href="https://zzzdaily.zzzdaily.com/tracks/es/109-Biometric_Beast_System.mp4">Sistema Bestia Biométrico</a> documenta cómo los sistemas de intervención médica de población amplia — desde fluoración hasta mandatos de vacunación — erosionan el principio de consentimiento individual y establecen el precedente de que el estado puede administrar tratamientos médicos a toda la población sin permiso individual.</p>
+<hr>
+<h2 id="la-significancia-profética">La Significancia Profética</h2>
+<blockquote>
+<p>"Y me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero." — Apocalipsis 22:1</p>
+</blockquote>
+<p>El diseño de Dios para el agua es pureza — el río de vida, claro como el cristal. La contaminación del agua es la corrupción del diseño de Dios — la transformación de un regalo que sustenta la vida en un vehículo para la toxicidad. El respaldo de décadas de la CDC de la fluoración del agua fue una participación en esta corrupción — la bendición institucional de una práctica que introdujo un producto de desecho industrial en el agua que Dios diseñó para sustentar la vida.</p>
+<p>La reversión comienza el proceso de restauración. Pero la restauración requiere acción en cada nivel — federal, estatal, y municipal. La recomendación de la CDC ha terminado, pero el fluoruro en el agua permanece hasta que las autoridades locales actúen para removerlo.</p>
+<hr>
+<h3 id="la-advertencia-de-1-samuel-8">La Advertencia de 1 Samuel 8</h3>
+<blockquote>
+<p><em>"Y dijo Jehová a Samuel: Oye la voz del pueblo en todo lo que te digan; porque no te han desechado a ti, sino a mí me han desechado, para que no reine sobre ellos."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=RVR1960">1 Samuel 8:7 (RVR1960)</a></p>
+</blockquote>
+<p>La advertencia antigua de 1 Samuel 8 resuena a través de cada pasillo de gobierno hoy. Cuando Israel demandó un rey como las otras naciones, Dios les advirtió exactamente lo que sucedería — sus hijos tomados para la guerra, sus hijas para el servicio, sus campos y viñas confiscados, una décima parte de todo incautado. Eligieron el gobierno humano sobre el reinado de Dios, y la tiranía siguió exactamente como fue prometido. Nada ha cambiado. El sistema político moderno es dos alas del mismo pájaro — izquierda y derecha, Republicano y Demócrata — todos sirviendo la misma estructura de poder oculta. Votar por cualquiera de los lados es elegir cuál ala aletea a continuación mientras el pájaro vuela en la misma dirección. El poder real nunca ha estado en ninguna papeleta.</p>
+<h2 id="fuentes">Fuentes</h2>
+<ul>
+<li>
+<p>CDC — Reversión de recomendación de fluoración del agua</p>
+</li>
+<li>
+<p>El Informe Kingston (karenkingston.substack.com) — Análisis de Karen Kingston del historial de fluoración del agua, supresión del informe del NTP, y ética de medicación masiva</p>
+</li>
+<li>
+<p>Programa Nacional de Toxicología — Informe de neurotoxicidad de fluoruro</p>
+</li>
+<li>
+<p>Food &#x26; Water Watch et al. v. EPA — Sentencia de corte federal</p>
+</li>
+<li>
+<p>Consejo Nacional de Investigación — "Fluoruro en Agua Potable: Una Revisión Científica de los Estándares de la EPA" (2006)</p>
+</li>
+<li>
+<p>Apocalipsis 8:10-11, Apocalipsis 22:1 (RVR1960)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=RVR1960">1 Samuel 8 — La Advertencia Contra Reyes Terrenales (RVR1960)</a></p>
+</li>
+</ul>
+<h2 id="descubre-más">Descubre Más</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de la Experiencia Cercana a la Muerte de Howard Pittman — Advertencia del Fin de los Tiempos Que Dios Le Dio</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Deplorables de los Jesuitas Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¡Lo Que Podría Estar en el Sótano del Vaticano Puede Sorprenderte!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry en YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions en YouTube</a></li>
+</ul>
+<hr>
+<h2 id="escucha-mientras-lees">Escucha Mientras Lees</h2>
+<p>Estas pistas de ZZZ Daily exploran los temas en este artículo:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/109-Biometric_Beast_System.mp4">Sistema Bestia Biométrico</a> — Intervención médica de población amplia sin consentimiento individual</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/103-MKUltra_Never_Ended.mp4">MKUltra Nunca Terminó</a> — Programas del gobierno tratando la población como sujetos experimentales</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/285-Lockstep_With_The_Beast.mp4">Marchando en Sincronía Con La Bestia</a> — Unanimidad institucional defendiendo una práctica dañina durante décadas</li>
+</ul>
+<p>Del álbum Confliction (La Cueva de Tesoros):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/47-The_Transgression.mp4">La Transgresión</a> — La corrupción del orden creado de Dios a través del envenenamiento del agua</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/07-The_Serpents_Curse.mp4">La Maldición de la Serpiente</a> — La maldición manifestada en la contaminación del sustento más básico de la vida</li>
+</ul>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/hhs-maha-transformation/?lang=es">HHS Anuncia Transformación MAHA de la Atención Médica</a> — Agua limpia como pilar de la iniciativa MAHA</li>
+<li><a href="/rfk-cleans-house-cdc/?lang=es">RFK Jr. Limpia la Casa en la CDC</a> — Reformando la agencia que respaldó la fluoración durante 80 años</li>
+<li><a href="/fda-ended-emergency-use-authorizations/?lang=es">FDA Acaba de Terminar Autorizaciones de Uso de Emergencia para COVID-19</a> — Revirtiendo política farmacéutica construida en evidencia inadecuada</li>
+<li><a href="/rfk-worldwide-cause-autism/?lang=es">RFK Jr. Anuncia Esfuerzo Mundial para Determinar la Causa del Autismo</a> — Investigando neurotoxinas ambientales incluyendo fluoruro</li>
+</ul>
+<hr>
+<p><em>Las aguas de América han sido contaminadas durante 80 años bajo el respaldo de la CDC — un producto de desecho industrial agregado al suministro de agua de 200 millones de personas sin consentimiento, sin pruebas de seguridad adecuadas, y a pesar de la evidencia acumulada del daño neurológico. La reversión de la CDC es un comienzo — pero solo un comienzo. El fluoruro permanece en el agua hasta que cada municipio actúe para removerlo. "El que tiene oídos para oír, que oiga" (Mateo 11:15). La CDC ha hablado. La ciencia ha hablado. Los tribunales han hablado. Ahora la pregunta recae en cada ciudad, cada condado, y cada distrito de agua: ¿continuarás envenenando el agua, o la restaurarás a la pureza que Dios diseñó?</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"La CDC Dejará de Recomendar la Adición de Fluoruro al Agua Potable"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"La CDC revierte décadas de política al terminar su recomendación para la adición de fluoruro al agua potable pública, citando evidencia de neurotoxicidad y reducción de CI."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-27T10:00:00Z","children":"27 de mayo de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CDC",{"href":"/es/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","fluoride",{"href":"/es/tag/fluoride/","className":"tag-pill","children":["#","fluoride"]}],["$","a","drinking-water",{"href":"/es/tag/drinking-water/","className":"tag-pill","children":["#","drinking-water"]}],["$","a","neurotoxicity",{"href":"/es/tag/neurotoxicity/","className":"tag-pill","children":["#","neurotoxicity"]}],["$","a","public-health",{"href":"/es/tag/public-health/","className":"tag-pill","children":["#","public-health"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/cdc-stop-fluoride-drinking-water/","title":"La CDC Dejará de Recomendar la Adición de Fluoruro al Agua Potable"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/cdc-stop-fluoride-drinking-water/","title":"La CDC Dejará de Recomendar la Adición de Fluoruro al Agua Potable"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"La CDC Dejará de Recomendar la Adición de Fluoruro al Agua Potable | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"La CDC revierte décadas de política al terminar su recomendación para la adición de fluoruro al agua potable pública, citando evidencia de neurotoxicidad y reducción de CI."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CDC, fluoride, drinking-water, neurotoxicity, public-health"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/cdc-stop-fluoride-drinking-water/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cdc-stop-fluoride-drinking-water/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cdc-stop-fluoride-drinking-water/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cdc-stop-fluoride-drinking-water/"}],["$","meta","10",{"property":"og:title","content":"La CDC Dejará de Recomendar la Adición de Fluoruro al Agua Potable"}],["$","meta","11",{"property":"og:description","content":"La CDC revierte décadas de política al terminar su recomendación para la adición de fluoruro al agua potable pública, citando evidencia de neurotoxicidad y reducción de CI."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/cdc-stop-fluoride-drinking-water/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cdc-stop-fluoride-drinking-water.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"La CDC Dejará de Recomendar la Adición de Fluoruro al Agua Potable"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"La CDC Dejará de Recomendar la Adición de Fluoruro al Agua Potable"}],["$","meta","25",{"name":"twitter:description","content":"La CDC revierte décadas de política al terminar su recomendación para la adición de fluoruro al agua potable pública, citando evidencia de neurotoxicidad y reducción de CI."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cdc-stop-fluoride-drinking-water.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

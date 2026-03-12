@@ -1,0 +1,133 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","mandatory-digital-id-mexico",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","mandatory-digital-id-mexico","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mandatory-digital-id-mexico","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T397c,<h1 id="mandatory-digital-id-for-all-citizens-begins-in-mexico">Mandatory Digital ID For All Citizens Begins In Mexico</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name." -- Revelation 13:17</p>
+</blockquote>
+<p>The mark of the Beast is fundamentally an identity system. It is not merely a payment mechanism or a loyalty badge. It is the identifier -- the mark, the name, the number -- that determines whether a person can participate in society. Without it, you are excluded. With it, you are included. The mark does not merely track transactions. It defines who you are in the system. Without the system's recognition, you do not exist.</p>
+<p>Mexico has begun implementing mandatory biometric digital identification for all citizens. Every person -- from newborn to elderly -- must be registered in a centralized digital identity database that links biometric data (fingerprints, iris scans, facial recognition) to a unique digital identifier. This identifier becomes the gateway to government services, banking, healthcare, education, employment, travel, and eventually, every transaction and interaction in Mexican society.</p>
+<p>This is not the mark of the Beast. But it is the infrastructure of the mark. It is the identity layer upon which the mark will be placed. Without this infrastructure, Revelation 13 is logistically impossible. With it, Revelation 13 is logistically trivial.</p>
+<p>As the Confliction album track <a href="https://confliction.zzzdaily.com/tracks/es/13-The_Word_of_God.mp4">The Word of God</a> affirms, God's Word identifies His people by their faith, not by their biometrics. The Shepherd knows His sheep by name -- not by iris scan. <a href="https://confliction.zzzdaily.com/tracks/es/127-The_Overcoming.mp4">The Overcoming</a> reminds us that the overcomers are identified by the blood of the Lamb, not by a digital certificate.</p>
+<hr>
+<h2 id="what-mexico-is-implementing">What Mexico Is Implementing</h2>
+<h3 id="the-curp-digital-identity-system">The CURP Digital Identity System</h3>
+<p>Mexico's existing identification system, the Clave Unica de Registro de Poblacion (CURP), is being expanded from a simple alphanumeric code to a comprehensive biometric digital identity. The upgraded system -- mandated through federal legislation -- requires:</p>
+<ul>
+<li><strong>Biometric enrollment for all citizens.</strong> Fingerprints, iris scans, and facial photographs captured at registration centers and stored in a centralized federal database.</li>
+<li><strong>Unique digital identifier.</strong> Each citizen receives a single, non-transferable digital identifier linked to their biometric data, creating an unambiguous one-to-one mapping between the physical person and their digital profile.</li>
+<li><strong>Mandatory participation.</strong> Unlike previous systems where registration was technically optional (though functionally necessary for many services), the new digital ID is legally mandatory for all citizens and legal residents.</li>
+<li><strong>Integration across government services.</strong> The digital ID becomes the single authentication method for accessing government benefits, healthcare, education, tax filing, voting, and legal proceedings.</li>
+<li><strong>Banking integration.</strong> Financial institutions are required to verify customer identity through the biometric digital ID system, linking every bank account, loan, and financial transaction to the centralized identifier.</li>
+</ul>
+<h3 id="the-timeline">The Timeline</h3>
+<p>Mexico's implementation follows an aggressive timeline:</p>
+<ul>
+<li><strong>Phase 1: Adult enrollment.</strong> All adults are required to register biometric data and receive digital IDs within the initial rollout period.</li>
+<li><strong>Phase 2: Minor enrollment.</strong> Children are enrolled at birth, with biometric data (footprints initially, fingerprints and facial data updated as they grow) linked to their parents' digital IDs.</li>
+<li><strong>Phase 3: Full integration.</strong> All government services, financial transactions, healthcare access, and educational enrollment require digital ID authentication. Participation in society without the digital ID becomes functionally impossible.</li>
+</ul>
+<hr>
+<h2 id="the-global-pattern-mexico-is-not-alone">The Global Pattern: Mexico Is Not Alone</h2>
+<p>Mexico's mandatory digital ID does not exist in isolation. It is part of a coordinated global movement toward universal biometric digital identification, promoted and funded by the same institutions across every nation:</p>
+<h3 id="india-aadhaar">India: Aadhaar</h3>
+<p>India's Aadhaar system, launched in 2009, is the world's largest biometric ID program, covering over 1.3 billion people. It links fingerprints, iris scans, and facial photographs to a unique 12-digit number. Aadhaar is now required for bank accounts, government benefits, phone service, tax filing, and an expanding list of private-sector services. India's model is the template other nations follow.</p>
+<h3 id="european-union-eidas-20">European Union: eIDAS 2.0</h3>
+<p>The EU's revised electronic identification regulation mandates that all member states provide digital identity wallets to their citizens by 2026. These wallets will store identity credentials, driving licenses, health records, and educational certificates -- creating a single digital identity accessible across 27 countries.</p>
+<h3 id="africa-continental-digital-id-push">Africa: Continental Digital ID Push</h3>
+<p>The African Union, supported by the World Bank's Identification for Development (ID4D) initiative, is implementing digital ID programs across the continent. Nigeria, Kenya, Ethiopia, and dozens of other nations are in various stages of biometric enrollment.</p>
+<h3 id="the-world-bank-id4d-initiative">The World Bank ID4D Initiative</h3>
+<p>The World Bank's ID4D program explicitly aims to provide "legal identity for all" by 2030 -- Sustainable Development Goal 16.9. The program provides funding, technical assistance, and policy guidance to nations implementing biometric digital ID systems. This is not organic, nation-by-nation development. This is a coordinated global initiative with centralized funding and standardized requirements.</p>
+<hr>
+<h2 id="the-mark-infrastructure">The Mark Infrastructure</h2>
+<h3 id="how-digital-id-becomes-the-mark">How Digital ID Becomes the Mark</h3>
+<p>The transition from digital ID to the mark of the Beast requires only a few additional steps, all of which are already in development:</p>
+<ol>
+<li>
+<p><strong>Link digital ID to central bank digital currency (CBDC).</strong> When all financial transactions require digital ID authentication, and all currency is digital and programmable, the digital ID becomes the gateway to economic participation. This is Revelation 13:17 in technical terms: no man can buy or sell without the identifier.</p>
+</li>
+<li>
+<p><strong>Link digital ID to health status.</strong> COVID-19 demonstrated the concept: vaccine passports linked health status to access. Digital ID systems make this permanent -- your health compliance (vaccinations, medications, genetic screening) determines your access to services.</p>
+</li>
+<li>
+<p><strong>Link digital ID to social compliance.</strong> China's social credit system demonstrates the model: behavior scoring linked to digital identity determines access to travel, credit, education, and employment.</p>
+</li>
+<li>
+<p><strong>Make digital ID biologically integrated.</strong> The transition from a card or phone-based ID to a biologically integrated ID (subcutaneous chip, mesogen microchip, or nanostructure-based identifier) completes the mark. The identifier is no longer something you carry. It is something you are.</p>
+</li>
+</ol>
+<p>Each step is independently justified. Each step is incrementally introduced. And each step brings the system closer to the complete infrastructure described in Revelation 13.</p>
+<hr>
+<h2 id="dr-ana-mihalcea-the-biological-id-layer">Dr. Ana Mihalcea: The Biological ID Layer</h2>
+<p>Ana Maria Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) evidence that biological identification may already be in deployment. The Bluetooth MAC addresses detected from human subjects -- unique digital identifiers broadcast from inside the body -- represent a biological ID layer that operates without any card, phone, or external device.</p>
+<p>If self-assembling nanostructures in the blood function as wireless transponders, each with a unique identifier, then every person carrying these structures is already biologically tagged. The mandatory digital ID systems being implemented worldwide are the bureaucratic framework. The biological ID -- deployed through injection, atmospheric, or other vectors -- is the hardware.</p>
+<p>Mexico's mandatory digital ID is the paper trail. The Bluetooth body is the deployment.</p>
+<hr>
+<h2 id="the-firmament-and-the-global-id-grid">The Firmament and the Global ID Grid</h2>
+<p>Under the firmament -- the solid dome of Genesis 1:6-8 -- the earth is a contained system. A global digital ID grid covering the entire population is achievable within a bounded environment in a way it might not be on an infinite plane. Every person under the dome can be enumerated, identified, and tracked. The dome provides the physical boundary. The digital ID provides the informational boundary. Together, they create total identification -- every person, every location, every transaction, under the dome and in the database.</p>
+<p>The sun, moon, and stars move in their courses above the firmament, following worn grooves like record needles across crystal. Below the firmament, human beings are now being assigned digital identifiers that track them with the same mechanical precision. The celestial bodies have their courses. The people now have their numbers. And both move within a system of total containment.</p>
+<hr>
+<h2 id="what-you-can-do">What You Can Do</h2>
+<ol>
+<li><strong>Understand the global pattern.</strong> Mexico is one node in a worldwide network. Digital ID is being implemented everywhere, simultaneously, through coordinated international programs.</li>
+<li><strong>Delay enrollment where possible.</strong> In jurisdictions where digital ID is not yet mandatory, resist early adoption. Once enrolled, extraction is extremely difficult.</li>
+<li><strong>Maintain analog identity documentation.</strong> Physical documents -- birth certificates, passports, paper records -- provide identity verification outside the digital system.</li>
+<li><strong>Use cash.</strong> Cash transactions do not require digital ID authentication. As digital payment systems expand, cash use becomes an act of resistance.</li>
+<li><strong>Remember your true identity.</strong> "But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name" (John 1:12). Your identity is in Christ, not in a database.</li>
+</ol>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/49-Smart_City_Prison.mp4">Smart City Prison</a> -- The city as a controlled identity zone</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/471-Beast_System_Bluetooth.mp4">Beast System Bluetooth</a> -- The wireless infrastructure of identification</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a> -- The biological dimension of digital identity</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/469-Antichrist_Algorithm.mp4">Antichrist Algorithm</a> -- The algorithm that decides who participates</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/13-The_Word_of_God.mp4">The Word of God</a> -- True identity comes from the Word, not the system</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/127-The_Overcoming.mp4">The Overcoming</a> -- Overcoming the system through the Lamb's blood</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/biometric-digital-id-expansion/?lang=es">Biometric National Digital ID Expansion Sweeps the Globe</a> -- The worldwide digital ID movement</li>
+<li><a href="/smart-big-brother-privacy/?lang=es">Privacy Is History: SMART Big Brother Is Already Here</a> -- The surveillance state that digital ID enables</li>
+<li><a href="/us-omniverse-under-ai/?lang=es">Are You Ready For The US Omniverse Under AI Governance</a> -- The AI governance framework built on digital identity</li>
+<li><a href="/agenda-2030-un-global-governance/?lang=es">Agenda 2030: The UN Blueprint for Global Governance</a> -- The international framework mandating digital ID for all</li>
+</ul>
+<hr>
+<p><em>Mexico gives every citizen a number. India gives every citizen a number. The European Union gives every citizen a number. Africa gives every citizen a number. The World Bank funds the system. The United Nations mandates the target: legal identity for all by 2030. "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark" (Revelation 13:16). All. Not some. Not the willing. All. The mandatory digital ID is the all -- the universal requirement that leaves no one unidentified, no one unnumbered, no one outside the system. But God numbers His people differently. "The LORD knoweth them that are his" (2 Timothy 2:19). He knows them not by iris scan or fingerprint or digital certificate. He knows them by the blood of the Lamb. And that identity -- written not in a database but in the Book of Life -- cannot be revoked, cannot be hacked, and cannot be mandated by any government on earth.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Identificación digital obligatoria en México"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"El gobierno mexicano implementó sistemas de identificación digital biométrica obligatoria, preparando la infraestructura para el control total de la población."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-11T10:00:00Z","children":"11 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","digital-id",{"href":"/es/tag/digital-id/","className":"tag-pill","children":["#","digital-id"]}],["$","a","biometrics",{"href":"/es/tag/biometrics/","className":"tag-pill","children":["#","biometrics"]}],["$","a","Mexico",{"href":"/es/tag/Mexico/","className":"tag-pill","children":["#","Mexico"]}],["$","a","surveillance",{"href":"/es/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}],["$","a","population-control",{"href":"/es/tag/population-control/","className":"tag-pill","children":["#","population-control"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/mandatory-digital-id-mexico/","title":"Identificación digital obligatoria en México"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/mandatory-digital-id-mexico/","title":"Identificación digital obligatoria en México"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Identificación digital obligatoria en México | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"El gobierno mexicano implementó sistemas de identificación digital biométrica obligatoria, preparando la infraestructura para el control total de la población."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"digital-id, biometrics, Mexico, surveillance, population-control"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/mandatory-digital-id-mexico/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/mandatory-digital-id-mexico/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/mandatory-digital-id-mexico/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/mandatory-digital-id-mexico/"}],["$","meta","10",{"property":"og:title","content":"Identificación digital obligatoria en México"}],["$","meta","11",{"property":"og:description","content":"El gobierno mexicano implementó sistemas de identificación digital biométrica obligatoria, preparando la infraestructura para el control total de la población."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/mandatory-digital-id-mexico/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/mandatory-digital-id-mexico.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Identificación digital obligatoria en México"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Identificación digital obligatoria en México"}],["$","meta","25",{"name":"twitter:description","content":"El gobierno mexicano implementó sistemas de identificación digital biométrica obligatoria, preparando la infraestructura para el control total de la población."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/mandatory-digital-id-mexico.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

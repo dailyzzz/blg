@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","natural-molecules-anti-cancer",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","natural-molecules-anti-cancer","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","natural-molecules-anti-cancer","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4902,<h1 id="natural-molecules-with-anti-cancer-properties-they-dont-want-you-to-know">Natural Molecules With Anti-Cancer Properties They Don't Want You To Know</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters issued out from the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine." — Ezekiel 47:12</p>
+</blockquote>
+<p>God designed medicine into creation. Before there were pharmaceutical companies, before there were patents, before there was a single laboratory, the Creator embedded healing molecules in plants, fungi, minerals, and the biochemical pathways of the human body itself. The leaves of the trees are for medicine — not as a poetic metaphor, but as a design specification from the Architect of life. Every molecule the body needs for healing already exists in creation. It does not need to be synthesized in a laboratory. It does not need a patent number. It does not need FDA approval. It was approved by God when He made it.</p>
+<p>The pharmaceutical industry does not want you to know this. A cured patient is a lost customer. A natural molecule that cannot be patented is a threat to a business model built on synthetic chemicals that generate recurring revenue. The suppression of natural anti-cancer molecules is not a conspiracy theory — it is a business strategy, and it has been the operating principle of Rockefeller medicine since its inception in the early 20th century.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/es/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> speaks to the truth that breaks through darkness — and the truth about natural anti-cancer molecules is breaking through despite every effort to suppress it. <a href="https://confliction.zzzdaily.com/tracks/es/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> points to the source of all healing — the God who designed the molecules and the bodies they heal.</p>
+<hr>
+<h2 id="the-suppression-machine">The Suppression Machine</h2>
+<p>Before examining the molecules themselves, it is essential to understand the system that suppresses them.</p>
+<h3 id="the-patent-problem">The Patent Problem</h3>
+<p>The pharmaceutical industry is built on patents. A patent grants exclusive manufacturing and sales rights for approximately 20 years, during which the patent holder can charge whatever the market will bear. The development of a new pharmaceutical drug costs an average of $1-2 billion (according to industry estimates), and companies must recoup this investment plus generate profit within the patent window.</p>
+<p>Natural molecules — substances that exist in nature — cannot be patented. You cannot patent curcumin. You cannot patent fenbendazole. You cannot patent vitamin D. Because these substances occur in nature, they fall outside the patent system, which means no company can achieve exclusive rights to sell them, which means no company can charge premium prices, which means no company will invest $1-2 billion in clinical trials to prove their efficacy.</p>
+<p>This is why the most powerful anti-cancer molecules on earth will never be "approved" by the FDA for cancer treatment. Not because they don't work — but because no one can profit from their approval at the scale required to justify the investment.</p>
+<h3 id="regulatory-capture">Regulatory Capture</h3>
+<p>The FDA is a captured regulator. Its funding comes substantially from the pharmaceutical industry through user fees (the Prescription Drug User Fee Act). Its advisory committees are populated by individuals with extensive pharmaceutical industry ties. Its approval process is designed for patented pharmaceutical products, not natural substances. The entire regulatory structure is built to channel medical practice toward pharmaceutical products and away from natural alternatives.</p>
+<p>Ana Mihalcea, MD, PhD has documented on her Substack (<a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a>) the broader pattern of pharmaceutical capture — a system in which every aspect of medicine, from research funding to clinical practice guidelines, is controlled by an industry whose profit model depends on the ongoing illness of the population it claims to serve.</p>
+<h2 id="the-molecules">The Molecules</h2>
+<h3 id="fenbendazole">Fenbendazole</h3>
+<p>Fenbendazole is a benzimidazole anthelmintic — a drug used to treat parasitic worm infections in animals. It has been used safely in veterinary medicine for decades. What brought it to public attention was the case of Joe Tippens, a terminal lung cancer patient who was told he had three months to live. Tippens began taking fenbendazole based on a tip from a veterinarian — and his cancer went into complete remission.</p>
+<p>The scientific basis for fenbendazole's anti-cancer activity includes:</p>
+<ul>
+<li><strong>Microtubule disruption</strong> — fenbendazole disrupts the assembly of microtubules, which are essential for cell division. Cancer cells, which divide rapidly, are disproportionately affected.</li>
+<li><strong>P53 stabilization</strong> — fenbendazole has been shown to stabilize the p53 tumor suppressor protein, one of the body's primary anti-cancer defense mechanisms. When p53 is functional, it triggers apoptosis (programmed cell death) in damaged or cancerous cells.</li>
+<li><strong>Inhibition of glucose uptake</strong> — cancer cells depend heavily on glucose for energy (the Warburg effect). Fenbendazole interferes with glucose uptake in cancer cells, starving them of their primary fuel.</li>
+<li><strong>Anti-angiogenic effects</strong> — fenbendazole may inhibit the formation of new blood vessels that tumors need to grow (angiogenesis).</li>
+</ul>
+<p>Peer-reviewed research from institutions including Johns Hopkins has confirmed fenbendazole's anti-cancer activity in cell culture and animal models. Human clinical trials have not been conducted — not because the evidence is insufficient to justify them, but because no pharmaceutical company will fund trials for a generic veterinary drug that costs pennies per dose.</p>
+<h3 id="ivermectin">Ivermectin</h3>
+<p>Ivermectin, a Nobel Prize-winning antiparasitic medication, has demonstrated anti-cancer activity through multiple mechanisms:</p>
+<ul>
+<li><strong>Anti-proliferative effects</strong> — ivermectin inhibits cancer cell proliferation across multiple cancer types including breast, ovarian, prostate, colon, and leukemia</li>
+<li><strong>Apoptosis induction</strong> — ivermectin triggers programmed cell death in cancer cells</li>
+<li><strong>Autophagy modulation</strong> — ivermectin influences autophagy pathways that cancer cells exploit for survival</li>
+<li><strong>Immunomodulation</strong> — ivermectin may enhance the immune system's ability to recognize and attack cancer cells</li>
+<li><strong>Wnt pathway inhibition</strong> — ivermectin inhibits the Wnt/beta-catenin pathway, which is dysregulated in many cancers</li>
+</ul>
+<p>The aggressive suppression of ivermectin during the COVID-19 pandemic — including pharmacy refusals to fill prescriptions, medical board sanctions against prescribing physicians, and media campaigns labeling it "horse paste" — served multiple purposes. It eliminated a potential COVID-19 treatment that would have undermined Emergency Use Authorization for the vaccines. And it suppressed awareness of a molecule with anti-cancer properties that threatens the pharmaceutical industry's cancer treatment revenue.</p>
+<h3 id="curcumin">Curcumin</h3>
+<p>Curcumin, the active compound in turmeric, has been the subject of over 12,000 peer-reviewed studies documenting anti-cancer activity through:</p>
+<ul>
+<li><strong>NF-kB inhibition</strong> — curcumin suppresses NF-kB, a master regulator of inflammatory and cancer-promoting pathways</li>
+<li><strong>Apoptosis induction</strong> across multiple cancer types</li>
+<li><strong>Angiogenesis inhibition</strong> — preventing tumors from developing blood supply</li>
+<li><strong>Metastasis inhibition</strong> — reducing the ability of cancer cells to spread</li>
+<li><strong>Chemosensitization</strong> — making cancer cells more sensitive to conventional chemotherapy while protecting normal cells</li>
+<li><strong>Epigenetic modulation</strong> — curcumin influences gene expression through epigenetic mechanisms, potentially silencing oncogenes and activating tumor suppressors</li>
+</ul>
+<p>The primary limitation of curcumin is bioavailability — it is poorly absorbed from the gut. However, liposomal formulations, piperine co-administration, and nano-curcumin preparations have dramatically improved absorption, making therapeutic blood levels achievable through oral supplementation.</p>
+<h3 id="vitamin-d">Vitamin D</h3>
+<p>Vitamin D is not merely a vitamin — it is a steroid hormone precursor that activates over 2,000 genes in the human body. Its anti-cancer properties are so well-documented that they are difficult to suppress entirely:</p>
+<ul>
+<li><strong>Differentiation induction</strong> — vitamin D promotes the maturation of cells, steering them away from the undifferentiated state that characterizes cancer</li>
+<li><strong>Apoptosis induction</strong> in cancer cells</li>
+<li><strong>Anti-proliferative effects</strong> across multiple cancer types</li>
+<li><strong>Immune modulation</strong> — vitamin D is essential for proper immune function, including the immune surveillance that identifies and destroys cancer cells</li>
+<li><strong>Anti-angiogenic effects</strong> — limiting tumor blood supply</li>
+</ul>
+<p>Population studies consistently show that higher vitamin D levels are associated with lower cancer incidence and better cancer survival. Despite this, mainstream oncology does not routinely test or supplement vitamin D, and the recommended daily allowance (600-800 IU) is widely considered inadequate by vitamin D researchers, who recommend blood levels of 60-80 ng/mL — levels achievable only with supplementation of 5,000-10,000 IU daily.</p>
+<h3 id="quercetin">Quercetin</h3>
+<p>Quercetin, a flavonoid found in onions, apples, berries, and green tea, has demonstrated:</p>
+<ul>
+<li>Anti-proliferative effects on cancer cells</li>
+<li>Induction of apoptosis</li>
+<li>Inhibition of tumor angiogenesis</li>
+<li>Anti-inflammatory effects through multiple pathways</li>
+<li>Zinc ionophore activity — facilitating the entry of zinc into cells, where it inhibits viral replication and supports immune function</li>
+</ul>
+<h3 id="artemisinin">Artemisinin</h3>
+<p>Artemisinin, derived from the sweet wormwood plant (Artemisia annua), is a Nobel Prize-winning antimalarial that has shown selective toxicity to cancer cells. Cancer cells accumulate iron at higher rates than normal cells, and artemisinin reacts with iron to produce free radicals that selectively destroy iron-rich cancer cells while sparing normal cells.</p>
+<h3 id="methylene-blue">Methylene Blue</h3>
+<p>Methylene blue, one of the oldest pharmaceutical compounds still in clinical use, has demonstrated:</p>
+<ul>
+<li>Mitochondrial support — enhancing cellular energy production</li>
+<li>Anti-cancer activity through mitochondrial pathway modulation</li>
+<li>Neuroprotective effects</li>
+<li>Antimicrobial properties</li>
+</ul>
+<p>Dr. Mihalcea has documented methylene blue's beneficial effects on blood quality under darkfield microscopy, including reduction of self-assembling nanostructures and improvement in red blood cell morphology.</p>
+<h2 id="the-pharmakeia-inversion">The Pharmakeia Inversion</h2>
+<p>Revelation 18:23 warns that all nations were deceived by pharmakeia — sorcery through pharmaceutical manipulation. The pharmakeia of the cancer industry is not limited to harmful drugs. It extends to the suppression of healing molecules.</p>
+<p>God placed anti-cancer molecules in creation. He designed them. He embedded them in plants, fungi, and biochemical pathways that the human body can access through food and supplementation. The pharmaceutical industry — operating under the spirit of pharmakeia — inverts this design: it suppresses what God made freely available and sells synthetic substitutes at enormous cost that often cause more damage than the disease they claim to treat.</p>
+<p>Chemotherapy agents are, by design, cytotoxic — they kill cells. They kill cancer cells, but they also kill healthy cells, damage the immune system, and often cause secondary cancers. The cancer treatment industry generates over $200 billion annually worldwide. It has no financial incentive to cure cancer. It has every financial incentive to manage cancer — to keep patients in treatment, buying drugs, cycling through protocols, generating revenue until they die.</p>
+<p>The natural molecules listed above threaten this entire business model. They are cheap. They are accessible. They cannot be patented. And they work through mechanisms that support the body's own anti-cancer systems rather than destroying them.</p>
+<h2 id="the-dome-and-the-garden">The Dome and the Garden</h2>
+<p>Under the firmament — the dome that God placed over the habitable world — every healing molecule exists. God planted the Garden of Eden beneath this dome, and in that Garden, every tree was pleasant to the sight and good for food (Genesis 2:9). The healing botanicals of creation exist within the enclosed system that God designed. They are accessible. They are plentiful. They are part of the original design.</p>
+<p>The fallen angels imprisoned under this dome have worked through human systems to make the healing inaccessible. Not by destroying the plants — they cannot overrule God's creation — but by building a regulatory and economic system that makes natural healing illegal, stigmatized, or inaccessible while funneling all medical practice through pharmaceutical channels that they control.</p>
+<p>This is the great delusion applied to medicine: the delusion that healing comes from laboratories rather than from creation, from patents rather than from God, from chemicals rather than from the leaves of the trees that were designed for medicine before the foundation of the world.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Dogra N, et al. "Fenbendazole acts as a moderate microtubule destabilizing agent and causes cancer cell death." Scientific Reports, 2018</li>
+<li>Ana Mihalcea, MD, PhD — Research on natural interventions: <a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a></li>
+<li>Juarez M, et al. "The multitargeted drug ivermectin: from an antiparasitic agent to a repositioned cancer drug." American Journal of Cancer Research, 2018</li>
+<li>Tomeh MA, et al. "A Review of Curcumin and Its Derivatives as Anticancer Agents." International Journal of Molecular Sciences, 2019</li>
+<li>The Master's Voice Prophecy Blog: <a href="https://themastersvoice.wordpress.com">themastersvoice.wordpress.com</a></li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The system that suppresses natural healing</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/179-Engineering_Contagion.mp4">Engineering Contagion</a> — How illness is engineered while cures are hidden</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/107-Stem_Cell_Harvesting.mp4">Stem Cell Harvesting</a> — The exploitation of human biology for profit</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> — Truth breaking through the darkness of pharmaceutical suppression</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> — The source of all healing</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/statin-drugs-cholesterol-truth/?lang=es">Study Verifies Cholesterol-Lowering Statin Drugs Are Dangerous</a> — Another pharmaceutical deception exposed</li>
+<li><a href="/human-blood-destroyed-nanotech/?lang=es">Human Blood Being Destroyed For Nanotechnology Integration</a> — The pharmaceutical assault on blood</li>
+<li><a href="/darkfield-microscopy-self-assembly/?lang=es">Darkfield Microscopy Shows Self Assembly Nanotechnology in Human Blood</a> — What pharmaceutical products leave in the blood</li>
+</ul>
+<hr>
+<p><em>God placed the medicine in the garden. He wove anti-cancer molecules into turmeric and wormwood, into the biochemical pathways activated by sunlight, into compounds so simple and accessible that a child could find them. The pharmaceutical industry — the modern expression of pharmakeia — built a wall around the garden and told the world that healing could only be found in its laboratories, in its patents, in its billion-dollar products that poison as often as they heal. But the wall is crumbling. The truth about fenbendazole, ivermectin, curcumin, vitamin D, and a dozen other natural molecules is spreading despite every effort to contain it. The leaves of the trees are for medicine. God said it. The research confirms it. And no regulatory capture, no media suppression, and no pharmaceutical lobbying can unsay what the Creator declared in the beginning.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Moléculas naturales con propiedades anti-cáncer"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Las moléculas naturales encontradas en plantas, hierbas y alimentos enteros poseen propiedades anti-cáncer que la industria farmacéutica ha suprimido para proteger su monopolio sobre la quimioterapia."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-28T10:00:00Z","children":"28 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","anti-cancer",{"href":"/es/tag/anti-cancer/","className":"tag-pill","children":["#","anti-cancer"]}],["$","a","natural-molecules",{"href":"/es/tag/natural-molecules/","className":"tag-pill","children":["#","natural-molecules"]}],["$","a","fenbendazole",{"href":"/es/tag/fenbendazole/","className":"tag-pill","children":["#","fenbendazole"]}],["$","a","ivermectin",{"href":"/es/tag/ivermectin/","className":"tag-pill","children":["#","ivermectin"]}],["$","a","suppressed-research",{"href":"/es/tag/suppressed-research/","className":"tag-pill","children":["#","suppressed-research"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/natural-molecules-anti-cancer/","title":"Moléculas naturales con propiedades anti-cáncer"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/natural-molecules-anti-cancer/","title":"Moléculas naturales con propiedades anti-cáncer"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Moléculas naturales con propiedades anti-cáncer | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Las moléculas naturales encontradas en plantas, hierbas y alimentos enteros poseen propiedades anti-cáncer que la industria farmacéutica ha suprimido para proteger su monopolio sobre la quimioterapia."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"anti-cancer, natural-molecules, fenbendazole, ivermectin, suppressed-research"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/natural-molecules-anti-cancer/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/natural-molecules-anti-cancer/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/natural-molecules-anti-cancer/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/natural-molecules-anti-cancer/"}],["$","meta","10",{"property":"og:title","content":"Moléculas naturales con propiedades anti-cáncer"}],["$","meta","11",{"property":"og:description","content":"Las moléculas naturales encontradas en plantas, hierbas y alimentos enteros poseen propiedades anti-cáncer que la industria farmacéutica ha suprimido para proteger su monopolio sobre la quimioterapia."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/natural-molecules-anti-cancer/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/natural-molecules-anti-cancer.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Moléculas naturales con propiedades anti-cáncer"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Moléculas naturales con propiedades anti-cáncer"}],["$","meta","25",{"name":"twitter:description","content":"Las moléculas naturales encontradas en plantas, hierbas y alimentos enteros poseen propiedades anti-cáncer que la industria farmacéutica ha suprimido para proteger su monopolio sobre la quimioterapia."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/natural-molecules-anti-cancer.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

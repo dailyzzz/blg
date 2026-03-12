@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","operation-warp-speed-chief-ousted",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","operation-warp-speed-chief-ousted","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","operation-warp-speed-chief-ousted","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T41da,<h1 id="jefe-vacunal-de-operación-velocidad-warp-destituido-de-su-posición">Jefe Vacunal de Operación Velocidad Warp Destituido de su Posición</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p>"Y el rey de Babilonia degolló a los hijos de Sedequías en Ribla, delante de él; asimismo el rey de Babilonia degolló a todos los príncipes de Judá. Y sacó los ojos a Sedequías, y lo aprisionó con cadenas de bronce, y lo llevó el rey de Babilonia a Babilonia, y lo puso en la casa de la cárcel hasta el día de su muerte." — Jeremías 52:10-11</p>
+</blockquote>
+<p>Cuando los líderes de Judá fueron juzgados, el juicio cayó sobre los arquitectos de la destrucción de la nación — no los soldados de infantería, no la gente común, sino los príncipes y el rey que habían liderado la nación hacia la catástrofe. Sedequías vio morir a sus hijos ante sus ojos antes de que sus ojos le fueran sacados — lo último que vio fue la consecuencia de su liderazgo. El juicio fue proporcional a la autoridad — aquellos que esgrimieron el mayor poder soportaron la mayor responsabilidad.</p>
+<p>Como la pista de Confliction <a href="https://confliction.zzzdaily.com/tracks/es/31-Satans_Hosts.mp4">Satan's Hosts</a> revela, las operaciones del adversario son lideradas por comandantes, no soldados de infantería. El arquitecto de la operación soporta mayor responsabilidad que sus ejecutores. El jefe del programa vacunal de Operación Velocidad Warp fue el arquitecto del despliegue más rápido y barredor de productos médicos experimentales en la historia humana. Su remoción del servicio federal representa la responsabilidad que la Escritura demanda de aquellos que esgimen autoridad.</p>
+<hr>
+<h2 id="operación-velocidad-warp-la-arquitectura">Operación Velocidad Warp: La Arquitectura</h2>
+<p>Operación Velocidad Warp (OVW) fue una asociación público-privada lanzada en mayo de 2020, reuniendo el Departamento de Salud y Servicios Humanos, el Departamento de Defensa, y compañías farmacéuticas para acelerar el desarrollo, manufactura, y distribución de vacunas de COVID-19.</p>
+<p>El objetivo declarado del programa era entregar 300 millones de dosis de vacunas seguras y efectivas para enero de 2021 — comprimiendo una línea de tiempo de desarrollo que normalmente dura 10-15 años en menos de 12 meses. El programa comprometió más de $18 mil millones en fondos de los contribuyentes, distribuidos en:</p>
+<ul>
+<li>
+<p><strong>Desarrollo vacunal:</strong> Miles de millones en fondos por adelantado a Pfizer, Moderna, Johnson &#x26; Johnson, AstraZeneca, Novavax, y Sanofi/GSK para investigación vacunal, ensayos clínicos, y escalada de manufactura.</p>
+</li>
+<li>
+<p><strong>Manufactura:</strong> Miles de millones en inversiones de manufactura "en riesgo" — financiando la producción de dosis de vacunas antes que ensayos clínicos fueran completados, aceptando el riesgo que los productos podrían fracasar y la inversión sería perdida.</p>
+</li>
+<li>
+<p><strong>Distribución:</strong> Infraestructura de logística militar desplegada a través del Departamento de Defensa para distribuir vacunas a cada rincón del país dentro de semanas de autorización.</p>
+</li>
+<li>
+<p><strong>Adquisición:</strong> Acuerdos de Compra por Adelantado comprometiendo al gobierno a comprar cientos de millones de dosis a precios negociados.</p>
+</li>
+</ul>
+<p>Karen Kingston ha documentado en The Kingston Report (karenkingston.substack.com) que Operación Velocidad Warp no fue un programa de salud pública — fue una operación militar: "OVW fue liderada por un general de cuatro estrellas (Gustave Perna) y un ejecutivo de la industria farmacéutica. Fue financiada a través del Departamento de Defensa. Fue ejecutada usando logística militar. Fue procurada bajo Autoridad de Otra Transacción — acuerdos de procuración militar. Las vacunas fueron clasificadas como 'contramedidas,' no productos farmacéuticos. Esta fue el despliegue de una contramedida militar a la población civil, manejada a través de una estructura de comando militar, y blindada por protecciones legales de nivel militar."</p>
+<hr>
+<h2 id="el-rol-del-jefe-vacunal">El Rol del Jefe Vacunal</h2>
+<p>El jefe vacunal de Operación Velocidad Warp sirvió como el coordinador principal del programa entre el gobierno federal y las compañías farmacéuticas desarrollando vacunas de COVID-19. Este rol implicó:</p>
+<p><strong>Seleccionar manufacturadores:</strong> Determinar cuales compañías recibieron fondos federales y a qué niveles, efectivamente eligiendo cuales candidatos de vacuna procederían y cuales serían descarrilados.</p>
+<p><strong>Establecer líneas de tiempo de desarrollo:</strong> Establecer las líneas de tiempo aceleradas que comprimieron años de desarrollo en meses, incluyendo decisiones sobre cuales requisitos de prueba de seguridad serían abreviados o eliminados.</p>
+<p><strong>Negociar contratos:</strong> Estructurar los contratos de OTA bajo los cuales el desarrollo de vacunas procedería, incluyendo los términos que eximieron los productos de regulaciones farmacéuticas estándar.</p>
+<p><strong>Coordinar con reguladores:</strong> Enlazarse con la FDA para asegurar que la vía reguladora — incluyendo Autorización de Uso de Emergencia — se alineara con la línea de tiempo de despliegue del programa.</p>
+<p><strong>Gestionar distribución:</strong> Supervisar la operación de logística militar que distribuyó vacunas a puntos de cuidado en toda la nación.</p>
+<p>El jefe vacunal esgrimió más influencia sobre el programa de vacunación de COVID-19 que cualquier otro individuo — más que el Comisionado de la FDA, más que el Director de los CDC, más que cualquier ejecutivo de compañía farmacéutica individual. El diseño del programa, sus líneas de tiempo, su vía reguladora, y su estrategia de distribución todos fluyeron a través de este rol.</p>
+<hr>
+<h2 id="la-destitución">La Destitución</h2>
+<p>La remoción del jefe vacunal de OVW del servicio federal representa un quiebre definido entre la administración actual y el aparato de inyección de la era de la pandemia. La destitución comunica varios mensajes:</p>
+<p><strong>La responsabilidad comienza en la cumbre.</strong> La remoción del arquitecto del programa — en lugar de funcionarios de nivel inferior — establece que la responsabilidad por la respuesta a la pandemia se extiende a aquellos que tomaron las decisiones más consecuentes.</p>
+<p><strong>El legado del programa está bajo revisión.</strong> Al remover el arquitecto principal, la administración señala que Operación Velocidad Warp no es un legado a ser celebrado sino una operación a ser examinada, cuestionada, y potencialmente enjuiciada.</p>
+<p><strong>El nexo militar-farmacéutico está siendo severed.</strong> El jefe vacunal representó la conexión humana entre el Departamento de Defensa, HHS, y la industria farmacéutica. Su remoción disuelve este nexo en su enlace de personal más senior.</p>
+<p><strong>Las operaciones futuras son disuadidas.</strong> La remoción establece que los funcionarios futuros que participen en operaciones militar-farmacéuticas que desplieguen productos experimentales a la población civil podrían enfrentar consecuencias de fin de carrera.</p>
+<hr>
+<h2 id="las-preguntas-que-permanecen">Las Preguntas que Permanecen</h2>
+<p>La destitución plantea preguntas que demandan respuestas:</p>
+<p><strong>¿Fue el jefe vacunal consciente de irregularidades en ensayos clínicos?</strong> Si las alegaciones de la denunciante de Ventavia son precisas, y si el jefe vacunal fue informado de problemas de integridad de datos durante el proceso de ensayo clínico, su fallo de actuar constituye un incumplimiento del deber que podría tener implicaciones criminales.</p>
+<p><strong>¿El jefe vacunal suprimió tratamientos alternativos?</strong> El mantenimiento de autoridad de EUA requería la ausencia de alternativas aprobadas adecuadas. Si el jefe vacunal participó en decisiones de suprimir evidencia de efectividad de tratamiento temprano — directa o indirectamente a través de la influencia del programa en decisiones de la FDA — esto constituye una forma de manipulación de mercado que puso en peligro a los pacientes que podrían haber sido tratados.</p>
+<p><strong>¿Fue el jefe vacunal consciente de eventos adversos?</strong> Como coordinador del programa, el jefe vacunal habría estado posicionado para recibir reportes tempranos de eventos adversos siguiendo vacunación. Si recibió tales reportes y no actuó para modificar la estrategia de despliegue del programa, su inacción podría constituir negligencia como mínimo y imprudencia en el peor.</p>
+<p><strong>¿Cuales fueron los conflictos financieros?</strong> Las relaciones financieras del jefe vacunal — empleo anterior, arreglos de consultoría, tenencias de acciones, perspectivas de empleo futuro — con las compañías farmacéuticas que financió y coordinó a través de OVW deben ser completamente divulgadas y examinadas.</p>
+<p>La pista <a href="https://zzzdaily.zzzdaily.com/tracks/es/127-Operation_Midnight_Climax.mp4">Operation Midnight Climax</a> documenta el patrón histórico de funcionarios de gobierno que diseñan y ejecutan programas con consecuencias catastróficas para la población civil — y quienes, en generaciones pasadas, no enfrentaron responsabilidad. La destitución del jefe vacunal de OVW representa un quiebre de ese patrón — una afirmación que los arquitectos de programas cuestionables enfrentarán consecuencias.</p>
+<hr>
+<h2 id="la-conclusión-profética">La Conclusión Profética</h2>
+<blockquote>
+<p>"Porque Dios traerá toda obra a juicio, juntamente con toda cosa encubierta, sea buena o sea mala." — Eclesiastés 12:14</p>
+</blockquote>
+<p>La destitución es un juicio terrenal — una consecuencia de carrera, no una sentencia criminal. Si la responsabilidad criminal sigue depende de las investigaciones actualmente en marcha, la evidencia que produzcan, y la voluntad política de enjuiciar.</p>
+<p>Pero la destitución establece un principio que la industria farmacéutica y sus socios de gobierno han resistido durante décadas: los arquitectos de programas que dañan lo público serán responsables — si no en esta administración, entonces en la próxima; si no en este corte, entonces en el final.</p>
+<p>La pista <a href="https://zzzdaily.zzzdaily.com/tracks/es/181-Ending_Anonymity.mp4">Ending Anonymity</a> documenta el fin del gobierno anónimo — la demanda que aquellos que toman decisiones afectando miles de millones de personas sean conocidos, nombrados, y responsables por las consecuencias de sus decisiones.</p>
+<p>El jefe vacunal de Operación Velocidad Warp ha sido nombrado, removido, y sujeto al escrutinio que buscó evitar. La operación que diseñó desplegó más de 670 millones de dosis de productos experimentales a la población americana. Las consecuencias de ese despliegue aún están desplegándose.</p>
+<hr>
+<hr>
+<h3 id="la-advertencia-de-1-samuel-8">La Advertencia de 1 Samuel 8</h3>
+<blockquote>
+<p><em>"Y Jehová dijo a Samuel: Oye la voz del pueblo en todo lo que te digan; porque no te han desechado a ti, sino a mí me han desechado, para que no reine sobre ellos."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=RVR1960">1 Samuel 8:7 (RVR1960)</a></p>
+</blockquote>
+<p>La advertencia antigua de 1 Samuel 8 resuena a través de cada corredor de gobierno hoy. Cuando Israel exigió un rey como las otras naciones, Dios les advirtió exactamente lo que pasaría — sus hijos tomados para la guerra, sus hijas para el servicio, sus campos y viñas incautados, una décima parte de todo confiscado. Eligieron el gobierno humano sobre el reino de Dios, y la tiranía siguió exactamente como fue prometido. Nada ha cambiado. El sistema político moderno es dos alas del mismo pájaro — izquierda y derecha, republicano y demócrata — todos sirviendo la misma estructura de poder oculta. Votar por ambos lados es elegir cual ala aletea siguiente mientras el pájaro vuela en la misma dirección. El poder real nunca ha estado en ninguna boleta electoral.</p>
+<h2 id="fuentes">Fuentes</h2>
+<ul>
+<li>
+<p>DOD / HHS — Documentación y registros de personal del programa Operación Velocidad Warp</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Análisis de Karen Kingston de estructura del programa OVW, arquitectura de contrato OTA, nexo militar-farmacéutico, y documentación del rol del jefe vacunal</p>
+</li>
+<li>
+<p>Operación Velocidad Warp — Registros de contratos y fondos</p>
+</li>
+<li>
+<p>Jeremías 52:10-11, Eclesiastés 12:14 (RVR1960)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=RVR1960">1 Samuel 8 — The Warning Against Earthly Kings (RVR1960)</a></p>
+</li>
+</ul>
+<h2 id="descubre-más">Descubre Más</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de Experiencia Cercana a la Muerte de Howard Pittman — Advertencia del Fin de los Tiempos que Dios le Dio</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Jesuitas Deplorables Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¡Lo Que Podría Estar en el Sótano del Vaticano Podría Sorprenderte!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry en YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions en YouTube</a></li>
+</ul>
+<hr>
+<h2 id="escucha-mientras-lees">Escucha Mientras Lees</h2>
+<p>Estas pistas del Álbum Diario ZZZ exploran los temas en este artículo:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/127-Operation_Midnight_Climax.mp4">Operation Midnight Climax</a> — Programas de gobierno con consecuencias civiles catastróficas</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/181-Ending_Anonymity.mp4">Ending Anonymity</a> — Nombrando y haciendo responsable a aquellos que gobiernan desde las sombras</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> — Orígenes militares del despliegue de contramedidas de pandemia</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Coordinación militar-farmacéutica sirviendo el sistema de la bestia</li>
+</ul>
+<p>Del álbum Confliction (La Cueva de Tesoros):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/31-Satans_Hosts.mp4">Satan's Hosts</a> — Los comandantes que dirigen las operaciones del adversario</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — Responsabilidad cayendo sobre los arquitectos del sistema</li>
+</ul>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/fda-ended-emergency-use-authorizations/?lang=es">FDA Solo Terminó Autorizaciones de Uso de Emergencia para COVID-19</a> — El fin del marco que OVW creó</li>
+<li><a href="/federal-government-pfizer-data-fraud/?lang=es">¿Es un Crimen? Gobierno Federal Asistió a Pfizer en Fraude de Datos</a> — El fraude que ocurrió bajo supervisión de OVW</li>
+<li><a href="/hhs-pulls-mrna-research-funding/?lang=es">HHS Extrae $500 Millones en Financiamiento de Investigación de mRNA</a> — Desfinanciamiento de la tecnología que OVW desplegó</li>
+<li><a href="/trump-bans-gain-of-function/?lang=es">Orden Ejecutiva de Trump Prohíbe Investigación de Ganancia de Función</a> — Eliminando la investigación detrás de productos de OVW</li>
+</ul>
+<hr>
+<p><em>El rey de Babilonia juzgó a los príncipes que lideraron a Judá a la destrucción. Sedequías vio las consecuencias de su liderazgo antes de que sus ojos fueran sellados para siempre. El jefe vacunal de Operación Velocidad Warp ha sido removido de la posición de autoridad desde la que dirigió el despliegue de productos experimentales a 670 millones de dosis a través de la población americana. La destitución no es el juicio final — es el primero. "Porque Dios traerá toda obra a juicio, juntamente con toda cosa encubierta, sea buena o sea mala" (Eclesiastés 12:14). Las cosas secretas — los contratos, las comunicaciones, las decisiones tomadas detrás de puertas cerradas mientras a una nación le dijeron que confiara en la ciencia — serán traídas a juicio. El arquitecto ha sido removido del edificio. El fundamento del edificio es próximo.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Jefe Vacunal de Operación Velocidad Warp Destituido de su Posición"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"El arquitecto principal del programa de vacunas de Operación Velocidad Warp es removido del servicio federal, marcando un quiebre definitivo del aparato de inyección de la era de la pandemia."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-06-05T10:00:00Z","children":"5 de junio de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Operation-Warp-Speed",{"href":"/es/tag/Operation-Warp-Speed/","className":"tag-pill","children":["#","Operation-Warp-Speed"]}],["$","a","vaccine-chief",{"href":"/es/tag/vaccine-chief/","className":"tag-pill","children":["#","vaccine-chief"]}],["$","a","ousted",{"href":"/es/tag/ousted/","className":"tag-pill","children":["#","ousted"]}],["$","a","reform",{"href":"/es/tag/reform/","className":"tag-pill","children":["#","reform"]}],["$","a","accountability",{"href":"/es/tag/accountability/","className":"tag-pill","children":["#","accountability"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/operation-warp-speed-chief-ousted/","title":"Jefe Vacunal de Operación Velocidad Warp Destituido de su Posición"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/operation-warp-speed-chief-ousted/","title":"Jefe Vacunal de Operación Velocidad Warp Destituido de su Posición"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Jefe Vacunal de Operación Velocidad Warp Destituido de su Posición | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"El arquitecto principal del programa de vacunas de Operación Velocidad Warp es removido del servicio federal, marcando un quiebre definitivo del aparato de inyección de la era de la pandemia."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Operation-Warp-Speed, vaccine-chief, ousted, reform, accountability"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/operation-warp-speed-chief-ousted/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/operation-warp-speed-chief-ousted/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/operation-warp-speed-chief-ousted/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/operation-warp-speed-chief-ousted/"}],["$","meta","10",{"property":"og:title","content":"Jefe Vacunal de Operación Velocidad Warp Destituido de su Posición"}],["$","meta","11",{"property":"og:description","content":"El arquitecto principal del programa de vacunas de Operación Velocidad Warp es removido del servicio federal, marcando un quiebre definitivo del aparato de inyección de la era de la pandemia."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/operation-warp-speed-chief-ousted/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/operation-warp-speed-chief-ousted.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Jefe Vacunal de Operación Velocidad Warp Destituido de su Posición"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Jefe Vacunal de Operación Velocidad Warp Destituido de su Posición"}],["$","meta","25",{"name":"twitter:description","content":"El arquitecto principal del programa de vacunas de Operación Velocidad Warp es removido del servicio federal, marcando un quiebre definitivo del aparato de inyección de la era de la pandemia."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/operation-warp-speed-chief-ousted.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

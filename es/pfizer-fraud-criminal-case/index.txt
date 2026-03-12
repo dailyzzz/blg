@@ -1,0 +1,112 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pfizer-fraud-criminal-case",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pfizer-fraud-criminal-case","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-fraud-criminal-case","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T12fc,<h1 id="fraude-criminal-de-pfizer-los-casos-legales-que-cambiarán-todo">Fraude Criminal de Pfizer: Los Casos Legales que Cambiarán Todo</h1>
+<h2 id="los-casos-presentados">Los Casos Presentados</h2>
+<p>Múltiples casos de fraude criminal han sido presentados contra Pfizer en jurisdicciones diferentes:</p>
+<h3 id="italia">Italia</h3>
+<p>Fiscales especiales italianos presentaron caso criminal contra Pfizer por:</p>
+<ul>
+<li>Falsificación de datos de ensayos clínicos</li>
+<li>Conspiración para cometer fraude regulatorio</li>
+<li>Ocultación de eventos adversos del regulador</li>
+</ul>
+<p>El caso fue presentado en 2023 y permanece en investigación.</p>
+<h3 id="países-bajos">Países Bajos</h3>
+<p>Fiscales holandeses presentaron caso criminal por:</p>
+<ul>
+<li>Falsificación de eficacia reportada</li>
+<li>Conspiración con funcionarios de regulación holandeses</li>
+<li>Soborno de funcionarios de salud</li>
+</ul>
+<h3 id="perú">Perú</h3>
+<p>Procuradores especiales peruanos presentaron caso criminal por:</p>
+<ul>
+<li>Falsificación de consentimiento informado en poblaciones indígenas</li>
+<li>Experimentación no consentida en mujeres</li>
+<li>Crimen de lesa humanidad</li>
+</ul>
+<hr>
+<h2 id="la-evidencia-de-fraude">La Evidencia de Fraude</h2>
+<h3 id="falsificación-de-datos">Falsificación de Datos</h3>
+<p>Los análisis independientes de datos de ensayos clínicos revelados por orden judicial muestran:</p>
+<ul>
+<li>Reportes de eventos adversos inconsistentes entre bases de datos internas y reportes oficiales</li>
+<li>Datos de ensayo alterados después de recopilación inicial</li>
+<li>Participantes del ensayo clasificados incorrectamente para ocultar reacciones adversas</li>
+<li>Seguimiento perdido de participantes del ensayo que reportaron eventos adversos</li>
+</ul>
+<h3 id="ocultación-de-riesgos">Ocultación de Riesgos</h3>
+<p>Documentos de Pfizer muestran que:</p>
+<ul>
+<li>Riesgos de coágulos de sangre fueron ocultados de autoridades regulatorias</li>
+<li>Riesgos de inflamación cardíaca fueron ocultados</li>
+<li>Datos de daño reproductor fueron ocultados durante 75 años</li>
+<li>Riesgos de síndrome de fuga vascular fueron ocultados</li>
+</ul>
+<hr>
+<h2 id="por-qué-estos-casos-importan">Por Qué Estos Casos Importan</h2>
+<h3 id="precedente-criminológico">Precedente Criminológico</h3>
+<p>Si Pfizer es procesada criminalmente y condenada, establecería precedente:</p>
+<ul>
+<li>Las corporaciones farmacéuticas pueden ser criminalmente procesadas por fraude</li>
+<li>El fraude en ensayos clínicos es un crimen de lesa humanidad</li>
+<li>Los funcionarios de regulación que participan en cobertura pueden ser procesados como cómplices</li>
+</ul>
+<p>Este precedente cambiaría industria farmacéutica global.</p>
+<h3 id="remoción-de-autoridad">Remoción de Autoridad</h3>
+<p>Una condena criminal significaría que Pfizer:</p>
+<ul>
+<li>No podría obtener nuevas aprobaciones regulatorias</li>
+<li>Sería removida de contratos gubernamentales</li>
+<li>Estaría sujeta a restricciones operacionales estrictas</li>
+<li>Enfrentaría compensación masiva</li>
+</ul>
+<hr>
+<h2 id="por-qué-estos-casos-no-han-progresado">Por Qué Estos Casos No Han Progresado</h2>
+<h3 id="interferencia-gubernamental">Interferencia Gubernamental</h3>
+<p>Gobiernos que autorizaron el producto de Pfizer no están dispuestos a permitir que procesamientos criminales ocurran. Porque:</p>
+<ul>
+<li>Admitir fraude significaría admitir que dieron aprobación basada en datos falsificados</li>
+<li>Significaría que obligaron a poblaciones a aceptar un producto fraudulento</li>
+<li>Significaría que son cómplices de crimen</li>
+</ul>
+<p>Es más fácil interferir en procesos legales que admitir la verdad.</p>
+<h3 id="presión-diplomática">Presión Diplomática</h3>
+<p>Los gobiernos ejercen presión diplomática en jurisdicciones donde casos están siendo procesados:</p>
+<ul>
+<li>Amenaza de retiro de ayuda económica</li>
+<li>Presión de organismos multilaterales</li>
+<li>Interferencia "detrás de escenas" para que casos sean desestimados</li>
+</ul>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="/pfizer-documents-self-amplifying/?lang=es">Documentos de Pfizer: ARN Autoreplicante</a></li>
+<li><a href="/pfizer-case-government-not-interested/?lang=es">Caso de Pfizer: El Gobierno No Está Interesado</a></li>
+<li><a href="/pfizer-denies-birth-defects/?lang=es">Niega Pfizer Defectos de Nacimiento</a></li>
+</ul>
+<hr>
+<p><em>Cuando una corporación comete fraude masivo, cuando gobiernos lo protegen, cuando cortes son interferidas, la justicia dentro del sistema se ha vuelto imposible. El recurso legal requiere que recurras a Un Poder más allá de los sistemas corruptos del hombre — al Poder que juzga con justicia perfecta y cuyas sentencias no pueden ser apeladas.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/pharma/","className":"category-badge","children":"pharma"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Fraude Criminal de Pfizer: Los Casos Legales que Cambiarán Todo"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Múltiples casos de fraude criminal han sido presentados contra Pfizer por falsificación de datos de ensayos clínicos, ocultación de eventos adversos, y conspiración criminal."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-05T10:00:00Z","children":"5 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pfizer",{"href":"/es/tag/pfizer/","className":"tag-pill","children":["#","pfizer"]}],["$","a","fraud",{"href":"/es/tag/fraud/","className":"tag-pill","children":["#","fraud"]}],["$","a","criminal-case",{"href":"/es/tag/criminal-case/","className":"tag-pill","children":["#","criminal-case"]}],["$","a","clinical-trials",{"href":"/es/tag/clinical-trials/","className":"tag-pill","children":["#","clinical-trials"]}],["$","a","evidence",{"href":"/es/tag/evidence/","className":"tag-pill","children":["#","evidence"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-fraud-criminal-case/","title":"Fraude Criminal de Pfizer: Los Casos Legales que Cambiarán Todo"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-fraud-criminal-case/","title":"Fraude Criminal de Pfizer: Los Casos Legales que Cambiarán Todo"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Fraude Criminal de Pfizer: Los Casos Legales que Cambiarán Todo | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Múltiples casos de fraude criminal han sido presentados contra Pfizer por falsificación de datos de ensayos clínicos, ocultación de eventos adversos, y conspiración criminal."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pfizer, fraud, criminal-case, clinical-trials, evidence"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pfizer-fraud-criminal-case/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-fraud-criminal-case/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-fraud-criminal-case/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-fraud-criminal-case/"}],["$","meta","10",{"property":"og:title","content":"Fraude Criminal de Pfizer: Los Casos Legales que Cambiarán Todo"}],["$","meta","11",{"property":"og:description","content":"Múltiples casos de fraude criminal han sido presentados contra Pfizer por falsificación de datos de ensayos clínicos, ocultación de eventos adversos, y conspiración criminal."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pfizer-fraud-criminal-case/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-fraud-criminal-case.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Fraude Criminal de Pfizer: Los Casos Legales que Cambiarán Todo"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Fraude Criminal de Pfizer: Los Casos Legales que Cambiarán Todo"}],["$","meta","25",{"name":"twitter:description","content":"Múltiples casos de fraude criminal han sido presentados contra Pfizer por falsificación de datos de ensayos clínicos, ocultación de eventos adversos, y conspiración criminal."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-fraud-criminal-case.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

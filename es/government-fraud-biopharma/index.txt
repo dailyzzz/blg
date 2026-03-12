@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","government-fraud-biopharma",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","government-fraud-biopharma","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","government-fraud-biopharma","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3b64,<h1 id="es-legal-que-el-gobierno-estadounidense-cometa-fraude-con-biopharma">¿Es Legal que el Gobierno Estadounidense Cometa Fraude con BioPharma</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p>"¿Tendrá el trono de la iniquidad compañerismo contigo, que forma maldad por ley?" — Salmos 94:20</p>
+</blockquote>
+<p>Jezabel no meramente ordenó el asesinato de Nabot. Escribió cartas en nombre del rey, las selló con el sello del rey, dirigió falsos testigos para que testificaran contra él y orquestó un procedimiento legal que condenó a un hombre inocente a muerte — todo para apoderarse de su viña para la corona. El asesinato fue cometido a través de la ley. El fraude fue legalizado antes de que fuera perpetrado.</p>
+<p>Como la pista Confliction <a href="https://confliction.zzzdaily.com/tracks/es/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> revela, los engaños más sofisticados no se cometen fuera de la ley — se cometen a través de ella. La arquitectura legal que habilitó el programa de vacunación COVID-19 fue construida por adelantado, posicionada en los estatutos y activada cuando la emergencia declarada proporcionó la justificación. La pregunta es si la construcción de esta arquitectura — y su uso para cometer lo que de otro modo constituiría fraude — es en sí misma un crimen.</p>
+<hr>
+<h2 id="la-arquitectura-legal-de-colusión-gobierno-pharma">La Arquitectura Legal de Colusión Gobierno-Pharma</h2>
+<p>La asociación entre el gobierno estadounidense y compañías farmacéuticas durante COVID-19 operó a través de un marco legal específicamente diseñado para eximir a ambas partes de responsabilidad:</p>
+<p><strong>Autoridad de Transacción Alternativa (OTA):</strong> Las vacunas COVID-19 fueron adquiridas bajo contratos OTA — acuerdos de adquisición militar que eximen los productos de regulaciones farmacéuticas FDA estándar, la Regulación Federal de Adquisiciones y requisitos de aseguramiento de calidad.</p>
+<p><strong>Autorización de Uso de Emergencia (EUA):</strong> Los productos fueron autorizados bajo la Sección 564 de la Ley Federal de Alimentos, Drogas y Cosméticos, que requiere solo que el producto "pueda ser efectivo" — no que sea probado seguro o efectivo.</p>
+<p><strong>Ley PREP:</strong> Fabricantes, distribuidores y administradores fueron protegidos de responsabilidad civil bajo la Ley PREP, que proporciona inmunidad amplia para contramedidas cubiertas durante emergencias declaradas.</p>
+<p><strong>Declaración de Emergencia de Salud Pública:</strong> La declaración del Secretario de HHS de una emergencia de salud pública activó todo el marco — desencadenando autoridad de EUA, inmunidad de Ley PREP y financiamiento de emergencia.</p>
+<p>Cada elemento de este marco fue promulgado en ley antes de que COVID-19 existiera. Juntos, crearon una vía legal por la cual productos experimentales podrían ser desarrollados, autorizados, desplegados a toda la población y protegidos de responsabilidad — todo dentro de los límites de ley existente.</p>
+<p>Karen Kingston ha documentado en The Kingston Report (karenkingston.substack.com): "La pregunta no es si el gobierno cometió fraude con biopharma. La pregunta es si el marco legal fue específicamente diseñado para permitir lo que de otro modo constituiría fraude — y si es así, si el diseño de ese marco es en sí mismo una conspiración criminal".</p>
+<hr>
+<h2 id="los-elementos-del-fraude">Los Elementos del Fraude</h2>
+<p>Bajo ley federal, fraude requiere: (1) una tergiversación material, (2) hecha sabiendo o imprudentemente, (3) con intento de engañar, (4) en la cual la víctima confió, (5) causando daños.</p>
+<p><strong>Tergiversación material:</strong> Las vacunas COVID-19 fueron representadas como "seguras y efectivas". Los ensayos clínicos en los cuales esta representación se basaba fueron incompletos (diseñados para correr hasta 2023, autorizados en 2020), el grupo de control fue destruido (eliminando datos comparativos a largo plazo) y señales de seguridad fueron suprimidas (reportes VAERS no investigados, datos de eventos adversos no divulgados al público).</p>
+<p><strong>Conocimiento:</strong> Los documentos liberados por FOIA demuestran que tanto oficiales de FDA como científicos de Pfizer estaban conscientes de datos de seguridad — incluyendo datos de biodistribución mostrando que el producto se dispersó por todo el cuerpo — que no fue comunicado al público o a proveedores de salud administrando.</p>
+<p><strong>Intento de engañar:</strong> El intento de la FDA de sellar datos de ensayos clínicos por 75 años demuestra consciencia de ocultamiento. La supresión sistemática de tratamientos alternativos — necesaria para mantener el requisito de "sin alternativa adecuada" para EUA — demuestra intento de mantener el marco de autorización sin importar evidencia emergente.</p>
+<p><strong>Confianza:</strong> Cientos de millones de estadounidenses confiaron en la representación de "segura y efectiva" para tomar su decisión de vacunación. Empleadores, universidades y comandantes militares confiaron en ella para imponer mandatos.</p>
+<p><strong>Daños:</strong> Los documentos VAERS de cientos de miles de eventos adversos, incluyendo muertes, incapacidades permanentes y hospitalizaciones.</p>
+<p>Cada elemento del fraude es satisfecho por el registro documentado. La pregunta es si el marco legal que autorizó la conducta sirve como defensa — y si un marco legal diseñado para permitir fraude puede en sí mismo constituir fraude.</p>
+<hr>
+<h2 id="la-defensa-del-contratista-gubernamental">La Defensa del Contratista Gubernamental</h2>
+<p>El gobierno probablemente invocará la "defensa del contratista gubernamental" — la doctrina legal que contratistas realizando trabajo bajo dirección del gobierno, bajo especificaciones del gobierno, no pueden ser responsabilizados por daño causado por productos que producen a especificaciones del gobierno.</p>
+<p>Esta defensa fue establecida en <em>Boyle v. United Technologies Corp.</em> (1988), en la cual la Corte Suprema sostuvo que contratistas militares tienen inmunidad de responsabilidad civil estatal por productos diseñados a especificaciones del gobierno.</p>
+<p>Sin embargo, la defensa del contratista gubernamental tiene límites. No aplica cuando el contratista:</p>
+<ul>
+<li>Proporciona información falsa al gobierno</li>
+<li>Oculta riesgos conocidos del gobierno</li>
+<li>Falla en cumplir especificaciones del gobierno</li>
+<li>Comete fraude en obtener el contrato del gobierno</li>
+</ul>
+<p>Si Pfizer proporcionó datos falsos de ensayos clínicos a la FDA — como alegado por la denunciante Brook Jackson y documentado a través de discrepancias liberadas por FOIA — la defensa del contratista gubernamental no aplicaría, porque la defensa requiere que el contratista proporcione información precisa al gobierno.</p>
+<p>Pero si el gobierno en sí mismo fue cómplice en el fraude — si oficiales de FDA sabían que los datos eran inadecuados y autorizaron el producto de todos modos — entonces tanto el contratista como el gobierno son potencialmente responsables, y ninguno puede invocar al otro como escudo.</p>
+<hr>
+<h2 id="el-problema-de-la-inmunidad-soberana">El Problema de la Inmunidad Soberana</h2>
+<p>El gobierno estadounidense disfruta de inmunidad soberana — el principio legal que el soberano no puede ser demandado sin su consentimiento. La Ley Federal de Reclamos por Daños (FTCA) renuncia a inmunidad soberana en circunstancias limitadas, pero la excepción de función discrecional preserva inmunidad por decisiones del gobierno involucrando ejercicio de juicio de política.</p>
+<p>La decisión de la FDA de autorizar las vacunas COVID-19 bajo EUA probablemente sería caracterizada como una función discrecional — un juicio de política involucrando balance de riesgos y beneficios durante una emergencia de salud pública. Bajo la excepción de función discrecional, el gobierno sería inmune de responsabilidad civil por daños sin importar sus consecuencias.</p>
+<p>Esto crea un no-man's-land legal: el fabricante reclama dirección del gobierno como su defensa, el gobierno reclama inmunidad soberana como su defensa, y el individuo lesionado no tiene recurso legal contra ninguno.</p>
+<p>Kingston ha identificado esto como el propósito fundamental de la arquitectura legal: "El sistema fue diseñado para crear una zona de responsabilidad cero. El fabricante apunta al gobierno. El gobierno apunta a inmunidad soberana. La Ley PREP elimina la vía alternativa. El CICP niega los reclamos. El resultado es un sistema en el cual miles de millones de dosis de un producto experimental pueden ser administrados a la población global sin entidad alguna llevando responsabilidad legal por las consecuencias. Esto no es una brecha en la ley. Es el diseño de la ley".</p>
+<hr>
+<h2 id="el-juicio-profético">El Juicio Profético</h2>
+<blockquote>
+<p>"¡Ay de los que dictan decretos injustos, y prescriben tiranía!" — Isaías 10:1</p>
+</blockquote>
+<p>El profeta Isaías pronuncia ay sobre aquellos que escriben leyes injustas — que usan la maquinaria de legislación para crear marcos para injusticia. La arquitectura legal que protegió el programa de vacunación COVID-19 de responsabilidad fue precisamente tal decreto — escrito por adelantado, posicionado en la ley y activado para permitir el despliegue de productos que no habían sido probados seguros a una población que no había sido honestamente informada, bajo condiciones que hacían justicia imposible.</p>
+<hr>
+<hr>
+<h3 id="la-advertencia-de-1-samuel-8">La Advertencia de 1 Samuel 8</h3>
+<blockquote>
+<p><em>"Y el Señor dijo a Samuel, Escucha la voz del pueblo en todo lo que dicen a ti: porque no te han rechazado a ti, sino que me han rechazado a mí, que no reine sobre ellos."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>La advertencia antigua de 1 Samuel 8 resuena a través de cada corredor del gobierno hoy. Cuando Israel demandó un rey como las otras naciones, Dios les advirtió exactamente qué pasaría — sus hijos tomados para guerra, sus hijas para servicio, sus campos y viñas confiscados, un décimo de todo confiscado. Eligieron gobierno humano sobre el reinado de Dios, y la tiranía siguió exactamente como fue prometido. Nada ha cambiado. El sistema político moderno es dos alas del mismo pájaro — izquierda y derecha, Republicano y Demócrata — todos sirviendo la misma estructura de poder oculta. Votar por cualquier lado es elegir cuál ala aletea siguiente mientras el pájaro vuela en la misma dirección. El poder real nunca ha estado en ninguna papeleta.</p>
+<h2 id="fuentes">Fuentes</h2>
+<ul>
+<li>
+<p>Estatutos federales de fraude — 18 U.S.C. Secciones 1001, 1341, 1343, 371</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Análisis de marco legal de Karen Kingston de contratos OTA, autorización EUA, inmunidad de Ley PREP y arquitectura de responsabilidad gobierno-pharma</p>
+</li>
+<li>
+<p>Boyle v. United Technologies Corp., 487 U.S. 500 (1988)</p>
+</li>
+<li>
+<p>Ley Federal de Reclamos por Daños — 28 U.S.C. Secciones 2671-2680</p>
+</li>
+<li>
+<p>Salmos 94:20, Isaías 10:1 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — La Advertencia Contra Reyes Terrenales (KJV)</a></p>
+</li>
+</ul>
+<h2 id="descubre-más">Descubre Más</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de Experiencia Cercana a la Muerte de Howard Pittman — Advertencia de Fin de Tiempos que Dios Le Dio</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Jesuitas Deplorables Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Lo Que Podría Estar en el Sótano del Vaticano Puede Sorprenderte</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry en YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions en YouTube</a></li>
+</ul>
+<hr>
+<h2 id="escucha-mientras-lees">Escucha Mientras Lees</h2>
+<p>Estas pistas de ZZZ Daily exploran los temas en este artículo:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — La arquitectura de complicidad mutua protegiendo ambas partes</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/125-Illuminati_Founding_Fathers.mp4">Illuminati Founding Fathers</a> — Marcos legales diseñados por el poderoso para proteger al poderoso</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Gobierno e industria marchando en impunidad sincronizada</li>
+</ul>
+<p>Del álbum Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — Fraude cometido a través de ley en lugar de fuera de ella</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/31-Satans_Hosts.mp4">Satan's Hosts</a> — Operaciones institucionales coordinadas diseñadas para impunidad</li>
+</ul>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/federal-government-pfizer-data-fraud/?lang=es">¿Es un Crimen? Gobierno Federal Asistió a Pfizer en Fraude de Datos</a> — La evidencia específica del fraude gobierno-pharma</li>
+<li><a href="/pfizer-case-government-not-interested/?lang=es">Presentación Judicial en Caso Pfizer: Gobierno NO Interesado en Justicia</a> — La negativa del sistema legal de perseguir el caso</li>
+<li><a href="/florida-criminal-charges-pfizer/?lang=es">Cómo Residentes de Florida Pueden Presentar Cargos Criminales Contra Pfizer</a> — Vías a nivel estatal evitando inmunidad federal</li>
+<li><a href="/doctors-vacate-prep-act/?lang=es">Más de 100,000 Doctores Allanan el Camino para Anular Inmunidad de Ley PREP</a> — El desafío de la profesión médica al marco de responsabilidad</li>
+</ul>
+<hr>
+<p><em>Jezabel escribió las cartas. Las selló con el sello del rey. Dirigió a los falsos testigos. Operó enteramente dentro del marco legal de su autoridad. Y Dios la responsabilizó — no por violar la ley, sino por usar la ley como instrumento de asesinato. La arquitectura legal que habilitó el programa de vacunación COVID-19 fue construida con la misma precisión — cada estatuto, cada autoridad ejecutiva, cada escudo de responsabilidad crafted para permitir lo que de otro modo sería criminal. La pregunta no es si fue legal. La pregunta es si un sistema diseñado para legalizar fraude es en sí mismo el fraude más grande de todos. "¡Ay de los que llaman malo bueno y bueno malo!" (Isaías 5:20). La ley lo llama autorizado. Dios lo llama lo que es.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"¿Es Legal que el Gobierno Estadounidense Cometa Fraude con BioPharma"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Análisis legal examina si la asociación del gobierno estadounidense con compañías biofarmacéuticas para ocultar datos de ensayos clínicos constituye fraude federal procesable."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-31T10:00:00Z","children":"31 de mayo de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","government-fraud",{"href":"/es/tag/government-fraud/","className":"tag-pill","children":["#","government-fraud"]}],["$","a","biopharma",{"href":"/es/tag/biopharma/","className":"tag-pill","children":["#","biopharma"]}],["$","a","legal-analysis",{"href":"/es/tag/legal-analysis/","className":"tag-pill","children":["#","legal-analysis"]}],["$","a","PREP-Act",{"href":"/es/tag/PREP-Act/","className":"tag-pill","children":["#","PREP-Act"]}],["$","a","accountability",{"href":"/es/tag/accountability/","className":"tag-pill","children":["#","accountability"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/government-fraud-biopharma/","title":"¿Es Legal que el Gobierno Estadounidense Cometa Fraude con BioPharma"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/government-fraud-biopharma/","title":"¿Es Legal que el Gobierno Estadounidense Cometa Fraude con BioPharma"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"¿Es Legal que el Gobierno Estadounidense Cometa Fraude con BioPharma | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Análisis legal examina si la asociación del gobierno estadounidense con compañías biofarmacéuticas para ocultar datos de ensayos clínicos constituye fraude federal procesable."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"government-fraud, biopharma, legal-analysis, PREP-Act, accountability"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/government-fraud-biopharma/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/government-fraud-biopharma/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/government-fraud-biopharma/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/government-fraud-biopharma/"}],["$","meta","10",{"property":"og:title","content":"¿Es Legal que el Gobierno Estadounidense Cometa Fraude con BioPharma"}],["$","meta","11",{"property":"og:description","content":"Análisis legal examina si la asociación del gobierno estadounidense con compañías biofarmacéuticas para ocultar datos de ensayos clínicos constituye fraude federal procesable."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/government-fraud-biopharma/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/government-fraud-biopharma.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"¿Es Legal que el Gobierno Estadounidense Cometa Fraude con BioPharma"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"¿Es Legal que el Gobierno Estadounidense Cometa Fraude con BioPharma"}],["$","meta","25",{"name":"twitter:description","content":"Análisis legal examina si la asociación del gobierno estadounidense con compañías biofarmacéuticas para ocultar datos de ensayos clínicos constituye fraude federal procesable."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/government-fraud-biopharma.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

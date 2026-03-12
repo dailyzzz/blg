@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","former-cdc-director-self-spreading",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","former-cdc-director-self-spreading","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","former-cdc-director-self-spreading","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3d48,<h1 id="former-cdc-director-states-covid-19-was-a-self-spreading-vaccine">Former CDC Director States COVID-19 Was a Self-Spreading Vaccine</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues." — Revelation 18:4</p>
+</blockquote>
+<p>When the leader of the watchmen turns and testifies against the city he was charged to protect, the testimony carries extraordinary weight. Robert Redfield served as Director of the Centers for Disease Control and Prevention from 2018 to 2021 — the agency responsible for protecting Americans from infectious disease. He was the watchman on the wall during the most consequential public health event of the century.</p>
+<p>Now the watchman has spoken. His statements about COVID-19 as a potential self-spreading vaccine do not come from the margins. They come from the man who occupied the highest seat of disease surveillance in the United States during the pandemic itself. When the former CDC Director suggests that COVID-19 may have been an engineered self-spreading vaccine, the implications reorder everything the public was told about the pandemic.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/es/179-Engineering_Contagion.mp4">Engineering Contagion</a> documents how both the disease and its response were engineered components of a unified program. And the Confliction track <a href="https://confliction.zzzdaily.com/tracks/es/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> speaks to the moment when truth breaks free from the darkness where it has been held.</p>
+<hr>
+<h2 id="redfields-statements">Redfield's Statements</h2>
+<h3 id="what-the-former-cdc-director-said">What the Former CDC Director Said</h3>
+<p>Dr. Robert Redfield, a virologist by training and the CDC Director during the initial COVID-19 outbreak, has made several statements that collectively paint a picture radically different from the official pandemic narrative:</p>
+<p><strong>Lab Origin:</strong> Redfield has stated publicly and repeatedly that he believes SARS-CoV-2 originated in the Wuhan Institute of Virology — not from a natural spillover event at a wet market. He has stated that the virus's characteristics — particularly its immediate high transmissibility to humans — are more consistent with an engineered pathogen than a natural zoonotic emergence.</p>
+<p><strong>Gain-of-Function Research:</strong> Redfield has acknowledged that gain-of-function research — the deliberate enhancement of pathogen capabilities — was being conducted at the Wuhan Institute of Virology with funding that passed through U.S. government channels, specifically through NIH grants to EcoHealth Alliance.</p>
+<p><strong>Self-Spreading Vaccine Concept:</strong> Most significantly, Redfield has made statements that frame COVID-19 itself as potentially functioning as a self-spreading vaccine — an engineered pathogen designed to spread through a population, causing immune responses that could serve as de facto vaccination against future, more lethal strains.</p>
+<p>This concept — a pathogen engineered to spread immunity through infection rather than injection — is consistent with published research on self-spreading vaccines that has been funded by DARPA, Johns Hopkins, and other institutions. The self-spreading vaccine is not injected — it is released, and it spreads through the population like a natural infection, conferring immunity (and potentially other biological modifications) to everyone it reaches.</p>
+<h3 id="the-significance-of-the-source">The Significance of the Source</h3>
+<p>When a conspiracy researcher makes these claims, they are dismissed. When the former Director of the CDC makes these claims, the institutional framework shudders. Redfield is not an outsider. He held one of the most sensitive positions in the U.S. public health apparatus. He had access to classified intelligence briefings, internal CDC data, and direct communication with military and intelligence agencies regarding the pandemic's origins.</p>
+<p>His willingness to speak suggests either:</p>
+<ol>
+<li>The truth is too significant to suppress indefinitely</li>
+<li>Institutional factions are breaking ranks</li>
+<li>The narrative is being deliberately shifted for strategic reasons</li>
+<li>All of the above</li>
+</ol>
+<hr>
+<h2 id="the-kingston-report-the-self-spreading-framework">The Kingston Report: The Self-Spreading Framework</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> places Redfield's statements within the documented framework of self-spreading vaccine research.</p>
+<h3 id="the-research-infrastructure">The Research Infrastructure</h3>
+<p>Kingston has documented that self-spreading vaccine technology has been developed over the past two decades through a network of government-funded programs:</p>
+<p><strong>DARPA's PREEMPT Program (2017-present):</strong> The Preventing Emerging Pathogenic Threats program funds the development of "interventions that can be targeted to animal reservoirs to prevent spillover of dangerous pathogens to humans." The interventions include transmissible vaccines — vaccines that spread from animal to animal through natural transmission.</p>
+<p><strong>Johns Hopkins Self-Spreading Vaccines Report (2018):</strong> Kingston has highlighted the Johns Hopkins Center for Health Security report that explicitly discusses self-spreading vaccines as a technology for addressing "global catastrophic biological risks." The report discusses both benefits and risks of vaccines that transmit from person to person.</p>
+<p><strong>Recombinant Vector Research:</strong> Published research has demonstrated the creation of recombinant viral vectors that carry vaccine antigens and spread between hosts. These are essentially viruses engineered to carry beneficial payloads — but the same technology can be used to carry any payload.</p>
+<h3 id="covid-19-as-the-proof-of-concept">COVID-19 as the Proof of Concept</h3>
+<p>Kingston has argued that if COVID-19 was an engineered self-spreading vaccine (or a self-spreading pathogen designed to generate specific immune responses), then the pandemic itself was the deployment — not a natural disaster requiring a pharmaceutical response, but a pharmaceutical product delivered through engineered contagion.</p>
+<p>This framework reframes the entire pandemic:</p>
+<ul>
+<li>The <strong>"disease"</strong> was the delivery mechanism (the self-spreading virus)</li>
+<li>The <strong>"immune response"</strong> was the intended effect (population-wide immune modification)</li>
+<li>The <strong>"vaccine"</strong> (mRNA shots) was the second phase — a follow-up modification layered on top of the immune changes induced by the self-spreading first phase</li>
+<li>The <strong>"boosters"</strong> were subsequent updates to the biological programming</li>
+</ul>
+<p>In this framework, the world population was subjected to a multi-phase biological modification program: Phase 1 (self-spreading pathogen), Phase 2 (mRNA injection), Phase 3 (boosters), and beyond.</p>
+<hr>
+<h2 id="the-convergence-of-evidence">The Convergence of Evidence</h2>
+<h3 id="multiple-lines-pointing-in-one-direction">Multiple Lines Pointing in One Direction</h3>
+<p>The evidence supporting Redfield's framing converges from multiple independent sources:</p>
+<p><strong>Furin Cleavage Site:</strong> SARS-CoV-2 contains a furin cleavage site that has never been found in any naturally occurring SARS-related coronavirus. This feature dramatically enhances the virus's ability to infect human cells. The furin cleavage site is, however, a standard feature of engineered pathogens and a well-documented gain-of-function modification.</p>
+<p><strong>Immediate Human Transmissibility:</strong> Natural zoonotic viruses typically require multiple adaptation events before they can efficiently transmit between humans. SARS-CoV-2 appeared already optimized for human transmission — consistent with laboratory adaptation through serial passage in humanized mice or human cell cultures.</p>
+<p><strong>Wuhan Institute of Virology Programs:</strong> The WIV was conducting gain-of-function research on bat coronaviruses, including chimeric virus construction (combining elements from different coronaviruses) and serial passage through humanized mice. These programs were funded in part by NIH grants through EcoHealth Alliance.</p>
+<p><strong>DEFUSE Proposal:</strong> The leaked DARPA DEFUSE proposal (submitted by EcoHealth Alliance in 2018) described plans to insert furin cleavage sites into bat coronaviruses and to deploy aerosolized vaccines in bat caves. DARPA rejected the proposal — but the research described in the proposal closely matches the characteristics of SARS-CoV-2.</p>
+<p><strong>Timing and Location:</strong> The outbreak emerged in Wuhan, the city hosting China's only BSL-4 laboratory conducting gain-of-function research on bat coronaviruses. The probability of a natural spillover occurring in the exact city housing the relevant research laboratory, compared to any other location in the vast geographic range of bat coronaviruses, strains credibility beyond the breaking point.</p>
+<hr>
+<h2 id="the-biblical-framework-engineered-plagues">The Biblical Framework: Engineered Plagues</h2>
+<h3 id="pharaohs-plagues-and-modern-plagues">Pharaoh's Plagues and Modern Plagues</h3>
+<p>The plagues of Egypt (Exodus 7-12) were divine judgments delivered upon a nation that refused to release God's people. Each plague targeted a specific Egyptian deity: the Nile turning to blood (against Hapi, the Nile god), darkness (against Ra, the sun god), and the death of the firstborn (against Pharaoh himself, considered a god).</p>
+<p>The modern plague framework is inverted. Rather than God sending plagues to liberate His people, human institutions engineer plagues to enslave populations — creating fear that drives compliance, compliance that enables injection, and injection that modifies biology. The engineered plague is the chain. The vaccine is the lock.</p>
+<h3 id="revelation-1823--pharmakeia-as-the-method">Revelation 18:23 — Pharmakeia as the Method</h3>
+<p>If COVID-19 was an engineered self-spreading pathogen — and if the mRNA vaccines were a second-phase biological modification delivered under the cover of the pandemic — then the entire event is pharmakeia at its most comprehensive. The sorcery is not just the drug. It is the disease that creates the demand for the drug. Both are pharmaceutical products. Both are engineered. Both modify human biology.</p>
+<p>"By thy pharmakeia were all nations deceived." All nations. The pandemic was global. The vaccines were global. The deception was total.</p>
+<hr>
+<h2 id="what-individuals-should-know">What Individuals Should Know</h2>
+<ol>
+<li><strong>The former CDC Director believes COVID-19 originated in a laboratory</strong> and has characteristics consistent with an engineered pathogen.</li>
+<li><strong>Self-spreading vaccine technology is published science,</strong> funded by DARPA, Johns Hopkins, and U.S. government agencies.</li>
+<li><strong>The DEFUSE proposal</strong> described inserting furin cleavage sites into bat coronaviruses and deploying aerosolized vaccines — matching SARS-CoV-2's characteristics.</li>
+<li><strong>The pandemic and the vaccine may represent two phases</strong> of a single biological modification program.</li>
+<li><strong>Redfield's statements carry institutional weight</strong> — he was the CDC Director during the pandemic and had access to classified intelligence.</li>
+<li><strong>The convergence of evidence</strong> — lab features, timing, location, funding trails, and now insider testimony — points consistently toward an engineered origin.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of self-spreading vaccine technology and pandemic engineering.</li>
+<li>Redfield, Robert. Public statements on COVID-19 origins and self-spreading vaccines.</li>
+<li>DARPA DEFUSE proposal (leaked documents).</li>
+<li>Johns Hopkins Center for Health Security reports.</li>
+<li>Published research on furin cleavage site insertion and gain-of-function.</li>
+<li>NIH/EcoHealth Alliance funding documentation.</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/179-Engineering_Contagion.mp4">Engineering Contagion</a> — The engineering of disease and response as one system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The injection as part of an ancient agenda</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/41-Shedding_Proof.mp4">Shedding Proof</a> — Evidence of transmission between individuals</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> — Truth breaking free from institutional darkness</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — The ultimate defeat of the serpent's technology</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/vaccine-virus-nanotechnology-spraying/?lang=es">The Spraying of Vaccine-Virus-Nanotechnology by Military Aircraft</a> — Aerosolized delivery documented</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=es">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — The sa-mRNA technology</li>
+<li><a href="/bioweapons-gain-of-function/?lang=es">Bioweapons and Gain-of-Function</a> — The military origins of pathogen enhancement</li>
+<li><a href="/darpa-dark-winter-military-origins/?lang=es">DARPA and Dark Winter</a> — Military pandemic planning</li>
+</ul>
+<hr>
+<p><em>The watchman has spoken. The man who sat in the CDC Director's chair during the pandemic has stated what millions suspected: COVID-19 bears the marks of engineering, and its characteristics are consistent with a self-spreading vaccine. The truth is leaving the cave. "For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad" (Luke 8:17). The former watchman's testimony confirms what the blood already testified — the plague was engineered, and the cure was planned before the disease was released.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Former CDC Director States COVID-19 Was a Self-Spreading Vaccine"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Former CDC Director Robert Redfield's statements about COVID-19 as a potential self-spreading vaccine and what this admission reveals about gain-of-function."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-23T10:00:00Z","children":"23 de abril de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CDC",{"href":"/es/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","self-spreading-vaccine",{"href":"/es/tag/self-spreading-vaccine/","className":"tag-pill","children":["#","self-spreading-vaccine"]}],["$","a","Robert-Redfield",{"href":"/es/tag/Robert-Redfield/","className":"tag-pill","children":["#","Robert-Redfield"]}],["$","a","gain-of-function",{"href":"/es/tag/gain-of-function/","className":"tag-pill","children":["#","gain-of-function"]}],["$","a","lab-origin",{"href":"/es/tag/lab-origin/","className":"tag-pill","children":["#","lab-origin"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/former-cdc-director-self-spreading/","title":"Former CDC Director States COVID-19 Was a Self-Spreading Vaccine"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/former-cdc-director-self-spreading/","title":"Former CDC Director States COVID-19 Was a Self-Spreading Vaccine"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Former CDC Director States COVID-19 Was a Self-Spreading Vaccine | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Former CDC Director Robert Redfield's statements about COVID-19 as a potential self-spreading vaccine and what this admission reveals about gain-of-function."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CDC, self-spreading-vaccine, Robert-Redfield, gain-of-function, lab-origin"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/former-cdc-director-self-spreading/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/former-cdc-director-self-spreading/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/former-cdc-director-self-spreading/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/former-cdc-director-self-spreading/"}],["$","meta","10",{"property":"og:title","content":"Former CDC Director States COVID-19 Was a Self-Spreading Vaccine"}],["$","meta","11",{"property":"og:description","content":"Former CDC Director Robert Redfield's statements about COVID-19 as a potential self-spreading vaccine and what this admission reveals about gain-of-function."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/former-cdc-director-self-spreading/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/former-cdc-director-self-spreading.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Former CDC Director States COVID-19 Was a Self-Spreading Vaccine"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Former CDC Director States COVID-19 Was a Self-Spreading Vaccine"}],["$","meta","25",{"name":"twitter:description","content":"Former CDC Director Robert Redfield's statements about COVID-19 as a potential self-spreading vaccine and what this admission reveals about gain-of-function."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/former-cdc-director-self-spreading.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

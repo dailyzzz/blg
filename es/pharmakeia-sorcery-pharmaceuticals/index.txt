@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pharmakeia-sorcery-pharmaceuticals",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pharmakeia-sorcery-pharmaceuticals","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pharmakeia-sorcery-pharmaceuticals","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T1a49,<h1 id="pharmakeia-la-hechicería-de-los-productos-farmacéuticos">Pharmakeia: La Hechicería de los Productos Farmacéuticos</h1>
+<h2 id="la-palabra-bíblica">La Palabra Bíblica</h2>
+<blockquote>
+<p>"Ahora bien, los actos de la carne son evidentes: inmoralidad sexual, impureza, lujuria licenciosa, idolatría, hechicería (pharmakeia), odio, discordia, celos, ira, egoísmo, disensión, herejía y envidia..." — Gálatas 5:19-20</p>
+</blockquote>
+<p>La palabra griega "pharmakeia" aparece en el Nuevo Testamento translated como "hechicería" o "brujería." Su raíz es "pharmakon" — que significa tanto "medicina" como "veneno." En el griego antiguo, los dos conceptos eran inseparables: medicina y veneno eran la misma cosa — sustancias que alteraban el cuerpo y la mente.</p>
+<p>La hechicería a través de pharmakeia — la manipulación química de la conciencia — fue considerada por los escritores bíblicos como una obra espiritual que esclavizaba el alma. Es así hoy.</p>
+<hr>
+<h2 id="el-modelo-de-esclavitud-química">El Modelo de Esclavitud Química</h2>
+<h3 id="de-sustancias-antiguas-a-drogas-modernas">De Sustancias Antiguas a Drogas Modernas</h3>
+<p>La hechicería antigua usaba sustancias naturales para alterar conciencia:</p>
+<ul>
+<li>El opio para inducir trance</li>
+<li>La mandrágora para inducir sueño</li>
+<li>El cannabis para inducir éxtasis</li>
+<li>El cornezuelo de centeno para inducir alucinaciones</li>
+</ul>
+<p>Cada sustancia permitía al "hechicero" que la dispensaba controlar a aquellos que la consumían.</p>
+<p>La industria farmacéutica moderna continúa esta práctica con químicos sintetizados:</p>
+<ul>
+<li>SSRIs para alterar el estado emocional</li>
+<li>Estimulantes para alterar concentración</li>
+<li>Sedantes para inducir sueño</li>
+<li>Opioides para inducir olvido</li>
+</ul>
+<p>El mecanismo es idéntico al de la hechicería antigua. Solo la sustancia ha cambiado.</p>
+<hr>
+<h2 id="las-tres-características-de-la-esclavitud-farmacéutica">Las Tres Características de la Esclavitud Farmacéutica</h2>
+<h3 id="1-dependencia">1. Dependencia</h3>
+<p>Cada droga farmacéutica exitosa crea dependencia:</p>
+<ul>
+<li>Los SSRIs crean dependencia psicológica — los pacientes no pueden dejar de tomarlos</li>
+<li>Los estimulantes crean dependencia física — el cuerpo se adapta y requiere dosis crecientes</li>
+<li>Los opioides crean dependencia física grave — retirarse causa sufrimiento severo</li>
+<li>Los sedantes crean dependencia — la mente no puede dormir sin ellos</li>
+</ul>
+<p>La dependencia es por diseño. Una droga que no crea dependencia no genera ingresos recurrentes. Una droga que crea dependencia genera ingresos de por vida.</p>
+<h3 id="2-negación-del-daño">2. Negación del Daño</h3>
+<p>Como los hechiceros antiguos escondían el veneno en las pociones, los farmacéuticos modernos esconden el daño dentro de la narrativa de "tratamiento":</p>
+<ul>
+<li>Los SSRIs causan aplanamiento emocional, disfunción sexual, y violencia — presentado como "gestión de depresión"</li>
+<li>Los estimulantes causan psicosis, arritmias cardíacas, y muerte — presentado como "tratamiento de ADHD"</li>
+<li>Los opioides causan adicción severa y sobrdosis muerte — presentado como "manejo del dolor"</li>
+<li>Los antipsicóticos causan ganancia de peso extrema, síndrome metabólico, y muerte — presentado como "estabilización de humor"</li>
+</ul>
+<p>Cada droga causa daño que es escondido bajo la narrativa de beneficio.</p>
+<h3 id="3-esclavitud-permanente">3. Esclavitud Permanente</h3>
+<p>Una persona dependiente de drogas farmacéuticas está esclavizada:</p>
+<ul>
+<li>Dependencia física significa que el cuerpo requiere la sustancia</li>
+<li>Dependencia financiera significa que el paciente paga perpetuamente por la sustancia</li>
+<li>Dependencia emocional significa que el paciente cree que la sustancia es necesaria para funcionar</li>
+</ul>
+<p>La libertad es imposible bajo esclavitud farmacéutica.</p>
+<hr>
+<h2 id="el-patrón-de-expansión">El Patrón de Expansión</h2>
+<p>La industria farmacéutica continúamente expande la esclavitud de:</p>
+<p><strong>Enfermedades a Condiciones</strong></p>
+<ul>
+<li>La depresión es una enfermedad y merece tratamiento farmacéutico</li>
+<li>La timidez es una "condición social" que merece tratamiento farmacéutico</li>
+<li>La infancia es una condición que requiere medicación</li>
+</ul>
+<p><strong>Adultos a Niños</strong></p>
+<ul>
+<li>Los niños reciben estimulantes para ADHD (realmente: falta de conformidad a escuela)</li>
+<li>Los niños reciben SSRIs para "ansiedad" (realmente: estrés normal de la vida)</li>
+<li>Los niños reciben antipsicóticos para "defiant disorder" (realmente: habla)</li>
+</ul>
+<p><strong>Una Droga a Polidrogadicción</strong></p>
+<ul>
+<li>Una persona recibe un SSRI para depresión</li>
+<li>Los efectos secundarios requieren estimulante</li>
+<li>Los efectos secundarios del estimulante requieren sedante</li>
+<li>Los efectos secundarios del sedante requieren otro SSRI</li>
+</ul>
+<p>El paciente está ahora en polidrogadicción permanente.</p>
+<hr>
+<h2 id="la-liberación-bíblica">La Liberación Bíblica</h2>
+<blockquote>
+<p>"Llevaré la iniquidad de Jacob y perdonaré sus pecados." — Miqueas 7:18</p>
+</blockquote>
+<p>La Biblia no ofrece simplemente condenación de pharmakeia. Ofrece liberación:</p>
+<ul>
+<li>Repentimiento de la dependencia química</li>
+<li>Sanidad del cuerpo y la mente</li>
+<li>Restauración de autonomía</li>
+<li>Libertad de la esclavitud al sistema farmacéutico</li>
+</ul>
+<p>La liberación requiere que enfrentes el hecho de que las drogas que te dieron bajo pretexto de "tratamiento" te han esclavizado. Requiere retirarte, enfrentar el dolor de la retirada, y permitir que tu cuerpo y mente sanar naturalmente.</p>
+<p>Es un camino duro. Pero es el único camino hacia la libertad.</p>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="/psychology-industry-manufacturing-illness/?lang=es">La Industria de la Psicología: Fabricando Enfermedad Mental para Ganancias</a></li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman testimonio de ECD - Advertencia de fin de los tiempos de Dios</a></li>
+</ul>
+<hr>
+<p><em>La pharmakeia bíblica es la esclavitud a través de la química. La industria farmacéutica moderna ha perfeccionado esta esclavitud: drogas que crean dependencia, narrativas que niegan daño, y un sistema que perpetúa la adicción. Pero la libertad es disponible para aquellos que se rehúsan a ser esclavizados, quienes enfrentan el dolor de escapar, y quienes confían en Aquel cuya sanidad es más profunda que cualquier droga.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/spirituality/","className":"category-badge","children":"spirituality"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Pharmakeia: La Hechicería de los Productos Farmacéuticos"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"La palabra griega 'pharmakeia' de la Biblia se refiere a la hechicería a través de sustancias. Explora cómo la industria farmacéutica moderna continúa la práctica antigua de esclavitud química."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-11T10:00:00Z","children":"11 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pharmakeia",{"href":"/es/tag/pharmakeia/","className":"tag-pill","children":["#","pharmakeia"]}],["$","a","sorcery",{"href":"/es/tag/sorcery/","className":"tag-pill","children":["#","sorcery"]}],["$","a","pharmaceuticals",{"href":"/es/tag/pharmaceuticals/","className":"tag-pill","children":["#","pharmaceuticals"]}],["$","a","addiction",{"href":"/es/tag/addiction/","className":"tag-pill","children":["#","addiction"]}],["$","a","control",{"href":"/es/tag/control/","className":"tag-pill","children":["#","control"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pharmakeia-sorcery-pharmaceuticals/","title":"Pharmakeia: La Hechicería de los Productos Farmacéuticos"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pharmakeia-sorcery-pharmaceuticals/","title":"Pharmakeia: La Hechicería de los Productos Farmacéuticos"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Pharmakeia: La Hechicería de los Productos Farmacéuticos | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"La palabra griega 'pharmakeia' de la Biblia se refiere a la hechicería a través de sustancias. Explora cómo la industria farmacéutica moderna continúa la práctica antigua de esclavitud química."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pharmakeia, sorcery, pharmaceuticals, addiction, control"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pharmakeia-sorcery-pharmaceuticals/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pharmakeia-sorcery-pharmaceuticals/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pharmakeia-sorcery-pharmaceuticals/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pharmakeia-sorcery-pharmaceuticals/"}],["$","meta","10",{"property":"og:title","content":"Pharmakeia: La Hechicería de los Productos Farmacéuticos"}],["$","meta","11",{"property":"og:description","content":"La palabra griega 'pharmakeia' de la Biblia se refiere a la hechicería a través de sustancias. Explora cómo la industria farmacéutica moderna continúa la práctica antigua de esclavitud química."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pharmakeia-sorcery-pharmaceuticals/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pharmakeia-sorcery-pharmaceuticals.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Pharmakeia: La Hechicería de los Productos Farmacéuticos"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Pharmakeia: La Hechicería de los Productos Farmacéuticos"}],["$","meta","25",{"name":"twitter:description","content":"La palabra griega 'pharmakeia' de la Biblia se refiere a la hechicería a través de sustancias. Explora cómo la industria farmacéutica moderna continúa la práctica antigua de esclavitud química."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pharmakeia-sorcery-pharmaceuticals.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

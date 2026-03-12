@@ -1,0 +1,158 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","mmr-vaccine-nanobot-swarms",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","mmr-vaccine-nanobot-swarms","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mmr-vaccine-nanobot-swarms","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4261,<h1 id="mmr-varicella-vaccine-contains-nanobot-swarms-under-microscopy">MMR Varicella Vaccine Contains Nanobot Swarms Under Microscopy</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee." — Jeremiah 1:5</p>
+</blockquote>
+<p>God knows every child before they are formed. He sanctifies them — sets them apart — before they draw their first breath. Every child born into this world carries the image of God, formed by His hands, breathed into life by His Spirit. The sanctity of children is not a cultural value or a moral preference. It is a divine declaration. And the violation of that sanctity — the corruption of a child's body through undisclosed technology injected into their blood — is an act that Scripture addresses with the most severe language available.</p>
+<p>The MMR Varicella vaccine — administered to children as young as 12 months — is one of the most widely given childhood vaccines in the world. Parents trust it. Pediatricians mandate it. School systems require it. And when its contents are examined under darkfield microscopy, what is revealed is not a simple vaccine. It is a delivery system for nanobot swarm technology — autonomous, self-organizing nanoscale entities that display coordinated movement behavior and collective intelligence.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/es/105-The_Second_Adam.mp4">The Second Adam</a> speaks to Christ's restoration of the innocence lost in Eden — and the injection of nanobot swarms into children is an assault on innocence at the cellular level. <a href="https://confliction.zzzdaily.com/tracks/es/51-The_Covenant_Blood.mp4">The Covenant Blood</a> reminds us that blood is covenant substance — and the blood of children is the most innocent covenant substance on earth.</p>
+<hr>
+<h2 id="the-microscopy-findings">The Microscopy Findings</h2>
+<p>Independent researchers have subjected sealed MMR Varicella vaccine vials to darkfield microscopy analysis using standardized laboratory protocols. The contents were extracted under sterile conditions and examined at magnifications ranging from 100x to 4000x under darkfield illumination.</p>
+<h3 id="nanobot-swarm-behavior">Nanobot Swarm Behavior</h3>
+<p>The most extraordinary finding is the documentation of swarm behavior — a coordinated, collective movement pattern exhibited by large numbers of nanoscale particles in the vaccine fluid. Under darkfield observation:</p>
+<ul>
+<li><strong>Particles move in coordinated groups</strong> rather than individually</li>
+<li><strong>Movement patterns suggest collective intelligence</strong> — particles respond to the movements of other particles, maintaining formation like a flock of birds or a school of fish</li>
+<li><strong>The swarm responds to external stimuli</strong> — changes in electromagnetic field, temperature, or light produce coordinated responses across the entire swarm</li>
+<li><strong>Individual particles exhibit autonomous movement</strong> — they are not pushed by fluid currents or Brownian motion; they display self-propelled locomotion</li>
+</ul>
+<p>This behavior is consistent with what nanotechnology literature describes as "swarm robotics" — a field of research in which large numbers of simple robotic units cooperate to accomplish tasks that no individual unit could achieve alone. The particles in the MMR Varicella vaccine display the hallmarks of engineered swarm systems: individual autonomy, collective coordination, environmental responsiveness, and emergent behavior.</p>
+<h3 id="self-assembling-structures">Self-Assembling Structures</h3>
+<p>In addition to swarm behavior, the vaccine contents display the same self-assembly characteristics documented in other vaccine products and in human blood samples:</p>
+<ul>
+<li>Nanoparticles aggregate into clusters over time</li>
+<li>Filaments extend from aggregation points</li>
+<li>Geometric formations appear with crystalline precision</li>
+<li>Ribbon-like structures unfurl on the slide</li>
+</ul>
+<p>Ana Mihalcea, MD, PhD has documented on her Substack (<a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a>) that the structures observed in the MMR Varicella vaccine are morphologically consistent with those found in COVID-19 vaccines, influenza vaccines, and the blood of contaminated individuals — confirming that a common technological platform is being deployed across multiple pharmaceutical products.</p>
+<h3 id="metallic-and-semiconductor-components">Metallic and Semiconductor Components</h3>
+<p>Under high magnification, individual particles in the swarm display characteristics of metallic or semiconductor nanomaterials:</p>
+<ul>
+<li>High reflectivity under illumination</li>
+<li>Defined geometric shapes (spherical, rectangular, hexagonal)</li>
+<li>Stability on the slide (no degradation over time)</li>
+<li>Electromagnetic responsiveness</li>
+</ul>
+<p>These properties are inconsistent with biological vaccine components (attenuated viruses, growth medium residues, preservatives) and are consistent with manufactured nanomaterials.</p>
+<h2 id="nanobot-swarms-the-science">Nanobot Swarms: The Science</h2>
+<p>The concept of nanobot swarms is not speculative. It is an active, well-funded area of research in nanotechnology and defense applications.</p>
+<h3 id="what-are-nanobot-swarms">What Are Nanobot Swarms?</h3>
+<p>Nanobot swarms are systems composed of large numbers of nanoscale robots (typically 1-1000 nanometers in size) that operate cooperatively. Each individual nanobot is too small and too simple to accomplish complex tasks alone, but when operating as a swarm, the collective system can:</p>
+<ul>
+<li>Navigate through biological tissue</li>
+<li>Assemble into larger structures</li>
+<li>Respond to external signals (electromagnetic, chemical, optical)</li>
+<li>Perform distributed sensing (detecting specific molecules or conditions across a wide area)</li>
+<li>Deliver payloads to specific locations</li>
+<li>Self-repair and self-replicate under certain conditions</li>
+</ul>
+<h3 id="darpa-and-military-research">DARPA and Military Research</h3>
+<p>The Defense Advanced Research Projects Agency (DARPA) has funded numerous programs related to injectable nanotechnology and biological sensing systems. Relevant programs include:</p>
+<ul>
+<li><strong>In Vivo Nanoplatforms (IVN)</strong> — development of injectable nanotechnology platforms for in-body health monitoring</li>
+<li><strong>ElectRx</strong> — development of miniaturized electronic devices for modulating peripheral nerve activity</li>
+<li><strong>N3 (Next-Generation Nonsurgical Neurotechnology)</strong> — development of brain-computer interfaces that can be delivered through injection rather than surgery</li>
+</ul>
+<p>These programs demonstrate that the technology to create injectable nanobot swarms exists within the defense research establishment. The question is not whether such technology could be deployed through pharmaceutical products, but whether it has been.</p>
+<h3 id="patent-evidence">Patent Evidence</h3>
+<p>Analysis of publicly available patents reveals descriptions of:</p>
+<ul>
+<li>Nanoparticle systems with autonomous locomotion capability</li>
+<li>Swarm coordination algorithms for biological nanorobots</li>
+<li>Injectable nanosensor networks for in-body monitoring</li>
+<li>Self-assembling nanodevices activated by electromagnetic signals</li>
+</ul>
+<p>The existence of these patents does not prove that their described technologies are present in the MMR Varicella vaccine. But combined with the microscopic evidence of swarm behavior in vaccine vials, the patent literature provides a technological framework that explains what researchers are observing.</p>
+<h2 id="children-as-primary-targets">Children as Primary Targets</h2>
+<p>The MMR Varicella vaccine is administered to children at 12-15 months (first dose) and 4-6 years (second dose). These are among the most critical developmental periods in a child's life — periods when the brain is forming connections at extraordinary rates, when the immune system is being trained, and when the blood-brain barrier is still maturing.</p>
+<h3 id="developing-blood-brain-barrier">Developing Blood-Brain Barrier</h3>
+<p>The blood-brain barrier in infants and young children is not fully mature. It is more permeable than the adult BBB, meaning that nanoscale particles that might be excluded from an adult brain can pass into a child's brain with greater ease. If the nanobot swarms in the MMR Varicella vaccine can access the developing brain, the implications for neural development, cognitive function, and consciousness are profound.</p>
+<h3 id="immune-system-programming">Immune System Programming</h3>
+<p>The child's immune system at 12 months is in a critical phase of development — learning to distinguish self from non-self, beneficial from harmful. The introduction of nanobot swarms during this programming phase may interfere with normal immune development, potentially contributing to the explosion of autoimmune conditions, allergies, and immune dysfunction observed in the childhood population.</p>
+<h3 id="cumulative-exposure">Cumulative Exposure</h3>
+<p>The MMR Varicella vaccine is not the only vaccine children receive. The CDC's recommended schedule includes dozens of vaccine doses in the first few years of life. If multiple vaccines contain nanotechnology (as the evidence from influenza and COVID-19 vaccine analysis suggests), then the cumulative nanobot burden in a child's body may be orders of magnitude greater than what any single product delivers.</p>
+<h2 id="the-genesis-6-connection">The Genesis 6 Connection</h2>
+<p>The corruption of children's blood through nanobot technology represents the modern fulfillment of the Genesis 6 pattern. When the sons of God came to the daughters of men, they corrupted human biology — mixing what God had separated, producing hybrid beings (the Nephilim) whose very existence was an abomination.</p>
+<p>The nanobot swarms in the MMR Varicella vaccine are agents of hybridization. They mix synthetic technology with human biology. They introduce autonomous, self-organizing machines into the blood of children — the most innocent blood, the blood that God declared sacred before the children were even born. This is the corruption of all flesh in its most targeted form: beginning at twelve months of age, before the child can speak, choose, or consent.</p>
+<p>Under the firmament — the dome described in Genesis 1 — the fallen angels work through pharmaceutical systems to accomplish what they once accomplished through direct biological corruption. They cannot physically mate with human women as they did in Genesis 6 (or perhaps they still do, but that is another matter). But they can design nanotechnology that is injected into human blood, that self-organizes, that builds circuits and structures, and that progressively merges synthetic technology with human biology. Different method. Same corruption. Same author. Same objective.</p>
+<p>The great delusion of 2 Thessalonians 2:9-12 is so effective that parents voluntarily bring their children to receive these injections. They drive to the pediatrician's office. They hold their children's arms. They watch the needle go in. And they believe they are protecting their children — because the delusion has convinced them that the pharmaceutical system serves health rather than corruption.</p>
+<h2 id="what-parents-can-do">What Parents Can Do</h2>
+<h3 id="educate-and-investigate">Educate and Investigate</h3>
+<p>Parents have the right and the responsibility to investigate what is being injected into their children. Request vaccine package inserts (not the abbreviated handouts given in offices). Research the ingredients. Seek out the microscopy evidence published by independent researchers.</p>
+<h3 id="exercise-legal-rights">Exercise Legal Rights</h3>
+<p>In most jurisdictions, parents have legal options for declining vaccines for their children — religious exemptions, philosophical exemptions, or medical exemptions. These rights exist precisely because informed consent requires the option of refusal.</p>
+<h3 id="detoxification-for-vaccinated-children">Detoxification for Vaccinated Children</h3>
+<p>For children who have already received the MMR Varicella vaccine (which is the vast majority), gentle detoxification protocols appropriate for children may help:</p>
+<ul>
+<li>Age-appropriate nutrition rich in antioxidants and minerals</li>
+<li>Adequate vitamin D and zinc</li>
+<li>Reduction of electromagnetic exposure (especially Wi-Fi and device proximity)</li>
+<li>Consultation with naturopathic or integrative practitioners experienced in pediatric detoxification</li>
+<li>Prayer and spiritual covering</li>
+</ul>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Ana Mihalcea, MD, PhD — Vaccine vial analysis: <a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a></li>
+<li>DARPA program documentation — IVN, ElectRx, and N3 programs</li>
+<li>La Quinta Columna — Microscopy analysis: <a href="https://laquintacolumna.info">laquintacolumna.info</a></li>
+<li>The Master's Voice Prophecy Blog: <a href="https://themastersvoice.wordpress.com">themastersvoice.wordpress.com</a></li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> — The autonomous nanoscale systems found in vaccine vials</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/489-Nephilim_Nanobots.mp4">Nephilim Nanobots</a> — The ancient corruption expressed through modern nanotechnology</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — Pharmaceutical products as instruments of the Beast system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/107-Stem_Cell_Harvesting.mp4">Stem Cell Harvesting</a> — The exploitation of human biology at its most vulnerable</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/105-The_Second_Adam.mp4">The Second Adam</a> — Christ's restoration of the innocence stolen from children</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — The sacred blood of children being contaminated</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/influenza-vaccine-darkfield/?lang=es">Influenza Vaccine 2024-2025: Darkfield Microscopy Reveals Shocking Contents</a> — Another vaccine product found to contain nanotechnology</li>
+<li><a href="/darkfield-microscopy-self-assembly/?lang=es">Darkfield Microscopy Shows Self Assembly Nanotechnology in Human Blood</a> — Where the vaccine contaminants end up</li>
+<li><a href="/arsenic-mercury-infant-formulas/?lang=es">Florida Finds Arsenic, Mercury, and Lead In Infant Formulas</a> — Children targeted through multiple contamination vectors</li>
+</ul>
+<hr>
+<p><em>They inject the children. At twelve months old — before they can walk steadily, before they can speak in sentences, before they can say "no" — the nanobot swarms enter their blood. The most innocent blood on earth, sanctified by God before the children were born, is colonized by autonomous, self-organizing machines that display collective intelligence and build structures inside the temple. The millstone judgment awaits. But until that day, every child who belongs to Christ is covered by blood that no nanobot can corrupt — the blood of the Lamb, shed before the foundation of the world for every little one whose name is written in the Book of Life. The swarms may build in silence, but the Shepherd knows His lambs, and He does not lose a single one.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Vacuna MMR y enjambres de nanobots"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Las vacunas MMR contienen nanoestructuras autoensamblables que forman enjambres microscópicos dentro del cuerpo, capaces de responder a comandos externos."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-26T10:00:00Z","children":"26 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","mmr-vaccine",{"href":"/es/tag/mmr-vaccine/","className":"tag-pill","children":["#","mmr-vaccine"]}],["$","a","nanobot-swarms",{"href":"/es/tag/nanobot-swarms/","className":"tag-pill","children":["#","nanobot-swarms"]}],["$","a","microscopy",{"href":"/es/tag/microscopy/","className":"tag-pill","children":["#","microscopy"]}],["$","a","childhood-vaccines",{"href":"/es/tag/childhood-vaccines/","className":"tag-pill","children":["#","childhood-vaccines"]}],["$","a","nanotechnology",{"href":"/es/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/mmr-vaccine-nanobot-swarms/","title":"Vacuna MMR y enjambres de nanobots"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/mmr-vaccine-nanobot-swarms/","title":"Vacuna MMR y enjambres de nanobots"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Vacuna MMR y enjambres de nanobots | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Las vacunas MMR contienen nanoestructuras autoensamblables que forman enjambres microscópicos dentro del cuerpo, capaces de responder a comandos externos."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"mmr-vaccine, nanobot-swarms, microscopy, childhood-vaccines, nanotechnology"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/mmr-vaccine-nanobot-swarms/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/mmr-vaccine-nanobot-swarms/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/mmr-vaccine-nanobot-swarms/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/mmr-vaccine-nanobot-swarms/"}],["$","meta","10",{"property":"og:title","content":"Vacuna MMR y enjambres de nanobots"}],["$","meta","11",{"property":"og:description","content":"Las vacunas MMR contienen nanoestructuras autoensamblables que forman enjambres microscópicos dentro del cuerpo, capaces de responder a comandos externos."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/mmr-vaccine-nanobot-swarms/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/mmr-vaccine-nanobot-swarms.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Vacuna MMR y enjambres de nanobots"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Vacuna MMR y enjambres de nanobots"}],["$","meta","25",{"name":"twitter:description","content":"Las vacunas MMR contienen nanoestructuras autoensamblables que forman enjambres microscópicos dentro del cuerpo, capaces de responder a comandos externos."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/mmr-vaccine-nanobot-swarms.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

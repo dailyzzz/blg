@@ -1,0 +1,118 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pope-stole-world",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pope-stole-world","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pope-stole-world","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T15ea,<h1 id="el-papa-robó-el-mundo-la-historia-secreta-de-la-riqueza-del-vaticano">El Papa Robó el Mundo: La Historia Secreta de la Riqueza del Vaticano</h1>
+<h2 id="la-acumulación">La Acumulación</h2>
+<p>El Vaticano es la institución más rica del mundo. Su riqueza real — incluyendo propiedades, arte, oro, y holdings financieros — está estimado en billones de dólares. Pero ¿de dónde vino esta riqueza?</p>
+<p>No vino de la caridad. Vino de robo sistemático.</p>
+<hr>
+<h2 id="el-mecanismo">El Mecanismo</h2>
+<h3 id="el-robo-espiritual">El Robo Espiritual</h3>
+<p>El primer mecanismo fue el robo espiritual:</p>
+<ul>
+<li>La Iglesia declaró ser la única ruta a Dios</li>
+<li>La Iglesia cobró dinero para acceso a Dios — a través de "indulgencias"</li>
+<li>La Iglesia fue pagada por los pobres buscando perdón</li>
+</ul>
+<p>Aproximadamente 500 años antes de la Reforma, la Iglesia extraía aproximadamente 40% de toda la riqueza acumulada de Europa como pago por salvación espiritual.</p>
+<h3 id="el-robo-territorial">El Robo Territorial</h3>
+<p>Cuando las instituciones espirituales fallaron en proporcionar dinero suficiente, la Iglesia se volvió militar:</p>
+<ul>
+<li>Las Cruzadas fueron guerras de conquista disfrazadas de "defensa religiosa"</li>
+<li>Los territorios conquistados fueron entregados al Vaticano</li>
+<li>Las poblaciones conquistadas fueron puestas a trabajar para el Vaticano</li>
+</ul>
+<p>El Vaticano ahora poseía territorios equivalentes a un tercio de Europa.</p>
+<h3 id="el-robo-financiero">El Robo Financiero</h3>
+<p>Cuando la Iglesia quiso dinero más rápido que la acumulación de riqueza territorial permitía, se convirtió en financiero:</p>
+<ul>
+<li>Los Papas tomaron préstamos de banqueros</li>
+<li>Los Papas no pagaron los préstamos</li>
+<li>Los banqueros fueron obligados a condonar deuda a cambio de perdón espiritual</li>
+<li>La Iglesia se apropió del oro de banqueros en default</li>
+</ul>
+<hr>
+<h2 id="las-riquezas-actuales">Las Riquezas Actuales</h2>
+<h3 id="los-holdings-documentados">Los Holdings Documentados</h3>
+<ul>
+<li><strong>Bienes Raíces</strong>: El Vaticano posee una cantidad substancial de propiedades en Roma, Italia, y globalmente</li>
+<li><strong>Arte</strong>: La Colección del Vaticano contiene algunos de los artículos más valiosos del mundo</li>
+<li><strong>Oro</strong>: Las bóvedas del Vaticano contienen considerables reservas de oro</li>
+<li><strong>Acciones</strong>: El Vaticano posee participaciones en corporaciones globales</li>
+</ul>
+<h3 id="los-holdings-ocultos">Los Holdings Ocultos</h3>
+<p>Pero la riqueza documentada es probablemente una fracción de la riqueza real:</p>
+<ul>
+<li>Bancos vaticanos</li>
+<li>Holdings en corporaciones oscuramente nominadas</li>
+<li>Propiedades bajo nombres de terceros</li>
+<li>Oro y dinero en efectivo sin documentación</li>
+</ul>
+<p>La riqueza total del Vaticano puede ser tan alto como 100 billones de dólares.</p>
+<hr>
+<h2 id="para-qué-fue-usado">Para Qué Fue Usado</h2>
+<h3 id="construcción-de-poder-religioso">Construcción de Poder Religioso</h3>
+<p>La riqueza fue usada para construir poder religioso:</p>
+<ul>
+<li>Construcción de iglesias magníficas</li>
+<li>Financiamiento de arte religioso</li>
+<li>Mantenimiento de clero</li>
+<li>Propagación de religión</li>
+</ul>
+<p>Esto fue lo más explícito.</p>
+<h3 id="construcción-de-poder-político">Construcción de Poder Político</h3>
+<p>Conforme el poder político eclesiástico declinó, la riqueza fue redirigida:</p>
+<ul>
+<li>Financiamiento de gobiernos</li>
+<li>Colocación de agentes en estructuras de poder</li>
+<li>Cohecho de políticos</li>
+<li>Instalación de líderes</li>
+</ul>
+<p>El Vaticano no necesita control político directo. El dinero proporciona control indirecto.</p>
+<h3 id="la-construcción-del-nuevo-orden-mundial">La Construcción del Nuevo Orden Mundial</h3>
+<p>La riqueza fue usada para construir infraestructura de control mundial:</p>
+<ul>
+<li>Fundación de banco centrales que sirven agendas vaticanas</li>
+<li>Financiamiento de corporaciones farmacéuticas</li>
+<li>Financiamiento de tecnología de control</li>
+<li>Financiamiento de agencias de inteligencia</li>
+</ul>
+<p>El Vaticano no es simplemente una institución religiosa. Es una institución de poder global.</p>
+<hr>
+<h2 id="la-pregunta-moral">La Pregunta Moral</h2>
+<p>¿Quién hizo esta riqueza?</p>
+<p>Las masas — campesinos, trabajadores, pobres — cuyo trabajo produjo la riqueza que fue extraída para el Vaticano.</p>
+<p>¿A quién le pertenece esta riqueza?</p>
+<p>No al Vaticano. Pertenece a aquellos cuyo trabajo la creó.</p>
+<p>¿Será devuelta?</p>
+<p>No voluntariamente. El Vaticano nunca renunciará a poder voluntariamente. La riqueza será recuperada solo si el sistema que la genera es rechazado completamente.</p>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Jesuitas Deplorables Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¿Qué hay en el sótano del Vaticano puede sorprenderte!</a></li>
+</ul>
+<hr>
+<p><em>La riqueza es poder. El Vaticano acumuló más riqueza que cualquier nación porque lo hizo através de siglos mientras naciones vinieron y fueron. Pero la pregunta no es de dónde vino la riqueza. La pregunta es: ¿quién le pertenece? La respuesta es: no le pertenece al Vaticano. Pertenece a la humanidad cuyo trabajo la creó. La recuperación de esa riqueza requiere rechazar el sistema de control que la genera.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"El Papa Robó el Mundo: La Historia Secreta de la Riqueza del Vaticano"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"El Vaticano acumuló una riqueza estimada en billones a través de siglos de conquista, usura, y control espiritual. Explora cómo una institución religiosa se convirtió en máquina de acumulación de riqueza."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-01-26T10:00:00Z","children":"26 de enero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","vatican",{"href":"/es/tag/vatican/","className":"tag-pill","children":["#","vatican"]}],["$","a","wealth",{"href":"/es/tag/wealth/","className":"tag-pill","children":["#","wealth"]}],["$","a","stolen-wealth",{"href":"/es/tag/stolen-wealth/","className":"tag-pill","children":["#","stolen-wealth"]}],["$","a","pope",{"href":"/es/tag/pope/","className":"tag-pill","children":["#","pope"]}],["$","a","history",{"href":"/es/tag/history/","className":"tag-pill","children":["#","history"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pope-stole-world/","title":"El Papa Robó el Mundo: La Historia Secreta de la Riqueza del Vaticano"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pope-stole-world/","title":"El Papa Robó el Mundo: La Historia Secreta de la Riqueza del Vaticano"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"El Papa Robó el Mundo: La Historia Secreta de la Riqueza del Vaticano | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"El Vaticano acumuló una riqueza estimada en billones a través de siglos de conquista, usura, y control espiritual. Explora cómo una institución religiosa se convirtió en máquina de acumulación de riqueza."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"vatican, wealth, stolen-wealth, pope, history"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pope-stole-world/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pope-stole-world/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pope-stole-world/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pope-stole-world/"}],["$","meta","10",{"property":"og:title","content":"El Papa Robó el Mundo: La Historia Secreta de la Riqueza del Vaticano"}],["$","meta","11",{"property":"og:description","content":"El Vaticano acumuló una riqueza estimada en billones a través de siglos de conquista, usura, y control espiritual. Explora cómo una institución religiosa se convirtió en máquina de acumulación de riqueza."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pope-stole-world/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pope-stole-world.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"El Papa Robó el Mundo: La Historia Secreta de la Riqueza del Vaticano"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"El Papa Robó el Mundo: La Historia Secreta de la Riqueza del Vaticano"}],["$","meta","25",{"name":"twitter:description","content":"El Vaticano acumuló una riqueza estimada en billones a través de siglos de conquista, usura, y control espiritual. Explora cómo una institución religiosa se convirtió en máquina de acumulación de riqueza."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pope-stole-world.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pediatricians-big-pharma-lobbyists",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pediatricians-big-pharma-lobbyists","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pediatricians-big-pharma-lobbyists","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T2003,<h1 id="pediatras-cabilderos-de-big-pharma-disfrazados-de-médicos">Pediatras: Cabilderos de Big Pharma Disfrazados de Médicos</h1>
+<h2 id="el-conflicto-de-intereses">El Conflicto de Intereses</h2>
+<p>La Academia Estadounidense de Pediatría (AAP) es la institución más prominente en medicina pediátrica en Estados Unidos. Sus directrices definen la práctica, sus posiciones moldean la política, y sus credenciales determinan quién puede practicar.</p>
+<p>La AAP también es un instrumento de cabildeo de la industria farmacéutica. Los fabricantes de vacunas pagan membresías institucionales. Los ejecutivos farmacéuticos presiden comités. Las conferencias de la AAP son patrocinadas por empresas de drogas. Y las posiciones que la AAP adopta sobre vacunas, antibióticos, y medicamentos psiquiátricos reflejan consistentemente los intereses de la industria, no los intereses de los niños.</p>
+<hr>
+<h2 id="la-estructura-del-cabildeo">La Estructura del Cabildeo</h2>
+<h3 id="patrocinio-corporativo">Patrocinio Corporativo</h3>
+<p>Las conferencias anuales de la AAP son patrocinadas por los principales fabricantes de vacunas:</p>
+<ul>
+<li><strong>Pfizer</strong>: Múltiples patrocinios dorados y de platino</li>
+<li><strong>Moderna</strong>: Patrocinio importante</li>
+<li><strong>Johnson &#x26; Johnson</strong>: Múltiples divisiones de patrocinio</li>
+<li><strong>Merck</strong>: Patrocinio extendido</li>
+</ul>
+<p>Estos no son patrocinios menores. Son el corazón financiero de las operaciones de la AAP. Sin este dinero, la AAP no podría operar las conferencias que define sus directrices.</p>
+<h3 id="colocación-de-personal">Colocación de Personal</h3>
+<p>Los ejecutivos de farmacéuticas no solo pagan por influencia. También asumen posiciones de liderazgo:</p>
+<ul>
+<li>Los ejecutivos de Pfizer han servido en comités de directrices de vacunas de la AAP</li>
+<li>Los ejecutivos de Merck han dirigido comités sobre enfermedades infecciosas</li>
+<li>Los representantes de la industria se sientan en consejos que desarrollan políticas de medicamentos</li>
+</ul>
+<p>Estas no son posiciones de asesoramiento. Son posiciones de poder.</p>
+<h3 id="tráfico-giratorio">Tráfico Giratorio</h3>
+<p>El tráfico giratorio entre la industria farmacéutica y la AAP es extenso. Los ejecutivos farmacéuticos retirados presiden comités de la AAP. Los médicos en la AAP aceptan posiciones en empresas farmacéuticas cuando dejan la medicina clínica. Las lealtades se entrelazan.</p>
+<hr>
+<h2 id="el-patrón-de-captura">El Patrón de Captura</h2>
+<h3 id="etapa-1-financiamiento-años-1980-1990">Etapa 1: Financiamiento (años 1980-1990)</h3>
+<p>La industria farmacéutica comenzó a financiar organizaciones médicas profesionales. El objetivo declarado era mejorar la educación. El objetivo real era influir en la política.</p>
+<h3 id="etapa-2-ideología-años-1990-2000">Etapa 2: Ideología (años 1990-2000)</h3>
+<p>Con el financiamiento llegó la ideología. Las directrices comenzaron a cambiar. El número de vacunas recomendadas aumentó. El número de medicamentos psiquiátricos prescritos para niños se disparó. Las políticas de la AAP se alinearon cada vez más con lo que era mejor para las ganancias farmacéuticas, no para la salud de los niños.</p>
+<h3 id="etapa-3-coerción-años-2000-2020">Etapa 3: Coerción (años 2000-2020)</h3>
+<p>La AAP utilizó su autoridad institucional para aplicar políticas. Los pediatras que cuestionaban las directrices de vacunas fueron censurados. Las críticas a medicamentos psiquiátricos fueron suprimidas. La disidencia fue criminalizada como anticiencia.</p>
+<h3 id="etapa-4-totalidad-2020-presente">Etapa 4: Totalidad (2020-presente)</h3>
+<p>La captura es ahora completa. La AAP no simplemente promulga políticas que benefician a la industria farmacéutica. La AAP activamente coerciona a los médicos para que se alineen con las políticas de la industria. Los pediatras que resisten pueden perder sus credenciales.</p>
+<hr>
+<h2 id="las-directrices-que-reflejan-intereses-corporativos">Las Directrices Que Reflejan Intereses Corporativos</h2>
+<h3 id="presupuesto-de-vacunas-aumentado">Presupuesto de Vacunas Aumentado</h3>
+<p>El número de vacunas recomendadas para niños ha crecido de 10 en 1980 a 72 dosis de 16 vacunas diferentes en 2024. Cada aumento en el número de vacunas recomendadas beneficia directamente a los fabricantes de vacunas.</p>
+<p>La AAP declara que este aumento refleja "mejor ciencia." Pero no hay evidencia de que más vacunas resulten en mejores resultados de salud. Hay simplemente más dinero para las empresas que las fabrican.</p>
+<h3 id="medicamentos-psiquiátricos-para-niños">Medicamentos Psiquiátricos para Niños</h3>
+<p>La prescripción de medicamentos psiquiátricos a niños ha aumentado 40 veces en los últimos 30 años. Los estimulantes (Adderall, Ritalin) que son drogas del Anexo II en la misma categoría regulatoria que la cocaína se prescriben ahora a millones de niños.</p>
+<p>La AAP ha promovido activamente esta expansión. Pero cada nueva prescripción beneficia a las empresas farmacéuticas que fabrican estos medicamentos.</p>
+<h3 id="antibióticos-excesivos">Antibióticos Excesivos</h3>
+<p>La prescripción excesiva de antibióticos es un problema de salud pública significativo — crea resistencia a los antibióticos y destruye el microbioma de los niños. La AAP ha publicado recomendaciones que, mientras formalmente restringen el uso de antibióticos, en la práctica permiten la prescripción amplia porque sus criterios pueden ser interpretados para justificar casi cualquier uso.</p>
+<hr>
+<h2 id="lo-que-la-ciencia-real-muestra">Lo Que la Ciencia Real Muestra</h2>
+<h3 id="la-salud-infantil-se-deteriora">La Salud Infantil Se Deteriora</h3>
+<p>Mientras la AAP ha promovido más vacunas, más medicamentos, y más intervenciones médicas, la salud general de los niños estadounidenses se ha deteriorado:</p>
+<ul>
+<li>Las alergias infantiles han aumentado 50% en 30 años</li>
+<li>El asma infantil ha aumentado 100%</li>
+<li>Los trastornos del espectro autista han aumentado de 1 en 10,000 en 1980 a 1 en 34 en 2024</li>
+<li>Los trastornos mentales en niños han aumentado dramáticamente</li>
+<li>La obesidad infantil ha triplicado</li>
+</ul>
+<p>Si las políticas de la AAP estuvieran basadas en ciencia que produjera mejores resultados de salud, veríamos mejoras. En cambio, vemos deterioro.</p>
+<h3 id="países-con-menos-vacunas-tienen-mejor-salud-infantil">Países con Menos Vacunas Tienen Mejor Salud Infantil</h3>
+<p>Estudios comparativos entre países muestran que los países con calendarios de vacunación menos agresivos no tienen tasas más altas de las enfermedades que las vacunas previenen. Tienen mejor salud infantil general.</p>
+<p>Suecia, que hasta hace poco mantenía un calendario de vacunación más conservador que Estados Unidos, tiene mejores indicadores de salud infantil que Estados Unidos. Dinamarca y Noruega, también con calendarios menos agresivos, superan a Estados Unidos.</p>
+<p>Esto sugiere que el calendario expansivo de vacunación promovido por la AAP no está siendo dictado por la ciencia de lo que produce mejor salud infantil. Está siendo dictado por lo que produce más ganancias farmacéuticas.</p>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="/psychology-industry-manufacturing-illness/?lang=es">La Industria de la Psicología: Fabricando Enfermedad Mental para Ganancias</a></li>
+<li><a href="/pediatricians-ban-religious-exemptions/?lang=es">Pediatras Prohíben Exenciones Religiosas</a></li>
+</ul>
+<hr>
+<p><em>La medicina institucional ha sido capturada por los intereses que debería regular. Los pediatras que debería estar enfocados en la salud de los niños ahora son instrumentos de los intereses de la industria farmacéutica. El sistema es tan completo que los pediatras que resisten el paradigma enfrentan coerción profesional. Este es el destino de cualquier institución que acepta dinero corporativo. Es capturada. El único pediatra en el que puedes confiar es el que no depende de la industria farmacéutica para su sustento.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Pediatras: Cabilderos de Big Pharma Disfrazados de Médicos"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"La Academia Estadounidense de Pediatría se ha convertido en un brazo de cabildeo de la industria farmacéutica. Explora cómo la medicina institucional ha sido capturada."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-12T10:00:00Z","children":"12 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pediatricians",{"href":"/es/tag/pediatricians/","className":"tag-pill","children":["#","pediatricians"]}],["$","a","big-pharma",{"href":"/es/tag/big-pharma/","className":"tag-pill","children":["#","big-pharma"]}],["$","a","lobbying",{"href":"/es/tag/lobbying/","className":"tag-pill","children":["#","lobbying"]}],["$","a","institutional-capture",{"href":"/es/tag/institutional-capture/","className":"tag-pill","children":["#","institutional-capture"]}],["$","a","corruption",{"href":"/es/tag/corruption/","className":"tag-pill","children":["#","corruption"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pediatricians-big-pharma-lobbyists/","title":"Pediatras: Cabilderos de Big Pharma Disfrazados de Médicos"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pediatricians-big-pharma-lobbyists/","title":"Pediatras: Cabilderos de Big Pharma Disfrazados de Médicos"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Pediatras: Cabilderos de Big Pharma Disfrazados de Médicos | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"La Academia Estadounidense de Pediatría se ha convertido en un brazo de cabildeo de la industria farmacéutica. Explora cómo la medicina institucional ha sido capturada."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pediatricians, big-pharma, lobbying, institutional-capture, corruption"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pediatricians-big-pharma-lobbyists/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pediatricians-big-pharma-lobbyists/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pediatricians-big-pharma-lobbyists/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pediatricians-big-pharma-lobbyists/"}],["$","meta","10",{"property":"og:title","content":"Pediatras: Cabilderos de Big Pharma Disfrazados de Médicos"}],["$","meta","11",{"property":"og:description","content":"La Academia Estadounidense de Pediatría se ha convertido en un brazo de cabildeo de la industria farmacéutica. Explora cómo la medicina institucional ha sido capturada."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pediatricians-big-pharma-lobbyists/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pediatricians-big-pharma-lobbyists.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Pediatras: Cabilderos de Big Pharma Disfrazados de Médicos"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Pediatras: Cabilderos de Big Pharma Disfrazados de Médicos"}],["$","meta","25",{"name":"twitter:description","content":"La Academia Estadounidense de Pediatría se ha convertido en un brazo de cabildeo de la industria farmacéutica. Explora cómo la medicina institucional ha sido capturada."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pediatricians-big-pharma-lobbyists.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

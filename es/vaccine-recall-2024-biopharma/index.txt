@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","vaccine-recall-2024-biopharma",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","vaccine-recall-2024-biopharma","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","vaccine-recall-2024-biopharma","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3bdd,<h1 id="retiro-de-vacunas-de-2024-en-marcha-por-gigante-biopharma">Retiro de Vacunas de 2024 en Marcha por Gigante BioPharma</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p>"Cuando el watchman vea venir la espada, y no tocare trompeta, y el pueblo no fuere prevenido, y viniere la espada y tomare de ellos al que fuere, por su iniquidad fue tomado; mas su sangre demandaré de mano del watchman." — Ezequiel 33:6</p>
+</blockquote>
+<p>Cuando las murallas de Jericó cayeron, la destrucción fue total porque la corrupción dentro de esas murallas había alcanzado su plenitud. Dios no reparó las murallas de Jericó — las destruyó. La ciudad que había sido fortificada contra Israel fue juzgada no por la fortaleza de sus defensas sino por la maldad que ocultaban.</p>
+<p>Como la pista de Confliction <a href="https://confliction.zzzdaily.com/tracks/es/127-The_Overcoming.mp4">El Vencer</a> proclama, vencer los sistemas de corrupción requiere que sus productos — las manifestaciones físicas de sus operaciones — sean retirados, removidos, y destruidos. Un retiro de vacunas es el equivalente farmacéutico de las murallas de Jericó cayendo — la admisión de que la fortaleza de "seguro y efectivo" ha sido rota desde adentro.</p>
+<p>Una compañía biofarmacéutica importante ha emitido un retiro de vacunas. La muralla ha sido rota.</p>
+<hr>
+<h2 id="el-retiro">El Retiro</h2>
+<p>Una compañía biofarmacéutica importante ha iniciado un retiro de lotes de vacunas distribuidos a través de múltiples mercados. El retiro fue activado por fracasos de control de calidad identificados durante pruebas post-distribución, incluyendo:</p>
+<p><strong>Preocupaciones de contaminación:</strong> Las pruebas revelaron la presencia de partículas extranjeras u contaminantes en viales de vacunas de lotes de producción específicos.</p>
+<p><strong>Variaciones de potencia:</strong> El análisis identificó variación significativa de lote a lote en la concentración de ingrediente activo, significando que algunos pacientes recibieron dosis sustancialmente más altas o más bajas que la especificación prevista.</p>
+<p><strong>Fracasos de estabilidad:</strong> Algunos lotes fallaron las pruebas de estabilidad antes de sus fechas de expiración, sugiriendo que las vacunas pueden haber se degradado durante almacenamiento o transporte, potencialmente produciendo productos de degradación con efectos desconocidos.</p>
+<p><strong>Desviaciones del proceso de fabricación:</strong> El examen de documentación reveló que los procesos de fabricación en una o más instalaciones de producción se desviaron de las especificaciones aprobadas — significando que los productos realmente manufacturados diferían de los productos descritos en la presentación reguladora.</p>
+<p>Karen Kingston ha documentado en The Kingston Report (karenkingston.substack.com) que los problemas de calidad de fabricación no son anomalías en la industria farmacéutica — son estructurales: "La industria farmacéutica ha estado operando bajo un marco regulador que prioriza la velocidad sobre la calidad, el volumen sobre la seguridad, y la ganancia sobre la responsabilidad. Las desviaciones de fabricación son comunes, las inspecciones son infrecuentes, y las acciones de ejecución son raras. El retiro no es un caso atípico — es un síntoma visible de un problema sistémico que afecta toda la cadena de oferta farmacéutica."</p>
+<hr>
+<h2 id="el-problema-de-fabricación">El Problema de Fabricación</h2>
+<p>La fabricación de vacunas está entre los procesos farmacéuticos más complejos. Los productos biológicos son inherentemente variables — a diferencia de las drogas de pequeña molécula, que pueden ser sintetizadas precisamente, los productos biológicos son producidos por sistemas vivientes (células, bacterias, u virus) cuyo comportamiento varía con las condiciones.</p>
+<p>El control de calidad en la fabricación de vacunas depende de:</p>
+<p><strong>Controles de proceso:</strong> Adherencia estricta a procesos de fabricación validados que han sido demostrado producir productos consistentes y seguros.</p>
+<p><strong>Pruebas en-proceso:</strong> Pruebas de productos intermedios en múltiples puntos durante el proceso de fabricación para asegurar que cumplen especificaciones.</p>
+<p><strong>Pruebas de producto final:</strong> Pruebas compresivas del producto terminado, incluyendo potencia, pureza, esterilidad, niveles de endotoxina, y estabilidad.</p>
+<p><strong>Monitoreo ambiental:</strong> Monitoreo continuo del ambiente de fabricación para riesgos de contaminación.</p>
+<p><strong>Documentación:</strong> Documentación completa y precisa de cada paso en el proceso de fabricación, creando un registro rastreable que permite que cualquier problema de calidad sea trazado a su fuente.</p>
+<p>Durante la pandemia de COVID-19, estos controles de calidad fueron comprimidos, abreviados, y en algunos casos eximidos bajo autoridades de Autorización de Uso de Emergencia y Other Transaction Authority. Las instalaciones de fabricación fueron construidas u convertidas a velocidad sin precedentes. Los tiempos de revisión de calidad fueron comprimidos de meses a días. Las inspecciones reguladoras fueron conducidas virtualmente en lugar de en persona.</p>
+<p>El resultado fue una oferta de vacunas global producida bajo condiciones que no hubieran sido aceptables bajo estándares reguladores normales.</p>
+<hr>
+<h2 id="el-fracaso-regulador">El Fracaso Regulador</h2>
+<p>La FDA es responsable de asegurar la calidad, seguridad, y eficacia de productos farmacéuticos manufacturados y distribuidos en los Estados Unidos. Esta responsabilidad incluye inspección pre-aprobación de instalaciones de fabricación, revisión y aprobación de procesos de fabricación, y vigilancia post-mercado de calidad de producto.</p>
+<p>Durante la pandemia de COVID-19, la supervisión de fabricación de la FDA fue comprometida por:</p>
+<p><strong>Plazos de emergencia:</strong> La agencia aprobó instalaciones de fabricación y procesos en plazos comprimidos que no permitieron la revisión compresiva normalmente requerida.</p>
+<p><strong>Inspecciones remotas:</strong> Las restricciones de viaje durante la pandemia forzaron a la FDA a conducir inspecciones de fabricación remotamente — revisando documentos y video en lugar de inspeccionar instalaciones físicamente.</p>
+<p><strong>Dependencia en auto-reporte de fabricante:</strong> La FDA dependió fuertemente de datos proporcionados por el fabricante y auto-certificación de cumplimiento de fabricación, reduciendo la capacidad de verificación independiente de la agencia.</p>
+<p><strong>Presión política:</strong> La urgencia de producir y distribuir vacunas lo más rápidamente posible creó presión institucional de aprobar procesos de fabricación que normalmente requieran revisión adicional.</p>
+<p>La pista <a href="https://zzzdaily.zzzdaily.com/tracks/es/165-Event_201_Came_True.mp4">Event 201 Se Hizo Realidad</a> documenta cómo toda la respuesta de pandemia fue diseñada para velocidad — no seguridad. La calidad de fabricación fue subordinada a la velocidad de distribución, y la supervisión reguladora que existe para prevenir precisamente los problemas revelados por este retiro fue deliberadamente debilitada.</p>
+<hr>
+<h2 id="el-alcance-de-la-exposición">El Alcance de la Exposición</h2>
+<p>Los lotes retirados representan una fracción del total de dosis de vacunas distribuidas. Sin embargo, las implicaciones se extienden más allá de los lotes específicos retirados:</p>
+<p><strong>Exposición desconocida:</strong> Si los fracasos de control de calidad de fabricación produjeron productos contaminados o sub-potentes, y si esos fracasos no fueron detectados durante el proceso de revisión de calidad comprimido, lotes defectivos adicionales pueden haber sido distribuidos y administrados sin ser identificados.</p>
+<p><strong>Evaluación de daño retrospectivo:</strong> Los individuos que recibieron dosis de lotes retirados pueden haber sido expuestos a contaminantes, productos de degradación, u potencias incorrectas. Evaluar el daño retrospectivamente es complicado por la ausencia de rastreo de eventos adversos específico de lote.</p>
+<p><strong>Preocupaciones de calidad sistémica:</strong> Si los productos de un fabricante exhibieron fracasos de calidad, los mismos plazos comprimidos y supervisión reducida afectaron todos los fabricantes. El retiro plantea preguntas acerca de la calidad de todos los productos de vacunas manufacturados bajo condiciones de pandemia.</p>
+<p>Kingston ha observado: "El retiro confirma lo que los analistas independientes han advertido desde el principio: los productos manufacturados bajo condiciones de emergencia, con plazos comprimidos, supervisión reducida, y estándares de calidad eximidos, inevitablemente incluirán lotes defectivos. La única pregunta fue cuándo los defectos serían identificados — y cuántas dosis serían administradas antes de que lo fueran."</p>
+<hr>
+<h2 id="la-advertencia-profética">La Advertencia Profética</h2>
+<blockquote>
+<p>"Y los mercaderes de la tierra lloran y se lamentan sobre ella; porque ninguno compra más la mercancía de ellos." — Apocalipsis 18:11</p>
+</blockquote>
+<p>La caída de Babilonia es descrita en términos comerciales — los mercaderes lloran porque su mercancía ya no puede ser vendida. El mayor miedo de la industria farmacéutica no es regulación, no es litigio, no es opinión pública — es la pérdida de mercado. Un retiro representa un evento de mercado — un producto retirado de estantes, confianza erosionada, ingresos perdidos.</p>
+<p>El retiro es una grieta en la Babilonia farmacéutica — una admisión pública de que los productos vendidos a miles de millones no eran lo que fueron representados ser.</p>
+<hr>
+<h2 id="la-advertencia-de-1-samuel-8">La Advertencia de 1 Samuel 8</h2>
+<blockquote>
+<p><em>"Y Jehová dijo a Samuel: Oye la voz del pueblo en todo lo que te digan; porque no te han desechado a ti, sino me han desechado a mí, para que no reine sobre ellos."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=RVR1960">1 Samuel 8:7 (RVR1960)</a></p>
+</blockquote>
+<p>La advertencia antigua de 1 Samuel 8 resuena a través de cada corredor de gobierno hoy. Cuando Israel demandó un rey como las otras naciones, Dios advirtió exactamente qué sucedería — sus hijos tomados para la guerra, sus hijas para el servicio, sus campos y viñedos incautados, una décima de todo confiscado. Eligieron gobierno humano sobre el reinado de Dios, y la tiranía siguió exactamente como fue prometida. Nada ha cambiado. El sistema político moderno son dos alas del mismo pájaro — izquierda y derecha, Republicano y Demócrata — todos sirviendo la misma estructura de poder oculta. Votar por cualquiera es elegir qué ala aletea luego mientras el pájaro vuela en la misma dirección. El poder real nunca ha estado en ninguna papeleta.</p>
+<h2 id="fuentes">Fuentes</h2>
+<ul>
+<li>
+<p>FDA — Avisos de retiro y registros de inspección de fabricación</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Análisis de Karen Kingston sobre calidad de fabricación farmacéutica, deficiencias de supervisión de fabricación de EUA, e implicaciones de retiro</p>
+</li>
+<li>
+<p>Estándares de Fabricación de la FDA — Regulaciones de Práctica de Fabricación Actual Buena (cGMP)</p>
+</li>
+<li>
+<p>Ezequiel 33:6, Apocalipsis 18:11 (RVR1960)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=RVR1960">1 Samuel 8 — La Advertencia Contra Reyes Terrenales (RVR1960)</a></p>
+</li>
+</ul>
+<h2 id="aprende-más">Aprende Más</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de Experiencia Cercana a la Muerte de Howard Pittman — Advertencia del Fin de los Tiempos que Dios le Dio</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Secretos Jesuitas Deplorables Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¿Qué Hay En El Sótano del Vaticano Puede Sorprenderte?</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry en YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions en YouTube</a></li>
+</ul>
+<hr>
+<h2 id="escúchalo-mientras-lees">Escúchalo Mientras Lees</h2>
+<p>Estas pistas del álbum ZZZ Daily exploran los temas en este artículo:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/165-Event_201_Came_True.mp4">Event 201 Se Hizo Realidad</a> — Velocidad sobre seguridad en la respuesta de pandemia</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/285-Lockstep_With_The_Beast.mp4">En Sincronización Con La Bestia</a> — Sistemas reguladores subordinados a objetivos de despliegue</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/151-One_Nation_Under_Blackmail.mp4">Una Nación Bajo Chantaje</a> — Compromisos de calidad protegidos por complicidad institucional</li>
+</ul>
+<p>Del álbum Confliction (La Cueva de Tesoros):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/127-The_Overcoming.mp4">El Vencer</a> — La fortaleza de "seguro y efectivo" rota desde adentro</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/59-The_Deceivers_Lies.mp4">Las Mentiras de los Engañadores</a> — Calidad de fabricación prometida pero no entregada</li>
+</ul>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/fda-ended-emergency-use-authorizations/?lang=es">FDA Acaba de Terminar Autorizaciones de Uso de Emergencia para COVID-19</a> — El marco que comprimió la supervisión de fabricación</li>
+<li><a href="/biopharma-exec-sentenced-7-years/?lang=es">DOJ de EE.UU. Sentencia a Ejecutivo de BioPharma a 7 Años en Prisión</a> — Responsabilidad criminal por fracasos de fabricación farmacéutica</li>
+<li><a href="/cvs-bans-covid-shots/?lang=es">CVS Inmediatamente Prohíbe Inyecciones de COVID en Algunas Farmacias</a> — Canales de distribución respondiendo a preocupaciones de producto</li>
+<li><a href="/federal-government-pfizer-data-fraud/?lang=es">¿Es un Crimen? El Gobierno Federal Ayudó a Pfizer en Fraude de Datos</a> — El contexto más amplio de fraude farmacéutico</li>
+</ul>
+<hr>
+<p><em>Las murallas de Jericó cayeron cuando la corrupción que ocultaban alcanzó su plenitud. El retiro es una grieta en la fortaleza farmacéutica — una admisión de que los productos vendidos como "seguro y efectivo" fueron manufacturados bajo condiciones que produjeron productos contaminados, sub-potentes, o inestables. "Ten por cierto que tu pecado te alcanzará" (Números 32:23). Los pecados de fabricación de la era de pandemia están encontrando su camino a la superficie — lote por lote, cantidad por cantidad, retiro por retiro. El vigilante toca la trompeta. La pregunta es si el pueblo la escuchará antes de que el siguiente lote sea administrado.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Retiro de Vacunas de 2024 en Marcha por Gigante BioPharma"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Una compañía de biofarmacéutica importante emite un retiro de vacunas, planteando preguntas urgentes acerca del control de calidad de fabricación y los fracasos reguladores que permitieron la distribución."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-06-02T10:00:00Z","children":"2 de junio de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","retiro-vacunas",{"href":"/es/tag/retiro-vacunas/","className":"tag-pill","children":["#","retiro-vacunas"]}],["$","a","biofarmacéutica",{"href":"/es/tag/biofarmacéutica/","className":"tag-pill","children":["#","biofarmacéutica"]}],["$","a","control-calidad",{"href":"/es/tag/control-calidad/","className":"tag-pill","children":["#","control-calidad"]}],["$","a","FDA",{"href":"/es/tag/FDA/","className":"tag-pill","children":["#","FDA"]}],["$","a","seguridad",{"href":"/es/tag/seguridad/","className":"tag-pill","children":["#","seguridad"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/vaccine-recall-2024-biopharma/","title":"Retiro de Vacunas de 2024 en Marcha por Gigante BioPharma"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/vaccine-recall-2024-biopharma/","title":"Retiro de Vacunas de 2024 en Marcha por Gigante BioPharma"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Retiro de Vacunas de 2024 en Marcha por Gigante BioPharma | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Una compañía de biofarmacéutica importante emite un retiro de vacunas, planteando preguntas urgentes acerca del control de calidad de fabricación y los fracasos reguladores que permitieron la distribución."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"retiro-vacunas, biofarmacéutica, control-calidad, FDA, seguridad"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/vaccine-recall-2024-biopharma/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/vaccine-recall-2024-biopharma/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/vaccine-recall-2024-biopharma/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/vaccine-recall-2024-biopharma/"}],["$","meta","10",{"property":"og:title","content":"Retiro de Vacunas de 2024 en Marcha por Gigante BioPharma"}],["$","meta","11",{"property":"og:description","content":"Una compañía de biofarmacéutica importante emite un retiro de vacunas, planteando preguntas urgentes acerca del control de calidad de fabricación y los fracasos reguladores que permitieron la distribución."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/vaccine-recall-2024-biopharma/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/vaccine-recall-2024-biopharma.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Retiro de Vacunas de 2024 en Marcha por Gigante BioPharma"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Retiro de Vacunas de 2024 en Marcha por Gigante BioPharma"}],["$","meta","25",{"name":"twitter:description","content":"Una compañía de biofarmacéutica importante emite un retiro de vacunas, planteando preguntas urgentes acerca del control de calidad de fabricación y los fracasos reguladores que permitieron la distribución."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/vaccine-recall-2024-biopharma.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

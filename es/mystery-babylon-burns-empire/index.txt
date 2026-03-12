@@ -1,0 +1,202 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","mystery-babylon-burns-empire",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","mystery-babylon-burns-empire","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mystery-babylon-burns-empire","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4ab8,<h1 id="mystery-babylon-burns-identifying-the-end-times-empire">Mystery Babylon Burns: Identifying the End-Times Empire</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH." — Revelation 17:5</p>
+</blockquote>
+<p>The name is written on her forehead — visible to those who have eyes to see. She is called a "mystery" because her true identity is hidden behind layers of deception, wealth, and power. She is called "Babylon" because she continues the spiritual legacy of the original Babel — the city built in defiance of God, the tower erected to reach heaven by human effort, the system that unified humanity under a single rebellious authority. She is "the mother of harlots" because every false religious system, every apostate institution, every spiritual prostitution on earth traces its lineage to her.</p>
+<p>Revelation 17-18 provides the most detailed description of any entity in prophetic Scripture. The great harlot is described with economic, religious, political, geographic, and spiritual characteristics so specific that identification should be possible — and yet, she remains the most debated identity in biblical prophecy. This debate is itself part of the mystery. The harlot does not want to be identified. Her power depends on remaining hidden.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/es/117-The_Burning_of_Sin.mp4">The Burning of Sin</a> speaks to the inevitable judgment that awaits Mystery Babylon. She who has made all nations drunk with her wine will herself be consumed by fire. The burning is not metaphorical. It is total, sudden, and irreversible — and those who profited from her will stand at a distance, watching the smoke rise, weeping not for their sins but for their lost wealth.</p>
+<hr>
+<h2 id="the-profile-twenty-identifying-characteristics">The Profile: Twenty Identifying Characteristics</h2>
+<p>Revelation 17-18 provides at least twenty specific characteristics of Mystery Babylon. Any proposed identification must account for all of them — not just a few, not just the convenient ones, but all of them:</p>
+<h3 id="religious-characteristics">Religious Characteristics</h3>
+<ol>
+<li>
+<p><strong>She is a harlot</strong> (17:1) — She has abandoned her covenant relationship with God and entered into illicit spiritual unions with the world.</p>
+</li>
+<li>
+<p><strong>She sits on many waters</strong> (17:1) — The waters are "peoples, and multitudes, and nations, and tongues" (17:15). She exercises influence over diverse populations worldwide.</p>
+</li>
+<li>
+<p><strong>The kings of the earth have committed fornication with her</strong> (17:2) — Political leaders are in alliance with her, participating in her false spiritual system.</p>
+</li>
+<li>
+<p><strong>She is drunk with the blood of the saints</strong> (17:6) — She has persecuted and killed God's true followers throughout history.</p>
+</li>
+<li>
+<p><strong>She is the "mother of harlots and abominations"</strong> (17:5) — She is the source from which false religions and abominable practices originate.</p>
+</li>
+<li>
+<p><strong>She has a golden cup full of abominations</strong> (17:4) — She presents her corruptions in beautiful, alluring packaging.</p>
+</li>
+</ol>
+<h3 id="political-characteristics">Political Characteristics</h3>
+<ol start="7">
+<li>
+<p><strong>She sits on a beast with seven heads and ten horns</strong> (17:3) — She rides the beast system, using its political power but distinct from it.</p>
+</li>
+<li>
+<p><strong>The seven heads are seven mountains</strong> (17:9) — She is geographically associated with seven hills or mountains.</p>
+</li>
+<li>
+<p><strong>She reigns over the kings of the earth</strong> (17:18) — She exercises authority over political rulers.</p>
+</li>
+<li>
+<p><strong>The ten horns will hate her and destroy her</strong> (17:16) — The political powers she rides will ultimately turn against her and destroy her.</p>
+</li>
+</ol>
+<h3 id="economic-characteristics">Economic Characteristics</h3>
+<ol start="11">
+<li>
+<p><strong>She is clothed in purple and scarlet, gold and jewels</strong> (17:4, 18:16) — She displays extraordinary wealth.</p>
+</li>
+<li>
+<p><strong>The merchants of the earth grew rich from her</strong> (18:3) — She is the center of a global commercial empire.</p>
+</li>
+<li>
+<p><strong>She trades in every luxury</strong> (18:12-13) — gold, silver, precious stones, fine linen, silk, ivory, spices, wine, oil, fine flour, cattle, sheep, horses, chariots — and "slaves, and souls of men" (18:13).</p>
+</li>
+<li>
+<p><strong>Her destruction collapses global commerce</strong> (18:11, 18:17-19) — When she falls, the entire global economy mourns because their revenue stream is destroyed.</p>
+</li>
+</ol>
+<h3 id="judgment-characteristics">Judgment Characteristics</h3>
+<ol start="15">
+<li>
+<p><strong>She is destroyed in one hour</strong> (18:10, 17, 19) — Her destruction is sudden and catastrophic.</p>
+</li>
+<li>
+<p><strong>She is burned with fire</strong> (17:16, 18:8) — Her destruction involves fire.</p>
+</li>
+<li>
+<p><strong>She is cast down like a stone into the sea</strong> (18:21) — Her destruction is total and permanent, never to rise again.</p>
+</li>
+<li>
+<p><strong>Her judgment is from God</strong> (18:8, 18:20) — "God hath remembered her iniquities."</p>
+</li>
+<li>
+<p><strong>Heaven rejoices at her destruction</strong> (18:20, 19:1-3) — "Rejoice over her, thou heaven, and ye holy apostles and prophets; for God hath avenged you on her."</p>
+</li>
+<li>
+<p><strong>God's people are commanded to come out of her</strong> (18:4) — "Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues."</p>
+</li>
+</ol>
+<hr>
+<h2 id="the-candidates-historical-interpretations">The Candidates: Historical Interpretations</h2>
+<p>Multiple identifications have been proposed throughout church history. Each must be evaluated against the full profile:</p>
+<h3 id="ancient-rome">Ancient Rome</h3>
+<p>The early church fathers — including Tertullian, Irenaeus, and Hippolytus — identified Babylon with Rome. The "seven mountains" (17:9) correspond to Rome's famous seven hills. Rome was "drunk with the blood of the saints" through centuries of persecution. Rome's emperors committed spiritual fornication through emperor worship. The purple and scarlet of Roman imperial dress match the harlot's clothing.</p>
+<p>However, ancient Rome as a political entity fell in AD 476. If Mystery Babylon is solely ancient Rome, the prophecy is already fulfilled — but the catastrophic, sudden destruction described in Revelation 18 does not match Rome's gradual decline over centuries.</p>
+<h3 id="the-vatican--roman-catholic-church">The Vatican / Roman Catholic Church</h3>
+<p>The Protestant Reformers — Luther, Calvin, Knox, Zwingli, and others — identified Mystery Babylon with the Roman Catholic Church and the papacy. The Vatican sits on seven hills. The church's vestments are purple and scarlet. The golden cup is a liturgical implement. The institution has an extensive history of persecuting dissidents — the Inquisition, the Crusades, the persecution of Waldensians, Albigensians, Huguenots, and early Protestants. The church has exercised political authority over the kings of Europe for over a millennium.</p>
+<p>This identification accounts for many characteristics — the religious, political, and persecutory elements especially. The Vatican's vast wealth, its global influence over 1.3 billion Catholics, its diplomatic relations with nearly every nation, and its unique status as both a religious institution and a sovereign state all fit the profile.</p>
+<h3 id="the-global-financial-system">The Global Financial System</h3>
+<p>Some modern interpreters identify Mystery Babylon with the global financial system — centered on institutions like the Federal Reserve, the Bank of International Settlements, Wall Street, the City of London, and the IMF/World Bank network. This identification accounts for the economic characteristics: the merchants growing rich, the trade in every luxury, the collapse of global commerce at her destruction.</p>
+<h3 id="america--new-york-city">America / New York City</h3>
+<p>Some prophecy scholars identify Babylon with the United States or specifically with New York City. America is the world's dominant economic and cultural power. New York is the center of global finance (Wall Street), global media, global fashion, and the United Nations. The Statue of Liberty holds a torch (fire) and was modeled after ancient goddess figures. America's cultural exports — Hollywood, as examined in <a href="/hollywood-occult-machine/?lang=es">Hollywood: The Occult Machine</a> — have made all nations "drunk" with her culture.</p>
+<h3 id="the-composite-interpretation">The Composite Interpretation</h3>
+<p>Perhaps the most comprehensive interpretation recognizes Mystery Babylon as a system rather than a single entity — a composite that includes religious, economic, and political dimensions. She is "the mother of harlots" — meaning she spawns multiple expressions of her corruption across multiple institutions, nations, and eras. The Vatican, the global financial system, American cultural hegemony, and the broader Babylonian occult tradition may all be expressions of a single spiritual reality: the counterfeit kingdom of the adversary, operating through whatever institutions serve its purpose in each generation.</p>
+<hr>
+<h2 id="the-trade-in-souls-of-men">The Trade in Souls of Men</h2>
+<p>The most chilling detail in Revelation 18's economic inventory is the final item in the list:</p>
+<blockquote>
+<p>"And cinnamon, and odours, and ointments, and frankincense, and wine, and oil, and fine flour, and wheat, and beasts, and sheep, and horses, and chariots, and slaves, and souls of men." — Revelation 18:13</p>
+</blockquote>
+<p>The Greek text lists <em>somaton</em> (bodies) and <em>psychas anthropon</em> (souls of men) as separate commodities. Mystery Babylon trades not only in physical slaves but in souls — the most valuable commodity in the universe, treated as merchandise.</p>
+<p>This is the spiritual reality behind every system that captures, controls, and commodifies human beings:</p>
+<ul>
+<li>The human trafficking industry — estimated at $150 billion annually</li>
+<li>The pharmaceutical industry — trading health for profit, keeping populations dependent</li>
+<li>The entertainment industry — capturing attention, shaping desire, selling addiction</li>
+<li>The technology industry — harvesting data (digital reflections of the soul) and selling it</li>
+<li>The education industry — shaping minds according to system-approved doctrine</li>
+<li>The military-industrial complex — trading human lives for geopolitical advantage</li>
+</ul>
+<p>As explored in <a href="/great-reset-fourth-industrial-revolution/?lang=es">The Great Reset: The Fourth Industrial Revolution</a>, the emerging global system treats human beings as resources to be managed, optimized, and controlled. Digital identity reduces persons to data. Social credit reduces character to a score. CBDC reduces economic participation to compliance. The soul — the image of God in every person — is commodified, quantified, and traded.</p>
+<p>Mystery Babylon's trade in souls is not historical. It is present. It is the business model of the modern world.</p>
+<hr>
+<h2 id="the-fall-in-one-hour">The Fall: In One Hour</h2>
+<blockquote>
+<p>"For in one hour so great riches is come to nought." — Revelation 18:17</p>
+</blockquote>
+<p>Three times in Revelation 18, the destruction of Babylon is described as occurring "in one hour" (verses 10, 17, 19). This is catastrophic, sudden, and total. It is not a gradual decline. It is not a slow collapse. It is annihilation — so sudden that those who profited from her system can only watch from a distance, unable to intervene.</p>
+<p>The speed of destruction suggests either a supernatural act (direct divine judgment), a nuclear event, or a cascading systemic collapse — or some combination. In a globally interconnected financial system, a collapse of the central node could cascade through every connected institution in hours or minutes. A nuclear attack on a major financial center could accomplish physical destruction in seconds. A coordinated cyber-attack could disable the digital infrastructure that modern civilization depends upon in minutes.</p>
+<p>The reaction of the merchants is illuminating: they weep not for human lives lost but for commercial revenue destroyed. "Alas, alas that great city, wherein were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate" (18:19). Their mourning is economic, not moral. They grieve the loss of profit, not the loss of souls. This reveals the true nature of Mystery Babylon's relationships: they are transactional, not relational. She was loved for what she provided, not for who she was. And when the provision ceases, the love ceases with it.</p>
+<hr>
+<h2 id="come-out-of-her-my-people">Come Out of Her, My People</h2>
+<blockquote>
+<p>"And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues." — Revelation 18:4</p>
+</blockquote>
+<p>This is among the most urgent commands in all of Scripture. God has people inside Mystery Babylon — genuine believers who are entangled in her systems, participating in her commerce, influenced by her culture, and at risk of sharing in her judgment. The command is to come out — to separate, to disentangle, to extract yourself from the system before its destruction falls.</p>
+<p>Coming out of Babylon is not merely a geographic relocation. It is a spiritual, economic, cultural, and psychological separation from the system that Mystery Babylon represents:</p>
+<ul>
+<li>
+<p><strong>Spiritual separation:</strong> Reject the false religious systems that trace their roots to Babylonian mystery religion — the blending of paganism with Christianity, the substitution of ritual for relationship, the elevation of tradition over Scripture.</p>
+</li>
+<li>
+<p><strong>Economic separation:</strong> Reduce dependence on the global financial system. Develop local economies, community networks, self-sufficiency in food production, and alternative means of exchange that do not require participation in the beast infrastructure.</p>
+</li>
+<li>
+<p><strong>Cultural separation:</strong> Reject the values that Babylon exports — materialism, sexual immorality, entertainment addiction, celebrity worship, occult normalization, and the commodification of human life.</p>
+</li>
+<li>
+<p><strong>Informational separation:</strong> Reject Babylon's media — the narrative control, the propaganda, the manufactured consent, the algorithmic manipulation of perception.</p>
+</li>
+</ul>
+<p>The command is urgent because the destruction is sudden. There will be no gradual warning, no time to transition, no opportunity for last-minute extraction. Those who wait until they see the smoke will wait too long.</p>
+<hr>
+<h2 id="the-eternal-judgment">The Eternal Judgment</h2>
+<blockquote>
+<p>"Rejoice over her, thou heaven, and ye holy apostles and prophets; for God hath avenged you on her." — Revelation 18:20</p>
+</blockquote>
+<p>Heaven celebrates the destruction of Mystery Babylon. This is not cruelty. It is justice. The system that traded in the souls of men, that was drunk with the blood of the saints, that made all nations drunk with its spiritual fornication, and that enriched itself through every form of exploitation — this system is judged, and heaven responds with worship:</p>
+<p>"Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God: For true and righteous are his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand." — Revelation 19:1-2</p>
+<p>The judgment is permanent. "And a mighty angel took up a stone like a great millstone, and cast it into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all" (Revelation 18:21). Found no more. The music stops. The commerce stops. The entertainment stops. The exploitation stops. Permanently.</p>
+<hr>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/287-The_Beast_Is_Here.mp4">The Beast Is Here</a> — The beast system empire</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — The end-times empire in lockstep</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/hollywood-occult-machine/?lang=es">Hollywood: The Occult Machine</a> — The cultural arm of Mystery Babylon's influence</li>
+<li><a href="/great-reset-fourth-industrial-revolution/?lang=es">The Great Reset: The Fourth Industrial Revolution</a> — The economic restructuring that serves Babylon's final form</li>
+</ul>
+<hr>
+<p><em>She sits on seven mountains, clothed in purple and scarlet, holding a golden cup full of abominations. She has made the nations drunk. She has enriched the merchants. She has killed the saints. She has traded in the souls of men. And she does not know that her judgment is written, her hour is determined, and her fire is already kindled. Mystery Babylon is not a puzzle to be solved for intellectual satisfaction. She is a system to be escaped for spiritual survival. "Come out of her, my people." This is not a suggestion. It is a command from the throne of heaven — spoken by the same God who rained fire on Sodom, who flooded the ancient world, and who will burn Mystery Babylon with a fire that no insurance policy covers and no rebuilding effort will reverse. She will be found no more. The merchants will weep. Heaven will rejoice. And the smoke of her burning will rise forever — a monument to the judgment of the God who remembers every soul she traded, every saint she killed, and every nation she deceived.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/prophecy/","className":"category-badge","children":"prophecy"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Babilonia misteriosa arde: el imperio se quema desde adentro"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Apocalipsis 17-18 describe la caída de Babilonia, la ciudad mundial de los últimos tiempos. Los eventos actuales sugieren que ese colapso está comenzando."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-05T10:00:00Z","children":"5 de marzo de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","mystery-babylon",{"href":"/es/tag/mystery-babylon/","className":"tag-pill","children":["#","mystery-babylon"]}],["$","a","revelation",{"href":"/es/tag/revelation/","className":"tag-pill","children":["#","revelation"]}],["$","a","empire",{"href":"/es/tag/empire/","className":"tag-pill","children":["#","empire"]}],["$","a","harlot",{"href":"/es/tag/harlot/","className":"tag-pill","children":["#","harlot"]}],["$","a","judgment",{"href":"/es/tag/judgment/","className":"tag-pill","children":["#","judgment"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/mystery-babylon-burns-empire/","title":"Babilonia misteriosa arde: el imperio se quema desde adentro"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/mystery-babylon-burns-empire/","title":"Babilonia misteriosa arde: el imperio se quema desde adentro"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Babilonia misteriosa arde: el imperio se quema desde adentro | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Apocalipsis 17-18 describe la caída de Babilonia, la ciudad mundial de los últimos tiempos. Los eventos actuales sugieren que ese colapso está comenzando."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"mystery-babylon, revelation, empire, harlot, judgment"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/mystery-babylon-burns-empire/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/mystery-babylon-burns-empire/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/mystery-babylon-burns-empire/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/mystery-babylon-burns-empire/"}],["$","meta","10",{"property":"og:title","content":"Babilonia misteriosa arde: el imperio se quema desde adentro"}],["$","meta","11",{"property":"og:description","content":"Apocalipsis 17-18 describe la caída de Babilonia, la ciudad mundial de los últimos tiempos. Los eventos actuales sugieren que ese colapso está comenzando."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/mystery-babylon-burns-empire/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/mystery-babylon-burns-empire.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Babilonia misteriosa arde: el imperio se quema desde adentro"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Babilonia misteriosa arde: el imperio se quema desde adentro"}],["$","meta","25",{"name":"twitter:description","content":"Apocalipsis 17-18 describe la caída de Babilonia, la ciudad mundial de los últimos tiempos. Los eventos actuales sugieren que ese colapso está comenzando."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/mystery-babylon-burns-empire.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

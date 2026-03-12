@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","abomination-desolation-sign",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","abomination-desolation-sign","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","abomination-desolation-sign","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3c94,<h1 id="la-abominación-de-la-desolación-reconociendo-la-señal">La Abominación de la Desolación: Reconociendo la Señal</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p>"Por tanto, cuando veáis la abominación desoladora, de que habló el profeta Daniel, en el lugar santo (el que lee, entienda), entonces los que estén en Judea, huyan a los montes." — Mateo 24:15-16</p>
+</blockquote>
+<p>De todas las señales proféticas que Jesús podría haber destacado, Él eligió una por encima de todas las otras como el indicador definitivo de que el fin había llegado. No guerras. No hambrunas. No terremotos. Esos son "el principio de dolores." La señal que desencadena acción inmediata, urgente, de vida o muerte es la abominación de la desolación—un acto específico de profanación en el lugar santo que señala el comienzo de la Gran Tribulación, el peor período en toda la historia humana. Jesús no meramente mencionó esta señal. Ordenó a Sus seguidores que la entendieran. "El que lee, entienda." Este no es conocimiento opcional. Es información de supervivencia.</p>
+<p>Como advierte la canción <a href="https://confliction.zzzdaily.com/tracks/es/111-El_D%C3%ADa_Final.mp4">El Día Final</a> del álbum Confliction, hay un momento de no retorno—una línea cruzada después de la cual el mundo cambia para siempre. La abominación de la desolación es esa línea.</p>
+<hr>
+<h2 id="las-tres-referencias-de-daniel">Las Tres Referencias de Daniel</h2>
+<p>La frase "abominación de la desolación" (o "abominación que causa desolación") aparece tres veces en el Libro de Daniel:</p>
+<h3 id="daniel-927">Daniel 9:27</h3>
+<blockquote>
+<p>"Y en medio de la semana hará cesar el sacrificio y la ofrenda; después con la muchedumbre de las abominaciones vendrá el desolador, y hasta el fin, la destrucción que está determinada será derramada sobre el desolador."</p>
+</blockquote>
+<p>Esto ocurre en el contexto de la profecía de las setenta semanas de Daniel. El "desolador" actúa en medio de la septuagésima semana—3.5 años dentro del período final de siete años. Como se detalla en nuestro artículo sobre <a href="/daniel-seventy-weeks-timeline/?lang=es">Las Setenta Semanas de Daniel</a>, este es el punto medio donde el Anticristo rompe su pacto con Israel y profana el Templo.</p>
+<h3 id="daniel-1131">Daniel 11:31</h3>
+<blockquote>
+<p>"Y se levantarán de su parte tropas que profanarán el santuario y la fortaleza, y quitarán el continuo sacrificio, y pondrán la abominación desoladora."</p>
+</blockquote>
+<p>Este pasaje describe tanto un evento histórico (Antíoco IV Epífanes) como un arquetipo futuro (el Anticristo final). El patrón de cumplimiento dual es crítico—el evento histórico prueba que la profecía es real, y el evento futuro prueba que la profecía aún no está completa.</p>
+<h3 id="daniel-1211">Daniel 12:11</h3>
+<blockquote>
+<p>"Y desde el tiempo que sea quitado el continuo sacrificio hasta la abominación desoladora, habrá mil doscientos noventa días."</p>
+</blockquote>
+<p>Esto proporciona una cronología exacta: 1,290 días desde que cesan los sacrificios diarios y se establece la abominación. Esto es ligeramente más largo que los 1,260 días (3.5 años) de la Gran Tribulación, sugiriendo un período adicional de 30 días de transición o juicio.</p>
+<h2 id="el-precedente-histórico-antíoco-iv-epífanes">El Precedente Histórico: Antíoco IV Epífanes</h2>
+<p>En 167 a.C., el rey seleúcida Antíoco IV Epífanes invadió Jerusalén, entró al Templo, y cometió una serie de profanaciones:</p>
+<ul>
+<li>Erigió un altar a Zeus en el altar de holocausto</li>
+<li>Sacrificó un cerdo—el animal más inmundo en la ley judía—en el altar</li>
+<li>Erigió un ídolo (probablemente una estatua de Zeus con su propia semejanza) en el Lugar Santísimo</li>
+<li>Prohibió los sacrificios diarios, la circuncisión, y la observancia del Sábado</li>
+<li>Profanó los rollos del Templo y quemó copias de la Torá</li>
+</ul>
+<p>Este evento histórico fue tan traumático que provocó la Rebelión de los Macabeos, la rededicación del Templo (celebrada como Janucá), y una cicatriz permanente en la consciencia judía.</p>
+<p>Pero Jesús, hablando aproximadamente en el año 30 d.C.—casi 200 años después de Antíoco—se refirió a la abominación de la desolación como un evento <strong>futuro</strong>. Usó tiempo futuro: "Cuando <strong>veáis</strong>." No estaba señalando a Antíoco como el cumplimiento sino a Antíoco como el prototipo. La verdadera abominación de la desolación estaba aún por venir.</p>
+<h2 id="el-cumplimiento-parcial-año-70-dc">El Cumplimiento Parcial: Año 70 d.C.</h2>
+<p>Cuando las legiones romanas bajo Tito sitiaron Jerusalén en el año 70 d.C., eventualmente traspasaron los muros del Templo, y los soldados romanos trajeron sus estandartes—que portaban imágenes del emperador y águilas, objetos de adoración pagana—al patio del Templo. Ofrecieron sacrificios a sus estandartes en el recinto del Templo antes de destruir toda la estructura.</p>
+<p>Este evento cumple parcialmente la profecía y explica por qué Jesús dijo a Sus seguidores en Lucas 21:20: "Pero cuando veáis a Jerusalén rodeada de ejércitos, sabed entonces que su destrucción ha llegado." Los primeros cristianos que respetaron esta advertencia huyeron a Pella en la Jordania moderna y sobrevivieron al sitio que mató a más de un millón de judíos.</p>
+<p>Sin embargo, el evento del año 70 d.C. no satisface completamente la profecía porque:</p>
+<ul>
+<li>No ocurrió en el contexto de un pacto de siete años</li>
+<li>No fue seguido por el regreso de Cristo</li>
+<li>No desencadenó los disturbios cósmicos descritos en Mateo 24:29</li>
+<li>La "gran tribulación, como no la ha habido desde el principio del mundo" (Mateo 24:21) no fue inmediatamente seguida por el fin de la era</li>
+</ul>
+<p>Esto confirma que el cumplimiento final permanece en el futuro.</p>
+<h2 id="el-cumplimiento-futuro-lo-que-se-debe-vigilar">El Cumplimiento Futuro: Lo Que Se Debe Vigilar</h2>
+<p>Para que la abominación de la desolación ocurra en su forma profética final, varias condiciones previas deben cumplirse:</p>
+<h3 id="1-un-templo-reconstruido">1. Un Templo Reconstruido</h3>
+<p>La abominación ocurre en "el lugar santo"—el Templo en Jerusalén. Actualmente, el Monte del Templo está ocupado por la Cúpula de la Roca y la Mezquita de Al-Aqsa. Para que se instituyan y se detengan sacrificios diarios, para que se erige una imagen en el lugar santo, debe existir un Templo funcional.</p>
+<p>El Instituto del Templo en Jerusalén ya ha preparado las vestiduras sacerdotales, los vasos sagrados, y los planos arquitectónicos para el Tercer Templo. Novillas rojas—necesarias para el ritual de purificación descrito en Números 19—han sido importadas de Tejas y se están preparando. La voluntad política y religiosa para reconstruir existe entre segmentos significativos de la sociedad israelí.</p>
+<h3 id="2-sacrificios-diarios-restaurados">2. Sacrificios Diarios Restaurados</h3>
+<p>El cese de sacrificios diarios (Daniel 12:11) requiere que sacrificios diarios hayan sido primero reanudados. Esto significa no solo un edificio sino un Templo operativo con un sacerdocio funcional realizando los sacrificios prescritos. El Instituto del Templo ha entrenado sacerdotes y preparado los implementos necesarios para esta restauración.</p>
+<h3 id="3-el-auto-entronamiento-del-anticristo">3. El Auto-Entronamiento del Anticristo</h3>
+<p>Pablo proporciona la descripción más explícita de la abominación en 2 Tesalonicenses 2:3-4:</p>
+<blockquote>
+<p>"Que nadie os engañe por ninguna manera; porque no vendrá sin que antes venga la apostasía, y se manifieste el hombre de pecado, el hijo de perdición, oponiéndose y levantándose contra todo lo que se llama Dios o es objeto de culto; tanto que se sienta en el templo de Dios como Dios, haciéndose pasar por Dios."</p>
+</blockquote>
+<p>La abominación de la desolación es el Anticristo entrando al Templo reconstruido en Jerusalén y declarándose a sí mismo ser Dios. Esto no es meramente un acto político—es la transgresión espiritual final, un ser humano reclamando autoridad divina en el lugar designado para la adoración del único Dios verdadero. Es la expresión final y más completa de la mentira del Jardín: "Seréis como Dios."</p>
+<h3 id="4-la-imagen-de-la-bestia">4. La Imagen de la Bestia</h3>
+<p>Apocalipsis 13:14-15 describe una segunda dimensión de la abominación:</p>
+<blockquote>
+<p>"Y engaña a los moradores de la tierra por las señales que se le ha permitido hacer en presencia de la bestia, diciendo a los moradores de la tierra que hagan una imagen de la bestia que tiene la herida de espada, y vivió. Y se le permitió infundir aliento a la imagen de la bestia, para que la imagen hablase e hiciese matar a todo el que no la adorase."</p>
+</blockquote>
+<p>Una imagen que puede "hablar" e identificar a aquellos que se rehúsan a adorarla—esto suena notablemente como tecnología impulsada por IA. Una imagen holográfica o robótica en el Templo, equipada con reconocimiento facial y conectada a la red de vigilancia global, podría literalmente identificar y atacar a aquellos que se rehúsan a adorarla.</p>
+<p>Como se explora en nuestro artículo sobre <a href="/antichrist-algorithm-digital-beast/?lang=es">Algoritmo del Anticristo: La Bestia Digital</a>, la tecnología para la "imagen de la bestia" ya existe. Los avatares impulsados por IA pueden hablar, el reconocimiento facial puede identificar, y los sistemas de ID digital pueden rastrear quién cumple y quién resiste.</p>
+<h2 id="la-advertencia-urgente-de-jesús">La Advertencia Urgente de Jesús</h2>
+<p>Cuando Jesús describe lo que sucede después de la abominación, Su lenguaje alcanza un nivel de urgencia que no se encuentra en ningún otro lugar en Su enseñanza:</p>
+<blockquote>
+<p>"Entonces los que estén en Judea, huyan a los montes. El que esté en la azotea, no descienda para tomar algo de su casa; y el que esté en el campo, no vuelva atrás para tomar su capa. Mas ¡ay de las preñadas, y de las que crían en aquellos días! Orad, pues, que vuestra huida no sea en invierno ni en día de reposo. Porque habrá entonces gran tribulación, cual no ha habido desde el principio del mundo hasta ahora, ni la habrá." — Mateo 24:16-21</p>
+</blockquote>
+<p>Este es lenguaje de evacuación. Deja todo. No regreses por posesiones. No demores. La Gran Tribulación comienza en el momento en que se establece la abominación, y la supervivencia depende de la huida inmediata. Aquellos que dudan serán atrapados en una persecución tan severa que Jesús dice que nada en toda la historia humana—pasada o futura—se comparará con ella.</p>
+<h2 id="reconociendo-la-señal-hoy">Reconociendo la Señal Hoy</h2>
+<p>La abominación de la desolación aún no ha ocurrido. Pero las condiciones para su ocurrencia están siendo sistemáticamente reunidas:</p>
+<ul>
+<li><strong>Las preparaciones del Templo</strong> están en progreso en Jerusalén</li>
+<li><strong>La tecnología</strong> para una imagen parlante identificadora existe</li>
+<li><strong>Las condiciones geopolíticas</strong> para un pacto de siete años que involucre a Israel se están desarrollando</li>
+<li><strong>La infraestructura digital</strong> para la imposición de adoración global (cumple o sé cortado) está siendo construida</li>
+</ul>
+<p>La canción <a href="https://zzzdaily.zzzdaily.com/tracks/es/347-La_Abominaci%C3%B3n_De_la_Desolaci%C3%B3n.mp4">La Abominación De la Desolación</a> de ZZZ Daily explora la realidad profética de esta señal, mientras que <a href="https://zzzdaily.zzzdaily.com/tracks/es/423-Vi_El_Fin_Del_Mundo.mp4">Vi El Fin Del Mundo</a> pinta el cuadro más amplio de los días que la rodean.</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/424-Vi_El_Fin_Del_Mundo-Alt.mp4">Vi El Fin Del Mundo (Alt)</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/348-La_Abominaci%C3%B3n_De_la_Desolaci%C3%B3n-Alt.mp4">La Abominación De la Desolación (Alt)</a></li>
+</ul>
+<p>El comando es claro: entiende esta señal. Vigila por ella. Y cuando aparezca, no dudes.</p>
+<h2 id="descubre-más">Descubre Más</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de Experiencia Cercana a la Muerte de Howard Pittman — Advertencia del Fin de los Tiempos Que Dios Le Dio</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="escucha-mientras-lees">Escucha Mientras Lees</h2>
+<p>Estas canciones de ZZZ Daily exploran los temas en este artículo:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/347-La_Abominaci%C3%B3n_De_la_Desolaci%C3%B3n.mp4">La Abominación De la Desolación</a> — La señal que Jesús ordenó a Sus seguidores a reconocer</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/423-Vi_El_Fin_Del_Mundo.mp4">Vi El Fin Del Mundo</a> — La visión profética más amplia de los días finales</li>
+</ul>
+<p>Del álbum Confliction (The Cave of Treasures):</p>
+<ul>
+<li>
+<p><a href="https://confliction.zzzdaily.com/tracks/es/111-El_D%C3%ADa_Final.mp4">El Día Final</a> — El punto de giro irreversible en la historia humana</p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/es/421-El_A%C3%B1o_de_la_Prueba.mp4">El Año de la Prueba</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/es/422-El_A%C3%B1o_de_la_Prueba-Alt.mp4">El Año de la Prueba (Alt)</a></p>
+</li>
+</ul>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/seven-seals-seven-trumpets/?lang=es">Los Siete Sellos y Siete Trompetas: ¿Dónde Estamos Ahora?</a> — La cronología de los juicios del Apocalipsis</li>
+<li><a href="/daniel-seventy-weeks-timeline/?lang=es">Las Setenta Semanas de Daniel: La Cronología Profética Descodificada</a> — La cuenta regresiva que culmina en la abominación</li>
+<li><a href="/antichrist-algorithm-digital-beast/?lang=es">Algoritmo del Anticristo: La Bestia Digital</a> — La tecnología que permite la imagen de la bestia</li>
+<li><a href="/mark-of-the-beast-digital-id/?lang=es">La Marca de la Bestia: ID Digital</a> — El sistema de imposición económica activado después de la abominación</li>
+</ul>
+<hr>
+<p><em>Jesús miró a Sus discípulos y les dio una señal por encima de todas las otras. No guerras—esas son el comienzo. No terremotos—esos son dolores de parto. La señal que demanda acción inmediata es la abominación de la desolación de pie en el lugar santo. Cuando el hombre de pecado se sienta en el Templo de Dios y se declara a sí mismo Dios, cuando la imagen habla y demanda adoración, cuando cesa el sacrificio diario y comienza la gran tribulación—ese es el momento. El que lee, entienda. Tu comprensión puede determinar tu supervivencia.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/prophecy/","className":"category-badge","children":"prophecy"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"La Abominación de la Desolación: Reconociendo la Señal"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Un examen exhaustivo de la abominación de la desolación—la señal profética pivotal que Jesús advirtió a Sus seguidores a vigilar—su precedente histórico, su cumplimiento futuro, y lo que los creyentes deben hacer cuando la ven."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-06-03T10:00:00Z","children":"3 de junio de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","abominación-de-la-desolación",{"href":"/es/tag/abominación-de-la-desolación/","className":"tag-pill","children":["#","abominación-de-la-desolación"]}],["$","a","mateo-24",{"href":"/es/tag/mateo-24/","className":"tag-pill","children":["#","mateo-24"]}],["$","a","daniel",{"href":"/es/tag/daniel/","className":"tag-pill","children":["#","daniel"]}],["$","a","templo",{"href":"/es/tag/templo/","className":"tag-pill","children":["#","templo"]}],["$","a","anticristo",{"href":"/es/tag/anticristo/","className":"tag-pill","children":["#","anticristo"]}],["$","a","tribulación",{"href":"/es/tag/tribulación/","className":"tag-pill","children":["#","tribulación"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/abomination-desolation-sign/","title":"La Abominación de la Desolación: Reconociendo la Señal"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/abomination-desolation-sign/","title":"La Abominación de la Desolación: Reconociendo la Señal"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"La Abominación de la Desolación: Reconociendo la Señal | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Un examen exhaustivo de la abominación de la desolación—la señal profética pivotal que Jesús advirtió a Sus seguidores a vigilar—su precedente histórico, su cumplimiento futuro, y lo que los creyentes deben hacer cuando la ven."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"abominación-de-la-desolación, mateo-24, daniel, templo, anticristo, tribulación"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/abomination-desolation-sign/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/abomination-desolation-sign/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/abomination-desolation-sign/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/abomination-desolation-sign/"}],["$","meta","10",{"property":"og:title","content":"La Abominación de la Desolación: Reconociendo la Señal"}],["$","meta","11",{"property":"og:description","content":"Un examen exhaustivo de la abominación de la desolación—la señal profética pivotal que Jesús advirtió a Sus seguidores a vigilar—su precedente histórico, su cumplimiento futuro, y lo que los creyentes deben hacer cuando la ven."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/abomination-desolation-sign/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/abomination-desolation-sign.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"La Abominación de la Desolación: Reconociendo la Señal"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"La Abominación de la Desolación: Reconociendo la Señal"}],["$","meta","25",{"name":"twitter:description","content":"Un examen exhaustivo de la abominación de la desolación—la señal profética pivotal que Jesús advirtió a Sus seguidores a vigilar—su precedente histórico, su cumplimiento futuro, y lo que los creyentes deben hacer cuando la ven."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/abomination-desolation-sign.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

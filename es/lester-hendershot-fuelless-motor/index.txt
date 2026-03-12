@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","lester-hendershot-fuelless-motor",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","lester-hendershot-fuelless-motor","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","lester-hendershot-fuelless-motor","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T391a,<h1 id="motor-sin-combustible-de-lester-hendershot-energía-libre-suprimida">Motor sin Combustible de Lester Hendershot: Energía Libre Suprimida</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p><em>"Y conoceréis la verdad, y la verdad os hará libres."</em> — Juan 8:32</p>
+</blockquote>
+<p>De todas las historias de energía libre suprimida, la de Lester Hendershot puede ser la más bien documentada y la más frustrante. Hendershot construyó un motor sin combustible — un dispositivo que generaba energía eléctrica sin ninguna fuente de combustible externa — y lo demostró a múltiples testigos, incluyendo funcionarios militares y reporteros de periódicos. El dispositivo fue examinado, probado, y confirmado que operaba. Y entonces Hendershot fue desacreditado, su dispositivo fue confiscado, y la historia fue enterrada.</p>
+<p>Pero a diferencia de muchas historias de energía libre, el caso Hendershot dejó un rastro de papel significativo: artículos de periódicos, correspondencia militar, testimonio de testigos, y solicitudes de patentes. Esta evidencia no puede ser descartada como rumor o fantasía. Es historia documentada — historia que ha sido sistemáticamente suprimida porque prueba que la energía libre es posible y que el establecimiento de energía ha estado mintiendo a la humanidad durante más de un siglo.</p>
+<p>Howard Pittman fue contado durante su experiencia cercana a la muerte que la verdad es eterna y las mentiras son temporales. La historia de Hendershot es verdad que ha sido temporalmente suprimida por mentiras. La jerarquía demoníaca que Pittman vio en el segundo cielo — organizada, despiadada, y dedicada a robar la provisión de Dios de la humanidad — opera a través de agentes humanos que suprimen la energía libre para mantener el monopolio de energía que esclaviza al mundo.</p>
+<p>El "poder absoluto" de los Jesuitas (Napoleón) depende del control de energía. Su infiltración "encubierta con astucia" (Catholic Confidential) se extiende al sector de energía, al militar, y a las instituciones académicas que definen qué es físicamente posible. La "condenación eterna" de Adams se aplica a aquellos que suprimen los regalos de Dios por ganancia. El gobierno de Tambulini "de mitad del mundo" incluye gobierno sobre la energía que la potencia.</p>
+<hr>
+<h2 id="la-historia-de-hendershot">La Historia de Hendershot</h2>
+<h3 id="el-inventor">El Inventor</h3>
+<p>Lester Jennings Hendershot era un inventor estadounidense quien, en los últimos 1920s, construyó un dispositivo que llamó el "Motor sin Combustible de Hendershot" o "Generador Hendershot." El dispositivo fue descrito como un generador electromagnético que extraía energía del campo magnético de la Tierra — convirtiendo la energía magnética ambiental en potencia eléctrica usable.</p>
+<p>Hendershot no era un físico o ingeniero entrenado. Era un inventor práctico — un experimentador que construía cosas basadas en intuición, experimentación, y lo que funcionaba. Su falta de credenciales académicas fue usada para desacreditarlo, pero también significaba que no estaba restringido por la ortodoxia académica que declara imposible la energía libre.</p>
+<h3 id="las-demostraciones-de-1928">Las Demostraciones de 1928</h3>
+<p>En febrero de 1928, Hendershot demostró su dispositivo en Selfridge Field, una base aérea militar cerca de Detroit, Michigan. La demostración fue presenciada por:</p>
+<ul>
+<li><strong>Mayor Thomas Lanphier</strong> — un oficial distinguido del Army Air Corps e padre del piloto que después derribó el avión del Almirante Yamamoto en la Segunda Guerra Mundial</li>
+<li><strong>Varios oficiales del Ejército</strong> y personal técnico</li>
+<li><strong>Reporteros de periódicos</strong> del Detroit Free Press y otras publicaciones</li>
+</ul>
+<p>Los testigos reportaron que el dispositivo:</p>
+<ul>
+<li>Generó corriente eléctrica suficiente para potenciar luces, receptores de radio, y un motor de máquina de coser pequeña</li>
+<li>Operó sin ninguna fuente de potencia externa visible — sin baterías, sin combustible, sin conexión eléctrica</li>
+<li>Contenía bobinas, imanes, y capacitores arreglados en una configuración específica</li>
+<li>Funcionó durante períodos extendidos durante pruebas</li>
+</ul>
+<p>El Mayor Lanphier fue suficientemente impresionado para abogar por mayor investigación militar del dispositivo. La historia recibió cobertura significativa de periódico, con titulares reportando en el "motor sin combustible" y su potencial para revolucionar la producción de energía.</p>
+<h3 id="la-supresión">La Supresión</h3>
+<p>Lo que ocurrió después sigue el patrón de toda supresión de energía libre:</p>
+<p><strong>Desacreditación</strong>: Después de la cobertura positiva inicial, una narrativa contraria emergió. Hendershot fue acusado de fraude — supuestamente escondiendo baterías dentro del dispositivo. Esta acusación nunca fue probada, pero fue amplificada por los medios y usada para desacreditar toda la demostración.</p>
+<p><strong>Ataque físico</strong>: Hendershot reportadamente recibió un choque eléctrico mientras trabajaba en su dispositivo — un incidente que algunos investigadores creen que no fue accidental sino una advertencia de partes que querían que el trabajo parara.</p>
+<p><strong>Encarcelamiento psiquiátrico</strong>: Hendershot fue en un momento encarcelado en una institución psiquiátrica — el método estándar de neutralizar inventores problemáticos. El diagnóstico proporcionó una explicación conveniente para sus reclamos "delirantes" sobre energía libre.</p>
+<p><strong>Confiscación de dispositivo</strong>: Los dispositivos que Hendershot construyó ya desaparecieron o fueron confiscados. Ningún generador Hendershot funcionando sobrevive — o si uno lo hace, está en posesión de partes que no tienen interés en hacerlo público.</p>
+<p><strong>Muerte</strong>: Hendershot murió en 1961 bajo circunstancias que han plantado preguntas entre investigadores. La causa oficial fue listada como muerte natural, pero el patrón de muertes de inventor asociadas con tecnología de energía libre sugiere una posibilidad más oscura.</p>
+<h3 id="la-evidencia-que-sobrevive">La Evidencia Que Sobrevive</h3>
+<p>A pesar de la supresión, evidencia significativa del dispositivo Hendershot sobrevive:</p>
+<ul>
+<li><strong>Artículos de periódicos</strong> de 1928 describiendo las demostraciones y nombrando los testigos militares</li>
+<li><strong>Correspondencia militar</strong> referenciando el dispositivo y su potencial</li>
+<li><strong>Solicitudes de patentes</strong> presentadas por Hendershot describiendo la construcción del dispositivo</li>
+<li><strong>Testimonio de testigos</strong> de múltiples observadores independientes</li>
+<li><strong>Intentos de reconstrucción</strong> por investigadores que han construido dispositivos basados en descripciones de Hendershot, algunos reclamando éxito parcial</li>
+</ul>
+<p>Esta evidencia es más que suficiente para justificar investigación científica seria. Pero investigación científica seria de energía libre es exactamente lo que el establecimiento de energía previene — a través del control de financiamiento, portería académica, y ridículo de cualquiera quien toma el tema seriamente.</p>
+<h2 id="el-patrón-de-supresión-de-energía-libre">El Patrón de Supresión de Energía Libre</h2>
+<h3 id="el-plantilla">El Plantilla</h3>
+<p>El caso Hendershot ilustra la plantilla usada para suprimir la energía libre:</p>
+<ol>
+<li><strong>Ridículo</strong>: Etiqueta al inventor como un fraude, un excéntrico, o mentalmente enfermo</li>
+<li><strong>Confiscación</strong>: Incauta el dispositivo, ya sea a través de procedimientos legales u acción encubierta</li>
+<li><strong>Amenaza</strong>: Aplica presión legal, financiera, o física al inventor</li>
+<li><strong>Institucionalización</strong>: Si ridículo y amenazas fallan, compromete al inventor en una instalación psiquiátrica</li>
+<li><strong>Eliminación</strong>: Si todo lo demás falla, el inventor encuentra un fin prematuro</li>
+<li><strong>Borrado</strong>: Remueve la historia del registro histórico</li>
+</ol>
+<p>Esta plantilla ha sido aplicada a docenas de inventores durante el último siglo. La consistencia del patrón — a través de diferentes países, diferentes tecnologías, y diferentes décadas — prueba que no es orgánico. Es una campaña coordinada, sistemática de supresión dirigida por el monopolio de energía y sus aliados de inteligencia/militar.</p>
+<h3 id="otros-inventores-suprimidos">Otros Inventores Suprimidos</h3>
+<p>La historia de Hendershot no está aislada. Otros inventores quienes reclamaron desarrollar dispositivos de energía libre y fueron subsecuentemente suprimidos incluyen:</p>
+<ul>
+<li><strong>Nikola Tesla</strong>: Torre Wardenclyffe demolida después que financiamiento fue retirado</li>
+<li><strong>T. Henry Moray</strong>: Dispositivo de energía radiante destruido por un saboteador en su laboratorio</li>
+<li><strong>John Keely</strong>: Motor demostrado a miles; murió misteriosamente</li>
+<li><strong>Stanley Meyer</strong>: Inventor de celda de combustible de agua; murió repentinamente en una reunión de restaurante con inversionistas</li>
+<li><strong>Eugene Mallove</strong>: Investigador de fusión fría; asesinado en 2004</li>
+<li><strong>H.E. Perrigo</strong>: Dispositivo e inventor desaparecieron del registro</li>
+<li><strong>Garabed Giragossian</strong>: Generador examinado por el Congreso; suprimido</li>
+</ul>
+<p>El número y consistencia de estos casos elimina coincidencia como una explicación. Algo está sistemáticamente previniendo que la energía libre alcance al público.</p>
+<h2 id="la-dimensión-espiritual">La Dimensión Espiritual</h2>
+<h3 id="la-energía-de-dios">La Energía de Dios</h3>
+<p>El universo está lleno de energía. El campo magnético de la Tierra, radiación solar, potencial gravitatorio, energía de punto cero, y innumerables otros fenómenos representan vastos depósitos de energía que Dios incrustó en la creación para el uso de la humanidad.</p>
+<p>La supresión de tecnología de energía libre es el robo de la provisión de Dios. Fuerza a la humanidad a pagar por lo que Dios dio libremente. Enriquece a una pequeña élite a expensas de la raza humana entera. Y sirve la misma agenda espiritual que Howard Pittman fue mostrado en el segundo cielo: la separación de la humanidad de las bendiciones de Dios.</p>
+<p>El 97.5% quienes está fracasando, quienes "nunca hizo a Jesús Señor," pagan sus facturas de energía sin pregunta. Aceptan la mentira de escasez de energía porque han sido enseñados a confiar en la autoridad institucional. Sirven "a sí mismos" — consumiendo energía producida por un sistema que los esclaviza — en lugar de buscar la provisión de Dios a través de la energía abundante que Él colocó en la creación.</p>
+<h3 id="la-agenda-de-energía-jesuita">La Agenda de Energía Jesuita</h3>
+<p>El compromiso de la orden jesuita al "poder absoluto" requiere control de energía. La energía es la fundación de civilización — sin energía, nada funciona. Controla la energía, y controlas todo.</p>
+<p>Los Jesuitas gobiernan el mundo a través de redes de universidades que enseñan la física que declara imposible la energía libre. Sus conexiones de inteligencia suprimen inventores quienes prueban lo contrario. Su imperio financiero se lucra del monopolio de energía. Y su agenda espiritual — el reemplazo de la autoridad de Dios con la autoridad institucional — es servida por un sistema que hace a cada persona dependiente de energía corporativa para su supervivencia.</p>
+<p>La energía libre destruiría esta dependencia. Liberaría a la humanidad del monopolio de energía, descentralizaría potencia (en ambos sentidos), y probaría que la provisión de Dios es suficiente. Esto es por qué es suprimida — no porque no funcione, sino porque funciona demasiado bien.</p>
+<h2 id="descubre-más">Descubre Más</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Substack de Agent131711</a> — Documentación del motor sin combustible de Hendershot e investigación de supresión de energía libre</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de Experiencia Cercana a la Muerte de Howard Pittman</a> — La provisión de Dios y el robo de bendiciones</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Secretos Deplorables de los Jesuitas Revelados</a> — Control jesuita de energía y ciencia</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicidio y Pharmakeia — La Hechicería de la Medicina Moderna</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¡Lo Que Hay en el Sótano del Vaticano Puede Conmocionarte!</a></li>
+<li>Archivos de periódicos de 1928 documentando demostraciones de Hendershot</li>
+<li>Correspondencia militar desde Selfridge Field</li>
+</ul>
+<h2 id="escucha-mientras-lees">Escucha Mientras Lees</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/111-Free_Energy_Murdered.mp4">Energía Libre Asesinada</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/49-Smart_City_Prison.mp4">Prisión de la Ciudad Inteligente</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/63-Bluetooth_Bodies.mp4">Cuerpos Bluetooth</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/67-The_Enemy_Within.mp4">El Enemigo Dentro</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/13-The_Word_of_God.mp4">The Word of God</a></li>
+</ul>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/perrigo-free-energy-device/?lang=es">La Historia Peculiar del Dispositivo de Energía Libre de H.E. Perrigo</a></li>
+<li><a href="/garabed-free-energy-generator/?lang=es">El Generador de Energía Libre de Garabed Que Desapareció</a></li>
+<li><a href="/space-rockets-helium-balloons/?lang=es">¿Son Realmente los Cohetes Espaciales Globos de HELIO: La Evidencia</a></li>
+</ul>
+<p><em>Lester Hendershot construyó un motor que corría sobre nada sino el campo magnético de la Tierra. Funcionarios militares lo vieron funcionar. Reporteros escribieron sobre él. Y entonces fue quitado de él, fue silenciado, y el mundo olvidó. Pero el campo magnético de la Tierra no ha cambiado. La energía sigue ahí. La verdad sigue ahí. Y algún día, los supresores perderán su agarre — y el mundo finalmente será libre.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Motor sin Combustible de Lester Hendershot: Energía Libre Suprimida"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Lester Hendershot construyó un motor sin combustible presenciado por funcionarios militares. El dispositivo funcionó, Hendershot fue silenciado, y la energía libre fue suprimida de nuevo."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-27T10:00:00Z","children":"27 de diciembre de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","hendershot",{"href":"/es/tag/hendershot/","className":"tag-pill","children":["#","hendershot"]}],["$","a","fuelless-motor",{"href":"/es/tag/fuelless-motor/","className":"tag-pill","children":["#","fuelless-motor"]}],["$","a","free-energy",{"href":"/es/tag/free-energy/","className":"tag-pill","children":["#","free-energy"]}],["$","a","energy-suppression",{"href":"/es/tag/energy-suppression/","className":"tag-pill","children":["#","energy-suppression"]}],["$","a","alternative-technology",{"href":"/es/tag/alternative-technology/","className":"tag-pill","children":["#","alternative-technology"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/lester-hendershot-fuelless-motor/","title":"Motor sin Combustible de Lester Hendershot: Energía Libre Suprimida"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/lester-hendershot-fuelless-motor/","title":"Motor sin Combustible de Lester Hendershot: Energía Libre Suprimida"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Motor sin Combustible de Lester Hendershot: Energía Libre Suprimida | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Lester Hendershot construyó un motor sin combustible presenciado por funcionarios militares. El dispositivo funcionó, Hendershot fue silenciado, y la energía libre fue suprimida de nuevo."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"hendershot, fuelless-motor, free-energy, energy-suppression, alternative-technology"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/lester-hendershot-fuelless-motor/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/lester-hendershot-fuelless-motor/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/lester-hendershot-fuelless-motor/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/lester-hendershot-fuelless-motor/"}],["$","meta","10",{"property":"og:title","content":"Motor sin Combustible de Lester Hendershot: Energía Libre Suprimida"}],["$","meta","11",{"property":"og:description","content":"Lester Hendershot construyó un motor sin combustible presenciado por funcionarios militares. El dispositivo funcionó, Hendershot fue silenciado, y la energía libre fue suprimida de nuevo."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/lester-hendershot-fuelless-motor/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/lester-hendershot-fuelless-motor.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Motor sin Combustible de Lester Hendershot: Energía Libre Suprimida"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Motor sin Combustible de Lester Hendershot: Energía Libre Suprimida"}],["$","meta","25",{"name":"twitter:description","content":"Lester Hendershot construyó un motor sin combustible presenciado por funcionarios militares. El dispositivo funcionó, Hendershot fue silenciado, y la energía libre fue suprimida de nuevo."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/lester-hendershot-fuelless-motor.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

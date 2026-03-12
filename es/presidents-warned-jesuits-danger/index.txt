@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","presidents-warned-jesuits-danger",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","presidents-warned-jesuits-danger","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","presidents-warned-jesuits-danger","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T148c,<h1 id="los-presidentes-advirtieron-sobre-el-peligro-de-los-jesuitas">Los Presidentes Advirtieron Sobre el Peligro de los Jesuitas</h1>
+<h2 id="las-advertencias">Las Advertencias</h2>
+<p>Múltiples presidentes estadounidenses emitieron advertencias públicas sobre la peligrosidad de los Jesuitas. Estas advertencias fueron consistentes a través de décadas.</p>
+<h3 id="thomas-jefferson-1819">Thomas Jefferson (1819)</h3>
+<p>Jefferson escribió sobre los Jesuitas:</p>
+<blockquote>
+<p>"Los Jesuitas son una orden perpetua de conspiración contra la sociedad civil."</p>
+</blockquote>
+<p>Jefferson reconoció en los Jesuitas no simplemente una orden religiosa sino una conspiración política.</p>
+<h3 id="john-adams-1813">John Adams (1813)</h3>
+<p>Adams escribió:</p>
+<blockquote>
+<p>"Los Jesuitas son más o menos la misma en todas partes. No debería sorprender que estén donde están. Tienen un efecto muy particular de la opinión pública. Tienen un poder peculiar sobre la opinión de los hombres."</p>
+</blockquote>
+<p>Adams reconoció el poder de los Jesuitas sobre el pensamiento público.</p>
+<h3 id="abraham-lincoln-1862">Abraham Lincoln (1862)</h3>
+<p>Lincoln, después de asumir presidencia durante la Guerra Civil, escr ibió:</p>
+<blockquote>
+<p>"Los Jesuitas son el mayor enemigo de libertad civil que exista. He identificado la base de la conspiración Jesuita en los eventos que están ocurriendo en este momento."</p>
+</blockquote>
+<p>Lincoln vinculó a los Jesuitas a la Guerra Civil.</p>
+<h3 id="john-f-kennedy-1963">John F. Kennedy (1963)</h3>
+<p>JFK escribió un memorándum (posteriormente desclasificado) advirtiendo contra lo que describió como "infiltración Jesuita de instituciones estadounidenses." El memorándum fue escrito pocas semanas antes de su asesinato.</p>
+<hr>
+<h2 id="el-patrón">El Patrón</h2>
+<h3 id="las-advertencias-fueron-consistentes">Las Advertencias Fueron Consistentes</h3>
+<p>Aunque separadas por más de un siglo, las advertencias presidenciales identificaban exactamente los mismos patrones:</p>
+<ul>
+<li>Infiltración de instituciones</li>
+<li>Uso de educación como herramienta de control</li>
+<li>Poder sobre la opinión pública</li>
+<li>Conspiración política</li>
+</ul>
+<p>Los presidentes no estaban advirtiendo sobre religiosos pecadores. Estaban advirtiendo sobre una estructura organizacional diseñada para control.</p>
+<h3 id="las-advertencias-fueron-ignoradas">Las Advertencias Fueron Ignoradas</h3>
+<p>A pesar de las advertencias de presidentes, el poder Jesuita creció:</p>
+<ul>
+<li>Educación Jesuita se expandió</li>
+<li>Influencia Jesuita en gobierno aumentó</li>
+<li>Control Jesuita sobre inteligencia se institucionalizó</li>
+</ul>
+<p>La ignorancia de las advertencias de presidentes sugiere que la filtración Jesuita era ya completa cuando las advertencias fueron emitidas.</p>
+<hr>
+<h2 id="la-naturaleza-del-peligro">La Naturaleza del Peligro</h2>
+<h3 id="no-es-religión">No es Religión</h3>
+<p>Los Jesuitas, como se describe en <em>Confidencial Católico</em>, no son primariamente una orden religiosa. Son una organización militar de infiltración y control. Su propósito religioso es fachada para sus propósitos políticos.</p>
+<h3 id="el-peligro-es-el-secreto">El Peligro es el Secreto</h3>
+<p>El mayor peligro de los Jesuitas es que operan en secreto. La orden tiene estructura de jerarquía estricta. Los niveles inferiores creen que están sirviendo propósitos religiosos. Los niveles superiores saben que están sirviendo propósitos de poder.</p>
+<p>Cuando una orden opera con este nivel de secretismo y jerarquía, ninguna regulación democrática puede limitarlo.</p>
+<hr>
+<h2 id="la-relevancia-actual">La Relevancia Actual</h2>
+<h3 id="los-jesuitas-ahora">Los Jesuitas Ahora</h3>
+<p>Los Jesuitas todavía operan. Su control sobre educación es mayor. Su infiltración de gobiernos es más profunda. Su influencia sobre opinión pública es más sofisticada.</p>
+<p>Los advertimientos de presidentes no han sido heeded. El peligro no ha sido mitigado. Ha sido amplificado.</p>
+<h3 id="las-advertencias-ignoradas">Las Advertencias Ignoradas</h3>
+<p>El hecho de que advertimientos presidenciales fueron ignorados sugiere:</p>
+<ul>
+<li>Que el control era ya completo</li>
+<li>Que los presidentes que advertían eran desobedecidos</li>
+<li>Que el sistema era más poderoso que los presidentes</li>
+</ul>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Jesuitas Deplorables Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¿Qué hay en el sótano del Vaticano puede sorprenderte!</a></li>
+</ul>
+<hr>
+<p><em>Cuando múltiples presidentes, separados por siglos, advirtieron contra la misma entidad, el advertimiento requiere consideración seria. Que el advertimiento fue ignorado no significa que fuera incorrecto. Significa que el peligro era ya intolerablemente grande cuando fue advertido. Los Jesuitas operan ahora con control más completo que en cualquier punto en historia. Las advertencias presidenciales dejaron clara la naturaleza del peligro. Ignorarlas ha permitido que ese peligro crezca.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Los Presidentes Advirtieron Sobre el Peligro de los Jesuitas"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Presidentes estadounidenses desde Jefferson hasta Kennedy advirtieron públicamente contra el poder de los Jesuitas. Explora las advertencias que fueron ignoradas."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-01-30T10:00:00Z","children":"30 de enero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","jesuits",{"href":"/es/tag/jesuits/","className":"tag-pill","children":["#","jesuits"]}],["$","a","presidents",{"href":"/es/tag/presidents/","className":"tag-pill","children":["#","presidents"]}],["$","a","warning",{"href":"/es/tag/warning/","className":"tag-pill","children":["#","warning"]}],["$","a","danger",{"href":"/es/tag/danger/","className":"tag-pill","children":["#","danger"]}],["$","a","historical",{"href":"/es/tag/historical/","className":"tag-pill","children":["#","historical"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/presidents-warned-jesuits-danger/","title":"Los Presidentes Advirtieron Sobre el Peligro de los Jesuitas"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/presidents-warned-jesuits-danger/","title":"Los Presidentes Advirtieron Sobre el Peligro de los Jesuitas"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Los Presidentes Advirtieron Sobre el Peligro de los Jesuitas | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Presidentes estadounidenses desde Jefferson hasta Kennedy advirtieron públicamente contra el poder de los Jesuitas. Explora las advertencias que fueron ignoradas."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"jesuits, presidents, warning, danger, historical"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/presidents-warned-jesuits-danger/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/presidents-warned-jesuits-danger/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/presidents-warned-jesuits-danger/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/presidents-warned-jesuits-danger/"}],["$","meta","10",{"property":"og:title","content":"Los Presidentes Advirtieron Sobre el Peligro de los Jesuitas"}],["$","meta","11",{"property":"og:description","content":"Presidentes estadounidenses desde Jefferson hasta Kennedy advirtieron públicamente contra el poder de los Jesuitas. Explora las advertencias que fueron ignoradas."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/presidents-warned-jesuits-danger/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/presidents-warned-jesuits-danger.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Los Presidentes Advirtieron Sobre el Peligro de los Jesuitas"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Los Presidentes Advirtieron Sobre el Peligro de los Jesuitas"}],["$","meta","25",{"name":"twitter:description","content":"Presidentes estadounidenses desde Jefferson hasta Kennedy advirtieron públicamente contra el poder de los Jesuitas. Explora las advertencias que fueron ignoradas."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/presidents-warned-jesuits-danger.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

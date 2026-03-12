@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","first-increase-infant-deaths-2022",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","first-increase-infant-deaths-2022","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","first-increase-infant-deaths-2022","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3986,<h1 id="2022-was-the-first-increase-in-infant-deaths-in-decades">2022 Was The First Increase in Infant Deaths in Decades</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive." — Exodus 1:22</p>
+</blockquote>
+<p>The state-ordered killing of infants is an ancient pattern. Pharaoh targeted Hebrew baby boys to break the bloodline from which the Deliverer would come. Herod slaughtered the infants of Bethlehem to destroy the Messiah. The killing of the innocents is always couched in institutional language — public safety, national security, disease prevention — but the result is always the same: children die, and the state bears no consequence.</p>
+<p>In 2022, for the first time in decades, the infant mortality rate in the United States increased. This reversal of a long-standing downward trend occurred in the same year that COVID-19 mRNA vaccines were authorized for children as young as six months and in the period following mass vaccination of pregnant women. The coincidence demands investigation. The silence demands explanation.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/es/107-Stem_Cell_Harvesting.mp4">Stem Cell Harvesting</a> exposes the exploitation of the most vulnerable. And the Confliction track <a href="https://confliction.zzzdaily.com/tracks/es/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> speaks to the life that was meant to flow from generation to generation without interruption.</p>
+<hr>
+<h2 id="the-data-what-the-numbers-show">The Data: What the Numbers Show</h2>
+<h3 id="the-historical-trend">The Historical Trend</h3>
+<p>The U.S. infant mortality rate has been declining for decades:</p>
+<ul>
+<li><strong>1980:</strong> 12.6 deaths per 1,000 live births</li>
+<li><strong>1990:</strong> 9.2 per 1,000</li>
+<li><strong>2000:</strong> 6.9 per 1,000</li>
+<li><strong>2010:</strong> 6.1 per 1,000</li>
+<li><strong>2020:</strong> 5.4 per 1,000</li>
+<li><strong>2021:</strong> 5.4 per 1,000</li>
+</ul>
+<p>This steady decline reflected genuine improvements in neonatal care, prenatal medicine, nutrition, and public health infrastructure. The decline was so consistent that it was considered one of the most reliable positive health trends in American statistics.</p>
+<h3 id="the-2022-reversal">The 2022 Reversal</h3>
+<p>In 2022, the infant mortality rate increased — breaking a decades-long downward trend. The increase was statistically significant and was noted by the CDC's National Center for Health Statistics (NCHS) in its annual mortality report.</p>
+<p>Key observations:</p>
+<ul>
+<li><strong>The increase was across multiple categories</strong> — not limited to a single cause of death, race, or region</li>
+<li><strong>Neonatal deaths (0-27 days)</strong> and <strong>postneonatal deaths (28-364 days)</strong> both showed concerning trends</li>
+<li><strong>Certain cause-of-death categories</strong> showed particular increases, including congenital anomalies, sudden infant death, and complications of pregnancy</li>
+<li><strong>The increase coincided temporally</strong> with the widespread vaccination of pregnant women (throughout 2021-2022) and the authorization of COVID-19 vaccines for infants and young children (June 2022)</li>
+</ul>
+<h3 id="what-changed-in-2022">What Changed in 2022?</h3>
+<p>The factors that historically drive infant mortality improvements — neonatal intensive care, prenatal care access, nutrition — did not deteriorate in 2022. Medical technology continued to advance. Prenatal care remained available. Nutrition programs continued.</p>
+<p>What changed was the introduction of novel medical products into the reproductive and pediatric population:</p>
+<ol>
+<li><strong>Mass vaccination of pregnant women</strong> with mRNA COVID-19 vaccines throughout 2021 and 2022</li>
+<li><strong>Authorization of mRNA COVID-19 vaccines for children 6 months and older</strong> in June 2022</li>
+<li><strong>Continued exposure of pregnant women and infants to spike protein</strong> through direct vaccination and shedding</li>
+<li><strong>The addition of COVID-19 vaccines to the childhood immunization schedule</strong> in October 2022</li>
+</ol>
+<hr>
+<h2 id="the-kingston-report-connecting-vaccination-to-infant-mortality">The Kingston Report: Connecting Vaccination to Infant Mortality</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> connects the 2022 infant mortality increase to the biological mechanisms documented across her body of work.</p>
+<h3 id="maternal-vaccination-and-fetal-harm">Maternal Vaccination and Fetal Harm</h3>
+<p>Kingston has documented multiple pathways by which maternal vaccination with mRNA products can harm the developing fetus:</p>
+<p><strong>Spike protein crosses the placenta.</strong> Published research has detected spike protein in placental tissue and in the fetal circulation of vaccinated mothers. The fetus is directly exposed to a toxic protein that suppresses p53, damages ACE2-expressing tissues, and triggers inflammatory responses.</p>
+<p><strong>Anti-spike antibodies cross-react with placental proteins.</strong> As documented in <a href="/spike-antibodies-fetal-deaths/?lang=es">Spike Protein ANTIBODIES Increase Fetal Deaths</a>, antibodies generated by vaccination cross-react with syncytin-1 and other essential placental proteins, damaging the organ that sustains fetal life.</p>
+<p><strong>LNPs accumulate in the ovaries.</strong> Lipid nanoparticles concentrate in ovarian tissue, potentially affecting oocyte development and early embryonic survival.</p>
+<p><strong>Immune activation during pregnancy increases miscarriage risk.</strong> The inflammatory immune response triggered by mRNA vaccination can shift the maternal immune profile from tolerogenic (required for healthy pregnancy) to inflammatory (associated with pregnancy complications).</p>
+<h3 id="congenital-anomalies">Congenital Anomalies</h3>
+<p>The 2022 data showed increases in deaths from congenital anomalies — birth defects. Kingston has connected this to:</p>
+<ul>
+<li>Spike protein exposure during critical periods of organogenesis (the first trimester, when major organs are forming)</li>
+<li>Lipid nanoparticle distribution to embryonic tissue</li>
+<li>DNA contamination (including SV40 promoter sequences) in mRNA vaccine vials, which could theoretically integrate into the embryonic genome during the period of rapid cell division</li>
+<li>Immune-mediated damage to developing organ systems</li>
+</ul>
+<h3 id="sids-signal">SIDS Signal</h3>
+<p>The data also showed concerns regarding sudden infant death — the unexplained death of otherwise healthy infants. Kingston has documented the temporal clustering of SIDS around vaccination dates and the plausibility of vaccine-induced neurological events (particularly brainstem inflammation affecting respiratory control) as a mechanism for sudden infant death.</p>
+<hr>
+<h2 id="the-institutional-silence">The Institutional Silence</h2>
+<h3 id="what-the-cdc-did-not-say">What the CDC Did Not Say</h3>
+<p>The CDC's reporting on the 2022 infant mortality increase was notable for what it did not discuss:</p>
+<ul>
+<li><strong>No mention of COVID-19 vaccination as a potential contributing factor</strong> — despite the temporal coincidence and the known biological mechanisms</li>
+<li><strong>No investigation into maternal vaccination status</strong> of mothers whose infants died — the basic question of whether infant death rates differed between vaccinated and unvaccinated mothers was not addressed</li>
+<li><strong>No stratification by infant vaccination status</strong> — whether infants who received COVID-19 vaccines had different mortality rates than those who did not was not reported</li>
+<li><strong>No investigation of the SIDS clustering</strong> around vaccination dates</li>
+</ul>
+<p>The absence of these analyses is itself evidence. The CDC — the agency charged with monitoring the safety of vaccines — did not investigate whether vaccines contributed to the first increase in infant mortality in decades. The only possible explanation is that the agency did not want the answer.</p>
+<h3 id="the-pharaoh-pattern">The Pharaoh Pattern</h3>
+<p>The institutional silence mirrors the Pharaoh pattern: the state acts in ways that kill children, and the state does not investigate its own actions. Pharaoh did not commission a study on the effectiveness of drowning Hebrew infants. The institution that causes the harm does not investigate the cause — because the investigation would implicate the institution.</p>
+<hr>
+<h2 id="the-biblical-perspective-the-blood-cries-out">The Biblical Perspective: The Blood Cries Out</h2>
+<h3 id="abels-blood">Abel's Blood</h3>
+<blockquote>
+<p>"And the LORD said unto Cain, What hast thou done? the voice of thy brother's blood crieth unto me from the ground." — Genesis 4:10</p>
+</blockquote>
+<p>The blood of the innocents cries out. Every infant who died in 2022 — every death that could have been prevented if the truth about vaccine risks had been told, if pregnant women had been warned, if the schedule had been questioned — those deaths cry out from the ground to the God who hears all blood.</p>
+<p>The blood covenant between parent and child — the sacred transmission of life from one generation to the next — was corrupted by pharmaceutical products injected into the bloodstream. The blood that should have carried life instead carried spike protein, lipid nanoparticles, and the immune confusion generated by mRNA technology.</p>
+<h3 id="leviticus-1711">Leviticus 17:11</h3>
+<p>"For the life of the flesh is in the blood." When the blood is corrupted — when it carries foreign proteins, when it triggers antibodies that attack placental tissue, when it distributes nanoparticles to reproductive organs — the life of the flesh is diminished. The 2022 infant mortality increase is the statistical expression of this corruption: fewer infants surviving to their first birthday because the blood covenant was compromised.</p>
+<hr>
+<h2 id="what-parents-and-families-should-know">What Parents and Families Should Know</h2>
+<ol>
+<li><strong>2022 was the first increase in U.S. infant mortality in decades</strong> — a reversal of one of the most reliable positive health trends.</li>
+<li><strong>The increase coincided with mass vaccination of pregnant women</strong> and the authorization of mRNA vaccines for infants.</li>
+<li><strong>The CDC did not investigate</strong> whether vaccination contributed to the increase.</li>
+<li><strong>Documented mechanisms exist</strong> by which maternal vaccination can harm the developing fetus and newborn.</li>
+<li><strong>Congenital anomalies and sudden infant death</strong> both showed concerning trends in the data.</li>
+<li><strong>Parents have the right to comprehensive information</strong> about any product administered to their child or during pregnancy.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of infant mortality data and vaccine mechanisms.</li>
+<li>CDC/NCHS infant mortality data and annual reports</li>
+<li>Published research on spike protein in placental tissue and fetal circulation</li>
+<li>Pfizer biodistribution study (Japanese PMDA)</li>
+<li>VAERS infant adverse event reports</li>
+<li>Published research on vaccine-associated SIDS temporal clustering</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/107-Stem_Cell_Harvesting.mp4">Stem Cell Harvesting</a> — The exploitation of the most vulnerable</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The system targeting children</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/179-Engineering_Contagion.mp4">Engineering Contagion</a> — Engineered harm</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> — The life that was meant to flow uninterrupted</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — The blood covenant under assault</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/spike-antibodies-fetal-deaths/?lang=es">Spike Protein ANTIBODIES Increase Fetal Deaths</a> — How antibodies harm the unborn</li>
+<li><a href="/pfizer-denies-birth-defects/?lang=es">Pfizer Denies Significant Increased Rate of Birth Defects</a> — Pfizer's denial</li>
+<li><a href="/vaccines-infant-deaths-impossible/?lang=es">Why It's NOT Possible for Vaccines to Not Cause Infant Deaths</a> — The immunological impossibility</li>
+<li><a href="/infant-deaths-measles-vaccines/?lang=es">What Moms Should Know About Infant Deaths From Measles Vaccines</a> — Documented MMR deaths</li>
+</ul>
+<hr>
+<p><em>For the first time in decades, more babies died. The trend line that had pointed downward for generations reversed — in the very year that novel genetic products were injected into pregnant women and infants. The institution did not investigate. The institution did not ask why. But the blood of every lost infant cries from the ground, and the God who hears that blood does not need the CDC's investigation to know the cause. "Shall not the Judge of all the earth do right?" (Genesis 18:25). He shall. And He will.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"2022 Was The First Increase in Infant Deaths in Decades"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"For the first time in decades, infant mortality increased in 2022, coinciding with mass COVID-19 vaccination of pregnant women and the expanded pediatric schedule."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-28T10:00:00Z","children":"28 de abril de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","infant-mortality",{"href":"/es/tag/infant-mortality/","className":"tag-pill","children":["#","infant-mortality"]}],["$","a","2022",{"href":"/es/tag/2022/","className":"tag-pill","children":["#","2022"]}],["$","a","COVID-19-vaccines",{"href":"/es/tag/COVID-19-vaccines/","className":"tag-pill","children":["#","COVID-19-vaccines"]}],["$","a","pregnancy",{"href":"/es/tag/pregnancy/","className":"tag-pill","children":["#","pregnancy"]}],["$","a","SIDS",{"href":"/es/tag/SIDS/","className":"tag-pill","children":["#","SIDS"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/first-increase-infant-deaths-2022/","title":"2022 Was The First Increase in Infant Deaths in Decades"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/first-increase-infant-deaths-2022/","title":"2022 Was The First Increase in Infant Deaths in Decades"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"2022 Was The First Increase in Infant Deaths in Decades | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"For the first time in decades, infant mortality increased in 2022, coinciding with mass COVID-19 vaccination of pregnant women and the expanded pediatric schedule."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"infant-mortality, 2022, COVID-19-vaccines, pregnancy, SIDS"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/first-increase-infant-deaths-2022/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/first-increase-infant-deaths-2022/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/first-increase-infant-deaths-2022/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/first-increase-infant-deaths-2022/"}],["$","meta","10",{"property":"og:title","content":"2022 Was The First Increase in Infant Deaths in Decades"}],["$","meta","11",{"property":"og:description","content":"For the first time in decades, infant mortality increased in 2022, coinciding with mass COVID-19 vaccination of pregnant women and the expanded pediatric schedule."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/first-increase-infant-deaths-2022/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/first-increase-infant-deaths-2022.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"2022 Was The First Increase in Infant Deaths in Decades"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"2022 Was The First Increase in Infant Deaths in Decades"}],["$","meta","25",{"name":"twitter:description","content":"For the first time in decades, infant mortality increased in 2022, coinciding with mass COVID-19 vaccination of pregnant women and the expanded pediatric schedule."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/first-increase-infant-deaths-2022.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","nano-microplastics-brains",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","nano-microplastics-brains","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","nano-microplastics-brains","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4a39,<h1 id="unbelievable-amounts-of-nano-microplastics-found-in-human-brains">Unbelievable Amounts Of Nano Microplastics Found In Human Brains</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And be not conformed to this world: but be ye transformed by the renewing of your mind." — Romans 12:2</p>
+</blockquote>
+<p>The mind is the battlefield. Scripture repeatedly identifies the mind — the seat of thought, reason, discernment, and decision — as the primary target of spiritual warfare and the primary instrument of spiritual transformation. A renewed mind is the key to non-conformity with a fallen world. A corrupted mind is the mechanism of conformity to it. If the enemy can compromise the organ through which the mind operates — the brain — he can compromise the capacity for the very renewal that Scripture commands.</p>
+<p>Research has now revealed that human brains contain unprecedented quantities of nano and microplastics — synthetic polymer particles that have no place in the most complex and sensitive organ in creation. These are not trace amounts. The concentrations found are staggering, measured in micrograms per gram of brain tissue, and they are increasing over time. The organ God designed for consciousness, for communion with Him, for the exercise of dominion over creation, is being saturated with the waste products of a synthetic civilization.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/es/95-The_Valley_of_Death.mp4">The Valley of Death</a> speaks to the passage through suffering and shadow — and the plastic particles accumulating in the brain cast a shadow over cognition itself. <a href="https://confliction.zzzdaily.com/tracks/es/105-The_Second_Adam.mp4">The Second Adam</a> points to the restoration of everything the first Adam's fall corrupted — including the brain now contaminated by the products of fallen civilization.</p>
+<hr>
+<h2 id="the-research-findings">The Research Findings</h2>
+<h3 id="quantities-that-defy-expectation">Quantities That Defy Expectation</h3>
+<p>Recent research examining post-mortem human brain tissue has revealed microplastic concentrations that have shocked even the researchers conducting the studies. The quantities found in brain tissue are:</p>
+<ul>
+<li><strong>Significantly higher than in other organs</strong> — brain tissue contains more microplastics per gram than liver or kidney tissue, despite the blood-brain barrier that is supposed to protect the brain from foreign particles</li>
+<li><strong>Increasing over time</strong> — comparison of brain samples from different decades shows a dramatic increase in microplastic concentration, with samples from recent years containing substantially more plastic than samples from the 2000s or earlier</li>
+<li><strong>Dominated by nanoplastics</strong> — the smaller the particle, the higher the concentration. Nanoplastics (particles smaller than 1 micrometer) make up the majority of the plastic burden in brain tissue, indicating that the smallest particles are the most capable of crossing the blood-brain barrier</li>
+</ul>
+<h3 id="types-of-plastics-found">Types of Plastics Found</h3>
+<p>The most common plastic types identified in brain tissue include:</p>
+<ul>
+<li><strong>Polyethylene (PE)</strong> — the most widely produced plastic in the world, used in packaging, bags, bottles, and countless other products</li>
+<li><strong>Polypropylene (PP)</strong> — used in food containers, medical devices, textiles</li>
+<li><strong>Polystyrene (PS)</strong> — used in food packaging, disposable cups, insulation</li>
+<li><strong>Polyethylene terephthalate (PET)</strong> — used in beverage bottles, food containers, synthetic fabrics</li>
+<li><strong>Polyvinyl chloride (PVC)</strong> — used in construction materials, medical tubing, packaging</li>
+<li><strong>Nylon</strong> — used in textiles, fishing nets, industrial applications</li>
+</ul>
+<p>These are not exotic or unusual plastics. They are the common plastics of everyday life — the materials that surround modern humans from birth to death, that package their food, clothe their bodies, furnish their homes, and now, as research confirms, infiltrate their brains.</p>
+<h3 id="how-they-get-there">How They Get There</h3>
+<p>Nano and microplastics reach the brain through multiple pathways:</p>
+<p><strong>Ingestion:</strong> Humans ingest an estimated 5 grams of plastic per week — equivalent to a credit card. Plastic particles in food and water are absorbed through the intestinal wall, enter the bloodstream, and reach the brain via blood circulation. Nanoplastics are small enough to cross the blood-brain barrier directly.</p>
+<p><strong>Inhalation:</strong> Airborne microplastic fibers — shed from synthetic textiles, tires, and degrading plastic waste — are inhaled continuously. Research has confirmed microplastics in human lung tissue. From the lungs, particles enter the bloodstream and eventually reach the brain. Additionally, the olfactory pathway (the nerve that carries smell signals from the nose to the brain) provides a direct route from inhaled particles to brain tissue, bypassing the blood-brain barrier entirely.</p>
+<p><strong>Dermal absorption:</strong> Nanoplastics can penetrate the skin, particularly when facilitated by cosmetics, sunscreens, and personal care products that contain microplastic ingredients (polyethylene microbeads, silicone polymers).</p>
+<p><strong>Medical exposure:</strong> Intravenous fluids, blood products, and medications packaged in plastic containers can introduce microplastics directly into the bloodstream.</p>
+<h2 id="the-neurological-consequences">The Neurological Consequences</h2>
+<p>Ana Mihalcea, MD, PhD has documented on her Substack (<a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a>) the relationship between environmental contaminants and blood quality. While her primary focus is nanotechnology, her work contextualizes microplastic contamination within a broader framework of blood corruption — a framework where heavy metals, nanoplastics, and self-assembling nanotechnology interact synergistically to degrade the covenant substance that carries life.</p>
+<h3 id="neuroinflammation">Neuroinflammation</h3>
+<p>Microplastics in brain tissue trigger inflammatory responses from microglia — the brain's immune cells. Activated microglia release inflammatory cytokines and reactive oxygen species that damage surrounding neural tissue. Chronic neuroinflammation is the common mechanism underlying:</p>
+<ul>
+<li>Alzheimer's disease</li>
+<li>Parkinson's disease</li>
+<li>Multiple sclerosis</li>
+<li>Cognitive decline</li>
+<li>Depression and anxiety</li>
+<li>Chronic fatigue</li>
+</ul>
+<p>The presence of microplastics in brain tissue creates a persistent inflammatory stimulus — the particles cannot be degraded by the body's enzymes, so the inflammation never resolves. This chronic, low-grade neuroinflammation degrades brain function over time.</p>
+<h3 id="oxidative-stress">Oxidative Stress</h3>
+<p>Nanoplastics generate reactive oxygen species (ROS) at the cellular level. When this occurs in neural tissue, the oxidative damage affects:</p>
+<ul>
+<li>Cell membranes — disrupting neural signaling</li>
+<li>Mitochondria — reducing cellular energy production (the brain consumes 20% of total body energy)</li>
+<li>DNA — causing mutations and impaired gene expression</li>
+<li>Proteins — disrupting the enzymatic processes essential for neurotransmitter synthesis and neural function</li>
+</ul>
+<h3 id="blood-brain-barrier-disruption">Blood-Brain Barrier Disruption</h3>
+<p>The very process by which nanoplastics cross the blood-brain barrier damages the barrier itself. Research has shown that nanoplastic exposure:</p>
+<ul>
+<li>Loosens tight junctions between brain endothelial cells</li>
+<li>Increases BBB permeability</li>
+<li>Allows other contaminants (heavy metals, environmental toxins, nanotechnology) to cross more easily</li>
+</ul>
+<p>This means that microplastic contamination of the brain is self-amplifying — once the BBB is compromised by initial plastic exposure, it becomes easier for additional contaminants to enter, further increasing brain contamination.</p>
+<h3 id="endocrine-disruption-in-the-brain">Endocrine Disruption in the Brain</h3>
+<p>Microplastics leach endocrine-disrupting chemicals — BPA, phthalates, and other plastic additives — directly into brain tissue. These chemicals mimic or block hormones that are essential for brain function:</p>
+<ul>
+<li><strong>Estrogen mimicry</strong> — BPA and other xenoestrogens can disrupt the delicate hormonal balance in the brain, affecting mood, cognition, and behavior</li>
+<li><strong>Thyroid disruption</strong> — thyroid hormones are essential for brain development and function; plastic-derived endocrine disruptors interfere with thyroid signaling in neural tissue</li>
+<li><strong>Dopamine and serotonin disruption</strong> — endocrine disruptors can alter neurotransmitter production and receptor sensitivity, contributing to mood disorders and cognitive dysfunction</li>
+</ul>
+<h3 id="protein-misfolding">Protein Misfolding</h3>
+<p>Research suggests that nanoplastics may serve as nucleation sites for protein misfolding — the pathological process that underlies Alzheimer's disease (amyloid beta plaques), Parkinson's disease (alpha-synuclein aggregation), and prion diseases. If nanoplastic particles in brain tissue trigger or accelerate protein misfolding, they may be directly contributing to the epidemic of neurodegenerative disease.</p>
+<h2 id="the-dome-and-the-plastic-age">The Dome and the Plastic Age</h2>
+<p>Under the firmament — the dome described in Genesis 1 as the structure separating the waters above from the waters below — humanity has created a synthetic civilization. Plastic was virtually nonexistent before 1950. In the 75 years since, humanity has produced over 10 billion metric tons of plastic, most of which still exists in some form in the environment. Under the dome, there is no "away." Every plastic particle produced remains within the enclosed system, breaking down into smaller and smaller fragments but never disappearing.</p>
+<p>The firmament — strong as a cast metal mirror (Job 37:18) — ensures that the contamination has nowhere to go but into the soil, the water, the air, the food chain, and ultimately, into the bodies and brains of every living creature under the dome. The fallen angels imprisoned beneath this structure — the entities that drive the corruption of God's creation — work through human systems to produce and distribute the materials that contaminate the world they share with us.</p>
+<p>Plastic is the perfect corruption agent under the dome: it is cheap to produce, universally distributed, resistant to degradation, and small enough in its nanoscale fragments to penetrate every biological barrier — including the one God placed around the brain. The Prince of the Air (Ephesians 2:2) operates beneath the firmament, and the air itself now carries the plastic particles that invade the organ of consciousness.</p>
+<h2 id="the-great-delusion-and-the-contaminated-mind">The Great Delusion and the Contaminated Mind</h2>
+<p>When 2 Thessalonians 2:9-12 describes the great delusion — a deception so complete that people believe a lie — it describes a condition of the mind. Delusion is cognitive. It operates through the brain. And if the brain itself is contaminated with substances that cause neuroinflammation, oxidative damage, endocrine disruption, and protein misfolding, the physical capacity for clear thinking and spiritual discernment is materially degraded.</p>
+<p>The contamination of the brain with microplastics may be part of the mechanism by which the great delusion operates. Not the spiritual component — which is the direct work of God upon those who refuse to love the truth — but the physical substrate. A brain under chronic inflammatory stress, bathed in endocrine-disrupting chemicals, accumulating protein misfolding pathology, is not a brain well-equipped for the discernment of truth from deception.</p>
+<p>The correlation between the exponential increase in brain plastic contamination and the exponential increase in societal deception is not proof of causation. But it is consistent with a coordinated assault — spiritual and physical simultaneously — on the organ through which humans perceive reality and commune with God.</p>
+<h2 id="what-can-be-done">What Can Be Done</h2>
+<h3 id="reduce-exposure">Reduce Exposure</h3>
+<ul>
+<li>Eliminate plastic food and water containers — use glass, stainless steel, ceramic</li>
+<li>Filter drinking water with systems capable of nanoplastic removal (reverse osmosis)</li>
+<li>Choose natural fiber clothing (cotton, wool, linen) over synthetic fabrics (polyester, nylon, acrylic)</li>
+<li>Avoid processed foods in plastic packaging</li>
+<li>Use natural personal care products free of microplastic ingredients</li>
+<li>Minimize time in high-traffic areas where tire and road dust (major microplastic sources) are concentrated</li>
+</ul>
+<h3 id="support-brain-detoxification">Support Brain Detoxification</h3>
+<ul>
+<li><strong>Autophagy support</strong> — intermittent fasting triggers autophagy, the cellular self-cleaning process that may help clear accumulated debris including nanoplastics</li>
+<li><strong>Omega-3 fatty acids</strong> — DHA is the primary structural fat in brain tissue; adequate DHA supports neural membrane integrity and anti-inflammatory pathways</li>
+<li><strong>Curcumin</strong> — crosses the blood-brain barrier and provides potent anti-neuroinflammatory effects</li>
+<li><strong>Lion's mane mushroom</strong> — stimulates nerve growth factor production, supporting neural repair</li>
+<li><strong>NAC (N-acetylcysteine)</strong> — supports glutathione production for antioxidant defense against plastic-induced oxidative stress</li>
+<li><strong>EDTA chelation</strong> — as documented by Dr. Mihalcea, reduces metallic nanoparticle burden that synergizes with microplastic toxicity</li>
+</ul>
+<h3 id="protect-the-blood-brain-barrier">Protect the Blood-Brain Barrier</h3>
+<ul>
+<li>Adequate vitamin D status (40-60 ng/mL or higher)</li>
+<li>Resveratrol supplementation</li>
+<li>Avoidance of BBB-disrupting substances (alcohol, certain food additives)</li>
+<li>Stress reduction (cortisol disrupts BBB integrity)</li>
+</ul>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Campen M, et al. "Microplastics in human brain tissue." Research publication, 2024</li>
+<li>Ana Mihalcea, MD, PhD — Environmental contamination and blood research: <a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a></li>
+<li>Leslie HA, et al. "Discovery and quantification of plastic particle pollution in human blood." Environment International, 2022</li>
+<li>Jenner LC, et al. "Detection of microplastics in human lung tissue." Science of the Total Environment, 2022</li>
+<li>The Master's Voice Prophecy Blog: <a href="https://themastersvoice.wordpress.com">themastersvoice.wordpress.com</a></li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/179-Engineering_Contagion.mp4">Engineering Contagion</a> — The engineered contamination of human biology</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The system that normalizes contamination</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/61-Synthetic_Biology.mp4">Synthetic Biology</a> — The merger of synthetic materials with human biology</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — Pharmaceutical contamination of the body</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/95-The_Valley_of_Death.mp4">The Valley of Death</a> — The shadow over cognition itself</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/105-The_Second_Adam.mp4">The Second Adam</a> — The restoration of all that has been corrupted</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/microplastics-health-impact/?lang=es">The Full Health Impact of Microplastics: What Science Now Reveals</a> — The comprehensive systemic effects of plastic contamination</li>
+<li><a href="/heavy-metals-microplastics-toxicity/?lang=es">Heavy Metals and Microplastics: Synergistic Toxicity Destroying Human Health</a> — How plastics and metals multiply each other's damage</li>
+<li><a href="/long-covid-post-concussion/?lang=es">Long COVID Mimics Post Concussion Syndrome: The Neural Connection</a> — Brain-level damage from multiple contamination vectors</li>
+</ul>
+<hr>
+<p><em>The brain that God designed for communion with Himself — for thought, for prayer, for discernment, for the renewal that Romans commands — is filling with plastic. Not figuratively. Literally. Micrograms per gram, increasing with every passing year, accumulating in the organ of consciousness with no natural mechanism for removal. Under the dome of the firmament, the synthetic civilization produces its waste, and that waste migrates to the most sacred physical structure in creation: the human brain. But the mind of Christ — offered to every believer through the Holy Spirit — does not operate through plastic-contaminated neurons alone. It operates through the Spirit, which no particle can block and no inflammation can suppress. The physical brain may be under siege, but the renewed mind that Scripture promises transcends the organ through which it operates. Be transformed by the renewing of your mind — not the preservation of your brain, which the enemy can contaminate, but the renewal of your mind, which only God can accomplish.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Nanopartículas y microplásticos en el cerebro humano"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Los microplásticos y las nanopartículas ahora se encuentran en el tejido cerebral humano, causando inflamación, daño neural y deterioro cognitivo."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-03T10:00:00Z","children":"3 de marzo de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","microplastics",{"href":"/es/tag/microplastics/","className":"tag-pill","children":["#","microplastics"]}],["$","a","nanoplastics",{"href":"/es/tag/nanoplastics/","className":"tag-pill","children":["#","nanoplastics"]}],["$","a","brain-contamination",{"href":"/es/tag/brain-contamination/","className":"tag-pill","children":["#","brain-contamination"]}],["$","a","neurological-damage",{"href":"/es/tag/neurological-damage/","className":"tag-pill","children":["#","neurological-damage"]}],["$","a","environmental-toxicity",{"href":"/es/tag/environmental-toxicity/","className":"tag-pill","children":["#","environmental-toxicity"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/nano-microplastics-brains/","title":"Nanopartículas y microplásticos en el cerebro humano"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/nano-microplastics-brains/","title":"Nanopartículas y microplásticos en el cerebro humano"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Nanopartículas y microplásticos en el cerebro humano | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Los microplásticos y las nanopartículas ahora se encuentran en el tejido cerebral humano, causando inflamación, daño neural y deterioro cognitivo."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"microplastics, nanoplastics, brain-contamination, neurological-damage, environmental-toxicity"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/nano-microplastics-brains/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/nano-microplastics-brains/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/nano-microplastics-brains/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/nano-microplastics-brains/"}],["$","meta","10",{"property":"og:title","content":"Nanopartículas y microplásticos en el cerebro humano"}],["$","meta","11",{"property":"og:description","content":"Los microplásticos y las nanopartículas ahora se encuentran en el tejido cerebral humano, causando inflamación, daño neural y deterioro cognitivo."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/nano-microplastics-brains/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/nano-microplastics-brains.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Nanopartículas y microplásticos en el cerebro humano"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Nanopartículas y microplásticos en el cerebro humano"}],["$","meta","25",{"name":"twitter:description","content":"Los microplásticos y las nanopartículas ahora se encuentran en el tejido cerebral humano, causando inflamación, daño neural y deterioro cognitivo."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/nano-microplastics-brains.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

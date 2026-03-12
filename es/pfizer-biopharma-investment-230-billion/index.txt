@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pfizer-biopharma-investment-230-billion",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pfizer-biopharma-investment-230-billion","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-biopharma-investment-230-billion","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T1c1b,<h1 id="inversión-biofarmacéutica-de-pfizer-de-230-mil-millones-el-dinero-detrás-del-mrna">Inversión Biofarmacéutica de Pfizer de $230 mil millones: El Dinero Detrás del mRNA</h1>
+<h2 id="el-subsidio-masivo">El Subsidio Masivo</h2>
+<p>Cuando Pfizer fue seleccionada como uno de los dos principales proveedores de la "vacuna" COVID-19, gobiernos globales no simplemente compraron producto. Invirtieron cientos de miles de millones en la infraestructura de manufactura para permitir que Pfizer produjera la inyección en escala global.</p>
+<p>Los gobiernos de Estados Unidos, Europa, Canadá, Australia, Japón, Corea del Sur y más financiaron la construcción de nuevas instalaciones de manufactura de mRNA. El total: más de $230 mil millones en inversión pública.</p>
+<p>Este no fue dinero prestado a Pfizer para construir instalaciones. Era dinero pagado directamente por gobiernos para construir la infraestructura. Cuando la infraestructura estuvo completada, Pfizer la operaba y cosechaba ganancias.</p>
+<hr>
+<h2 id="quién-pagó">Quién Pagó</h2>
+<h3 id="gobiernos-que-invirtieron-directamente">Gobiernos que Invirtieron Directamente</h3>
+<ul>
+<li><strong>Estados Unidos</strong>: $70+ mil millones en subvenciones de investigación y desarrollo, contratos de manufactura, y garantías de compra</li>
+<li><strong>Unión Europea</strong>: $100+ mil millones en subvenciones, garantías de compra, y contratos de manufactura</li>
+<li><strong>Canadá</strong>: $30+ mil millones en subvenciones e inversión</li>
+<li><strong>Reino Unido, Australia, Japón</strong>: Más de $30 mil millones combinados</li>
+</ul>
+<h3 id="instituciones-multilaterales">Instituciones Multilaterales</h3>
+<ul>
+<li><strong>Banco Mundial</strong>: Financió construcción de instalaciones en países en vías de desarrollo</li>
+<li><strong>FMI</strong>: Condicionó préstamos a países en la aceptación de mandatos de vacunación</li>
+</ul>
+<h3 id="fundaciones-privadas">Fundaciones Privadas</h3>
+<ul>
+<li><strong>Bill y Melinda Gates Foundation</strong>: Cientos de millones en subvenciones para manufactura y distribución</li>
+<li><strong>Wellcome Trust</strong>: Financiación significativa para investigación mRNA</li>
+</ul>
+<hr>
+<h2 id="qué-significó-este-dinero">Qué Significó Este Dinero</h2>
+<h3 id="infraestructura-permanente">Infraestructura Permanente</h3>
+<p>Las instalaciones de manufactura de mRNA construidas con dinero público son ahora operadas por Pfizer como activos corporativos privados. Los gobiernos que pagaron por construirlas no reciben participación en ganancias. No pueden requisar las instalaciones si Pfizer se rehúsa a producir lo que el gobierno solicita.</p>
+<p>Esta es una transferencia masiva de riqueza pública a corporaciones privadas. Los contribuyentes pagaron por la infraestructura. Las corporaciones cosechen los beneficios.</p>
+<h3 id="precedente-para-medicina-obligatoria">Precedente para Medicina Obligatoria</h3>
+<p>Más importante, la inversión en infraestructura de manufactura de mRNA estableció el precedente de que gobiernos invertirán cientos de miles de millones para crear la capacidad de manufacturar productos biológicos que pueden ser mandados a toda la población.</p>
+<p>Esto significa que cuando la próxima "vacuna" mRNA es desarrollada — para influenza, para una enfermedad futura, para "mejoramiento genético" — la infraestructura para manufacturarla a escala global está ya en lugar. Y el precedente de inversión pública y mandato de adopción está ya establecido.</p>
+<hr>
+<h2 id="el-modelo-de-captura-corporativa">El Modelo de Captura Corporativa</h2>
+<p>La inversión de $230 mil millones ilustra cómo las corporaciones capturan gobiernos:</p>
+<p><strong>Etapa 1: Promesa</strong>
+Una corporación promete una solución a una crisis global. "Nuestra tecnología resolverá la pandemia."</p>
+<p><strong>Etapa 2: Dinero Público</strong>
+Gobiernos invierten cientos de miles de millones en infraestructura para permitir que la corporación entregue a escala.</p>
+<p><strong>Etapa 3: Dependencia</strong>
+Gobiernos ahora son dependientes de la corporación. Si Pfizer se rehúsa a producir, gobiernos han invertido cientos de miles de millones en infraestructura sin valor. Si Pfizer eleva precios, gobiernos pagaron para construir exactamente la infraestructura que permite que Pfizer cobre precios más altos.</p>
+<p><strong>Etapa 4: Control</strong>
+Porque los gobiernos son dependientes, la corporación ahora tiene poder sobre gobiernos. Puede dictaminar condiciones. Puede exigir cambios de política. Puede asegurar que investigación que cuestionaría su producto sea suprimida.</p>
+<hr>
+<h2 id="las-ganancias">Las Ganancias</h2>
+<h3 id="pfizer">Pfizer</h3>
+<p>Pfizer cosechó aproximadamente $100 mil millones en ingresos de vacunas COVID en 2021-2023. El costo de manufactura es estimado en 10-20% del precio. Esto significa ganancias bruto de aproximadamente $80 mil millones.</p>
+<p>Más: Pfizer no pagó por la infraestructura de manufactura. Los gobiernos lo hicieron. Así que el costo de manufactura que Pfizer reporta no refleja el costo capital de la infraestructura. El margen de ganancia real es aún más alto.</p>
+<h3 id="otros-actores">Otros Actores</h3>
+<ul>
+<li><strong>Moderna</strong> también recibió decenas de miles de millones en inversión gubernamental</li>
+<li><strong>BioNTech</strong> fue valuado en decenas de miles de millones basado en tecnología que gobiernos financiaron</li>
+<li><strong>Distribuidores logísticos</strong> cosecharon miles de millones en contratos de distribución</li>
+<li><strong>Operadores de sitios de vacunación</strong> fueron pagados miles de millones por administración</li>
+</ul>
+<hr>
+<h2 id="la-deuda-no-pagada">La Deuda No Pagada</h2>
+<p>Cuando gobiernos invierten dinero público, esperan retornos. Pero la inversión de $230 mil millones en infraestructura de manufactura de mRNA no generó retornos para gobiernos. Generó retornos para corporaciones.</p>
+<p>Esto es una deuda no pagada al público. Los contribuyentes pagaron por la infraestructura. Las corporaciones cosecharon los beneficios. El público pagó para construir exactamente el sistema de manufactura que ahora puede ser usado para mandatos de medicina futura.</p>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="/pfizer-documents-self-amplifying/?lang=es">Documentos de Pfizer: ARN autoreplicante</a></li>
+<li><a href="/pfizer-case-government-not-interested/?lang=es">Caso de Pfizer: El Gobierno No Está Interesado</a></li>
+<li><a href="/pfizer-fraud-criminal-case/?lang=es">Fraude Criminal de Pfizer</a></li>
+</ul>
+<hr>
+<p><em>Los gobiernos invirtieron $230 mil millones en infraestructura que ahora puede ser usada para mandatos de medicina indefinida. Las corporaciones cosecharon los beneficios. Los contribuyentes pagaron. Y el precedente está establecido: cuando la próxima crisis viene, gobiernos invertirán de nuevo, corporaciones se beneficiarán de nuevo, y el público pagará de nuevo. A menos que el sistema sea rechazado completamente, este ciclo de captura corporativa continuará indefinidamente.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/pharma/","className":"category-badge","children":"pharma"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Inversión Biofarmacéutica de Pfizer de $230 mil millones: El Dinero Detrás del MRNA"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Los gobiernos globales invirtieron $230 mil millones en capacidad de manufactura de mRNA específicamente para Pfizer. Explora de dónde vino el dinero y qué significa para el futuro de la medicina obligatoria."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-01-25T10:00:00Z","children":"25 de enero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pfizer",{"href":"/es/tag/pfizer/","className":"tag-pill","children":["#","pfizer"]}],["$","a","biopharma-investment",{"href":"/es/tag/biopharma-investment/","className":"tag-pill","children":["#","biopharma-investment"]}],["$","a","mrna",{"href":"/es/tag/mrna/","className":"tag-pill","children":["#","mrna"]}],["$","a","government-funding",{"href":"/es/tag/government-funding/","className":"tag-pill","children":["#","government-funding"]}],["$","a","pharma-corruption",{"href":"/es/tag/pharma-corruption/","className":"tag-pill","children":["#","pharma-corruption"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-biopharma-investment-230-billion/","title":"Inversión Biofarmacéutica de Pfizer de $230 mil millones: El Dinero Detrás del MRNA"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-biopharma-investment-230-billion/","title":"Inversión Biofarmacéutica de Pfizer de $230 mil millones: El Dinero Detrás del MRNA"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Inversión Biofarmacéutica de Pfizer de $230 mil millones: El Dinero Detrás del MRNA | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Los gobiernos globales invirtieron $230 mil millones en capacidad de manufactura de mRNA específicamente para Pfizer. Explora de dónde vino el dinero y qué significa para el futuro de la medicina obligatoria."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pfizer, biopharma-investment, mrna, government-funding, pharma-corruption"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pfizer-biopharma-investment-230-billion/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-biopharma-investment-230-billion/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-biopharma-investment-230-billion/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-biopharma-investment-230-billion/"}],["$","meta","10",{"property":"og:title","content":"Inversión Biofarmacéutica de Pfizer de $230 mil millones: El Dinero Detrás del MRNA"}],["$","meta","11",{"property":"og:description","content":"Los gobiernos globales invirtieron $230 mil millones en capacidad de manufactura de mRNA específicamente para Pfizer. Explora de dónde vino el dinero y qué significa para el futuro de la medicina obligatoria."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pfizer-biopharma-investment-230-billion/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-biopharma-investment-230-billion.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Inversión Biofarmacéutica de Pfizer de $230 mil millones: El Dinero Detrás del MRNA"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Inversión Biofarmacéutica de Pfizer de $230 mil millones: El Dinero Detrás del MRNA"}],["$","meta","25",{"name":"twitter:description","content":"Los gobiernos globales invirtieron $230 mil millones en capacidad de manufactura de mRNA específicamente para Pfizer. Explora de dónde vino el dinero y qué significa para el futuro de la medicina obligatoria."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-biopharma-investment-230-billion.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,104 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pfizer-science-disagree-rfk",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pfizer-science-disagree-rfk","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-science-disagree-rfk","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T1374,<h1 id="pfizer-science-vs-rfk-jr-la-verdad-sobre-seguridad-de-vacunas">Pfizer Science vs. RFK Jr.: La Verdad sobre Seguridad de Vacunas</h1>
+<h2 id="el-conflicto">El Conflicto</h2>
+<p>Robert F. Kennedy Jr., abogado ambiental y figura prominente en el movimiento de seguridad de vacunas, ha presentado análisis basados en evidencia que contradicen directamente las afirmaciones de Pfizer sobre seguridad de inyecciones de mRNA.</p>
+<p>Pfizer dice: "Seguro y efectivo"</p>
+<p>RFK Jr. dice: "Datos muestran eventos adversos significativos"</p>
+<p>Ambos no pueden ser correctos. Uno está diciendo la verdad. Uno está mintiendo.</p>
+<hr>
+<h2 id="los-datos-de-rfk-jr">Los Datos de RFK Jr.</h2>
+<h3 id="análisis-de-ensayos-clínicos">Análisis de Ensayos Clínicos</h3>
+<p>RFK Jr. ha analizado los datos públicamente disponibles de ensayos clínicos de Pfizer y encontrado:</p>
+<ul>
+<li>Muertes excesivas en el grupo de inyección versus grupo control</li>
+<li>Eventos adversos graves reportados en 40-50% de los participantes</li>
+<li>Síndrome de fuga vascular — un síndrome inflamatorio agudo</li>
+<li>Miocarditis — inflamación cardíaca</li>
+</ul>
+<p>Estos hallazgos son consistentes con análisis independientes de otros científicos.</p>
+<h3 id="registros-de-vigilancia-post-comercialización">Registros de Vigilancia Post-Comercialización</h3>
+<p>Después del lanzamiento, datos de vigilancia de eventos adversos de múltiples países mostraron:</p>
+<ul>
+<li>Aumento de muertes de todas las causas en poblaciones vacunadas versus no vacunadas</li>
+<li>Aumento de inflamación cardíaca</li>
+<li>Aumento de trombosis</li>
+<li>Aumento de eventos neurológicos</li>
+</ul>
+<p>RFK Jr. ha documentado estos datos.</p>
+<hr>
+<h2 id="la-respuesta-de-pfizer">La Respuesta de Pfizer</h2>
+<h3 id="esto-es-anticiencia">"Esto es Anticiencia"</h3>
+<p>La respuesta de Pfizer y sus defensores es catalogar cualquier cuestionamiento como "anticiencia."</p>
+<p>Pero la ciencia no es un argumento de autoridad. La ciencia es un análisis de datos. Si los datos muestran eventos adversos, negar los datos es negar la ciencia.</p>
+<h3 id="la-distracción-ad-hominem">La Distracción Ad Hominem</h3>
+<p>En lugar de refutar los datos de RFK Jr., sus críticos lo atacan personalmente:</p>
+<ul>
+<li>"Es un antivacunas"</li>
+<li>"No es científico"</li>
+<li>"Es un difusor de desinformación"</li>
+</ul>
+<p>Estos ataques ad hominem no refutan los datos. Simplemente evitan debatir los datos.</p>
+<hr>
+<h2 id="quién-tiene-conflictos-de-interés">Quién Tiene Conflictos de Interés</h2>
+<h3 id="pfizer">Pfizer</h3>
+<p>Pfizer ha cosechado aproximadamente $100 mil millones en ingresos de inyecciones COVID-19. Si los datos de seguridad son verdaderos, Pfizer enfrenta:</p>
+<ul>
+<li>Retirada de producto</li>
+<li>Juicios masivos</li>
+<li>Remoción de mercado</li>
+<li>Colapso de reputación corporativa</li>
+</ul>
+<p>Pfizer tiene incentivo financiero masivo para negar eventos adversos.</p>
+<h3 id="rfk-jr">RFK Jr.</h3>
+<p>RFK Jr. no es pagado por corporaciones para cuestionara vacunas. No se beneficia financieramente de hallazgos de daño. No tiene conflicto de interés monetario.</p>
+<p>Su único "conflicto" es que sus conclusiones desafían a corporaciones influyentes.</p>
+<hr>
+<h2 id="el-problema-de-la-verdad-científica">El Problema de la Verdad Científica</h2>
+<p>En una sociedad genuinamente comprometida a la verdad científica, el debate entre RFK Jr. y Pfizer sería resuelto por:</p>
+<ol>
+<li>Análisis independiente de datos</li>
+<li>Replicación de estudios</li>
+<li>Debate abierto de metodología</li>
+<li>Resolución basada en evidencia</li>
+</ol>
+<p>En cambio, lo que hemos visto es:</p>
+<ol>
+<li>Censura de análisis de RFK Jr.</li>
+<li>Suppresión de estudios independientes</li>
+<li>Prohibición de debate abierto</li>
+<li>Resolución basada en autoridad institucional</li>
+</ol>
+<p>Cuando la "ciencia" silencia a sus críticos, cuando la censura reemplaza el debate, cuando la autoridad reemplaza la evidencia — eso no es ciencia. Es religión institucional.</p>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="/pfizer-documents-self-amplifying/?lang=es">Documentos de Pfizer: ARN Autoreplicante</a></li>
+<li><a href="/pfizer-fraud-criminal-case/?lang=es">Fraude Criminal de Pfizer</a></li>
+<li><a href="https://www.youtube.com/@RFKJr">Robert F. Kennedy Jr. en YouTube</a></li>
+</ul>
+<hr>
+<p><em>La verdad científica no es determinada por votación, mayoría institucional, o ataque a personas que presentan análisis inconveniente. La verdad es determinada por datos, replicación, y evidencia. Cuando corporaciones y gobiernos censuran a los que presentan análisis que contradicen narrativas corporativas, demuestran que no confían en los datos. Si los datos soportaran las afirmaciones de seguridad, no habría razón para censurar. El hecho de la censura es evidencia de que los datos dicen algo diferente.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/pharma/","className":"category-badge","children":"pharma"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Pfizer Science vs. RFK Jr.: La Verdad sobre Seguridad de Vacunas"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Robert F. Kennedy Jr. presenta análisis científico que contradice las afirmaciones de seguridad de Pfizer. Explora el debate sobre dónde reside la verdad científica real."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-09T10:00:00Z","children":"9 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pfizer",{"href":"/es/tag/pfizer/","className":"tag-pill","children":["#","pfizer"]}],["$","a","rfk-jr",{"href":"/es/tag/rfk-jr/","className":"tag-pill","children":["#","rfk-jr"]}],["$","a","vaccine-safety",{"href":"/es/tag/vaccine-safety/","className":"tag-pill","children":["#","vaccine-safety"]}],["$","a","science",{"href":"/es/tag/science/","className":"tag-pill","children":["#","science"]}],["$","a","truth",{"href":"/es/tag/truth/","className":"tag-pill","children":["#","truth"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-science-disagree-rfk/","title":"Pfizer Science vs. RFK Jr.: La Verdad sobre Seguridad de Vacunas"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-science-disagree-rfk/","title":"Pfizer Science vs. RFK Jr.: La Verdad sobre Seguridad de Vacunas"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Pfizer Science vs. RFK Jr.: La Verdad sobre Seguridad de Vacunas | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Robert F. Kennedy Jr. presenta análisis científico que contradice las afirmaciones de seguridad de Pfizer. Explora el debate sobre dónde reside la verdad científica real."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pfizer, rfk-jr, vaccine-safety, science, truth"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pfizer-science-disagree-rfk/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-science-disagree-rfk/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-science-disagree-rfk/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-science-disagree-rfk/"}],["$","meta","10",{"property":"og:title","content":"Pfizer Science vs. RFK Jr.: La Verdad sobre Seguridad de Vacunas"}],["$","meta","11",{"property":"og:description","content":"Robert F. Kennedy Jr. presenta análisis científico que contradice las afirmaciones de seguridad de Pfizer. Explora el debate sobre dónde reside la verdad científica real."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pfizer-science-disagree-rfk/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-science-disagree-rfk.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Pfizer Science vs. RFK Jr.: La Verdad sobre Seguridad de Vacunas"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Pfizer Science vs. RFK Jr.: La Verdad sobre Seguridad de Vacunas"}],["$","meta","25",{"name":"twitter:description","content":"Robert F. Kennedy Jr. presenta análisis científico que contradice las afirmaciones de seguridad de Pfizer. Explora el debate sobre dónde reside la verdad científica real."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-science-disagree-rfk.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

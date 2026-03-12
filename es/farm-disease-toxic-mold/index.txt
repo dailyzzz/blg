@@ -1,0 +1,113 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","farm-disease-toxic-mold",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","farm-disease-toxic-mold","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","farm-disease-toxic-mold","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T30ae,<h1 id="farm-disease-the-toxic-mold-crisis-nobody-talks-about">FARM DISEASE: The Toxic Mold Crisis Nobody Talks About</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"And if the plague be greenish or reddish in the house, and appear to be lower than the wall; then the priest shall go out of the house to the door."</em> — Leviticus 14:37-38</p>
+</blockquote>
+<p>The Bible addresses mold directly. Leviticus 14 contains detailed instructions for identifying and remediating mold in buildings — instructions that include, in extreme cases, demolishing the structure entirely. God took mold seriously. The modern world does not — and millions are paying with their health.</p>
+<p>Howard Pittman was shown invisible systems of destruction operating through the material world. Three heavens. Demonic hierarchy. 97.5 percent of Christians rejected. 95 percent serve "self." Every word carries weight (Matthew 12:36-37). Toxic mold is one of the invisible destroyers — a biological agent that colonizes homes, farms, and bodies while the institutions responsible for protecting the public dismiss, deny, and suppress the evidence of its danger.</p>
+<p>The Jesuits — Loyola's military organization, Napoleon's "absolute power," Tamburini's global governance — have historically controlled agricultural systems worldwide. <em>Catholic Confidential</em> reveals their infiltration "cloaked with cunning." The toxic mold crisis on farms and in rural communities represents a failure of the agricultural system the Jesuits helped build — a system that prioritizes production over health and profit over people.</p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/es/05-The_First_Darkness.mp4" type="video/mp4">
+</video>
+<p><em>The First Darkness — from the Confliction album</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/es/07-The_Serpents_Curse.mp4" type="video/mp4">
+</video>
+<p><em>The Serpent's Curse — from the Confliction album</em></p>
+<hr>
+<h2 id="the-hidden-epidemic">The Hidden Epidemic</h2>
+<h3 id="what-is-toxic-mold">What Is Toxic Mold?</h3>
+<p>Mold is a fungus. It is everywhere — in soil, in air, on surfaces. Most mold species are harmless. But certain species — particularly Stachybotrys chartarum (black mold), Aspergillus, and Penicillium — produce mycotoxins: chemical compounds that are toxic to humans and animals.</p>
+<p>Mycotoxins cause a range of health effects: respiratory disease, neurological damage, immune suppression, chronic fatigue, cognitive impairment, liver damage, and cancer. These effects are dose-dependent and cumulative — meaning that low-level chronic exposure, the kind that occurs in contaminated buildings and on contaminated farms, causes progressive health deterioration that is often misdiagnosed as other conditions.</p>
+<p>The medical establishment has been slow to recognize mycotoxin illness. Many doctors are not trained to identify it. Insurance companies do not routinely cover testing or treatment. And the industries responsible for mold exposure — construction, agriculture, real estate — have powerful financial incentives to minimize the problem.</p>
+<h3 id="the-farm-crisis">The Farm Crisis</h3>
+<p>Farms are particularly vulnerable to toxic mold. Grain storage facilities, barns, silos, and farmhouses provide the three conditions mold needs: moisture, organic material, and warmth. Farmers who spend their days working in and around contaminated structures receive chronic, high-level exposure to mycotoxins.</p>
+<p>The health consequences are devastating. Farmer's lung — a chronic respiratory condition caused by inhaling mold spores — has been documented for decades. But the broader spectrum of mycotoxin illness — neurological symptoms, chronic fatigue, immune dysfunction, cognitive decline — is less well-recognized, largely because the agricultural industry has lobbied against research that would establish the connection.</p>
+<p>Agent131711 documents on Substack (agent131711.substack.com) how the agricultural industry has suppressed research on mycotoxin illness, using the same regulatory capture strategies described in earlier articles in this series. The USDA, which oversees agricultural safety, is staffed by former industry executives who return to industry after their government service. The revolving door ensures that research priorities protect industry, not farmers.</p>
+<h3 id="mycotoxins-in-the-food-supply">Mycotoxins in the Food Supply</h3>
+<p>The mold crisis extends beyond farms into the food supply. Grains, nuts, coffee, dried fruits, and spices are all susceptible to mycotoxin contamination. Aflatoxin — a mycotoxin produced by Aspergillus species — is one of the most potent carcinogens known. It is commonly found in peanuts, corn, and tree nuts.</p>
+<p>The FDA sets limits on aflatoxin levels in food but does not require comprehensive testing. The result is that mycotoxin-contaminated food enters the supply chain regularly. Consumers have no way to know whether the peanut butter, corn chips, or coffee they consume contains mycotoxins — because the system does not require testing and the industry does not volunteer it.</p>
+<p>This is another expression of the Saturn system's operating principle: invisible contamination, institutional suppression, and consumer ignorance. The principalities and powers of Ephesians 6:12 do not need dramatic interventions. They need only ensure that the invisible poisons continue to flow, undetected and unaddressed, through the systems that the population depends on for sustenance.</p>
+<h2 id="the-institutional-silence">The Institutional Silence</h2>
+<h3 id="why-nobody-talks-about-it">Why Nobody Talks About It</h3>
+<p>The toxic mold crisis is one of the most suppressed health issues in America. The reasons are financial:</p>
+<p><strong>The real estate industry</strong> cannot afford to acknowledge mold as a serious health risk. If mold testing became standard practice, millions of homes would fail inspection. Property values would collapse.</p>
+<p><strong>The agricultural industry</strong> cannot afford to acknowledge mycotoxin illness. If farmers could sue their grain suppliers, their equipment manufacturers, or their building contractors for mold-related illness, the liability would be astronomical.</p>
+<p><strong>The insurance industry</strong> cannot afford to cover mold-related claims. Many homeowner's insurance policies explicitly exclude mold damage. Health insurance companies routinely deny coverage for mycotoxin illness.</p>
+<p><strong>The medical establishment</strong> cannot afford to diagnose an epidemic it cannot treat. The standard medical model — identify the pathogen, prescribe the drug — does not work well for chronic mycotoxin exposure, which requires environmental remediation, nutritional support, and long-term detoxification.</p>
+<p>The Jesuits' model of institutional control through suppression applies perfectly. <em>Catholic Confidential</em> reveals an organization that suppresses inconvenient truths through institutional mechanisms — through education, media, and political influence. The toxic mold crisis is suppressed by the same mechanisms: medical schools do not teach it, media does not cover it, and political leaders do not address it.</p>
+<p>Howard Pittman's 97.5 percent were people who trusted institutions. They trusted their churches, their doctors, their government, their food supply. And every institution failed them — not through incompetence but through design. The system is designed to prioritize institutional survival over individual health. The toxic mold crisis is proof.</p>
+<h2 id="biblical-mold-remediation">Biblical Mold Remediation</h2>
+<h3 id="gods-protocol">God's Protocol</h3>
+<p>Leviticus 14:33-57 provides the most detailed mold remediation protocol in ancient literature. The steps include:</p>
+<ol>
+<li>Inspection by an authority (the priest)</li>
+<li>Quarantine of the affected space (seven days)</li>
+<li>Removal of contaminated materials (scraping the walls)</li>
+<li>Replacement with clean materials</li>
+<li>Re-inspection</li>
+<li>If mold returns, demolition of the entire structure</li>
+</ol>
+<p>This protocol is remarkably similar to modern best practices for mold remediation — except that the biblical protocol is more aggressive. Modern practice often attempts to save contaminated structures through chemical treatment. The biblical protocol says: if it comes back, tear it down.</p>
+<p>The institutional approach to mold — minimize, treat chemically, preserve the structure's value — contradicts the biblical approach. God says tear it down. The institution says save the investment. This conflict between divine instruction and institutional interest is the same conflict that runs through every topic in this series: the institution serves itself, not truth, and not God.</p>
+<h2 id="protecting-yourself-and-your-family">Protecting Yourself and Your Family</h2>
+<h3 id="practical-steps">Practical Steps</h3>
+<ol>
+<li><strong>Test your home</strong>: Professional mold testing can identify hidden contamination.</li>
+<li><strong>Control moisture</strong>: Mold cannot grow without moisture. Fix leaks, improve ventilation, use dehumidifiers.</li>
+<li><strong>Inspect food</strong>: Buy fresh, avoid long-stored grains and nuts, and choose organic where possible.</li>
+<li><strong>Recognize symptoms</strong>: Chronic fatigue, respiratory issues, brain fog, and immune problems may indicate mycotoxin exposure.</li>
+<li><strong>Find a knowledgeable doctor</strong>: Environmental medicine specialists are trained in mycotoxin illness.</li>
+<li><strong>Follow the biblical protocol</strong>: If mold returns after remediation, consider the structure compromised.</li>
+</ol>
+<p>The narrow path may lead through a demolished house. Comfort clings to the contaminated structure. Truth tears it down and rebuilds on clean ground.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+<li><strong>Agent131711 Substack</strong>: <a href="https://agent131711.substack.com">agent131711.substack.com</a> — Research on the suppressed toxic mold epidemic</li>
+<li><strong>Howard Pittman NDE Testimony</strong>: <a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Watch on YouTube</a> — Invisible systems of destruction in the material world</li>
+<li><strong>Catholic Confidential: Deplorable Jesuit Secrets Revealed</strong>: <a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Watch on YouTube</a> — Institutional suppression of inconvenient truths</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/05-The_First_Darkness.mp4">The First Darkness</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/07-The_Serpents_Curse.mp4">The Serpent's Curse</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/65-Smart_Dust.mp4">Smart Dust</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/351-Broken_Weather.mp4">Broken Weather</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/black-mold-hoax/?lang=es">Is Harmful Black Mold Actually a HOAX: The Evidence</a></li>
+<li><a href="/toxic-homes-houses-poisonous/?lang=es">Our TOXIC HOMES: How Modern Houses Became POISONOUS</a></li>
+<li><a href="/food-industry-hidden-dangers/?lang=es">Food Industry Hidden Dangers: What's Really in Your Food</a></li>
+</ul>
+<p><em>God addressed mold in Leviticus. He gave clear instructions: inspect, quarantine, remediate, and if it returns, demolish. The modern world ignores these instructions because they conflict with financial interests. But God's protocol protects health. The institution's protocol protects property values. The narrow path follows God's instructions, even when they are costly, inconvenient, and opposed by every institution in the system.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/food-environment/","className":"category-badge","children":"food-environment"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"FARM DISEASE: The Toxic Mold Crisis Nobody Talks About"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The toxic mold crisis on farms is causing widespread illness. Discover how the Jesuit-connected agricultural system silences this epidemic."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-09T10:00:00Z","children":"9 de mayo de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","farm-disease",{"href":"/es/tag/farm-disease/","className":"tag-pill","children":["#","farm-disease"]}],["$","a","toxic-mold",{"href":"/es/tag/toxic-mold/","className":"tag-pill","children":["#","toxic-mold"]}],["$","a","agriculture",{"href":"/es/tag/agriculture/","className":"tag-pill","children":["#","agriculture"]}],["$","a","mycotoxins",{"href":"/es/tag/mycotoxins/","className":"tag-pill","children":["#","mycotoxins"]}],["$","a","health",{"href":"/es/tag/health/","className":"tag-pill","children":["#","health"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/farm-disease-toxic-mold/","title":"FARM DISEASE: The Toxic Mold Crisis Nobody Talks About"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/farm-disease-toxic-mold/","title":"FARM DISEASE: The Toxic Mold Crisis Nobody Talks About"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"FARM DISEASE: The Toxic Mold Crisis Nobody Talks About | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The toxic mold crisis on farms is causing widespread illness. Discover how the Jesuit-connected agricultural system silences this epidemic."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"farm-disease, toxic-mold, agriculture, mycotoxins, health"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/farm-disease-toxic-mold/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/farm-disease-toxic-mold/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/farm-disease-toxic-mold/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/farm-disease-toxic-mold/"}],["$","meta","10",{"property":"og:title","content":"FARM DISEASE: The Toxic Mold Crisis Nobody Talks About"}],["$","meta","11",{"property":"og:description","content":"The toxic mold crisis on farms is causing widespread illness. Discover how the Jesuit-connected agricultural system silences this epidemic."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/farm-disease-toxic-mold/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/farm-disease-toxic-mold.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"FARM DISEASE: The Toxic Mold Crisis Nobody Talks About"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"FARM DISEASE: The Toxic Mold Crisis Nobody Talks About"}],["$","meta","25",{"name":"twitter:description","content":"The toxic mold crisis on farms is causing widespread illness. Discover how the Jesuit-connected agricultural system silences this epidemic."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/farm-disease-toxic-mold.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

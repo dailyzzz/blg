@@ -1,0 +1,80 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pulse-follow-money-part5",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pulse-follow-money-part5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pulse-follow-money-part5","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T1709,<h1 id="sigue-el-dinero-la-conclusión-de-la-investigación-de-pulse-parte-5">SIGUE EL DINERO: La Conclusión de la Investigación de PULSE Parte 5</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p>"Porque la raíz de todos los males es el amor del dinero." — 1 Timoteo 6:10</p>
+</blockquote>
+<p>Sigue el dinero. Este es el principio fundamental del periodismo de investigación — el principio que, cuando es seguido honestamente, revela más verdad que cualquier testimonio de testigos, cualquier fuga de documentos, o cualquier confesión institucional.</p>
+<p>En las Partes 1 a 4 de esta investigación, hicimos las preguntas que los medios se rehusaron a hacer, presentamos la evidencia que los medios se rehusaron a mostrar, rastreamos las conexiones que los medios se rehusaron a explorar, e identificamos los errores que exponen líneas de fractura en la cuenta oficial. En esta parte final, seguimos el dinero — y el dinero nos lleva donde la verdad siempre nos lleva: a las instituciones que se beneficiaron del evento.</p>
+<hr>
+<h2 id="los-flujos-de-dinero">Los Flujos de Dinero</h2>
+<h3 id="ingresos-de-la-industria-de-seguridad">Ingresos de la Industria de Seguridad</h3>
+<p>En el después del evento de Pulse, la industria de seguridad privada experimentó un aumento significativo de ingresos. Negocios, lugares de entretenimiento, edificios de gobierno, y espacios públicos expandieron sus contratos de seguridad. G4S — el empleador del atacante — reportó demanda creciente por sus servicios.</p>
+<p>Este es el beneficio financiero más directo: la compañía que empleó al atacante se benefició del evento que él cometió.</p>
+<h3 id="gastos-de-vigilancia">Gastos de Vigilancia</h3>
+<p>El evento de Pulse fue utilizado para justificar autoridad de vigilancia expandida y financiamiento. En los meses que siguieron, agencias gubernamentales recibieron presupuestos aumentados para contraterrorismo, vigilancia doméstica, y operaciones de inteligencia.</p>
+<h3 id="recaudación-de-fondos-política">Recaudación de Fondos Política</h3>
+<p>Eventos de alto perfil generan recaudación de fondos masiva en todos lados de los debates de política resultantes. Defensores de control de armas recaudaron millones en el después de Pulse. Defensores de derechos de armas recaudaron millones en respuesta.</p>
+<p>Cada posición política generó ingresos del evento.</p>
+<h3 id="la-economía-conmemorativa">La Economía Conmemorativa</h3>
+<p>El sitio de Pulse fue designado para un monumento — un Monumento y Museo Nacional de Pulse de $45 millones. Este monumento, financiado por una combinación de dinero público y donaciones privadas, generará ingresos continuos a través del turismo, eventos, y recaudación de fondos.</p>
+<p>Los monumentos sirven funciones culturales importantes. Pero también sirven funciones financieras — generando ingresos para organizaciones que los gestionar.</p>
+<hr>
+<h2 id="el-cuadro-más-grande">El Cuadro Más Grande</h2>
+<h3 id="la-economía-de-eventos">La Economía de Eventos</h3>
+<p>La investigación de Pulse revela algo más grande que cualquier evento único: revela la economía de eventos — el ecosistema financiero que transforma eventos dramáticos en corrientes de ingresos para compañías de seguridad, contratistas de vigilancia, organizaciones políticas, compañías mediáticas, e instituciones conmemorativas.</p>
+<p>Esta economía de eventos crea incentivos estructurales que se oponen a seguridad pública:</p>
+<ul>
+<li>Las compañías de seguridad se benefician de inseguridad</li>
+<li>Los contratistas de vigilancia se benefician de miedo</li>
+<li>Las organizaciones políticas se benefician de ultraje</li>
+<li>Las compañías mediáticas se benefician de drama</li>
+<li>Las instituciones conmemorativas se benefician de tragedia</li>
+</ul>
+<p>Ninguna de estas entidades causaría conscientes una tragedia por ganancia. Pero colectivamente, crean un ambiente institucional en el cual tragedias generan ganancia.</p>
+<hr>
+<h2 id="conclusión-los-hallazgos-de-la-investigación">Conclusión: Los Hallazgos de la Investigación</h2>
+<h3 id="lo-que-encontramos">Lo Que Encontramos</h3>
+<p>A través de cinco partes, esta investigación ha encontrado:</p>
+<ol>
+<li>Preguntas que los medios se rehusaron a hacer</li>
+<li>Evidencia que los medios se rehusaron a mostrar</li>
+<li>Conexiones que los medios se rehusaron a rastrar</li>
+<li>Errores que exponen la narrativa</li>
+<li>Rastros de dinero que revelan incentivos</li>
+</ol>
+<h3 id="lo-que-esto-significa">Lo Que Esto Significa</h3>
+<p>El sistema de investigación de, reporte, y adjudicación del evento de Pulse está estructuralmente comprometido — conectado a los participantes del evento, enriquecido por las consecuencias del evento, e incentivizado a mantener la narrativa oficial del evento.</p>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><strong>Agent131711 Substack</strong>: <a href="https://agent131711.substack.com">agent131711.substack.com</a></li>
+<li><strong>Howard Pittman NDE Testimony</strong>: <a href="https://www.youtube.com/watch?v=EbVGx67pF9o">YouTube</a></li>
+<li><strong>Catholic Confidential</strong>: <a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">YouTube</a></li>
+</ul>
+<hr>
+<p><em>Sigue el dinero. No miente. No olvida. No se preocupa por narrativas, reputaciones, u autoridad institucional. Fluye donde el poder lo dirige, y se acumula donde el poder reside. El rastro de dinero en la investigación de Pulse nos lleva al mismo lugar que todo rastro de dinero nos lleva: a las instituciones que se benefician del sistema que produjo el evento. El camino estrecho sigue el dinero también — pero en la dirección opuesta: lejos de las instituciones, lejos del sistema, y hacia la verdad que ningún cantidad de dinero puede comprar o suprimir.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/media/","className":"category-badge","children":"media"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"SIGUE EL DINERO: La Conclusión de la Investigación de PULSE Parte 5"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"La conclusión de la investigación de PULSE sigue el rastro del dinero. Descubre los flujos financieros conectados con Jesuits que revelan el propósito verdadero del evento."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-06-06T10:00:00Z","children":"6 de junio de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pulse",{"href":"/es/tag/pulse/","className":"tag-pill","children":["#","pulse"]}],["$","a","follow-the-money",{"href":"/es/tag/follow-the-money/","className":"tag-pill","children":["#","follow-the-money"]}],["$","a","investigation",{"href":"/es/tag/investigation/","className":"tag-pill","children":["#","investigation"]}],["$","a","finance",{"href":"/es/tag/finance/","className":"tag-pill","children":["#","finance"]}],["$","a","finale",{"href":"/es/tag/finale/","className":"tag-pill","children":["#","finale"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pulse-follow-money-part5/","title":"SIGUE EL DINERO: La Conclusión de la Investigación de PULSE Parte 5"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pulse-follow-money-part5/","title":"SIGUE EL DINERO: La Conclusión de la Investigación de PULSE Parte 5"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"SIGUE EL DINERO: La Conclusión de la Investigación de PULSE Parte 5 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"La conclusión de la investigación de PULSE sigue el rastro del dinero. Descubre los flujos financieros conectados con Jesuits que revelan el propósito verdadero del evento."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pulse, follow-the-money, investigation, finance, finale"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pulse-follow-money-part5/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pulse-follow-money-part5/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pulse-follow-money-part5/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pulse-follow-money-part5/"}],["$","meta","10",{"property":"og:title","content":"SIGUE EL DINERO: La Conclusión de la Investigación de PULSE Parte 5"}],["$","meta","11",{"property":"og:description","content":"La conclusión de la investigación de PULSE sigue el rastro del dinero. Descubre los flujos financieros conectados con Jesuits que revelan el propósito verdadero del evento."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pulse-follow-money-part5/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pulse-follow-money-part5.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"SIGUE EL DINERO: La Conclusión de la Investigación de PULSE Parte 5"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"SIGUE EL DINERO: La Conclusión de la Investigación de PULSE Parte 5"}],["$","meta","25",{"name":"twitter:description","content":"La conclusión de la investigación de PULSE sigue el rastro del dinero. Descubre los flujos financieros conectados con Jesuits que revelan el propósito verdadero del evento."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pulse-follow-money-part5.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

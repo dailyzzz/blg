@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pfizer-case-government-not-interested",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pfizer-case-government-not-interested","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-case-government-not-interested","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T14d3,<h1 id="el-caso-de-pfizer-el-gobierno-no-está-interesado-en-justicia">El Caso de Pfizer: El Gobierno No Está Interesado en Justicia</h1>
+<h2 id="crímenes-documentados">Crímenes Documentados</h2>
+<p>Pfizer ha cometido múltiples crímenes que están documentados, evidentes, y podrían ser fácilmente procesados si los gobiernos estuvieran dispuestos a hacerlo:</p>
+<ul>
+<li><strong>Fraude</strong>: Datos de ensayos clínicos falsificados</li>
+<li><strong>Falsificación de documentos</strong>: Datos de seguridad alterados</li>
+<li><strong>Cohecho</strong>: Pagos a médicos y funcionarios de salud pública</li>
+<li><strong>Cobertura</strong>: Supresión de datos de eventos adversos</li>
+<li><strong>Perjurio</strong>: Declaraciones falsas en procesos regulatorios</li>
+</ul>
+<p>Los abogados independientes han presentado casos contra Pfizer en cortes de múltiples países. Abogados del gobierno reconocen que los casos tienen mérito. Pero los gobiernos no procesan.</p>
+<hr>
+<h2 id="por-qué-el-gobierno-no-actúa">Por Qué el Gobierno No Actúa</h2>
+<h3 id="la-dependencia-financiera">La Dependencia Financiera</h3>
+<p>Los gobiernos que autorizaron la inyección de COVID-19 de Pfizer no pueden permitirse admitir que Pfizer es criminal. Hacerlo significaría:</p>
+<ul>
+<li>Admitir que autorizaron un producto criminal</li>
+<li>Admitir que sometieron a poblaciones a daño</li>
+<li>Enfrentar juicios masivos por daño</li>
+<li>Pagar compensación a los dañados</li>
+<li>Ser removidos del poder</li>
+</ul>
+<p>Es más fácil proteger a Pfizer que admitir la verdad.</p>
+<h3 id="la-complicidad-institucional">La Complicidad Institucional</h3>
+<p>Los reguladores de medicamentos (FDA en EE.UU., EMA en Europa, TGA en Australia) aprobaron la inyección de Pfizer. Si Pfizer es criminal, los reguladores son criminales también. No pueden procesar a Pfizer sin incriminarse a sí mismos.</p>
+<h3 id="el-control-de-la-información">El Control de la Información</h3>
+<p>Pfizer controla datos críticos sobre seguridad y eficacia. Los gobiernos no pueden procesar sin acceso a ese data. Pfizer se rehúsa a divulgar. Los gobiernos no compelen la divulgación.</p>
+<hr>
+<h2 id="los-casos-presentados">Los Casos Presentados</h2>
+<h3 id="fiscales-especiales-independientes">Fiscales Especiales Independientes</h3>
+<p>En Italia, fiscales especiales (no vinculados al gobierno nacional) presentaron casos criminales contra Pfizer por:</p>
+<ul>
+<li>Falsificación de datos de ensayos clínicos</li>
+<li>Ocultación de eventos adversos</li>
+<li>Cohecho de funcionarios de salud</li>
+</ul>
+<p>El gobierno italiano no prosiguió.</p>
+<h3 id="casos-civiles">Casos Civiles</h3>
+<p>Múltiples bufetes de abogados han presentado demandas civiles masivas contra Pfizer por:</p>
+<ul>
+<li>Violación de derechos humanos</li>
+<li>Crimen de lesa humanidad</li>
+<li>Conspiración para fraude</li>
+</ul>
+<p>Muchos casos nunca han llegado a corte. Las cortes los desestiman por "razones procesales" — técnicismos que protegen a la corporación de responsabilidad.</p>
+<hr>
+<h2 id="el-patrón-de-protección">El Patrón de Protección</h2>
+<h3 id="el-consenso-institucional">El Consenso Institucional</h3>
+<p>Cuando múltiples gobiernos se rehúsan a procesar a una corporación por crímenes documentados, no es coincidencia. Es consenso institucional. Los gobiernos están coordinadamente protegiéndola.</p>
+<p>Este consenso es parte de un sistema más grande: un sistema en el cual corporaciones que sirven agendas gubernamentales (tecnología, medicamentos, control digital) son protegidas de procesamiento criminal por esos gobiernos.</p>
+<h3 id="el-beneficio-compartido">El Beneficio Compartido</h3>
+<p>Los gobiernos permiten que Pfizer cometa crímenes porque Pfizer ayuda a gobiernos a implementar agendas de control:</p>
+<ul>
+<li>Pfizer proporciona la inyección que establece el precedente de medicina obligatoria</li>
+<li>Pfizer establece la infraestructura de manufactura que puede ser usada para medicinas futuras</li>
+<li>Pfizer demuestra que corporaciones pueden mandatar intervenciones médicas sin consentimiento informado</li>
+<li>Pfizer prueba que gobiernos protegerán corporaciones que cometen crímenes en el nombre de "salud pública"</li>
+</ul>
+<p>Si Pfizer fuera procesada y removida del mercado, este sistema de control se colapsaría. Es más fácil proteger a Pfizer que permitir que justicia ocurra.</p>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="/pfizer-documents-self-amplifying/?lang=es">Documentos de Pfizer: ARN Autoreplicante</a></li>
+<li><a href="/pfizer-fraud-criminal-case/?lang=es">Fraude Criminal de Pfizer</a></li>
+<li><a href="/pfizer-denies-birth-defects/?lang=es">Niega Pfizer Defectos de Nacimiento</a></li>
+</ul>
+<hr>
+<p><em>Cuando gobiernos protegen corporaciones de procesamiento criminal, niegan que el crimen ocurrió, y persiguen a aquellos que demandan justicia, es señal de que el sistema está completamente corrupto. La justicia no es administrada por las cortes. Es corruptida por las corporaciones. El estrecho camino requiere rechazar completamente la idea de que el sistema legal protegerá al ciudadano. Eso requiere depender de Una Justicia Mayor — la justicia de Dios, que no puede ser corrupta, sobornada, o pervertida.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/pharma/","className":"category-badge","children":"pharma"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"El Caso de Pfizer: El Gobierno No Está Interesado en Justicia"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Múltiples casos criminales han sido presentados contra Pfizer. Los gobiernos deliberadamente no investigan. Explora por qué las instituciones protegen corporaciones criminales."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-01-28T10:00:00Z","children":"28 de enero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pfizer",{"href":"/es/tag/pfizer/","className":"tag-pill","children":["#","pfizer"]}],["$","a","criminal-case",{"href":"/es/tag/criminal-case/","className":"tag-pill","children":["#","criminal-case"]}],["$","a","government-cover-up",{"href":"/es/tag/government-cover-up/","className":"tag-pill","children":["#","government-cover-up"]}],["$","a","justice",{"href":"/es/tag/justice/","className":"tag-pill","children":["#","justice"]}],["$","a","institutional-protection",{"href":"/es/tag/institutional-protection/","className":"tag-pill","children":["#","institutional-protection"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-case-government-not-interested/","title":"El Caso de Pfizer: El Gobierno No Está Interesado en Justicia"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-case-government-not-interested/","title":"El Caso de Pfizer: El Gobierno No Está Interesado en Justicia"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"El Caso de Pfizer: El Gobierno No Está Interesado en Justicia | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Múltiples casos criminales han sido presentados contra Pfizer. Los gobiernos deliberadamente no investigan. Explora por qué las instituciones protegen corporaciones criminales."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pfizer, criminal-case, government-cover-up, justice, institutional-protection"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pfizer-case-government-not-interested/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-case-government-not-interested/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-case-government-not-interested/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-case-government-not-interested/"}],["$","meta","10",{"property":"og:title","content":"El Caso de Pfizer: El Gobierno No Está Interesado en Justicia"}],["$","meta","11",{"property":"og:description","content":"Múltiples casos criminales han sido presentados contra Pfizer. Los gobiernos deliberadamente no investigan. Explora por qué las instituciones protegen corporaciones criminales."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pfizer-case-government-not-interested/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-case-government-not-interested.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"El Caso de Pfizer: El Gobierno No Está Interesado en Justicia"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"El Caso de Pfizer: El Gobierno No Está Interesado en Justicia"}],["$","meta","25",{"name":"twitter:description","content":"Múltiples casos criminales han sido presentados contra Pfizer. Los gobiernos deliberadamente no investigan. Explora por qué las instituciones protegen corporaciones criminales."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-case-government-not-interested.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

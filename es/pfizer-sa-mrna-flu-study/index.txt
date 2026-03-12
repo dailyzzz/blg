@@ -1,0 +1,99 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","pfizer-sa-mrna-flu-study",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","pfizer-sa-mrna-flu-study","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-sa-mrna-flu-study","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T12a3,<h1 id="estudio-de-gripe-mrna-de-pfizer-sa-autoreplicación-sin-regulación">Estudio de Gripe mRNA de Pfizer-SA: Autoreplicación Sin Regulación</h1>
+<h2 id="la-colaboración-silenciosa">La Colaboración Silenciosa</h2>
+<p>En 2023, Pfizer y Sinopharm (la empresa farmacéutica estatal china) anunciaron colaboración en desarrollo de tecnología de ARN autoreplicante (saRNA) para influenza. El anuncio fue prácticamente ignorado por los medios globales.</p>
+<p>Esta colaboración entre una corporación estadounidense y una empresa estatal china para desarrollar tecnología de replicación genética sin control indica:</p>
+<ul>
+<li>Acuerdo internacional para desplegar tecnología de autoreplicación</li>
+<li>Aprobación coordinada de reguladores</li>
+<li>Plan para introducir la tecnología a través de "programas de influenza"</li>
+</ul>
+<hr>
+<h2 id="el-estudio">El Estudio</h2>
+<p>El estudio de saRNA para influenza fue diseñado para:</p>
+<ul>
+<li>Demostrar que ARN autoreplicante es "seguro" para influenza</li>
+<li>Establecer precedente para aprobación regulatoria de saRNA</li>
+<li>Crear expectativa pública de que influenza será tratada con inyecciones saRNA</li>
+</ul>
+<p>Si el estudio es publicado y la tecnología es aprobada, el precedente de COVID-19 será invocado:</p>
+<ul>
+<li>"La tecnología fue probada. Fue segura. Deberá ser mandatada."</li>
+</ul>
+<hr>
+<h2 id="por-qué-importa-la-colaboración-eeuu-china">Por Qué Importa la Colaboración EE.UU.-China</h2>
+<h3 id="coordinación-global">Coordinación Global</h3>
+<p>Una colaboración entre Pfizer y Sinopharm indica que los gobiernos de EE.UU. y China están coordinados en desarrollo e implementación de biotecnología. Esto sugiere:</p>
+<ul>
+<li>Que las divisiones políticas aparentes entre EE.UU. y China son teatro</li>
+<li>Que ambos gobiernos sirven a la misma agenda global de control biológico</li>
+<li>Que la tecnología de saRNA no será detenida por oposición geopolítica</li>
+</ul>
+<h3 id="tecnología-china-estadounidense-integrada">Tecnología China-Estadounidense Integrada</h3>
+<p>Cuando corporaciones estadounidenses colaboran con corporaciones estatales chinas en biotecnología, la tecnología resultante está integrada en sistemas de ambos países. Esto significa:</p>
+<ul>
+<li>Que los sistemas de control biológico desplegados en Occidente y en Oriente serán compatibles</li>
+<li>Que una tecnología desarrollada por ambos será promovida por ambos</li>
+<li>Que oposición a Occidente será aislada de oposición a Oriente</li>
+</ul>
+<hr>
+<h2 id="el-plan-de-influenza">El Plan de Influenza</h2>
+<h3 id="el-calendario">El Calendario</h3>
+<p>Se espera que el estudio sea completado en 2024-2025. Basándose en este cronograma:</p>
+<ul>
+<li>Aprobación regulatoria se buscaría en 2025-2026</li>
+<li>Despliegue de programas piloto en 2026-2027</li>
+<li>Mandatos globales de saRNA-influenza en 2027-2028</li>
+</ul>
+<p>Esta es especulación basada en el calendario de COVID-19. Pero el patrón es evidente.</p>
+<h3 id="el-justificativo-de-influenza">El Justificativo de Influenza</h3>
+<p>¿Por qué influenza? Porque:</p>
+<ul>
+<li>Influenza es una enfermedad estacional predecible</li>
+<li>Las personas entienden que la influenza existe</li>
+<li>Los programas de vacunación de influenza ya existen</li>
+<li>La transición de vacunas inactivadas a saRNA puede ser hecha gradualmente</li>
+</ul>
+<p>Influenza es el ensayo final antes de que ARN autoreplicante sea usado para enfermedades donde el justificativo de salud pública será menos transparente.</p>
+<hr>
+<h2 id="la-próxima-etapa">La Próxima Etapa</h2>
+<p>Si saRNA es aprobado para influenza, la próxima etapa sería:</p>
+<ul>
+<li>Combinación de saRNA-influenza con otros saRNA en una vacuna único</li>
+<li>Introducción de saRNA para otras enfermedades</li>
+<li>Introducción de saRNA para "mejoramiento" genético</li>
+<li>Conversión de toda medicina a inyecciones que se auto-replican indefinidamente</li>
+</ul>
+<p>En esta futura, cada inyección es una instalación permanente de modificación genética.</p>
+<hr>
+<h2 id="encuentra-más-información">Encuentra Más Información</h2>
+<ul>
+<li><a href="/pfizer-documents-self-amplifying/?lang=es">Documentos de Pfizer: ARN Autoreplicante</a></li>
+<li><a href="/vatican-basement/?lang=es">¿Qué hay en el sótano del Vaticano puede sorprenderte!</a></li>
+</ul>
+<hr>
+<p><em>La colaboración silenciosa entre Pfizer y Sinopharm en tecnología de ARN autoreplicante indica que las divisiones políticas globales aparentes son teatro de distracción. Ambas superpotencias sirven a la misma agenda: el control biológico global de la población humana. Esta es la realidad que debe ser visto a través de la ilusión de competencia geopolítica.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/pharma/","className":"category-badge","children":"pharma"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Estudio de Gripe mRNA de Pfizer-SA: Autoreplicación Sin Regulación"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Pfizer y Sinopharm colaboraron en estudio de ARN autoreplicante para influenza. Explora cómo una tecnología sin regulación está siendo silenciosamente desplegada."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-07T10:00:00Z","children":"7 de febrero de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pfizer",{"href":"/es/tag/pfizer/","className":"tag-pill","children":["#","pfizer"]}],["$","a","self-amplifying-mrna",{"href":"/es/tag/self-amplifying-mrna/","className":"tag-pill","children":["#","self-amplifying-mrna"]}],["$","a","flu-study",{"href":"/es/tag/flu-study/","className":"tag-pill","children":["#","flu-study"]}],["$","a","collaboration",{"href":"/es/tag/collaboration/","className":"tag-pill","children":["#","collaboration"]}],["$","a","sinopharm",{"href":"/es/tag/sinopharm/","className":"tag-pill","children":["#","sinopharm"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-sa-mrna-flu-study/","title":"Estudio de Gripe mRNA de Pfizer-SA: Autoreplicación Sin Regulación"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/pfizer-sa-mrna-flu-study/","title":"Estudio de Gripe mRNA de Pfizer-SA: Autoreplicación Sin Regulación"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Estudio de Gripe mRNA de Pfizer-SA: Autoreplicación Sin Regulación | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Pfizer y Sinopharm colaboraron en estudio de ARN autoreplicante para influenza. Explora cómo una tecnología sin regulación está siendo silenciosamente desplegada."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pfizer, self-amplifying-mrna, flu-study, collaboration, sinopharm"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/pfizer-sa-mrna-flu-study/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-sa-mrna-flu-study/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-sa-mrna-flu-study/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-sa-mrna-flu-study/"}],["$","meta","10",{"property":"og:title","content":"Estudio de Gripe mRNA de Pfizer-SA: Autoreplicación Sin Regulación"}],["$","meta","11",{"property":"og:description","content":"Pfizer y Sinopharm colaboraron en estudio de ARN autoreplicante para influenza. Explora cómo una tecnología sin regulación está siendo silenciosamente desplegada."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/pfizer-sa-mrna-flu-study/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-sa-mrna-flu-study.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Estudio de Gripe mRNA de Pfizer-SA: Autoreplicación Sin Regulación"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Estudio de Gripe mRNA de Pfizer-SA: Autoreplicación Sin Regulación"}],["$","meta","25",{"name":"twitter:description","content":"Pfizer y Sinopharm colaboraron en estudio de ARN autoreplicante para influenza. Explora cómo una tecnología sin regulación está siendo silenciosamente desplegada."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-sa-mrna-flu-study.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","forest-fire-arson-agenda",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","forest-fire-arson-agenda","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","forest-fire-arson-agenda","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T387a,<h1 id="forest-fires-arson-agenda-and-directed-energy">Forest Fires: Arson, Agenda, and Directed Energy</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Is not my word like fire, declares the Lord, and like a hammer that breaks a rock in pieces?" — Jeremiah 23:29</p>
+</blockquote>
+<p>God's fire is purposeful — it refines, it purifies, it judges with precision. The fires described in this article are a counterfeit of divine fire: indiscriminate in their stated cause (natural wildfire) but suspiciously precise in their effect (destroying residential areas while leaving forests partially intact), serving agendas that benefit the powerful (land acquisition, insurance destruction, smart city development), and defying the physical behavior of natural fire in ways that demand explanation.</p>
+<p>As the Confliction album track <a href="https://confliction.zzzdaily.com/tracks/es/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> warns, fire in the cave — fire in the place of refuge — represents the most terrifying form of destruction: the loss of shelter, of safety, of the place called home. The fires documented in this article have destroyed thousands of homes, displaced millions of people, and transformed communities into ash — while the questions surrounding their cause are dismissed as conspiracy theories by the institutions that should be investigating them.</p>
+<hr>
+<p><img src="/images/articles/forest-fire-arson-agenda/img-1.jpg" alt="HAARP weather manipulation and weaponized climate - Zombies Substack analysis"></p>
+<h2 id="the-pattern-of-anomalous-fires">The Pattern of Anomalous Fires</h2>
+<p>Beginning in approximately 2017, a series of catastrophic wildfires in the United States and globally exhibited characteristics that deviated from known wildfire behavior:</p>
+<p><strong>The 2017 Northern California Fires.</strong> The Tubbs Fire and other fires that devastated Santa Rosa and surrounding areas in October 2017 killed 44 people and destroyed over 8,900 structures. Residents and investigators noted anomalous features:</p>
+<ul>
+<li>Houses burned to white ash and bare foundations while trees adjacent to the structures remained green and standing</li>
+<li>Vehicles melted — with glass and aluminum liquefied — while vegetation nearby was unburned</li>
+<li>The fires ignited simultaneously in multiple locations, spanning counties</li>
+<li>Fire damage patterns showed geometric precision inconsistent with natural fire spread</li>
+</ul>
+<p><strong>The 2018 Camp Fire (Paradise, California).</strong> The deadliest and most destructive wildfire in California history killed 85 people and destroyed over 18,800 structures — essentially erasing the town of Paradise from the map. Again, residents documented:</p>
+<ul>
+<li>Structures reduced to white ash (indicating temperatures far exceeding typical wildfire temperatures of 800-1,200 degrees Fahrenheit) while trees within feet of destroyed structures survived</li>
+<li>Metal objects (including aluminum with a melting point of 1,221 degrees Fahrenheit and steel with a melting point of 2,500+ degrees Fahrenheit) were found melted, suggesting temperatures far beyond what natural vegetation fires produce</li>
+<li>The fire moved with extraordinary speed — up to 80 football fields per minute at its peak</li>
+</ul>
+<p><strong>The 2023 Maui Fires (Lahaina, Hawaii).</strong> The August 2023 fire that destroyed the historic town of Lahaina killed over 100 people and destroyed approximately 2,200 structures. This fire exhibited perhaps the most anomalous characteristics of any recent fire event:</p>
+<ul>
+<li>A coastal town with relatively little wildland vegetation was almost completely destroyed</li>
+<li>The fire moved through an urban area, jumping from structure to structure in patterns inconsistent with brush fire behavior</li>
+<li>Blue-colored items (roofs, cars, umbrellas) were conspicuously unburned in some areas while surrounding structures were destroyed</li>
+<li>Water was shut off to fire hydrants during the fire, with the deputy director of water resources later stating that he redirected water away from Lahaina</li>
+<li>Warning sirens — the largest outdoor siren network in the world, maintained for tsunami warnings — were never activated</li>
+<li>The governor announced plans for state acquisition of fire-damaged land before the fire was even fully extinguished</li>
+<li>Reports emerged of barricades preventing residents from evacuating on certain roads</li>
+</ul>
+<p><img src="/images/articles/forest-fire-arson-agenda/img-2.png" alt="Simpsons episode depicting fire destruction compared to real DEW fire events"></p>
+<h2 id="directed-energy-weapons-the-technology">Directed Energy Weapons: The Technology</h2>
+<p>As documented in our article on <a href="/directed-energy-weapons-invisible-fire/?lang=es">Directed Energy Weapons: The Invisible Fire from the Sky</a>, directed energy weapons (DEWs) are operational military technologies that concentrate electromagnetic energy — in the form of lasers, microwaves, or particle beams — to destroy or damage targets at a distance.</p>
+<p>The characteristics of DEW strikes are consistent with many of the anomalous features observed in recent wildfire events:</p>
+<ul>
+<li><strong>Extreme temperatures.</strong> Military-grade directed energy systems can generate temperatures exceeding 5,000 degrees Fahrenheit at the point of impact — sufficient to melt steel and reduce concrete to powder</li>
+<li><strong>Precision targeting.</strong> DEWs can be directed with precision, potentially explaining why structures were destroyed while adjacent vegetation survived</li>
+<li><strong>Rapid ignition.</strong> A DEW strike can ignite a target instantly, potentially explaining the simultaneous ignition of fires at multiple widely separated locations</li>
+<li><strong>Invisible beam.</strong> Most DEW systems operate in wavelengths invisible to the naked eye, leaving no visible trace of the weapon that ignited the fire</li>
+</ul>
+<p>The U.S. military has openly demonstrated directed energy weapons including:</p>
+<ul>
+<li>The <strong>Active Denial System</strong> — a truck-mounted microwave weapon designed for crowd control</li>
+<li>The <strong>HELLADS</strong> (High Energy Liquid Laser Area Defense System) — a DARPA-developed 150-kilowatt laser weapon</li>
+<li><strong>Ship-mounted laser weapons</strong> — the Navy's Laser Weapons System (LaWS) and the more advanced HELIOS system</li>
+<li><strong>Airborne laser platforms</strong> — including the YAL-1 Airborne Laser, a Boeing 747 equipped with a megawatt-class laser</li>
+</ul>
+<p>These are acknowledged, operational systems. The classified systems are assumed to be significantly more advanced. As documented in <a href="/darpa-dark-winter-military-origins/?lang=es">DARPA's Dark Winter: The Military Origins of Everything</a>, military technology consistently exists decades ahead of what is publicly disclosed.</p>
+<h2 id="the-land-grab-agenda">The Land Grab Agenda</h2>
+<p>The fires that have destroyed communities across California, Hawaii, and other regions share a common aftermath: aggressive land acquisition efforts by government agencies and private developers.</p>
+<p><strong>Lahaina redevelopment.</strong> Within days of the Maui fire, Hawaii Governor Josh Green stated publicly that the fire-damaged land was "not going to be available" for outside purchase — language that residents interpreted as a precursor to government acquisition. Many residents held ancestral Hawaiian land that had resisted development pressure for decades. The fire accomplished what decades of real estate pressure could not: the displacement of long-term residents from some of the most valuable land in Hawaii.</p>
+<p><strong>California smart city corridors.</strong> Analysis of fire-damaged areas in California has revealed significant overlap between destroyed communities and planned high-speed rail corridors, smart city development zones, and wildland-urban interface areas targeted for rezoning. The destruction of existing communities creates a blank slate for development that would have been politically impossible if the original residents and structures still existed.</p>
+<p>As documented in <a href="/smart-city-prison-15-minute-trap/?lang=es">Smart City Prison: The 15-Minute City Trap</a>, the smart city agenda requires the transformation of existing urban and suburban landscapes into purpose-built, technology-integrated environments. This transformation is much easier when the existing structures have been reduced to ash.</p>
+<h2 id="weather-warfare-and-fire">Weather Warfare and Fire</h2>
+<p>As documented in <a href="/weather-warfare-weaponized-climate/?lang=es">Weather Warfare: Weaponized Climate</a>, the ability to modify weather includes the ability to create the conditions — extreme drought, high winds, low humidity — that make catastrophic fire possible or inevitable.</p>
+<p>The convergence of weather modification capabilities, directed energy weapon technology, and land acquisition agendas creates a scenario in which fires are not merely natural disasters but potential instruments of policy — tools for clearing land, displacing populations, and advancing development agendas that would face insurmountable political resistance through normal channels.</p>
+<p>As documented in <a href="/geoengineering-chemtrails-sky/?lang=es">Geoengineering and Chemtrails</a>, the atmospheric manipulation programs that spray metallic particulates into the sky also affect fire conditions. Aluminum nanoparticles in the atmosphere and deposited on vegetation are highly flammable and can dramatically increase fire intensity. Trees and vegetation coated in aluminum particulates from aerial spraying programs would burn at significantly higher temperatures than uncoated vegetation — potentially explaining the extreme temperatures observed in anomalous fire events.</p>
+<h2 id="the-arson-epidemic">The Arson Epidemic</h2>
+<p>Beyond the DEW hypothesis, documented arson has contributed to wildfire disasters across the United States and globally:</p>
+<ul>
+<li>In the 2019-2020 Australian bushfire season, over 180 people were arrested for arson-related offenses</li>
+<li>In the 2020 Oregon fires, multiple arrests were made for arson, though officials downplayed the arson narrative</li>
+<li>In California, PG&#x26;E (Pacific Gas and Electric) was convicted of 84 counts of involuntary manslaughter in connection with the Camp Fire, caused by the failure of its power transmission equipment. PG&#x26;E had previously been convicted of six felonies for the 2010 San Bruno pipeline explosion. The utility company's systematic failure to maintain its infrastructure — while paying billions in dividends to shareholders — created the conditions for fire, even if the ignition was not deliberate.</li>
+</ul>
+<p>Whether fires are caused by directed energy, arson, utility negligence, or natural causes, the pattern of response is consistent: communities are destroyed, residents are displaced, land is acquired, and the rebuilding process favors smart city development, zoning changes, and infrastructure that consolidates control.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/65-Smart_Dust_Everywhere-Military_Surveillance_Tech.mp4">Smart Dust</a> — Particles in the atmosphere that may intensify fire behavior</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> — The military technologies behind the invisible fire</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li>
+<p><a href="https://confliction.zzzdaily.com/tracks/es/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> — When fire invades the place of refuge, destroying shelter and safety</p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/es/31-DEW_In_The_Street_-_Directed_Energy_Weapons_.mp4">DEW In The Street</a></p>
+</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/directed-energy-weapons-invisible-fire/?lang=es">Directed Energy Weapons: The Invisible Fire from the Sky</a> — The military technology capable of the destruction observed</li>
+<li><a href="/weather-warfare-weaponized-climate/?lang=es">Weather Warfare: Weaponized Climate</a> — Creating the conditions for catastrophic fire</li>
+<li><a href="/geoengineering-chemtrails-sky/?lang=es">Geoengineering and Chemtrails: What Is in the Sky?</a> — Atmospheric spraying that may increase fire intensity</li>
+<li><a href="/smart-city-prison-15-minute-trap/?lang=es">Smart City Prison: The 15-Minute City Trap</a> — The development agenda that benefits from fire-cleared land</li>
+</ul>
+<hr>
+<p><em>As it was in the days of Sodom, so it is in the days of Lahaina. Fire fell from the sky and consumed a city — and the aftermath served the purposes of those who sought the land. God's fire is purposeful, precise, and just. The fires documented in this article are their counterfeit: destruction that serves human agendas of land acquisition, population displacement, and smart city development. Whether ignited by directed energy, arson, negligence, or nature manipulated by human hands, the pattern is consistent — and the pattern benefits the powerful at the expense of the displaced. Satan is still a liar. And the lie is that these fires are all natural, all accidental, and all beyond investigation.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/food-environment/","className":"category-badge","children":"food-environment"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Forest Fires: Arson, Agenda, and Directed Energy"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The pattern of catastrophic wildfires that defy natural fire behavior — burning houses to white ash while leaving trees standing, following smart city development corridors, and coinciding with land acquisition agendas — and the convergence of directed energy weapon technology with wildfire events."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-09-29T10:00:00Z","children":"29 de septiembre de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","forest-fires",{"href":"/es/tag/forest-fires/","className":"tag-pill","children":["#","forest-fires"]}],["$","a","arson",{"href":"/es/tag/arson/","className":"tag-pill","children":["#","arson"]}],["$","a","DEW",{"href":"/es/tag/DEW/","className":"tag-pill","children":["#","DEW"]}],["$","a","land-grab",{"href":"/es/tag/land-grab/","className":"tag-pill","children":["#","land-grab"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/forest-fire-arson-agenda/","title":"Forest Fires: Arson, Agenda, and Directed Energy"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/forest-fire-arson-agenda/","title":"Forest Fires: Arson, Agenda, and Directed Energy"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Forest Fires: Arson, Agenda, and Directed Energy | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The pattern of catastrophic wildfires that defy natural fire behavior — burning houses to white ash while leaving trees standing, following smart city development corridors, and coinciding with land acquisition agendas — and the convergence of directed energy weapon technology with wildfire events."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"forest-fires, arson, DEW, land-grab"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/forest-fire-arson-agenda/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/forest-fire-arson-agenda/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/forest-fire-arson-agenda/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/forest-fire-arson-agenda/"}],["$","meta","10",{"property":"og:title","content":"Forest Fires: Arson, Agenda, and Directed Energy"}],["$","meta","11",{"property":"og:description","content":"The pattern of catastrophic wildfires that defy natural fire behavior — burning houses to white ash while leaving trees standing, following smart city development corridors, and coinciding with land acquisition agendas — and the convergence of directed energy weapon technology with wildfire events."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/forest-fire-arson-agenda/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/forest-fire-arson-agenda.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Forest Fires: Arson, Agenda, and Directed Energy"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Forest Fires: Arson, Agenda, and Directed Energy"}],["$","meta","25",{"name":"twitter:description","content":"The pattern of catastrophic wildfires that defy natural fire behavior — burning houses to white ash while leaving trees standing, following smart city development corridors, and coinciding with land acquisition agendas — and the convergence of directed energy weapon technology with wildfire events."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/forest-fire-arson-agenda.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","es","childhood-vaccines-mrna-technology",""],"i":false,"f":[[["",{"children":[["lang","es","d"],{"children":[["slug","childhood-vaccines-mrna-technology","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","es","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","childhood-vaccines-mrna-technology","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T2f84,<h1 id="las-vacunas-rutinarias-de-la-infancia-pueden-contener-tecnología-de-arnm">¿Las Vacunas Rutinarias de la Infancia Pueden Contener Tecnología de ARNm?</h1>
+<h2 id="el-patrón-antiguo">El Patrón Antiguo</h2>
+<blockquote>
+<p>"Y Jehová Dios formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida, y fue el hombre un ser viviente." — Génesis 2:7</p>
+</blockquote>
+<p>Dios formó a los niños con Sus propias manos. Cada célula, cada hebra de ADN, cada sistema biológico en el cuerpo de un recién nacido lleva la firma de la artesanía divina. Cuando Dios sopló vida en Adán, estableció un principio inviolable: el código de la vida pertenece al Creador, no a la criatura. El linaje de sangre fue sagrado desde el principio, y las Escrituras son implacables en su protección de esa herencia sagrada.</p>
+<p>Sin embargo, el patrón de Génesis 6 reaparece a través de los siglos: "Y vio Jehová que la maldad de los hombres era mucha en la tierra... toda carne había corrompido su camino sobre la tierra" (Génesis 6:5, 12). La corrupción de la carne no fue accidental — fue ingeniería. La incursión de los Nefilim fue un intento deliberado de corromper el genoma humano, de reescribir el diseño del Creador con un plano híbrido que haría que la humanidad fuera irredeemible. Esa campaña antigua para corromper la carne de los más vulnerables ha regresado en una forma tan sofisticada que la mayoría de los padres no pueden reconocerla.</p>
+<p>Como advierte la pista de ZZZ Daily <a href="https://zzzdaily.zzzdaily.com/tracks/es/255-Vaccine_Of_The_Beast.mp4">Vacuna De La Bestia</a>, el programa de inyección dirigido a niños no es meramente un protocolo médico — es la última iteración de una guerra antigua contra el linaje. Y la pista de Confliction <a href="https://confliction.zzzdaily.com/tracks/es/71-The_Garments_of_Skin.mp4">Los Vestidos de Piel</a> nos recuerda que Dios mismo vistió a la humanidad de carne — y esa carne nunca fue significada para ser reescrita por el hombre.</p>
+<hr>
+<h2 id="la-pregunta-que-cada-padre-está-haciendo">La Pregunta Que Cada Padre Está Haciendo</h2>
+<p>La pregunta ya no es teórica. Los padres en todo el mundo están preguntando si las vacunas que sus hijos reciben en visitas pediátricas rutinarias — las inyecciones en el programa de vacunación recomendado de la CDC — contienen tecnología de ARNm. La pregunta surge de una sospecha justificada nacida de años de engaño, ocultamiento, y la destrucción sistemática del consentimiento informado durante la campaña COVID-19.</p>
+<h3 id="la-posición-oficial">La Posición Oficial</h3>
+<p>Oficialmente, la CDC y la FDA sostienen que la tecnología de ARNm está presente solo en vacunas de COVID-19 (Pfizer-BioNTech y Moderna) y no es un componente de inmunizaciones rutinarias de la infancia como DTaP, MMR, IPV, hepatitis B, o vacunas de varicela. La posición oficial sostiene que estas vacunas tradicionales usan virus inactivados, virus atenuados en vivo, o tecnologías de subunidades de proteína — no ARNm mensajero.</p>
+<p>Pero la posición oficial y la realidad documentada han divergido tan dramáticamente durante los últimos años que la posición oficial sola ya no constituye una respuesta creíble.</p>
+<h3 id="por-qué-la-sospecha-existe">Por Qué la Sospecha Existe</h3>
+<p>La sospecha de que la tecnología de ARNm ha entrado o entrará en vacunas rutinarias de la infancia no es paranoia. Es la conclusión lógica extraída de la trayectoria documentada de la industria farmacéutica:</p>
+<ol>
+<li>
+<p><strong>Moderna y Pfizer ambos han anunciado candidatos de vacunas basadas en ARNm</strong> para virus respiratorio sincitial (RSV), influenza, y vacunas de combinación. Estos se están desarrollando para uso pediátrico y se están moviendo a través de líneas regulatorias.</p>
+</li>
+<li>
+<p><strong>La FDA aprobó vacunas de ARNm COVID-19 para niños tan jóvenes como 6 meses</strong> en junio de 2022, estableciendo el precedente regulatorio para inyectar construcciones de ARNm en bebés.</p>
+</li>
+<li>
+<p><strong>Las estrategias de vacuna de combinación</strong> se están desarrollando que empaquetarían componentes de ARNm con antígenos de vacuna tradicionales en una sola inyección, lo que significa que un niño podría recibir tecnología de ARNm incorporada dentro de lo que aparece como una vacuna de la infancia convencional.</p>
+</li>
+<li>
+<p><strong>Las presentaciones de patentes de Moderna y BioNTech</strong> describen plataformas de ARNm diseñadas para entrega multi-antígeno — una construcción de ARNm única codificando proteínas de múltiples patógenos, diseñada para reemplazar varias vacunas convencionales de la infancia con una inyección de ARNm.</p>
+</li>
+</ol>
+<hr>
+<h2 id="el-informe-kingston-evidencia-documentada">El Informe Kingston: Evidencia Documentada</h2>
+<p>Karen Kingston, analista de biotecnología y contratista anterior de Pfizer, ha documentado extensamente a través de <a href="https://karenkingston.substack.com">El Informe Kingston</a> la trayectoria de la tecnología de ARNm desde productos de emergencia COVID hacia la infraestructura de vacunas más amplia, incluyendo productos destinados a niños.</p>
+<h3 id="la-plataforma-de-arnm-como-reemplazo-universal">La Plataforma de ARNm Como Reemplazo Universal</h3>
+<p>El análisis de Kingston de presentaciones de compañías farmacéuticas e presentaciones a inversores revela que la industria ve el ARNm no como tecnología de emergencia única sino como una plataforma de reemplazo universal para todas las vacunas. Los propios informes 10-K de Moderna con la Comisión de Bolsa y Valores describen su plataforma de ARNm como capaz de producir vacunas para "virtualmente cualquier enfermedad infecciosa," con un línea que incluye formulaciones pediátricas para enfermedades actualmente cubiertas por vacunas convencionales de la infancia.</p>
+<p>Kingston ha documentado que el línea de Moderna incluye candidatos de ARNm para:</p>
+<ul>
+<li><strong>Influenza</strong> — incluyendo formulaciones pediátricas</li>
+<li><strong>RSV</strong> — dirigido específicamente a bebés y niños pequeños</li>
+<li><strong>Vacunas de combinación</strong> — construcciones de ARNm codificando múltiples antígenos en una sola inyección</li>
+<li><strong>CMV (Citomegalovirus)</strong> — una causa principal de defectos de nacimiento cuando se contrae durante el embarazo</li>
+</ul>
+<p>La significancia es clara: la industria está construyendo hacia un futuro donde cada vacuna de la infancia es un producto de ARNm. La pregunta no es si el ARNm entrará al programa de la infancia rutinaria — es cuándo, y si los padres serán informados.</p>
+<hr>
+<h2 id="lo-que-los-padres-pueden-hacer">Lo Que Los Padres Pueden Hacer</h2>
+<ol>
+<li>
+<p><strong>Exigir el inserto de paquete completo</strong> para cada vacuna administrada a tu niño. No la Declaración de Información de Vacunas (VIS) — el inserto de paquete real del fabricante con la lista de ingredientes completa, contraindicaciones, y datos de eventos adversos.</p>
+</li>
+<li>
+<p><strong>Preguntar específicamente sobre componentes de ARNm.</strong> Preguntar al proveedor de cuidado de salud administrador directamente: "¿Este producto contiene ARNm, ARNm modificado, o ARNm mensajero modificado por nucleósido?" Obtener la respuesta por escrito.</p>
+</li>
+<li>
+<p><strong>Rastrear el línea.</strong> Monitorear reuniones de comités asesores de la FDA y procedimientos de ACIP para nuevas aprobaciones de vacunas pediátricas de ARNm. Estas reuniones son públicas pero mal publicitadas.</p>
+</li>
+<li>
+<p><strong>Conocer las leyes de exención de tu estado.</strong> Cada estado tiene alguna forma de exención de vacuna. Saber qué exenciones están disponibles en tu jurisdicción — médica, religiosa, o filosófica — y entender el proceso para reclamarlas.</p>
+</li>
+<li>
+<p><strong>Educar a otros padres.</strong> El marco de consentimiento informado ha sido sistemáticamente desmantelado. Reconstruirlo comienza con padres compartiendo información con otros padres.</p>
+</li>
+</ol>
+<hr>
+<h2 id="fuentes">Fuentes</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">El Informe Kingston</a>. Análisis de biotecnología y documentación farmacéutica.</li>
+<li>Programa de Inmunización de la Infancia Recomendado por la CDC</li>
+<li>Protocolo de Ensayo Clínico Pfizer-BioNTech C4591001</li>
+<li>Presentaciones de Bolsa de Valores de Moderna (Reportes Anuales 10-K)</li>
+<li>Minutas de Reuniones de ACIP y Recomendaciones</li>
+<li>Estudio de Biodistribución de PMDA Japonés (Informe de Pfizer)</li>
+</ul>
+<h2 id="descubre-más">Descubre Más</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Testimonio de la Experiencia Cercana a la Muerte de Howard Pittman — Advertencia del Fin de los Tiempos Que Dios Le Dio</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Confidencial Católico: Secretos Deplorables de los Jesuitas Revelados</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicidio y Pharmakeia — La Brujería de la Medicina Moderna</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">¡Lo Que Podría Estar en el Sótano del Vaticano Puede Sorprenderte!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV en YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry en YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions en YouTube</a></li>
+</ul>
+<hr>
+<h2 id="escucha-mientras-lees">Escucha Mientras Lees</h2>
+<p>Estas pistas de ZZZ Daily exploran los temas en este artículo:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/255-Vaccine_Of_The_Beast.mp4">Vacuna De La Bestia</a> — El programa de inyección como el frente más reciente en una guerra antigua contra el linaje</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/41-Shedding_Proof.mp4">Prueba de Desprendimiento</a> — Evidencia de que los productos de ARNm se transmiten del inyectado al no inyectado</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/es/47-Nanobot_Swarms.mp4">Enjambres de Nanobots</a> — El ejército invisible operando a nivel molecular dentro de los cuerpos humanos</li>
+</ul>
+<p>Del álbum Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/71-The_Garments_of_Skin.mp4">Los Vestidos de Piel</a> — Dios vistió a la humanidad en carne que nunca fue significada para ser reescrita por el hombre</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/es/51-The_Covenant_Blood.mp4">La Sangre del Pacto</a> — El linaje sagrado y su protección divina</li>
+</ul>
+<hr>
+<h2 id="explora-más">Explora Más</h2>
+<ul>
+<li><a href="/self-amplifying-mrna-replicon/?lang=es">ARNm Auto-Amplificador: La Inyección Que Sigue Replicándose</a> — Cómo sa-mRNA convierte el cuerpo en una fábrica permanente de proteína</li>
+<li><a href="/synthetic-biology-rewriting-life/?lang=es">Biología Sintética: Reescribiendo la Vida</a> — El alcance completo de la biología sintética y sus implicaciones</li>
+<li><a href="/rockefeller-medicine-captured-healthcare/?lang=es">Medicina Rockefeller: Atención Médica Capturada</a> — Cómo el establecimiento médico fue capturado por intereses corporativos</li>
+<li><a href="/natural-immunity-god-given-design/?lang=es">Inmunidad Natural: Diseño Dado por Dios</a> — El sistema inmunológico como arquitectura divina</li>
+</ul>
+<hr>
+<p><em>El Dios que formó a tu niño en el útero no diseñó ese cuerpo para ser una plataforma para biología sintética. Cada célula lleva Su firma. Cada hebra de ADN es Su código. La guerra antigua contra el linaje ha tomado una nueva forma, pero el Guardián de Israel no duerme ni reposa. "Antes que te formase en el vientre te conocí" (Jeremías 1:5). Lo que Dios ha formado, que ninguna corporación farmacéutica lo corrompa.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/es/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"¿Las Vacunas Rutinarias de la Infancia Pueden Contener Tecnología de ARNm?"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Investigando si las vacunas de infancia rutinarias ahora contienen tecnología de ARNm, lo que los padres deben saber, y la evidencia documentada de presentaciones regulatorias."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-09T10:00:00Z","children":"9 de abril de 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","childhood-vaccines",{"href":"/es/tag/childhood-vaccines/","className":"tag-pill","children":["#","childhood-vaccines"]}],["$","a","mRNA",{"href":"/es/tag/mRNA/","className":"tag-pill","children":["#","mRNA"]}],["$","a","pediatric-health",{"href":"/es/tag/pediatric-health/","className":"tag-pill","children":["#","pediatric-health"]}],["$","a","vaccine-ingredients",{"href":"/es/tag/vaccine-ingredients/","className":"tag-pill","children":["#","vaccine-ingredients"]}],["$","a","informed-consent",{"href":"/es/tag/informed-consent/","className":"tag-pill","children":["#","informed-consent"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/es/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/childhood-vaccines-mrna-technology/","title":"¿Las Vacunas Rutinarias de la Infancia Pueden Contener Tecnología de ARNm?"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/es/childhood-vaccines-mrna-technology/","title":"¿Las Vacunas Rutinarias de la Infancia Pueden Contener Tecnología de ARNm?"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"¿Las Vacunas Rutinarias de la Infancia Pueden Contener Tecnología de ARNm? | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Investigando si las vacunas de infancia rutinarias ahora contienen tecnología de ARNm, lo que los padres deben saber, y la evidencia documentada de presentaciones regulatorias."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"childhood-vaccines, mRNA, pediatric-health, vaccine-ingredients, informed-consent"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/es/childhood-vaccines-mrna-technology/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/childhood-vaccines-mrna-technology/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/childhood-vaccines-mrna-technology/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/childhood-vaccines-mrna-technology/"}],["$","meta","10",{"property":"og:title","content":"¿Las Vacunas Rutinarias de la Infancia Pueden Contener Tecnología de ARNm?"}],["$","meta","11",{"property":"og:description","content":"Investigando si las vacunas de infancia rutinarias ahora contienen tecnología de ARNm, lo que los padres deben saber, y la evidencia documentada de presentaciones regulatorias."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/es/childhood-vaccines-mrna-technology/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/childhood-vaccines-mrna-technology.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"¿Las Vacunas Rutinarias de la Infancia Pueden Contener Tecnología de ARNm?"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"¿Las Vacunas Rutinarias de la Infancia Pueden Contener Tecnología de ARNm?"}],["$","meta","25",{"name":"twitter:description","content":"Investigando si las vacunas de infancia rutinarias ahora contienen tecnología de ARNm, lo que los padres deben saber, y la evidencia documentada de presentaciones regulatorias."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/childhood-vaccines-mrna-technology.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"
