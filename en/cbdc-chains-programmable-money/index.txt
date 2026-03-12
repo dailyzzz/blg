@@ -1,0 +1,195 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","cbdc-chains-programmable-money",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","cbdc-chains-programmable-money","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cbdc-chains-programmable-money","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T39cb,<h1 id="cbdc-chains-the-programmable-money-that-controls-you">CBDC Chains: The Programmable Money That Controls You</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon." — Matthew 6:24</p>
+</blockquote>
+<p>Jesus did not merely warn against greed. He identified mammon — the system of wealth and material dependency — as a rival master, a counterfeit lord demanding the same allegiance that belongs only to God.</p>
+<p>Central Bank Digital Currency is mammon perfected. It is money that is not merely a medium of exchange but a mechanism of obedience — programmable, conditional, revocable, and designed to serve as the operating system of human behavior.</p>
+<p>When your money can be told what to buy, when to expire, and whom to exclude, mammon has become your master in the most literal sense possible.</p>
+<p>The transition from physical money to programmable digital currency is not an evolution. It is a revolution — the replacement of a tool you control with a tool that controls you.</p>
+<p>The Confliction album track <a href="https://confliction.zzzdaily.com/tracks/en/51-The_Covenant_Blood.mp4">The Covenant Blood</a> speaks of the true covenant — sealed not in digital tokens but in the blood of Christ. The counterfeit covenant being constructed demands not faith but compliance, not worship but submission, and its currency is not grace but programmed obedience.</p>
+<hr>
+<h2 id="what-is-cbdc">What Is CBDC?</h2>
+<p>A Central Bank Digital Currency is a digital form of a nation's fiat currency, issued and controlled directly by the central bank.</p>
+<p>Key distinctions:</p>
+<ul>
+<li>Unlike <strong>commercial bank deposits</strong> (which are liabilities of private banks), CBDC is a direct liability of the central bank itself</li>
+<li>Unlike <strong>cryptocurrency</strong> (which is decentralized), CBDC is entirely centralized — designed, issued, monitored, and controlled by the institution that controls monetary policy</li>
+<li>Unlike <strong>cash</strong> (which is anonymous), CBDC is traceable, programmable, and revocable</li>
+</ul>
+<p>As of 2024, over 130 countries representing 98% of global GDP were exploring or developing CBDC. The Bank for International Settlements (BIS) — the central bank of central banks — coordinates CBDC development across jurisdictions.</p>
+<p>Active deployments and pilots include:</p>
+<ul>
+<li><strong>China's digital yuan (e-CNY)</strong> — over 260 million wallets, dozens of pilot cities</li>
+<li><strong>Nigeria's eNaira</strong> — launched 2021</li>
+<li><strong>The Bahamas Sand Dollar</strong> — launched 2020</li>
+<li><strong>European Central Bank</strong> — developing the digital euro</li>
+<li><strong>Bank of England</strong> — developing a digital pound</li>
+<li><strong>Federal Reserve</strong> — published research papers on a digital dollar</li>
+</ul>
+<p>This is not speculative technology. It is in active development and deployment worldwide.</p>
+<hr>
+<h2 id="the-programmability-weapon">The Programmability Weapon</h2>
+<p>The defining feature of CBDC — the feature that distinguishes it from every previous form of money — is <strong>programmability</strong>. CBDC is not merely digital money. It is money with code embedded in it — code that determines how, when, where, and by whom it can be used.</p>
+<p>The Bank of England's 2023 consultation paper on the digital pound explicitly discussed programmability, distinguishing between:</p>
+<ul>
+<li><strong>Programmable money</strong> — conditions embedded in the currency itself</li>
+<li><strong>Programmable payments</strong> — conditions applied by intermediaries</li>
+</ul>
+<p>Both achieve the same result: money that obeys rules written by someone other than the person holding it.</p>
+<p>Documented and proposed programmability features include:</p>
+<p><strong>Expiration dates.</strong> CBDC can be programmed to expire after a set period. China's digital yuan pilot tested this, issuing stimulus payments that had to be spent within a limited timeframe. This eliminates the ability to save — a fundamental economic freedom.</p>
+<p><strong>Spending restrictions.</strong> CBDC can be coded to allow or disallow specific categories of purchases. A government could program CBDC to prohibit alcohol, tobacco, firearms, certain foods, or fuel beyond a carbon allowance. The money itself enforces the restriction.</p>
+<p><strong>Geographic restrictions.</strong> CBDC can be limited to specific areas. Your money could work only within your city or 15-minute zone — as explored in <a href="/smart-city-prison-15-minute-trap/?lang=en">Smart City Prison: The 15-Minute Trap</a>.</p>
+<p><strong>Conditional access.</strong> CBDC access can be conditioned on compliance — vaccination status, social credit score, tax compliance, carbon allowance. China's social credit system already restricts purchases for low-score citizens. CBDC automates this.</p>
+<p><strong>Negative interest rates.</strong> Your balance decreases over time, forcing spending and preventing saving. This is engineered dependency.</p>
+<hr>
+<h2 id="the-surveillance-layer">The Surveillance Layer</h2>
+<p>Every CBDC transaction is, by design, visible to the issuing central bank. Unlike cash — which is anonymous — CBDC gives the central bank a real-time view of every transaction in the economy.</p>
+<p>This is not a side effect. It is the stated purpose.</p>
+<p>The BIS has published multiple papers describing the "data opportunities" that CBDC provides. A 2021 BIS working paper noted that CBDC could enable central banks to:</p>
+<ul>
+<li>"Observe the flow of money in real time"</li>
+<li>"Implement monetary policy at the individual level"</li>
+</ul>
+<p>Consider what "monetary policy at the individual level" means:</p>
+<ul>
+<li>Different interest rates for different people based on behavior</li>
+<li>Stimulating spending in specific demographics by expiring their money faster</li>
+<li>Discouraging certain purchases by reducing money value for those purchases</li>
+<li>Rewarding compliant citizens with bonuses</li>
+<li>Punishing non-compliant ones with deductions</li>
+</ul>
+<p>This is not monetary policy. This is behavioral engineering executed through the money supply.</p>
+<p>The surveillance extends beyond economics. CBDC transaction data reveals:</p>
+<ul>
+<li>Every donation to a political cause</li>
+<li>Every purchase at a gun store</li>
+<li>Every payment to a lawyer</li>
+<li>Every visit to a medical facility</li>
+<li>Every subscription to a media outlet</li>
+</ul>
+<p>All visible, in real time, to the central bank and any government agency with access.</p>
+<hr>
+<h2 id="china-the-blueprint">China: The Blueprint</h2>
+<p>China's digital yuan provides the clearest picture of CBDC as a control mechanism. Key features:</p>
+<ul>
+<li><strong>Real-name registration</strong> required for wallets above the lowest tier</li>
+<li><strong>Transaction limits</strong> tied to identity verification level</li>
+<li><strong>Offline capability</strong> that still records transactions for later upload</li>
+<li><strong>Smart contract functionality</strong> enabling programmable conditions</li>
+<li><strong>Integration with social credit scores</strong></li>
+</ul>
+<p>Chinese citizens with low social credit scores already face:</p>
+<ul>
+<li>Inability to purchase airline tickets</li>
+<li>Inability to purchase first-class train tickets</li>
+<li>Throttled internet access</li>
+<li>Restricted financial services</li>
+</ul>
+<p>The digital yuan systematizes these restrictions and makes them automatic. No human bureaucrat processes the punishment. The code enforces it.</p>
+<p>The Chinese model is not unique to China. It is a template.</p>
+<p>The BIS, IMF, and World Bank have all published CBDC frameworks incorporating identity verification, transaction monitoring, and programmability. The language differs — "financial inclusion" instead of "social credit," "consumer protection" instead of "behavioral control" — but the architecture is identical.</p>
+<hr>
+<h2 id="the-digital-id-integration">The Digital ID Integration</h2>
+<p>CBDC cannot function without digital identity. Every transaction requires authentication — verifying who initiates it.</p>
+<p>This links CBDC directly to digital identity infrastructure, as explored in <a href="/digital-id-global-identity-prison/?lang=en">Digital ID: The Global Identity Prison</a> and <a href="/mark-of-the-beast-digital-id/?lang=en">The Mark of the Beast and Digital Identity</a>.</p>
+<p>The integration creates the full architecture of Revelation 13:</p>
+<ul>
+<li>A system requiring <strong>verifiable identity</strong> for buying and selling</li>
+<li>Identity linked to <strong>compliance status</strong></li>
+<li>No identity = no money</li>
+<li>Non-compliant identity = no money</li>
+</ul>
+<p>The mark — whatever form it takes — is the authentication mechanism linking your body to your CBDC wallet and your wallet to the compliance system.</p>
+<p>This is not interpretation. This is the published design specification of every major CBDC project.</p>
+<hr>
+<h2 id="the-cashless-prerequisite">The Cashless Prerequisite</h2>
+<p>CBDC's control features are only effective in a cashless environment. As long as physical cash exists, citizens can opt out.</p>
+<p>The push to eliminate cash — documented in <a href="/cashless-society-trap/?lang=en">The Cashless Society Trap</a> — is therefore a prerequisite.</p>
+<p>The sequence is clear and deliberate:</p>
+<ol>
+<li><strong>Reduce cash usage</strong> through convenience incentives</li>
+<li><strong>Stigmatize cash</strong> as the tool of criminals</li>
+<li><strong>Introduce CBDC</strong> as a superior alternative</li>
+<li><strong>Eliminate cash</strong> once CBDC reaches critical mass</li>
+<li><strong>Activate programmability</strong> once cash is no longer available</li>
+</ol>
+<p>Each step appears voluntary and benign in isolation. Together, they constitute the construction of a financial prison with no exit.</p>
+<hr>
+<h2 id="the-global-coordination">The Global Coordination</h2>
+<p>CBDC development is coordinated through international institutions:</p>
+<p><strong>Bank for International Settlements (BIS)</strong> — operates the Innovation Hub, coordinating CBDC research worldwide. Projects include:</p>
+<ul>
+<li><strong>mBridge</strong> — cross-border CBDC between China, Hong Kong, Thailand, and UAE</li>
+<li><strong>Project Helvetia</strong> — wholesale CBDC in Switzerland</li>
+<li><strong>Dunbar</strong> — multi-CBDC platform for Singapore, Malaysia, Australia, and South Africa</li>
+</ul>
+<p><strong>International Monetary Fund (IMF)</strong> — published frameworks for CBDC interoperability, advocating CBDC for "financial inclusion."</p>
+<p><strong>World Economic Forum (WEF)</strong> — convenes central bank governors, tech executives, and policy makers for CBDC governance frameworks.</p>
+<p>The coordination ensures that when CBDC is fully deployed, it will be interoperable across borders — a global financial system where every transaction is visible and subject to programmable controls.</p>
+<p>The system is built not as a national project but as a global infrastructure.</p>
+<hr>
+<h2 id="biblical-reflection">Biblical Reflection</h2>
+<blockquote>
+<p>"And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name." — Revelation 13:16-17</p>
+</blockquote>
+<p>The prophecy describes a system with three characteristics:</p>
+<ul>
+<li><strong>Universal application</strong> — "all, both small and great"</li>
+<li><strong>Biometric authentication</strong> — "a mark in their right hand, or in their foreheads"</li>
+<li><strong>Total commercial control</strong> — "no man might buy or sell"</li>
+</ul>
+<p>CBDC, integrated with digital identity and deployed in a cashless economy, fulfills all three with engineering precision.</p>
+<p>The question is no longer whether such a system is possible. It is being built.</p>
+<p>The question is no longer whether it will be deployed. It is being deployed.</p>
+<p>The only question that remains is whether you will accept the terms of the new money when it demands your compliance as the price of participation.</p>
+<hr>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/161-CBDC_Chains.mp4">CBDC Chains</a> — Programmable money that controls you</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/229-Digital_Dollar_Dragnet.mp4">Digital Dollar Dragnet</a> — The digital currency dragnet</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/cashless-society-trap/?lang=en">The Cashless Society Trap: When Cash Disappears, Freedom Dies</a> — The prerequisite agenda that makes CBDC control possible</li>
+<li><a href="/digital-id-global-identity-prison/?lang=en">Digital ID: The Global Identity Prison</a> — The identity layer that authenticates CBDC transactions</li>
+<li><a href="/mark-of-the-beast-digital-id/?lang=en">The Mark of the Beast and Digital Identity</a> — The prophetic framework for the biometric authentication system</li>
+</ul>
+<hr>
+<p><em>The money in your pocket obeys you. It goes where you send it, buys what you choose, and asks no questions. The money they are building obeys them. It goes where they permit, buys what they allow, and reports everything you do. This is not an upgrade. It is a replacement — of your sovereignty with their control, of your freedom with their code, of your money with their chains. Ye cannot serve God and mammon. But programmable mammon does not give you the choice. It serves itself.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/finance/","className":"category-badge","children":"finance"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"CBDC Chains: The Programmable Money That Controls You"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Central Bank Digital Currencies are not an upgrade to money. They are programmable control tokens that can expire, restrict purchases, enforce compliance, and be revoked at will — the financial architecture of Revelation 13 made real."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-01-29T10:00:00Z","children":"January 29, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CBDC",{"href":"/en/tag/CBDC/","className":"tag-pill","children":["#","CBDC"]}],["$","a","programmable-money",{"href":"/en/tag/programmable-money/","className":"tag-pill","children":["#","programmable-money"]}],["$","a","central-bank",{"href":"/en/tag/central-bank/","className":"tag-pill","children":["#","central-bank"]}],["$","a","digital-currency",{"href":"/en/tag/digital-currency/","className":"tag-pill","children":["#","digital-currency"]}],["$","a","control",{"href":"/en/tag/control/","className":"tag-pill","children":["#","control"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cbdc-chains-programmable-money/","title":"CBDC Chains: The Programmable Money That Controls You"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cbdc-chains-programmable-money/","title":"CBDC Chains: The Programmable Money That Controls You"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"CBDC Chains: The Programmable Money That Controls You | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Central Bank Digital Currencies are not an upgrade to money. They are programmable control tokens that can expire, restrict purchases, enforce compliance, and be revoked at will — the financial architecture of Revelation 13 made real."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CBDC, programmable-money, central-bank, digital-currency, control"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/cbdc-chains-programmable-money/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cbdc-chains-programmable-money/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cbdc-chains-programmable-money/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cbdc-chains-programmable-money/"}],["$","meta","10",{"property":"og:title","content":"CBDC Chains: The Programmable Money That Controls You"}],["$","meta","11",{"property":"og:description","content":"Central Bank Digital Currencies are not an upgrade to money. They are programmable control tokens that can expire, restrict purchases, enforce compliance, and be revoked at will — the financial architecture of Revelation 13 made real."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/cbdc-chains-programmable-money/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cbdc-chains-programmable-money.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"CBDC Chains: The Programmable Money That Controls You"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"CBDC Chains: The Programmable Money That Controls You"}],["$","meta","25",{"name":"twitter:description","content":"Central Bank Digital Currencies are not an upgrade to money. They are programmable control tokens that can expire, restrict purchases, enforce compliance, and be revoked at will — the financial architecture of Revelation 13 made real."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cbdc-chains-programmable-money.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","chickenpox-contagion-experiments",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","chickenpox-contagion-experiments","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","chickenpox-contagion-experiments","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T41a0,<h1 id="the-chickenpox-contagion-experiments-that-proved-nothing">The CHICKENPOX Contagion Experiments That Proved Nothing</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"For there is nothing covered, that shall not be revealed; neither hid, that shall not be known."</em> — Luke 12:2</p>
+</blockquote>
+<p>Everyone knows chickenpox is contagious. Children catch it from other children. It spreads through schools like wildfire. One child gets it, and soon the whole class follows. This is common knowledge — accepted, unquestioned, and completely unexamined by the vast majority of people who believe it.</p>
+<p>But what if the experiments designed to prove chickenpox contagion actually failed? What if the foundational science — the actual laboratory evidence — does not support the belief that chickenpox spreads from person to person through viral transmission?</p>
+<p>This is not speculation. This is a matter of historical record. The contagion experiments for chickenpox, conducted in the early-to-mid 20th century, consistently failed to produce the expected results. Researchers could not reliably make healthy people sick by exposing them to sick people. The virus narrative was maintained not because the evidence supported it, but because the medical establishment needed it to be true — needed it to justify vaccines, antiviral drugs, and the entire germ theory framework upon which modern medicine depends.</p>
+<p>Howard Pittman witnessed during his NDE the organized hierarchies of the demonic realm. He was told that 97.5% of Christians were failing, that 95% serve "self" rather than God, and that the spiritual warfare described in Ephesians 6:12 is more real than the physical world we see. The germ theory narrative is a weapon in this warfare — a lie so deeply embedded in human consciousness that questioning it feels like madness. But truth requires courage, and courage requires faith.</p>
+<p>The Jesuits, who infiltrate "cloaked with cunning" and practice "every species of vice," have embedded themselves in medical education, scientific institutions, and public health organizations worldwide. Napoleon's observation about their "absolute power" and John Adams's warning of "eternal damnation" for the "Society of Loyola's" remain as relevant today as when they were spoken.</p>
+<hr>
+<h2 id="the-failed-contagion-experiments">The Failed Contagion Experiments</h2>
+<h3 id="the-historical-record">The Historical Record</h3>
+<p>In the early 20th century, at the height of the germ theory revolution, researchers set out to prove that chickenpox (varicella) was contagious — that it could be transmitted from a sick person to a healthy person through direct contact or airborne exposure. The experiments they conducted tell a story very different from the one taught in medical schools.</p>
+<h3 id="the-gruenberg-experiments">The Gruenberg Experiments</h3>
+<p>Some of the most revealing chickenpox contagion experiments were conducted by researchers who attempted to transmit the disease by taking material from chickenpox blisters — the vesicular fluid teeming with what was believed to be the varicella virus — and directly applying it to the skin or mucous membranes of healthy subjects.</p>
+<p>The results were astonishing in their failure:</p>
+<ul>
+<li><strong>Direct inoculation</strong> of vesicular fluid onto the skin of healthy subjects produced no disease in the majority of cases</li>
+<li><strong>Scarification</strong> (scratching the skin and applying infected material) produced inconsistent results — some subjects developed mild local reactions, but full-blown chickenpox was rarely produced</li>
+<li><strong>Intranasal application</strong> of vesicular fluid failed to produce disease reliably</li>
+<li><strong>Close contact experiments</strong> — placing healthy subjects in direct, prolonged contact with actively infected patients — produced results far below the near-100% transmission rate the contagion model would predict</li>
+</ul>
+<h3 id="the-problem-of-attack-rates">The Problem of "Attack Rates"</h3>
+<p>Epidemiologists use the concept of "attack rates" to describe how effectively a disease spreads through a population. Chickenpox is claimed to have one of the highest attack rates of any disease — supposedly over 90% for susceptible household contacts.</p>
+<p>But this figure is derived from <strong>observational studies</strong>, not from controlled experiments. In observational studies, when one child in a household develops chickenpox and siblings subsequently develop it, the assumption is that the first child transmitted the disease to the siblings. But this assumption is precisely what needs to be proven — and the controlled experiments designed to prove it consistently failed to do so.</p>
+<p>What if siblings develop chickenpox around the same time not because one transmitted it to the other, but because they share the same environment — the same food, the same water, the same air quality, the same toxin exposure, the same nutritional deficiencies? What if chickenpox is not contagious at all, but is rather the body's response to environmental and nutritional conditions that multiple people in the same household share?</p>
+<h3 id="the-seasonal-pattern-problem">The Seasonal Pattern Problem</h3>
+<p>Chickenpox follows a seasonal pattern — it peaks in late winter and early spring. The germ theory explanation is that the virus spreads more easily in crowded indoor conditions during colder months. But this explanation raises its own questions:</p>
+<p>If chickenpox is caused by a virus that spreads through direct contact and airborne droplets, why would it have a seasonal pattern at all? Viruses don't know what month it is. People are in close contact year-round in schools, offices, and public spaces.</p>
+<p>The terrain theory explanation is far more coherent: in late winter, after months of reduced sunlight, reduced physical activity, reduced fresh food consumption, and increased exposure to indoor pollutants (heating fumes, recirculated air, mold), the body's vitality is at its lowest point. This is when the body is most likely to initiate a detoxification response — which is what diseases like chickenpox actually represent.</p>
+<p>The chickenpox rash, in the terrain model, is the body expelling toxins through the skin — the body's largest elimination organ. The fever is the body raising its temperature to accelerate metabolic processes. The fatigue is the body redirecting energy toward healing. These are not signs of infection — they are signs of healing.</p>
+<h2 id="the-varicella-vaccine-solution-to-a-non-problem">The Varicella Vaccine: Solution to a Non-Problem</h2>
+<h3 id="the-vaccine-arrives">The Vaccine Arrives</h3>
+<p>In 1995, the varicella vaccine (Varivax) was added to the US childhood immunization schedule. Before the vaccine, chickenpox was considered a normal childhood illness — uncomfortable but rarely dangerous. Virtually every child got it, and virtually every child recovered with lifelong immunity.</p>
+<p>The vaccine transformed chickenpox from a routine childhood rite of passage into a "dangerous infectious disease" requiring pharmaceutical intervention. This transformation required a massive public relations campaign to convince parents that a disease they had experienced themselves as children — and recovered from without incident — was actually a serious threat requiring vaccination.</p>
+<h3 id="the-shingles-consequence">The Shingles Consequence</h3>
+<p>One of the most devastating consequences of the chickenpox vaccine has been the explosion of shingles cases in adults. Before the vaccine, adults were regularly exposed to children with chickenpox, and this exposure boosted their immune response to the varicella-zoster virus that lies dormant in their nervous system. This natural boosting prevented the reactivation of the virus as shingles.</p>
+<p>With the chickenpox vaccine dramatically reducing the number of children with active chickenpox, adults lost this natural boosting effect. Shingles rates have climbed dramatically since 1995 — and the pharmaceutical industry's solution is, of course, another vaccine: Shingrix, which costs approximately $300 for the two-dose series and generates billions in annual revenue for GlaxoSmithKline.</p>
+<p>The pattern is unmistakable: create the problem (eliminate natural chickenpox exposure), then sell the solution (shingles vaccine). This is the Rockefeller model perfected — the same model that creates nutritional deficiencies and then sells vitamin supplements, that pollutes the environment and then sells cancer drugs.</p>
+<h3 id="vaccine-injuries-swept-under-the-rug">Vaccine Injuries Swept Under the Rug</h3>
+<p>The VAERS (Vaccine Adverse Event Reporting System) database contains thousands of reports of adverse events following varicella vaccination, including:</p>
+<ul>
+<li>Seizures</li>
+<li>Encephalitis (brain inflammation)</li>
+<li>Thrombocytopenia (blood clotting disorders)</li>
+<li>Chickenpox infection from the vaccine itself (vaccine-strain varicella)</li>
+<li>Death</li>
+</ul>
+<p>A Harvard Pilgrim study estimated that fewer than 1% of vaccine adverse events are reported to VAERS, meaning the true number of injuries is likely orders of magnitude higher than the official count.</p>
+<h2 id="the-deeper-pattern-contagion-theory-as-social-control">The Deeper Pattern: Contagion Theory as Social Control</h2>
+<h3 id="why-the-contagion-myth-matters">Why the Contagion Myth Matters</h3>
+<p>The belief that diseases are contagious — that sickness can jump from person to person through invisible agents — is one of the most powerful tools of social control ever invented. It justifies:</p>
+<ul>
+<li><strong>Quarantine and lockdown powers</strong>: Governments can restrict freedom of movement based on the claim that sick people spread disease</li>
+<li><strong>Mandatory vaccination</strong>: If diseases are contagious, everyone must be vaccinated to protect the "herd"</li>
+<li><strong>Surveillance and tracking</strong>: Contact tracing, health passports, and digital monitoring systems are justified by contagion theory</li>
+<li><strong>Social isolation</strong>: Fear of contagion breaks social bonds, creates distrust between people, and makes populations easier to control</li>
+<li><strong>Medical dependency</strong>: If disease comes from outside, you need external interventions (drugs, vaccines) to fight it</li>
+</ul>
+<p>Without the contagion myth, the entire public health apparatus — the WHO, the CDC, the NIH, and their equivalents worldwide — would lose their primary justification for existence. Trillions of dollars in pharmaceutical revenue would evaporate. The power to lock down societies, mandate medical procedures, and track populations would disappear.</p>
+<p>This is why the contagion myth is defended so ferociously. It is not about science — it is about power. And power, as the Jesuits understood centuries ago, is the ultimate goal. Napoleon saw it clearly: "absolute power, universal power, power to control the world by the volition of a single man."</p>
+<h3 id="the-spiritual-dimension-of-contagion-fear">The Spiritual Dimension of Contagion Fear</h3>
+<p>Howard Pittman was shown that words have spiritual power. When the medical establishment declares that chickenpox is "highly contagious," that declaration creates fear — and fear is one of Satan's most effective weapons. Fear of disease keeps people in bondage to the medical system. Fear of contagion keeps people isolated from one another. Fear of the invisible keeps people looking in the wrong direction for the source of their suffering.</p>
+<p>The Bible says "fear not" 365 times — one for every day of the year. The medical establishment says "be afraid" every single day. One voice is God's; the other is not.</p>
+<p>The Jesuit order, operating through the Catholic Church and its allied institutions, has always used fear as a tool of control. Fear of hell, fear of excommunication, fear of the Inquisition — these were the tools of religious control. Fear of disease, fear of contagion, fear of pandemic — these are the tools of medical control. The mechanism is the same; only the vocabulary has changed.</p>
+<h2 id="what-the-evidence-actually-shows">What the Evidence Actually Shows</h2>
+<h3 id="detoxification-not-infection">Detoxification, Not Infection</h3>
+<p>The symptoms of chickenpox — rash, fever, fatigue, loss of appetite — are identical to the symptoms of detoxification. When the body is overloaded with toxins — from processed food, environmental chemicals, pharmaceutical drugs, or simply the metabolic waste that accumulates during periods of low vitality — it initiates a cleansing response.</p>
+<p>The rash is toxins being expelled through the skin. The fever accelerates metabolic processes and stimulates the body's healing mechanisms. The fatigue redirects energy from external activity to internal healing. The loss of appetite gives the digestive system a rest so energy can be directed toward detoxification.</p>
+<p>This process happens in waves, in seasonal patterns, and in clusters — not because of contagion, but because people in the same environment are exposed to the same toxins and experience the same seasonal decline in vitality.</p>
+<h3 id="the-implications">The Implications</h3>
+<p>If chickenpox is not contagious, then:</p>
+<ul>
+<li>The chickenpox vaccine is unnecessary and harmful</li>
+<li>The shingles epidemic was created by the vaccine, not by the virus</li>
+<li>The contagion model of disease is fundamentally flawed</li>
+<li>The entire public health apparatus built on contagion theory is illegitimate</li>
+<li>Freedom of movement, bodily autonomy, and personal liberty cannot be restricted based on disease transmission claims</li>
+</ul>
+<p>These implications are so radical, so threatening to the established order, that they explain why the failed contagion experiments were buried, why the terrain model was suppressed, and why anyone who questions germ theory is immediately labeled a dangerous crank.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — detailed analysis of failed contagion experiments and terrain theory</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — the spiritual warfare dimension</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit control mechanisms</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Historical records of chickenpox contagion experiments</li>
+<li>VAERS data on varicella vaccine adverse events</li>
+<li>Harvard Pilgrim Healthcare study on VAERS underreporting</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/41-Shedding_Proof.mp4">Shedding Proof</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/big-fat-tuberculosis-lie/?lang=en">The BIG FAT Tuberculosis LIE They Built Modern Medicine On</a></li>
+<li><a href="/immune-system-hoax/?lang=en">THE IMMUNE SYSTEM HOAX: What They Never Told You</a></li>
+<li><a href="/satanic-science-smallpox-vaccine/?lang=en">Satanic Science: The Horrifying Truth Behind the Smallpox Vaccine</a></li>
+</ul>
+<p><em>Chickenpox is not what they told you. It is not a contagious virus leaping from child to child. It is the body healing itself — expelling toxins, restoring balance, building strength. The experiments proved it. The establishment buried it. The truth remains, waiting for those with the courage to see it.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The CHICKENPOX Contagion Experiments That Proved Nothing"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Historical chickenpox contagion experiments failed to prove person-to-person transmission. The germ theory narrative crumbles under scientific scrutiny."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-11-09T10:00:00Z","children":"November 9, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","chickenpox",{"href":"/en/tag/chickenpox/","className":"tag-pill","children":["#","chickenpox"]}],["$","a","contagion-myth",{"href":"/en/tag/contagion-myth/","className":"tag-pill","children":["#","contagion-myth"]}],["$","a","germ-theory",{"href":"/en/tag/germ-theory/","className":"tag-pill","children":["#","germ-theory"]}],["$","a","varicella",{"href":"/en/tag/varicella/","className":"tag-pill","children":["#","varicella"]}],["$","a","medical-experiments",{"href":"/en/tag/medical-experiments/","className":"tag-pill","children":["#","medical-experiments"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/chickenpox-contagion-experiments/","title":"The CHICKENPOX Contagion Experiments That Proved Nothing"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/chickenpox-contagion-experiments/","title":"The CHICKENPOX Contagion Experiments That Proved Nothing"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The CHICKENPOX Contagion Experiments That Proved Nothing | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Historical chickenpox contagion experiments failed to prove person-to-person transmission. The germ theory narrative crumbles under scientific scrutiny."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"chickenpox, contagion-myth, germ-theory, varicella, medical-experiments"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/chickenpox-contagion-experiments/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/chickenpox-contagion-experiments/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/chickenpox-contagion-experiments/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/chickenpox-contagion-experiments/"}],["$","meta","10",{"property":"og:title","content":"The CHICKENPOX Contagion Experiments That Proved Nothing"}],["$","meta","11",{"property":"og:description","content":"Historical chickenpox contagion experiments failed to prove person-to-person transmission. The germ theory narrative crumbles under scientific scrutiny."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/chickenpox-contagion-experiments/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/chickenpox-contagion-experiments.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The CHICKENPOX Contagion Experiments That Proved Nothing"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The CHICKENPOX Contagion Experiments That Proved Nothing"}],["$","meta","25",{"name":"twitter:description","content":"Historical chickenpox contagion experiments failed to prove person-to-person transmission. The germ theory narrative crumbles under scientific scrutiny."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/chickenpox-contagion-experiments.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

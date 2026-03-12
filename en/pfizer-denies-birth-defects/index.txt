@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","pfizer-denies-birth-defects",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","pfizer-denies-birth-defects","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-denies-birth-defects","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4b3a,<h1 id="pfizer-denies-significant-increased-rate-of-birth-defects">Pfizer Denies Significant Increased Rate of Birth Defects</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Lo, children are an heritage of the LORD: and the fruit of the womb is his reward." — Psalm 127:3</p>
+</blockquote>
+<p>The womb is sacred ground. In Scripture, the formation of a child in the womb is portrayed as one of the most intimate acts of divine craftsmanship: "For thou hast possessed my reins: thou hast covered me in my mother's womb. I will praise thee; for I am fearfully and wonderfully made" (Psalm 139:13-14). God forms the child. God knits the bones. God covers the unborn in the secret place. The womb is the workshop of the Creator.</p>
+<p>When Pharaoh ordered the killing of Hebrew male infants (Exodus 1:16), it was an assault on the bloodline from which the Deliverer would come. When Herod slaughtered the innocents of Bethlehem (Matthew 2:16), it was an attack on the newborn Messiah. The pattern is ancient and relentless: the enemy targets the children, targets the womb, targets the next generation before it can draw breath.</p>
+<p>Now Pfizer — a corporation with a documented history of criminal fraud — denies that its mRNA product causes birth defects, even as its own internal documents tell a different story. The denial echoes the denials of every institution that has harmed the vulnerable and then refused accountability.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> speaks to the sacredness of the flesh that God fashioned — flesh that was never meant to be corrupted by synthetic genetic instructions. And the ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> reveals the broader system that targets the most vulnerable.</p>
+<hr>
+<h2 id="pfizers-denial">Pfizer's Denial</h2>
+<h3 id="the-official-position">The Official Position</h3>
+<p>Pfizer's official position regarding birth defects associated with its COVID-19 mRNA vaccine (BNT162b2, marketed as Comirnaty) is that there is no statistically significant evidence of an increased rate of birth defects in children born to vaccinated mothers. This position has been maintained through corporate communications, regulatory filings, and responses to media inquiries.</p>
+<p>The company points to post-marketing surveillance data, observational studies, and CDC reports that, it claims, show no meaningful elevation of birth defect rates above historical baselines. The language is carefully calibrated: "no significant increased rate" — not "no increase at all," but no increase that Pfizer considers statistically meaningful.</p>
+<h3 id="the-problem-with-the-denial">The Problem with the Denial</h3>
+<p>Pfizer's denial rests on a foundation of data that Pfizer itself controls, interprets, and selectively discloses. The history of pharmaceutical companies self-assessing the safety of their own products is a history of systematic underreporting, statistical manipulation, and delay. Pfizer itself has paid over $4.7 billion in criminal and civil penalties — including the largest healthcare fraud settlement in U.S. history ($2.3 billion in 2009) — for, among other things, fraudulent marketing and suppression of safety data.</p>
+<p>When a corporation with this record tells the public that its newest and most profitable product does not cause birth defects, the claim deserves scrutiny commensurate with the corporation's history.</p>
+<hr>
+<h2 id="what-pfizers-own-documents-show">What Pfizer's Own Documents Show</h2>
+<h3 id="the-pfizer-post-marketing-experience-report">The Pfizer Post-Marketing Experience Report</h3>
+<p>Among the most damning documents in the public record is the Pfizer "Cumulative Analysis of Post-Authorization Adverse Event Reports" — the document that Pfizer and the FDA attempted to keep sealed for 75 years and that was released only through court order in the lawsuit Public Health and Medical Professionals for Transparency v. FDA.</p>
+<p>This document, covering the first approximately 90 days of the vaccine's deployment (December 2020 through February 2021), contains a section on pregnancy and lactation outcomes that Pfizer did not voluntarily disclose:</p>
+<ul>
+<li><strong>270 known pregnancy cases</strong> were reported as adverse events during this period</li>
+<li>Of those 270 pregnancies, <strong>238 had no outcome recorded</strong> — meaning Pfizer did not follow up or did not report the outcomes</li>
+<li>Of the <strong>32 pregnancies with known outcomes:</strong>
+<ul>
+<li><strong>23 resulted in spontaneous abortion</strong> (miscarriage)</li>
+<li><strong>2 resulted in premature birth with neonatal death</strong></li>
+<li><strong>2 were spontaneous abortions with intrauterine death</strong></li>
+<li><strong>1 resulted in a spontaneous abortion with neonatal death</strong></li>
+<li><strong>4 were reported as "pending" outcomes</strong></li>
+</ul>
+</li>
+</ul>
+<p>This means that of the very small number of pregnancy outcomes Pfizer actually tracked and reported, approximately <strong>87% resulted in fetal loss.</strong> Pfizer's response has been that the sample is too small to draw conclusions — but the fact that the sample is small is itself an indictment. Pfizer did not adequately track pregnancy outcomes. The company that claimed its product was safe for pregnant women did not follow up on what happened to the pregnancies.</p>
+<h3 id="the-missing-data-problem">The Missing Data Problem</h3>
+<p>The 238 pregnancies with no outcome recorded represent a catastrophic data gap. If those outcomes were positive — healthy babies, uncomplicated deliveries — it would have been in Pfizer's interest to report them. The absence of data is itself data: Pfizer either could not or chose not to track what happened to the vast majority of pregnancies exposed to its product.</p>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> has highlighted this data gap repeatedly. Kingston has documented that Pfizer's clinical trials explicitly excluded pregnant women, yet the company did not object when regulators recommended the product for pregnant women — despite having virtually no safety data for that population.</p>
+<hr>
+<h2 id="the-biodistribution-problem">The Biodistribution Problem</h2>
+<h3 id="lipid-nanoparticles-in-reproductive-organs">Lipid Nanoparticles in Reproductive Organs</h3>
+<p>The biodistribution study that Pfizer submitted to Japanese regulators (and that was obtained through freedom of information requests) showed that lipid nanoparticles (LNPs) — the delivery vehicle for the mRNA — do not remain at the injection site. They distribute throughout the body, with notable concentration in:</p>
+<ul>
+<li><strong>The ovaries</strong> — LNPs accumulated in ovarian tissue at increasing concentrations over the 48-hour study period, with no plateau observed (meaning accumulation may have continued beyond the study window)</li>
+<li><strong>The liver</strong> — the organ responsible for metabolizing foreign substances, indicating systemic distribution</li>
+<li><strong>The spleen</strong> — a major immune organ</li>
+<li><strong>The adrenal glands</strong> — critical hormonal regulators</li>
+</ul>
+<p>The concentration of LNPs in the ovaries is directly relevant to birth defects. If mRNA-carrying lipid nanoparticles accumulate in ovarian tissue, they can potentially:</p>
+<ol>
+<li><strong>Transfect ovarian cells</strong> — introducing synthetic mRNA into the cells responsible for producing eggs</li>
+<li><strong>Damage oocytes</strong> — the immature egg cells that will become future children</li>
+<li><strong>Alter the ovarian environment</strong> — affecting hormonal signaling and follicular development</li>
+<li><strong>Produce spike protein in reproductive tissue</strong> — exposing the ovaries and developing follicles to a toxic protein</li>
+</ol>
+<h3 id="spike-protein-and-placental-function">Spike Protein and Placental Function</h3>
+<p>The spike protein produced by mRNA vaccines binds to ACE2 receptors. ACE2 is expressed at high levels in the placenta — the organ that connects mother and fetus, providing oxygen, nutrients, and immune factors to the developing child. Spike protein binding to placental ACE2 receptors can:</p>
+<ul>
+<li><strong>Disrupt placental blood flow</strong> — compromising oxygen and nutrient delivery to the fetus</li>
+<li><strong>Trigger placental inflammation</strong> — damaging the organ that protects the developing child</li>
+<li><strong>Cross the placental barrier</strong> — exposing the fetus directly to spike protein</li>
+<li><strong>Interfere with syncytiotrophoblast formation</strong> — the specialized placental cells essential for healthy pregnancy</li>
+</ul>
+<p>Kingston has documented that these mechanisms are not theoretical. Published research has detected spike protein in placental tissue, documented placental inflammation in vaccinated mothers, and identified fetal exposure to vaccine-generated spike protein.</p>
+<hr>
+<h2 id="the-historical-pattern-pharmaceutical-denials-and-birth-defects">The Historical Pattern: Pharmaceutical Denials and Birth Defects</h2>
+<h3 id="thalidomide">Thalidomide</h3>
+<p>In the late 1950s, the pharmaceutical company Chemie Grunenthal marketed thalidomide as a safe sedative for pregnant women suffering from morning sickness. The company denied, then minimized, then grudgingly acknowledged that thalidomide caused devastating birth defects — phocomelia (severe limb malformations) — in thousands of children worldwide. The denial lasted years while the damage mounted.</p>
+<h3 id="des-diethylstilbestrol">DES (Diethylstilbestrol)</h3>
+<p>From the 1940s through the 1970s, the synthetic estrogen DES was prescribed to millions of pregnant women to prevent miscarriage. The manufacturers denied that DES caused harm. Decades later, the daughters of women who took DES developed rare vaginal cancers, reproductive abnormalities, and fertility problems. The sons developed reproductive abnormalities. The harm crossed generations.</p>
+<h3 id="the-pattern-repeats">The Pattern Repeats</h3>
+<p>In both cases:</p>
+<ol>
+<li>The product was declared safe for pregnant women</li>
+<li>Adequate safety testing in pregnant women was not conducted</li>
+<li>Reports of harm were dismissed or minimized</li>
+<li>The company denied the connection</li>
+<li>The truth emerged years or decades later</li>
+<li>By the time it was acknowledged, the damage was done and the vulnerable had already been harmed</li>
+</ol>
+<p>Pfizer's denial of birth defects follows this pattern with precision. The product was recommended for pregnant women. Testing in pregnant women was inadequate. Reports of adverse pregnancy outcomes exist. The company denies the connection. The question is whether the truth will emerge in years or decades — and how many children will be affected in the interim.</p>
+<hr>
+<h2 id="the-kingston-report-the-full-picture">The Kingston Report: The Full Picture</h2>
+<p>Kingston's documentation extends beyond Pfizer's clinical trial data to encompass the broader biological mechanisms that make mRNA vaccination during pregnancy inherently risky:</p>
+<h3 id="immune-modulation-during-pregnancy">Immune Modulation During Pregnancy</h3>
+<p>Pregnancy requires precise immune modulation — the mother's immune system must tolerate the fetus (which carries foreign paternal antigens) while remaining capable of fighting infection. This delicate balance is orchestrated by specific cytokine profiles and regulatory T-cell populations.</p>
+<p>mRNA vaccination disrupts this balance. The immune activation triggered by the vaccine — the inflammatory response that the manufacturers describe as evidence that "the vaccine is working" — can shift the maternal immune profile toward inflammation and away from the tolerogenic state required for healthy pregnancy. This shift can contribute to:</p>
+<ul>
+<li><strong>Pre-eclampsia</strong> — dangerous pregnancy-related hypertension</li>
+<li><strong>Preterm labor</strong> — the immune inflammatory response can trigger premature contractions</li>
+<li><strong>Fetal growth restriction</strong> — inflammatory cytokines can compromise placental function</li>
+<li><strong>Miscarriage</strong> — first-trimester immune activation is a known risk factor for spontaneous abortion</li>
+</ul>
+<h3 id="the-blood-covenant-and-pregnancy">The Blood Covenant and Pregnancy</h3>
+<p>Leviticus 17:11 states: "For the life of the flesh is in the blood." During pregnancy, the maternal blood supply is the lifeline of the developing child. Every nutrient, every oxygen molecule, every immune factor reaches the fetus through the mother's blood. When that blood contains spike protein, lipid nanoparticles, and the inflammatory mediators triggered by mRNA vaccination, the fetus is exposed to substances that were never part of the Creator's design for the prenatal environment.</p>
+<p>The blood covenant between mother and child is sacred. It is the biological expression of the spiritual principle that life flows from one generation to the next through the blood. Corrupting the maternal blood supply with synthetic genetic products is a violation of that covenant — a corruption of the channel through which God transmits life from parent to child.</p>
+<hr>
+<h2 id="the-firmament-over-the-womb">The Firmament Over the Womb</h2>
+<p>Scripture describes the creation of a firmament — a protective dome — separating the waters above from the waters below (Genesis 1:6-8). This pattern of divine protection through separation appears throughout creation: the atmosphere protects the earth from cosmic radiation; the skin protects the body from pathogens; the blood-brain barrier protects the brain from toxins.</p>
+<p>The placenta is the firmament over the womb. It is the divinely designed barrier that separates the developing child from the maternal circulatory system while allowing the passage of essential nutrients and oxygen. When lipid nanoparticles cross this barrier — carrying mRNA or spike protein into the fetal environment — the firmament is breached. The protective dome that God designed to shield the most vulnerable human being is compromised by synthetic technology.</p>
+<hr>
+<h2 id="what-parents-and-expectant-mothers-should-know">What Parents and Expectant Mothers Should Know</h2>
+<ol>
+<li><strong>Pfizer's own documents show devastating pregnancy outcomes</strong> in the small number of cases that were actually tracked during the initial rollout period.</li>
+<li><strong>The company excluded pregnant women from clinical trials</strong> and therefore has no adequate safety data for this population.</li>
+<li><strong>LNPs accumulate in the ovaries</strong> — a finding with direct implications for fertility and fetal development.</li>
+<li><strong>Spike protein interacts with placental tissue</strong> through ACE2 receptor binding.</li>
+<li><strong>The historical pattern of pharmaceutical denials regarding birth defects</strong> has been repeated with precision by Pfizer.</li>
+<li><strong>No mRNA injection should be accepted during pregnancy</strong> until long-term, independently conducted safety studies in pregnant populations are completed and publicly disclosed.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of Pfizer documents and reproductive safety data.</li>
+<li>Pfizer "Cumulative Analysis of Post-Authorization Adverse Event Reports" (released via court order)</li>
+<li>Pfizer-BioNTech Biodistribution Study (submitted to Japanese PMDA)</li>
+<li>Public Health and Medical Professionals for Transparency v. FDA court filings</li>
+<li>Published research on spike protein and ACE2 in placental tissue</li>
+<li>VAERS pregnancy adverse event reports</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The system targeting the most vulnerable</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> — How disease and its "solution" are two sides of the same coin</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/41-Shedding_Proof.mp4">Shedding Proof</a> — Transmission of vaccine components to the uninjected</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> — The sacred flesh designed by God, not for corruption</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> — The life that flows through the blood</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/spike-antibodies-fetal-deaths/?lang=en">Spike Protein ANTIBODIES Increase Fetal Deaths</a> — How spike-targeted antibodies harm developing life</li>
+<li><a href="/women-hospitalized-mrna-vaccination/?lang=en">Study of 4,610 Women Hospitalized After mRNA Vaccination</a> — Documented harm to women</li>
+<li><a href="/first-increase-infant-deaths-2022/?lang=en">2022 Was The First Increase in Infant Deaths in Decades</a> — The post-vaccination infant mortality signal</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=en">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — How sa-mRNA extends all risks indefinitely</li>
+</ul>
+<hr>
+<p><em>Pfizer can deny. Pfizer can minimize. Pfizer can bury the data in 75 years of sealed documents. But the God who knits children in the womb sees every malformed limb, every stopped heart, every life lost before its first breath. "For thou hast possessed my reins: thou hast covered me in my mother's womb" (Psalm 139:13). The Creator who formed life in the womb will hold accountable those who corrupted it. No corporate denial will stand before that tribunal.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Pfizer Denies Significant Increased Rate of Birth Defects"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Pfizer denies increased birth defects from COVID-19 mRNA shots despite internal documents revealing alarming pregnancy outcomes and fetal abnormalities."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-13T10:00:00Z","children":"April 13, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Pfizer",{"href":"/en/tag/Pfizer/","className":"tag-pill","children":["#","Pfizer"]}],["$","a","birth-defects",{"href":"/en/tag/birth-defects/","className":"tag-pill","children":["#","birth-defects"]}],["$","a","pregnancy",{"href":"/en/tag/pregnancy/","className":"tag-pill","children":["#","pregnancy"]}],["$","a","mRNA-vaccines",{"href":"/en/tag/mRNA-vaccines/","className":"tag-pill","children":["#","mRNA-vaccines"]}],["$","a","reproductive-health",{"href":"/en/tag/reproductive-health/","className":"tag-pill","children":["#","reproductive-health"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/pfizer-denies-birth-defects/","title":"Pfizer Denies Significant Increased Rate of Birth Defects"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/pfizer-denies-birth-defects/","title":"Pfizer Denies Significant Increased Rate of Birth Defects"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Pfizer Denies Significant Increased Rate of Birth Defects | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Pfizer denies increased birth defects from COVID-19 mRNA shots despite internal documents revealing alarming pregnancy outcomes and fetal abnormalities."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Pfizer, birth-defects, pregnancy, mRNA-vaccines, reproductive-health"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/pfizer-denies-birth-defects/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-denies-birth-defects/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-denies-birth-defects/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-denies-birth-defects/"}],["$","meta","10",{"property":"og:title","content":"Pfizer Denies Significant Increased Rate of Birth Defects"}],["$","meta","11",{"property":"og:description","content":"Pfizer denies increased birth defects from COVID-19 mRNA shots despite internal documents revealing alarming pregnancy outcomes and fetal abnormalities."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/pfizer-denies-birth-defects/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-denies-birth-defects.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Pfizer Denies Significant Increased Rate of Birth Defects"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Pfizer Denies Significant Increased Rate of Birth Defects"}],["$","meta","25",{"name":"twitter:description","content":"Pfizer denies increased birth defects from COVID-19 mRNA shots despite internal documents revealing alarming pregnancy outcomes and fetal abnormalities."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-denies-birth-defects.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

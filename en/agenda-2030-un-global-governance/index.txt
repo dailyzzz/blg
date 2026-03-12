@@ -1,0 +1,209 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","agenda-2030-un-global-governance",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","agenda-2030-un-global-governance","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","agenda-2030-un-global-governance","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T6578,<h1 id="agenda-2030-the-un-blueprint-for-global-governance">Agenda 2030: The UN Blueprint for Global Governance</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth." — Genesis 11:4</p>
+</blockquote>
+<p>The Tower of Babel was humanity's first attempt at global governance — a unified project to centralize all human activity under a single authority, reaching toward heaven itself. God's response was decisive: He scattered humanity and confused their languages, establishing the principle that no single human authority should govern the entire earth. Today, the United Nations' Agenda 2030 — officially titled "Transforming Our World: The 2030 Agenda for Sustainable Development" — is the most comprehensive attempt to reverse that divine decree since the Tower itself. Under the benevolent language of sustainability, poverty elimination, and environmental stewardship, Agenda 2030 lays out a framework for controlling every aspect of human life: what you eat, where you live, how you travel, what you learn, how you earn, and what you are permitted to own.</p>
+<p>As the ZZZ Daily album track <a href="https://zzzdaily.zzzdaily.com/tracks/en/495-Tower_Of_Babel_2.mp4">Tower of Babel 2.0</a> warns, the ambition to build a unified world system did not end in ancient Mesopotamia. It merely changed its architectural plans.</p>
+<hr>
+<h2 id="what-is-agenda-2030">What Is Agenda 2030?</h2>
+<p>On September 25, 2015, all 193 member states of the United Nations adopted Resolution 70/1: "Transforming Our World: The 2030 Agenda for Sustainable Development." The document contains 17 Sustainable Development Goals (SDGs), 169 targets, and 231 unique indicators designed to measure progress toward those targets.</p>
+<p>The preamble declares:</p>
+<blockquote>
+<p>"This Agenda is a plan of action for people, planet and prosperity. It also seeks to strengthen universal peace in larger freedom... All countries and all stakeholders, acting in collaborative partnership, will implement this plan."</p>
+</blockquote>
+<p>Read at face value, the goals appear unobjectionable: end poverty, end hunger, ensure healthy lives, provide quality education, achieve gender equality, ensure clean water, provide affordable energy, promote economic growth, build infrastructure, reduce inequality, create sustainable cities, ensure responsible consumption, combat climate change, conserve oceans, protect ecosystems, promote justice, and strengthen partnerships.</p>
+<p>Who could object to ending poverty and hunger?</p>
+<p>The answer becomes clear when you examine not what the goals say, but what the implementation framework requires.</p>
+<h2 id="the-masters-voice-the-warning-from-davos">The Master's Voice: The Warning from Davos</h2>
+<p>The prophetic voices warning about global governance have been remarkably specific. The Master's Voice prophecy blog has documented dreams and visions explicitly warning about the Davos agenda and the New World Order framework:</p>
+<blockquote>
+<p>"Prepare for the New World Order. This is not a conspiracy theory. This is a conspiracy fact. The governments of the world are aligning under a single banner, and the people will not be asked. They will be told."</p>
+</blockquote>
+<p>The World Economic Forum, headquartered in Davos, Switzerland, serves as the coordinating body between the UN's Agenda 2030 framework and the corporate-governmental partnerships that implement it. Klaus Schwab, the WEF's founder, has stated explicitly:</p>
+<blockquote>
+<p>"The pandemic represents a rare but narrow window of opportunity to reflect, reimagine, and reset our world."</p>
+</blockquote>
+<p>This is not the language of democratic governance. This is the language of architects who see global crisis as a construction opportunity.</p>
+<h2 id="decoding-the-17-goals">Decoding the 17 Goals</h2>
+<p>Each Sustainable Development Goal, when examined through its implementation mechanisms rather than its aspirational language, reveals a specific control architecture:</p>
+<h3 id="sdg-1-no-poverty">SDG 1: No Poverty</h3>
+<p><strong>What it says:</strong> End poverty in all its forms everywhere.</p>
+<p><strong>What it requires:</strong> Universal social protection systems, equal rights to economic resources, land ownership, natural resources, and financial services. Building the resilience of the poor through "appropriate new technology."</p>
+<p><strong>What this means in practice:</strong> Universal basic income tied to digital identity and behavioral compliance. "Equal rights to land ownership" applied through international frameworks overrides national property law. "Appropriate new technology" means <a href="/cbdc-chains-programmable-money/?lang=en">CBDC (Central Bank Digital Currency)</a> and digital ID systems that control access to resources.</p>
+<h3 id="sdg-2-zero-hunger">SDG 2: Zero Hunger</h3>
+<p><strong>What it says:</strong> End hunger, achieve food security, improve nutrition, promote sustainable agriculture.</p>
+<p><strong>What it requires:</strong> "Correct and prevent trade restrictions and distortions in world agricultural markets." Maintain "genetic diversity of seeds" through gene banks. Ensure "sustainable food production systems."</p>
+<p><strong>What this means in practice:</strong> Centralized control of the global food supply. International regulation of agriculture that overrides national food sovereignty. Corporate control of seed genetics through patent law. The replacement of traditional farming with "sustainable" practices defined by international bodies — including the promotion of insect protein and lab-grown meat as replacements for traditional animal agriculture.</p>
+<p>The Netherlands provides a preview: the Dutch government's 2022 plan to cut nitrogen emissions by 50% by 2030 required the closure of up to 30% of the nation's farms. Dutch farmers — among the most productive in the world — protested en masse. The policy was driven directly by UN sustainability targets.</p>
+<h3 id="sdg-3-good-health-and-well-being">SDG 3: Good Health and Well-Being</h3>
+<p><strong>What it says:</strong> Ensure healthy lives and promote well-being for all at all ages.</p>
+<p><strong>What it requires:</strong> "Achieve universal health coverage." "Strengthen the capacity of all countries for early warning, risk reduction and management of national and global health risks."</p>
+<p><strong>What this means in practice:</strong> The <a href="/who-pandemic-treaty-sovereignty/?lang=en">WHO Pandemic Treaty</a> and International Health Regulations amendments that give an unelected international body authority over national health policy, including the power to mandate vaccines, impose lockdowns, and censor health information deemed "misinformation."</p>
+<h3 id="sdg-4-quality-education">SDG 4: Quality Education</h3>
+<p><strong>What it says:</strong> Ensure inclusive and equitable quality education.</p>
+<p><strong>What it requires:</strong> "All learners acquire the knowledge and skills needed to promote sustainable development." Education for "global citizenship."</p>
+<p><strong>What this means in practice:</strong> Internationally standardized curricula that replace national educational traditions with globalist ideology. The concept of "global citizenship" explicitly supersedes national identity and loyalty. Children are educated not as citizens of sovereign nations but as subjects of a global system.</p>
+<h3 id="sdg-7-affordable-and-clean-energy">SDG 7: Affordable and Clean Energy</h3>
+<p><strong>What it says:</strong> Ensure access to affordable, reliable, sustainable and modern energy for all.</p>
+<p><strong>What it requires:</strong> "Substantially increase the share of renewable energy." "Enhance international cooperation to facilitate access to clean energy research and technology."</p>
+<p><strong>What this means in practice:</strong> The elimination of fossil fuels and nuclear energy in favor of renewable sources that are intermittent, land-intensive, and require massive government subsidy. Energy dependence — rather than energy independence — becomes the norm, with international bodies determining energy policy. As explored in our article on <a href="/carbon-credit-coup-trading-air/?lang=en">The Carbon Credit Coup</a>, the carbon credit trading system creates a new financial instrument controlled by the same institutions that control global finance.</p>
+<h3 id="sdg-11-sustainable-cities-and-communities">SDG 11: Sustainable Cities and Communities</h3>
+<p><strong>What it says:</strong> Make cities and human settlements inclusive, safe, resilient and sustainable.</p>
+<p><strong>What it requires:</strong> "Sustainable transport systems." "Sustainable urbanization." "Reduce the adverse per capita environmental impact of cities."</p>
+<p><strong>What this means in practice:</strong> <a href="/fifteen-minute-city-geofencing/?lang=en">15-Minute Cities</a> — urban redesign that confines residents to small geographic zones, restricting vehicle use, monitoring movement through digital surveillance, and penalizing travel beyond designated boundaries. The C40 Cities Climate Leadership Group — a network of 97 cities representing over 700 million people — has published targets including the elimination of private car ownership, the restriction of meat consumption to 0 kg per person per year by 2030, and the limitation of clothing purchases to 3 new items per person per year.</p>
+<h3 id="sdg-13-climate-action">SDG 13: Climate Action</h3>
+<p><strong>What it says:</strong> Take urgent action to combat climate change and its impacts.</p>
+<p><strong>What it requires:</strong> "Integrate climate change measures into national policies." "Strengthen resilience and adaptive capacity." Fund climate action with "$100 billion annually" from developed nations.</p>
+<p><strong>What this means in practice:</strong> The transfer of national sovereignty over environmental policy to international bodies. Carbon taxation that functions as a universal consumption tax controlled by global institutions. Climate emergency declarations that justify the suspension of normal democratic processes — just as pandemic emergency declarations justified the suspension of civil liberties in 2020.</p>
+<h3 id="sdg-16-peace-justice-and-strong-institutions">SDG 16: Peace, Justice and Strong Institutions</h3>
+<p><strong>What it says:</strong> Promote peaceful and inclusive societies, provide access to justice for all, build effective, accountable and inclusive institutions.</p>
+<p><strong>What it requires:</strong> "Provide legal identity for all, including birth registration." "Ensure public access to information." "Strengthen relevant national institutions."</p>
+<p><strong>What this means in practice:</strong> <a href="/digital-id-global-identity-prison/?lang=en">Universal digital identity</a> — the technical infrastructure for a global surveillance and control system. "Legal identity for all" means biometric registration of every human being in a global database. "Access to information" means information that passes through approved channels. "Strong institutions" means institutions with the power to enforce compliance.</p>
+<h2 id="the-implementation-architecture">The Implementation Architecture</h2>
+<p>Agenda 2030 does not implement itself. It requires an institutional architecture that has been built systematically over decades:</p>
+<h3 id="the-world-economic-forum-wef">The World Economic Forum (WEF)</h3>
+<p>The WEF functions as the liaison between the UN's goals and the corporate entities that implement them. Its "Strategic Partners" include virtually every major corporation in the world, from technology companies to pharmaceutical manufacturers to financial institutions. The WEF's "Young Global Leaders" program has placed its alumni in leadership positions across governments worldwide, including heads of state and cabinet ministers in multiple countries.</p>
+<p>As documented in our article on <a href="/great-reset-fourth-industrial-revolution/?lang=en">The Great Reset and the Fourth Industrial Revolution</a>, Klaus Schwab's "Great Reset" initiative explicitly uses the COVID-19 pandemic as the catalyst for implementing Agenda 2030's goals on an accelerated timeline.</p>
+<h3 id="the-bank-for-international-settlements-bis">The Bank for International Settlements (BIS)</h3>
+<p>The BIS — the "central bank of central banks" — coordinates the financial architecture of global governance. Its Innovation Hub develops the technical standards for CBDCs, which provide the programmable money infrastructure for SDG 1 (no poverty through universal digital payments) and SDG 10 (reduced inequality through controlled wealth redistribution).</p>
+<h3 id="the-world-health-organization-who">The World Health Organization (WHO)</h3>
+<p>The WHO provides the health governance framework. Its proposed Pandemic Treaty and IHR amendments would give it authority over national health policy during declared health emergencies — which, under expanded definitions, could include climate change, mental health crises, or "infodemics."</p>
+<h3 id="the-international-monetary-fund-imf-and-world-bank">The International Monetary Fund (IMF) and World Bank</h3>
+<p>These institutions provide the financial leverage. Developing nations that adopt Agenda 2030 frameworks receive loans, grants, and debt relief. Those that resist face financial isolation. The result is a system where compliance is purchased, not democratically chosen.</p>
+<h2 id="you-will-own-nothing-and-be-happy">"You Will Own Nothing and Be Happy"</h2>
+<p>In 2016, the World Economic Forum published a video titled "8 Predictions for the World in 2030." The first prediction:</p>
+<blockquote>
+<p>"You'll own nothing. And you'll be happy. Whatever you want you'll rent. And it'll be delivered by drone."</p>
+</blockquote>
+<p>This prediction is not speculation — it is a policy goal. The implementation pathway includes:</p>
+<ul>
+<li><strong>The transition from ownership to subscription</strong> across all product categories — housing (subscription living), transportation (ride-sharing and autonomous vehicles), entertainment (streaming), software (cloud subscriptions), and eventually food and clothing</li>
+<li><strong>The elimination of private property rights</strong> through "stakeholder capitalism," where corporate governance prioritizes "stakeholders" (defined by international bodies) over shareholders (actual owners)</li>
+<li><strong>The concentration of asset ownership</strong> in institutional investors (BlackRock, Vanguard, State Street), which collectively own controlling stakes in virtually every major corporation and are systematically acquiring residential real estate</li>
+<li><strong><a href="/smart-city-prison-15-minute-trap/?lang=en">Smart City</a> infrastructure</strong> that provides services in exchange for compliance, eliminating the need for personal ownership</li>
+</ul>
+<p>The theological implications are profound. Private property is a biblical principle — "Thou shalt not steal" presupposes the legitimacy of ownership. A system that eliminates private property does not merely restructure economics — it restructures the moral order.</p>
+<h2 id="the-digital-id-foundation">The Digital ID Foundation</h2>
+<p>Every element of Agenda 2030 requires one foundational technology: universal digital identity. Without digital ID, there is no way to:</p>
+<ul>
+<li>Distribute universal basic income (SDG 1)</li>
+<li>Track food consumption and agricultural compliance (SDG 2)</li>
+<li>Enforce vaccination and health mandates (SDG 3)</li>
+<li>Monitor educational achievement of "global citizenship" standards (SDG 4)</li>
+<li>Control energy consumption at the individual level (SDG 7)</li>
+<li>Enforce 15-minute city movement restrictions (SDG 11)</li>
+<li>Calculate individual carbon footprints (SDG 13)</li>
+</ul>
+<p>As documented in our article on <a href="/digital-id-global-identity-prison/?lang=en">Digital ID: The Global Identity Prison</a>, the ID2020 Alliance — founded by Microsoft, the Rockefeller Foundation, Accenture, and Gavi (the Bill Gates-funded vaccine alliance) — explicitly ties digital identity to vaccination records, using immunization as the delivery mechanism for universal biometric registration.</p>
+<p>SDG 16.9 states: "By 2030, provide legal identity for all, including birth registration." This is the capstone of the system — the technical infrastructure without which none of the other goals can be enforced at the individual level.</p>
+<h2 id="national-sovereignty-vs-global-governance">National Sovereignty vs. Global Governance</h2>
+<p>The fundamental tension at the heart of Agenda 2030 is between national sovereignty and international authority. The document itself acknowledges this tension — and resolves it in favor of international authority:</p>
+<blockquote>
+<p>"We reaffirm our unwavering commitment to achieving this Agenda and utilizing it to the full to transform our world for the better by 2030."</p>
+</blockquote>
+<p>The word "unwavering" is significant. It does not say "conditional on democratic approval." It does not say "subject to national constitutional processes." It says <em>unwavering</em> — a commitment that cannot be altered regardless of domestic political outcomes.</p>
+<p>This is why elections in Agenda 2030 signatory nations increasingly fail to change policy direction on issues covered by the SDGs. Whether the government is nominally left or right, the sustainability framework continues to be implemented because the commitment was made at the international level, above the reach of domestic democracy.</p>
+<p>The Dutch farmer protests, the Canadian trucker convoy, the French Yellow Vest movement, the Sri Lankan agricultural collapse — all are reactions to Agenda 2030 implementation policies, and all were met with state force rather than democratic accommodation.</p>
+<h2 id="the-religious-dimension">The Religious Dimension</h2>
+<p>Pope Francis' 2015 encyclical <em>Laudato Si'</em> — published just months before the adoption of Agenda 2030 — explicitly endorses the sustainability framework and calls for a "true world political authority" to enforce it. The encyclical states:</p>
+<blockquote>
+<p>"Enforceable international agreements are urgently needed... a true world political authority... would need to be vested with the power to give this issue effective force."</p>
+</blockquote>
+<p>This alignment between the Vatican and the UN's governance framework is consistent with the prophetic warnings in Revelation about the convergence of religious and political power in the end times. When the world's largest religious institution endorses the need for a "true world political authority," the distance between prophecy and policy shrinks to nothing.</p>
+<h2 id="what-you-can-do">What You Can Do</h2>
+<ol>
+<li><strong>Read the documents.</strong> Agenda 2030 is publicly available. Read it — not summaries, not commentary, the actual document. The language is clear once you know what to look for.</li>
+<li><strong>Understand the implementation.</strong> The goals are aspirational. The implementation — digital ID, CBDC, 15-minute cities, carbon credits, pandemic treaties — is operational. Focus on implementation, not rhetoric.</li>
+<li><strong>Support national sovereignty.</strong> International agreements that override national constitutions are illegitimate regardless of their stated goals. Elected representatives who sign binding international commitments without democratic ratification betray their constituents.</li>
+<li><strong>Reject the digital infrastructure.</strong> Every element of Agenda 2030 depends on digital ID and programmable money. Resistance to these technologies is resistance to the entire framework.</li>
+<li><strong>Build local resilience.</strong> Local food production, local community, local governance — the antidote to global control is local sovereignty. Grow food. Know your neighbors. Build relationships that do not depend on digital systems.</li>
+</ol>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/49-Smart_City_Prison-Surveillance_Grid_Complete.mp4">Smart City Prison</a> — The surveillance infrastructure disguised as urban convenience</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/50-Smart_City_Prison-Surveillance_Grid_Complete-Alt.mp4">Smart City Prison-Surveillance Grid Complete (Alt)</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/161-CBDC_Chains.mp4">CBDC Chains</a> — Programmable money as the enforcement mechanism for global governance</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/162-CBDC_Chains-Alt.mp4">CBDC Chains (Alt)</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/163-Carbon_Credit_Coup.mp4">Carbon Credit Coup</a> — Trading air: the financialization of breathing</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/164-Carbon_Credit_Coup-Alt.mp4">Carbon Credit Coup (Alt)</a></li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/495-Tower_Of_Babel_2.mp4">Tower of Babel</a> — The first attempt at unified global governance, and the divine response</p>
+</li>
+<li>
+<p><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceiver's Lies</a> — Every promise of utopia masks an architecture of control</p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/171-Great_Reset_Rising.mp4">Great Reset Rising</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/172-Great_Reset_Rising-Alt.mp4">Great Reset Rising (Alt)</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/223-Sustainable_Development_Trap.mp4">Sustainable Development Trap</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/224-Sustainable_Development_Trap-Alt.mp4">Sustainable Development Trap (Alt)</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/453-Dinner_At_The_UN.mp4">Dinner At The UN</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/454-Dinner_At_The_UN-Alt.mp4">Dinner At The UN (Alt)</a></p>
+</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/great-reset-fourth-industrial-revolution/?lang=en">The Great Reset and the Fourth Industrial Revolution</a> — The WEF's agenda to restructure global civilization using crisis as catalyst</li>
+<li><a href="/fifteen-minute-city-geofencing/?lang=en">15-Minute Cities: Digital Geofencing</a> — How urban planning becomes a tool of confinement</li>
+<li><a href="/who-pandemic-treaty-sovereignty/?lang=en">The WHO Pandemic Treaty: Surrendering National Sovereignty</a> — Health governance as the entry point for global authority</li>
+<li><a href="/carbon-credit-coup-trading-air/?lang=en">The Carbon Credit Coup: Trading Air</a> — How climate policy becomes a new financial control mechanism</li>
+</ul>
+<hr>
+<p><em>As it was at Babel, so it is today. Humanity again seeks to build a single system that reaches to heaven — a unified world order that places itself above nations, above constitutions, above the sovereignty of peoples, and above the sovereignty of God. The language has changed from bricks and mortar to sustainable development and stakeholder capitalism, but the ambition is identical: "Let us make us a name, lest we be scattered." God scattered them then. He will not be mocked now. "The Lord shall scatter thee among all people, from the one end of the earth even unto the other" (Deuteronomy 28:64). The tower that man builds, God brings down. Every time. Without exception.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Agenda 2030: The UN Blueprint for Global Governance"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The United Nations' Sustainable Development Goals as a framework for global technocratic governance — controlling land use, food production, energy, education, and human movement under the banner of sustainability."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-01T10:00:00Z","children":"April 1, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","agenda-2030",{"href":"/en/tag/agenda-2030/","className":"tag-pill","children":["#","agenda-2030"]}],["$","a","United-Nations",{"href":"/en/tag/United-Nations/","className":"tag-pill","children":["#","United-Nations"]}],["$","a","sustainable-development",{"href":"/en/tag/sustainable-development/","className":"tag-pill","children":["#","sustainable-development"]}],["$","a","SDGs",{"href":"/en/tag/SDGs/","className":"tag-pill","children":["#","SDGs"]}],["$","a","global-governance",{"href":"/en/tag/global-governance/","className":"tag-pill","children":["#","global-governance"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/agenda-2030-un-global-governance/","title":"Agenda 2030: The UN Blueprint for Global Governance"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/agenda-2030-un-global-governance/","title":"Agenda 2030: The UN Blueprint for Global Governance"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Agenda 2030: The UN Blueprint for Global Governance | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The United Nations' Sustainable Development Goals as a framework for global technocratic governance — controlling land use, food production, energy, education, and human movement under the banner of sustainability."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"agenda-2030, United-Nations, sustainable-development, SDGs, global-governance"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/agenda-2030-un-global-governance/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/agenda-2030-un-global-governance/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/agenda-2030-un-global-governance/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/agenda-2030-un-global-governance/"}],["$","meta","10",{"property":"og:title","content":"Agenda 2030: The UN Blueprint for Global Governance"}],["$","meta","11",{"property":"og:description","content":"The United Nations' Sustainable Development Goals as a framework for global technocratic governance — controlling land use, food production, energy, education, and human movement under the banner of sustainability."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/agenda-2030-un-global-governance/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/agenda-2030-un-global-governance.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Agenda 2030: The UN Blueprint for Global Governance"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Agenda 2030: The UN Blueprint for Global Governance"}],["$","meta","25",{"name":"twitter:description","content":"The United Nations' Sustainable Development Goals as a framework for global technocratic governance — controlling land use, food production, energy, education, and human movement under the banner of sustainability."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/agenda-2030-un-global-governance.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

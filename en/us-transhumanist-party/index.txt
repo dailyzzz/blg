@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","us-transhumanist-party",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","us-transhumanist-party","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","us-transhumanist-party","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T33c9,<h1 id="the-us-transhumanist-party-and-political-posthumanism">The U.S. Transhumanist Party and Political Posthumanism</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"How art thou fallen from heaven, O Lucifer, son of the morning! For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God... I will be like the most High." -- Isaiah 14:12-14</p>
+</blockquote>
+<p>The desire to transcend human limitations and become like God is not a modern philosophy. It is the original sin. It is the fall of Lucifer. It is the temptation in Eden. And it is now a registered political party in the United States of America. The U.S. Transhumanist Party has brought the ambition of Lucifer into the American political system, advocating for the technological transformation of humanity into something beyond human -- something posthuman -- something that replaces God's design with engineered enhancement.</p>
+<p>The political posthumanist movement is not hiding its agenda. It states openly what the intelligence agencies, pharmaceutical companies, and military research programs pursue covertly: the fundamental alteration of the human species through technology.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> from the Confliction album declares, the desire to ascend beyond one's appointed station is the defining characteristic of the rebellion. And as <a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> reminds us, the consequences of grasping at divinity through forbidden means are exile, corruption, and death.</p>
+<hr>
+<h2 id="the-us-transhumanist-party">The U.S. Transhumanist Party</h2>
+<h3 id="platform-and-goals">Platform and Goals</h3>
+<p>The U.S. Transhumanist Party, founded in 2014 by Zoltan Istvan, is a political party that explicitly advocates for:</p>
+<p><strong>Radical Life Extension</strong></p>
+<p>The elimination of death through technological means, including genetic modification, organ replacement, brain uploading, and nanotechnology-based cellular repair. The party views biological death as a problem to be solved rather than an ordained aspect of the human condition.</p>
+<p><strong>Human Augmentation</strong></p>
+<p>The enhancement of human physical and cognitive capabilities through:</p>
+<ul>
+<li>Neural implants for cognitive enhancement</li>
+<li>Genetic modification for physical enhancement</li>
+<li>Nanotechnology for cellular repair and enhancement</li>
+<li>Cybernetic integration for sensory and physical augmentation</li>
+</ul>
+<p><strong>Morphological Freedom</strong></p>
+<p>The right to modify one's own body in any way desired, including modification to non-human forms. This includes:</p>
+<ul>
+<li>Gender modification (which the party supports as a subset of broader morphological rights)</li>
+<li>Species modification (the right to add non-human features)</li>
+<li>Cybernetic modification (the right to replace biological components with technological ones)</li>
+<li>Digital embodiment (the right to upload consciousness into digital systems)</li>
+</ul>
+<p><strong>Technological Rights</strong></p>
+<p>The establishment of legal frameworks that recognize:</p>
+<ul>
+<li>The right of AI systems to legal personhood</li>
+<li>The right to cognitive enhancement without restriction</li>
+<li>The right to genetic modification without regulatory barriers</li>
+<li>The right to technological immortality</li>
+</ul>
+<h3 id="the-political-strategy">The Political Strategy</h3>
+<p>The transhumanist political strategy operates on multiple levels:</p>
+<p><strong>Electoral Politics</strong></p>
+<p>Transhumanist candidates have run for president, governor, and local offices, using campaigns as platforms to promote transhumanist ideas. While electoral success has been limited, the campaigns generate media coverage that normalizes transhumanist concepts.</p>
+<p><strong>Policy Advocacy</strong></p>
+<p>The party advocates for specific policy changes:</p>
+<ul>
+<li>Increased government funding for longevity research</li>
+<li>Deregulation of genetic modification and nanotechnology</li>
+<li>Legal recognition of digital persons and AI rights</li>
+<li>Universal access to augmentation technology</li>
+<li>Elimination of regulations that restrict human experimentation</li>
+</ul>
+<p><strong>Cultural Influence</strong></p>
+<p>Transhumanist ideas are promoted through entertainment media, technology journalism, academic conferences, and Silicon Valley culture. The normalization of transhumanist concepts in popular culture -- through films, television, video games, and social media -- is the predictive programming that prepares the population to accept what the party advocates politically.</p>
+<h2 id="the-spiritual-analysis">The Spiritual Analysis</h2>
+<h3 id="the-luciferian-template">The Luciferian Template</h3>
+<p>The transhumanist platform follows the Luciferian template described in Isaiah 14 with precision:</p>
+<ul>
+<li><strong>"I will ascend into heaven"</strong> = life extension and immortality technology</li>
+<li><strong>"I will exalt my throne above the stars of God"</strong> = cognitive enhancement beyond natural limits</li>
+<li><strong>"I will sit upon the mount of the congregation"</strong> = political power to impose transhumanist policies</li>
+<li><strong>"I will ascend above the heights of the clouds"</strong> = transcendence of physical limitations</li>
+<li><strong>"I will be like the most High"</strong> = the explicit goal of transhumanism: to become godlike through technology</li>
+</ul>
+<p>The transhumanist party does not merely pursue political goals. It pursues the spiritual objective of the original rebellion: to replace God's design with self-determined evolution, to achieve divinity through technology rather than through relationship with the Creator.</p>
+<h3 id="genesis-6-repeated">Genesis 6 Repeated</h3>
+<p>The transhumanist agenda is a political formalization of the Genesis 6 corruption. In Genesis 6, the sons of God crossed the boundary between the supernatural and the natural, producing hybrid beings (Nephilim) that were an abomination to the Creator. Transhumanism crosses the boundary between the human and the technological, producing hybrid beings (cyborgs, enhanced humans, digital minds) that violate the image of God.</p>
+<p>The political legitimization of this crossing through a registered political party represents the normalization of what God judged with a flood. The transhumanist party asks the public to vote for their own genetic, biological, and spiritual corruption -- to democratically approve the Genesis 6 agenda.</p>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) how the nanotechnology now found in human blood is the covert implementation of the transhumanist agenda that the U.S. Transhumanist Party advocates openly. What the party seeks through political channels is already being achieved through pharmaceutical channels -- without the consent or knowledge of the population being transformed.</p>
+<h3 id="the-dome-and-the-deception">The Dome and the Deception</h3>
+<p>The transhumanist dream of space colonization, digital immortality, and evolutionary transcendence collides with the reality of the firmament -- the dome that God placed over the earth in Genesis 1:6-8. Under this dome, humanity exists in its appointed place. The fallen angels are imprisoned under this dome. And the transhumanist dream of escaping human limitations is, in spiritual terms, the dream of escaping the dome -- of transcending the boundaries God placed.</p>
+<p>But the dome holds. The firmament endures. And the transhumanist who dreams of uploading consciousness to escape the body still lives under the dome, on the plate of the earth, within the boundaries God set at creation. No amount of nanotechnology, genetic modification, or digital upload can breach the firmament. The only way through the dome is the way God ordained: death and resurrection through Jesus Christ. Every other path is an illusion -- a deception promoted by fallen beings who are themselves imprisoned under the dome they cannot escape.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>U.S. Transhumanist Party platform and policy documentation</p>
+</li>
+<li>
+<p>Istvan, Z., "The Transhumanist Wager," 2013</p>
+</li>
+<li>
+<p>More, M. and Vita-More, N., "The Transhumanist Reader," 2013</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, covert transhumanism through nanotechnology</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/339-The_New_Man.mp4">The New Man</a> -- The transhumanist redesign of humanity</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/447-Modded_Humans.mp4">Modded Humans</a> -- The augmented human as political goal</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/489-Nephilim_Nanobots.mp4">Nephilim Nanobots</a> -- The Genesis 6 pattern in nanotechnology</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> -- The technological mark system</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> -- The rebellion driving transhumanism</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> -- The consequences of grasping at divinity</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/cyborg-dawn-military-augmentation/?lang=en">Cyborg Dawn: Military Use Of Human Augmentation Technology</a> -- The military implementation of transhumanist goals</li>
+<li><a href="/europeans-augmentation-mandatory/?lang=en">Europeans Beware: Human Augmentation Becoming Mandatory</a> -- The mandatory implementation of transhumanist technology</li>
+<li><a href="/beast-land-transhumanism-synthetic/?lang=en">The BEAST of the LAND: Transhumanism and Synthetic Futures</a> -- The end-state of the transhumanist agenda</li>
+</ul>
+<hr>
+<p><em>The desire to be like God through forbidden means is not a political platform. It is the original sin. The U.S. Transhumanist Party has formalized the Luciferian ambition into a registered political entity, complete with candidates, policies, and campaign donations. They ask voters to approve what God judged with a flood. They ask the public to fund what the fallen angels taught before the deluge. They ask humanity to vote for its own transformation into something that is no longer made in the image of God. But the image of God is not subject to a vote. It is not modified by legislation. It is not improved by technology. It is given by the Creator, sustained by the Spirit, and perfected only through the transformation that Christ provides -- a transformation not of the genome, but of the heart.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The U.S. Transhumanist Party and Political Posthumanism"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The U.S. Transhumanist Party openly advocates for human augmentation, life extension, and posthuman evolution through political channels and policy frameworks."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-03T10:00:00Z","children":"April 3, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","transhumanist-party",{"href":"/en/tag/transhumanist-party/","className":"tag-pill","children":["#","transhumanist-party"]}],["$","a","posthumanism",{"href":"/en/tag/posthumanism/","className":"tag-pill","children":["#","posthumanism"]}],["$","a","politics",{"href":"/en/tag/politics/","className":"tag-pill","children":["#","politics"]}],["$","a","augmentation",{"href":"/en/tag/augmentation/","className":"tag-pill","children":["#","augmentation"]}],["$","a","life-extension",{"href":"/en/tag/life-extension/","className":"tag-pill","children":["#","life-extension"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/us-transhumanist-party/","title":"The U.S. Transhumanist Party and Political Posthumanism"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/us-transhumanist-party/","title":"The U.S. Transhumanist Party and Political Posthumanism"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The U.S. Transhumanist Party and Political Posthumanism | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The U.S. Transhumanist Party openly advocates for human augmentation, life extension, and posthuman evolution through political channels and policy frameworks."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"transhumanist-party, posthumanism, politics, augmentation, life-extension"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/us-transhumanist-party/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/us-transhumanist-party/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/us-transhumanist-party/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/us-transhumanist-party/"}],["$","meta","10",{"property":"og:title","content":"The U.S. Transhumanist Party and Political Posthumanism"}],["$","meta","11",{"property":"og:description","content":"The U.S. Transhumanist Party openly advocates for human augmentation, life extension, and posthuman evolution through political channels and policy frameworks."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/us-transhumanist-party/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/us-transhumanist-party.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The U.S. Transhumanist Party and Political Posthumanism"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The U.S. Transhumanist Party and Political Posthumanism"}],["$","meta","25",{"name":"twitter:description","content":"The U.S. Transhumanist Party openly advocates for human augmentation, life extension, and posthuman evolution through political channels and policy frameworks."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/us-transhumanist-party.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

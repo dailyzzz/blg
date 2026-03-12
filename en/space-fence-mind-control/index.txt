@@ -1,0 +1,141 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","space-fence-mind-control",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","space-fence-mind-control","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","space-fence-mind-control","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3b9c,<h1 id="the-space-fence-and-mind-control-grid">The Space Fence and Mind Control Grid</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Whither shall I go from thy spirit? or whither shall I flee from thy presence? If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there." -- Psalm 139:7-8</p>
+</blockquote>
+<p>Only God is truly omnipresent. Only God sees every place, knows every thought, and reaches every corner of creation. The Space Fence and its associated mind control grid represent the adversary's attempt to replicate divine omnipresence through technology -- to see everything, monitor everything, and influence everything through an electromagnetic network that blankets the earth from ground level to low earth orbit.</p>
+<p>The Space Fence is not metaphorical. It is a literal electromagnetic fence around the earth -- a surveillance and tracking system that monitors every object in near-earth space and, through its ground-based and orbital components, every electromagnetic emission on the surface of the earth. Combined with injectable nanotechnology and the 5G/IoT ground grid, the Space Fence creates a containment system from which no person, no signal, and no thought is meant to escape.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> from the Confliction album warns, the greatest deception is the one that surrounds you invisibly. And as <a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> declares, the victory belongs to those who see through the invisible prison and refuse its authority.</p>
+<hr>
+<h2 id="the-space-fence">The Space Fence</h2>
+<h3 id="what-is-it">What Is It?</h3>
+<p>The Space Fence is a second-generation space surveillance system operated by the U.S. Space Force (formerly U.S. Air Force Space Command). Located on Kwajalein Atoll in the Marshall Islands, the Space Fence uses an advanced S-band ground-based radar to detect, track, and catalog objects in low earth orbit (LEO), medium earth orbit (MEO), and geosynchronous earth orbit (GEO).</p>
+<p>The official purpose of the Space Fence is to track space debris and satellites -- maintaining a catalog of objects in orbit to prevent collisions and to monitor satellite positions for national security purposes. The system became operational in 2020 and represents a massive upgrade over the previous Air Force Space Surveillance System.</p>
+<p>However, the capabilities of the Space Fence extend far beyond debris tracking:</p>
+<ul>
+<li><strong>Ionospheric manipulation</strong> -- The Space Fence can interact with the ionosphere (the electrically charged layer of the upper atmosphere), potentially modifying its properties to enhance signal propagation, disrupt communications, or create electromagnetic effects on the surface below</li>
+<li><strong>Over-the-horizon radar</strong> -- The system's radar capabilities enable detection and tracking of objects and signals beyond the visible horizon</li>
+<li><strong>Signal intelligence</strong> -- The electromagnetic emissions from the Space Fence interact with every electromagnetic system within its surveillance volume, enabling detection of signals from any source</li>
+<li><strong>Integration with HAARP</strong> -- The Space Fence works in conjunction with the High-frequency Active Auroral Research Program (HAARP) and similar ionospheric heaters worldwide to create a manipulable electromagnetic environment</li>
+</ul>
+<h3 id="the-electromagnetic-cage">The Electromagnetic Cage</h3>
+<p>The Space Fence, combined with ground-based electromagnetic infrastructure (5G, IoT, smart cities) and orbital platforms (Starlink, military satellites), creates a three-dimensional electromagnetic cage around the earth:</p>
+<ul>
+<li><strong>Ground level</strong> -- 5G towers, IoT sensors, smart city infrastructure provide dense electromagnetic coverage at street level</li>
+<li><strong>Atmospheric level</strong> -- Aircraft, drones, and atmospheric platforms provide intermediate coverage</li>
+<li><strong>Orbital level</strong> -- Satellites, the Space Fence radar, and space-based assets provide global coverage from above</li>
+</ul>
+<p>This three-dimensional electromagnetic environment is the physical infrastructure of the mind control grid. Signals can be transmitted to any point within the cage, received by nanotechnology inside any person within the cage, and processed by AI systems that manage the cage. No place on the surface of the earth is outside the cage.</p>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) the effects of the electromagnetic environment on nanotechnology self-assembly in blood, showing that samples exposed to electromagnetic fields consistent with the ambient electromagnetic environment of urban areas show accelerated assembly and activation compared to shielded samples.</p>
+<h2 id="the-mind-control-dimension">The Mind Control Dimension</h2>
+<h3 id="from-surveillance-to-influence">From Surveillance to Influence</h3>
+<p>The electromagnetic cage is not merely a surveillance system. It is a mind control system. The progression from surveillance to mind control follows three stages:</p>
+<p><strong>Stage 1: Monitoring</strong></p>
+<p>The electromagnetic grid monitors every electronic emission, every communication, every financial transaction, and -- through the Internet of Bodies -- every biological signal from every person carrying nanotechnology. This monitoring creates a comprehensive real-time model of every individual and every population.</p>
+<p><strong>Stage 2: Modulation</strong></p>
+<p>Using the data collected in Stage 1, the electromagnetic grid modulates the information environment -- curating what each individual sees, hears, reads, and encounters online. This is already operational through algorithmic content curation on social media, search engines, and news platforms.</p>
+<p><strong>Stage 3: Direct Neural Influence</strong></p>
+<p>Through nanotechnology receivers inside the body, the electromagnetic grid can potentially transmit signals directly to the nervous system -- bypassing the external senses entirely to influence thought, emotion, perception, and behavior at the neural level. This is the ultimate mind control capability: the ability to control what a person thinks without their knowledge that their thoughts are being controlled.</p>
+<h3 id="frequencies-and-consciousness">Frequencies and Consciousness</h3>
+<p>Research into the effects of electromagnetic frequencies on human consciousness has been conducted since the mid-20th century:</p>
+<ul>
+<li><strong>ELF (Extremely Low Frequency) radiation</strong> -- frequencies below 300 Hz have been shown to influence brain wave patterns, mood, and cognitive function. The Schumann resonance (7.83 Hz) -- the natural electromagnetic frequency of the earth -- corresponds closely to the alpha brain wave frequency associated with relaxed alertness</li>
+<li><strong>Microwave auditory effect</strong> -- pulsed microwave radiation can create perceived sounds inside the head, enabling voice-to-skull (V2K) technology</li>
+<li><strong>Transcranial electromagnetic stimulation</strong> -- applied electromagnetic fields can enhance or suppress activity in specific brain regions, altering cognitive function, mood, and behavior</li>
+</ul>
+<p>The mind control grid utilizes these documented effects at scale. By manipulating the electromagnetic environment within the Space Fence, by transmitting specific frequencies through the ground-based grid, and by receiving and amplifying these frequencies through nanotechnology inside the body, the system can theoretically influence the consciousness of the entire population simultaneously.</p>
+<h2 id="the-firmament-and-the-counterfeit-dome">The Firmament and the Counterfeit Dome</h2>
+<h3 id="gods-dome-vs-the-adversarys-cage">God's Dome vs. the Adversary's Cage</h3>
+<p>The firmament described in Genesis 1:6-8 is God's dome -- a protective boundary placed over the earth to contain and shelter His creation. The Space Fence and its associated electromagnetic infrastructure represent the adversary's cage -- a counterfeit containment system placed within God's dome to monitor, control, and imprison.</p>
+<p>The key difference:</p>
+<ul>
+<li><strong>God's dome protects.</strong> The firmament separates the waters above from the waters below, creating a protected space for life. It is a boundary of love.</li>
+<li><strong>The adversary's cage imprisons.</strong> The electromagnetic grid monitors, tracks, and controls every individual within it. It is a boundary of bondage.</li>
+</ul>
+<p>Both are real. Both are physical. Both are overhead. But they serve opposite purposes, and they derive from opposite authorities. The dome endures because God placed it. The cage is temporary because the adversary built it within a space he does not own.</p>
+<p>The fallen angels imprisoned under the dome operate the electromagnetic cage through the human institutions that serve them -- military agencies, technology corporations, intelligence services. They cannot break through the dome, but they have built their cage within it, creating a prison within a prison. The mind control grid is their instrument. The nanotechnology is their interface. And the Space Fence is their surveillance eye.</p>
+<p>But the God who placed the dome sees through the cage. His Spirit reaches every person, regardless of the electromagnetic environment. His voice penetrates every frequency. And His authority supersedes every signal the adversary can transmit.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>U.S. Space Force, Space Fence operational documentation</p>
+</li>
+<li>
+<p>Lockheed Martin, Space Fence system specifications</p>
+</li>
+<li>
+<p>HAARP program documentation and ionospheric research</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, electromagnetic environment and nanotechnology correlation</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=JKdRtRr3O-I">The Firmament, The Earth, The Foundation — Biblical Cosmology</a></li>
+<li><a href="https://www.youtube.com/watch?v=I5ZN289jjDo">The Earth and the Firmament — What Scripture Really Says</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZR296RWS0yM&#x26;list=PLm6Vq0bTTCDiPIX2ItdQTQGX7mXQXBxoV">NASA and Space — The Greatest Deception Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/211-Total_Information_Awareness.mp4">Total Information Awareness</a> -- Total surveillance from ground to orbit</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> -- The all-seeing system processing the data</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/213-Predictive_Policing.mp4">Predictive Policing</a> -- Behavioral prediction through the control grid</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/65-Smart_Dust.mp4">Smart Dust</a> -- Microscale sensors within the electromagnetic cage</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- The invisible deception surrounding all</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> -- Victory over the invisible prison</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/directed-energy-weapons-smart-cities/?lang=en">Directed Energy Weapons Deployed In Smart Cities</a> -- The ground-level component of the control grid</li>
+<li><a href="/self-assembling-nanotech-susceptible/?lang=en">How Self-Assembling Nanotechnology Makes You Susceptible to Control</a> -- The internal component of the control system</li>
+<li><a href="/targeted-individual-self-assembled-bioweapon/?lang=en">Targeted Individual: Microchips Self-Assembled As Bioweapon</a> -- Individuals already experiencing mind control effects</li>
+</ul>
+<hr>
+<p><em>The Space Fence circles the earth. The electromagnetic cage surrounds every city. The nanotechnology operates inside every body. The mind control grid is complete in its architecture, if not yet fully activated in its purpose. But above the cage, above the Space Fence, above the satellites and the signals, the dome of the firmament endures. God's boundary is above the adversary's boundary. God's protection encompasses the adversary's prison. And the Spirit of God, which moves where it wills and speaks to whom it chooses, cannot be blocked by S-band radar, cannot be jammed by 5G frequencies, and cannot be filtered by any fence the adversary has built in the space that belongs to the Most High.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The Space Fence and Mind Control Grid"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The Space Fence surveillance system and its connection to the global mind control grid operating through electromagnetic infrastructure and injectable nanotechnology."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-30T10:00:00Z","children":"March 30, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","space-fence",{"href":"/en/tag/space-fence/","className":"tag-pill","children":["#","space-fence"]}],["$","a","mind-control",{"href":"/en/tag/mind-control/","className":"tag-pill","children":["#","mind-control"]}],["$","a","electromagnetic",{"href":"/en/tag/electromagnetic/","className":"tag-pill","children":["#","electromagnetic"]}],["$","a","surveillance",{"href":"/en/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}],["$","a","military",{"href":"/en/tag/military/","className":"tag-pill","children":["#","military"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/space-fence-mind-control/","title":"The Space Fence and Mind Control Grid"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/space-fence-mind-control/","title":"The Space Fence and Mind Control Grid"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The Space Fence and Mind Control Grid | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The Space Fence surveillance system and its connection to the global mind control grid operating through electromagnetic infrastructure and injectable nanotechnology."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"space-fence, mind-control, electromagnetic, surveillance, military"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/space-fence-mind-control/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/space-fence-mind-control/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/space-fence-mind-control/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/space-fence-mind-control/"}],["$","meta","10",{"property":"og:title","content":"The Space Fence and Mind Control Grid"}],["$","meta","11",{"property":"og:description","content":"The Space Fence surveillance system and its connection to the global mind control grid operating through electromagnetic infrastructure and injectable nanotechnology."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/space-fence-mind-control/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/space-fence-mind-control.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The Space Fence and Mind Control Grid"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The Space Fence and Mind Control Grid"}],["$","meta","25",{"name":"twitter:description","content":"The Space Fence surveillance system and its connection to the global mind control grid operating through electromagnetic infrastructure and injectable nanotechnology."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/space-fence-mind-control.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

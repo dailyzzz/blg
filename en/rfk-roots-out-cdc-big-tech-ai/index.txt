@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","rfk-roots-out-cdc-big-tech-ai",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","rfk-roots-out-cdc-big-tech-ai","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rfk-roots-out-cdc-big-tech-ai","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3e62,<h1 id="rfk-jr-roots-out-cdc-leaders-connected-to-big-tech-and-ai">RFK Jr. Roots Out CDC Leaders Connected to Big Tech and AI</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"For there is nothing covered, that shall not be revealed; neither hid, that shall not be known." — Luke 12:2</p>
+</blockquote>
+<p>King Ahab did not merely worship Baal privately. He built an institutional infrastructure of false worship — temples, priests, prophets, and mechanisms of enforcement that penetrated every level of Israelite society. The 450 prophets of Baal and the 400 prophets of Asherah ate at Jezebel's table. They were state-funded, state-credentialed, and state-protected. The system was not hidden — but its connections were obscured behind layers of institutional authority.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a> reveals, the adversary operates most effectively not through open opposition but through infiltration — wearing the uniform of the institution he seeks to corrupt, speaking the language of the authority he seeks to subvert.</p>
+<p>RFK Jr. has discovered that the CDC's leadership included officials with undisclosed connections to Big Tech platforms and artificial intelligence companies — the same entities that powered the pandemic-era censorship apparatus. The prophets of the modern Baal sat not at Jezebel's table but at the intersection of public health, Silicon Valley, and surveillance technology.</p>
+<hr>
+<h2 id="the-cdc-big-tech-nexus">The CDC-Big Tech Nexus</h2>
+<p>During the COVID-19 pandemic, the CDC did not merely issue public health guidance. It actively coordinated with social media platforms — Facebook, Twitter, Google, YouTube — to identify and suppress information that contradicted official narratives. Internal communications obtained through FOIA requests and litigation discovery revealed that CDC officials:</p>
+<ul>
+<li>Flagged specific social media posts for removal or suppression</li>
+<li>Identified specific individuals — including licensed physicians and peer-reviewed researchers — for platform enforcement action</li>
+<li>Provided content moderation guidance to social media companies specifying which claims were considered "misinformation"</li>
+<li>Participated in regular coordination calls with Big Tech content moderation teams</li>
+<li>Shared data with technology companies to support algorithmic suppression of targeted content</li>
+</ul>
+<p>This coordination was not improvisational. It was structural. The CDC maintained formal and informal relationships with technology companies through multiple channels, including the CDC Foundation (which received funding from technology companies), inter-agency partnerships (through the White House COVID-19 Response Team), and direct personnel connections.</p>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com) that the CDC's censorship coordination extended beyond content suppression to surveillance. "The CDC was not merely asking Big Tech to remove posts," Kingston has written. "It was accessing data — search trends, location data, behavioral analytics — from technology platforms to monitor population-level compliance with public health guidance. The same platforms that censored dissent were providing the CDC with surveillance data about the population's behavior, beliefs, and movements."</p>
+<h3 id="the-ai-connection">The AI Connection</h3>
+<p>RFK Jr.'s investigation revealed that several senior CDC officials had undisclosed connections to artificial intelligence companies involved in health surveillance, predictive analytics, and population behavioral modeling. These connections included:</p>
+<ul>
+<li>Advisory board positions at AI companies developing pandemic surveillance tools</li>
+<li>Consulting arrangements with firms contracted by federal agencies for AI-driven health data analysis</li>
+<li>Prior employment at technology companies whose platforms were used for pandemic-era censorship</li>
+<li>Financial interests — including stock holdings and consulting fees — in companies that benefited from CDC contracts and partnerships during the pandemic</li>
+</ul>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> documents the role of AI surveillance companies in constructing the digital panopticon — a system of total observation in which every individual's health data, location, communications, and social interactions are captured, analyzed, and used to model and predict behavior.</p>
+<p>The CDC's connection to these companies transformed the agency from a public health institution into a node in a surveillance network. Health data collected through testing programs, vaccination records, hospital reporting systems, and wastewater monitoring was fed into AI systems that modeled population behavior, identified non-compliant individuals and communities, and generated enforcement strategies.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/213-Predictive_Policing.mp4">Predictive Policing</a> explores how AI-driven predictive models — originally developed for law enforcement — have been adapted for health compliance enforcement, creating a system in which non-compliance with health directives can be predicted, flagged, and preemptively addressed.</p>
+<hr>
+<h2 id="the-censorship-industrial-complex">The Censorship-Industrial Complex</h2>
+<p>The connections RFK Jr. exposed are components of what has been termed the "Censorship-Industrial Complex" — a network of government agencies, technology companies, academic institutions, and nonprofit organizations that coordinate to control the flow of information across digital platforms.</p>
+<p>The architecture of this system includes:</p>
+<p><strong>Government agencies</strong> (CDC, FDA, DHS, State Department) that identify content to be suppressed and provide moderation guidance to platforms.</p>
+<p><strong>Technology companies</strong> (Meta/Facebook, Google/YouTube, Twitter/X, Microsoft) that implement content suppression through algorithmic demotion, content removal, account suspension, and shadow banning.</p>
+<p><strong>Academic institutions</strong> (Stanford Internet Observatory, University of Washington Center for an Informed Public) that provide research framing and "misinformation" categorization frameworks.</p>
+<p><strong>Nonprofit organizations</strong> (NewsGuard, First Draft, the Virality Project) that serve as intermediaries between government agencies and technology platforms, providing lists of accounts, content, and narratives to be targeted.</p>
+<p><strong>AI systems</strong> that automate the identification, categorization, and suppression of targeted content at scale — enabling censorship operations that would be impossible through manual human review.</p>
+<p>Kingston has connected this infrastructure to the broader pharmakeia system: "The censorship apparatus exists to protect the pharmaceutical industry's market. Every physician who reported adverse events, every researcher who questioned efficacy data, every journalist who documented conflicts of interest — all were targeted for suppression because their speech threatened pharmaceutical revenue. The CDC's role was to provide the government imprimatur for the censorship — to make it look like public health protection rather than market protection."</p>
+<hr>
+<h2 id="the-removal-of-compromised-officials">The Removal of Compromised Officials</h2>
+<p>RFK Jr.'s removal of CDC officials connected to Big Tech and AI represents a direct assault on the institutional infrastructure of the Censorship-Industrial Complex. By identifying and terminating officials who served as connection points between the CDC and technology companies, the action severs the personnel links that enabled coordinated censorship.</p>
+<p>However, the structural connections remain. The CDC's data-sharing agreements with technology companies, its contracts with AI analytics firms, and its participation in inter-agency censorship coordination frameworks are institutional, not personal. Removing individuals disrupts the network temporarily but does not dismantle the institutional architecture that will seek to rebuild those connections under new leadership.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/211-Total_Information_Awareness.mp4">Total Information Awareness</a> documents the long-term federal project to achieve complete informational surveillance of the population — a project that predates COVID-19 by decades and that the pandemic merely accelerated and normalized.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/243-Cybereason_CIA.mp4">Cybereason CIA</a> exposes the intelligence community connections underlying the technology companies that power the surveillance infrastructure — revealing that the platforms Americans use daily for communication, commerce, and information were designed with intelligence community participation and serve intelligence community objectives.</p>
+<hr>
+<h2 id="the-prophetic-warning">The Prophetic Warning</h2>
+<blockquote>
+<p>"And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues." — Revelation 18:4</p>
+</blockquote>
+<p>The command to "come out of her" is not merely spiritual — it is practical. The system described in Revelation 18 is a commercial, technological, and political apparatus that ensnares those who participate in it. The CDC-Big Tech nexus is a component of this system — a mechanism through which public health authority is merged with technological surveillance and information control to create a system of total population management.</p>
+<p>Coming out requires recognizing the system for what it is: not a collection of well-intentioned institutions making occasional mistakes, but a coordinated apparatus designed to monitor, manipulate, and control. The officials RFK Jr. has removed were nodes in this apparatus. Their removal is necessary but insufficient. The apparatus itself must be dismantled — its contracts terminated, its data-sharing agreements voided, its legal authorities revoked, and its institutional architecture broken apart.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>HHS Office of Inspector General — CDC personnel financial disclosure records</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's documentation of CDC-Big Tech coordination, AI surveillance integration, and censorship-industrial complex architecture</p>
+</li>
+<li>
+<p>Missouri v. Biden (now Murthy v. Missouri) — Discovery documents revealing government-platform censorship coordination</p>
+</li>
+<li>
+<p>CDC Foundation — Technology company contributor records</p>
+</li>
+<li>
+<p>Luke 12:2, Revelation 18:4 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> — AI surveillance companies and the digital panopticon</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/211-Total_Information_Awareness.mp4">Total Information Awareness</a> — The federal project for complete informational surveillance</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/213-Predictive_Policing.mp4">Predictive Policing</a> — AI-driven behavioral prediction adapted for health compliance</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/243-Cybereason_CIA.mp4">Cybereason CIA</a> — Intelligence community connections underlying Big Tech platforms</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a> — The adversary wearing the uniform of the institution he seeks to corrupt</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> — Infiltration as the most effective strategy of subversion</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/rfk-cleans-house-cdc/?lang=en">RFK Jr. Cleans House at the CDC</a> — The broader purge of compromised CDC leadership</li>
+<li><a href="/cdc-gone-media-exodus/?lang=en">The CDC is Gone: Media Reports Mass Exodus</a> — The institutional collapse following the removal of corrupted officials</li>
+<li><a href="/medical-associations-sue-rfk/?lang=en">6 Medical Associations Sue RFK Jr. and HHS Leaders</a> — The establishment's legal counterattack</li>
+<li><a href="/hhs-maha-transformation/?lang=en">HHS Announces MAHA Transformation of Healthcare</a> — The vision for rebuilding health institutions</li>
+</ul>
+<hr>
+<p><em>The prophets of Baal ate at Jezebel's table, but they wore the robes of Israel's priesthood. The CDC officials connected to Big Tech and AI wore the credentials of public health, but they served the surveillance apparatus that monitored, censored, and controlled the population during the most consequential public health event in modern history. Their removal is a necessary act of institutional purification — but the table at which they sat remains set, and new prophets of the digital Baal will seek to fill the empty chairs. "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour" (1 Peter 5:8). The chairs have been emptied. Whether they remain empty will depend on whether the next generation of leaders fears God more than it fears Silicon Valley.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"RFK Jr. Roots Out CDC Leaders Connected to Big Tech and AI"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"RFK Jr. exposes and removes CDC officials with undisclosed ties to Big Tech platforms and AI surveillance companies that powered pandemic-era censorship."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-09T10:00:00Z","children":"May 9, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","RFK-Jr",{"href":"/en/tag/RFK-Jr/","className":"tag-pill","children":["#","RFK-Jr"]}],["$","a","CDC",{"href":"/en/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","Big-Tech",{"href":"/en/tag/Big-Tech/","className":"tag-pill","children":["#","Big-Tech"]}],["$","a","AI",{"href":"/en/tag/AI/","className":"tag-pill","children":["#","AI"]}],["$","a","censorship",{"href":"/en/tag/censorship/","className":"tag-pill","children":["#","censorship"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/rfk-roots-out-cdc-big-tech-ai/","title":"RFK Jr. Roots Out CDC Leaders Connected to Big Tech and AI"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/rfk-roots-out-cdc-big-tech-ai/","title":"RFK Jr. Roots Out CDC Leaders Connected to Big Tech and AI"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"RFK Jr. Roots Out CDC Leaders Connected to Big Tech and AI | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"RFK Jr. exposes and removes CDC officials with undisclosed ties to Big Tech platforms and AI surveillance companies that powered pandemic-era censorship."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"RFK-Jr, CDC, Big-Tech, AI, censorship"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/rfk-roots-out-cdc-big-tech-ai/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/rfk-roots-out-cdc-big-tech-ai/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/rfk-roots-out-cdc-big-tech-ai/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/rfk-roots-out-cdc-big-tech-ai/"}],["$","meta","10",{"property":"og:title","content":"RFK Jr. Roots Out CDC Leaders Connected to Big Tech and AI"}],["$","meta","11",{"property":"og:description","content":"RFK Jr. exposes and removes CDC officials with undisclosed ties to Big Tech platforms and AI surveillance companies that powered pandemic-era censorship."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/rfk-roots-out-cdc-big-tech-ai/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/rfk-roots-out-cdc-big-tech-ai.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"RFK Jr. Roots Out CDC Leaders Connected to Big Tech and AI"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"RFK Jr. Roots Out CDC Leaders Connected to Big Tech and AI"}],["$","meta","25",{"name":"twitter:description","content":"RFK Jr. exposes and removes CDC officials with undisclosed ties to Big Tech platforms and AI surveillance companies that powered pandemic-era censorship."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/rfk-roots-out-cdc-big-tech-ai.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

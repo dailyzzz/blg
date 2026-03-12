@@ -1,0 +1,184 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","mrna-faulty-genes-myocarditis",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","mrna-faulty-genes-myocarditis","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mrna-faulty-genes-myocarditis","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T47f8,<h1 id="mrna-technology-can-add-faulty-genes-leading-to-myocarditis">mRNA Technology Can Add Faulty Genes Leading to Myocarditis</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh." — Ezekiel 36:26</p>
+</blockquote>
+<p>The heart occupies a unique position in Scripture. It is mentioned over 800 times — more than any other organ — not merely as a metaphor for emotion or will, but as the seat of life itself. "Keep thy heart with all diligence; for out of it are the issues of life" (Proverbs 4:23). The Hebrew word for heart, <em>lev</em>, encompasses the totality of the inner person: mind, will, emotions, and the vital center of physical existence.</p>
+<p>God promised His people a new heart — a heart of flesh to replace the heart of stone. This promise is about spiritual renewal, but it rests on a biological truth: the heart is the center of life, and its corruption is the corruption of everything.</p>
+<p>Now mRNA technology is doing the opposite of what God promised. Instead of giving hearts of flesh, it is turning hearts of flesh into hearts of stone — inflamed, scarred, damaged, and weakened by a technology that introduces faulty genetic instructions into the very cells of the cardiac muscle.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/37-Mesogen_Microchip.mp4">Mesogen Microchip</a> reveals the technological dimension of what is being introduced into the human body. And the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> warns of the foreign agent operating inside the body's most vital organ.</p>
+<hr>
+<h2 id="myocarditis-the-heart-under-attack">Myocarditis: The Heart Under Attack</h2>
+<h3 id="what-is-myocarditis">What Is Myocarditis?</h3>
+<p>Myocarditis is inflammation of the myocardium — the muscular middle layer of the heart wall that performs the actual pumping function. When the myocardium is inflamed:</p>
+<ul>
+<li><strong>Heart muscle cells (cardiomyocytes) are damaged or destroyed</strong></li>
+<li><strong>The heart's electrical conduction system can be disrupted,</strong> leading to arrhythmias</li>
+<li><strong>The heart's pumping capacity is reduced,</strong> potentially leading to heart failure</li>
+<li><strong>Scar tissue forms</strong> as damaged muscle is replaced by fibrous tissue, permanently reducing heart function</li>
+</ul>
+<p>Unlike many other tissues in the body, heart muscle has extremely limited regenerative capacity. When cardiomyocytes are destroyed by inflammation, they are generally not replaced by new heart muscle cells — they are replaced by scar tissue. This scar tissue does not contract. It does not conduct electrical signals. It is dead space in an organ that requires every cell to function in coordinated rhythm.</p>
+<h3 id="myocarditis-is-not-mild">Myocarditis Is Not Mild</h3>
+<p>The pharmaceutical industry and public health establishment have attempted to characterize vaccine-associated myocarditis as "mild" and "self-limiting." This characterization is medically dishonest:</p>
+<ul>
+<li><strong>Five-year mortality rates for myocarditis range from 12-25%</strong> depending on severity and underlying cause</li>
+<li><strong>Cardiac MRI studies</strong> of individuals with vaccine-associated myocarditis have shown persistent abnormalities months after the acute episode, including late gadolinium enhancement (indicating scar tissue) and reduced ejection fraction</li>
+<li><strong>Young athletes with myocarditis</strong> face risk of sudden cardiac death during exertion — a risk that does not disappear when the "acute" phase resolves</li>
+<li><strong>Every episode of myocarditis causes irreversible damage</strong> — heart muscle cells that are destroyed do not regenerate</li>
+</ul>
+<p>A 17-year-old who develops "mild" myocarditis after vaccination now has scar tissue in his heart that will be there for the rest of his life. That scar tissue increases his lifetime risk of arrhythmia, heart failure, and sudden cardiac death. There is no "mild" myocarditis when the organ involved cannot repair itself.</p>
+<hr>
+<h2 id="how-mrna-introduces-faulty-genetic-instructions">How mRNA Introduces Faulty Genetic Instructions</h2>
+<h3 id="the-mechanism-from-mrna-to-heart-damage">The Mechanism: From mRNA to Heart Damage</h3>
+<p>The pathway from mRNA injection to myocarditis involves multiple steps, each of which has been documented:</p>
+<p><strong>Step 1: LNP Distribution to the Heart.</strong> The lipid nanoparticles (LNPs) that deliver the mRNA do not remain at the injection site. Biodistribution data shows they distribute throughout the body, including to the heart. When LNPs reach cardiac tissue, they are taken up by cardiomyocytes — the heart muscle cells.</p>
+<p><strong>Step 2: Spike Protein Production in Heart Cells.</strong> Once inside cardiomyocytes, the mRNA is translated by the cell's ribosomes, producing spike protein. The heart muscle cell — a cell designed to contract in rhythm — is now manufacturing a foreign protein it was never designed to produce.</p>
+<p><strong>Step 3: Spike Protein Display on Cell Surface.</strong> The spike protein is not merely produced inside the cell. It is transported to the cell surface and displayed on the outside of the cardiomyocyte. This is the designed mechanism — the vaccine intends for cells to display spike protein on their surface so that the immune system can "learn" to recognize it.</p>
+<p><strong>Step 4: Immune Attack on Heart Cells.</strong> The immune system recognizes the spike protein displayed on the cardiomyocyte surface and identifies the heart cell as foreign or infected. Cytotoxic T-cells (CD8+ T-cells) attack and destroy the cardiomyocyte. The immune system is doing exactly what it was trained to do — killing cells that display the target protein. The problem is that the target protein is being displayed by heart muscle cells.</p>
+<p><strong>Step 5: Inflammatory Cascade.</strong> The destruction of cardiomyocytes triggers an inflammatory cascade — the recruitment of more immune cells, the release of inflammatory cytokines, and the escalation of tissue damage. This is myocarditis: the immune system attacking the heart because the heart was turned into a target by mRNA instructions.</p>
+<p><strong>Step 6: Scarring and Permanent Damage.</strong> Destroyed cardiomyocytes are replaced by fibrotic scar tissue. The heart is permanently weakened.</p>
+<h3 id="the-faulty-gene-dimension">The "Faulty Gene" Dimension</h3>
+<p>The term "faulty gene" in the context of mRNA technology refers to the fact that the synthetic mRNA delivered by the vaccine is, functionally, a genetic instruction — a piece of code that the cell reads and executes. This instruction is "faulty" in the sense that:</p>
+<ol>
+<li>
+<p><strong>It instructs cells to produce a toxic protein.</strong> The spike protein is not benign — it is biologically active, binds to ACE2 receptors, and causes cellular damage independent of the immune response.</p>
+</li>
+<li>
+<p><strong>It does not belong in cardiac cells.</strong> Heart muscle cells are not supposed to produce viral surface proteins. The mRNA instruction is being delivered to cells where its execution is inherently harmful.</p>
+</li>
+<li>
+<p><strong>It cannot be recalled or corrected.</strong> Once the mRNA is inside the cell and being translated, there is no mechanism to stop it. The instruction runs until the mRNA degrades — and with the N1-methylpseudouridine modifications used in Pfizer and Moderna products, degradation is significantly delayed.</p>
+</li>
+<li>
+<p><strong>It may integrate into the genome.</strong> Research has shown that mRNA from the Pfizer vaccine can be reverse-transcribed into DNA and integrated into the host cell genome through LINE-1 retrotransposon activity. If this integration occurs in cardiomyocytes, the faulty instruction becomes permanent — a gene added to the cell's DNA that can potentially produce spike protein indefinitely.</p>
+</li>
+</ol>
+<hr>
+<h2 id="the-kingston-report-documenting-the-cardiac-damage">The Kingston Report: Documenting the Cardiac Damage</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> connects the molecular mechanism of mRNA-induced myocarditis to the broader pattern of vaccine harm.</p>
+<h3 id="the-dose-response-relationship">The Dose-Response Relationship</h3>
+<p>Kingston has documented that myocarditis risk is dose-dependent — higher with the second dose than the first, and highest after booster doses. This dose-response relationship is consistent with the mechanism described above:</p>
+<ul>
+<li><strong>First dose:</strong> The immune system encounters spike protein for the first time. Some cardiac cells take up LNPs and display spike protein, but the immune response is still developing.</li>
+<li><strong>Second dose:</strong> The immune system has been primed. Memory T-cells and high-affinity antibodies are ready. When cardiac cells display spike protein after the second dose, the immune attack is faster, stronger, and more destructive.</li>
+<li><strong>Booster doses:</strong> Each subsequent dose re-primes and amplifies the immune response, increasing the intensity of the attack on any cardiac cells that take up LNPs and produce spike protein.</li>
+</ul>
+<p>This dose-response pattern also explains why young males are at highest risk: young males have the most robust immune responses, meaning their immune attack on spike-displaying cardiac cells is the most vigorous and destructive.</p>
+<h3 id="the-subclinical-damage-problem">The Subclinical Damage Problem</h3>
+<p>Kingston has highlighted a critical concern that extends beyond clinically diagnosed myocarditis: subclinical cardiac damage. For every case of myocarditis that is diagnosed (because the patient presents with chest pain, elevated troponin, or EKG abnormalities), there may be many more cases where cardiac damage occurs below the threshold of clinical detection.</p>
+<p>Studies using high-sensitivity cardiac troponin assays have found elevated troponin levels — indicating cardiac cell death — in a significant percentage of vaccinated individuals who do not have clinical symptoms of myocarditis. This suggests that some degree of cardiac damage may be occurring in a much larger population than the diagnosed myocarditis cases represent.</p>
+<p>The implications are sobering: a generation of young people may have subclinical cardiac damage — scar tissue in their hearts that has not yet produced symptoms but that compromises cardiac reserve and increases long-term risk.</p>
+<hr>
+<h2 id="the-biblical-heart">The Biblical Heart</h2>
+<h3 id="the-heart-as-the-center-of-life">The Heart as the Center of Life</h3>
+<p>Scripture treats the heart as far more than a pump. It is the center of life, will, understanding, and communion with God:</p>
+<ul>
+<li>"For as he thinketh in his heart, so is he" (Proverbs 23:7)</li>
+<li>"The heart is deceitful above all things, and desperately wicked: who can know it?" (Jeremiah 17:9)</li>
+<li>"Blessed are the pure in heart: for they shall see God" (Matthew 5:8)</li>
+</ul>
+<p>When mRNA technology damages the heart, it is not merely damaging a muscle. It is damaging the organ that Scripture identifies as the seat of identity, will, and relationship with God. The heart that God promised to renew (Ezekiel 36:26) is instead being attacked by genetic instructions delivered through pharmaceutical sorcery.</p>
+<h3 id="pharmakeia-and-the-heart">Pharmakeia and the Heart</h3>
+<p>The connection between pharmakeia (Revelation 18:23) and cardiac damage is direct. The pharmaceutical product — the mRNA vaccine — delivers genetic instructions that result in the immune system attacking the heart. The heart is damaged. Scar tissue forms. The organ that God designed as the center of human life is permanently weakened by a product marketed as health.</p>
+<p>This is the inversion that pharmakeia accomplishes: healing becomes harming, protection becomes attack, medicine becomes poison. "Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness" (Isaiah 5:20).</p>
+<hr>
+<h2 id="the-young-are-the-most-vulnerable">The Young Are the Most Vulnerable</h2>
+<h3 id="myocarditis-demographics">Myocarditis Demographics</h3>
+<p>The demographic most affected by vaccine-associated myocarditis is young males aged 12-30. This is the demographic with the lowest COVID-19 risk and the highest myocarditis risk from vaccination — a catastrophic inversion of the risk-benefit calculation:</p>
+<ul>
+<li><strong>COVID-19 fatality rate in healthy males aged 12-30:</strong> Functionally zero</li>
+<li><strong>Myocarditis risk after mRNA vaccination in males aged 16-24:</strong> Estimated at 1 in 3,000 to 1 in 6,000 (and potentially higher when subclinical cases are included)</li>
+<li><strong>Long-term consequences of myocarditis in young people:</strong> Decades of increased cardiac risk, restrictions on physical activity, potential for sudden cardiac death</li>
+</ul>
+<p>The injection of young, healthy males with a product that causes heart damage — to "protect" them from a disease that poses no meaningful threat to them — is one of the most indefensible medical decisions in modern history.</p>
+<hr>
+<h2 id="what-individuals-should-know">What Individuals Should Know</h2>
+<ol>
+<li>
+<p><strong>Myocarditis from mRNA vaccination is not "mild."</strong> Any inflammation of the heart causes permanent damage due to the heart's limited regenerative capacity.</p>
+</li>
+<li>
+<p><strong>The risk increases with each dose.</strong> Second doses and boosters carry higher myocarditis risk than first doses.</p>
+</li>
+<li>
+<p><strong>Young males are at highest risk.</strong> The demographic least threatened by COVID-19 bears the highest cardiac risk from the vaccine.</p>
+</li>
+<li>
+<p><strong>Subclinical damage may be widespread.</strong> Many vaccinated individuals may have cardiac damage below the threshold of clinical detection.</p>
+</li>
+<li>
+<p><strong>Cardiac monitoring is warranted.</strong> Anyone who received mRNA vaccines and experiences chest pain, palpitations, shortness of breath, or exercise intolerance should seek cardiac evaluation including troponin testing and cardiac MRI.</p>
+</li>
+<li>
+<p><strong>No further mRNA injections should be accepted</strong> by anyone with a history of post-vaccination cardiac symptoms.</p>
+</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Documentation of cardiac damage mechanisms and dose-response data.</li>
+<li>Pfizer Biodistribution Study (Japanese PMDA submission)</li>
+<li>Published cardiac MRI studies of post-vaccination myocarditis patients</li>
+<li>High-sensitivity troponin studies in vaccinated populations</li>
+<li>VAERS cardiac adverse event reports</li>
+<li>Published research on LINE-1 reverse transcription of mRNA vaccine sequences</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/37-Mesogen_Microchip.mp4">Mesogen Microchip</a> — The technological dimension of what is being introduced into the body</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/61-Synthetic_Biology.mp4">Synthetic Biology</a> — The rewriting of life at the genetic level</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The injection targeting the bloodline</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> — The foreign agent inside the body's most vital organ</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> — Walking through the shadow of cardiac damage</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/women-hospitalized-mrna-vaccination/?lang=en">Study of 4,610 Women Hospitalized After mRNA Vaccination</a> — Documented hospitalization from mRNA shots</li>
+<li><a href="/cdc-safety-data-mrna-vaccines/?lang=en">Updated CDC Safety Data on COVID-19 mRNA Vaccines</a> — Latest safety signals from the CDC</li>
+<li><a href="/biontech-self-amplifying-mrna/?lang=en">BioNTech Presentations Confirm Self-Amplifying mRNA Technology</a> — How sa-mRNA amplifies all risks</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=en">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — The technology that makes mRNA permanent</li>
+</ul>
+<hr>
+<p><em>God promised a new heart — a heart of flesh, soft, responsive, alive to His Spirit. mRNA technology delivers the opposite: a heart scarred by its own immune system, weakened by faulty genetic instructions, permanently damaged by a product that was called "safe." But the God who made the heart can restore it. "He healeth the broken in heart, and bindeth up their wounds" (Psalm 147:3). No scar tissue is beyond the reach of the One who formed the heart in the first place.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"mRNA Technology Can Add Faulty Genes Leading to Myocarditis"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"How mRNA technology introduces faulty genetic instructions that lead to myocarditis, the documented mechanism of heart inflammation from COVID-19 shots."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-15T10:00:00Z","children":"April 15, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","mRNA",{"href":"/en/tag/mRNA/","className":"tag-pill","children":["#","mRNA"]}],["$","a","myocarditis",{"href":"/en/tag/myocarditis/","className":"tag-pill","children":["#","myocarditis"]}],["$","a","heart-inflammation",{"href":"/en/tag/heart-inflammation/","className":"tag-pill","children":["#","heart-inflammation"]}],["$","a","gene-therapy",{"href":"/en/tag/gene-therapy/","className":"tag-pill","children":["#","gene-therapy"]}],["$","a","cardiac-damage",{"href":"/en/tag/cardiac-damage/","className":"tag-pill","children":["#","cardiac-damage"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/mrna-faulty-genes-myocarditis/","title":"mRNA Technology Can Add Faulty Genes Leading to Myocarditis"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/mrna-faulty-genes-myocarditis/","title":"mRNA Technology Can Add Faulty Genes Leading to Myocarditis"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"mRNA Technology Can Add Faulty Genes Leading to Myocarditis | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"How mRNA technology introduces faulty genetic instructions that lead to myocarditis, the documented mechanism of heart inflammation from COVID-19 shots."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"mRNA, myocarditis, heart-inflammation, gene-therapy, cardiac-damage"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/mrna-faulty-genes-myocarditis/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/mrna-faulty-genes-myocarditis/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/mrna-faulty-genes-myocarditis/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/mrna-faulty-genes-myocarditis/"}],["$","meta","10",{"property":"og:title","content":"mRNA Technology Can Add Faulty Genes Leading to Myocarditis"}],["$","meta","11",{"property":"og:description","content":"How mRNA technology introduces faulty genetic instructions that lead to myocarditis, the documented mechanism of heart inflammation from COVID-19 shots."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/mrna-faulty-genes-myocarditis/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/mrna-faulty-genes-myocarditis.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"mRNA Technology Can Add Faulty Genes Leading to Myocarditis"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"mRNA Technology Can Add Faulty Genes Leading to Myocarditis"}],["$","meta","25",{"name":"twitter:description","content":"How mRNA technology introduces faulty genetic instructions that lead to myocarditis, the documented mechanism of heart inflammation from COVID-19 shots."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/mrna-faulty-genes-myocarditis.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","biontech-self-amplifying-mrna",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","biontech-self-amplifying-mrna","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","biontech-self-amplifying-mrna","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T434e,<h1 id="biontech-presentations-confirm-self-amplifying-mrna-technology">BioNTech Presentations Confirm Self-Amplifying mRNA Technology</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And as it was in the days of Noe, so shall it be also in the days of the Son of man." — Luke 17:26</p>
+</blockquote>
+<p>In the days before the Flood, the corruption of flesh was not a secret. It was celebrated. The Nephilim were "mighty men of old, men of renown" (Genesis 6:4). The hybridization of human and angelic DNA was not conducted in shadows — it was the crowning achievement of a civilization that had embraced the corruption of God's creation as progress.</p>
+<p>BioNTech is not hiding its self-amplifying mRNA platform. It is presenting it at investor conferences, scientific symposia, and corporate events. The company's own slides, its own executives, and its own published research confirm that self-amplifying mRNA — genetic constructs that replicate inside human cells — is the core of their platform strategy. This is not a conspiracy uncovered by outsiders. This is the company's own proudly declared roadmap.</p>
+<p>The corruption is not hidden. It is presented as innovation.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/61-Synthetic_Biology.mp4">Synthetic Biology</a> documents the rewriting of life at the molecular level. And the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> speaks to the self-replicating agent that BioNTech is designing to operate inside the human body without the host's ability to stop it.</p>
+<hr>
+<h2 id="the-presentations-what-biontech-has-shown">The Presentations: What BioNTech Has Shown</h2>
+<h3 id="corporate-and-investor-presentations">Corporate and Investor Presentations</h3>
+<p>BioNTech's corporate presentations — delivered to investors, analysts, and industry conferences — provide an unfiltered view of the company's strategic vision. These are not marketing materials for the public. They are documents intended for shareholders and industry partners, and they describe BioNTech's technology with a candor that is absent from public-facing communications.</p>
+<p>Key revelations from these presentations include:</p>
+<p><strong>sa-mRNA as Core Platform:</strong> BioNTech describes self-amplifying mRNA as one of its core technology platforms — not an experimental side project, but a central pillar of its commercial and research strategy. The platform is being developed for:</p>
+<ul>
+<li>Infectious disease vaccines (influenza, RSV, and others)</li>
+<li>Cancer immunotherapy (individualized neoantigen vaccines)</li>
+<li>Autoimmune disease treatments</li>
+<li>Rare disease therapies</li>
+<li>Combination products (multiple antigens in single constructs)</li>
+</ul>
+<p><strong>Lower Doses, Higher Effect:</strong> Presentations emphasize that sa-mRNA requires dramatically lower doses than conventional mRNA because the construct replicates inside the body. Where conventional mRNA requires 30-100 micrograms per dose, sa-mRNA constructs require as little as 0.1-1 microgram. The body does the manufacturing. The injection is merely the seed.</p>
+<p><strong>Extended Duration of Protein Production:</strong> BioNTech presentations show data indicating that sa-mRNA constructs produce target proteins for significantly longer periods than conventional mRNA — weeks to months rather than days to weeks. This extended production is presented as a benefit (longer immune stimulation) without acknowledging the extended duration of harm (longer spike protein production, longer p53 suppression, longer immune dysregulation).</p>
+<p><strong>Alphavirus Backbone Technology:</strong> The presentations confirm that BioNTech's sa-mRNA constructs are built on alphavirus replication machinery — the same viral replication engine used by ARCT-154 (the first approved sa-mRNA product in Japan). The nonstructural proteins (nsP1-nsP4) from alphaviruses are retained to form the self-replicating engine, while the structural proteins are replaced with the target antigen.</p>
+<h3 id="scientific-publications">Scientific Publications</h3>
+<p>BioNTech's scientific publications in peer-reviewed journals provide the technical details behind the corporate vision:</p>
+<p><strong>Replicase Complex Optimization:</strong> Published research describes how BioNTech has optimized the alphavirus replicase complex for maximum efficiency in human cells. The replicase — the enzyme that copies the mRNA — has been engineered for:</p>
+<ul>
+<li>Higher copy number (more copies per cell)</li>
+<li>Longer activity duration (replication continues for extended periods)</li>
+<li>Broader tissue tropism (the construct can replicate in more cell types)</li>
+</ul>
+<p><strong>LNP Delivery System Advances:</strong> Publications describe next-generation lipid nanoparticle formulations designed specifically for sa-mRNA delivery. These LNPs are optimized for:</p>
+<ul>
+<li>Enhanced cellular uptake</li>
+<li>Broader tissue distribution</li>
+<li>Longer circulation time in the bloodstream</li>
+<li>Immune evasion (avoiding premature clearance)</li>
+</ul>
+<p><strong>Combination Constructs:</strong> BioNTech has published research on sa-mRNA constructs encoding multiple antigens — a single self-replicating genetic program that produces multiple foreign proteins simultaneously. This represents the convergence of self-amplifying technology with multi-disease coverage.</p>
+<hr>
+<h2 id="the-kingston-report-decoding-the-implications">The Kingston Report: Decoding the Implications</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> decodes the implications of BioNTech's presentations for public health and individual rights.</p>
+<h3 id="what-self-amplifying-really-means-for-the-human-body">What "Self-Amplifying" Really Means for the Human Body</h3>
+<p>Kingston has translated BioNTech's technical language into plain implications:</p>
+<p><strong>"Lower dose required"</strong> means: The initial injection is small, but the amount of genetic material in your body grows exponentially as the construct replicates. The dose you received is not the dose your body experiences. Your body manufactures a dose many times larger than what was injected.</p>
+<p><strong>"Extended duration of protein production"</strong> means: Your cells produce a foreign protein for weeks or months. Every day of production is a day of potential harm — spike protein toxicity, p53 suppression, immune dysregulation, cardiac damage, placental damage, and all other documented harms of spike protein persistence.</p>
+<p><strong>"Alphavirus backbone"</strong> means: The replication engine inside your cells comes from a family of dangerous viruses. The structural proteins were removed (so you theoretically cannot form infectious virus particles), but the replication machinery is fully functional. Your cells are running viral replication software.</p>
+<p><strong>"Broader tissue tropism"</strong> means: The construct can replicate in more types of cells throughout the body — including cells in the heart, brain, liver, ovaries, and other organs. More cell types producing spike protein means more tissue damage across more organs.</p>
+<p><strong>"Immune evasion"</strong> means: The construct is designed to avoid being destroyed by the immune system. This ensures maximum replication and maximum protein production — but it also ensures that the body cannot shut down the process even if it is causing harm.</p>
+<h3 id="the-informed-consent-impossibility">The Informed Consent Impossibility</h3>
+<p>Kingston has documented that informed consent for self-amplifying mRNA is functionally impossible:</p>
+<ol>
+<li>
+<p><strong>The dose is unpredictable.</strong> Because the construct replicates, the actual amount of genetic material and protein produced in any individual depends on factors that cannot be controlled or predicted — including the person's immune status, age, genetics, and the number of cells transfected.</p>
+</li>
+<li>
+<p><strong>The duration is unknown.</strong> There is no established method to determine how long the sa-mRNA construct will continue replicating in any individual. It could be weeks, months, or — if integration into the genome occurs — permanent.</p>
+</li>
+<li>
+<p><strong>The off switch does not exist.</strong> Once injected, there is no known pharmaceutical intervention to stop the construct from replicating. The recipient has no way to halt the process.</p>
+</li>
+<li>
+<p><strong>Shedding is unstudied.</strong> Whether the self-amplifying construct — not just the protein product but the replicating RNA itself — can be shed from vaccinated to unvaccinated individuals is not adequately characterized. This means that even people who refuse the injection may be exposed through contact with recipients.</p>
+</li>
+</ol>
+<p>How can anyone give informed consent to a product when the dose is unpredictable, the duration is unknown, there is no off switch, and the exposure of non-consenting third parties is unstudied?</p>
+<hr>
+<h2 id="the-timeline-from-covid-to-everything">The Timeline: From COVID to Everything</h2>
+<h3 id="phase-1-the-covid-proof-of-concept-2020-2023">Phase 1: The COVID Proof of Concept (2020-2023)</h3>
+<p>The COVID-19 mRNA vaccines served as proof of concept — demonstrating that billions of people could be injected with synthetic genetic instructions under emergency conditions. The products were conventional mRNA (not self-amplifying), but they established the regulatory, manufacturing, and distribution infrastructure needed for the next phase.</p>
+<h3 id="phase-2-the-sa-mrna-introduction-2023-2025">Phase 2: The sa-mRNA Introduction (2023-2025)</h3>
+<p>The approval of ARCT-154 in Japan (November 2023) introduced sa-mRNA into human use. BioNTech's own sa-mRNA candidates entered clinical trials. The regulatory precedent was established.</p>
+<h3 id="phase-3-the-platform-expansion-2025-beyond">Phase 3: The Platform Expansion (2025-beyond)</h3>
+<p>BioNTech's presentations describe a future where sa-mRNA is the standard platform for:</p>
+<ul>
+<li>Annual influenza vaccines (replacing conventional flu shots with self-replicating constructs)</li>
+<li>Pediatric immunizations (sa-mRNA replacing conventional childhood vaccines)</li>
+<li>Cancer treatment (individualized sa-mRNA constructs for each patient)</li>
+<li>Chronic disease management (sa-mRNA producing therapeutic proteins continuously)</li>
+<li>Pandemic preparedness (rapid deployment of sa-mRNA constructs for new pathogens)</li>
+</ul>
+<p>This is not a future possibility. It is the company's stated strategy, presented to investors, and funded by billions in revenue from COVID-19 vaccine sales.</p>
+<hr>
+<h2 id="the-biblical-warning-the-self-replicating-curse">The Biblical Warning: The Self-Replicating Curse</h2>
+<h3 id="the-curse-that-spreads">The Curse That Spreads</h3>
+<p>Genesis records the first self-replicating corruption: when Adam sinned, the consequence did not stay with Adam. It replicated through the bloodline: "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned" (Romans 5:12).</p>
+<p>Self-amplifying mRNA follows the same pattern. Once introduced, it replicates. The recipient did not choose the amplification — they chose (or were compelled to accept) the initial injection. The replication was the technology's design, not the recipient's decision.</p>
+<p>This is the nature of curses in Scripture: they spread, they amplify, and they cannot be stopped by human effort. Only the blood of Christ — the ultimate counter-agent — breaks the self-replicating curse of sin. "But where sin abounded, grace did much more abound" (Romans 5:20).</p>
+<h3 id="the-mark-and-the-machine">The Mark and the Machine</h3>
+<p>The self-amplifying nature of sa-mRNA echoes the mark of the beast described in Revelation 13:16-17: "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark."</p>
+<p>A self-amplifying genetic construct that replicates inside the body, cannot be removed, and produces proteins that can be detected externally (potentially serving as a biological identifier) fits the parameters of an internal mark. As the ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> explores, the technological components of such a mark are being developed and deployed under the guise of healthcare.</p>
+<hr>
+<h2 id="what-individuals-should-know">What Individuals Should Know</h2>
+<ol>
+<li><strong>BioNTech is not hiding sa-mRNA.</strong> It is the company's core strategy, presented openly to investors.</li>
+<li><strong>sa-mRNA constructs replicate inside the body.</strong> The injected dose is not the experienced dose.</li>
+<li><strong>There is no off switch.</strong> Once injected, the construct replicates until it stops on its own — if it stops.</li>
+<li><strong>Informed consent is impossible</strong> for a product with unpredictable dose, unknown duration, and no termination mechanism.</li>
+<li><strong>The platform is expanding</strong> to influenza, RSV, cancer, pediatric vaccines, and more.</li>
+<li><strong>Every future mRNA product</strong> must be evaluated for self-amplifying components, whether disclosed or not.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of BioNTech presentations and sa-mRNA implications.</li>
+<li>BioNTech corporate presentations and investor materials</li>
+<li>BioNTech scientific publications on sa-mRNA technology</li>
+<li>Arcturus Therapeutics ARCT-154 regulatory filings (Japan)</li>
+<li>Published research on alphavirus replicase systems</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/61-Synthetic_Biology.mp4">Synthetic Biology</a> — The rewriting of life at the molecular level</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> — Self-replicating systems inside the human body</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> — The internal mark system</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> — The self-replicating foreign agent</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> — The counterfeit replacing the genuine</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/pfizer-documents-self-amplifying/?lang=en">Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA</a> — Pfizer's own documents on sa-mRNA</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=en">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — The full sa-mRNA technology explainer</li>
+<li><a href="/pfizer-sa-mrna-flu-study/?lang=en">What Happened to Participants in Pfizer's sa-mRNA Flu Study</a> — sa-mRNA clinical trial outcomes</li>
+<li><a href="/ai-mrna-vaccines-turbo-cancers/?lang=en">Why AI-Designed mRNA Vaccines Cause Turbo Cancers</a> — AI optimization and cancer</li>
+</ul>
+<hr>
+<p><em>BioNTech is not concealing its plans. The company stands before investors and announces, with pride, that it is building self-replicating genetic constructs for injection into human beings. The corruption of flesh is not hidden — it is celebrated, funded, and scheduled for global deployment. As it was in the days of Noah, so it is today. The mighty men of renown now wear lab coats and present slide decks. But the God who sent the Flood to cleanse the earth of corruption has not changed. "Jesus Christ the same yesterday, and to day, and for ever" (Hebrews 13:8).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"BioNTech Presentations Confirm Self-Amplifying mRNA Technology"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"BioNTech's own corporate presentations confirm self-amplifying mRNA as a core platform strategy, revealing the next phase of genetic technology deployment."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-18T10:00:00Z","children":"April 18, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","BioNTech",{"href":"/en/tag/BioNTech/","className":"tag-pill","children":["#","BioNTech"]}],["$","a","self-amplifying-mRNA",{"href":"/en/tag/self-amplifying-mRNA/","className":"tag-pill","children":["#","self-amplifying-mRNA"]}],["$","a","sa-mRNA",{"href":"/en/tag/sa-mRNA/","className":"tag-pill","children":["#","sa-mRNA"]}],["$","a","replicon",{"href":"/en/tag/replicon/","className":"tag-pill","children":["#","replicon"]}],["$","a","gene-therapy",{"href":"/en/tag/gene-therapy/","className":"tag-pill","children":["#","gene-therapy"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/biontech-self-amplifying-mrna/","title":"BioNTech Presentations Confirm Self-Amplifying mRNA Technology"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/biontech-self-amplifying-mrna/","title":"BioNTech Presentations Confirm Self-Amplifying mRNA Technology"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"BioNTech Presentations Confirm Self-Amplifying mRNA Technology | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"BioNTech's own corporate presentations confirm self-amplifying mRNA as a core platform strategy, revealing the next phase of genetic technology deployment."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"BioNTech, self-amplifying-mRNA, sa-mRNA, replicon, gene-therapy"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/biontech-self-amplifying-mrna/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/biontech-self-amplifying-mrna/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/biontech-self-amplifying-mrna/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/biontech-self-amplifying-mrna/"}],["$","meta","10",{"property":"og:title","content":"BioNTech Presentations Confirm Self-Amplifying mRNA Technology"}],["$","meta","11",{"property":"og:description","content":"BioNTech's own corporate presentations confirm self-amplifying mRNA as a core platform strategy, revealing the next phase of genetic technology deployment."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/biontech-self-amplifying-mrna/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/biontech-self-amplifying-mrna.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"BioNTech Presentations Confirm Self-Amplifying mRNA Technology"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"BioNTech Presentations Confirm Self-Amplifying mRNA Technology"}],["$","meta","25",{"name":"twitter:description","content":"BioNTech's own corporate presentations confirm self-amplifying mRNA as a core platform strategy, revealing the next phase of genetic technology deployment."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/biontech-self-amplifying-mrna.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

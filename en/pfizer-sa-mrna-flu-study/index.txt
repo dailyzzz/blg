@@ -1,0 +1,167 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","pfizer-sa-mrna-flu-study",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","pfizer-sa-mrna-flu-study","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-sa-mrna-flu-study","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T42b7,<h1 id="what-happened-to-participants-in-pfizers-sa-mrna-flu-study">What Happened to Participants in Pfizer's sa-mRNA Flu Study</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death." — Revelation 12:11</p>
+</blockquote>
+<p>The testimony of witnesses changes history. In Scripture, testimony carries covenantal weight — the witness speaks what they have seen, and their words stand as evidence before God and man. The participants in Pfizer's self-amplifying mRNA influenza study are witnesses. Their bodies bear testimony to what sa-mRNA does inside human beings. Their adverse events, their hospitalizations, their outcomes are testimonies written not in words but in flesh and blood.</p>
+<p>The pharmaceutical industry would prefer these testimonies remain sealed in clinical trial databases, summarized in statistical abstracts, and obscured behind euphemisms like "adverse events of special interest." But the blood cries out from the ground (Genesis 4:10). The testimony of the body cannot be silenced.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> reveals how both disease and its treatments are engineered as part of a unified system. And the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> speaks to the journey of those who walked into the shadow of experimental medicine.</p>
+<hr>
+<h2 id="the-study-background">The Study: Background</h2>
+<h3 id="pfizers-sa-mrna-influenza-program">Pfizer's sa-mRNA Influenza Program</h3>
+<p>Pfizer, in partnership with BioNTech, has been developing self-amplifying mRNA (sa-mRNA) vaccine candidates for influenza as part of its broader strategy to replace conventional vaccines with mRNA-based products. The influenza sa-mRNA program represents one of the first applications of self-amplifying technology to a disease beyond COVID-19.</p>
+<p>The rationale presented by Pfizer is straightforward:</p>
+<ul>
+<li>Current influenza vaccines are moderately effective at best (typically 40-60% effectiveness in a good year)</li>
+<li>mRNA technology allows rapid updating of vaccine strains</li>
+<li>sa-mRNA's self-replicating nature means lower doses and potentially stronger immune responses</li>
+<li>A successful sa-mRNA flu vaccine would capture a massive annual market (hundreds of millions of doses globally)</li>
+</ul>
+<h3 id="study-design">Study Design</h3>
+<p>Pfizer's sa-mRNA influenza study enrolled participants across multiple clinical sites. The study assessed:</p>
+<ul>
+<li>Safety and tolerability at various dose levels</li>
+<li>Immunogenicity (antibody response) against influenza strains</li>
+<li>Reactogenicity (immediate side effects like pain, fever, fatigue)</li>
+<li>Adverse events of special interest</li>
+<li>Serious adverse events</li>
+</ul>
+<p>Participants were adult volunteers who consented to receive an experimental self-amplifying mRNA construct — a genetic program designed to replicate inside their cells and produce influenza surface proteins.</p>
+<hr>
+<h2 id="what-happened-to-the-participants">What Happened to the Participants</h2>
+<h3 id="reactogenicity-immediate-responses">Reactogenicity: Immediate Responses</h3>
+<p>Participants in the sa-mRNA flu study experienced significantly higher rates of reactogenicity compared to conventional influenza vaccines:</p>
+<ul>
+<li><strong>Fever:</strong> A substantial percentage of participants developed fever following injection — rates higher than those seen with conventional mRNA vaccines and dramatically higher than conventional flu shots</li>
+<li><strong>Fatigue:</strong> Severe fatigue lasting multiple days was commonly reported</li>
+<li><strong>Injection site pain:</strong> More intense and longer-lasting than conventional vaccines</li>
+<li><strong>Myalgia (muscle pain):</strong> Widespread body aches exceeding what is seen with standard flu vaccination</li>
+<li><strong>Headache:</strong> Severe headaches requiring medication</li>
+<li><strong>Chills and rigors:</strong> Shaking chills consistent with significant systemic inflammatory response</li>
+</ul>
+<p>These symptoms indicate a more intense immune activation than conventional vaccines produce — consistent with the self-amplifying construct generating higher levels of antigen over a longer period.</p>
+<h3 id="adverse-events-of-special-interest">Adverse Events of Special Interest</h3>
+<p>Beyond standard reactogenicity, the study reported adverse events that raise serious safety concerns:</p>
+<p><strong>Cardiac Events:</strong> Reports of chest pain, palpitations, and cardiac symptoms among participants. Given the documented association between spike protein and myocarditis (and the fact that influenza surface proteins produced by sa-mRNA could trigger similar immune-mediated cardiac damage), cardiac events in a flu vaccine trial are alarming.</p>
+<p><strong>Neurological Symptoms:</strong> Participants reported neurological symptoms including severe headaches, dizziness, paresthesias (tingling and numbness), and cognitive difficulties. These symptoms parallel the neurological adverse events documented with COVID-19 mRNA vaccines and suggest that the sa-mRNA platform itself — not just the spike protein — may contribute to neurological harm.</p>
+<p><strong>Prolonged Symptoms:</strong> Some participants experienced symptoms lasting weeks — far longer than the "1-3 days" typically associated with vaccine reactogenicity. Prolonged symptom duration is consistent with the self-amplifying nature of the construct: because the mRNA continues to replicate and produce protein, the immune response continues to be stimulated.</p>
+<p><strong>Dose-Dependent Severity:</strong> Adverse events were more severe at higher dose levels — a pattern consistent with greater initial transfection leading to more amplification and more protein production. However, even low-dose groups experienced significant adverse events, suggesting that the amplification mechanism makes even small doses biologically potent.</p>
+<h3 id="serious-adverse-events">Serious Adverse Events</h3>
+<p>The study recorded serious adverse events (SAEs) — events requiring hospitalization, resulting in disability, or deemed life-threatening. While the exact details and numbers of SAEs are subject to what Pfizer chooses to disclose and how regulators classify them, the occurrence of SAEs in a healthy adult population receiving a flu vaccine is a red flag that demands scrutiny.</p>
+<hr>
+<h2 id="the-kingston-report-connecting-the-dots">The Kingston Report: Connecting the Dots</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> connects the outcomes of Pfizer's sa-mRNA flu study to the broader pattern of sa-mRNA technology risk.</p>
+<h3 id="the-amplification-problem">The Amplification Problem</h3>
+<p>Kingston has documented that the fundamental problem with sa-mRNA is not the antigen (whether spike protein or influenza hemagglutinin) but the self-amplifying mechanism itself:</p>
+<p><strong>Uncontrolled amplification:</strong> The construct replicates inside the body without any external control over how many copies are made. Individual variation in cellular uptake, immune status, and replicase efficiency means that the actual dose experienced varies wildly between individuals. One person might produce a moderate amount of protein; another might produce orders of magnitude more.</p>
+<p><strong>Cell death from overproduction:</strong> Cells that produce excessive quantities of foreign protein can undergo apoptosis (programmed cell death) or necrosis (uncontrolled cell death). When this happens in muscle tissue, it causes myalgia. When it happens in cardiac tissue, it causes myocarditis. When it happens in neural tissue, it causes neurological symptoms. The self-amplifying mechanism increases the risk of cellular overload across all tissue types.</p>
+<p><strong>Immune exhaustion:</strong> The extended duration of antigen production can lead to immune exhaustion — the depletion of T-cell populations that are continuously activated. Immune exhaustion is associated with chronic infections and cancer and represents a fundamentally unhealthy immune state.</p>
+<h3 id="what-the-flu-study-reveals-about-the-covid-product">What the Flu Study Reveals About the COVID Product</h3>
+<p>Kingston has drawn a critical connection: if Pfizer's sa-mRNA flu vaccine — a product explicitly designed with self-amplifying technology — causes these adverse events, and if the COVID-19 product contained self-amplifying components (as suggested by patent filings and manufacturing documents), then the adverse event profile of the COVID product may have been driven, at least in part, by self-amplification that was never disclosed.</p>
+<p>The flu study, in effect, provides a controlled look at what self-amplification does — and the results are consistent with what was observed in the uncontrolled, mass-deployed COVID vaccination campaign.</p>
+<hr>
+<h2 id="the-ethics-of-self-amplifying-human-experimentation">The Ethics of Self-Amplifying Human Experimentation</h2>
+<h3 id="the-nuremberg-code">The Nuremberg Code</h3>
+<p>The Nuremberg Code (1947) — established after the Nazi medical experiments — sets forth principles for ethical human experimentation. Principle 1 states: "The voluntary consent of the human subject is absolutely essential." Principle 4 states: "The experiment should be so conducted as to avoid all unnecessary physical and mental suffering and injury."</p>
+<p>Self-amplifying mRNA technology, by its nature, creates conditions that challenge these principles:</p>
+<ul>
+<li><strong>Consent is compromised</strong> because the participant cannot know the actual dose they will experience (since the construct amplifies unpredictably)</li>
+<li><strong>Suffering is inherent</strong> because the amplification mechanism produces higher antigen levels and more intense immune responses than conventional approaches</li>
+<li><strong>The experiment cannot be stopped</strong> once the injection is administered — there is no way to halt the self-amplifying process</li>
+</ul>
+<h3 id="the-trial-participants-as-canaries">The Trial Participants as Canaries</h3>
+<p>The participants in Pfizer's sa-mRNA flu study are canaries in the coal mine. Their experiences preview what will happen if self-amplifying mRNA becomes the standard platform for annual vaccination. If healthy adults in a controlled trial experienced significant adverse events, what will happen when:</p>
+<ul>
+<li>Elderly individuals with weakened immune systems receive sa-mRNA?</li>
+<li>Children with developing immune systems receive sa-mRNA?</li>
+<li>Immunocompromised individuals receive sa-mRNA?</li>
+<li>Pregnant women receive sa-mRNA?</li>
+<li>The general population receives sa-mRNA annually, with cumulative exposure year after year?</li>
+</ul>
+<hr>
+<h2 id="the-biblical-warning">The Biblical Warning</h2>
+<blockquote>
+<p>"My people are destroyed for lack of knowledge." — Hosea 4:6</p>
+</blockquote>
+<p>The participants in Pfizer's study volunteered. They signed consent forms. They believed they were contributing to medical progress. But what knowledge were they given? Were they told that the construct would replicate inside their cells? Were they told that the amplification process could not be stopped? Were they told that the long-term effects of self-replicating genetic constructs in human bodies are completely unknown?</p>
+<p>The destruction that Hosea warned about comes from the absence of knowledge — not from the absence of good intentions. The participants may have had the best intentions. But without full knowledge of what they were receiving, their consent was built on incomplete truth.</p>
+<p>The firmament — the protective dome God placed over the earth — exists to separate what is above from what is below, to protect creation from destructive forces. The immune system serves the same function in the body. Self-amplifying mRNA breaches this biological firmament, introducing a self-replicating process that the body's defenses cannot control or shut down.</p>
+<hr>
+<h2 id="what-individuals-should-know">What Individuals Should Know</h2>
+<ol>
+<li><strong>sa-mRNA flu vaccine participants experienced significantly worse adverse events</strong> than conventional flu vaccine recipients.</li>
+<li><strong>Adverse events were dose-dependent</strong> but occurred even at low doses due to the amplification mechanism.</li>
+<li><strong>Prolonged symptoms</strong> are consistent with the extended duration of protein production from self-amplifying constructs.</li>
+<li><strong>Serious adverse events were recorded</strong> in healthy adults receiving a flu vaccine.</li>
+<li><strong>The self-amplifying mechanism is the core risk factor</strong> — changing the antigen from spike protein to influenza hemagglutinin does not eliminate the risks inherent to the platform.</li>
+<li><strong>Annual sa-mRNA flu vaccines are being developed for the mass market.</strong> The trial participants' experiences are a preview of what could become a yearly medical event for the general population.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of sa-mRNA clinical trial outcomes.</li>
+<li>Pfizer sa-mRNA influenza vaccine clinical trial data</li>
+<li>BioNTech sa-mRNA platform publications</li>
+<li>Arcturus Therapeutics ARCT-154 clinical data</li>
+<li>Nuremberg Code (1947)</li>
+<li>Published research on self-amplifying RNA immunology</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> — Disease and treatment engineered as one system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> — Self-replicating systems in the body</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> — The infrastructure of mass injection</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> — Walking through the shadow of experimental medicine</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> — The self-replicating agent inside</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/biontech-self-amplifying-mrna/?lang=en">BioNTech Presentations Confirm Self-Amplifying mRNA Technology</a> — BioNTech's sa-mRNA platform strategy</li>
+<li><a href="/pfizer-documents-self-amplifying/?lang=en">Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA</a> — Evidence from Pfizer's own filings</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=en">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — The complete sa-mRNA explainer</li>
+<li><a href="/mrna-faulty-genes-myocarditis/?lang=en">mRNA Technology Can Add Faulty Genes Leading to Myocarditis</a> — The cardiac damage mechanism</li>
+</ul>
+<hr>
+<p><em>They volunteered their bodies to science. They signed forms and rolled up their sleeves. They did not know that the construct injected into their arms would replicate inside their cells, producing proteins they never consented to carry, triggering immune responses they could not stop. Their testimony is written in flesh. And the God who reads the testimony of the blood — the God who heard Abel's blood crying from the ground — hears their testimony too. "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit" (Psalm 34:18).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"What Happened to Participants in Pfizer's sa-mRNA Flu Study"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Examining the outcomes and adverse events reported in Pfizer's self-amplifying mRNA influenza vaccine clinical trial and what it reveals about sa-mRNA safety."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-20T10:00:00Z","children":"April 20, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Pfizer",{"href":"/en/tag/Pfizer/","className":"tag-pill","children":["#","Pfizer"]}],["$","a","sa-mRNA",{"href":"/en/tag/sa-mRNA/","className":"tag-pill","children":["#","sa-mRNA"]}],["$","a","influenza",{"href":"/en/tag/influenza/","className":"tag-pill","children":["#","influenza"]}],["$","a","clinical-trial",{"href":"/en/tag/clinical-trial/","className":"tag-pill","children":["#","clinical-trial"]}],["$","a","adverse-events",{"href":"/en/tag/adverse-events/","className":"tag-pill","children":["#","adverse-events"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/pfizer-sa-mrna-flu-study/","title":"What Happened to Participants in Pfizer's sa-mRNA Flu Study"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/pfizer-sa-mrna-flu-study/","title":"What Happened to Participants in Pfizer's sa-mRNA Flu Study"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"What Happened to Participants in Pfizer's sa-mRNA Flu Study | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Examining the outcomes and adverse events reported in Pfizer's self-amplifying mRNA influenza vaccine clinical trial and what it reveals about sa-mRNA safety."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Pfizer, sa-mRNA, influenza, clinical-trial, adverse-events"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/pfizer-sa-mrna-flu-study/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-sa-mrna-flu-study/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-sa-mrna-flu-study/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-sa-mrna-flu-study/"}],["$","meta","10",{"property":"og:title","content":"What Happened to Participants in Pfizer's sa-mRNA Flu Study"}],["$","meta","11",{"property":"og:description","content":"Examining the outcomes and adverse events reported in Pfizer's self-amplifying mRNA influenza vaccine clinical trial and what it reveals about sa-mRNA safety."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/pfizer-sa-mrna-flu-study/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-sa-mrna-flu-study.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"What Happened to Participants in Pfizer's sa-mRNA Flu Study"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"What Happened to Participants in Pfizer's sa-mRNA Flu Study"}],["$","meta","25",{"name":"twitter:description","content":"Examining the outcomes and adverse events reported in Pfizer's self-amplifying mRNA influenza vaccine clinical trial and what it reveals about sa-mRNA safety."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-sa-mrna-flu-study.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

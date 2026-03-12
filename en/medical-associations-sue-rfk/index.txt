@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","medical-associations-sue-rfk",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","medical-associations-sue-rfk","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","medical-associations-sue-rfk","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3e5e,<h1 id="6-medical-associations-sue-rfk-jr-and-hhs-leaders">6 Medical Associations Sue RFK Jr. and HHS Leaders</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Woe unto you, lawyers! for ye have taken away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered." — Luke 11:52</p>
+</blockquote>
+<p>When Elijah confronted the prophets of Baal on Mount Carmel, the prophets did not surrender their position. They had been fed at Jezebel's table. They had been credentialed by the state. They had been trusted by the people. They screamed louder, cut themselves, and demanded that their god answer — because their entire identity, their livelihood, and their institutional authority depended on the system that Elijah threatened to expose.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/101-Fight_of_Faith.mp4">Fight of Faith</a> proclaims, the fight against entrenched institutional evil is never met with passive acceptance. The principalities and powers that have occupied the high places of American medicine will not vacate them voluntarily. They will litigate, legislate, and leverage every mechanism of institutional power to prevent their displacement.</p>
+<p>Six medical associations have filed suit against RFK Jr. and HHS leadership. The prophets of Baal are screaming louder.</p>
+<hr>
+<h2 id="the-plaintiffs-who-they-are">The Plaintiffs: Who They Are</h2>
+<p>The lawsuit was filed by six major medical associations representing hundreds of thousands of physicians and healthcare professionals across the United States. While the specific organizations reflect the institutional establishment of American medicine, their common characteristic is more revealing than their individual identities: each is embedded in the financial and regulatory infrastructure that connects the medical profession to the pharmaceutical industry.</p>
+<p>Medical associations in the United States serve multiple functions that create structural conflicts of interest:</p>
+<p><strong>Continuing medical education (CME):</strong> Medical associations are primary providers of CME, which physicians are required to complete to maintain their licenses. CME programs are frequently funded by pharmaceutical companies, and their content is influenced by industry-sponsored research and guidelines.</p>
+<p><strong>Practice guidelines:</strong> Medical associations develop clinical practice guidelines that shape how physicians diagnose and treat patients. These guidelines determine which pharmaceutical products are recommended as standard of care — a designation that carries enormous commercial value for manufacturers.</p>
+<p><strong>Lobbying:</strong> Medical associations maintain significant lobbying operations in Washington and state capitals, advocating for policies that affect their members' practices, reimbursement rates, and regulatory environment. These lobbying activities frequently align with pharmaceutical industry objectives.</p>
+<p><strong>Revenue from pharmaceutical sources:</strong> Medical associations receive substantial revenue from pharmaceutical advertising in their journals, pharmaceutical sponsorship of their conferences, pharmaceutical funding of their research programs, and pharmaceutical support for their educational activities.</p>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com) that the financial relationships between medical associations and the pharmaceutical industry are not incidental — they are foundational. "Medical associations in America do not represent the interests of physicians," Kingston has stated. "They represent the interests of the pharmaceutical-medical complex. Their physicians are the customers, but their funders are the pharmaceutical companies. When a medical association sues to protect the existing regulatory framework, it is not defending science or public health — it is defending the revenue model."</p>
+<hr>
+<h2 id="the-claims-what-they-allege">The Claims: What They Allege</h2>
+<p>The lawsuit alleges that RFK Jr. and HHS leadership have exceeded their legal authority by:</p>
+<p><strong>Removing CDC personnel without cause:</strong> The plaintiffs claim that the termination of career civil servants at the CDC violates federal employment protections and the Administrative Procedure Act, which requires that agency actions be neither arbitrary nor capricious.</p>
+<p><strong>Altering vaccine recommendations without scientific basis:</strong> The plaintiffs allege that changes to CDC vaccine guidance were made for political rather than scientific reasons, undermining the evidence-based process that has historically governed public health recommendations.</p>
+<p><strong>Interfering with the independence of federal health agencies:</strong> The plaintiffs argue that HHS political leadership has violated the independence of scientific advisory bodies, including the ACIP, by directing changes to recommendations without the approval of career scientists.</p>
+<p><strong>Causing harm to public health:</strong> The plaintiffs claim that the reforms have caused measurable harm to public health by reducing vaccination rates, creating vaccine hesitancy, and undermining public confidence in the healthcare system.</p>
+<h3 id="the-legal-strategy">The Legal Strategy</h3>
+<p>The lawsuit seeks injunctive relief — a court order compelling HHS to reverse the reforms and restore the prior CDC leadership, vaccine recommendations, and institutional structure. The plaintiffs also seek a temporary restraining order to prevent further personnel changes or policy alterations during litigation.</p>
+<p>The legal strategy is transparent: use the federal judiciary to override the executive branch's authority to manage federal health agencies. If the court grants the injunction, RFK Jr.'s reforms would be frozen, the departed CDC officials could be reinstated, and the prior vaccine recommendations would be restored — regardless of the scientific evidence that motivated the changes.</p>
+<p>Kingston has identified this legal strategy as characteristic of captured institutional resistance: "When the pharmaceutical industry cannot protect its interests through the regulatory agencies it has captured, it turns to the courts. When it cannot protect them through the courts, it turns to the legislature. When it cannot protect them through the legislature, it turns to international organizations. The industry always has a fallback position because it has captured every institution that could hold it accountable."</p>
+<hr>
+<h2 id="the-pharmaceutical-industrys-legal-arsenal">The Pharmaceutical Industry's Legal Arsenal</h2>
+<p>The medical association lawsuit is one front in a multi-pronged legal assault on HHS reform. The pharmaceutical industry's legal arsenal includes:</p>
+<p><strong>Trade association lawsuits</strong> filed by PhRMA (the Pharmaceutical Research and Manufacturers of America) and BIO (the Biotechnology Innovation Organization) challenging regulatory changes that affect industry revenue.</p>
+<p><strong>Individual manufacturer lawsuits</strong> filed by Pfizer, Moderna, and other companies challenging specific regulatory actions that affect their products.</p>
+<p><strong>State attorney general actions</strong> filed by state AGs aligned with the pharmaceutical industry's interests, challenging federal health policy changes under federalism arguments.</p>
+<p><strong>Academic institution lawsuits</strong> filed by universities and research institutions challenging changes to NIH funding criteria and grant processes.</p>
+<p><strong>International legal actions</strong> pursued through the WHO and other international bodies seeking to maintain global health policy frameworks that the United States is dismantling.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> documents the coordinated institutional response — how every node in the pharmaceutical-regulatory-academic-media complex activates simultaneously to defend the system against reform.</p>
+<hr>
+<h2 id="the-question-of-standing">The Question of Standing</h2>
+<p>A fundamental legal question underlying the lawsuit is standing — the legal requirement that a plaintiff demonstrate concrete injury traceable to the defendant's conduct. Medical associations are not patients. They are not physicians who have been personally harmed. They are institutional entities that claim to represent the interests of their members.</p>
+<p>But the interests they represent are institutional, not medical. The associations do not claim that specific patients have been harmed by specific changes to vaccine recommendations. They claim that the changes threaten the institutional framework through which recommendations are made — a framework that, as documented above, serves pharmaceutical industry interests as much as public health interests.</p>
+<p>The deeper question is whether the federal judiciary will use this lawsuit to establish a precedent that career bureaucrats at captured agencies cannot be removed by the elected officials constitutionally charged with managing the executive branch. If the court rules in the plaintiffs' favor, it effectively grants permanent tenure to the architects of regulatory capture — making it legally impossible for any administration to reform agencies that have been corrupted by industry influence.</p>
+<hr>
+<h2 id="the-prophetic-view">The Prophetic View</h2>
+<blockquote>
+<p>"Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake." — Matthew 5:11</p>
+</blockquote>
+<p>The lawsuit against RFK Jr. and HHS is not unprecedented in the biblical pattern. Every reformer who has threatened the established order has faced institutional resistance:</p>
+<ul>
+<li>Moses faced Pharaoh's army</li>
+<li>Elijah faced the prophets of Baal</li>
+<li>Nehemiah faced Sanballat and Tobiah</li>
+<li>Jesus faced the Sanhedrin</li>
+<li>Paul faced the Judaizers</li>
+</ul>
+<p>In each case, the institutional resistance was framed as defense of the established order, protection of the people, and preservation of sacred tradition. In each case, the real motivation was the preservation of institutional power and the financial relationships that sustained it.</p>
+<p>The medical associations suing RFK Jr. invoke science, public health, and the welfare of patients. But their actions protect pharmaceutical revenue, institutional authority, and the regulatory capture that has made both possible.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>Federal court filings — Medical association lawsuit against RFK Jr. and HHS leaders</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of medical association financial conflicts, pharmaceutical industry legal strategy, and regulatory capture defense mechanisms</p>
+</li>
+<li>
+<p>Administrative Procedure Act — 5 U.S.C. Section 706</p>
+</li>
+<li>
+<p>Federal Advisory Committee Act — 5 U.S.C. App.</p>
+</li>
+<li>
+<p>Matthew 5:11, Luke 11:52 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Coordinated institutional defense of the pharmaceutical system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — The compromised network defending its own</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/125-Illuminati_Founding_Fathers.mp4">Illuminati Founding Fathers</a> — Institutional power structures that predate and outlast any reform effort</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/101-Fight_of_Faith.mp4">Fight of Faith</a> — The call to battle against entrenched institutional evil</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> — Institutions cursed from their foundation by the corruption within them</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/rfk-cleans-house-cdc/?lang=en">RFK Jr. Cleans House at the CDC</a> — The reforms that triggered the institutional backlash</li>
+<li><a href="/cdc-gone-media-exodus/?lang=en">The CDC is Gone: Media Reports Mass Exodus</a> — The exodus that preceded the legal counterattack</li>
+<li><a href="/doctors-vacate-prep-act/?lang=en">Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity</a> — The medical profession's own challenge to the pharmaceutical system</li>
+<li><a href="/fda-commissioner-behind-rfk-back/?lang=en">FDA Commissioner Makary Went Behind RFK Jr.'s Back</a> — Resistance from within the administration itself</li>
+</ul>
+<hr>
+<p><em>The prophets of Baal are suing. They invoke science and public health and the welfare of patients, but their real concern is the table at which they have been fed — the pharmaceutical revenue, the institutional authority, the regulatory capture that has made them powerful and wealthy. "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world" (Ephesians 6:12). The lawsuit is not a legal action. It is a spiritual battle fought in a courtroom — the principalities defending their dominion through the instruments of man's justice. The outcome will be determined not by legal arguments but by the One who judges all things righteously.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"6 Medical Associations Sue RFK Jr. and HHS Leaders"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Six major medical associations file lawsuit against RFK Jr. and HHS leadership, exposing the institutional resistance to dismantling pharmaceutical capture."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-12T10:00:00Z","children":"May 12, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","RFK-Jr",{"href":"/en/tag/RFK-Jr/","className":"tag-pill","children":["#","RFK-Jr"]}],["$","a","medical-associations",{"href":"/en/tag/medical-associations/","className":"tag-pill","children":["#","medical-associations"]}],["$","a","lawsuit",{"href":"/en/tag/lawsuit/","className":"tag-pill","children":["#","lawsuit"]}],["$","a","HHS",{"href":"/en/tag/HHS/","className":"tag-pill","children":["#","HHS"]}],["$","a","regulatory-capture",{"href":"/en/tag/regulatory-capture/","className":"tag-pill","children":["#","regulatory-capture"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/medical-associations-sue-rfk/","title":"6 Medical Associations Sue RFK Jr. and HHS Leaders"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/medical-associations-sue-rfk/","title":"6 Medical Associations Sue RFK Jr. and HHS Leaders"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"6 Medical Associations Sue RFK Jr. and HHS Leaders | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Six major medical associations file lawsuit against RFK Jr. and HHS leadership, exposing the institutional resistance to dismantling pharmaceutical capture."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"RFK-Jr, medical-associations, lawsuit, HHS, regulatory-capture"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/medical-associations-sue-rfk/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/medical-associations-sue-rfk/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/medical-associations-sue-rfk/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/medical-associations-sue-rfk/"}],["$","meta","10",{"property":"og:title","content":"6 Medical Associations Sue RFK Jr. and HHS Leaders"}],["$","meta","11",{"property":"og:description","content":"Six major medical associations file lawsuit against RFK Jr. and HHS leadership, exposing the institutional resistance to dismantling pharmaceutical capture."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/medical-associations-sue-rfk/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/medical-associations-sue-rfk.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"6 Medical Associations Sue RFK Jr. and HHS Leaders"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"6 Medical Associations Sue RFK Jr. and HHS Leaders"}],["$","meta","25",{"name":"twitter:description","content":"Six major medical associations file lawsuit against RFK Jr. and HHS leadership, exposing the institutional resistance to dismantling pharmaceutical capture."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/medical-associations-sue-rfk.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

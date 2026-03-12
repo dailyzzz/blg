@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","edward-jenner-horse-grease",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","edward-jenner-horse-grease","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","edward-jenner-horse-grease","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T37ca,<h1 id="hey-history-edward-jenners-horse-grease-vaccine-fraud">Hey History: Edward Jenner's Horse Grease Vaccine Fraud</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ."</em> — 2 Corinthians 11:13</p>
+</blockquote>
+<p>The story of Edward Jenner and the cowpox vaccine is the creation myth of modern medicine. But what if the myth is even more fraudulent than we've been told? What if the material Jenner used to "vaccinate" James Phipps in 1796 was not cowpox at all — but horse grease, a suppurating disease of horses that had nothing to do with the neat narrative of milkmaids and immunity?</p>
+<p>The horse grease connection is not a fringe theory. It comes from Jenner's own writings, from the observations of his contemporaries, and from the historical record that the medical establishment has worked very hard to obscure. When you follow this thread, the entire founding narrative of vaccination unravels — revealing not a moment of scientific genius but a fraud built on confusion, contamination, and deliberate deception.</p>
+<p>Howard Pittman was told during his NDE that deception is the primary weapon of the demonic hierarchy. The three heavens — atmospheric, demonic, and divine — constitute the spiritual architecture within which this warfare unfolds. The vaccination myth sits in the demonic realm: it appears to be light (healing, protection, progress) but serves darkness (control, profit, bodily violation). The 97.5% who are failing and the 95% who serve "self" are maintained in their failure by myths like this one.</p>
+<p>The Jesuit order, with its "absolute power" (Napoleon), its infiltration "cloaked with cunning" (Catholic Confidential), and its practice of "every species of vice," provides the organizational template for the vaccination industry. Pope Clement XIV was poisoned for opposing them. John Adams warned of their "eternal damnation." The vaccine narrative they helped construct has poisoned billions.</p>
+<hr>
+<h2 id="the-horse-grease-problem">The Horse Grease Problem</h2>
+<h3 id="jenners-own-admission">Jenner's Own Admission</h3>
+<p>In his original writings, Edward Jenner did not claim that cowpox alone provided immunity to smallpox. He wrote extensively about "grease" — a disease of horses characterized by oozing, pustular lesions on the horses' heels. Jenner believed that grease was transferred from horses to cows (via the hands of farmworkers), where it became cowpox, which then provided immunity to smallpox.</p>
+<p>This chain — horse grease to cowpox to smallpox immunity — was Jenner's actual theory. It was not the clean "milkmaid had cowpox, cowpox prevents smallpox" narrative taught in schools. The horse was central to Jenner's thinking, and the material he used for vaccination may have come directly from horses rather than from cowpox lesions on milkmaids.</p>
+<h3 id="what-is-horse-grease">What Is Horse Grease?</h3>
+<p>Horse grease (more properly called "grease heel" or "scratches") is a dermatological condition affecting horses' lower legs. It produces:</p>
+<ul>
+<li>Oozing, suppurating lesions</li>
+<li>Crusty, scabrous tissue</li>
+<li>Foul-smelling discharge</li>
+<li>Pain and lameness</li>
+</ul>
+<p>The condition is caused by a combination of bacterial infection, fungal infection, and poor hygiene in the stable environment. It is not caused by a specific virus. The material from grease lesions would have contained a complex mixture of bacteria, fungi, dead tissue, and inflammatory fluid — not a single viral agent.</p>
+<p>When Jenner or his followers used this material for vaccination, they were injecting patients with a cocktail of equine pathogens and inflammatory material. Any "immune response" produced by such an injection would have been a response to the foreign material itself — not a targeted response to a specific virus.</p>
+<h3 id="the-contamination-chain">The Contamination Chain</h3>
+<p>The historical record reveals that early vaccination material was a confused mess:</p>
+<ol>
+<li>
+<p><strong>Original source uncertain</strong>: Whether the material came from horses (grease), cows (cowpox), or some other source was often unclear. Different practitioners used different materials and called them all "vaccine."</p>
+</li>
+<li>
+<p><strong>Cross-contamination inevitable</strong>: Material was passed arm-to-arm through dozens or hundreds of people, accumulating bacterial and viral contaminants at every step. The original source material — whatever it was — was rapidly overwhelmed by accumulated contaminants.</p>
+</li>
+<li>
+<p><strong>Syphilis contamination</strong>: The arm-to-arm technique transmitted syphilis along with vaccine material. Documented syphilis outbreaks from vaccination occurred throughout the 19th century.</p>
+</li>
+<li>
+<p><strong>No quality control</strong>: There were no standards for vaccine production, no testing for purity, and no way to verify that the material being used was what it was claimed to be.</p>
+</li>
+</ol>
+<h3 id="jenners-contemporaries-knew">Jenner's Contemporaries Knew</h3>
+<p>Jenner's horse grease connection was not hidden — it was openly discussed and criticized by his contemporaries:</p>
+<ul>
+<li><strong>Dr. George Lipscomb</strong> noted that Jenner's theory required the unlikely chain of horse-to-cow-to-human transmission</li>
+<li><strong>Dr. Charles Creighton</strong>, one of the most respected epidemiologists of the 19th century, wrote extensively about the confusion between cowpox, horse grease, and other conditions in Jenner's work</li>
+<li><strong>Alfred Russel Wallace</strong>, co-discoverer of natural selection, published detailed critiques of vaccination showing that its supposed benefits were illusory</li>
+</ul>
+<p>These critics were not anti-science cranks. They were respected medical professionals and scientists who examined Jenner's evidence and found it wanting. They were suppressed, marginalized, and eventually erased from the history of medicine — because their critiques threatened the vaccine narrative that had become too profitable and too politically useful to abandon.</p>
+<h2 id="the-mythmaking-machine">The Mythmaking Machine</h2>
+<h3 id="how-the-narrative-was-constructed">How the Narrative Was Constructed</h3>
+<p>The transformation of Jenner's confused, contradictory, and ultimately failed experiments into the heroic origin story of modern medicine required decades of deliberate mythmaking:</p>
+<p><strong>Step 1: Simplify the story</strong>. The horse grease connection was quietly dropped from the public narrative. The story was simplified to: milkmaid had cowpox, Jenner vaccinated a boy, smallpox was conquered. Simple, memorable, inspiring — and false.</p>
+<p><strong>Step 2: Suppress the failures</strong>. Jenner's own cases included failures — vaccinated subjects who contracted smallpox. These cases were explained away, minimized, or simply not mentioned in popularized accounts.</p>
+<p><strong>Step 3: Conflate correlation with causation</strong>. Smallpox was declining due to improved sanitation, nutrition, and living conditions. Vaccination was introduced during this decline and credited with the decline. This is classic post hoc ergo propter hoc — the logical fallacy of assuming that because B followed A, A caused B.</p>
+<p><strong>Step 4: Criminalize dissent</strong>. Compulsory vaccination laws made refusal a criminal offense. Anti-vaccination societies were demonized. Medical professionals who questioned vaccination were ostracized. The narrative was enforced not by evidence but by power.</p>
+<p><strong>Step 5: Establish the precedent</strong>. Once the public accepted that the state could compel vaccination for smallpox, the precedent was established for all future mandates. Every subsequent vaccine — no matter how poorly tested, how unnecessary, or how dangerous — could be mandated by citing the smallpox precedent.</p>
+<h3 id="the-rockefeller-amplification">The Rockefeller Amplification</h3>
+<p>The Rockefeller medical machine, established in the early 20th century, took Jenner's myth and amplified it into a global narrative. Through control of medical education (Flexner Report), medical research (Rockefeller Foundation grants), and medical publishing (influence over peer-reviewed journals), the Rockefeller network ensured that the Jenner myth became unquestionable orthodoxy.</p>
+<p>Any researcher who questioned the smallpox vaccine narrative risked career destruction. Any journal that published critical research risked losing funding. Any doctor who refused to vaccinate risked losing their license. The system was — and is — designed to enforce belief, not discover truth.</p>
+<h2 id="the-spiritual-architecture">The Spiritual Architecture</h2>
+<h3 id="the-inversion-principle">The Inversion Principle</h3>
+<p>Satan operates through inversion: good becomes evil, truth becomes lies, healing becomes harm. The smallpox vaccine narrative is a perfect inversion:</p>
+<ul>
+<li><strong>Contaminated animal pus</strong> is called "medicine"</li>
+<li><strong>Disease transmission</strong> through vaccination is called "prevention"</li>
+<li><strong>Compulsory bodily violation</strong> is called "public health"</li>
+<li><strong>A purchased medical degree</strong> becomes "scientific genius"</li>
+<li><strong>Failed experiments</strong> become "miraculous discovery"</li>
+</ul>
+<p>Howard Pittman was shown that the demonic realm is organized around these inversions. The spiritual forces that oppose God do not create — they corrupt. They take God's design (the human body, whole and complete) and corrupt it (by injecting it with diseased animal matter and calling it health).</p>
+<h3 id="the-mark-of-the-medical-system">The Mark of the Medical System</h3>
+<p>The vaccination scar is a physical mark, but it also carries spiritual significance. It is a mark of submission — submission to a medical system that claims authority over the body that belongs to God. The biblical principle is clear: your body is a temple of the Holy Spirit (1 Corinthians 6:19). It does not belong to the state, to the medical establishment, or to the pharmaceutical industry.</p>
+<p>When the state compels you to accept a physical mark as a condition of participation in society, a spiritual line has been crossed. The smallpox vaccine established this precedent over two centuries ago, and every subsequent mandate has built upon it.</p>
+<h3 id="the-jesuit-dimension">The Jesuit Dimension</h3>
+<p>The Jesuits' global missionary network was one of the primary distribution channels for smallpox vaccination in the 19th century. Jesuit missions in Asia, Africa, and South America introduced vaccination to populations that had never encountered either smallpox or the concept of vaccination.</p>
+<p>This was not charity. It was control. By establishing medical dependency, the Jesuits extended their influence over populations that might otherwise have resisted religious conversion. The vaccine became the entry point for a comprehensive system of control that included education, religion, and governance — all administered by the Jesuit order.</p>
+<p>General Tambulini's governance of "half the world from this room" was not metaphorical. Through networks like this — medical, educational, religious, political — the Jesuit order has achieved a level of global control that most people cannot imagine.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — detailed research on Jenner's horse grease connection and vaccine origins</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — spiritual warfare and the inversion principle</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit global missionary and medical networks</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Edward Jenner, <em>An Inquiry into the Causes and Effects of the Variolae Vaccinae</em> (1798)</li>
+<li>Charles Creighton, <em>Jenner and Vaccination</em> (1889)</li>
+<li>Alfred Russel Wallace, <em>Vaccination a Delusion</em> (1898)</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/41-Shedding_Proof.mp4">Shedding Proof</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/satanic-science-smallpox-vaccine/?lang=en">Satanic Science: The Horrifying Truth Behind the Smallpox Vaccine</a></li>
+<li><a href="/shocking-anti-toxin-made/?lang=en">SHOCKING: How ANTI-TOXIN Is Actually MADE</a></li>
+<li><a href="/nih-vaccine-truth/?lang=en">The NIH Vaccine Truth They Buried for Decades</a></li>
+</ul>
+<p><em>The father of vaccination vaccinated a child with horse pus and called it science. Two centuries later, we're still injecting children with substances we don't fully understand and calling it medicine. The myth of Jenner is the myth of modern medicine: a lie so old, so polished, and so profitable that the truth can barely be heard above the noise. Listen harder.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Hey History: Edward Jenner's Horse Grease Vaccine Fraud"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Edward Jenner's vaccine may not have been cowpox at all — but horse grease. The original vaccine fraud runs deeper than anyone realizes."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-11-25T10:00:00Z","children":"November 25, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","edward-jenner",{"href":"/en/tag/edward-jenner/","className":"tag-pill","children":["#","edward-jenner"]}],["$","a","horse-grease",{"href":"/en/tag/horse-grease/","className":"tag-pill","children":["#","horse-grease"]}],["$","a","vaccine-fraud",{"href":"/en/tag/vaccine-fraud/","className":"tag-pill","children":["#","vaccine-fraud"]}],["$","a","cowpox",{"href":"/en/tag/cowpox/","className":"tag-pill","children":["#","cowpox"]}],["$","a","medical-history",{"href":"/en/tag/medical-history/","className":"tag-pill","children":["#","medical-history"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/edward-jenner-horse-grease/","title":"Hey History: Edward Jenner's Horse Grease Vaccine Fraud"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/edward-jenner-horse-grease/","title":"Hey History: Edward Jenner's Horse Grease Vaccine Fraud"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Hey History: Edward Jenner's Horse Grease Vaccine Fraud | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Edward Jenner's vaccine may not have been cowpox at all — but horse grease. The original vaccine fraud runs deeper than anyone realizes."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"edward-jenner, horse-grease, vaccine-fraud, cowpox, medical-history"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/edward-jenner-horse-grease/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/edward-jenner-horse-grease/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/edward-jenner-horse-grease/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/edward-jenner-horse-grease/"}],["$","meta","10",{"property":"og:title","content":"Hey History: Edward Jenner's Horse Grease Vaccine Fraud"}],["$","meta","11",{"property":"og:description","content":"Edward Jenner's vaccine may not have been cowpox at all — but horse grease. The original vaccine fraud runs deeper than anyone realizes."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/edward-jenner-horse-grease/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/edward-jenner-horse-grease.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Hey History: Edward Jenner's Horse Grease Vaccine Fraud"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Hey History: Edward Jenner's Horse Grease Vaccine Fraud"}],["$","meta","25",{"name":"twitter:description","content":"Edward Jenner's vaccine may not have been cowpox at all — but horse grease. The original vaccine fraud runs deeper than anyone realizes."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/edward-jenner-horse-grease.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

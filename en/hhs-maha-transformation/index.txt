@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","hhs-maha-transformation",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","hhs-maha-transformation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","hhs-maha-transformation","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3a76,<h1 id="hhs-announces-maha-transformation-of-healthcare">HHS Announces MAHA Transformation of Healthcare</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert." — Isaiah 43:19</p>
+</blockquote>
+<p>When Hezekiah ascended the throne of Judah, he found a nation deep in apostasy. The Temple was closed, its altars desecrated, its priests scattered. His father Ahaz had worshiped foreign gods, sacrificed his own children, and shut the doors of the House of the LORD. Hezekiah's first act was not military reform, not economic policy, not diplomatic engagement. His first act was to open the doors of the Temple and repair them. He understood that national restoration begins with spiritual and physical cleansing — with the removal of corruption and the restoration of what was meant to be sacred.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> proclaims, overcoming is not merely resisting evil — it is building something righteous in its place. The MAHA transformation represents an attempt to open the doors of the Temple of American healthcare and repair what decades of pharmaceutical corruption have destroyed.</p>
+<hr>
+<h2 id="the-maha-vision">The MAHA Vision</h2>
+<p>The Make America Healthy Again (MAHA) initiative, announced by HHS Secretary RFK Jr., represents the most comprehensive restructuring of federal health policy in modern history. The plan encompasses:</p>
+<p><strong>Eliminating pharmaceutical conflicts of interest</strong> across all federal health agencies, including the CDC, FDA, NIH, and BARDA. This includes severing financial relationships between agencies and the pharmaceutical industry, prohibiting revolving door employment, and eliminating industry funding of the CDC Foundation.</p>
+<p><strong>Restructuring the food system</strong> to address the root causes of chronic disease, including the removal of toxic additives, pesticides, and ultra-processed ingredients from the American food supply. The initiative targets glyphosate, artificial food dyes, high-fructose corn syrup, and other substances linked to chronic disease.</p>
+<p><strong>Reforming the childhood vaccination schedule</strong> through comprehensive safety review, long-term comparative studies, and the restoration of informed consent as the foundation of vaccination decisions.</p>
+<p><strong>Addressing environmental toxins</strong> including fluoride in drinking water, heavy metals in food, endocrine-disrupting chemicals in consumer products, and electromagnetic radiation exposure.</p>
+<p><strong>Restoring the physician-patient relationship</strong> by removing government and corporate intermediaries from medical decision-making and ensuring that treatment decisions are made by physicians in consultation with their patients rather than by regulatory agencies in coordination with pharmaceutical companies.</p>
+<p><strong>Investigating the causes of chronic disease</strong> including autism, autoimmune disorders, allergies, obesity, diabetes, cancer, and neurological conditions that have increased dramatically over the past four decades — a period that corresponds with the expansion of the vaccination schedule, the introduction of genetically modified organisms into the food supply, and the proliferation of environmental toxins.</p>
+<p>Karen Kingston has written in The Kingston Report (karenkingston.substack.com): "The MAHA initiative represents the first time in modern history that a federal health authority has publicly acknowledged that the American healthcare system is not designed to produce health — it is designed to produce pharmaceutical revenue. The initiative's comprehensive scope — addressing food, water, vaccines, environmental toxins, and institutional corruption simultaneously — reflects an understanding that these are not separate problems but interconnected components of a single system of population poisoning."</p>
+<hr>
+<h2 id="the-five-pillars-of-transformation">The Five Pillars of Transformation</h2>
+<h3 id="pillar-1-clean-food">Pillar 1: Clean Food</h3>
+<p>The MAHA plan targets the American food supply, which has been progressively contaminated with substances that drive chronic disease. Key actions include:</p>
+<ul>
+<li>Banning or restricting the use of artificial food dyes linked to behavioral problems in children</li>
+<li>Strengthening regulations on glyphosate and other pesticide residues in food</li>
+<li>Reforming FDA food additive approval processes that have allowed thousands of chemicals into the food supply under the "Generally Recognized as Safe" (GRAS) designation — a self-certification process in which manufacturers determine the safety of their own additives</li>
+<li>Addressing ultra-processed food proliferation in school lunch programs, military food service, and federal nutrition assistance programs</li>
+</ul>
+<h3 id="pillar-2-clean-water">Pillar 2: Clean Water</h3>
+<p>The initiative addresses contaminants in the American water supply, including:</p>
+<ul>
+<li>Fluoride — the CDC's updated guidance on fluoride addition to drinking water (detailed in our companion article)</li>
+<li>PFAS ("forever chemicals") — per- and polyfluoroalkyl substances found in municipal water supplies nationwide</li>
+<li>Pharmaceutical residues — traces of drugs, hormones, and other pharmaceutical compounds that conventional water treatment does not remove</li>
+<li>Heavy metals — lead, arsenic, and other toxic metals present in aging water infrastructure</li>
+</ul>
+<h3 id="pillar-3-clean-medicine">Pillar 3: Clean Medicine</h3>
+<p>The pharmaceutical reform component includes:</p>
+<ul>
+<li>Comprehensive safety review of the childhood vaccination schedule</li>
+<li>Elimination of pharmaceutical industry funding of federal health agencies</li>
+<li>Reform of the drug approval process to ensure genuine independence</li>
+<li>Restoration of liability for pharmaceutical manufacturers</li>
+<li>Investigation of mRNA technology safety</li>
+</ul>
+<h3 id="pillar-4-clean-environment">Pillar 4: Clean Environment</h3>
+<p>Environmental health reforms address:</p>
+<ul>
+<li>Electromagnetic radiation exposure from 5G infrastructure, wireless devices, and power systems</li>
+<li>Endocrine-disrupting chemicals in consumer products, packaging, and building materials</li>
+<li>Toxic chemical exposure in agricultural, industrial, and residential settings</li>
+<li>Indoor air quality in schools, workplaces, and residential buildings</li>
+</ul>
+<h3 id="pillar-5-transparent-institutions">Pillar 5: Transparent Institutions</h3>
+<p>Institutional reform includes:</p>
+<ul>
+<li>Elimination of pharmaceutical industry conflicts of interest in federal health agencies</li>
+<li>Full transparency in clinical trial data, adverse event reporting, and regulatory decision-making</li>
+<li>Reform of advisory committee membership to exclude individuals with industry financial ties</li>
+<li>Ending the revolving door between federal agencies and the pharmaceutical industry</li>
+</ul>
+<hr>
+<h2 id="the-resistance">The Resistance</h2>
+<p>The MAHA initiative faces resistance from every node of the pharmaceutical-industrial complex:</p>
+<p><strong>Pharmaceutical companies</strong> oppose clean medicine reforms that threaten their revenue, particularly childhood vaccine schedule reform and the restoration of manufacturer liability.</p>
+<p><strong>Food manufacturers</strong> oppose clean food reforms that would restrict the use of profitable additives and require reformulation of products.</p>
+<p><strong>Chemical companies</strong> oppose clean environment reforms that would restrict the use of profitable chemicals in agriculture, manufacturing, and consumer products.</p>
+<p><strong>Medical associations</strong> oppose institutional reforms that threaten the pharmaceutical funding streams upon which their conferences, journals, and educational programs depend.</p>
+<p><strong>Media</strong> oppose transparency reforms that threaten the advertising revenue they receive from pharmaceutical and food industry sponsors.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/171-Great_Reset_Rising.mp4">Great Reset Rising</a> documents how the interconnected web of corporate, governmental, and institutional interests resists any reform that threatens the revenue model upon which the entire system depends.</p>
+<hr>
+<h2 id="the-prophetic-hope">The Prophetic Hope</h2>
+<blockquote>
+<p>"If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land." — 2 Chronicles 7:14</p>
+</blockquote>
+<p>The promise of healing is conditional. It requires humility, prayer, seeking God's face, and turning from wickedness. The MAHA initiative addresses the physical dimensions of healing — clean food, clean water, clean medicine, clean environment. But physical healing without spiritual transformation is incomplete.</p>
+<p>The sickness of the American healthcare system is not merely institutional — it is spiritual. It reflects a nation that has worshiped at the altar of pharmaceutical convenience, sacrificed its children's health for institutional compliance, and traded the gift of natural immunity designed by God for the synthetic products designed by man.</p>
+<p>MAHA opens the doors of the temple. Whether the nation enters depends on whether it is willing to turn from the ways that desecrated it.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>HHS.gov — MAHA initiative announcements and policy documents</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of MAHA policy framework, institutional reform requirements, and pharmaceutical industry resistance strategies</p>
+</li>
+<li>
+<p>FDA — GRAS designation process documentation</p>
+</li>
+<li>
+<p>CDC — Childhood vaccination schedule and VFC program data</p>
+</li>
+<li>
+<p>Isaiah 43:19, 2 Chronicles 7:14 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/171-Great_Reset_Rising.mp4">Great Reset Rising</a> — The interconnected web of interests resisting reform</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> — The system MAHA seeks to dismantle</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/165-Event_201_Came_True.mp4">Event 201 Came True</a> — The planned infrastructure that MAHA challenges</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> — Building righteousness in the place of corruption</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — The promise of crushing the systems that poison humanity</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/rfk-cleans-house-cdc/?lang=en">RFK Jr. Cleans House at the CDC</a> — The personnel component of MAHA transformation</li>
+<li><a href="/cdc-stop-fluoride-drinking-water/?lang=en">CDC to Stop Recommending Fluoride Addition to Drinking Water</a> — Clean water pillar in action</li>
+<li><a href="/trump-bans-gain-of-function/?lang=en">Trump Executive Order Bans Gain-of-Function Research</a> — Clean medicine pillar in action</li>
+<li><a href="/rfk-worldwide-cause-autism/?lang=en">RFK Jr. Announces Worldwide Effort to Determine Cause of Autism</a> — Investigating what the old system refused to study</li>
+</ul>
+<hr>
+<p><em>Hezekiah opened the doors of the Temple and found them broken, their altars desecrated, their sacred vessels scattered. The work of restoration was enormous — it required cleansing, repair, reconsecration, and the removal of every foreign altar. The MAHA initiative opens the doors of the Temple of American healthcare and finds the same devastation: agencies corrupted, food poisoned, water contaminated, medicine captured, and institutions serving pharmaceutical profit instead of human health. The restoration has begun. Whether it succeeds depends on whether the nation possesses the will to complete what Hezekiah began — to remove every altar to every foreign god and to rebuild what was meant to be a house of healing. "And the LORD was with Hezekiah, and he prospered whithersoever he went forth" (2 Kings 18:7). May the same be said of this generation.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"HHS Announces MAHA Transformation of Healthcare"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"HHS unveils the Make America Healthy Again transformation plan, restructuring federal health agencies to prioritize prevention and eliminate industry capture."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-18T10:00:00Z","children":"May 18, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","HHS",{"href":"/en/tag/HHS/","className":"tag-pill","children":["#","HHS"]}],["$","a","MAHA",{"href":"/en/tag/MAHA/","className":"tag-pill","children":["#","MAHA"]}],["$","a","healthcare-reform",{"href":"/en/tag/healthcare-reform/","className":"tag-pill","children":["#","healthcare-reform"]}],["$","a","RFK-Jr",{"href":"/en/tag/RFK-Jr/","className":"tag-pill","children":["#","RFK-Jr"]}],["$","a","health-freedom",{"href":"/en/tag/health-freedom/","className":"tag-pill","children":["#","health-freedom"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/hhs-maha-transformation/","title":"HHS Announces MAHA Transformation of Healthcare"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/hhs-maha-transformation/","title":"HHS Announces MAHA Transformation of Healthcare"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"HHS Announces MAHA Transformation of Healthcare | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"HHS unveils the Make America Healthy Again transformation plan, restructuring federal health agencies to prioritize prevention and eliminate industry capture."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"HHS, MAHA, healthcare-reform, RFK-Jr, health-freedom"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/hhs-maha-transformation/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/hhs-maha-transformation/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/hhs-maha-transformation/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/hhs-maha-transformation/"}],["$","meta","10",{"property":"og:title","content":"HHS Announces MAHA Transformation of Healthcare"}],["$","meta","11",{"property":"og:description","content":"HHS unveils the Make America Healthy Again transformation plan, restructuring federal health agencies to prioritize prevention and eliminate industry capture."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/hhs-maha-transformation/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/hhs-maha-transformation.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"HHS Announces MAHA Transformation of Healthcare"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"HHS Announces MAHA Transformation of Healthcare"}],["$","meta","25",{"name":"twitter:description","content":"HHS unveils the Make America Healthy Again transformation plan, restructuring federal health agencies to prioritize prevention and eliminate industry capture."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/hhs-maha-transformation.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

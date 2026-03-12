@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","infant-deaths-measles-vaccines",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","infant-deaths-measles-vaccines","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","infant-deaths-measles-vaccines","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3ccc,<h1 id="what-moms-should-know-about-infant-deaths-from-measles-vaccines">What Moms Should Know About Infant Deaths From Measles Vaccines</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"A voice was heard in Ramah, lamentation, and bitter weeping; Rahel weeping for her children refused to be comforted for her children, because they were not." — Jeremiah 31:15</p>
+</blockquote>
+<p>Rachel's weeping echoes through the centuries. The grief of a mother who has lost her child is the most acute suffering in human experience — a suffering so profound that the prophet Jeremiah, and later the Gospel of Matthew (2:18), used it to describe the killing of innocent children by state power. Rachel weeps because her children "were not" — they existed, and then they did not. The loss is absolute.</p>
+<p>Mothers today are weeping. Their infants received a measles vaccine — a product they were told was essential, safe, and the responsible choice — and their children died. The grief of these mothers is Rachel's grief. The institutional system that assured them of safety is Pharaoh's system, promising care while delivering harm.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> speaks to the ancient pattern of targeting children through the medical system. And the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> gives voice to the journey through the shadow that these families have walked.</p>
+<hr>
+<h2 id="the-measles-vaccine-what-moms-are-told">The Measles Vaccine: What Moms Are Told</h2>
+<h3 id="the-official-narrative">The Official Narrative</h3>
+<p>Mothers are told:</p>
+<ul>
+<li>Measles is a dangerous disease that can cause serious complications and death</li>
+<li>The MMR (measles, mumps, rubella) vaccine is safe and effective</li>
+<li>Serious side effects are "extremely rare"</li>
+<li>The benefits of vaccination far outweigh the risks</li>
+<li>All children should receive two doses (first at 12-15 months, second at 4-6 years)</li>
+<li>Failure to vaccinate endangers not only your child but other children ("herd immunity")</li>
+</ul>
+<p>This narrative is delivered by pediatricians, the CDC, the American Academy of Pediatrics, school systems, and public health messaging campaigns. It is presented as settled science, beyond debate, and mothers who question it are often labeled as "anti-vaxxers" — a term designed to shut down inquiry.</p>
+<h3 id="what-moms-are-not-told">What Moms Are Not Told</h3>
+<p>Mothers are generally not told:</p>
+<p><strong>The MMR vaccine has a documented history of causing serious adverse events,</strong> including death. The vaccine's own package insert lists death as a reported adverse event. VAERS contains thousands of reports of serious adverse events following MMR vaccination, including reports of infant death.</p>
+<p><strong>The measles death rate had declined by over 98% BEFORE the measles vaccine was introduced.</strong> In the United States, the measles death rate in 1963 (the year the first measles vaccine was licensed) was approximately 0.2 per 100,000 — a dramatic decline from the pre-modern era, achieved through improvements in nutrition, sanitation, and healthcare, not vaccination.</p>
+<p><strong>The MMR vaccine was never tested against a true placebo.</strong> The clinical trials that led to MMR approval compared the vaccine against other vaccines or reactive components, not against an inert saline placebo. The safety baseline was never established against a truly inactive control.</p>
+<p><strong>The MMR vaccine contains live attenuated viruses</strong> that can and do cause infection in some recipients. Vaccine-strain measles has been detected in children who developed measles-like illness after vaccination. The vaccine is not inert — it contains living biological agents.</p>
+<p><strong>VAERS captures only a fraction of adverse events.</strong> The CDC's own data suggests VAERS captures 1-10% of actual events. This means that every VAERS report of death or serious injury following MMR vaccination represents 10-100 actual events.</p>
+<hr>
+<h2 id="the-death-reports-what-vaers-shows">The Death Reports: What VAERS Shows</h2>
+<h3 id="vaers-death-reports-following-measlesmmr-vaccines">VAERS Death Reports Following Measles/MMR Vaccines</h3>
+<p>The Vaccine Adverse Event Reporting System contains reports of infant deaths following measles-containing vaccines. These reports include:</p>
+<ul>
+<li>Deaths occurring within hours to days of vaccination</li>
+<li>Deaths in previously healthy infants with no known risk factors</li>
+<li>Deaths accompanied by seizures, high fever, or encephalitic reaction</li>
+<li>Deaths attributed by medical examiners to SIDS (Sudden Infant Death Syndrome) — the medical system's catch-all diagnosis for unexplained infant death</li>
+</ul>
+<p>The temporal association — death occurring shortly after vaccination in a previously healthy infant — is powerful evidence that demands investigation. In any other context, if a child ingested a substance and died within hours, the substance would be investigated as the cause. But when the substance is a vaccine, the default assumption is coincidence.</p>
+<h3 id="the-sids-connection">The SIDS Connection</h3>
+<p>A significant number of infant deaths reported to VAERS following vaccination are classified as SIDS — Sudden Infant Death Syndrome. SIDS is not a cause of death. It is a label applied when no cause of death can be determined. It is, by definition, a diagnosis of ignorance.</p>
+<p>Research has documented temporal clustering of SIDS deaths around vaccination dates — particularly in the days immediately following vaccination. This clustering suggests that at least some fraction of SIDS deaths are vaccine-related, with the "no known cause" classification serving to obscure the temporal association with vaccination.</p>
+<hr>
+<h2 id="the-kingston-report-the-suppressed-history">The Kingston Report: The Suppressed History</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> documents the suppressed history of measles vaccine harm, including the institutional mechanisms that prevent acknowledgment of vaccine-caused deaths.</p>
+<h3 id="the-national-childhood-vaccine-injury-act-1986">The National Childhood Vaccine Injury Act (1986)</h3>
+<p>Kingston has documented the legal framework that shields vaccine manufacturers from liability: the National Childhood Vaccine Injury Act (NCVIA) of 1986. This law:</p>
+<ul>
+<li><strong>Removed the right of parents to sue vaccine manufacturers</strong> for injuries or deaths caused by vaccines on the CDC schedule</li>
+<li><strong>Created the Vaccine Injury Compensation Program (VICP)</strong> — a no-fault system that compensates some vaccine injuries without holding manufacturers accountable</li>
+<li><strong>Established the Vaccine Adverse Event Reporting System (VAERS)</strong> — a passive reporting system that, by design, captures only a fraction of events</li>
+<li><strong>Incentivized the expansion of the vaccine schedule</strong> — because manufacturers faced no liability, the commercial incentive to add more vaccines to the schedule increased</li>
+</ul>
+<p>The NCVIA was passed because vaccine manufacturers threatened to stop making childhood vaccines unless they received liability protection. The industry's position was, in essence: "The products we make cause enough injury that we cannot afford the lawsuits. Protect us from liability, or we stop making the products."</p>
+<p>This is the industry's own admission that its products cause injury. The liability shield was not created because vaccines are safe — it was created because they are NOT safe enough to withstand ordinary product liability litigation.</p>
+<h3 id="the-thompson-whistleblower-case">The Thompson Whistleblower Case</h3>
+<p>Kingston has highlighted the case of Dr. William Thompson, a senior CDC scientist who in 2014 provided documents to Congress alleging that the CDC had destroyed data linking the MMR vaccine to increased autism risk in African American boys. Thompson stated that the CDC conducted a study, found a statistically significant association, and then manipulated the data analysis to eliminate the signal.</p>
+<p>Thompson's allegations were never formally investigated by Congress. The documents he provided were not made public through official channels. The media dismissed the story. But Thompson's claims — made by a sitting CDC scientist with access to the original data — represent insider testimony that the CDC actively suppressed safety signals for the MMR vaccine.</p>
+<hr>
+<h2 id="the-biblical-perspective-protecting-the-little-ones">The Biblical Perspective: Protecting the Little Ones</h2>
+<h3 id="the-millstone-warning">The Millstone Warning</h3>
+<blockquote>
+<p>"But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea." — Matthew 18:6</p>
+</blockquote>
+<p>Jesus spoke the most severe warning in all of Scripture about those who harm children. The millstone warning is not a suggestion — it is a divine pronouncement of the consequences for those who offend (cause harm, create a stumbling block for) "these little ones."</p>
+<p>When an infant dies following vaccination — when the parents trusted the institution, brought their healthy child to the doctor, and that child died — the millstone warning applies to everyone in the chain: the manufacturer who made the product, the regulator who approved it, the pediatrician who administered it, and the institution that suppressed the safety data that might have led the parents to a different decision.</p>
+<h3 id="the-blood-of-the-innocent">The Blood of the Innocent</h3>
+<blockquote>
+<p>"These six things doth the LORD hate: yea, seven are an abomination unto him: A proud look, a lying tongue, and hands that shed innocent blood." — Proverbs 6:16-17</p>
+</blockquote>
+<p>The shedding of innocent blood is listed among God's chief abominations. No blood is more innocent than that of an infant — a being who has committed no sin, made no enemies, and entered the world completely dependent on the adults charged with its protection. When that infant dies from a product administered by those protectors at the recommendation of institutions funded by the product's manufacturer, innocent blood has been shed through an institutional system that has made accountability impossible.</p>
+<hr>
+<h2 id="what-moms-should-know">What Moms Should Know</h2>
+<ol>
+<li><strong>The MMR vaccine package insert lists death as a reported adverse event.</strong> This is the manufacturer's own document.</li>
+<li><strong>VAERS contains reports of infant death following measles vaccination.</strong> These reports capture only 1-10% of actual events.</li>
+<li><strong>The measles death rate declined over 98% before the vaccine existed.</strong> Improved nutrition and sanitation, not vaccination, drove the decline.</li>
+<li><strong>The MMR vaccine was never tested against a true placebo.</strong> The safety baseline is unknown.</li>
+<li><strong>Vaccine manufacturers have zero liability</strong> for injuries caused by childhood vaccines under the NCVIA of 1986.</li>
+<li><strong>SIDS is not a cause of death</strong> — it is a label applied when no cause is identified, potentially masking vaccine-related deaths.</li>
+<li><strong>A CDC scientist alleged the agency destroyed data</strong> linking MMR to adverse outcomes.</li>
+<li><strong>You have the right to refuse</strong> any vaccine for your child. Know your state's exemption laws.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Documentation of measles vaccine adverse events and institutional suppression.</li>
+<li>VAERS database (searchable at vaers.hhs.gov)</li>
+<li>MMR vaccine package insert (Merck — M-M-R II)</li>
+<li>National Childhood Vaccine Injury Act of 1986</li>
+<li>Thompson, William. CDC whistleblower documents</li>
+<li>Historical measles mortality data (CDC/NCHS)</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The targeting of children through the medical system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The captured healthcare system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> — Mass injection infrastructure</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> — The journey through grief and loss</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — The sacred blood of the innocent</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/babies-injected-43-vaccine-viruses/?lang=en">Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two</a> — The scope of infant vaccination</li>
+<li><a href="/first-increase-infant-deaths-2022/?lang=en">2022 Was The First Increase in Infant Deaths in Decades</a> — Rising infant mortality</li>
+<li><a href="/vaccines-infant-deaths-impossible/?lang=en">Why It's NOT Possible for Vaccines to Not Cause Infant Deaths</a> — The immunological impossibility</li>
+<li><a href="/cdc-childhood-vaccine-schedule-reduced/?lang=en">CDC Childhood Vaccine Schedule Reduced: What Changed</a> — The schedule retreat</li>
+</ul>
+<hr>
+<p><em>Rachel still weeps. Her voice is heard not in Ramah but in hospitals, in funeral homes, in empty nurseries where cribs stand unused. She weeps for children who were brought to the doctor healthy and came home in a casket — or did not come home at all. She weeps because the institution said "safe," and the institution lied. But the God who heard Rachel's weeping has not changed. "Thus saith the LORD; Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, saith the LORD" (Jeremiah 31:16). The reward is coming. And the reckoning comes with it.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"What Moms Should Know About Infant Deaths From Measles Vaccines"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"What every mother needs to know about documented infant deaths linked to measles vaccines, VAERS data, and the suppressed history of MMR adverse events."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-26T10:00:00Z","children":"April 26, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","measles-vaccine",{"href":"/en/tag/measles-vaccine/","className":"tag-pill","children":["#","measles-vaccine"]}],["$","a","infant-deaths",{"href":"/en/tag/infant-deaths/","className":"tag-pill","children":["#","infant-deaths"]}],["$","a","MMR",{"href":"/en/tag/MMR/","className":"tag-pill","children":["#","MMR"]}],["$","a","VAERS",{"href":"/en/tag/VAERS/","className":"tag-pill","children":["#","VAERS"]}],["$","a","pediatric-safety",{"href":"/en/tag/pediatric-safety/","className":"tag-pill","children":["#","pediatric-safety"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/infant-deaths-measles-vaccines/","title":"What Moms Should Know About Infant Deaths From Measles Vaccines"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/infant-deaths-measles-vaccines/","title":"What Moms Should Know About Infant Deaths From Measles Vaccines"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"What Moms Should Know About Infant Deaths From Measles Vaccines | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"What every mother needs to know about documented infant deaths linked to measles vaccines, VAERS data, and the suppressed history of MMR adverse events."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"measles-vaccine, infant-deaths, MMR, VAERS, pediatric-safety"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/infant-deaths-measles-vaccines/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/infant-deaths-measles-vaccines/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/infant-deaths-measles-vaccines/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/infant-deaths-measles-vaccines/"}],["$","meta","10",{"property":"og:title","content":"What Moms Should Know About Infant Deaths From Measles Vaccines"}],["$","meta","11",{"property":"og:description","content":"What every mother needs to know about documented infant deaths linked to measles vaccines, VAERS data, and the suppressed history of MMR adverse events."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/infant-deaths-measles-vaccines/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/infant-deaths-measles-vaccines.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"What Moms Should Know About Infant Deaths From Measles Vaccines"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"What Moms Should Know About Infant Deaths From Measles Vaccines"}],["$","meta","25",{"name":"twitter:description","content":"What every mother needs to know about documented infant deaths linked to measles vaccines, VAERS data, and the suppressed history of MMR adverse events."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/infant-deaths-measles-vaccines.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

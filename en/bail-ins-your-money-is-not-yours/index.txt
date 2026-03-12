@@ -1,0 +1,167 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","bail-ins-your-money-is-not-yours",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","bail-ins-your-money-is-not-yours","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","bail-ins-your-money-is-not-yours","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T463a,<h1 id="bail-ins-your-money-is-not-yours">Bail-Ins: Your Money Is Not Yours</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"The rich ruleth over the poor, and the borrower is servant to the lender." — Proverbs 22:7</p>
+</blockquote>
+<p>The relationship between wealth and servitude is not a modern invention. Scripture identified the mechanism thousands of years before the first central bank opened its doors. When you deposit money in a bank, you believe you are storing your wealth in a secure vault. In reality, you are lending your money to a corporation — and the moment that corporation faces insolvency, your deposit becomes its property.</p>
+<p>This is not conspiracy. It is contract law. The transaction you believed was safekeeping was always a loan, and the borrower has written the rules to ensure it never has to pay you back.</p>
+<p>The ancient pattern of the powerful exploiting the vulnerable through financial manipulation runs through all of Scripture. From the money changers in the temple to the merchants of Babylon in Revelation, the financial system has always served as a tool of control for those who wield it. The Confliction album track <a href="https://confliction.zzzdaily.com/tracks/en/20-The_Great_Exchange.mp4">The Great Exchange</a> speaks to this fundamental deception — the exchange where what you thought you possessed was never truly yours.</p>
+<hr>
+<h2 id="the-cyprus-blueprint-march-2013">The Cyprus Blueprint: March 2013</h2>
+<p>On March 16, 2013, the people of Cyprus woke up to discover that their government, in coordination with the European Central Bank, the European Commission, and the International Monetary Fund, had agreed to confiscate a portion of every bank deposit in the country.</p>
+<p>Accounts holding over 100,000 euros at the Bank of Cyprus lost approximately 47.5% of their deposits. Laiki Bank depositors above the insurance threshold lost nearly everything.</p>
+<p>ATMs were shut down. Bank transfers were frozen. Capital controls were imposed that prevented citizens from moving their own money out of the country. People who had spent decades saving for retirement watched nearly half their savings vanish overnight — not through market losses, not through bad investments, but through government decree.</p>
+<p>The official term was "bail-in." Instead of bailing out the failing banks with taxpayer money (a bail-out), the authorities bailed them in — using depositor funds to recapitalize the insolvent institutions. The depositors were not asked. They were not warned. They were told after the fact that their deposits had been converted into bank equity — shares in institutions that had already proven themselves incapable of managing money responsibly.</p>
+<p>The international financial establishment did not condemn this action. It celebrated it. The Cyprus bail-in was declared a "template" for future bank resolutions. Jeroen Dijsselbloem, then-president of the Eurogroup, explicitly stated that the Cyprus model would be used again.</p>
+<p>The precedent was set. The playbook was written. And the legislation to enable it globally was already in motion.</p>
+<hr>
+<h2 id="the-legal-reality-you-are-an-unsecured-creditor">The Legal Reality: You Are an Unsecured Creditor</h2>
+<p>Most people believe their bank deposit is their property, held in trust by the bank. This belief is legally incorrect.</p>
+<p>When you deposit money in a bank, you enter into a debtor-creditor relationship. The bank becomes the owner of the funds. You become a creditor — someone who is owed money by the bank.</p>
+<p>Specifically, you become an <strong>unsecured creditor</strong>, meaning you have no collateral backing your claim. If the bank fails, you stand in line behind:</p>
+<ul>
+<li>Secured creditors</li>
+<li>Derivatives counterparties</li>
+<li>Bondholders</li>
+<li>Operational expenses</li>
+</ul>
+<p>Only after all of these claims are settled do depositors see a penny.</p>
+<p>This is not a hidden provision buried in fine print. It is the foundational legal structure of banking in every Western country. The U.S. Supreme Court established this principle in the 1800s. British common law has maintained it for centuries.</p>
+<p>When a bank goes insolvent, depositor claims are subordinate to the claims of secured creditors and derivatives counterparties — and the derivatives market, as explored in <a href="/derivatives-weapons-mass-destruction/?lang=en">Derivatives: Weapons of Mass Financial Destruction</a>, dwarfs the deposit base of every bank on earth by orders of magnitude.</p>
+<p>In a bail-in, depositor funds are converted into bank equity. You do not get your cash back. You get shares in a failed bank. The value of those shares is determined by the resolution authority — not by you, not by a market, but by the same regulators who failed to prevent the bank's collapse in the first place.</p>
+<hr>
+<h2 id="dodd-frank-the-american-bail-in-framework">Dodd-Frank: The American Bail-In Framework</h2>
+<p>The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 was sold to the American public as a safeguard against another 2008-style financial crisis. In reality, Title II of Dodd-Frank — the "Orderly Liquidation Authority" — established the legal framework for bail-ins in the United States.</p>
+<p>Under Title II, the Federal Deposit Insurance Corporation (FDIC) has the authority to seize a failing "systemically important financial institution" and restructure it. This restructuring can include converting unsecured liabilities — including uninsured deposits — into equity.</p>
+<p>The FDIC and the Bank of England jointly published a paper in December 2012 titled "Resolving Globally Active, Systemically Important, Financial Institutions," which explicitly outlined the bail-in strategy for both countries.</p>
+<p>The paper describes a "single point of entry" resolution strategy where:</p>
+<ol>
+<li>The holding company of a failed bank is placed into receivership</li>
+<li>Its unsecured liabilities are written down or converted to equity</li>
+<li>Depositors above the FDIC insurance limit of $250,000 are explicitly included in the pool of liabilities subject to conversion</li>
+</ol>
+<p>But even the $250,000 FDIC insurance has limits that most depositors do not understand. The FDIC's Deposit Insurance Fund held approximately $128 billion as of 2023 — against total insured deposits of over $10 trillion.</p>
+<p>If multiple large banks fail simultaneously — which is precisely what systemic crises produce — the FDIC fund is insufficient by orders of magnitude. The FDIC can borrow from the Treasury, but in a genuine systemic crisis, the political and fiscal will to make depositors whole is far from guaranteed.</p>
+<hr>
+<h2 id="the-g20-framework-global-bail-in-policy">The G20 Framework: Global Bail-In Policy</h2>
+<p>The Cyprus experiment did not remain an isolated case study. In November 2014, the G20 nations formally adopted the Financial Stability Board's "Key Attributes of Effective Resolution Regimes for Financial Institutions."</p>
+<p>This document establishes bail-in as the standard resolution mechanism for failing banks across all G20 nations.</p>
+<p>The framework requires each participating country to implement legislation enabling:</p>
+<ul>
+<li>The conversion of unsecured liabilities (including deposits) to equity</li>
+<li>The write-down of creditor claims without creditor consent</li>
+<li>The transfer of assets and liabilities to bridge institutions</li>
+<li>The imposition of temporary stays on early termination rights</li>
+</ul>
+<p>Canada implemented its bail-in regime through the 2016 Budget Implementation Act. The European Union adopted the Bank Recovery and Resolution Directive (BRRD), which explicitly includes bail-in as a resolution tool. Japan, Australia, and other G20 nations have followed suit.</p>
+<p>The bail-in is not a possibility. It is policy. It is law. It is the plan.</p>
+<p>What the G20 framework means in practice is that the next time a major bank — or multiple major banks — face insolvency, the response will not be the 2008 model of taxpayer-funded bailouts. The response will be depositor-funded bail-ins.</p>
+<p>Your savings will be used to recapitalize the institution that lost your money.</p>
+<hr>
+<h2 id="the-derivatives-trigger">The Derivatives Trigger</h2>
+<p>The mechanism most likely to trigger a systemic bail-in event is the derivatives market. As explored in <a href="/derivatives-weapons-mass-destruction/?lang=en">Derivatives: Weapons of Mass Financial Destruction</a>, the notional value of outstanding derivatives contracts exceeds $1.2 quadrillion — roughly 13 times global GDP.</p>
+<p>The five largest U.S. banks alone hold derivatives exposure that dwarfs their total assets. JPMorgan Chase alone holds over $54 trillion in notional derivatives exposure against approximately $3.7 trillion in total assets.</p>
+<p>When a derivatives counterparty fails, the cascading effect can take down multiple institutions simultaneously. This is precisely what happened in 2008, when the failure of Lehman Brothers triggered a chain reaction through the credit default swap market.</p>
+<p>But in 2008, governments bailed out the banks with taxpayer money. The bail-in framework ensures that next time, they will use your deposits instead.</p>
+<p>Under the resolution framework, derivatives counterparties enjoy "safe harbor" provisions that give them priority over depositors. This means that when a bank fails:</p>
+<ol>
+<li>Derivatives claims are settled first</li>
+<li>Whatever remains is available to depositors</li>
+</ol>
+<p>Given that derivatives exposure vastly exceeds deposit bases, the mathematical outcome is clear: in a systemic derivatives failure, depositors get nothing, or close to it.</p>
+<p>The system has been designed so that the most speculative, dangerous, and destabilizing financial instruments — derivatives — are protected, while the most mundane and essential — savings deposits — are sacrificed.</p>
+<p>This is not an accident. It is architecture.</p>
+<hr>
+<h2 id="the-cbdc-endgame">The CBDC Endgame</h2>
+<p>The bail-in framework must be understood in conjunction with the push toward Central Bank Digital Currencies, as documented in <a href="/cbdc-chains-programmable-money/?lang=en">CBDC Chains: The Programmable Money That Controls You</a>.</p>
+<p>The elimination of physical cash removes the last escape route for depositors who might otherwise withdraw their funds before a bail-in can be executed.</p>
+<p>In Cyprus, the government was forced to impose capital controls and shut down ATMs to prevent bank runs. This was messy, disruptive, and politically costly.</p>
+<p>In a fully digital monetary system, the process is seamless:</p>
+<ul>
+<li>Accounts can be frozen with a keystroke</li>
+<li>Withdrawals can be blocked silently</li>
+<li>The bail-in can be executed before depositors even realize what is happening</li>
+</ul>
+<p>CBDC completes the bail-in architecture by eliminating the possibility of physical withdrawal. When all money is digital and held within the banking system, the system has total control over your funds at all times.</p>
+<p>The bail-in is not a risk in a CBDC world — it is a feature. The programmable nature of digital currency means your balance can be adjusted, reduced, or confiscated without your consent and without any physical action required.</p>
+<hr>
+<h2 id="what-deposit-insurance-actually-means">What Deposit Insurance Actually Means</h2>
+<p>The concept of deposit insurance — FDIC in the United States, FSCS in the United Kingdom, CDIC in Canada — provides a false sense of security that enables the bail-in architecture to function without public resistance.</p>
+<p>Deposit insurance was created after the Great Depression to prevent bank runs by assuring depositors that their funds were safe. The psychological effect has been enormously successful.</p>
+<p>Most people believe their deposits are "guaranteed by the government" and therefore invulnerable. This belief is the foundation upon which the bail-in framework rests.</p>
+<p>But deposit insurance funds are a fraction of total insured deposits:</p>
+<ul>
+<li>The FDIC fund represents approximately <strong>1.27% of insured deposits</strong></li>
+<li>This means the system works only as long as bank failures are isolated, manageable, and infrequent</li>
+<li>In a systemic crisis — multiple large banks failing simultaneously — the insurance fund is a rounding error</li>
+</ul>
+<p>The government can print money to cover the shortfall, but this triggers inflation that erodes the real value of deposits just as effectively as a direct confiscation.</p>
+<p>Deposit insurance is not a guarantee. It is a confidence trick — one that keeps depositors calm while the bail-in framework is constructed around them.</p>
+<hr>
+<h2 id="the-historical-pattern">The Historical Pattern</h2>
+<p>The bail-in model did not emerge from nowhere. It is the latest iteration of a pattern that extends through all of financial history:</p>
+<p><strong>Ancient Rome.</strong> Emperors debased the currency — reducing the silver content of coins — to fund military expenditures. Citizens who held coins saw their purchasing power confiscated through debasement.</p>
+<p><strong>Medieval Europe.</strong> Kings seized the wealth of the Knights Templar, the most powerful financial institution of their era, through coordinated arrests and confiscation in 1307.</p>
+<p><strong>The Great Depression.</strong> Executive Order 6102 (1933) required American citizens to surrender their gold to the Federal Reserve at $20.67 per ounce. After confiscation, the government revalued gold at $35 per ounce — a 69% devaluation of the currency.</p>
+<p><strong>Cyprus 2013.</strong> Depositor funds seized to recapitalize failing banks.</p>
+<p><strong>India 2016.</strong> 86% of currency demonetized overnight, forcing cash holders into the digital banking system.</p>
+<p>Each episode follows the same pattern: the system faces a crisis of its own making, and the resolution is funded by confiscating the wealth of ordinary people.</p>
+<p>The bail-in framework is not an innovation. It is the institutionalization of this ancient pattern — the formalization of theft through law.</p>
+<hr>
+<h2 id="biblical-reflection">Biblical Reflection</h2>
+<blockquote>
+<p>"Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal." — Matthew 6:19-20</p>
+</blockquote>
+<p>The warning of Christ was not merely spiritual advice about priorities. It was a practical statement about the nature of earthly wealth. Systems built by fallen men will always, eventually, confiscate what they hold.</p>
+<p>The treasure stored in the vaults of human institutions is never truly secure because the institutions themselves serve interests that are not your own. The bail-in framework is simply the latest iteration of a pattern as old as Egypt's grain stores under Pharaoh — centralized wealth storage that becomes centralized wealth confiscation when the system requires it.</p>
+<p>The spiritual lesson is not that money does not matter. It is that placing your security in systems designed and controlled by those who do not answer to God is an act of misplaced faith.</p>
+<p>The depositor who trusts the FDIC has placed faith in an institution. The Christian who trusts in the provision of God has placed faith in the Provider.</p>
+<p>When the bail-in comes — and it will come — the question is not how much you had in the bank. The question is where your true treasure was stored.</p>
+<hr>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/229-Digital_Dollar_Dragnet.mp4">Digital Dollar Dragnet</a> — The digital currency trap</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/161-CBDC_Chains.mp4">CBDC Chains</a> — Programmable money and financial control</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/great-taking-financial-asset-seizure/?lang=en">The Great Taking: How They'll Seize Your Financial Assets</a> — The legal framework for seizing securities and financial assets beyond bank deposits</li>
+<li><a href="/cbdc-chains-programmable-money/?lang=en">CBDC Chains: The Programmable Money That Controls You</a> — How central bank digital currency completes the financial control grid</li>
+</ul>
+<hr>
+<p><em>The money in your bank account is not yours. It never was. The legal framework says so, the resolution plans confirm it, and the Cyprus precedent proved it. When the next financial crisis arrives — and the derivatives time bomb ensures it will — your deposits are the designated sacrifice. The rich ruleth over the poor, and the system they built ensures it stays that way. Store your treasure where no bail-in can reach it. The vaults of men will be emptied. The promises of God will not.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/finance/","className":"category-badge","children":"finance"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Bail-Ins: Your Money Is Not Yours"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The legal framework for seizing depositor funds during bank failures already exists. From the Cyprus 2013 precedent to Dodd-Frank bail-in provisions, your bank deposit is not what you think it is — you are an unsecured creditor, and your money is their lifeline."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-01-20T10:00:00Z","children":"January 20, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","bail-ins",{"href":"/en/tag/bail-ins/","className":"tag-pill","children":["#","bail-ins"]}],["$","a","banks",{"href":"/en/tag/banks/","className":"tag-pill","children":["#","banks"]}],["$","a","deposits",{"href":"/en/tag/deposits/","className":"tag-pill","children":["#","deposits"]}],["$","a","Dodd-Frank",{"href":"/en/tag/Dodd-Frank/","className":"tag-pill","children":["#","Dodd-Frank"]}],["$","a","Cyprus",{"href":"/en/tag/Cyprus/","className":"tag-pill","children":["#","Cyprus"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/bail-ins-your-money-is-not-yours/","title":"Bail-Ins: Your Money Is Not Yours"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/bail-ins-your-money-is-not-yours/","title":"Bail-Ins: Your Money Is Not Yours"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Bail-Ins: Your Money Is Not Yours | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The legal framework for seizing depositor funds during bank failures already exists. From the Cyprus 2013 precedent to Dodd-Frank bail-in provisions, your bank deposit is not what you think it is — you are an unsecured creditor, and your money is their lifeline."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"bail-ins, banks, deposits, Dodd-Frank, Cyprus"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/bail-ins-your-money-is-not-yours/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/bail-ins-your-money-is-not-yours/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/bail-ins-your-money-is-not-yours/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/bail-ins-your-money-is-not-yours/"}],["$","meta","10",{"property":"og:title","content":"Bail-Ins: Your Money Is Not Yours"}],["$","meta","11",{"property":"og:description","content":"The legal framework for seizing depositor funds during bank failures already exists. From the Cyprus 2013 precedent to Dodd-Frank bail-in provisions, your bank deposit is not what you think it is — you are an unsecured creditor, and your money is their lifeline."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/bail-ins-your-money-is-not-yours/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/bail-ins-your-money-is-not-yours.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Bail-Ins: Your Money Is Not Yours"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Bail-Ins: Your Money Is Not Yours"}],["$","meta","25",{"name":"twitter:description","content":"The legal framework for seizing depositor funds during bank failures already exists. From the Cyprus 2013 precedent to Dodd-Frank bail-in provisions, your bank deposit is not what you think it is — you are an unsecured creditor, and your money is their lifeline."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/bail-ins-your-money-is-not-yours.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

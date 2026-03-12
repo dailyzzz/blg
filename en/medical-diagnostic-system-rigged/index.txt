@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","medical-diagnostic-system-rigged",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","medical-diagnostic-system-rigged","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","medical-diagnostic-system-rigged","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3eb3,<h1 id="for-45-years-the-medical-diagnostic-system-has-been-rigged">For 45 Years the Medical Diagnostic System Has Been Rigged</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!" — Isaiah 5:20</p>
+</blockquote>
+<p>The inversion of truth is not a modern invention. Isaiah warned against it three thousand years ago. When the diagnostic system that determines how diseases are classified, how deaths are recorded, and how health data is reported is designed to obscure rather than reveal — to call vaccine injuries "coincidence" and vaccine deaths "unexplained" — the system fulfills Isaiah's prophecy with clinical precision.</p>
+<p>For 45 years, the International Classification of Diseases (ICD) system — the coding framework used by every hospital, every doctor, every coroner, and every insurance company in the world — has been structured in ways that systematically hide vaccine injuries, misclassify vaccine deaths, and protect the pharmaceutical industry from accountability.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> documents the corporate capture of the medical system. And the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> reveals the substitution of truth for a lie at the foundation of modern medicine.</p>
+<hr>
+<h2 id="the-icd-system-what-it-is-and-why-it-matters">The ICD System: What It Is and Why It Matters</h2>
+<h3 id="the-code-that-runs-medicine">The Code That Runs Medicine</h3>
+<p>The International Classification of Diseases (ICD) is the global standard for classifying diseases, symptoms, injuries, and causes of death. Maintained by the World Health Organization (WHO) and adopted by every country, the ICD system assigns numerical codes to every medical condition. These codes are used for:</p>
+<ul>
+<li><strong>Medical records:</strong> Every diagnosis a patient receives is recorded as an ICD code</li>
+<li><strong>Death certificates:</strong> Every cause of death is classified using ICD codes</li>
+<li><strong>Insurance billing:</strong> Every medical procedure and diagnosis billed to insurance uses ICD codes</li>
+<li><strong>Epidemiological surveillance:</strong> All disease tracking, outbreak detection, and public health statistics are based on ICD codes</li>
+<li><strong>Research:</strong> Clinical studies, safety analyses, and population health research all depend on ICD-coded data</li>
+</ul>
+<p>The ICD system is not neutral infrastructure. It is the lens through which all medical reality is filtered. What the ICD system classifies determines what the medical system sees. What it does not classify becomes invisible.</p>
+<h3 id="the-versions">The Versions</h3>
+<ul>
+<li><strong>ICD-9:</strong> Used from 1979 to 2015 in the United States (approximately 13,000 codes)</li>
+<li><strong>ICD-10:</strong> Implemented in the U.S. in October 2015 (approximately 68,000 codes)</li>
+<li><strong>ICD-11:</strong> Published by WHO in 2019, with global adoption ongoing</li>
+</ul>
+<p>The rigging spans all three versions — 45 years of diagnostic coding structured to obscure vaccine harm.</p>
+<hr>
+<h2 id="how-the-system-is-rigged">How the System Is Rigged</h2>
+<h3 id="problem-1-no-specific-codes-for-vaccine-injury">Problem 1: No Specific Codes for Vaccine Injury</h3>
+<p>For decades, the ICD system lacked specific codes for vaccine-caused injuries. When a child developed encephalitis (brain inflammation) after vaccination, the diagnosis was coded as "encephalitis" — with no code element indicating that vaccination was the cause. When a child died of cardiac arrest after vaccination, the death was coded as "cardiac arrest" — with no vaccine linkage.</p>
+<p>This means that when researchers, epidemiologists, or regulators search the medical database for vaccine injuries, they find nothing — not because vaccine injuries did not occur, but because the coding system did not capture them.</p>
+<p>ICD-10 introduced some codes for "adverse effects of vaccines" (codes in the T50 category and Y59 external cause codes), but these codes are:</p>
+<ul>
+<li>Rarely used by clinicians (who are not trained to associate adverse events with vaccines)</li>
+<li>Optional rather than required (a clinician can code the symptom without coding the cause)</li>
+<li>Not linked to specific vaccine products (a general "adverse effect of vaccine" code does not identify which vaccine)</li>
+</ul>
+<h3 id="problem-2-sids-as-a-diagnostic-black-hole">Problem 2: SIDS as a Diagnostic Black Hole</h3>
+<p>Sudden Infant Death Syndrome (SIDS) — ICD code R95 — is the single most effective tool for hiding vaccine-caused infant death. SIDS is defined as the sudden death of an infant under one year of age that remains unexplained after investigation. By definition, SIDS has no known cause.</p>
+<p>When a vaccinated infant dies within hours or days of vaccination, and the medical examiner cannot identify a specific anatomical cause of death, the death is classified as SIDS. The vaccination history is not coded as a contributing factor. The death becomes one more entry in the SIDS statistics — invisible in vaccine safety analyses.</p>
+<p>Research has documented temporal clustering of SIDS around vaccination dates. But because the ICD system does not link SIDS to vaccination status, this clustering is invisible in the coded data. Researchers who rely on ICD-coded death certificate data will never see the vaccine signal — because the code system was not designed to capture it.</p>
+<h3 id="problem-3-cause-of-death-attribution-bias">Problem 3: Cause-of-Death Attribution Bias</h3>
+<p>The medical system has a systematic bias in cause-of-death attribution that favors vaccines:</p>
+<p><strong>When an unvaccinated child dies of measles,</strong> the death is attributed to measles — and used as evidence that vaccines are necessary.</p>
+<p><strong>When a vaccinated child dies shortly after vaccination,</strong> the death is attributed to SIDS, "unknown cause," coincidence, or an underlying condition — never to the vaccine.</p>
+<p>This asymmetric attribution creates a one-way ratchet: every death that can be attributed to a vaccine-preventable disease strengthens the case for vaccination, while deaths that occur after vaccination are systematically attributed to other causes. The coding system enables and enforces this asymmetry.</p>
+<h3 id="problem-4-the-pcr-covid-19-coding-manipulation">Problem 4: The PCR-COVID-19 Coding Manipulation</h3>
+<p>The COVID-19 pandemic exposed the diagnostic coding manipulation in real time. In April 2020, the CDC issued guidance allowing COVID-19 to be listed as a cause of death even without laboratory confirmation — a positive PCR test, or even clinical suspicion, was sufficient. This guidance, combined with financial incentives (hospitals received higher reimbursement for COVID-19 diagnoses), resulted in:</p>
+<ul>
+<li>Motorcycle accident victims coded as COVID deaths (documented cases)</li>
+<li>End-stage cancer patients coded as COVID deaths</li>
+<li>Individuals who tested positive by PCR (at high cycle thresholds that detect non-viable viral fragments) coded as COVID cases</li>
+</ul>
+<p>The inflation of COVID death counts served multiple purposes:</p>
+<ul>
+<li>Justified emergency measures (lockdowns, mandates)</li>
+<li>Created demand for vaccines</li>
+<li>Made the pandemic appear more lethal than it was</li>
+</ul>
+<p>Simultaneously, the coding system was NOT expanded to capture vaccine adverse events with comparable specificity. COVID deaths were maximized through coding; vaccine deaths were minimized through coding. The system worked in one direction: toward the pharmaceutical product.</p>
+<hr>
+<h2 id="the-kingston-report-45-years-of-rigged-data">The Kingston Report: 45 Years of Rigged Data</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> documents the systematic nature of the diagnostic coding manipulation.</p>
+<h3 id="the-who-connection">The WHO Connection</h3>
+<p>Kingston has documented that the WHO — which maintains the ICD system — receives significant funding from pharmaceutical companies and from the Bill and Melinda Gates Foundation (the largest private funder of global vaccination programs). The entity that designs the diagnostic coding system is funded by the entities that benefit from the system's failure to capture vaccine harm.</p>
+<p>This is a structural conflict of interest. The coding system that determines whether vaccine injuries are visible in medical data is designed by an organization funded by the vaccine industry. The fox designed the henhouse.</p>
+<h3 id="the-insurance-data-gap">The Insurance Data Gap</h3>
+<p>Kingston has highlighted that health insurance companies possess data that could reveal the true rate of vaccine adverse events — data on medical claims, hospitalizations, emergency room visits, and prescriptions filed in the days and weeks following vaccination. This data exists in insurance databases but is rarely analyzed for vaccine safety signals, and when it has been analyzed (by independent researchers), the signals have been alarming.</p>
+<p>Insurance actuarial data showing unprecedented increases in all-cause mortality, cardiovascular events, and neurological conditions among working-age adults following the COVID-19 vaccine rollout represents the real-world signal that the ICD coding system is designed to obscure.</p>
+<hr>
+<h2 id="the-biblical-standard-just-measurement">The Biblical Standard: Just Measurement</h2>
+<h3 id="honest-scales">Honest Scales</h3>
+<blockquote>
+<p>"A just weight and balance are the LORD's: all the weights of the bag are his work." — Proverbs 16:11</p>
+</blockquote>
+<p>The ICD system is a measurement system. Like the scales and weights of ancient commerce, it determines how reality is quantified and recorded. When the measurement system is rigged — when it systematically undercounts vaccine injuries and miscounts vaccine-preventable disease deaths — the scales are dishonest.</p>
+<p>God designed the universe with honest measurements. The speed of light does not vary. Gravity does not favor one substance over another. The genetic code follows rules that do not bend for pharmaceutical profit. When human systems of measurement are corrupted, they violate the character of God, who "is not a man, that he should lie" (Numbers 23:19).</p>
+<h3 id="the-firmament-of-truth">The Firmament of Truth</h3>
+<p>The firmament — the dome God placed over creation — separates truth from chaos, order from disorder. The diagnostic coding system should serve as a firmament of medical truth — separating accurate classification from misclassification, honest attribution from fraudulent attribution. When the firmament of truth is breached by a rigged coding system, the medical world descends into chaos — doctors cannot identify the true causes of disease, researchers cannot detect the real patterns of harm, and patients cannot make informed decisions.</p>
+<hr>
+<h2 id="what-individuals-should-know">What Individuals Should Know</h2>
+<ol>
+<li><strong>The ICD diagnostic coding system has been structured for 45 years</strong> to obscure vaccine injuries and misclassify vaccine deaths.</li>
+<li><strong>SIDS is a coding black hole</strong> that absorbs vaccine-caused infant deaths into a category defined by "unknown cause."</li>
+<li><strong>COVID-19 deaths were maximized through coding</strong> while vaccine deaths were minimized — the system worked in one direction.</li>
+<li><strong>The WHO, which maintains the ICD system,</strong> is funded by the pharmaceutical industry and vaccine advocates.</li>
+<li><strong>No specific ICD codes exist</strong> for most vaccine-caused injuries, making them invisible in medical databases.</li>
+<li><strong>Insurance company data reveals signals</strong> that the ICD coding system is designed to hide.</li>
+<li><strong>The diagnostic system is not neutral</strong> — it is an instrument of the pharmaceutical industry's interest.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of ICD coding manipulation and vaccine injury concealment.</li>
+<li>WHO ICD-10 and ICD-11 coding manuals</li>
+<li>CDC COVID-19 death certificate coding guidance (April 2020)</li>
+<li>Published research on SIDS temporal clustering with vaccination</li>
+<li>Insurance actuarial data on excess mortality</li>
+<li>WHO funding sources documentation</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The captured medical system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> — Engineered systems of control</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The infrastructure protecting the injection system</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> — Truth exchanged for systematic lies</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> — Truth breaking free from coded darkness</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/vaccines-infant-deaths-impossible/?lang=en">Why It's NOT Possible for Vaccines to Not Cause Infant Deaths</a> — The impossibility of zero harm</li>
+<li><a href="/cdc-safety-data-mrna-vaccines/?lang=en">Updated CDC Safety Data on COVID-19 mRNA Vaccines</a> — The data the system hides</li>
+<li><a href="/first-increase-infant-deaths-2022/?lang=en">2022 Was The First Increase in Infant Deaths in Decades</a> — Mortality data breaking through</li>
+<li><a href="/mass-awakening-deadly-mrna-shots/?lang=en">Survey Confirms Mass Awakening to Deadly COVID-19 mRNA Shots</a> — The public is seeing through the codes</li>
+</ul>
+<hr>
+<p><em>For 45 years, the scales have been rigged. The diagnostic system that the world trusts to classify disease and death has been structured to hide the harm caused by the products of the pharmaceutical industry. But God keeps His own records. His diagnostic system has no blind spots, no black holes, no codes designed to obscure. "For there is nothing covered, that shall not be revealed; and hid, that shall not be known" (Matthew 10:26). The rigged system will be overturned. The honest scales will be restored. And every misclassified death will be reclassified by the Judge who cannot be deceived.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"For 45 Years the Medical Diagnostic System Has Been Rigged"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"How the medical diagnostic coding system (ICD) has been rigged for 45 years to hide vaccine injuries, misclassify deaths, and protect the pharmaceutical industry."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-30T10:00:00Z","children":"April 30, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","medical-diagnostics",{"href":"/en/tag/medical-diagnostics/","className":"tag-pill","children":["#","medical-diagnostics"]}],["$","a","ICD-codes",{"href":"/en/tag/ICD-codes/","className":"tag-pill","children":["#","ICD-codes"]}],["$","a","misdiagnosis",{"href":"/en/tag/misdiagnosis/","className":"tag-pill","children":["#","misdiagnosis"]}],["$","a","vaccine-injuries",{"href":"/en/tag/vaccine-injuries/","className":"tag-pill","children":["#","vaccine-injuries"]}],["$","a","healthcare-fraud",{"href":"/en/tag/healthcare-fraud/","className":"tag-pill","children":["#","healthcare-fraud"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/medical-diagnostic-system-rigged/","title":"For 45 Years the Medical Diagnostic System Has Been Rigged"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/medical-diagnostic-system-rigged/","title":"For 45 Years the Medical Diagnostic System Has Been Rigged"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"For 45 Years the Medical Diagnostic System Has Been Rigged | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"How the medical diagnostic coding system (ICD) has been rigged for 45 years to hide vaccine injuries, misclassify deaths, and protect the pharmaceutical industry."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"medical-diagnostics, ICD-codes, misdiagnosis, vaccine-injuries, healthcare-fraud"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/medical-diagnostic-system-rigged/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/medical-diagnostic-system-rigged/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/medical-diagnostic-system-rigged/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/medical-diagnostic-system-rigged/"}],["$","meta","10",{"property":"og:title","content":"For 45 Years the Medical Diagnostic System Has Been Rigged"}],["$","meta","11",{"property":"og:description","content":"How the medical diagnostic coding system (ICD) has been rigged for 45 years to hide vaccine injuries, misclassify deaths, and protect the pharmaceutical industry."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/medical-diagnostic-system-rigged/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/medical-diagnostic-system-rigged.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"For 45 Years the Medical Diagnostic System Has Been Rigged"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"For 45 Years the Medical Diagnostic System Has Been Rigged"}],["$","meta","25",{"name":"twitter:description","content":"How the medical diagnostic coding system (ICD) has been rigged for 45 years to hide vaccine injuries, misclassify deaths, and protect the pharmaceutical industry."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/medical-diagnostic-system-rigged.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

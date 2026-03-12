@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","v2k-hearing-music-part1",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","v2k-hearing-music-part1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","v2k-hearing-music-part1","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3688,<h1 id="my-v2k-story-hearing-music-that-isnt-there-part-1">My V2K Story: Hearing Music That Isn't There Part 1</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places."</em> — Ephesians 6:12</p>
+</blockquote>
+<p>It started with music. Faint at first — so faint I thought a neighbor had their radio on. A melody playing just at the edge of perception, clear enough to recognize but quiet enough to doubt. I checked the windows, turned off every electronic device in the house, walked outside to listen. Nothing. The music was coming from inside my head.</p>
+<p>This is the beginning of a story that millions of people around the world share but are afraid to tell. It is the story of Voice-to-Skull (V2K) technology — a classified military weapon that can transmit audio directly into a person's brain, bypassing the ears entirely. It is real. It is patented. It is deployed. And anyone who reports experiencing it is immediately labeled mentally ill.</p>
+<p>Howard Pittman was shown during his NDE that the spiritual realm is organized into three heavens, that demonic forces operate in the second heaven with military precision, and that 97.5% of Christians are failing because they have "never made Jesus Lord." The V2K experience sits at the intersection of the spiritual and the technological — a weapon that exploits the boundary between what is real and what is perceived, between the physical and the spiritual, between sanity and madness.</p>
+<p>The Jesuits understood the power of voices centuries ago. Their spiritual exercises involve intense meditation designed to produce inner voices and visions. Napoleon called them "a military organization" pursuing "absolute power." The Catholic Confidential documentary reveals their infiltration "cloaked with cunning." The modern V2K weapon is the technological extension of the Jesuit principle: control what a person hears inside their own head, and you control the person.</p>
+<hr>
+<h2 id="what-happened-to-me">What Happened to Me</h2>
+<h3 id="the-first-experiences">The First Experiences</h3>
+<p>The music came first. It was always the same kind — structured, rhythmic, sometimes recognizable melodies and sometimes unfamiliar compositions. It played most clearly in quiet environments, especially at night. The volume varied — sometimes barely perceptible, sometimes loud enough to prevent sleep.</p>
+<p>I am not a person with a history of mental illness. I have no family history of schizophrenia or psychotic disorders. I was in good physical health, eating well, sleeping normally (until the music started), and functioning well in daily life. The music came from nowhere and changed everything.</p>
+<p>The first reaction was denial. I told myself it was tinnitus — a ringing in the ears that can sometimes manifest as musical tones. But tinnitus doesn't play recognizable melodies. It doesn't change songs. It doesn't respond to your attention.</p>
+<p>The second reaction was fear. Am I losing my mind? Is this the beginning of schizophrenia? Am I having a breakdown? The fear was paralyzing, and it isolated me — because who could I tell? The moment you say "I hear music that isn't there," you are one step from a psychiatric diagnosis, medication, and the permanent label of "mentally ill."</p>
+<p>The third reaction — which took months to reach — was research. And research changed everything.</p>
+<h3 id="discovering-v2k">Discovering V2K</h3>
+<p>The term "Voice-to-Skull" (V2K) refers to a category of technologies that can transmit audio signals directly into a person's auditory cortex, bypassing the ears. The technology has been documented in:</p>
+<ul>
+<li><strong>US military patents</strong> (the "Frey effect" or microwave auditory effect, discovered in 1961)</li>
+<li><strong>DARPA research programs</strong></li>
+<li><strong>Declassified military documents</strong></li>
+<li><strong>Scientific publications</strong> on microwave hearing and directed energy</li>
+<li><strong>Testimonies from thousands of targeted individuals</strong> worldwide</li>
+</ul>
+<p>The microwave auditory effect — discovered by Allan Frey in 1961 — demonstrated that pulsed microwave radiation can produce audible clicks, tones, and even speech perceived inside the head. The effect is real, reproducible, and well-documented in the scientific literature.</p>
+<p>The military applications were immediately recognized. A weapon that can put voices in someone's head — without any external evidence of its use — is the ultimate psychological weapon. It can:</p>
+<ul>
+<li><strong>Induce auditory hallucinations</strong> that mimic mental illness</li>
+<li><strong>Transmit commands</strong> that the target believes are their own thoughts</li>
+<li><strong>Prevent sleep</strong> through continuous audio transmission</li>
+<li><strong>Create paranoia</strong> by making the target believe they are being watched or followed</li>
+<li><strong>Discredit the target</strong> — anyone who reports hearing voices is assumed to be mentally ill</li>
+</ul>
+<h3 id="the-pattern-of-targeting">The Pattern of Targeting</h3>
+<p>As I researched, I discovered that my experience was not unique. Thousands of people worldwide report remarkably similar experiences:</p>
+<ul>
+<li><strong>Sudden onset</strong> of unexplained audio (music, voices, buzzing, clicking)</li>
+<li><strong>No prior history</strong> of mental illness</li>
+<li><strong>Technology-consistent patterns</strong> — the audio responds to shielding attempts, varies with location, and shows characteristics consistent with electromagnetic transmission</li>
+<li><strong>Accompanying symptoms</strong> — headaches, sleep disruption, tinnitus-like tones, concentration difficulty</li>
+<li><strong>Social isolation</strong> — targets quickly learn that reporting their experience leads to psychiatric evaluation and social ostracism</li>
+<li><strong>Gaslighting</strong> — when targets seek help, they are told their experience is not real</li>
+</ul>
+<h2 id="the-technology-behind-v2k">The Technology Behind V2K</h2>
+<h3 id="the-microwave-auditory-effect">The Microwave Auditory Effect</h3>
+<p>Allan Frey's 1961 discovery demonstrated that pulsed microwave radiation at frequencies between 200 MHz and 3 GHz can produce the perception of sound inside the head. The mechanism involves:</p>
+<ol>
+<li>Pulsed microwave energy is directed at the target's head</li>
+<li>The microwaves cause thermoelastic expansion of brain tissue</li>
+<li>This expansion generates pressure waves in the skull</li>
+<li>The pressure waves are detected by the cochlea (inner ear) as sound</li>
+<li>The brain processes these signals as audio</li>
+</ol>
+<p>This is not a theory — it is established physics, documented in peer-reviewed journals and confirmed by multiple independent researchers. The US military has acknowledged the effect and has invested in weaponizing it.</p>
+<h3 id="beyond-the-frey-effect">Beyond the Frey Effect</h3>
+<p>The basic Frey effect produces simple sounds — clicks and buzzing. But more advanced research has explored the transmission of complex audio, including speech:</p>
+<ul>
+<li><strong>US Patent 4,877,027</strong> (1989): "Hearing System" — a device that converts speech into microwave signals perceived as sound by the target</li>
+<li><strong>US Patent 6,587,729</strong> (2003): "Apparatus for Audibly Communicating Speech Using the Radio Frequency Hearing Effect"</li>
+<li><strong>US Patent 6,470,214</strong> (2002): "Method and device for implementing the radio frequency hearing effect"</li>
+</ul>
+<p>These patents are public. They describe working devices. They confirm that the technology to transmit voices directly into a person's brain exists, has been developed, and has been patented.</p>
+<h3 id="the-military-applications">The Military Applications</h3>
+<p>The US military has developed V2K technology under various classified programs:</p>
+<ul>
+<li><strong>MEDUSA</strong> (Mob Excess Deterrent Using Silent Audio): A crowd control weapon designed to transmit discomforting audio into targets' heads</li>
+<li><strong>Voice of God Weapon</strong>: A psychological operations weapon designed to transmit commands perceived as divine intervention</li>
+<li><strong>Various classified programs</strong> at DARPA, the Air Force Research Laboratory, and other military research facilities</li>
+</ul>
+<p>The existence of these programs is documented in declassified records, budget documents, and the testimony of military and intelligence whistleblowers.</p>
+<h2 id="the-spiritual-dimension">The Spiritual Dimension</h2>
+<h3 id="voices-from-the-second-heaven">Voices from the Second Heaven</h3>
+<p>Howard Pittman was shown that the second heaven — the spiritual realm between the atmospheric heaven and God's throne — is inhabited by demonic entities organized in hierarchies. These entities have the ability to influence human thoughts and perceptions.</p>
+<p>The V2K technology creates a disturbing parallel to spiritual voice-hearing. If demonic entities can put thoughts and impressions into human minds (as Scripture and spiritual experience consistently testify), and if technology can also put voices into human minds, how does the target distinguish between the two?</p>
+<p>This confusion is by design. V2K technology blurs the boundary between the technological and the spiritual, making it impossible for the target to determine the source of the voices they hear. This confusion serves both the military operators (who want deniability) and the demonic forces (who want to be mistaken for technology or mental illness).</p>
+<h3 id="the-975-connection">The 97.5% Connection</h3>
+<p>Pittman's statistic — 97.5% of Christians failing — takes on new meaning in the context of V2K. If technology can transmit voices that sound like God, demons, or the target's own thoughts, then the ability to discern the Spirit's voice becomes critically important. The 95% who serve "self" are the easiest targets — they have never developed spiritual discernment, never learned to distinguish God's voice from other voices, and never built the spiritual armor described in Ephesians 6.</p>
+<p>V2K technology is a weapon against spiritual discernment itself. By flooding the target's mind with artificial voices, it drowns out the still, small voice of the Holy Spirit and replaces divine guidance with military programming.</p>
+<h2 id="what-comes-next">What Comes Next</h2>
+<p>This is Part 1 of an 11-part series investigating V2K technology, its history, its deployment, and its spiritual implications. In the parts that follow, we will examine:</p>
+<ul>
+<li>The military history of the Voice of God weapon</li>
+<li>The lies and myths surrounding V2K</li>
+<li>Who is actually putting voices in people's heads</li>
+<li>The targeting of my own grandmother</li>
+<li>The schizophrenia psyop</li>
+<li>The alien/UFO psyop connection</li>
+<li>The history of secret microchipping</li>
+<li>Cell towers and the NIH contract</li>
+<li>Voice-to-skull patents</li>
+<li>The food supply connection</li>
+</ul>
+<p>If you are experiencing V2K, you are not crazy. You are not alone. And the technology is real.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — V2K research and targeted individual documentation</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — spiritual voices and the three heavens</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit control of inner experience</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Allan Frey, "Human Auditory System Response to Modulated Electromagnetic Energy" (1962)</li>
+<li>US Patents 4,877,027 / 6,587,729 / 6,470,214</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/65-Smart_Dust.mp4">Smart Dust</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/voice-god-weapon-audio-part2/?lang=en">VOICE OF GOD WEAPON: Audio Hallucinations as Military Technology Part 2</a></li>
+<li><a href="/v2k-lies-myths-part3/?lang=en">V2K: The Lies, Myths, and Misunderstandings Part 3</a></li>
+<li><a href="/schizophrenia-mental-illness-psyop-part6/?lang=en">Schizophrenia: The Mental Illness PSYOP Part 6</a></li>
+</ul>
+<p><em>The music in my head was not a hallucination. It was a weapon. And the weapon is pointed at millions of people who will never know what hit them — because the moment they speak up, they are labeled insane. This series is for them. You are not crazy. The technology is real. And the truth will set you free.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"My V2K Story: Hearing Music That Isn't There Part 1"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"A firsthand account of experiencing V2K technology — hearing music and voices with no external source. This is the beginning of an 11-part investigation."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-07T10:00:00Z","children":"December 7, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","V2K",{"href":"/en/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","voice-to-skull",{"href":"/en/tag/voice-to-skull/","className":"tag-pill","children":["#","voice-to-skull"]}],["$","a","directed-energy",{"href":"/en/tag/directed-energy/","className":"tag-pill","children":["#","directed-energy"]}],["$","a","targeted-individuals",{"href":"/en/tag/targeted-individuals/","className":"tag-pill","children":["#","targeted-individuals"]}],["$","a","electronic-harassment",{"href":"/en/tag/electronic-harassment/","className":"tag-pill","children":["#","electronic-harassment"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/v2k-hearing-music-part1/","title":"My V2K Story: Hearing Music That Isn't There Part 1"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/v2k-hearing-music-part1/","title":"My V2K Story: Hearing Music That Isn't There Part 1"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"My V2K Story: Hearing Music That Isn't There Part 1 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"A firsthand account of experiencing V2K technology — hearing music and voices with no external source. This is the beginning of an 11-part investigation."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"V2K, voice-to-skull, directed-energy, targeted-individuals, electronic-harassment"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/v2k-hearing-music-part1/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/v2k-hearing-music-part1/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/v2k-hearing-music-part1/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/v2k-hearing-music-part1/"}],["$","meta","10",{"property":"og:title","content":"My V2K Story: Hearing Music That Isn't There Part 1"}],["$","meta","11",{"property":"og:description","content":"A firsthand account of experiencing V2K technology — hearing music and voices with no external source. This is the beginning of an 11-part investigation."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/v2k-hearing-music-part1/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/v2k-hearing-music-part1.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"My V2K Story: Hearing Music That Isn't There Part 1"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"My V2K Story: Hearing Music That Isn't There Part 1"}],["$","meta","25",{"name":"twitter:description","content":"A firsthand account of experiencing V2K technology — hearing music and voices with no external source. This is the beginning of an 11-part investigation."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/v2k-hearing-music-part1.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

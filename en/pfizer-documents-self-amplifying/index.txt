@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","pfizer-documents-self-amplifying",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","pfizer-documents-self-amplifying","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-documents-self-amplifying","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3bb9,<h1 id="pfizer-documents-confirm-covid-19-shots-contained-self-amplifying-mrna">Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Thou shalt not bear false witness against thy neighbour." — Exodus 20:16</p>
+</blockquote>
+<p>The ninth commandment prohibits false testimony. When Pfizer told regulators, healthcare providers, and the public that its COVID-19 product was a conventional mRNA vaccine — a product that would deliver instructions, produce protein, and degrade — it bore testimony about what was in the vial. If that testimony was false — if the product contained self-amplifying components that were not disclosed — then the ninth commandment was violated at civilizational scale. False witness was borne against billions of neighbors who trusted that testimony with their bodies.</p>
+<p>The Hebrew word for witness, <em>ed</em>, carries the weight of covenant. A witness in Israel stood before God as well as before men. To bear false witness was to invoke the curse of the covenant upon oneself. When a pharmaceutical corporation bears false witness about the contents of an injection administered to billions, the covenantal consequences are proportional to the scope of the deception.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> illuminates how truth locked in darkness eventually breaks free. And the ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a> documents the technological signatures that reveal what was truly injected.</p>
+<hr>
+<h2 id="the-documents-what-pfizer-filed">The Documents: What Pfizer Filed</h2>
+<h3 id="the-court-ordered-release">The Court-Ordered Release</h3>
+<p>In January 2022, a federal judge ordered the FDA to release the documents that Pfizer had submitted in support of its COVID-19 vaccine's Emergency Use Authorization — documents that the FDA and Pfizer initially sought to keep sealed for 75 years. The lawsuit, brought by Public Health and Medical Professionals for Transparency (PHMPT), resulted in the rolling release of hundreds of thousands of pages of internal Pfizer documents.</p>
+<p>These documents contain information that Pfizer never voluntarily disclosed to the public — information about adverse events, manufacturing processes, and, critically, the molecular composition of the product.</p>
+<h3 id="patent-filings-and-self-amplifying-language">Patent Filings and Self-Amplifying Language</h3>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> has focused on Pfizer and BioNTech patent filings — documents filed with the United States Patent and Trademark Office (USPTO) and international patent authorities that describe the company's mRNA technology in precise technical language.</p>
+<p>Kingston has identified patent language describing:</p>
+<p><strong>Self-Replicating RNA Elements:</strong> Patent filings describe mRNA constructs capable of "self-replication" — language that is consistent with self-amplifying mRNA technology. The patents describe RNA constructs containing sequences that encode RNA-dependent RNA polymerase (RdRp) activity — the enzyme that copies RNA and is the defining feature of self-amplifying mRNA.</p>
+<p><strong>Alphavirus-Derived Sequences:</strong> Patents describe the use of alphavirus-derived nonstructural protein sequences — the same components used in acknowledged sa-mRNA products like ARCT-154. These sequences form the replicase complex that enables the RNA to copy itself inside human cells.</p>
+<p><strong>Modified Nucleoside Constructs with Replication Capacity:</strong> Patent language describes modified nucleoside RNA (the same N1-methylpseudouridine technology used in Comirnaty) combined with elements that enable RNA amplification — suggesting that the modified mRNA in the commercial product may have self-amplifying properties that were not disclosed.</p>
+<p><strong>Lipid Nanoparticle Formulations Designed for Self-Amplifying Constructs:</strong> Patents describe LNP formulations specifically optimized for the delivery of self-amplifying RNA — formulations that are similar to or identical with the LNP formulations used in the commercial COVID-19 product.</p>
+<h3 id="manufacturing-process-documents">Manufacturing Process Documents</h3>
+<p>Documents related to Pfizer's manufacturing process reveal a detail that has generated significant concern: the transition from <strong>Process 1</strong> to <strong>Process 2</strong> during commercial production.</p>
+<p><strong>Process 1</strong> was used for the clinical trials. It produced mRNA through in vitro transcription using a linear DNA template — a high-fidelity method that produces relatively pure mRNA.</p>
+<p><strong>Process 2</strong> was used for commercial production — the product that was actually injected into billions of people. It used a bacterial plasmid amplification method — growing the DNA template in E. coli bacteria before using it for mRNA transcription. This method is faster and cheaper but introduces the risk of DNA contamination.</p>
+<p>The DNA contamination discovered by Kevin McKernan — including SV40 promoter sequences — came from Process 2. The commercial product was different from the clinical trial product. The public received a product that was never directly tested in the clinical trials as manufactured.</p>
+<p>Kingston has documented that the Process 2 manufacturing method, combined with the patent filings describing self-amplifying constructs, raises the possibility that the commercial product contained self-amplifying elements that were not present in the clinical trial product — or that were present but not disclosed.</p>
+<hr>
+<h2 id="what-self-amplifying-components-would-mean">What Self-Amplifying Components Would Mean</h2>
+<h3 id="if-the-covid-shots-contained-sa-mrna">If the COVID Shots Contained sa-mRNA</h3>
+<p>If Pfizer's COVID-19 product contained self-amplifying mRNA components — even partial or modified versions of sa-mRNA technology — the implications are:</p>
+<p><strong>Billions received self-replicating genetic constructs without consent.</strong> Informed consent requires disclosure of the product's composition and mechanism of action. If the product self-amplifies and this was not disclosed, every injection was administered without valid consent.</p>
+<p><strong>The duration of spike protein production was longer than disclosed.</strong> Pfizer and the CDC told the public that the mRNA would degrade within days. If the product contained self-amplifying components, spike protein production could continue for weeks or months — explaining the documented persistence of spike protein in vaccinated individuals far beyond the expected timeframe.</p>
+<p><strong>The dose experienced was higher than the dose injected.</strong> If the mRNA amplifies, the actual amount of genetic material and protein produced in the body is far greater than the 30 micrograms per dose that was disclosed. The body manufactured additional doses internally.</p>
+<p><strong>Shedding potential was higher than acknowledged.</strong> Self-amplifying constructs produce more protein, which means more potential shedding of spike protein to unvaccinated contacts.</p>
+<p><strong>All adverse events may have been amplified.</strong> Every documented adverse event — myocarditis, thrombosis, neurological damage, cancer, reproductive harm — would be amplified by self-replicating mRNA because the causative agent (spike protein) is produced in greater quantities for longer durations.</p>
+<hr>
+<h2 id="the-historical-precedent-pfizers-record">The Historical Precedent: Pfizer's Record</h2>
+<h3 id="the-23-billion-criminal-settlement">The $2.3 Billion Criminal Settlement</h3>
+<p>In 2009, Pfizer paid $2.3 billion to settle criminal and civil charges — the largest healthcare fraud settlement in U.S. history at that time. The charges included:</p>
+<ul>
+<li>Fraudulent marketing of Bextra (a painkiller) for uses the FDA had specifically declined to approve</li>
+<li>Paying kickbacks to healthcare professionals</li>
+<li>Making false claims about the safety and efficacy of multiple products</li>
+</ul>
+<p>This was not an isolated incident. Pfizer has paid billions in additional settlements for:</p>
+<ul>
+<li>Fraudulent marketing of Lipitor, Zoloft, and other drugs</li>
+<li>Suppression of safety data for Celebrex and Bextra</li>
+<li>Environmental violations</li>
+<li>Foreign bribery</li>
+</ul>
+<p>A corporation that has paid billions in fines for lying about its products is now asking the world to trust its testimony about what was in the COVID-19 vials. The ninth commandment weighs heavily.</p>
+<h3 id="the-pattern-of-concealment">The Pattern of Concealment</h3>
+<p>Pfizer's documented pattern involves:</p>
+<ol>
+<li>Making strong safety claims during product launch</li>
+<li>Suppressing or minimizing adverse event data</li>
+<li>Fighting disclosure of internal documents</li>
+<li>Eventually being forced to disclose through litigation</li>
+<li>Paying fines and continuing operations</li>
+</ol>
+<p>The attempt to seal the COVID-19 vaccine documents for 75 years fits this pattern exactly. If the documents contained only evidence of safety and efficacy, there would be no reason to hide them. The request for 75 years of secrecy implies that the documents contain information that would damage the product, the company, or both.</p>
+<hr>
+<h2 id="the-theological-dimension-the-sealed-scroll">The Theological Dimension: The Sealed Scroll</h2>
+<h3 id="the-scroll-that-no-man-could-open">The Scroll That No Man Could Open</h3>
+<p>In Revelation 5, John weeps because "no man was found worthy to open and to read the book, neither to look thereon." The sealed scroll contained the destiny of creation — information too powerful to be accessed without the authority of the Lamb.</p>
+<p>Pfizer's attempt to seal its documents for 75 years is a dark mirror of this pattern — information sealed not by divine authority but by corporate power, not to protect the righteous but to protect the guilty. The documents were unsealed not by the Lamb but by a federal judge. But the principle is the same: sealed documents contain truth that powerful entities do not want revealed.</p>
+<p>The truth in Pfizer's documents — like the truth in the sealed scroll — has consequences. When the seals are broken, what was hidden reshapes the world's understanding of what happened. Billions of people may have received self-replicating genetic constructs without their knowledge or consent. That truth, once unsealed, cannot be resealed.</p>
+<hr>
+<h2 id="what-individuals-should-know">What Individuals Should Know</h2>
+<ol>
+<li><strong>Pfizer's patent filings describe self-amplifying mRNA technology</strong> in language consistent with the COVID-19 product.</li>
+<li><strong>The commercial product (Process 2) was different from the clinical trial product (Process 1).</strong></li>
+<li><strong>DNA contamination in the commercial product</strong> includes SV40 promoter sequences.</li>
+<li><strong>Pfizer attempted to seal these documents for 75 years.</strong> They were released only through court order.</li>
+<li><strong>Pfizer has a $4.7 billion criminal fraud record</strong> and a documented pattern of suppressing safety data.</li>
+<li><strong>The self-amplifying question remains officially unanswered</strong> by regulators — they have neither confirmed nor denied the presence of sa-mRNA components in the commercial product.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of Pfizer patent filings and court-released documents.</li>
+<li>PHMPT v. FDA court filings and released documents</li>
+<li>Pfizer/BioNTech USPTO patent filings</li>
+<li>McKernan, Kevin. DNA contamination analysis</li>
+<li>Pfizer DOJ settlement records (2009)</li>
+<li>Pfizer manufacturing process documentation</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a> — The technological signatures of what was injected</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/61-Synthetic_Biology.mp4">Synthetic Biology</a> — Rewriting life at the genetic level</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The injection program and its hidden components</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> — Truth breaking free from darkness</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> — The genuine replaced by the counterfeit</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/biontech-self-amplifying-mrna/?lang=en">BioNTech Presentations Confirm Self-Amplifying mRNA Technology</a> — BioNTech's own sa-mRNA revelations</li>
+<li><a href="/pfizer-sa-mrna-flu-study/?lang=en">What Happened to Participants in Pfizer's sa-mRNA Flu Study</a> — Outcomes of sa-mRNA clinical trials</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=en">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — The complete sa-mRNA explainer</li>
+<li><a href="/cdc-safety-data-mrna-vaccines/?lang=en">Updated CDC Safety Data on COVID-19 mRNA Vaccines</a> — Official safety signal data</li>
+</ul>
+<hr>
+<p><em>The ninth commandment was given on Sinai in fire and smoke. "Thou shalt not bear false witness." Pfizer bore witness to regulators, to doctors, to billions of human beings about what was in its vials. The documents — sealed for 75 years, unsealed by a court — are beginning to reveal the truth of that testimony. If false witness was borne, the God of Sinai has not forgotten. "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap" (Galatians 6:7).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Court-released Pfizer documents and patent filings reveal evidence that COVID-19 mRNA shots contained self-amplifying components that were never disclosed."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-19T10:00:00Z","children":"April 19, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Pfizer",{"href":"/en/tag/Pfizer/","className":"tag-pill","children":["#","Pfizer"]}],["$","a","self-amplifying-mRNA",{"href":"/en/tag/self-amplifying-mRNA/","className":"tag-pill","children":["#","self-amplifying-mRNA"]}],["$","a","COVID-19-vaccines",{"href":"/en/tag/COVID-19-vaccines/","className":"tag-pill","children":["#","COVID-19-vaccines"]}],["$","a","patent-filings",{"href":"/en/tag/patent-filings/","className":"tag-pill","children":["#","patent-filings"]}],["$","a","informed-consent",{"href":"/en/tag/informed-consent/","className":"tag-pill","children":["#","informed-consent"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/pfizer-documents-self-amplifying/","title":"Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/pfizer-documents-self-amplifying/","title":"Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Court-released Pfizer documents and patent filings reveal evidence that COVID-19 mRNA shots contained self-amplifying components that were never disclosed."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Pfizer, self-amplifying-mRNA, COVID-19-vaccines, patent-filings, informed-consent"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/pfizer-documents-self-amplifying/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-documents-self-amplifying/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-documents-self-amplifying/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-documents-self-amplifying/"}],["$","meta","10",{"property":"og:title","content":"Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA"}],["$","meta","11",{"property":"og:description","content":"Court-released Pfizer documents and patent filings reveal evidence that COVID-19 mRNA shots contained self-amplifying components that were never disclosed."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/pfizer-documents-self-amplifying/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-documents-self-amplifying.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA"}],["$","meta","25",{"name":"twitter:description","content":"Court-released Pfizer documents and patent filings reveal evidence that COVID-19 mRNA shots contained self-amplifying components that were never disclosed."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-documents-self-amplifying.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

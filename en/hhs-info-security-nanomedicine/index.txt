@@ -1,0 +1,154 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","hhs-info-security-nanomedicine",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","hhs-info-security-nanomedicine","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","hhs-info-security-nanomedicine","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3b65,<h1 id="hhs-office-of-information-security-and-nanomedicine-connection">HHS Office of Information Security and Nanomedicine Connection</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?" -- Isaiah 29:15</p>
+</blockquote>
+<p>The architects of the nanomedicine surveillance system believed their work would remain hidden inside the bureaucratic machinery of the Department of Health and Human Services. They buried their programs in offices with innocuous names, funded their research through channels that bypass public scrutiny, and connected their nanomedicine platforms to information security infrastructure that was never designed for health -- it was designed for surveillance. But the God who sees in darkness sees their counsel, and what they hid in the deep is being brought to the surface.</p>
+<p>The connection between the HHS Office of Information Security and nanomedicine research programs reveals a disturbing truth: the same department responsible for securing health information is simultaneously developing the technology to harvest biological information directly from inside the human body. The fox is not merely guarding the henhouse. The fox built the henhouse.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> from the Confliction album reminds us, deception operates most effectively within institutions of trust. And as <a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> warns, the most dangerous threat is the one embedded within the system that was supposed to protect you.</p>
+<hr>
+<h2 id="the-hhs-information-architecture">The HHS Information Architecture</h2>
+<h3 id="what-is-the-office-of-information-security">What Is the Office of Information Security?</h3>
+<p>The Department of Health and Human Services (HHS) is the federal department responsible for protecting the health of all Americans and providing essential human services. Within HHS, the Office of Information Security (OIS) is tasked with:</p>
+<ul>
+<li>Protecting the confidentiality, integrity, and availability of HHS information systems</li>
+<li>Developing and implementing cybersecurity policies across HHS agencies</li>
+<li>Managing risk to information technology infrastructure</li>
+<li>Coordinating with other federal agencies on information security matters</li>
+</ul>
+<p>On the surface, this is a standard government IT security function. But the scope of "information" managed by HHS extends far beyond administrative databases and email servers. HHS controls:</p>
+<ul>
+<li>The health records of every American who has interacted with the healthcare system</li>
+<li>Pharmaceutical safety databases (VAERS, the Vaccine Adverse Event Reporting System)</li>
+<li>Clinical trial data for every approved pharmaceutical product</li>
+<li>Genomic databases containing the DNA sequences of millions of individuals</li>
+<li>Biodefense and biosurveillance data</li>
+</ul>
+<p>When this "information security" mandate is connected to nanomedicine -- injectable technology that generates biological data from inside the human body -- the implications transform from administrative to existential.</p>
+<h3 id="the-nanomedicine-connection">The Nanomedicine Connection</h3>
+<p>HHS operates multiple agencies with direct involvement in nanomedicine research and deployment:</p>
+<p><strong>The National Institutes of Health (NIH)</strong></p>
+<p>The NIH, an agency of HHS, is the largest funder of biomedical research in the world. NIH-funded nanotechnology research includes:</p>
+<ul>
+<li>Injectable nanoscale drug delivery systems</li>
+<li>Nanosensor platforms for continuous biological monitoring</li>
+<li>Self-assembling nanostructures for diagnostic and therapeutic applications</li>
+<li>Nanoparticle-based gene delivery systems (the lipid nanoparticle platform used in mRNA vaccines)</li>
+</ul>
+<p>The NIH's National Institute of Biomedical Imaging and Bioengineering (NIBIB) specifically funds research into nanotechnology-based imaging and sensing systems designed to operate inside the human body.</p>
+<p><strong>The Food and Drug Administration (FDA)</strong></p>
+<p>The FDA, another HHS agency, regulates nanotechnology-based medical products. The FDA's Nanotechnology Task Force was established to develop regulatory approaches for nanotechnology products. However, the FDA's regulatory framework has been repeatedly criticized for:</p>
+<ul>
+<li>Failing to require adequate safety testing for nanoscale materials</li>
+<li>Not requiring specific disclosure of nanoparticle components in approved products</li>
+<li>Allowing nanotechnology products to be approved under frameworks designed for conventional pharmaceuticals</li>
+</ul>
+<p><strong>The Biomedical Advanced Research and Development Authority (BARDA)</strong></p>
+<p>BARDA, housed within HHS, funds the development and procurement of medical countermeasures against biological threats. BARDA funded the development of mRNA vaccines through Operation Warp Speed and continues to fund advanced pharmaceutical technologies including nanotechnology platforms.</p>
+<p>The convergence of these agencies -- all under the HHS umbrella, all connected to the Office of Information Security -- creates an institutional pipeline that extends from nanomedicine research (NIH) through regulatory approval (FDA) to procurement and deployment (BARDA), with information management and security (OIS) overseeing the data generated at every stage.</p>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) how the institutional architecture of HHS facilitates the concealment of nanotechnology within pharmaceutical products. Dr. Mihalcea argues that the same agencies responsible for approving and deploying nanotechnology are also responsible for controlling the information about it -- creating an institutional conflict of interest that makes transparency impossible.</p>
+<h2 id="the-data-harvesting-infrastructure">The Data Harvesting Infrastructure</h2>
+<h3 id="from-body-to-database">From Body to Database</h3>
+<p>The nanomedicine systems being developed and deployed through HHS-funded programs are not merely therapeutic. They are informatic. They generate data -- biological data, physiological data, genomic data -- from inside the human body and transmit that data to external systems.</p>
+<p>The data flow architecture looks like this:</p>
+<ol>
+<li><strong>Nanosensors in the body</strong> collect biological data (vital signs, chemical concentrations, neural activity, genetic expression)</li>
+<li><strong>Internal communication systems</strong> (the antenna structures documented in blood samples) transmit this data electromagnetically</li>
+<li><strong>External receivers</strong> (5G infrastructure, IoT devices, dedicated receivers) capture the transmitted data</li>
+<li><strong>Data processing systems</strong> (cloud computing, AI analysis) process the biological data</li>
+<li><strong>Information management systems</strong> (the HHS information security infrastructure) store, secure, and control access to the processed data</li>
+</ol>
+<p>The HHS Office of Information Security sits at the end of this pipeline -- managing the most intimate data ever collected about human beings: real-time biological information harvested from inside the body without the knowledge or consent of the individual.</p>
+<p>This is not health care. This is biological surveillance. And the institution responsible for "protecting" this information is the same institution that authorized its collection.</p>
+<h3 id="hipaa-as-a-shield">HIPAA as a Shield</h3>
+<p>The Health Insurance Portability and Accountability Act (HIPAA) is presented to the public as a privacy protection -- a law that prevents unauthorized access to health information. But in the context of nanomedicine surveillance, HIPAA serves the opposite function: it creates a legal framework that defines who can access biological data collected from inside the body, effectively legalizing the collection while restricting access to authorized parties.</p>
+<p>HIPAA does not prevent the government from collecting your biological data. It defines the terms under which the government can use it. It does not protect you from surveillance. It regulates the surveillance -- giving it legal structure and institutional legitimacy.</p>
+<h2 id="the-prophetic-framework">The Prophetic Framework</h2>
+<h3 id="the-all-seeing-system">The All-Seeing System</h3>
+<p>The surveillance system enabled by nanomedicine represents an attempt to create an all-seeing, all-knowing system -- a technological omniscience that mimics the attributes of God. The system seeks to know what is happening inside every human body at every moment -- vital signs, chemical states, neural activity, location, and behavior.</p>
+<p>This technological omniscience is a counterfeit of God's genuine omniscience. God knows every hair on your head (Matthew 10:30). The HHS nanomedicine system seeks the same granularity of knowledge -- but for purposes of control rather than love.</p>
+<p>The Biometric Beast System described in Revelation 13 -- a system that tracks every individual and controls their economic participation -- requires exactly this level of biological surveillance. The infrastructure being built through HHS-funded nanomedicine programs is the foundation of this system.</p>
+<p>The dome of the firmament contains all of these systems. God placed the dome to define the boundaries of creation. Within these boundaries, the adversary builds his counterfeit systems -- counterfeit omniscience through surveillance, counterfeit omnipresence through the electromagnetic grid, and counterfeit omnipotence through directed energy weapons. But the counterfeit is always less than the original. The system can be built, but it cannot exceed the authority of the One who placed the dome.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>HHS Office of Information Security, organizational documentation and mission statements</p>
+</li>
+<li>
+<p>NIH National Institute of Biomedical Imaging and Bioengineering, nanotechnology research portfolio</p>
+</li>
+<li>
+<p>FDA Nanotechnology Task Force reports and regulatory guidance</p>
+</li>
+<li>
+<p>BARDA, Operation Warp Speed procurement documentation</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, institutional architecture analysis</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/211-Total_Information_Awareness.mp4">Total Information Awareness</a> -- The government's total surveillance ambition</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> -- The biological surveillance infrastructure</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> -- The all-seeing data processing system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/181-Ending_Anonymity.mp4">Ending Anonymity</a> -- The elimination of privacy through technology</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- Deception within trusted institutions</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> -- The threat embedded in the protective system</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/biotech-safety-government-lies/?lang=en">Government Assurances of Biotech Safety Are Worthless</a> -- The institutional failures in biotech regulation</li>
+<li><a href="/cia-intelligence-shadow-government/?lang=en">CIA Insider Kevin Shipp Explains The Shadow Government</a> -- The governance structure behind the surveillance system</li>
+<li><a href="/nanopass-fda-approved-investment/?lang=en">AWZ Capital Intelligence Investment In FDA-Approved NanoPass</a> -- The financial pipeline for nanomedicine deployment</li>
+</ul>
+<hr>
+<p><em>The office tasked with securing health information is connected to the programs that harvest biological data from inside the human body. The department created to protect health is building the infrastructure for biological surveillance. The institution of trust has become the instrument of control. But the God who sees the counsels of the deep -- who knows every hidden connection, every classified program, every bureaucratic concealment -- is not deceived by organizational charts. He sees through the Office of Information Security to the surveillance system it serves. And He will bring every hidden work into judgment, along with every secret thing, whether it is good or whether it is evil.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"HHS Office of Information Security and Nanomedicine Connection"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Exposing the hidden connection between the HHS Office of Information Security and nanomedicine programs that enable internal surveillance through injectable tech."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-18T10:00:00Z","children":"March 18, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","hhs",{"href":"/en/tag/hhs/","className":"tag-pill","children":["#","hhs"]}],["$","a","nanomedicine",{"href":"/en/tag/nanomedicine/","className":"tag-pill","children":["#","nanomedicine"]}],["$","a","information-security",{"href":"/en/tag/information-security/","className":"tag-pill","children":["#","information-security"]}],["$","a","surveillance",{"href":"/en/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}],["$","a","government",{"href":"/en/tag/government/","className":"tag-pill","children":["#","government"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/hhs-info-security-nanomedicine/","title":"HHS Office of Information Security and Nanomedicine Connection"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/hhs-info-security-nanomedicine/","title":"HHS Office of Information Security and Nanomedicine Connection"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"HHS Office of Information Security and Nanomedicine Connection | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Exposing the hidden connection between the HHS Office of Information Security and nanomedicine programs that enable internal surveillance through injectable tech."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"hhs, nanomedicine, information-security, surveillance, government"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/hhs-info-security-nanomedicine/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/hhs-info-security-nanomedicine/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/hhs-info-security-nanomedicine/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/hhs-info-security-nanomedicine/"}],["$","meta","10",{"property":"og:title","content":"HHS Office of Information Security and Nanomedicine Connection"}],["$","meta","11",{"property":"og:description","content":"Exposing the hidden connection between the HHS Office of Information Security and nanomedicine programs that enable internal surveillance through injectable tech."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/hhs-info-security-nanomedicine/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/hhs-info-security-nanomedicine.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"HHS Office of Information Security and Nanomedicine Connection"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"HHS Office of Information Security and Nanomedicine Connection"}],["$","meta","25",{"name":"twitter:description","content":"Exposing the hidden connection between the HHS Office of Information Security and nanomedicine programs that enable internal surveillance through injectable tech."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/hhs-info-security-nanomedicine.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

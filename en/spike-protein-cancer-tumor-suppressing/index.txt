@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","spike-protein-cancer-tumor-suppressing",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","spike-protein-cancer-tumor-suppressing","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","spike-protein-cancer-tumor-suppressing","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4acb,<h1 id="sars-2-spike-protein-weakens-cancer-tumor-suppressing-gene">SARS-2 Spike Protein Weakens Cancer Tumor-Suppressing Gene</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"The thief cometh not, but for to steal, and to kill, and to destroy." — John 10:10</p>
+</blockquote>
+<p>There is a guardian within every cell of the human body. Scientists call it <strong>p53</strong> — the "guardian of the genome." This single protein stands watch over the integrity of your DNA, scanning for mutations, halting the replication of damaged cells, and commanding cells that are beyond repair to destroy themselves before they become cancerous. It is the body's most important defense against the internal corruption that leads to tumor formation. Without p53, the body has no checkpoint — damaged cells replicate unchecked, mutations accumulate, and cancer grows unopposed.</p>
+<p>God designed this guardian. He wrote it into the code of every human cell. It is part of the divine architecture of the temple — the body's internal watchman that prevents corruption from consuming the whole structure.</p>
+<p>Now the thief has come for the guardian. The SARS-CoV-2 spike protein — the same protein that mRNA vaccines instruct human cells to mass-produce — has been documented to weaken, suppress, and functionally disable p53, the guardian of the genome. The implications are staggering: billions of people were injected with instructions to produce a protein that disables their primary cancer defense.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> speaks to this descent — the body marched into a valley of shadow by the very medical system that promised protection. And the ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/107-Stem_Cell_Harvesting.mp4">Stem Cell Harvesting</a> reveals the broader agenda behind the corruption of human biology at its most fundamental level.</p>
+<hr>
+<h2 id="understanding-p53-the-guardian-of-the-genome">Understanding p53: The Guardian of the Genome</h2>
+<h3 id="what-p53-does">What p53 Does</h3>
+<p>The p53 protein, encoded by the TP53 gene, is the single most important tumor suppressor in human biology. It has been called the "guardian of the genome" because of its central role in preventing cancer. Here is what p53 does:</p>
+<ol>
+<li>
+<p><strong>DNA Damage Detection:</strong> When a cell's DNA is damaged — by radiation, chemical exposure, oxidative stress, or replication errors — p53 detects the damage and activates repair mechanisms.</p>
+</li>
+<li>
+<p><strong>Cell Cycle Arrest:</strong> If DNA damage is detected, p53 halts cell division (cell cycle arrest), preventing the damaged cell from replicating and passing its mutations to daughter cells.</p>
+</li>
+<li>
+<p><strong>Apoptosis (Programmed Cell Death):</strong> If the DNA damage is too severe to repair, p53 commands the cell to self-destruct through a process called apoptosis. This sacrificial destruction prevents one damaged cell from becoming a tumor.</p>
+</li>
+<li>
+<p><strong>Senescence:</strong> In some cases, p53 permanently stops damaged cells from dividing (cellular senescence) without killing them, neutralizing their cancer potential.</p>
+</li>
+<li>
+<p><strong>Immune Surveillance:</strong> p53 also plays a role in activating the immune system's ability to identify and destroy pre-cancerous cells.</p>
+</li>
+</ol>
+<p>In summary, p53 is the body's internal quality control system. It inspects every cell, identifies corruption, stops replication of damaged cells, and destroys cells that are beyond repair. Without functional p53, the body has no last line of defense against cancer.</p>
+<h3 id="p53-and-cancer-the-statistics">p53 and Cancer: The Statistics</h3>
+<p>The importance of p53 is not theoretical. It is the most frequently mutated gene in human cancers:</p>
+<ul>
+<li><strong>Over 50% of all human cancers</strong> contain mutations in the TP53 gene</li>
+<li>Cancers with p53 mutations tend to be <strong>more aggressive, more resistant to treatment, and more likely to metastasize</strong></li>
+<li><strong>Li-Fraumeni Syndrome</strong> — a rare genetic condition where individuals inherit a defective TP53 gene — results in an extraordinarily high lifetime cancer risk, with affected individuals developing multiple cancers, often at very young ages</li>
+</ul>
+<p>The correlation is absolute: when p53 is compromised, cancer rates explode.</p>
+<hr>
+<h2 id="how-the-spike-protein-disables-p53">How the Spike Protein Disables p53</h2>
+<h3 id="the-research-evidence">The Research Evidence</h3>
+<p>Multiple peer-reviewed studies have documented the interaction between the SARS-CoV-2 spike protein and p53:</p>
+<p><strong>Direct Binding and Suppression:</strong> Research published in scientific journals has demonstrated that the spike protein of SARS-CoV-2 can bind to the p53 protein and suppress its function. The spike protein's receptor-binding domain (RBD) — the same region that binds to ACE2 receptors on human cells — has structural characteristics that allow it to interact with p53's DNA-binding domain, the very region p53 uses to activate its tumor-suppressing functions.</p>
+<p><strong>Downregulation of p53 Expression:</strong> Studies have shown that the presence of spike protein in cells leads to reduced expression of p53. This means cells exposed to spike protein produce less p53, diminishing the surveillance capacity of the guardian across the board.</p>
+<p><strong>Interference with p53's Downstream Targets:</strong> Even when p53 is present, the spike protein interferes with p53's ability to activate its downstream targets — the genes that p53 switches on to halt cell division, initiate DNA repair, or trigger apoptosis. With its downstream pathways blocked, p53 becomes a guardian that can see the threat but cannot sound the alarm.</p>
+<p><strong>BRCA1 and BRCA2 Interference:</strong> Some research has also indicated that spike protein may interfere with BRCA1 and BRCA2 — two other critical tumor suppressor genes involved in DNA repair. BRCA mutations are famously associated with dramatically increased risks of breast and ovarian cancer. If spike protein compromises both p53 AND BRCA pathways simultaneously, the cancer defense system is attacked on multiple fronts.</p>
+<h3 id="the-mechanism-in-detail">The Mechanism in Detail</h3>
+<p>The molecular mechanism by which spike protein suppresses p53 involves several pathways:</p>
+<ol>
+<li>
+<p><strong>MDM2 Upregulation:</strong> The spike protein has been shown to upregulate MDM2, a protein that is p53's natural inhibitor. MDM2 tags p53 for destruction by the cell's protein recycling machinery (the proteasome). By increasing MDM2 levels, the spike protein accelerates the destruction of p53, leaving cells with less guardian protein to detect and respond to DNA damage.</p>
+</li>
+<li>
+<p><strong>Nuclear Exclusion:</strong> p53 must be in the cell nucleus to function as a transcription factor — to switch on the genes that suppress tumors. Evidence suggests that spike protein signaling can promote the export of p53 from the nucleus to the cytoplasm, where it cannot function. The guardian is physically removed from its post.</p>
+</li>
+<li>
+<p><strong>Competitive Binding:</strong> The spike protein may compete with DNA for binding to p53's DNA-binding domain. If spike protein occupies the binding site that p53 uses to interact with DNA, p53 cannot read the genome and cannot activate its protective programs.</p>
+</li>
+</ol>
+<hr>
+<h2 id="the-mrna-vaccine-connection">The mRNA Vaccine Connection</h2>
+<h3 id="the-body-made-the-weapon">The Body Made the Weapon</h3>
+<p>Here is the connection that the medical establishment has refused to address directly: mRNA COVID-19 vaccines instruct human cells to produce the spike protein. The Pfizer-BioNTech and Moderna products deliver synthetic mRNA that encodes the full-length spike protein (with two proline substitutions to stabilize the prefusion conformation). Human cells read these instructions and manufacture spike protein.</p>
+<p>If the spike protein suppresses p53, then every person who received an mRNA vaccine had their cells produce a protein that disables their primary cancer defense.</p>
+<p>This is not an infection that resolves. Natural SARS-CoV-2 infection is transient — the immune system eventually clears the virus and spike protein production stops. But mRNA vaccines were designed to maximize and extend spike protein production. Modified nucleosides (N1-methylpseudouridine) were incorporated into the mRNA to prevent the immune system from destroying it prematurely and to enhance translation — meaning MORE spike protein produced for LONGER.</p>
+<p>Studies have detected spike protein in the blood of vaccinated individuals months after injection. Some have detected it more than a year later. For every day that spike protein circulates, p53 function is suppressed, and the cancer surveillance system is degraded.</p>
+<hr>
+<h2 id="the-kingston-report-connecting-the-dots">The Kingston Report: Connecting the Dots</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> connects the spike protein's p53 suppression to the broader pattern of vaccine-associated cancers.</p>
+<h3 id="the-turbo-cancer-phenomenon">The Turbo Cancer Phenomenon</h3>
+<p>Kingston has documented the unprecedented rise of what oncologists are informally calling "turbo cancers" — aggressive, fast-growing, treatment-resistant cancers appearing in previously healthy individuals, often at young ages, following COVID-19 vaccination. The characteristics of these cancers are consistent with p53 pathway disruption:</p>
+<ul>
+<li><strong>Rapid growth:</strong> Without p53 to halt the cell cycle, cancerous cells divide unchecked</li>
+<li><strong>Treatment resistance:</strong> p53 is required for the effectiveness of many chemotherapy drugs, which work by triggering p53-dependent apoptosis. If p53 is suppressed, chemotherapy loses a primary mechanism of action</li>
+<li><strong>Multiple primary cancers:</strong> Some vaccinated individuals are developing multiple unrelated cancers simultaneously — a pattern seen in Li-Fraumeni Syndrome, where inherited p53 deficiency leads to multiple cancers across different tissue types</li>
+<li><strong>Young patient demographics:</strong> Cancers that typically appear in the elderly are appearing in individuals in their 20s, 30s, and 40s — consistent with a sudden, acquired loss of tumor suppression</li>
+</ul>
+<h3 id="the-dose-response-question">The Dose-Response Question</h3>
+<p>Kingston's analysis also raises the dose-response question: individuals who received multiple mRNA injections (initial series plus boosters) received multiple rounds of spike protein production instructions. Each round extends the duration of spike protein presence in the body and, consequently, the duration of p53 suppression.</p>
+<p>If a single dose suppresses p53 for weeks or months, what does five or six doses do? The cumulative effect of repeated p53 suppression — repeated removal of the guardian from its post — has never been studied. The clinical trial designs never examined cancer as an outcome. The trials were too short, the endpoints too narrow, and the population too young and healthy at baseline to detect a cancer signal.</p>
+<hr>
+<h2 id="the-biblical-dimension-corruption-of-the-temple">The Biblical Dimension: Corruption of the Temple</h2>
+<blockquote>
+<p>"If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are." — 1 Corinthians 3:17</p>
+</blockquote>
+<p>The p53 protein is part of the temple's architecture. It is one of the internal guardians that God designed to protect the body from corruption — a molecular expression of divine providence operating at the cellular level. When the spike protein disables p53, it is disabling a guardian that God placed within the temple.</p>
+<p>This echoes the prophecy of Revelation 18:23: "For by thy pharmakeia were all nations deceived." The Greek word <em>pharmakeia</em> — sorcery through drugs — describes a deception accomplished through medical means. Injecting billions of people with instructions to produce a protein that disables their cancer defense is pharmakeia at civilizational scale.</p>
+<p>The corruption of p53 also echoes the Genesis 6 pattern. The Nephilim incursion corrupted human flesh from without — foreign genetic material introduced into the human bloodline, producing hybrid offspring that were "mighty men of old, men of renown" but were not fully human. The spike protein corrupts human cellular function from within — a foreign protein produced by human cells that disables the internal guardian, opening the door for unchecked cellular corruption.</p>
+<p>As Leviticus 17:11 declares: "For the life of the flesh is in the blood." The blood, the cells, the genome — these carry the life that God breathed into humanity. When a protein circulating in the blood suppresses the guardian of the genome, the life of the flesh is under assault at the most fundamental level.</p>
+<hr>
+<h2 id="what-this-means-for-the-vaccinated">What This Means for the Vaccinated</h2>
+<h3 id="the-scale-of-the-problem">The Scale of the Problem</h3>
+<p>Approximately 5.56 billion people worldwide received at least one dose of a COVID-19 vaccine. The majority of these were mRNA-based products (Pfizer-BioNTech or Moderna) or adenoviral vector products (AstraZeneca, Johnson &#x26; Johnson) that also produce spike protein. This means that a significant portion of the world's population had their cells produce a protein that suppresses p53.</p>
+<h3 id="the-time-dimension">The Time Dimension</h3>
+<p>Cancer is not immediate. The progression from p53 suppression to clinical cancer involves:</p>
+<ol>
+<li><strong>DNA damage accumulates</strong> because the checkpoint is disabled</li>
+<li><strong>Pre-cancerous cells multiply</strong> because apoptosis is not triggered</li>
+<li><strong>Mutations compound</strong> through successive cell divisions without quality control</li>
+<li><strong>A clinical tumor forms</strong> once enough mutations accumulate in the right combination</li>
+</ol>
+<p>This process can take months to years. The turbo cancers appearing now may represent the leading edge of a much larger wave — the fastest-growing tumors in the most vulnerable individuals. A broader wave of cancers may follow in the years ahead as accumulated DNA damage in millions of people manifests clinically.</p>
+<h3 id="the-need-for-monitoring-and-intervention">The Need for Monitoring and Intervention</h3>
+<p>Individuals who received mRNA vaccines should:</p>
+<ol>
+<li><strong>Be aware of the p53 connection</strong> and discuss it with healthcare providers</li>
+<li><strong>Monitor for cancer symptoms</strong> with increased vigilance</li>
+<li><strong>Pursue protocols that support p53 function</strong> — certain nutrients, including zinc, selenium, and compounds found in cruciferous vegetables (sulforaphane), have been shown to support p53 activity</li>
+<li><strong>Avoid additional spike protein exposure</strong> from further mRNA injections or boosters</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Documentation of spike protein mechanisms and vaccine-associated cancers.</li>
+<li>Published research on SARS-CoV-2 spike protein interaction with p53 pathway</li>
+<li>TP53 mutation databases (IARC TP53 Database)</li>
+<li>Li-Fraumeni Syndrome research literature</li>
+<li>Pfizer-BioNTech mRNA vaccine design documentation</li>
+<li>VAERS and international adverse event reporting data</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/107-Stem_Cell_Harvesting.mp4">Stem Cell Harvesting</a> — The broader agenda behind the corruption of human biology</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> — How disease and its "solutions" are engineered together</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/61-Synthetic_Biology.mp4">Synthetic Biology</a> — The rewriting of life at the molecular level</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> — Walking through the shadow that the medical system created</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> — The foreign agent operating inside the body's own cells</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/ai-mrna-vaccines-turbo-cancers/?lang=en">Why AI-Designed mRNA Vaccines Cause Turbo Cancers</a> — The AI optimization of cancer-causing mRNA constructs</li>
+<li><a href="/cdc-advisors-covid-shots-cancer/?lang=en">CDC Advisors Disclose Links Between COVID-19 Shots and Cancer</a> — Official acknowledgment of the vaccine-cancer connection</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=en">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — How sa-mRNA extends spike protein production indefinitely</li>
+<li><a href="/natural-immunity-god-given-design/?lang=en">Natural Immunity: God's Given Design</a> — The immune system as divine architecture</li>
+</ul>
+<hr>
+<p><em>The guardian of the genome was placed there by the same God who placed the cherubim at the gate of Eden — to protect, to watch, to prevent corruption from entering the holy place. The spike protein disables this guardian, leaving the temple undefended. But the God who designed p53 is not surprised by its suppression. He is the Guardian who never sleeps, and His restoration is more powerful than any corruption. "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake" (Psalm 23:3).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"SARS-2 Spike Protein Weakens Cancer Tumor-Suppressing Gene"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"How the SARS-CoV-2 spike protein compromises the p53 tumor suppressor gene, opening the door to accelerated cancer development and turbo cancers."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-11T10:00:00Z","children":"April 11, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","spike-protein",{"href":"/en/tag/spike-protein/","className":"tag-pill","children":["#","spike-protein"]}],["$","a","cancer",{"href":"/en/tag/cancer/","className":"tag-pill","children":["#","cancer"]}],["$","a","p53",{"href":"/en/tag/p53/","className":"tag-pill","children":["#","p53"]}],["$","a","tumor-suppressor",{"href":"/en/tag/tumor-suppressor/","className":"tag-pill","children":["#","tumor-suppressor"]}],["$","a","turbo-cancer",{"href":"/en/tag/turbo-cancer/","className":"tag-pill","children":["#","turbo-cancer"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/spike-protein-cancer-tumor-suppressing/","title":"SARS-2 Spike Protein Weakens Cancer Tumor-Suppressing Gene"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/spike-protein-cancer-tumor-suppressing/","title":"SARS-2 Spike Protein Weakens Cancer Tumor-Suppressing Gene"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"SARS-2 Spike Protein Weakens Cancer Tumor-Suppressing Gene | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"How the SARS-CoV-2 spike protein compromises the p53 tumor suppressor gene, opening the door to accelerated cancer development and turbo cancers."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"spike-protein, cancer, p53, tumor-suppressor, turbo-cancer"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/spike-protein-cancer-tumor-suppressing/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/spike-protein-cancer-tumor-suppressing/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/spike-protein-cancer-tumor-suppressing/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/spike-protein-cancer-tumor-suppressing/"}],["$","meta","10",{"property":"og:title","content":"SARS-2 Spike Protein Weakens Cancer Tumor-Suppressing Gene"}],["$","meta","11",{"property":"og:description","content":"How the SARS-CoV-2 spike protein compromises the p53 tumor suppressor gene, opening the door to accelerated cancer development and turbo cancers."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/spike-protein-cancer-tumor-suppressing/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/spike-protein-cancer-tumor-suppressing.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"SARS-2 Spike Protein Weakens Cancer Tumor-Suppressing Gene"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"SARS-2 Spike Protein Weakens Cancer Tumor-Suppressing Gene"}],["$","meta","25",{"name":"twitter:description","content":"How the SARS-CoV-2 spike protein compromises the p53 tumor suppressor gene, opening the door to accelerated cancer development and turbo cancers."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/spike-protein-cancer-tumor-suppressing.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

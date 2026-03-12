@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","biotech-safety-government-lies",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","biotech-safety-government-lies","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","biotech-safety-government-lies","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3de5,<h1 id="government-assurances-of-biotech-safety-are-worthless">Government Assurances of Biotech Safety Are Worthless</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Put not your trust in princes, nor in the son of man, in whom there is no help." -- Psalm 146:3</p>
+</blockquote>
+<p>The psalmist's warning is not merely spiritual counsel -- it is practical wisdom drawn from millennia of observing the behavior of earthly rulers. Princes lie. Governments deceive. Institutions of authority consistently prioritize their own survival, their own funding, and their own agendas over the welfare of the people they claim to serve. This is not cynicism. It is documented history.</p>
+<p>Every generation is told that the current biotechnology is safe. Every generation discovers, too late, that the assurances were false. From DDT to thalidomide, from Agent Orange to Vioxx, from SV40-contaminated polio vaccines to mRNA nanotechnology, the pattern is unbroken: government declares safety, population accepts, damage occurs, truth emerges decades later, and no one is held accountable.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> from the Confliction album declares, the father of lies operates through systems of institutional authority. And as <a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a> warns, the curse that enters through deception compounds through generations.</p>
+<hr>
+<h2 id="the-historical-record">The Historical Record</h2>
+<h3 id="ddt-safe-as-your-kitchen-table">DDT: "Safe As Your Kitchen Table"</h3>
+<p>In the 1940s and 1950s, the United States government and the chemical industry aggressively promoted DDT as safe for human contact. Government-produced films showed children being directly sprayed with DDT. Advertisements featured smiling housewives applying DDT in kitchens. The USDA declared DDT safe for agricultural use on food crops.</p>
+<p>By the 1960s, evidence of DDT's devastating effects was undeniable: cancer, reproductive failure, endocrine disruption, and ecological destruction. Rachel Carson's "Silent Spring" (1962) documented the damage. DDT was banned in the United States in 1972 -- nearly three decades after government agencies declared it safe.</p>
+<p>The pattern: government declares safety. Population accepts. Damage occurs. Truth emerges decades later. No one is held accountable.</p>
+<h3 id="thalidomide-safe-for-morning-sickness">Thalidomide: "Safe For Morning Sickness"</h3>
+<p>In the late 1950s, thalidomide was prescribed to pregnant women for morning sickness, approved by regulatory agencies in multiple countries as safe. By 1961, thousands of children had been born with severe birth defects -- missing limbs, malformed organs, and neurological damage. Over 10,000 children were affected worldwide.</p>
+<p>The FDA's refusal to approve thalidomide in the United States (thanks to the persistence of FDA reviewer Frances Kelsey) is held up as a success story. But the broader lesson is that regulatory agencies in multiple countries approved a product that caused devastating birth defects -- and would have continued approving it had the damage not been so visually undeniable.</p>
+<h3 id="agent-orange-safe-for-military-use">Agent Orange: "Safe For Military Use"</h3>
+<p>During the Vietnam War, the U.S. military sprayed approximately 20 million gallons of Agent Orange -- a herbicide containing the toxic contaminant dioxin -- over Vietnam. Government assurances that Agent Orange was safe for military personnel were unequivocal. Soldiers were told they could handle the chemical without protective equipment.</p>
+<p>Decades later, Agent Orange has been linked to cancer, diabetes, birth defects, and neurological disorders in both American veterans and Vietnamese civilians. The VA now recognizes over 14 diseases as Agent Orange-related conditions. Millions of people were exposed based on government assurances of safety.</p>
+<h3 id="vioxx-safe-for-pain-management">Vioxx: "Safe For Pain Management"</h3>
+<p>In 1999, Merck's Vioxx (rofecoxib) was approved by the FDA as a safe anti-inflammatory medication. Internal Merck documents, later revealed in litigation, showed that the company knew of cardiovascular risks before approval but concealed the data. The FDA approved the product and maintained its safety classification for five years.</p>
+<p>By the time Vioxx was withdrawn in 2004, an estimated 60,000 Americans had died from Vioxx-related heart attacks and strokes. The FDA's own safety reviewer, Dr. David Graham, testified before Congress that the FDA was "incapable of protecting America" against unsafe drugs.</p>
+<h3 id="the-sv40-polio-vaccine-contamination">The SV40 Polio Vaccine Contamination</h3>
+<p>As documented in our article on SV40, between 1955 and 1963, millions of Americans received polio vaccines contaminated with SV40 -- a cancer-causing monkey virus. The government knew about the contamination by 1960 but took no public action. No recall was issued. No notification was made. The contaminated vaccines continued to be administered for three additional years.</p>
+<p>Government assurance of safety: absolute. Actual safety: cancer-causing virus injected into millions.</p>
+<h2 id="the-covid-19-mrna-products">The COVID-19 mRNA Products</h2>
+<h3 id="the-safety-narrative">The Safety Narrative</h3>
+<p>The COVID-19 mRNA vaccines were declared "safe and effective" with an intensity and uniformity of messaging unprecedented in pharmaceutical history. Government agencies, media organizations, technology platforms, and healthcare institutions spoke with one voice: the vaccines were safe, side effects were mild and temporary, and anyone questioning the safety was spreading "misinformation."</p>
+<p>The reality documented by researchers including Ana Mihalcea, MD, PhD (anamihalceamdphd.substack.com) stands in stark contrast to the safety narrative:</p>
+<ul>
+<li><strong>Self-assembling nanotechnology</strong> found in vaccine vials and human blood -- undisclosed, untested, unapproved</li>
+<li><strong>SV40 cancer-causing DNA</strong> found in vaccine products -- undisclosed, exceeding regulatory limits by orders of magnitude</li>
+<li><strong>Massive adverse event signals</strong> in VAERS, the Yellow Card system, and other reporting databases -- dismissed, minimized, or attributed to other causes</li>
+<li><strong>Excess mortality</strong> in highly vaccinated populations -- unexplained, uninvestigated, and unacknowledged by health authorities</li>
+<li><strong>Cardiac events, neurological damage, cancer acceleration</strong> -- documented by thousands of clinicians but denied by the agencies that approved the products</li>
+</ul>
+<p>The government assurance of safety for mRNA products follows the identical pattern established by DDT, thalidomide, Agent Orange, Vioxx, and SV40-contaminated polio vaccines. The assurance is emphatic. The evidence of harm is suppressed. The damage accumulates. And the truth will emerge -- not because institutions choose transparency, but because the harm becomes undeniable.</p>
+<h3 id="regulatory-capture">Regulatory Capture</h3>
+<p>The reason government safety assurances are worthless is structural: the regulatory agencies responsible for evaluating safety are captured by the industries they regulate.</p>
+<ul>
+<li><strong>The FDA</strong> receives approximately 45% of its budget from pharmaceutical industry user fees. The industry funds the agency that regulates it.</li>
+<li><strong>CDC advisory committee members</strong> have documented financial conflicts of interest with vaccine manufacturers. The individuals who recommend vaccine adoption have financial relationships with the companies that produce them.</li>
+<li><strong>The revolving door</strong> between regulatory agencies and pharmaceutical companies means that the officials evaluating drug safety today are the industry executives of tomorrow (and vice versa).</li>
+<li><strong>Classification and national security authorities</strong> shield pharmaceutical products developed under military contracts from normal regulatory scrutiny. Products deployed under Emergency Use Authorization bypass standard safety testing.</li>
+</ul>
+<p>Regulatory capture means that the agencies exist to serve the industry, not the public. Their safety assurances reflect the interests of the regulated, not the regulators. And the public, trusting these institutions, accepts products that the institutions have been paid to approve.</p>
+<h2 id="the-spiritual-dimension">The Spiritual Dimension</h2>
+<h3 id="pharmakeia-the-ancient-warning">Pharmakeia: The Ancient Warning</h3>
+<p>Revelation 18:23 warns that "by your pharmakeia all nations were deceived." The Greek word pharmakeia -- from which we derive "pharmacy" -- means sorcery or witchcraft practiced through drugs and potions. The biblical warning is specific: pharmaceutical deception will be the mechanism through which all nations are led astray.</p>
+<p>This prophecy has been fulfilled with devastating precision. All nations -- every country on earth -- participated in the COVID-19 vaccination campaign. All nations accepted the safety assurances of pharmaceutical companies and regulatory agencies. All nations administered products containing undisclosed nanotechnology to their populations. The deception was pharmaceutical. The scope was global. The prophecy was exact.</p>
+<p>The pattern of government safety lies documented in this article is not merely institutional corruption. It is the operational mechanism of the pharmakeia prophecy. The system of pharmaceutical deception described in Revelation operates through the same institutions, the same regulatory frameworks, and the same trust relationships that have produced every safety failure documented above.</p>
+<h3 id="the-blood-covenant-under-assault">The Blood Covenant Under Assault</h3>
+<p>Each of the safety failures documented in this article involved the introduction of harmful substances into the human body -- into the blood, into the tissue, into the DNA. The consistent target is the human body itself: the temple of the Holy Spirit, the dwelling place of God's breath, the covenant vessel.</p>
+<p>The government assurances of safety are the packaging around the assault. They are the mechanism of consent -- the words that cause people to willingly present their arms for injection, willingly consume contaminated products, willingly expose themselves to toxic chemicals. The lies are not incidental to the harm. They are the delivery mechanism for the harm.</p>
+<p>The blood covenant between God and humanity is under systematic assault through pharmaceutical sorcery, and government safety assurances are the shield behind which this assault is conducted.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>Carson, R., "Silent Spring," Houghton Mifflin, 1962</p>
+</li>
+<li>
+<p>Stellman, J.M., et al., "The extent and patterns of usage of Agent Orange and other herbicides in Vietnam," Nature, 2003</p>
+</li>
+<li>
+<p>Graham, D.J., FDA testimony before Senate Finance Committee on Vioxx, 2004</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, regulatory analysis</p>
+</li>
+<li>
+<p>Various VAERS, EudraVigilance, and Yellow Card adverse event reports</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> -- The pharmaceutical platform of the Beast system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/165-Event_201_Came_True.mp4">Event 201 Came True</a> -- The pre-planned pandemic response</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> -- The coordinated global response</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/171-Great_Reset_Rising.mp4">Great Reset Rising</a> -- The agenda behind the safety narrative</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- Institutional deception as a system</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a> -- The curse compounding through generations</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/victory-future-generation/?lang=en">Victory For Our Future Generation Against Medical Tyranny</a> -- Fighting back against pharmaceutical tyranny</li>
+<li><a href="/swiss-criminal-complaint-authorities/?lang=en">Swiss Scientists File Criminal Complaint Against Authorities Over mRNA</a> -- Legal accountability for safety failures</li>
+<li><a href="/mrna-bioweapons-prohibition/?lang=en">The mRNA Bioweapons Prohibition Case</a> -- Classifying mRNA products as bioweapons</li>
+</ul>
+<hr>
+<p><em>DDT was safe. Thalidomide was safe. Agent Orange was safe. Vioxx was safe. SV40-contaminated polio vaccines were safe. And mRNA nanotechnology is safe. The pattern is unbroken, the lies are consistent, and the damage is cumulative. Put not your trust in princes. Put not your trust in regulatory agencies. Put not your trust in pharmaceutical companies that fund the agencies that approve their products. Trust instead in the God who cannot lie, whose Word endures forever, and whose warning about pharmakeia was given two thousand years before the syringe was invented -- because He knew exactly what was coming and exactly who would be deceived.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Government Assurances of Biotech Safety Are Worthless"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"A documented history proving that government assurances about biotechnology safety are systematically false, from DDT to mRNA nanotechnology deployment."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-19T10:00:00Z","children":"March 19, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","government-lies",{"href":"/en/tag/government-lies/","className":"tag-pill","children":["#","government-lies"]}],["$","a","biotech-safety",{"href":"/en/tag/biotech-safety/","className":"tag-pill","children":["#","biotech-safety"]}],["$","a","regulatory-capture",{"href":"/en/tag/regulatory-capture/","className":"tag-pill","children":["#","regulatory-capture"]}],["$","a","vaccines",{"href":"/en/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","history",{"href":"/en/tag/history/","className":"tag-pill","children":["#","history"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/biotech-safety-government-lies/","title":"Government Assurances of Biotech Safety Are Worthless"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/biotech-safety-government-lies/","title":"Government Assurances of Biotech Safety Are Worthless"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Government Assurances of Biotech Safety Are Worthless | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"A documented history proving that government assurances about biotechnology safety are systematically false, from DDT to mRNA nanotechnology deployment."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"government-lies, biotech-safety, regulatory-capture, vaccines, history"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/biotech-safety-government-lies/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/biotech-safety-government-lies/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/biotech-safety-government-lies/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/biotech-safety-government-lies/"}],["$","meta","10",{"property":"og:title","content":"Government Assurances of Biotech Safety Are Worthless"}],["$","meta","11",{"property":"og:description","content":"A documented history proving that government assurances about biotechnology safety are systematically false, from DDT to mRNA nanotechnology deployment."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/biotech-safety-government-lies/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/biotech-safety-government-lies.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Government Assurances of Biotech Safety Are Worthless"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Government Assurances of Biotech Safety Are Worthless"}],["$","meta","25",{"name":"twitter:description","content":"A documented history proving that government assurances about biotechnology safety are systematically false, from DDT to mRNA nanotechnology deployment."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/biotech-safety-government-lies.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

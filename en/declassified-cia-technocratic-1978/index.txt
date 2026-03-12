@@ -1,0 +1,167 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","declassified-cia-technocratic-1978",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","declassified-cia-technocratic-1978","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","declassified-cia-technocratic-1978","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3946,<h1 id="declassified-technocratic-cia-document-from-1978">Declassified Technocratic CIA Document From 1978</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Come, let us build ourselves a city, and a tower whose top is in the heavens; let us make a name for ourselves." -- Genesis 11:4</p>
+</blockquote>
+<p>The builders of Babel were technocrats -- they used the technology of their age (brick and mortar) to construct a system of unified control with themselves at the apex. The CIA document from 1978 reveals that modern technocrats adopted the same ambition with far more advanced tools: computers, satellites, electronic surveillance, and systems theory. The tower they are building is not made of brick. It is made of data. And its top reaches not into the sky but into the mind of every human being on earth.</p>
+<p>The declassified document from 1978 -- nearly half a century old -- describes with prescient clarity the technological control system now being deployed. What the world experienced during COVID-19 was not improvised. It was planned, documented, and classified decades before the first lockdown was ordered.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> from the Confliction album warns, the violation of divine boundaries is always premeditated. And as <a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> declares, the deception was written before it was spoken.</p>
+<hr>
+<h2 id="the-document">The Document</h2>
+<h3 id="context-and-origins">Context and Origins</h3>
+<p>The 1978 CIA document emerged from the agency's assessment of emerging governance models and their implications for intelligence operations and global control. During this period, the CIA was actively studying:</p>
+<ul>
+<li>Technocratic governance models that proposed replacing democratic decision-making with expert-driven technical management</li>
+<li>Systems theory applied to population control</li>
+<li>Computer-based modeling of social behavior and population dynamics</li>
+<li>Electronic surveillance capabilities and their potential for total population monitoring</li>
+<li>The convergence of information technology, communications technology, and governance infrastructure</li>
+</ul>
+<p>The document describes a world in which technology enables a form of governance that transcends traditional political structures -- a governance model in which technical systems monitor, manage, and control populations with a precision that democratic processes cannot match.</p>
+<h3 id="key-concepts">Key Concepts</h3>
+<p><strong>Technical Management of Populations</strong></p>
+<p>The document describes the replacement of political governance with technical management. Rather than governing through laws, elections, and democratic deliberation, populations would be managed through technical systems that monitor behavior, predict outcomes, and adjust conditions to produce desired results.</p>
+<p>This is the essence of technocracy: the replacement of political authority with technical authority. The expert replaces the citizen. The algorithm replaces the vote. The sensor replaces the representative.</p>
+<p><strong>Total Information Awareness</strong></p>
+<p>Decades before the phrase was coined by John Poindexter's DARPA program in 2002, the 1978 document describes the concept of total information awareness -- the capability to monitor every transaction, communication, movement, and interaction of every individual in a population.</p>
+<p>The document identified the key technologies that would be needed:</p>
+<ul>
+<li>Computerized databases capable of storing and processing vast quantities of individual data</li>
+<li>Electronic communication systems that could be monitored and analyzed</li>
+<li>Identification systems that could track individuals across all transactions and movements</li>
+<li>Satellite and ground-based surveillance systems providing comprehensive geographic coverage</li>
+</ul>
+<p>In 1978, these technologies were in early development. Today, they are fully operational. The total information awareness described in the document is the system now running through the NSA, Google, Facebook, smartphones, smart cities, and the Internet of Bodies.</p>
+<p><strong>Behavioral Prediction and Control</strong></p>
+<p>The document describes the use of population data to predict and control behavior. By monitoring every aspect of individual and collective behavior, technical systems can:</p>
+<ul>
+<li>Predict social unrest before it occurs and deploy preventive interventions</li>
+<li>Identify dissidents and neutralize them before they become effective</li>
+<li>Shape public opinion through targeted information delivery (what we now call algorithmic content curation)</li>
+<li>Modify behavior through reward and punishment systems (what we now call social credit)</li>
+</ul>
+<p>These capabilities, speculative in 1978, are operational today. The predictive policing systems deployed in American cities, the social credit systems in China, and the algorithmic content modulation of social media platforms are all implementations of the behavioral prediction and control described in the document.</p>
+<h3 id="the-pharmaceutical-dimension">The Pharmaceutical Dimension</h3>
+<p>The document includes references to the pharmaceutical dimension of technocratic control -- the use of chemical and biological agents to modify population behavior. While the specific details remain partially redacted, the document acknowledges:</p>
+<ul>
+<li>The potential for pharmaceutical agents to modify population-level behavior</li>
+<li>The role of public health infrastructure as a delivery mechanism for population management</li>
+<li>The integration of pharmaceutical delivery with electronic monitoring systems</li>
+</ul>
+<p>This pharmaceutical dimension, described in 1978, is precisely what Ana Mihalcea, MD, PhD, documents on her Substack (anamihalceamdphd.substack.com): the integration of injectable nanotechnology (the pharmaceutical delivery mechanism) with electronic monitoring systems (the electromagnetic grid) to create a population management system that operates from inside the human body.</p>
+<h2 id="from-document-to-reality">From Document to Reality</h2>
+<h3 id="the-implementation-timeline">The Implementation Timeline</h3>
+<p>The 1978 document described a system that would take decades to implement. The implementation has proceeded through identifiable phases:</p>
+<p><strong>Phase 1: Infrastructure Building (1980s-1990s)</strong></p>
+<ul>
+<li>Development of the internet as a communication and data collection platform</li>
+<li>Deployment of cellular telephone networks as tracking infrastructure</li>
+<li>Establishment of electronic financial systems replacing cash</li>
+<li>Creation of digital databases for health, financial, and identity records</li>
+</ul>
+<p><strong>Phase 2: Platform Consolidation (2000s-2010s)</strong></p>
+<ul>
+<li>Consolidation of data collection through social media platforms</li>
+<li>Deployment of smartphone technology providing continuous personal tracking</li>
+<li>Development of cloud computing enabling centralized data processing</li>
+<li>Expansion of surveillance infrastructure (cameras, sensors, satellites)</li>
+</ul>
+<p><strong>Phase 3: Biological Integration (2020s)</strong></p>
+<ul>
+<li>Deployment of injectable nanotechnology through mRNA products</li>
+<li>Activation of the Internet of Bodies through biosensor integration</li>
+<li>Rollout of 5G as the communication backbone for biological monitoring</li>
+<li>Implementation of digital identity and digital currency systems</li>
+</ul>
+<p>The COVID-19 pandemic served as the catalyst for Phase 3 -- the transition from external surveillance (monitoring what people do) to internal surveillance (monitoring what people are). The pandemic was not the cause of the technocratic system. It was the pretext for activating the biological integration phase that had been planned since at least 1978.</p>
+<h2 id="the-prophetic-dimension">The Prophetic Dimension</h2>
+<h3 id="the-beast-system-architecture">The Beast System Architecture</h3>
+<p>The technocratic system described in the 1978 document is the architectural blueprint for the Beast System described in Revelation 13:</p>
+<ul>
+<li><strong>Total information awareness</strong> = the Beast's knowledge of all who buy and sell</li>
+<li><strong>Digital identification</strong> = the mark required for economic participation</li>
+<li><strong>Behavioral control</strong> = the worship of the Beast enforced through economic exclusion</li>
+<li><strong>Biological integration</strong> = the mark "in" (not merely "on") the right hand or forehead</li>
+</ul>
+<p>The CIA did not create the Beast System. The principalities and powers behind the Beast System used the CIA -- and every other intelligence agency, technology company, and pharmaceutical corporation -- as instruments for its construction. The document from 1978 is a human artifact of a spiritual plan that predates the CIA, predates modern technology, and predates human civilization itself.</p>
+<p>The dome of the firmament contains this system. The fallen angels imprisoned under the dome influence its construction through the principalities and powers that operate through human institutions. The CIA, in producing the 1978 document, was translating spiritual architecture into technical specifications -- creating the blueprint for a system that the adversary has planned since his rebellion in heaven.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>CIA declassified document on technocratic governance, 1978</p>
+</li>
+<li>
+<p>Brzezinski, Z., "Between Two Ages: America's Role in the Technetronic Era," 1970</p>
+</li>
+<li>
+<p>Poindexter, J., Total Information Awareness program documentation, DARPA, 2002</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, pharmaceutical-electronic integration analysis</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/211-Total_Information_Awareness.mp4">Total Information Awareness</a> -- The surveillance system planned decades ago</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> -- The all-seeing data processing system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/213-Predictive_Policing.mp4">Predictive Policing</a> -- Behavioral prediction in action</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> -- The biometric infrastructure</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> -- Premeditated violation of divine boundaries</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- Deception written before it was spoken</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/declassified-cia-document-2004/?lang=en">Declassified CIA Document From 2004 Reveals Transhumanist Agenda</a> -- The later document building on the 1978 framework</li>
+<li><a href="/cia-intelligence-shadow-government/?lang=en">CIA Insider Kevin Shipp Explains The Shadow Government</a> -- The institutional structure behind the documents</li>
+<li><a href="/project-archimedes-launched/?lang=en">Project Archimedes Launched: The Next Phase of Control</a> -- The current implementation phase</li>
+</ul>
+<hr>
+<p><em>In 1978, a CIA analyst sat at a desk and described the world we now live in -- a world of total information awareness, behavioral prediction, pharmaceutical control, and biological integration. The document was classified, stamped, and filed. And then, over the next half century, every element of that document was implemented. The technocratic system described in fading typewritten pages is the system now operating through your smartphone, your social media feed, your medical records, and -- through injectable nanotechnology -- your blood. But God's Word, written millennia before that CIA document, described the same system and its outcome. And God's outcome differs from the technocrats' plan: the Beast System falls. The technocracy crumbles. And the Kingdom of God endures forever.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Declassified Technocratic CIA Document From 1978"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"A 1978 declassified CIA document reveals early planning for technocratic control systems, population monitoring, and the merger of technology with governance."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-24T10:00:00Z","children":"March 24, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","cia",{"href":"/en/tag/cia/","className":"tag-pill","children":["#","cia"]}],["$","a","declassified",{"href":"/en/tag/declassified/","className":"tag-pill","children":["#","declassified"]}],["$","a","technocracy",{"href":"/en/tag/technocracy/","className":"tag-pill","children":["#","technocracy"]}],["$","a","surveillance",{"href":"/en/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}],["$","a","1978",{"href":"/en/tag/1978/","className":"tag-pill","children":["#","1978"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/declassified-cia-technocratic-1978/","title":"Declassified Technocratic CIA Document From 1978"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/declassified-cia-technocratic-1978/","title":"Declassified Technocratic CIA Document From 1978"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Declassified Technocratic CIA Document From 1978 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"A 1978 declassified CIA document reveals early planning for technocratic control systems, population monitoring, and the merger of technology with governance."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"cia, declassified, technocracy, surveillance, 1978"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/declassified-cia-technocratic-1978/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/declassified-cia-technocratic-1978/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/declassified-cia-technocratic-1978/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/declassified-cia-technocratic-1978/"}],["$","meta","10",{"property":"og:title","content":"Declassified Technocratic CIA Document From 1978"}],["$","meta","11",{"property":"og:description","content":"A 1978 declassified CIA document reveals early planning for technocratic control systems, population monitoring, and the merger of technology with governance."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/declassified-cia-technocratic-1978/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/declassified-cia-technocratic-1978.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Declassified Technocratic CIA Document From 1978"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Declassified Technocratic CIA Document From 1978"}],["$","meta","25",{"name":"twitter:description","content":"A 1978 declassified CIA document reveals early planning for technocratic control systems, population monitoring, and the merger of technology with governance."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/declassified-cia-technocratic-1978.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

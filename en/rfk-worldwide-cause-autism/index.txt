@@ -1,0 +1,130 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","rfk-worldwide-cause-autism",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","rfk-worldwide-cause-autism","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rfk-worldwide-cause-autism","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3398,<h1 id="rfk-jr-announces-worldwide-effort-to-determine-cause-of-autism">RFK Jr. Announces Worldwide Effort to Determine Cause of Autism</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them. But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God." — Mark 10:13-14</p>
+</blockquote>
+<p>When children were brought to Jesus, the disciples tried to turn them away. They thought the Master's time was too important, His mission too grand, for the concerns of children. Jesus rebuked them. He declared that the kingdom of God belongs to children — and that anyone who prevents children from reaching Him faces His displeasure.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> reveals, the serpent's curse targets the most vulnerable — and children are the most vulnerable of all. An epidemic of neurological injury among children is not a mystery that defies investigation. It is a crime that has been protected from investigation by the institutions that should have investigated it decades ago.</p>
+<p>RFK Jr. has announced a worldwide effort to determine the cause of autism. For the first time in history, a federal official with the authority and the will is demanding an answer to the question the medical establishment has refused to ask.</p>
+<hr>
+<h2 id="the-autism-epidemic">The Autism Epidemic</h2>
+<p>In 1970, the prevalence of autism spectrum disorder (ASD) in the United States was estimated at approximately 1 in 10,000 children. By 2000, it had risen to 1 in 150. By 2010, 1 in 68. By 2020, 1 in 36. The most recent CDC estimates suggest the rate may now exceed 1 in 30 children.</p>
+<p>This is not a gradual increase. It is an exponential explosion — a more than 300-fold increase in five decades. No genetic change can produce a 300-fold increase in prevalence in two generations. The cause is environmental — something in the environment of American children has changed dramatically since 1970, and that change is producing neurological injury at epidemic scale.</p>
+<p>The medical establishment's response to this epidemic has been to deny its existence, attribute it to "better diagnosis," and refuse to investigate environmental causes. The CDC, which is responsible for monitoring autism prevalence, has simultaneously:</p>
+<ul>
+<li>Documented the increasing rates</li>
+<li>Refused to conduct comparative studies of vaccinated vs. unvaccinated children</li>
+<li>Funded research focused on genetic factors rather than environmental exposures</li>
+<li>Actively suppressed research linking environmental exposures to autism</li>
+<li>Characterized anyone who questions environmental causes as "anti-science"</li>
+</ul>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com): "The refusal to study the environmental causes of autism is the greatest scientific scandal in modern history. We have a 300-fold increase in a neurological condition affecting children. The CDC knows the rate is increasing. The CDC refuses to study why. The only logical explanation for this refusal is that the agency already knows — or suspects — that the answer implicates products it recommends, industries it protects, or policies it has implemented."</p>
+<hr>
+<h2 id="the-investigation">The Investigation</h2>
+<p>RFK Jr.'s worldwide investigation will pursue multiple lines of inquiry simultaneously:</p>
+<p><strong>Vaccinated vs. unvaccinated comparisons:</strong> The study the CDC has refused to conduct for decades — a comprehensive comparison of health outcomes, including autism rates, between fully vaccinated and completely unvaccinated children.</p>
+<p><strong>Temporal correlation analysis:</strong> Detailed analysis of the correlation between the expansion of the childhood vaccination schedule, the introduction of specific vaccines, and the acceleration of autism prevalence.</p>
+<p><strong>Environmental toxin assessment:</strong> Investigation of the cumulative effect of environmental exposures — including pesticides, heavy metals, food additives, endocrine disruptors, and pharmaceutical residues — on neurodevelopment.</p>
+<p><strong>Aluminum adjuvant research:</strong> Study of the neurological effects of aluminum adjuvants used in childhood vaccines, which have been documented to accumulate in brain tissue.</p>
+<p><strong>International comparisons:</strong> Comparison of autism rates across nations with different vaccination schedules, environmental regulations, and dietary patterns to identify correlating factors.</p>
+<p><strong>Regression analysis:</strong> Investigation of "regressive autism" — cases in which children develop normally and then lose language, social, and cognitive abilities — including temporal proximity to environmental exposures.</p>
+<p>The investigation will be conducted through international partnerships with research institutions independent of pharmaceutical industry funding — a critical distinction, as the majority of autism research conducted in the United States has been funded by institutions with pharmaceutical industry connections.</p>
+<hr>
+<h2 id="the-cdc-whistleblower">The CDC Whistleblower</h2>
+<p>In 2014, Dr. William Thompson, a senior CDC scientist, disclosed to Congress that he and his colleagues at the CDC had committed research fraud in a 2004 study examining the relationship between the MMR vaccine and autism.</p>
+<p>Thompson alleged that the study's authors — including himself — had identified a statistically significant association between the MMR vaccine and autism in African American boys. Rather than report this finding, Thompson alleged, the authors met and agreed to exclude the data that produced the association. Thompson claimed he was instructed to destroy documents related to the original analysis, though he retained copies.</p>
+<p>Thompson's allegations were never investigated by the CDC. He was not called to testify before Congress despite offering to do so under oath. The original study remains in the literature, uncorrected. The data Thompson described has never been independently reviewed.</p>
+<p>RFK Jr.'s investigation will include a review of the Thompson allegations and the original data — potentially providing the first independent analysis of the study that the CDC allegedly manipulated.</p>
+<hr>
+<h2 id="the-prophetic-imperative">The Prophetic Imperative</h2>
+<blockquote>
+<p>"But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea." — Matthew 18:6</p>
+</blockquote>
+<p>The millstone warning is the most severe judgment Jesus pronounces in the Gospels. It is reserved for those who harm children — who offend, stumble, or injure the little ones entrusted to their care.</p>
+<p>If the autism epidemic is caused by environmental factors that institutions have identified but refused to address — because addressing them would implicate products they recommend, industries they protect, or policies they have implemented — then the millstone hangs over every official who knew, every researcher who was silenced, and every institution that chose revenue over the neurological integrity of a generation of children.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/91-The_Kinsey_Corruption.mp4">The Kinsey Corruption</a> documents how corrupted science targeting children becomes institutional policy — how fraudulent research is embedded in regulatory frameworks and protected by the institutions that depend on it. The autism coverup, if it exists, follows the same pattern.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>HHS — RFK Jr. autism investigation announcement</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of autism epidemiology, CDC research suppression, and environmental toxin exposure documentation</p>
+</li>
+<li>
+<p>CDC Autism Prevalence Data — MMWR Surveillance Summaries</p>
+</li>
+<li>
+<p>William Thompson CDC Whistleblower — Congressional disclosure documents</p>
+</li>
+<li>
+<p>Mark 10:13-14, Matthew 18:6 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/91-The_Kinsey_Corruption.mp4">The Kinsey Corruption</a> — Corrupted science targeting children embedded in institutional policy</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a> — Government programs with undisclosed neurological effects on populations</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> — The system that mandates the products under investigation</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> — The curse targeting the most vulnerable</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — Institutional denial protecting the industries that may have caused the epidemic</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/cdc-updates-childhood-vaccine-reimbursement/?lang=en">CDC Updates Government Reimbursement for Childhood Vaccines</a> — Restructuring the financial incentives of the vaccination schedule</li>
+<li><a href="/cdc-postpones-vaccine-advisory/?lang=en">CDC Postpones Vaccine Advisory Committee Meeting</a> — Reforming the committee that sets the schedule under investigation</li>
+<li><a href="/cdc-stop-fluoride-drinking-water/?lang=en">CDC to Stop Recommending Fluoride Addition to Drinking Water</a> — Addressing environmental neurotoxins</li>
+<li><a href="/hhs-maha-transformation/?lang=en">HHS Announces MAHA Transformation of Healthcare</a> — The comprehensive reform framework</li>
+</ul>
+<hr>
+<p><em>One in thirty children. Three hundred times the rate of fifty years ago. And not one federal investigation into why — until now. The medical establishment calls it "better diagnosis." Scripture calls it what it is: an assault on the little ones. RFK Jr. has launched the investigation the CDC refused to conduct. The question it will answer — what is causing the neurological devastation of a generation of American children — has been suppressed, dismissed, and ridiculed for decades. "Suffer the little children to come unto me" — the children are coming, and they are bringing with them the evidence of what was done to them. The millstone waits for those who knew and did nothing.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"RFK Jr. Announces Worldwide Effort to Determine Cause of Autism"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"RFK Jr. launches a global investigation into the causes of autism, directly challenging the medical establishment's refusal to study environmental factors."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-29T10:00:00Z","children":"May 29, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","RFK-Jr",{"href":"/en/tag/RFK-Jr/","className":"tag-pill","children":["#","RFK-Jr"]}],["$","a","autism",{"href":"/en/tag/autism/","className":"tag-pill","children":["#","autism"]}],["$","a","investigation",{"href":"/en/tag/investigation/","className":"tag-pill","children":["#","investigation"]}],["$","a","vaccines",{"href":"/en/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","environmental-toxins",{"href":"/en/tag/environmental-toxins/","className":"tag-pill","children":["#","environmental-toxins"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/rfk-worldwide-cause-autism/","title":"RFK Jr. Announces Worldwide Effort to Determine Cause of Autism"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/rfk-worldwide-cause-autism/","title":"RFK Jr. Announces Worldwide Effort to Determine Cause of Autism"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"RFK Jr. Announces Worldwide Effort to Determine Cause of Autism | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"RFK Jr. launches a global investigation into the causes of autism, directly challenging the medical establishment's refusal to study environmental factors."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"RFK-Jr, autism, investigation, vaccines, environmental-toxins"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/rfk-worldwide-cause-autism/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/rfk-worldwide-cause-autism/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/rfk-worldwide-cause-autism/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/rfk-worldwide-cause-autism/"}],["$","meta","10",{"property":"og:title","content":"RFK Jr. Announces Worldwide Effort to Determine Cause of Autism"}],["$","meta","11",{"property":"og:description","content":"RFK Jr. launches a global investigation into the causes of autism, directly challenging the medical establishment's refusal to study environmental factors."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/rfk-worldwide-cause-autism/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/rfk-worldwide-cause-autism.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"RFK Jr. Announces Worldwide Effort to Determine Cause of Autism"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"RFK Jr. Announces Worldwide Effort to Determine Cause of Autism"}],["$","meta","25",{"name":"twitter:description","content":"RFK Jr. launches a global investigation into the causes of autism, directly challenging the medical establishment's refusal to study environmental factors."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/rfk-worldwide-cause-autism.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

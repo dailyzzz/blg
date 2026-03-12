@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","house-republicans-new-york-covid",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","house-republicans-new-york-covid","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","house-republicans-new-york-covid","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T34cf,<h1 id="house-republicans-demand-accountability-for-new-york-covid-19-policies">House Republicans Demand Accountability for New York COVID-19 Policies</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Thou shalt not kill." — Exodus 20:13</p>
+</blockquote>
+<p>The sixth commandment is absolute. It does not contain exceptions for public health emergencies, government directives, or institutional policies. When the state issues a policy that results in the death of those it is sworn to protect — the elderly, the vulnerable, the defenseless — the moral weight of that commandment falls upon every official who authored, implemented, and defended that policy.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> reveals, the curse works through systems that transform protectors into predators — systems in which the institutions entrusted with the care of the vulnerable become the instruments of their destruction.</p>
+<p>New York's COVID-19 nursing home policy directed the placement of COVID-positive patients into nursing homes — facilities housing the population most vulnerable to the disease. The result was a catastrophic death toll among the elderly. House Republicans are now demanding accountability for what may be one of the most consequential policy failures in American history.</p>
+<hr>
+<h2 id="the-new-york-nursing-home-directive">The New York Nursing Home Directive</h2>
+<p>On March 25, 2020, the New York State Department of Health issued a directive requiring nursing homes to accept patients who had tested positive for COVID-19 or were suspected of having COVID-19. The directive stated: "No resident shall be denied re-admission or admission to the NH solely based on a confirmed or suspected diagnosis of COVID-19."</p>
+<p>The directive was issued at the direction of Governor Andrew Cuomo's administration, which justified the policy as necessary to preserve hospital capacity. Hospitals were treating COVID-19 patients and needed beds. Nursing homes, the reasoning went, were the appropriate setting for patients who were stable enough to leave the hospital but not yet cleared of the virus.</p>
+<p>The consequence was predictable and predicted. Medical experts warned that placing COVID-positive patients in nursing homes — enclosed environments housing elderly residents with multiple comorbidities and weakened immune systems — would cause mass death. They were right.</p>
+<p>An estimated 15,000 or more nursing home residents in New York died of COVID-19 during the pandemic's first year. The actual number remains disputed because the Cuomo administration was later found to have undercounted nursing home deaths by as much as 50%, excluding residents who were transferred to hospitals before dying from the count of "nursing home deaths."</p>
+<p>Karen Kingston has analyzed the nursing home disaster in The Kingston Report (karenkingston.substack.com): "The nursing home directive was not a policy error. It was a policy that was predictable in its consequences, warned against by medical professionals, implemented over objections, and then concealed when those consequences materialized. The question is not whether officials made a mistake — the question is whether they committed a crime."</p>
+<hr>
+<h2 id="the-cover-up">The Cover-Up</h2>
+<p>The Cuomo administration did not merely implement a deadly policy — it concealed the results. The New York Attorney General's office issued a report in January 2021 finding that the Cuomo administration had undercounted COVID-19 deaths among nursing home residents by approximately 50%.</p>
+<p>The undercount was not accidental. It was achieved by excluding from the nursing home death count any resident who was transferred from a nursing home to a hospital before dying. By this accounting method, a nursing home resident who contracted COVID-19 in the nursing home, was transferred to a hospital, and died in the hospital was not counted as a nursing home death — even though the infection was acquired in the nursing home as a direct result of the placement policy.</p>
+<p>This accounting manipulation served a political purpose: it concealed the scale of the disaster and protected the governor from accountability. Cuomo used the artificially low nursing home death numbers to argue that his policies had been effective and to write a book celebrating his pandemic leadership.</p>
+<hr>
+<h2 id="the-congressional-investigation">The Congressional Investigation</h2>
+<p>House Republicans have launched a formal investigation into New York's COVID-19 nursing home policies. The investigation seeks:</p>
+<p><strong>Documents:</strong> All communications between the Governor's office, the New York Department of Health, nursing home administrators, and federal agencies related to the nursing home placement directive.</p>
+<p><strong>Testimony:</strong> Sworn testimony from state officials involved in the creation, implementation, and concealment of the nursing home policy.</p>
+<p><strong>Data:</strong> Accurate, unmanipulated data on nursing home deaths, including residents who were transferred to hospitals before dying.</p>
+<p><strong>Accountability:</strong> Identification of individuals responsible for the directive, the undercount, and any obstruction of prior investigations.</p>
+<p>The investigation faces significant legal and political challenges. New York state officials have historically resisted federal oversight of state health policies, invoking federalism and state sovereignty. However, federal jurisdiction is established by the use of federal Medicaid funding — nursing homes receiving Medicaid payments are subject to federal oversight, and the mismanagement of Medicaid-funded facilities creates federal accountability.</p>
+<hr>
+<h2 id="the-national-pattern">The National Pattern</h2>
+<p>New York was not alone. At least five states — New York, New Jersey, Michigan, Pennsylvania, and California — implemented similar nursing home placement directives during the early months of the pandemic. Each state experienced elevated nursing home death tolls. The combined death toll across these states represents a significant proportion of total U.S. COVID-19 deaths during 2020.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a> documents the historical pattern of government programs that treat vulnerable populations as expendable — from medical experiments on prisoners and minority communities to pandemic policies that sacrificed the elderly to preserve hospital capacity and political narratives.</p>
+<p>Kingston has observed: "The nursing home directives were not accidents. They were implemented in multiple states simultaneously, using similar language, during the same time period. This suggests coordination — either formal or through shared institutional assumptions about the expendability of elderly nursing home residents. The investigation must determine not only what happened in New York but whether the policy was coordinated across states and, if so, by whom."</p>
+<hr>
+<h2 id="the-prophetic-dimension">The Prophetic Dimension</h2>
+<blockquote>
+<p>"Cursed be he that removeth his neighbour's landmark. And all the people shall say, Amen. Cursed be he that maketh the blind to wander out of the way. And all the people shall say, Amen." — Deuteronomy 27:17-18</p>
+</blockquote>
+<p>Scripture places a special curse upon those who exploit the vulnerable — those who remove the blind from safety, who deprive the defenseless of protection, who use their authority to harm those who cannot resist. The nursing home residents of New York were among the most vulnerable people in American society — elderly, frail, dependent on institutional care, unable to advocate for themselves or flee the danger placed in their midst.</p>
+<p>The officials who directed COVID-positive patients into their homes wielded the authority of the state. The officials who concealed the death toll wielded the authority of data. Neither authority will stand before the judgment of God.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>House Republican investigation — Congressional hearing records and subpoena documentation</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of nursing home directives, multi-state coordination, and data manipulation</p>
+</li>
+<li>
+<p>New York Attorney General — Report on nursing home death undercounting</p>
+</li>
+<li>
+<p>New York Department of Health — March 25, 2020 directive</p>
+</li>
+<li>
+<p>Exodus 20:13, Deuteronomy 27:17-18 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a> — Government programs treating vulnerable populations as expendable</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — Institutional corruption concealing the consequences of policy decisions</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Multi-state coordination of deadly policies</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> — Protectors becoming predators</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — Data manipulation concealing the truth of mass death</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/fauci-covid-emails-disclosed/?lang=en">Will Fauci's COVID-19 Emails Finally Be Disclosed</a> — Federal communications related to pandemic policies</li>
+<li><a href="/federal-government-pfizer-data-fraud/?lang=en">Is It a Crime? Federal Government Assisted Pfizer in Data Fraud</a> — Government complicity in concealing harm</li>
+<li><a href="/doctors-vacate-prep-act/?lang=en">Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity</a> — The medical profession demanding accountability</li>
+<li><a href="/fda-ended-emergency-use-authorizations/?lang=en">FDA Just Ended Emergency Use Authorizations for COVID-19</a> — The end of the emergency framework that enabled these policies</li>
+</ul>
+<hr>
+<p><em>Fifteen thousand elderly souls perished in New York's nursing homes — placed in harm's way by the officials sworn to protect them, their deaths concealed by the data manipulators who served political interests above human life. "The LORD shall judge his people" (Hebrews 10:30). The congressional investigation seeks the judgment of man's law. But the judgment that matters — the judgment that no political maneuvering, no data manipulation, and no institutional protection can evade — is the judgment of the One who sees all, knows all, and will hold every official accountable for every life entrusted to their care and lost through their negligence, their arrogance, and their willingness to sacrifice the vulnerable for the preservation of the powerful.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"House Republicans Demand Accountability for New York COVID-19 Policies"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"House Republicans launch formal investigation into New York's COVID-19 nursing home policies that resulted in thousands of preventable elderly deaths."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-25T10:00:00Z","children":"May 25, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","House-Republicans",{"href":"/en/tag/House-Republicans/","className":"tag-pill","children":["#","House-Republicans"]}],["$","a","New-York",{"href":"/en/tag/New-York/","className":"tag-pill","children":["#","New-York"]}],["$","a","COVID-19",{"href":"/en/tag/COVID-19/","className":"tag-pill","children":["#","COVID-19"]}],["$","a","nursing-homes",{"href":"/en/tag/nursing-homes/","className":"tag-pill","children":["#","nursing-homes"]}],["$","a","accountability",{"href":"/en/tag/accountability/","className":"tag-pill","children":["#","accountability"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/house-republicans-new-york-covid/","title":"House Republicans Demand Accountability for New York COVID-19 Policies"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/house-republicans-new-york-covid/","title":"House Republicans Demand Accountability for New York COVID-19 Policies"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"House Republicans Demand Accountability for New York COVID-19 Policies | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"House Republicans launch formal investigation into New York's COVID-19 nursing home policies that resulted in thousands of preventable elderly deaths."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"House-Republicans, New-York, COVID-19, nursing-homes, accountability"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/house-republicans-new-york-covid/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/house-republicans-new-york-covid/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/house-republicans-new-york-covid/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/house-republicans-new-york-covid/"}],["$","meta","10",{"property":"og:title","content":"House Republicans Demand Accountability for New York COVID-19 Policies"}],["$","meta","11",{"property":"og:description","content":"House Republicans launch formal investigation into New York's COVID-19 nursing home policies that resulted in thousands of preventable elderly deaths."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/house-republicans-new-york-covid/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/house-republicans-new-york-covid.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"House Republicans Demand Accountability for New York COVID-19 Policies"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"House Republicans Demand Accountability for New York COVID-19 Policies"}],["$","meta","25",{"name":"twitter:description","content":"House Republicans launch formal investigation into New York's COVID-19 nursing home policies that resulted in thousands of preventable elderly deaths."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/house-republicans-new-york-covid.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

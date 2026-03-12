@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","cdc-postpones-vaccine-advisory",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","cdc-postpones-vaccine-advisory","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cdc-postpones-vaccine-advisory","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3006,<h1 id="cdc-postpones-vaccine-advisory-committee-meeting">CDC Postpones Vaccine Advisory Committee Meeting</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"The sacrifice of the wicked is an abomination to the LORD: but the prayer of the upright is his delight." — Proverbs 15:8</p>
+</blockquote>
+<p>When Josiah discovered the Book of the Law hidden in the Temple, he tore his clothes in grief — not because the Law was new, but because the nation had been operating without it. The priests had been offering sacrifices according to their own traditions, their own interests, and their own compromises. The discovery of the Law revealed that the entire sacrificial system had been corrupted — not abandoned, but perverted. The form was maintained while the substance was betrayed.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> reveals, institutional corruption is most effective when it preserves the outward form of legitimacy while hollowing out its substance. The ACIP maintained the form of scientific deliberation — meetings, presentations, votes, recommendations. But the substance was compromised by the financial conflicts of its members, the industry funding of its supporting research, and the institutional pressure to expand the vaccination schedule regardless of evidence.</p>
+<p>The CDC has postponed the ACIP meeting. The Book of the Law has been found, and the corrupted priests must answer for what they have done.</p>
+<hr>
+<h2 id="what-is-acip-and-why-does-it-matter">What Is ACIP and Why Does It Matter?</h2>
+<p>The Advisory Committee on Immunization Practices (ACIP) is a federal advisory committee that provides guidance to the CDC Director on the use of vaccines in the civilian population of the United States. ACIP's recommendations carry extraordinary power:</p>
+<p><strong>Automatic adoption:</strong> When ACIP votes to recommend a vaccine, the recommendation is automatically adopted by the CDC, which publishes it as official guidance. This guidance is then adopted by all 50 states as the standard for school-entry vaccination requirements.</p>
+<p><strong>Insurance mandate:</strong> Under the Affordable Care Act, ACIP-recommended vaccines must be covered by private insurance plans without cost-sharing. An ACIP recommendation thus constitutes a de facto insurance mandate.</p>
+<p><strong>VFC inclusion:</strong> ACIP recommendations automatically trigger inclusion in the Vaccines for Children program, ensuring government-funded distribution of the recommended vaccine to eligible children.</p>
+<p><strong>Revenue generation:</strong> A single ACIP recommendation can generate billions of dollars in annual revenue for the vaccine manufacturer, guaranteed by the combination of school mandates, insurance coverage mandates, and government purchasing programs.</p>
+<p>The committee consists of 15 voting members selected by the HHS Secretary, plus nonvoting ex officio members from federal agencies and nonvoting liaison representatives from medical and public health organizations. Voting members are appointed for four-year terms and are required to disclose financial conflicts of interest.</p>
+<p>Karen Kingston's documentation in The Kingston Report (karenkingston.substack.com) has shown that despite disclosure requirements, ACIP members have consistently held financial ties to vaccine manufacturers. A 2009 HHS Office of Inspector General report found that 97% of ACIP members had at least one potential conflict, and 64% had conflicts related to the specific vaccines they voted on. These conflicts were disclosed, waived, and permitted to continue.</p>
+<hr>
+<h2 id="why-the-postponement">Why the Postponement</h2>
+<p>The CDC's postponement of the ACIP meeting reflects the ongoing reform process's impact on the committee's composition and authority. Multiple factors contributed:</p>
+<p><strong>Member removal:</strong> Several ACIP members with documented pharmaceutical industry conflicts have been removed or have resigned as part of the broader CDC reform. The committee lacks a quorum of qualified, unconflicted members to conduct business.</p>
+<p><strong>Mandate review:</strong> The reformed HHS leadership has ordered a comprehensive review of ACIP's recommendation process, including the conflict-of-interest waiver system that permitted industry-connected members to vote on products manufactured by companies that paid them.</p>
+<p><strong>Legal uncertainty:</strong> The medical association lawsuit challenging HHS reforms has created legal uncertainty about whether ACIP actions taken during the reform period would be upheld in court.</p>
+<p><strong>Structural reform:</strong> HHS is developing a restructured advisory committee model that would impose stricter conflict-of-interest requirements, include members from medical freedom organizations and independent research institutions, and require that all recommendations be supported by long-term safety data rather than short-term efficacy data alone.</p>
+<hr>
+<h2 id="the-stakes">The Stakes</h2>
+<p>The postponement of the ACIP meeting delays decisions that carry billions of dollars in financial consequences. Scheduled agenda items included:</p>
+<ul>
+<li>Recommendations for updated COVID-19 boosters</li>
+<li>Recommendations for newly developed vaccines seeking schedule inclusion</li>
+<li>Review of existing schedule recommendations in light of new safety data</li>
+<li>Discussion of pediatric vaccination rate trends</li>
+</ul>
+<p>Each agenda item represents a potential revenue event for pharmaceutical manufacturers. The postponement delays these events — and the pharmaceutical industry's institutional allies are pressing for the meeting to be rescheduled without the reforms that prompted the postponement.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> documents how the ACIP recommendation process functions as a critical node in the pharmaceutical compliance system — converting industry products into government mandates through a committee process that maintains the appearance of scientific independence while operating under documented industry influence.</p>
+<hr>
+<h2 id="the-path-forward">The Path Forward</h2>
+<p>The reform of ACIP represents one of the most consequential elements of the broader health agency restructuring. If the committee is reformed to eliminate industry conflicts, require long-term safety data, and include genuine diversity of scientific perspective, the childhood vaccination schedule could be fundamentally reassessed for the first time in its history.</p>
+<p>If the committee is restored to its prior composition and operations — through legal action, political pressure, or administrative reversal — the pharmaceutical industry's pipeline from bench to mandate will be rebuilt, and the schedule will continue to expand without the safety review it has never received.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>CDC — ACIP meeting schedule and postponement notices</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of ACIP financial conflicts, recommendation process, and reform implications</p>
+</li>
+<li>
+<p>HHS Office of Inspector General — "CDC's Ethics Program for Special Government Employees on Federal Advisory Committees" (2009)</p>
+</li>
+<li>
+<p>ACIP Charter and Member Financial Disclosures — CDC.gov</p>
+</li>
+<li>
+<p>Proverbs 15:8 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> — ACIP as a node in the pharmaceutical compliance system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Institutional systems converting products into mandates</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/91-The_Kinsey_Corruption.mp4">The Kinsey Corruption</a> — Corrupted advisory processes shaping national policy</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> — Industry insiders occupying advisory positions</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — The appearance of scientific deliberation concealing commercial interests</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/cdc-updates-childhood-vaccine-reimbursement/?lang=en">CDC Updates Government Reimbursement for Childhood Vaccines</a> — Restructuring the financial architecture connected to ACIP recommendations</li>
+<li><a href="/rfk-cleans-house-cdc/?lang=en">RFK Jr. Cleans House at the CDC</a> — The broader reform that disrupted ACIP's operations</li>
+<li><a href="/medical-associations-sue-rfk/?lang=en">6 Medical Associations Sue RFK Jr. and HHS Leaders</a> — The legal challenge to advisory committee reform</li>
+<li><a href="/rfk-worldwide-cause-autism/?lang=en">RFK Jr. Announces Worldwide Effort to Determine Cause of Autism</a> — The research ACIP never commissioned</li>
+</ul>
+<hr>
+<p><em>Josiah found the Book of the Law, and the corrupted sacrificial system was exposed. The ACIP meeting has been postponed because the Book of the Law — the principle that advisory committees should serve the public rather than the industry — has been rediscovered. The priests of the corrupted system demand that the sacrifices resume. The reformers demand that the temple be cleansed first. "To obey is better than sacrifice, and to hearken than the fat of rams" (1 Samuel 15:22). The ACIP must be reformed before it meets again — because a corrupted committee produces corrupted recommendations, and corrupted recommendations, once adopted, become mandates that corrupt the health of every child in America.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"CDC Postpones Vaccine Advisory Committee Meeting"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The CDC postpones its Advisory Committee on Immunization Practices meeting amid ongoing reform efforts that threaten the committee's pharmaceutical industry ties."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-24T10:00:00Z","children":"May 24, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CDC",{"href":"/en/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","ACIP",{"href":"/en/tag/ACIP/","className":"tag-pill","children":["#","ACIP"]}],["$","a","vaccine-advisory",{"href":"/en/tag/vaccine-advisory/","className":"tag-pill","children":["#","vaccine-advisory"]}],["$","a","reform",{"href":"/en/tag/reform/","className":"tag-pill","children":["#","reform"]}],["$","a","pharmaceutical-conflicts",{"href":"/en/tag/pharmaceutical-conflicts/","className":"tag-pill","children":["#","pharmaceutical-conflicts"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cdc-postpones-vaccine-advisory/","title":"CDC Postpones Vaccine Advisory Committee Meeting"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cdc-postpones-vaccine-advisory/","title":"CDC Postpones Vaccine Advisory Committee Meeting"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"CDC Postpones Vaccine Advisory Committee Meeting | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The CDC postpones its Advisory Committee on Immunization Practices meeting amid ongoing reform efforts that threaten the committee's pharmaceutical industry ties."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CDC, ACIP, vaccine-advisory, reform, pharmaceutical-conflicts"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/cdc-postpones-vaccine-advisory/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cdc-postpones-vaccine-advisory/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cdc-postpones-vaccine-advisory/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cdc-postpones-vaccine-advisory/"}],["$","meta","10",{"property":"og:title","content":"CDC Postpones Vaccine Advisory Committee Meeting"}],["$","meta","11",{"property":"og:description","content":"The CDC postpones its Advisory Committee on Immunization Practices meeting amid ongoing reform efforts that threaten the committee's pharmaceutical industry ties."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/cdc-postpones-vaccine-advisory/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cdc-postpones-vaccine-advisory.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"CDC Postpones Vaccine Advisory Committee Meeting"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"CDC Postpones Vaccine Advisory Committee Meeting"}],["$","meta","25",{"name":"twitter:description","content":"The CDC postpones its Advisory Committee on Immunization Practices meeting amid ongoing reform efforts that threaten the committee's pharmaceutical industry ties."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cdc-postpones-vaccine-advisory.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

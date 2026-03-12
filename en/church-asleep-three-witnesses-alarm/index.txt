@@ -1,0 +1,197 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","church-asleep-three-witnesses-alarm",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","church-asleep-three-witnesses-alarm","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","church-asleep-three-witnesses-alarm","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T60fd,<h1 id="the-church-asleep-three-witnesses-sound-the-alarm">The Church Asleep: Three Witnesses Sound the Alarm</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead. Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God. Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee."</em> — Revelation 3:1-3</p>
+</blockquote>
+<p>The Church of Sardis. It had a name that it lived — a reputation, an identity, a public image of spiritual vitality. Buildings, programs, influence, visibility. To every outside observer, the church at Sardis was alive. Active. Functioning. Established.</p>
+<p>And Jesus said it was dead.</p>
+<p>Not struggling. Not declining. Not in need of reform. DEAD. The gap between Sardis's self-perception and Christ's assessment was total. The church thought it was alive. Christ said it was dead. There was no middle ground between these two evaluations. One was the church's view of itself. The other was God's view of the church. And they were diametrically opposed.</p>
+<p>This is the condition of the modern church. And three independent witnesses — from three completely different vantage points — have now confirmed it with devastating consistency.</p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4" type="video/mp4">
+</video>
+<p><em>Satan's Disguise — from the Confliction album</em></p>
+<video controls>
+  <source src="https://zzzdaily.zzzdaily.com/tracks/en/79-Engineers_and_Believers.mp4" type="video/mp4">
+</video>
+<p><em>Engineers and Believers — from the ZZZ Daily album</em></p>
+<hr>
+<h2 id="the-biblical-standard-two-or-three-witnesses">The Biblical Standard: Two or Three Witnesses</h2>
+<h3 id="establishing-truth">Establishing Truth</h3>
+<p>The principle of multiple witnesses is foundational to biblical jurisprudence. "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established" (Deuteronomy 19:15). Jesus confirmed this principle: "In the mouth of two or three witnesses every word may be established" (Matthew 18:16). Paul invoked it: "In the mouth of two or three witnesses shall every word be established" (2 Corinthians 13:1).</p>
+<p>This is not merely a legal procedure. It is a divine principle for the establishment of truth. God does not rely on a single testimony to convict. He provides multiple, independent witnesses whose convergent testimony establishes the matter beyond reasonable dispute.</p>
+<p>We now have three witnesses. Three independent sources, from three completely different perspectives, delivering the same verdict on the modern church. The matter is established. The evidence is overwhelming. The church is asleep — and three witnesses have sounded the alarm.</p>
+<h2 id="witness-one-howard-pittman--the-view-from-gods-throne">Witness One: Howard Pittman — The View From God's Throne</h2>
+<h3 id="a-baptist-minister-who-died-and-stood-before-god">A Baptist Minister Who Died and Stood Before God</h3>
+<p>Howard Pittman served as a Baptist minister for thirty-five years. He was not a fringe figure. He was not a spiritual novice. He was a credentialed, experienced, mainstream Protestant minister who had devoted his life to serving God within the institutional church.</p>
+<p>Then he died. His physical body ceased to function. And his spirit stood before the throne of God.</p>
+<p>What God showed him was not comforting. It was catastrophic.</p>
+<h3 id="the-975-percent-rejection">The 97.5 Percent Rejection</h3>
+<p>God revealed to Pittman that 97.5 percent of professing Christians would be rejected. Not pagans. Not atheists. Not people who had never heard the gospel. PROFESSING CHRISTIANS. People who called themselves believers. People who attended church. People who read the Bible. People who prayed (however briefly). People who considered themselves saved.</p>
+<p>97.5 percent of them would hear: "I never knew you" (Matthew 7:23).</p>
+<p>The reason was not a technicality. It was not a failure to perform the right rituals or affirm the right doctrines. The reason was stated plainly: "They never made Me Lord." They accepted Jesus as Savior — the free gift, the fire insurance, the ticket to heaven — but they never submitted to Him as Lord. They never surrendered their will. They never died to self. They kept control of their lives while claiming to follow the One who demands total surrender.</p>
+<p>Ninety-five percent of these rejected Christians served "self." They used Christianity to serve their own purposes — comfort, community, social status, emotional security, moral identity — rather than surrendering to Christ's purposes. Their Christianity was a consumer product, not a covenant relationship.</p>
+<h3 id="the-placebo">The Placebo</h3>
+<p>God described Satan's strategy with a single word: PLACEBO. A placebo is a substance that has no therapeutic effect but is given to a patient who believes it is medicine. The patient feels better — not because the substance works, but because the patient believes it works. The perception of healing replaces actual healing. The feeling of health masks the reality of disease.</p>
+<p>Satan administers a placebo religion. It looks like Christianity. It sounds like Christianity. It uses Christian vocabulary, Christian music, Christian buildings, and Christian Bibles. But it has no spiritual power. It produces no transformation. It does not connect the soul to God. It produces the FEELING of salvation without the REALITY of salvation.</p>
+<p>They can say it. They can teach it. They can preach it. But they cannot LIVE it. Because the placebo does not work. It was never designed to work. It was designed to prevent the patient from seeking actual medicine. And it succeeds — in 97.5 percent of cases.</p>
+<p><strong>The church thinks it is saved. It is not.</strong></p>
+<h2 id="witness-two-catholic-confidential--the-view-from-the-infiltrators">Witness Two: Catholic Confidential — The View From the Infiltrators</h2>
+<h3 id="the-jesuit-order">The Jesuit Order</h3>
+<p>The documentary <em>Catholic Confidential</em> reveals the Jesuit infiltration of Christianity from the perspective of those who planned and executed it. This is not conspiracy theory. This is documented history, confirmed by the Jesuits' own records, their own constitutions, and the testimonies of those who have studied or defected from the order.</p>
+<p>The Society of Jesus — the Jesuits — was founded in 1540 by Ignatius of Loyola with a specific military structure and a specific objective: "universal spiritual and temporal monarchy." Not merely spiritual authority. Temporal authority. Complete control of both the spiritual and material realms of human existence.</p>
+<h3 id="infiltration-cloaked-with-cunning">Infiltration "Cloaked With Cunning"</h3>
+<p>The Jesuits did not achieve their objective through open warfare. They achieved it through infiltration. They embedded themselves in every institution that shapes human thought and behavior — "disguised as painters, publishers, writers, schoolmasters." They entered Protestant seminaries. They influenced Protestant theology. They shaped Protestant practice. They positioned their agents in every denomination, every university, every media organization, and every government.</p>
+<p>The scope of this infiltration is comprehensive. From the first Jesuit pope to the theology taught in Protestant seminaries, the Jesuit influence permeates Christianity at every level. The doctrines that most Christians accept as biblical truth have been filtered through Jesuit theology. The practices that most churches follow have been shaped by Jesuit influence. The institutional structures that govern church life mirror Jesuit organizational principles.</p>
+<h3 id="absolute-obedience">Absolute Obedience</h3>
+<p>The hallmark of the Jesuit order is absolute, unconditional obedience. The Jesuit Constitutions demand obedience that transcends reason, conscience, and even perception: "I will believe that white is black, if the hierarchical church so defines." This is not figurative language. This is the literal requirement of the order. A Jesuit will deny the evidence of his own senses if his superiors demand it.</p>
+<p>This level of obedience produces agents who will execute any order without question. It produces an infiltration force that is perfectly disciplined, perfectly coordinated, and perfectly committed to its mission — regardless of what that mission requires. When such an order is tasked with infiltrating Christianity, the result is not partial or superficial. It is total.</p>
+<p><strong>The church thinks it is independent. It is not.</strong></p>
+<h2 id="witness-three-john-ramirez--the-view-from-the-enemys-camp">Witness Three: John Ramirez — The View From the Enemy's Camp</h2>
+<h3 id="a-devil-worshipper-who-confirms-the-church-is-defenseless">A Devil Worshipper Who Confirms the Church Is Defenseless</h3>
+<p>John Ramirez served the devil for over twenty-five years. He was a high-ranking operative in the kingdom of darkness, trained by master witches, empowered by five principality demons, one of only three people in America to possess a demonic book signed by the devil himself. He carried out assignments against Christians, churches, and families.</p>
+<p>From this position, he observed the church. And his assessment is devastating.</p>
+<h3 id="most-christians-cannot-pray-for-one-hour">Most Christians Cannot Pray for One Hour</h3>
+<p>While Ramirez prayed to the devil all night long — sustained, focused, intensive spiritual communication — most Christians could not maintain one hour of prayer. Their prayer life was sporadic, shallow, and undisciplined. They had no fasting practice. They had no genuine spiritual communion with God.</p>
+<p>Jesus asked His closest disciples to pray with Him for one hour and they fell asleep (Matthew 26:40). Two thousand years later, the church is still sleeping. The enemy is awake. The enemy is praying. The enemy is deploying spiritual weapons against the church every night. And the church cannot manage sixty minutes of prayer.</p>
+<h3 id="form-of-godliness-no-power">Form of Godliness, No Power</h3>
+<p>Ramirez described the Christians he observed with Paul's exact words: "form of godliness but no power." They had the right appearance. The right clothes. The right Bible. The right vocabulary. But they had "no connection with Jesus Christ because he was out of His will, out of His promises, out of His divine purpose."</p>
+<p>The form was perfect. The exterior was convincing. But there was no spiritual substance behind the presentation. No authority. No covering. No power. The Christians Ramirez targeted were defenseless — not because God had abandoned them, but because they had never genuinely connected to Him.</p>
+<h3 id="five-principalities-assigned-to-operate-the-church">Five Principalities Assigned to Operate the Church</h3>
+<p>Five principalities — the highest-ranking demons in Satan's hierarchy — were specifically assigned to "operate the church, cut down the church, and cut down the opportunity for people" to say yes to Jesus Christ. These demons were not passively opposing the church. They were actively OPERATING it — influencing its direction, its decisions, its doctrine, and its effectiveness.</p>
+<p>This means that the very churches where millions of Christians gather every Sunday are being influenced by principality demons whose assignment is to ensure that nothing genuinely spiritual happens within those walls. The worship continues. The sermons continue. The programs continue. But the spiritual reality is managed by the enemy to ensure that the maximum number of people remain in the placebo — the form of godliness without power.</p>
+<h3 id="christians-broken-through-witchcraft">Christians Broken Through Witchcraft</h3>
+<p>Ramirez did not merely observe. He attacked. He put witchcraft directly on individual believers. He chased "everything down that represents Jesus Christ." He broke Christians through targeted spiritual warfare.</p>
+<p>The only ones he could not break were those who had "a real relationship with Jesus Christ." Those with genuine spiritual covering. Those who prayed, fasted, and walked in daily obedience. Those who were covered by the blood of Jesus — not as a doctrine, but as a living spiritual reality.</p>
+<p>Everyone else was, in his words, "easy to destroy."</p>
+<p><strong>The church thinks it is strong. It is not.</strong></p>
+<h2 id="the-common-thread-a-name-that-thou-livest-and-art-dead">The Common Thread: "A Name That Thou Livest, and Art Dead"</h2>
+<h3 id="three-witnesses-one-verdict">Three Witnesses, One Verdict</h3>
+<p>The convergence is total. Three witnesses from three completely different vantage points — God's throne, the infiltrators' archives, and the enemy's camp — deliver the same verdict:</p>
+<table>
+<thead>
+<tr>
+<th>Witness</th>
+<th>Perspective</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Howard Pittman</td>
+<td>God's throne room</td>
+<td>97.5% rejected. Placebo religion. "Never made Me Lord."</td>
+</tr>
+<tr>
+<td>Catholic Confidential</td>
+<td>Infiltrators' records</td>
+<td>Every denomination infiltrated. "I will believe white is black." Universal monarchy.</td>
+</tr>
+<tr>
+<td>John Ramirez</td>
+<td>Enemy's inner circle</td>
+<td>Most Christians defenseless. Five principalities operate the church. "Form of godliness, no power."</td>
+</tr>
+</tbody>
+</table>
+<p>Three witnesses. One truth. The church is asleep.</p>
+<h3 id="revelation-31--the-perfect-fulfillment">Revelation 3:1 — The Perfect Fulfillment</h3>
+<p>The Church of Sardis has a name that it lives, and it is dead. The modern church perfectly fulfills this prophecy:</p>
+<p><strong>It has a NAME that it lives.</strong> Buildings. Programs. Music. Attendance numbers. Social media followers. Podcast downloads. Book sales. Conference circuits. Television networks. The visible infrastructure of Christianity in America is enormous. By every external metric, the church is alive — vibrant, active, growing, influential.</p>
+<p><strong>And it is DEAD.</strong> Behind the infrastructure, there is no spiritual power. Behind the programs, there is no genuine transformation. Behind the music, there is no authentic worship. Behind the attendance numbers, there are millions of people sitting in pews with a placebo in their veins, believing they are saved while principality demons manage their experience.</p>
+<p>Buildings do not indicate life. Programs do not indicate life. Music does not indicate life. Attendance does not indicate life. Only the presence of the living God indicates life — and three witnesses have confirmed that this presence is absent from the vast majority of what calls itself the church.</p>
+<h3 id="why-the-church-cannot-see-its-own-condition">Why the Church Cannot See Its Own Condition</h3>
+<p>The most dangerous feature of the Sardis condition is the church's inability to perceive it. Sardis did not know it was dead. It believed it was alive. The placebo was working — not in the sense of producing spiritual health, but in the sense of producing the false perception of spiritual health.</p>
+<p>This is why three external witnesses are necessary. The church cannot diagnose itself. A patient under anesthesia does not know he is unconscious. A person in a coma does not know he is unresponsive. The church, sedated by Satan's placebo, cannot accurately assess its own spiritual condition. It requires witnesses from outside its anesthetized consciousness to deliver the truth.</p>
+<p>God sent Pittman back from the throne room with the diagnosis: 97.5 percent rejected. History preserved the documentation of Jesuit infiltration for those willing to read it. And Ramirez defected from the enemy's camp with operational intelligence about how the church has been neutralized.</p>
+<p>Three witnesses. Three alarms. And the church sleeps on.</p>
+<h2 id="the-urgency-if-therefore-thou-shalt-not-watch">The Urgency: "If Therefore Thou Shalt Not Watch"</h2>
+<h3 id="the-warning-of-revelation-33">The Warning of Revelation 3:3</h3>
+<p>Jesus did not merely diagnose Sardis. He warned them: "If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee."</p>
+<p>This warning has two dimensions. First, the call to watch — to wake up, to become alert, to see the spiritual reality that surrounds you. Second, the consequence of failing to watch — Christ will come unexpectedly, and you will not be ready.</p>
+<p>The watching that Christ demands is not passive observation. It is active spiritual engagement. It is the prayer life that Ramirez describes — sustained, focused, intensive communion with God. It is the fasting that denies the flesh and strengthens the spirit. It is the discernment that recognizes the placebo for what it is and rejects it. It is the obedience that submits every area of life to the lordship of Christ — not in theory, but in daily practice.</p>
+<h3 id="the-remnant--a-few-names-in-sardis">The Remnant — "A Few Names in Sardis"</h3>
+<p>Even in Sardis, there were exceptions. "Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy" (Revelation 3:4).</p>
+<p>A few. Not many. Not most. A few.</p>
+<p>Pittman's 2.5 percent. Ramirez's Christians behind the wall of fire. The woman who survived twenty-one days of death ritual. The man who disappeared from the rooftop before the devil worshipper could kill him. These are the "few names" who have not defiled their garments. The remnant within the remnant. The genuine believers hidden within the mass of nominal Christians.</p>
+<p>They exist. They are real. They are protected. They have genuine spiritual authority. But they are few. And the gap between the few who are genuinely alive and the many who merely have a "name that they live" is the gap that three witnesses have now documented from three different angles.</p>
+<h3 id="the-three-part-command">The Three-Part Command</h3>
+<p>Christ gives Sardis three commands:</p>
+<p><strong>"Be watchful."</strong> Wake up. Open your eyes. See the spiritual reality that you have been too comfortable, too distracted, and too sedated to perceive. The principalities are operating your church. The Jesuits have infiltrated your denomination. The placebo is in your veins. WAKE UP.</p>
+<p><strong>"Strengthen the things which remain, that are ready to die."</strong> There is still something worth saving. The genuine seed of the gospel is still present, however buried under institutional religion and demonic management. Find it. Feed it. Protect it. The remnant is small but it is real, and it must be strengthened before it dies entirely.</p>
+<p><strong>"Remember therefore how thou hast received and heard, and hold fast, and repent."</strong> Go back to the beginning. Not to the institutional beginning — not to the councils and creeds and denominational distinctives — but to the ORIGINAL gospel. The gospel that the apostles preached. The gospel that produced the book of Acts church. The gospel that turned the Roman Empire upside down without a single building, a single program, or a single social media account. Remember it. Hold it. And REPENT — turn from the placebo and embrace the genuine article.</p>
+<h2 id="the-cost-of-continued-sleep">The Cost of Continued Sleep</h2>
+<h3 id="what-happens-if-the-church-does-not-wake-up">What Happens If the Church Does Not Wake Up</h3>
+<p>If the church does not respond to these three witnesses, the consequences are already in motion:</p>
+<p><strong>Millions will die in their placebo.</strong> They will stand before God believing they are saved and hear: "I never knew you." Pittman saw this. 97.5 percent. The numbers are catastrophic.</p>
+<p><strong>The enemy will continue to operate unopposed.</strong> Five principalities managing the church's direction. Devil worshippers cursing Christians every night. Witchcraft placed on individual believers, families, and communities. Without a praying, fasting, spiritually alert church, the enemy faces no resistance.</p>
+<p><strong>The infiltration will deepen.</strong> The Jesuit influence that has already shaped every denomination will continue to consolidate its control. The theology will drift further from scripture. The practices will become more worldly. The distinction between the church and the culture will disappear entirely.</p>
+<p><strong>The narrow gate will be missed by almost everyone.</strong> Jesus said few would find it (Matthew 7:14). Pittman said 2.5 percent would pass through. The three witnesses confirm that the church, in its current condition, is guiding people AWAY from the narrow gate while assuring them they are on the right path. The placebo does not just fail to save — it actively prevents salvation by creating a false sense of security.</p>
+<h3 id="the-sound-of-the-alarm">The Sound of the Alarm</h3>
+<p>Three witnesses have now sounded the alarm. From God's throne. From the infiltrators' archives. From the enemy's camp. The diagnosis is unanimous. The evidence is overwhelming. The matter is established.</p>
+<p>The only question remaining is whether anyone will hear it.</p>
+<p>"He that hath an ear, let him hear what the Spirit saith unto the churches" (Revelation 3:6).</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=4mZ9c9GnJig">PLACEBO: Wake Up Church! Howard Pittman</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=I11L71PD3Lw">Ex Satan Worshipper John Ramirez Testimony</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4" type="video/mp4">
+</video>
+<p><em>Satan's Disguise — from the Confliction album</em></p>
+<video controls>
+  <source src="https://zzzdaily.zzzdaily.com/tracks/en/79-Engineers_and_Believers.mp4" type="video/mp4">
+</video>
+<p><em>Engineers and Believers — from the ZZZ Daily album</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4" type="video/mp4">
+</video>
+<p><em>The Valley of Death — from the Confliction album</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/111-The_Final_Day.mp4" type="video/mp4">
+</video>
+<p><em>The Final Day — from the Confliction album</em></p>
+<video controls>
+  <source src="https://zzzdaily.zzzdaily.com/tracks/en/83-Ancient_Documents.mp4" type="video/mp4">
+</video>
+<p><em>Ancient Documents — from the ZZZ Daily album</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4" type="video/mp4">
+</video>
+<p><em>The Overcoming — from the Confliction album</em></p>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/placebo-church-satan-false-religion/?lang=en">PLACEBO: How Satan Invented a Religion to Fool the Church</a></li>
+<li><a href="/97-percent-christians-rejected-god/?lang=en">97.5% of Christians Rejected by God: The Pittman Revelation</a></li>
+<li><a href="/jesuit-infiltration-every-denomination/?lang=en">Jesuit Infiltration of Every Denomination</a></li>
+<li><a href="/why-satan-doesnt-fear-most-christians/?lang=en">Why Satan Doesn't Fear Most Christians: A Devil Worshipper's Confession</a></li>
+</ul>
+<p><em>Three witnesses have spoken. From God's throne, the verdict is 97.5 percent rejected. From the infiltrators' archives, the verdict is total penetration of every denomination. From the enemy's camp, the verdict is a defenseless church that cannot pray for one hour while devil worshippers pray all night. The Church of Sardis has a name that it lives, and it is dead. The alarm has been sounded — not once, not twice, but three times, from three directions, with three independent confirmations. He that hath an ear, let him hear. And he that heareth, let him wake up. Before the thief comes. Before the hour passes. Before the name that lives becomes the tomb that seals.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/origins/","className":"category-badge","children":"origins"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The Church Asleep: Three Witnesses Sound the Alarm"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Three independent witnesses — Howard Pittman, Catholic Confidential, and John Ramirez — deliver the same devastating verdict on the modern church."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2026-01-15T10:00:00Z","children":"January 15, 2026"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","sleeping church",{"href":"/en/tag/sleeping church/","className":"tag-pill","children":["#","sleeping church"]}],["$","a","spiritual deception",{"href":"/en/tag/spiritual deception/","className":"tag-pill","children":["#","spiritual deception"]}],["$","a","three witnesses",{"href":"/en/tag/three witnesses/","className":"tag-pill","children":["#","three witnesses"]}],["$","a","church state",{"href":"/en/tag/church state/","className":"tag-pill","children":["#","church state"]}],["$","a","end times",{"href":"/en/tag/end times/","className":"tag-pill","children":["#","end times"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/church-asleep-three-witnesses-alarm/","title":"The Church Asleep: Three Witnesses Sound the Alarm"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/church-asleep-three-witnesses-alarm/","title":"The Church Asleep: Three Witnesses Sound the Alarm"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The Church Asleep: Three Witnesses Sound the Alarm | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Three independent witnesses — Howard Pittman, Catholic Confidential, and John Ramirez — deliver the same devastating verdict on the modern church."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"sleeping church, spiritual deception, three witnesses, church state, end times"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/church-asleep-three-witnesses-alarm/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/church-asleep-three-witnesses-alarm/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/church-asleep-three-witnesses-alarm/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/church-asleep-three-witnesses-alarm/"}],["$","meta","10",{"property":"og:title","content":"The Church Asleep: Three Witnesses Sound the Alarm"}],["$","meta","11",{"property":"og:description","content":"Three independent witnesses — Howard Pittman, Catholic Confidential, and John Ramirez — deliver the same devastating verdict on the modern church."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/church-asleep-three-witnesses-alarm/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/church-asleep-three-witnesses-alarm.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The Church Asleep: Three Witnesses Sound the Alarm"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The Church Asleep: Three Witnesses Sound the Alarm"}],["$","meta","25",{"name":"twitter:description","content":"Three independent witnesses — Howard Pittman, Catholic Confidential, and John Ramirez — deliver the same devastating verdict on the modern church."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/church-asleep-three-witnesses-alarm.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","self-assembling-nanotech-susceptible",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","self-assembling-nanotech-susceptible","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","self-assembling-nanotech-susceptible","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4635,<h1 id="how-self-assembling-nanotechnology-makes-you-susceptible-to-control">How Self-Assembling Nanotechnology Makes You Susceptible to Control</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage." -- Galatians 5:1</p>
+</blockquote>
+<p>Freedom is not merely a political concept. It is a spiritual inheritance. Christ purchased liberty at Calvary -- freedom from sin, freedom from death, and freedom from every yoke of bondage that the adversary would place upon God's children. The nanotechnology now self-assembling inside human bodies represents a new form of bondage -- a technological yoke designed not to enslave the will through external force, but to control the body from within through internal technology.</p>
+<p>The self-assembling nanostructures documented in blood are not passive contaminants. They are active systems building the infrastructure for external control. Every filament is a potential antenna. Every circuit is a potential receiver. Every nanoparticle is a potential node in a network designed to make the human body responsive to signals that originate not from the brain, not from the will, and not from God -- but from an external technological system operated by those who would be as gods.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> from the Confliction album warns, the rebellion in heaven was driven by the desire to ascend above the Most High. And as <a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> declares, the deception that achieves bondage always presents itself as freedom.</p>
+<hr>
+<h2 id="the-control-architecture">The Control Architecture</h2>
+<h3 id="how-the-system-works">How the System Works</h3>
+<p>The self-assembling nanotechnology documented by researchers worldwide creates a multi-layered control architecture inside the human body. Understanding this architecture requires examining each layer and its function:</p>
+<p><strong>Layer 1: Sensing and Monitoring</strong></p>
+<p>The nanoparticles and biosensor structures documented in blood samples serve as a distributed sensing network throughout the body. These sensors can potentially detect:</p>
+<ul>
+<li>Electrical signals from the nervous system (thoughts, motor commands, sensory input)</li>
+<li>Chemical concentrations in the blood (hormones, neurotransmitters, glucose, cortisol)</li>
+<li>Physiological parameters (heart rate, blood pressure, temperature, respiration)</li>
+<li>Spatial position and movement (through accelerometer-like nanostructures)</li>
+<li>Electromagnetic environment (nearby devices, infrastructure, other people's nanotechnology)</li>
+</ul>
+<p>This sensing layer creates a comprehensive biological profile -- a real-time digital twin of the individual's physical and potentially mental state.</p>
+<p><strong>Layer 2: Signal Processing and Data Encoding</strong></p>
+<p>The circuit-like structures documented under microscopy provide local processing capability -- the ability to filter, compress, and encode the raw biological data collected by the sensing layer. This processing converts biological signals into a format suitable for electromagnetic transmission.</p>
+<p><strong>Layer 3: Communication</strong></p>
+<p>The antenna-like ribbon structures and fractal formations documented in blood samples serve as electromagnetic transceivers -- devices capable of both transmitting processed biological data to external receivers and receiving commands from external transmitters.</p>
+<p><strong>Layer 4: Actuation</strong></p>
+<p>The most alarming layer -- and the least documented, because its effects are the hardest to distinguish from normal biological variation -- is the actuation layer. This layer converts received electromagnetic commands into biological effects:</p>
+<ul>
+<li><strong>Neural modulation</strong> -- altering the firing patterns of neurons to influence thoughts, emotions, perceptions, and motor commands</li>
+<li><strong>Chemical release</strong> -- triggering the release of specific chemicals (hormones, neurotransmitters) to alter mood, arousal, aggression, or compliance</li>
+<li><strong>Muscular control</strong> -- directly stimulating or inhibiting muscle fiber contraction to control physical movement</li>
+<li><strong>Immune modulation</strong> -- activating or suppressing immune responses to create illness or prevent healing</li>
+<li><strong>Cardiac influence</strong> -- altering heart rhythm, blood pressure, and vascular tone to cause symptoms ranging from anxiety to cardiac arrest</li>
+</ul>
+<h3 id="the-closed-loop">The Closed Loop</h3>
+<p>Together, these four layers form a closed control loop:</p>
+<ol>
+<li><strong>Sense</strong> -- the nanotechnology monitors the individual's biological state</li>
+<li><strong>Transmit</strong> -- the data is sent to external systems via electromagnetic communication</li>
+<li><strong>Process</strong> -- external AI systems analyze the data and generate commands</li>
+<li><strong>Receive</strong> -- the nanotechnology receives commands from external systems</li>
+<li><strong>Actuate</strong> -- the commands are executed as biological effects inside the body</li>
+<li><strong>Return to step 1</strong> -- the effects are monitored, creating a feedback loop</li>
+</ol>
+<p>This closed-loop system enables real-time control of biological functions based on continuous monitoring -- a capability that moves far beyond surveillance into active manipulation of the human organism.</p>
+<h2 id="the-electromagnetic-control-grid">The Electromagnetic Control Grid</h2>
+<h3 id="5g-and-the-activation-network">5G and the Activation Network</h3>
+<p>The rollout of 5G telecommunications infrastructure is inseparable from the deployment of injectable nanotechnology. 5G technology provides:</p>
+<ul>
+<li><strong>Millimeter wave frequencies</strong> that can communicate with nanoscale antenna structures</li>
+<li><strong>Massive MIMO (Multiple Input Multiple Output)</strong> antenna arrays that can direct focused beams at individual targets</li>
+<li><strong>Ultra-low latency</strong> enabling real-time closed-loop control</li>
+<li><strong>Dense small cell deployment</strong> providing comprehensive coverage with minimal dead zones</li>
+<li><strong>Beamforming capability</strong> that can target specific individuals within a crowd</li>
+</ul>
+<p>The 5G network is not merely a communications upgrade. It is the activation and control network for the nanotechnology now embedded in the population. Without the electromagnetic infrastructure to communicate with the internal nanotechnology, the biochips would be dormant hardware. With 5G, they become active components of a real-time control system.</p>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) the correlation between electromagnetic exposure and nanotechnology assembly activity. Blood samples exposed to specific electromagnetic frequencies -- including frequencies used by 5G systems -- show dramatically accelerated self-assembly behavior compared to shielded control samples. This finding demonstrates that the electromagnetic environment directly influences the behavior of the nanotechnology inside the body.</p>
+<h3 id="starlink-and-global-coverage">Starlink and Global Coverage</h3>
+<p>Elon Musk's Starlink satellite constellation, which aims to provide global internet coverage through thousands of low-earth-orbit satellites, completes the electromagnetic control grid by eliminating geographic dead zones. While 5G provides dense urban coverage, Starlink extends the control network to rural areas, wilderness, and ocean regions where ground-based infrastructure does not reach.</p>
+<p>The combination of 5G (local high-density coverage) and Starlink (global coverage) creates an electromagnetic grid from which there is no escape. Every square meter of the earth's surface is within range of the control network. Every person carrying nanotechnology is reachable.</p>
+<h2 id="mechanisms-of-control">Mechanisms of Control</h2>
+<h3 id="neural-control">Neural Control</h3>
+<p>The most profound form of control enabled by self-assembling nanotechnology is neural control -- the ability to influence brain activity through electromagnetic signals received by nanotechnology nodes in or near neural tissue.</p>
+<p>Neural control mechanisms include:</p>
+<p><strong>Thought Insertion</strong></p>
+<p>By stimulating specific neural pathways, external signals can create thoughts that the individual experiences as their own. The person does not perceive these thoughts as externally generated -- they experience them as internal ideation, indistinguishable from their own thinking. This capability makes propaganda obsolete. Why broadcast messages that people might reject when you can insert thoughts that they accept as their own?</p>
+<p><strong>Emotional Manipulation</strong></p>
+<p>By modulating neurotransmitter levels and stimulating emotional centers (amygdala, insula, prefrontal cortex), external signals can induce specific emotional states: fear, anger, euphoria, despair, compliance, aggression. An entire population's emotional state could theoretically be modulated in real time, creating waves of panic, calm, or rage on demand.</p>
+<p><strong>Perception Alteration</strong></p>
+<p>By interfacing with sensory processing pathways, nanotechnology could potentially alter what a person perceives -- creating visual, auditory, or tactile experiences that have no external source. This capability has direct implications for the "great delusion" described in 2 Thessalonians 2:11, where God sends a strong delusion so that people believe a lie. The technological mechanism for delivering a convincing delusion directly into the perceptual system of every person on earth now exists.</p>
+<p><strong>Motor Control</strong></p>
+<p>By stimulating or inhibiting motor neurons, external signals could potentially control physical movement -- causing involuntary actions or preventing voluntary ones. This represents the ultimate form of physical control: the ability to move or freeze a person's body regardless of their will.</p>
+<h3 id="behavioral-conditioning">Behavioral Conditioning</h3>
+<p>Beyond direct neural control, the nanotechnology system enables sophisticated behavioral conditioning -- rewarding desired behaviors with pleasant sensations and punishing undesired behaviors with discomfort, pain, or illness.</p>
+<p>This conditioning operates below conscious awareness. The individual does not know they are being conditioned. They simply notice that certain actions feel good and others feel bad. Over time, their behavior aligns with the conditioning program without any awareness that their choices are being shaped by external technology.</p>
+<h2 id="the-prophetic-framework">The Prophetic Framework</h2>
+<h3 id="the-great-delusion">The Great Delusion</h3>
+<p>2 Thessalonians 2:11 describes a coming delusion so powerful that it deceives those who rejected the love of the truth: "And for this cause God shall send them strong delusion, that they should believe a lie."</p>
+<p>The nanotechnology control system provides the technological mechanism for this delusion. If the entire population carries internal receivers capable of altering perception, thought, and emotion, then a global delusion can be delivered not through media, not through propaganda, but through direct neural manipulation. Every person would experience the delusion as their own perception, their own thought, their own belief. They would not know they were being deceived because the deception would be indistinguishable from reality.</p>
+<p>The coming arrival of entities that will present themselves as aliens or extraterrestrial beings -- but which Scripture identifies as fallen angels, the beings cast down under the dome of the firmament -- may be facilitated by this perceptual manipulation technology. The "signs and lying wonders" of 2 Thessalonians 2:9 may include technologically generated perceptual experiences delivered directly into the nervous system through nanotechnology, creating experiences so vivid and so universal that resistance seems impossible.</p>
+<p>But it is not impossible. The Holy Spirit is not a frequency. The discernment of the Spirit cannot be jammed by electromagnetic signals. The consciousness that God breathed into humanity at creation operates on a plane that no nanotechnology can reach. Those who are sealed by God are protected by a covering that no technology can penetrate -- the blood of Jesus Christ, which operates outside the electromagnetic spectrum and beyond the reach of every system the adversary has built.</p>
+<h3 id="the-mark-of-obedience">The Mark of Obedience</h3>
+<p>Revelation 13 describes the mark as something that enables buying and selling. The nanotechnology control system provides the mechanism: behavioral compliance monitored by internal sensors and enforced by neural conditioning. Those who comply receive the reward of economic participation. Those who resist receive the punishment of exclusion, discomfort, or worse.</p>
+<p>The mark is not merely a barcode or a digital ID. It is a control system -- a technological interface that monitors obedience and enforces compliance at the neurological level. The self-assembling nanotechnology now documented in human blood is the hardware platform for this system. The electromagnetic grid is the communications network. And the AI systems being developed by companies like Palantir, Google, and Microsoft provide the intelligence layer that processes the data and generates the control signals.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, electromagnetic exposure and nanotechnology assembly correlation</li>
+<li>DARPA N3 Program documentation on neural interface technology</li>
+<li>Lin, J.C., "Microwave Auditory Effects and Applications," Charles C. Thomas Publisher, 1978</li>
+<li>Various 5G technical specifications and beamforming capabilities documentation</li>
+<li>RAND Corporation, "The Internet of Bodies: Opportunities, Risks, and Governance," 2020</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> -- Self-assembling machines enabling control from within</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> -- The all-seeing surveillance infrastructure</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/211-Total_Information_Awareness.mp4">Total Information Awareness</a> -- Complete monitoring of every individual</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/497-Tribulation_Tech.mp4">Tribulation Tech</a> -- The technology of the tribulation period</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> -- The rebellion that drives the technological control agenda</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- Bondage presented as freedom</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/advanced-implanted-nanotechnology/?lang=en">Advanced Implanted Nanotechnology Microchips Found in Patients</a> -- The clinical documentation of nanotechnology in patients</li>
+<li><a href="/space-fence-mind-control/?lang=en">The Space Fence and Mind Control Grid</a> -- The electromagnetic infrastructure enabling control</li>
+<li><a href="/new-atomic-model-consciousness/?lang=en">A New Atomic Model That Includes Consciousness</a> -- How nanotechnology manipulates consciousness at the atomic level</li>
+</ul>
+<hr>
+<p><em>The liberty that Christ purchased at Calvary was not cheap. It cost the blood of God Himself. And the bondage that the adversary is constructing inside the human body -- through nanotechnology that assembles in silence, networks that activate without consent, and control systems that operate below awareness -- is the most sophisticated attempt to reverse that purchase in the history of creation. But the freedom of the Spirit is not a frequency that can be jammed. It is not a signal that can be blocked. It is not a circuit that can be overridden. Stand fast in the liberty wherewith Christ has made you free. No nanotechnology, no electromagnetic grid, and no control system devised by man or fallen angel can separate you from the love of God which is in Christ Jesus our Lord.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/science/","className":"category-badge","children":"science"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"How Self-Assembling Nanotechnology Makes You Susceptible to Control"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"How self-assembling nanotechnology inside the human body creates susceptibility to external electromagnetic control, surveillance, and behavioral manipulation."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-13T10:00:00Z","children":"March 13, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","self-assembly",{"href":"/en/tag/self-assembly/","className":"tag-pill","children":["#","self-assembly"]}],["$","a","nanotechnology",{"href":"/en/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}],["$","a","mind-control",{"href":"/en/tag/mind-control/","className":"tag-pill","children":["#","mind-control"]}],["$","a","electromagnetic",{"href":"/en/tag/electromagnetic/","className":"tag-pill","children":["#","electromagnetic"]}],["$","a","surveillance",{"href":"/en/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/self-assembling-nanotech-susceptible/","title":"How Self-Assembling Nanotechnology Makes You Susceptible to Control"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/self-assembling-nanotech-susceptible/","title":"How Self-Assembling Nanotechnology Makes You Susceptible to Control"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"How Self-Assembling Nanotechnology Makes You Susceptible to Control | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"How self-assembling nanotechnology inside the human body creates susceptibility to external electromagnetic control, surveillance, and behavioral manipulation."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"self-assembly, nanotechnology, mind-control, electromagnetic, surveillance"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/self-assembling-nanotech-susceptible/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/self-assembling-nanotech-susceptible/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/self-assembling-nanotech-susceptible/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/self-assembling-nanotech-susceptible/"}],["$","meta","10",{"property":"og:title","content":"How Self-Assembling Nanotechnology Makes You Susceptible to Control"}],["$","meta","11",{"property":"og:description","content":"How self-assembling nanotechnology inside the human body creates susceptibility to external electromagnetic control, surveillance, and behavioral manipulation."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/self-assembling-nanotech-susceptible/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/self-assembling-nanotech-susceptible.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"How Self-Assembling Nanotechnology Makes You Susceptible to Control"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"How Self-Assembling Nanotechnology Makes You Susceptible to Control"}],["$","meta","25",{"name":"twitter:description","content":"How self-assembling nanotechnology inside the human body creates susceptibility to external electromagnetic control, surveillance, and behavioral manipulation."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/self-assembling-nanotech-susceptible.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

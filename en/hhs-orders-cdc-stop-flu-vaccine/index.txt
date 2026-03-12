@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","hhs-orders-cdc-stop-flu-vaccine",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","hhs-orders-cdc-stop-flu-vaccine","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","hhs-orders-cdc-stop-flu-vaccine","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T308b,<h1 id="hhs-orders-cdc-to-stop-wild-to-mild-flu-vaccine-program">HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves." — Matthew 7:15</p>
+</blockquote>
+<p>The serpent did not present himself as a predator in the Garden. He presented himself as an advisor — offering wisdom, knowledge, and improvement. "Ye shall be as gods, knowing good and evil" (Genesis 3:5). The promise was framed as enhancement. The reality was destruction.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a> reveals, the adversary's most dangerous operations are those concealed within the language of benefit. A program described as converting a wild virus to a mild one sounds protective. But when examined closely, the process of converting a wild pathogen into a "mild" vaccine candidate involves the same laboratory manipulation of pathogen characteristics that defines gain-of-function research — it merely applies the opposite label.</p>
+<p>HHS has ordered the CDC to halt this program. The wolves have been identified beneath the sheep's clothing.</p>
+<hr>
+<h2 id="the-wild-to-mild-program">The Wild-to-Mild Program</h2>
+<p>The CDC's wild-to-mild flu vaccine program was designed to take circulating wild-type influenza viruses and attenuate them — reduce their virulence — to create vaccine candidates. The process involved serial passage of wild viruses through laboratory cell cultures, selecting for variants with reduced pathogenicity while maintaining immunogenicity.</p>
+<p>While the program was framed as vaccine development, critics — including biosecurity experts and gain-of-function researchers — pointed out that the laboratory manipulation of pathogen characteristics involves the same techniques, the same facilities, and the same risks as gain-of-function research. The distinction between "enhancing" a pathogen and "attenuating" it is a distinction of intent, not technique. Both involve deliberately altering a pathogen's characteristics through laboratory manipulation.</p>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com): "The wild-to-mild program operated in the gray zone between vaccine development and gain-of-function research. The laboratory techniques are identical. The biosafety risks are identical. The only difference is which direction you're pushing the pathogen — toward greater virulence or lesser virulence. But laboratory evolution is unpredictable. Attenuated viruses can revert to virulence. Mutations can produce unexpected phenotypes. Every laboratory manipulation of a pathogen creates risk, regardless of the intended outcome."</p>
+<h3 id="the-live-attenuated-vaccine-concern">The Live Attenuated Vaccine Concern</h3>
+<p>The wild-to-mild program's products were intended to serve as live attenuated influenza vaccines (LAIVs) — vaccines that contain a weakened but living virus. LAIVs have a known risk that traditional inactivated vaccines do not: the attenuated virus can potentially revert to a more virulent form, particularly in immunocompromised individuals.</p>
+<p>The oral polio vaccine (OPV), a live attenuated vaccine, was discontinued in the United States precisely because of this risk. Vaccine-derived poliovirus (VDPV) — polio caused by the vaccine reverting to virulence — became a more common cause of paralytic polio than wild poliovirus itself. The WHO has documented hundreds of cases of vaccine-derived polio worldwide.</p>
+<p>The application of similar live attenuation technology to influenza — a virus with far greater genetic variability and evolutionary speed than poliovirus — raises amplified concerns about reversion and unintended pathogenic evolution.</p>
+<hr>
+<h2 id="the-order-and-its-implications">The Order and Its Implications</h2>
+<p>HHS's order to halt the wild-to-mild program aligns with the administration's broader policy of restricting laboratory manipulation of dangerous pathogens. The order:</p>
+<ul>
+<li>Terminates all CDC research activities associated with the program</li>
+<li>Freezes funding allocated to program operations</li>
+<li>Requires a comprehensive review of program activities, including an audit of all pathogens manipulated, stored, or distributed through the program</li>
+<li>Prohibits the transfer of program materials to other federal agencies, academic institutions, or international partners pending review</li>
+</ul>
+<p>The order's implications extend beyond the specific program. It establishes the precedent that any laboratory manipulation of pathogen characteristics — regardless of the stated intent — falls under the administration's ban on gain-of-function research unless specifically exempted through a review process that has not yet been defined.</p>
+<p>This precedent could affect vaccine development programs across the federal government, including influenza vaccine development, RSV vaccine research, and other programs that involve laboratory manipulation of pathogens.</p>
+<hr>
+<h2 id="the-broader-pattern">The Broader Pattern</h2>
+<p>The wild-to-mild program is one component of a broader pattern documented across multiple articles in this series: the federal government's operation of research programs that blur the line between public health protection and biological threat creation.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> documents the military origins of pandemic preparedness programs. The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/165-Event_201_Came_True.mp4">Event 201 Came True</a> documents the simulation-to-reality pipeline. The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> documents the synchronized institutional compliance that enables these programs to operate without accountability.</p>
+<p>Kingston connects these programs to the pharmaceutical business model: "The biodefense establishment creates the threats. The pharmaceutical industry sells the countermeasures. The regulatory agencies approve the products. The media sells the fear. The cycle is self-sustaining because each node depends on the others for its funding, its authority, and its justification for existence. Breaking one link — as HHS has done with the wild-to-mild program — disrupts the entire chain."</p>
+<hr>
+<h2 id="the-prophetic-warning">The Prophetic Warning</h2>
+<blockquote>
+<p>"For they have sown the wind, and they shall reap the whirlwind." — Hosea 8:7</p>
+</blockquote>
+<p>The laboratory manipulation of pathogens — whether framed as gain-of-function, attenuation, or vaccine development — is the sowing of the wind. The promise is control — the ability to manipulate nature for human benefit. But nature, created by God and governed by His laws, does not submit to human control. Attenuated viruses revert. Laboratory accidents release engineered pathogens. Manipulated organisms evolve in unpredictable directions.</p>
+<p>The wild-to-mild program sowed the wind. HHS has ordered it stopped before it reaped the whirlwind.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>HHS — Order halting CDC wild-to-mild program</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of wild-to-mild program methodology, gain-of-function parallels, and biosafety concerns</p>
+</li>
+<li>
+<p>CDC — Influenza vaccine research programs</p>
+</li>
+<li>
+<p>WHO — Vaccine-derived poliovirus documentation</p>
+</li>
+<li>
+<p>Matthew 7:15, Hosea 8:7 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> — Military origins of pathogen manipulation programs</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/165-Event_201_Came_True.mp4">Event 201 Came True</a> — The simulation-to-reality pipeline</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Institutional compliance enabling dangerous programs</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a> — Dangerous operations concealed within the language of benefit</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> — Forbidden knowledge of pathogen manipulation</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/trump-bans-gain-of-function/?lang=en">Trump Executive Order Bans Gain-of-Function Research</a> — The executive order that established the framework for this halt</li>
+<li><a href="/trump-blow-bird-flu-surveillance/?lang=en">Trump Delivers Shocking Blow to Bird Flu Surveillance Program</a> — Parallel dismantling of pandemic infrastructure</li>
+<li><a href="/hhs-pulls-mrna-research-funding/?lang=en">HHS Pulls $500 Million in mRNA Research Funding</a> — Financial pipeline disruption</li>
+<li><a href="/trump-obliterates-who-h5n1/?lang=en">Trump Obliterates WHO Plans for H5N1 Pandemic</a> — Defying the next pandemic narrative</li>
+</ul>
+<hr>
+<p><em>The serpent in the Garden offered knowledge dressed as benefit. The wild-to-mild program offered vaccine development dressed as public health — but the techniques were indistinguishable from gain-of-function research, the risks were identical, and the potential consequences were catastrophic. HHS has recognized the wolf beneath the sheep's clothing and ordered the program halted. "Prove all things; hold fast that which is good" (1 Thessalonians 5:21). The program was tested and found wanting. What remains to be proven is whether the federal government can permanently resist the institutional pressure to resume the manipulation of pathogens under whatever new label the next generation of sorcerers devises.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"HHS directs the CDC to halt its controversial wild-to-mild flu vaccine program, which critics argued was a gain-of-function program disguised as public health."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-23T10:00:00Z","children":"May 23, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","HHS",{"href":"/en/tag/HHS/","className":"tag-pill","children":["#","HHS"]}],["$","a","CDC",{"href":"/en/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","flu-vaccine",{"href":"/en/tag/flu-vaccine/","className":"tag-pill","children":["#","flu-vaccine"]}],["$","a","gain-of-function",{"href":"/en/tag/gain-of-function/","className":"tag-pill","children":["#","gain-of-function"]}],["$","a","public-health",{"href":"/en/tag/public-health/","className":"tag-pill","children":["#","public-health"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/hhs-orders-cdc-stop-flu-vaccine/","title":"HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/hhs-orders-cdc-stop-flu-vaccine/","title":"HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"HHS directs the CDC to halt its controversial wild-to-mild flu vaccine program, which critics argued was a gain-of-function program disguised as public health."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"HHS, CDC, flu-vaccine, gain-of-function, public-health"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/hhs-orders-cdc-stop-flu-vaccine/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/hhs-orders-cdc-stop-flu-vaccine/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/hhs-orders-cdc-stop-flu-vaccine/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/hhs-orders-cdc-stop-flu-vaccine/"}],["$","meta","10",{"property":"og:title","content":"HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program"}],["$","meta","11",{"property":"og:description","content":"HHS directs the CDC to halt its controversial wild-to-mild flu vaccine program, which critics argued was a gain-of-function program disguised as public health."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/hhs-orders-cdc-stop-flu-vaccine/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/hhs-orders-cdc-stop-flu-vaccine.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program"}],["$","meta","25",{"name":"twitter:description","content":"HHS directs the CDC to halt its controversial wild-to-mild flu vaccine program, which critics argued was a gain-of-function program disguised as public health."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/hhs-orders-cdc-stop-flu-vaccine.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

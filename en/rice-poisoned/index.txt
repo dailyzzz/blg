@@ -1,0 +1,115 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","rice-poisoned",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","rice-poisoned","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rice-poisoned","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T30cc,<h1 id="rice-has-been-poisoned-what-you-need-to-know">RICE HAS BEEN POISONED: What You Need to Know</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"The thief cometh not, but for to steal, and to kill, and to destroy."</em> — John 10:10</p>
+</blockquote>
+<p>Rice feeds more than half of the world's population. It is the staple food of billions, the foundation of diets across Asia, Africa, and the Americas. And it has been poisoned. Not metaphorically. Not speculatively. Measurably, documentedly, verifiably poisoned — with arsenic, heavy metals, microplastics, and agrochemicals that accumulate in the body with every serving.</p>
+<p>Howard Pittman was shown that the principalities and powers of Ephesians 6:12 operate through systems designed to steal, kill, and destroy. The poisoning of the world's most important food staple is not an accident. It is the logical product of a food system designed to maximize profit while minimizing human health — a system whose architects include the same institutional networks that govern finance, media, and religion.</p>
+<p>The Jesuits, Loyola's military organization of "absolute power" (Napoleon), governing "all the world" (Tamburini), have always understood that control of food is control of population. <em>Catholic Confidential</em> reveals their infiltration "cloaked with cunning" and their willingness to practice "every species of vice." The poisoning of rice is not a Jesuit operation per se — but it is the product of the institutional system they helped build: a global network of corporations, regulators, and financiers that prioritizes profit over human life.</p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4" type="video/mp4">
+</video>
+<p><em>The Serpent's Curse — from the Confliction album</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4" type="video/mp4">
+</video>
+<p><em>Cast Out of Paradise — from the Confliction album</em></p>
+<hr>
+<h2 id="the-arsenic-problem">The Arsenic Problem</h2>
+<h3 id="naturally-occurring-unnaturally-concentrated">Naturally Occurring, Unnaturally Concentrated</h3>
+<p>Rice contains arsenic. This is not disputed. The FDA, the WHO, and independent laboratories worldwide have confirmed that rice absorbs arsenic from soil and water at rates significantly higher than other grains. Arsenic is a known carcinogen — it causes cancer of the bladder, lungs, skin, kidneys, and liver.</p>
+<p>The reason rice absorbs arsenic is its growth method: rice paddies are flooded, and arsenic in the soil dissolves in water, which the rice plant absorbs through its roots. This is a natural process, but it has been dramatically worsened by human activity. Decades of arsenic-based pesticide use, industrial contamination, and irresponsible agricultural practices have loaded the soil with arsenic that rice plants now absorb in dangerous quantities.</p>
+<p>The United States is a particularly problematic source. American rice — especially rice grown in the Southern states where cotton was historically farmed using lead arsenate pesticides — contains some of the highest arsenic levels in the world. The legacy of cotton-era pesticide use continues to contaminate rice grown on the same land over a century later.</p>
+<p>Agent131711 documents on Substack (agent131711.substack.com) how the regulatory response to arsenic in rice has been deliberately inadequate. The FDA has set limits for arsenic in infant rice cereal but has not established limits for rice consumed by adults. This means that while the government acknowledges arsenic in rice is dangerous for babies, it maintains the legal fiction that the same arsenic is safe for everyone else.</p>
+<h3 id="the-dose-argument">The Dose Argument</h3>
+<p>The industry's defense is the classic toxicological argument: the dose makes the poison. At the levels found in rice, they argue, arsenic poses no significant health risk. But this argument ignores several critical factors:</p>
+<p><strong>Cumulative exposure</strong>: Arsenic accumulates in the body over time. Someone who eats rice daily — as billions of people do — is not exposed once. They are exposed with every meal, for decades.</p>
+<p><strong>Synergistic effects</strong>: Arsenic does not exist in isolation. It interacts with other contaminants — heavy metals, pesticide residues, microplastics — in ways that are poorly understood but likely amplify toxicity.</p>
+<p><strong>Vulnerable populations</strong>: Children, pregnant women, the elderly, and the chronically ill are more susceptible to arsenic's effects. The dose that is "safe" for a healthy adult may be dangerous for these populations.</p>
+<p><strong>Regulatory capture</strong>: The agencies that set "safe" levels are subject to the same regulatory capture described in Part 2 of this series. The revolving door between the rice industry and the regulatory agencies ensures that limits are set to protect industry profits, not consumer health.</p>
+<h2 id="heavy-metals-and-microplastics">Heavy Metals and Microplastics</h2>
+<h3 id="the-complete-contamination-profile">The Complete Contamination Profile</h3>
+<p>Arsenic is not the only contaminant in rice. Independent testing has found elevated levels of cadmium, lead, and mercury in rice samples from multiple countries. These heavy metals, like arsenic, are carcinogens and neurotoxins that accumulate in the body over time.</p>
+<p>Microplastics — tiny fragments of plastic that pervade the environment — have been found in rice at alarming levels. A 2023 study published in the Journal of Hazardous Materials found that a single serving of instant rice can contain millions of microplastic particles. These particles carry their own contaminants — plasticizers, flame retardants, and other industrial chemicals — directly into the digestive system.</p>
+<p>The combination of arsenic, heavy metals, and microplastics creates a toxic cocktail that no regulatory agency has evaluated comprehensively. Each contaminant is studied in isolation, as if the body encounters them one at a time. In reality, the body encounters all of them simultaneously, with every serving of rice, and the combined effect is unknown — because no one with the authority to investigate has been willing to do so.</p>
+<h3 id="industrial-agricultures-legacy">Industrial Agriculture's Legacy</h3>
+<p>The contamination of rice is not a natural phenomenon. It is the product of industrial agriculture — a system designed to maximize yield and profit while externalizing health and environmental costs. The same system that sprayed arsenic-based pesticides on cotton fields in the early 20th century, that discharged heavy metals into waterways from factories, that produced the plastics that are now fragmenting into microplastics throughout the food supply — this system created the conditions for rice contamination.</p>
+<p>The Jesuits' historical role in agricultural development — their missions controlled agriculture across three continents — established the model of centralized, institutional control of food production. The modern industrial agriculture system is the secular successor to the mission system: a centralized authority determining what is grown, how it is grown, and who profits from the growing. The contamination is not a failure of the system. It is a feature — an externalized cost that the system's architects accept as the price of profit.</p>
+<p>Howard Pittman's vision of the demonic hierarchy in the second heaven — organized, purposeful, extractive — describes the operating principle of industrial agriculture with disturbing accuracy. The system extracts nutrients from the soil, health from the consumer, and wealth from the population, redirecting all three to the institutional networks that govern the system. This is spiritual warfare expressed through agricultural policy.</p>
+<h2 id="what-you-can-do">What You Can Do</h2>
+<h3 id="practical-protection">Practical Protection</h3>
+<ol>
+<li>
+<p><strong>Wash your rice</strong>: Rinsing rice thoroughly before cooking removes some surface arsenic. Some researchers recommend soaking rice overnight and discarding the water.</p>
+</li>
+<li>
+<p><strong>Cook with excess water</strong>: Cooking rice in a large amount of water (like pasta) and draining it can reduce arsenic content by up to 60 percent.</p>
+</li>
+<li>
+<p><strong>Diversify your grains</strong>: Quinoa, millet, buckwheat, and amaranth are alternatives that absorb less arsenic than rice.</p>
+</li>
+<li>
+<p><strong>Choose your source carefully</strong>: Basmati rice from India and Pakistan tends to have lower arsenic levels than American-grown rice.</p>
+</li>
+<li>
+<p><strong>Grow your own</strong>: If possible, grow rice or alternative grains in clean soil with clean water.</p>
+</li>
+<li>
+<p><strong>Test your food</strong>: Independent testing services can analyze the contaminant profile of the foods you eat.</p>
+</li>
+</ol>
+<h3 id="the-spiritual-dimension">The Spiritual Dimension</h3>
+<p>Food is sacred. The first commandment in Genesis is dietary — God tells Adam what to eat and what not to eat. The poisoning of food is, in spiritual terms, a violation of the most fundamental divine provision. It is the serpent in the garden, offering fruit that appears good but carries death.</p>
+<p>Howard Pittman's warning — that 97.5 percent of Christians were rejected, that 95 percent serve "self" — applies to the food system as well. Serving "self" includes the institutional self that prioritizes profit over health, convenience over safety, and the wide path of industrial food over the narrow path of clean, local, self-grown sustenance.</p>
+<p>Every choice about what you eat is a spiritual act. Choose wisely.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+<li><strong>Agent131711 Substack</strong>: <a href="https://agent131711.substack.com">agent131711.substack.com</a> — Investigation into food supply contamination and regulatory failure</li>
+<li><strong>Howard Pittman NDE Testimony</strong>: <a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Watch on YouTube</a> — The spiritual dimension of material systems</li>
+<li><strong>Catholic Confidential: Deplorable Jesuit Secrets Revealed</strong>: <a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Watch on YouTube</a> — Institutional control of agriculture and food systems</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/135-Food_Price_Shadow_Industry.mp4">Food Price Shadow Industry</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/351-Broken_Weather.mp4">Broken Weather</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/65-Smart_Dust.mp4">Smart Dust</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/food-industry-hidden-dangers/?lang=en">Food Industry Hidden Dangers: What's Really in Your Food</a></li>
+<li><a href="/stevia-sweetener-birth-control/?lang=en">Stevia: The Sweetener Being Used AS BIRTH CONTROL</a></li>
+<li><a href="/water-supply-contamination-cover-up/?lang=en">The Water Supply Contamination Cover Up Exposed</a></li>
+</ul>
+<p><em>Your rice has been poisoned. Not by a villain in a laboratory, but by a system — an industrial, financial, regulatory system designed to profit from your dependency and indifferent to your health. The poison is measurable. The contamination is documented. And the solution begins in your kitchen, with a choice: accept what the system feeds you, or take control of what you eat. The narrow path leads through the garden, not the grocery store.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/food-environment/","className":"category-badge","children":"food-environment"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"RICE HAS BEEN POISONED: What You Need to Know"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Your rice has been poisoned with arsenic, microplastics, and hidden chemicals. Discover the Jesuit-connected food system contaminating staples."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-03T10:00:00Z","children":"May 3, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","rice",{"href":"/en/tag/rice/","className":"tag-pill","children":["#","rice"]}],["$","a","poison",{"href":"/en/tag/poison/","className":"tag-pill","children":["#","poison"]}],["$","a","arsenic",{"href":"/en/tag/arsenic/","className":"tag-pill","children":["#","arsenic"]}],["$","a","food-safety",{"href":"/en/tag/food-safety/","className":"tag-pill","children":["#","food-safety"]}],["$","a","contamination",{"href":"/en/tag/contamination/","className":"tag-pill","children":["#","contamination"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/rice-poisoned/","title":"RICE HAS BEEN POISONED: What You Need to Know"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/rice-poisoned/","title":"RICE HAS BEEN POISONED: What You Need to Know"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"RICE HAS BEEN POISONED: What You Need to Know | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Your rice has been poisoned with arsenic, microplastics, and hidden chemicals. Discover the Jesuit-connected food system contaminating staples."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"rice, poison, arsenic, food-safety, contamination"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/rice-poisoned/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/rice-poisoned/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/rice-poisoned/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/rice-poisoned/"}],["$","meta","10",{"property":"og:title","content":"RICE HAS BEEN POISONED: What You Need to Know"}],["$","meta","11",{"property":"og:description","content":"Your rice has been poisoned with arsenic, microplastics, and hidden chemicals. Discover the Jesuit-connected food system contaminating staples."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/rice-poisoned/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/rice-poisoned.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"RICE HAS BEEN POISONED: What You Need to Know"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"RICE HAS BEEN POISONED: What You Need to Know"}],["$","meta","25",{"name":"twitter:description","content":"Your rice has been poisoned with arsenic, microplastics, and hidden chemicals. Discover the Jesuit-connected food system contaminating staples."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/rice-poisoned.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

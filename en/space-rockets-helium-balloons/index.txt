@@ -1,0 +1,149 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","space-rockets-helium-balloons",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","space-rockets-helium-balloons","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","space-rockets-helium-balloons","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3ca0,<h1 id="are-space-rockets-actually-helium-balloons-the-evidence">Are Space Rockets Actually HELIUM BALLOONS: The Evidence</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"The heavens declare the glory of God; and the firmament sheweth his handywork."</em> — Psalm 19:1</p>
+</blockquote>
+<p>NASA spends approximately $25 billion per year. SpaceX, Blue Origin, and other private space companies spend billions more. The space industry employs hundreds of thousands of people. Rocket launches are televised globally. Astronauts are celebrated as heroes. And the entire enterprise is built on a narrative that most people accept without question: that rockets carry humans and equipment into outer space.</p>
+<p>But what if the rockets are not what they appear to be? What if the massive columns of flame and smoke that accompany every launch serve not as propulsion but as spectacle — a distraction from the real mechanism of ascent? What if the payloads that "reach orbit" actually reach their destinations by simpler, cheaper, and more mundane means — including helium balloons?</p>
+<p>This is not a question asked lightly. It is a question demanded by evidence — evidence from NASA's own footage, from the behavior of "spacecraft" in flight, from the physics of the systems involved, and from the testimony of researchers who have examined the space program with the same skepticism they would apply to any other government claim.</p>
+<p>Howard Pittman was shown that the spiritual realm is the true reality and that the physical world we perceive is shaped by deception. The 97.5% who are failing accept the space narrative on faith — the same way they accept the germ theory narrative, the vitamin narrative, and every other institutional story. They have "never made Jesus Lord" — they have made NASA their lord, their source of truth about the cosmos, their replacement for the Creator who declares His glory through the heavens.</p>
+<p>The Jesuits have been deeply involved in astronomy and cosmology since the order's founding. Vatican Observatory is run by Jesuit astronomers. Jesuit universities house some of the world's most prominent astronomy departments. Napoleon's "absolute power" extends to power over what humanity believes about the cosmos. Adams's "eternal damnation" applies to those who deceive the world about creation. And Tambulini's governance of "half the world" includes governance over what that world believes about the sky above it.</p>
+<hr>
+<h2 id="the-evidence">The Evidence</h2>
+<h3 id="the-balloon-connection">The Balloon Connection</h3>
+<p>NASA has a long and documented history of using high-altitude balloons:</p>
+<ul>
+<li><strong>NASA's Scientific Balloon Program</strong> launches approximately 10-15 large scientific balloons per year</li>
+<li>These balloons carry payloads of up to <strong>8,000 pounds</strong> to altitudes of <strong>130,000 feet</strong> (approximately 25 miles)</li>
+<li>The balloons are <strong>enormous</strong> — when fully inflated at altitude, they can be as large as a football stadium</li>
+<li>NASA uses balloons for <strong>astronomical observation, atmospheric research, and technology testing</strong></li>
+<li>Some balloon missions carry instruments that are later claimed to have been "in space"</li>
+</ul>
+<p>The existence of NASA's balloon program is not disputed — it is a matter of public record. The question is whether the balloon program is more extensive than publicly acknowledged, and whether some "space missions" are actually balloon missions rebranded for public consumption.</p>
+<h3 id="visual-evidence">Visual Evidence</h3>
+<p>Careful analysis of rocket launch footage and "space" footage has raised questions:</p>
+<p><strong>Launch behavior</strong>: After the initial phase of visible rocket propulsion, many launches enter a phase where the vehicle is no longer visible — it is "above the clouds" or "out of camera range." What happens during this invisible phase cannot be independently verified.</p>
+<p><strong>Trajectory curves</strong>: Some researchers have observed that rocket trajectories curve and eventually move horizontally rather than continuing upward — a behavior more consistent with reaching a buoyancy equilibrium (like a balloon) than with achieving escape velocity.</p>
+<p><strong>Footage anomalies</strong>: NASA footage from "space" has been scrutinized for anomalies including:</p>
+<ul>
+<li>Bubbles visible in "spacewalk" footage, suggesting underwater filming</li>
+<li>Harness systems visible on "floating" astronauts</li>
+<li>Green screen artifacts in ISS footage</li>
+<li>Inconsistent lighting and shadows</li>
+<li>Hair behavior inconsistent with zero gravity</li>
+</ul>
+<p><strong>Balloon sightings</strong>: High-altitude balloons are occasionally visible from the ground and have been reported as "UFOs." The relationship between balloon launches and UFO sightings has been documented by multiple researchers.</p>
+<h3 id="the-physics-questions">The Physics Questions</h3>
+<h4 id="rocket-fuel-and-payload">Rocket Fuel and Payload</h4>
+<p>The physics of rocketry involve a fundamental problem: the rocket must carry the fuel that will propel it, and carrying fuel requires more fuel to carry the fuel. This is the "tyranny of the rocket equation," and it severely limits what rockets can actually accomplish.</p>
+<p>According to NASA's own figures, the Saturn V rocket (which allegedly carried astronauts to the moon) had a gross weight of <strong>6.5 million pounds</strong>, of which approximately <strong>6 million pounds</strong> was fuel. The remaining <strong>500,000 pounds</strong> included the rocket structure and the payload — meaning that over 92% of the rocket's weight was fuel.</p>
+<p>Some researchers have questioned whether a vehicle that is 92% fuel can actually achieve the velocities and distances claimed. The mathematics of the rocket equation are well-established, but the assumptions that feed into the equation — the efficiency of the engines, the energy density of the fuel, the trajectory parameters — are provided by NASA itself and cannot be independently verified.</p>
+<h4 id="the-van-allen-belts">The Van Allen Belts</h4>
+<p>The Van Allen radiation belts — zones of intense radiation surrounding the Earth — present a potentially lethal barrier to human space travel. NASA acknowledges the belts but claims that Apollo astronauts passed through them too quickly to receive dangerous radiation doses.</p>
+<p>This claim has been questioned by researchers who note:</p>
+<ul>
+<li>The radiation levels in the belts are sufficient to damage electronic equipment and harm biological tissue</li>
+<li>The Apollo spacecraft's aluminum hull would have provided minimal radiation shielding</li>
+<li>NASA's own contemporary documents expressed concern about Van Allen belt radiation</li>
+<li>No subsequent manned mission has traveled through the Van Allen belts since Apollo</li>
+</ul>
+<h3 id="the-financial-evidence">The Financial Evidence</h3>
+<p>NASA's budget — $25 billion annually — represents an enormous flow of public money into an organization with minimal independent oversight. The money flows to:</p>
+<ul>
+<li><strong>NASA facilities</strong> across the country</li>
+<li><strong>Defense contractors</strong> (Boeing, Lockheed Martin, Northrop Grumman, SpaceX)</li>
+<li><strong>Research institutions</strong> and universities</li>
+<li><strong>International partners</strong> (ESA, JAXA, Roscosmos)</li>
+</ul>
+<p>The financial incentive to maintain the space narrative is enormous. Thousands of jobs, billions in contracts, and national prestige depend on the public's belief that NASA is actually sending vehicles and people into space. Any disclosure that the program is less than what it claims would trigger financial and political consequences of unprecedented scale.</p>
+<h2 id="the-nasa-deception-pattern">The NASA Deception Pattern</h2>
+<h3 id="operation-paperclip-scientists">Operation Paperclip Scientists</h3>
+<p>NASA was founded in 1958, and its early leadership included numerous scientists recruited from Nazi Germany through Operation Paperclip. The most famous was <strong>Wernher von Braun</strong>, the former SS officer who developed the V-2 rocket for Nazi Germany and became the director of NASA's Marshall Space Flight Center.</p>
+<p>Von Braun and his colleagues were experts in propaganda as well as engineering. The Nazi regime used spectacle — massive rallies, dramatic displays of military power, theatrical leadership — to control public perception. NASA's rocket launches serve a similar function: they are spectacles designed to inspire awe, suppress questioning, and maintain public support for an enormously expensive program.</p>
+<h3 id="compartmentalization">Compartmentalization</h3>
+<p>The space program operates on the principle of compartmentalization — each worker knows only their specific task and has no visibility into the larger operation. A technician who builds a specific component has no way of knowing whether that component is used as claimed. An engineer who designs a specific system cannot verify that the system performs as described in the classified mission profile.</p>
+<p>This compartmentalization means that the vast majority of NASA employees are genuine professionals doing genuine work — they simply have no way of knowing whether the work they do contributes to what the public is told it contributes to. Only those at the highest levels of the organization know the full picture.</p>
+<h2 id="the-spiritual-dimension">The Spiritual Dimension</h2>
+<h3 id="the-firmament">The Firmament</h3>
+<p>The Bible describes the heavens in terms that do not match the modern cosmological narrative:</p>
+<ul>
+<li><strong>Genesis 1:6-8</strong> describes a "firmament" separating "the waters which were under the firmament from the waters which were above the firmament"</li>
+<li><strong>Genesis 1:14-17</strong> describes lights "set in the firmament" — not floating in infinite space</li>
+<li><strong>Psalm 19:1</strong> declares that "the heavens declare the glory of God; and the firmament sheweth his handywork"</li>
+<li><strong>Psalm 104:2</strong> describes God stretching "out the heavens like a curtain"</li>
+<li><strong>Isaiah 40:22</strong> describes God sitting "upon the circle of the earth" and stretching "out the heavens as a curtain, and spreadeth them out as a tent to dwell in"</li>
+</ul>
+<p>The biblical cosmology describes a created space — bounded, purposeful, and designed by God. The modern cosmological narrative describes an infinite, meaningless void in which Earth is an insignificant speck. These two views are irreconcilable, and the choice between them is ultimately a spiritual one.</p>
+<h3 id="the-jesuit-cosmological-agenda">The Jesuit Cosmological Agenda</h3>
+<p>The Jesuit order has been deeply involved in shaping modern cosmology. Jesuit astronomers:</p>
+<ul>
+<li>Run the <strong>Vatican Observatory</strong></li>
+<li>Contributed to the development of <strong>Big Bang theory</strong> (Georges Lemaitre, a Catholic priest)</li>
+<li>Operate telescopes and research programs at Jesuit universities worldwide</li>
+<li>Published extensively on cosmology and the compatibility of faith with modern science</li>
+</ul>
+<p>The Jesuit agenda in cosmology is the same as their agenda everywhere: control the narrative. By controlling what humanity believes about the cosmos — whether the universe is the purposeful creation of God or an accidental void of infinite emptiness — the Jesuits control humanity's relationship with its Creator.</p>
+<p>Howard Pittman was shown three heavens — not infinite empty space. The biblical model of creation places Earth at the center of God's purpose, with the heavens declaring His glory. The NASA model places Earth in a meaningless void, with the heavens declaring nothing. The choice between these models is the choice between faith and materialism — between God and the institutions that have replaced Him.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — NASA analysis, balloon program research, and space fraud investigation</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — the three heavens and the biblical cosmology</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit control of cosmological narrative</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- NASA Scientific Balloon Program documentation</li>
+<li>Operation Paperclip historical records</li>
+<li>Van Allen radiation belt research</li>
+</ul>
+<h2 id="sources-and-references">Sources and References</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZR296RWS0yM&#x26;list=PLm6Vq0bTTCDiPIX2ItdQTQGX7mXQXBxoV">NASA and Space — The Greatest Deception Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=JKdRtRr3O-I">The Firmament, The Earth, The Foundation — Biblical Cosmology</a></li>
+<li><a href="https://www.youtube.com/watch?v=I5ZN289jjDo">The Earth and the Firmament — What Scripture Really Says</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/101-NASA_Helium_Balloons.mp4">NASA Helium Balloons</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/111-Free_Energy_Murdered.mp4">Free Energy Murdered</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/garabed-free-energy-generator/?lang=en">The Garabed Free Energy Generator That Disappeared</a></li>
+<li><a href="/snake-oil-rise-dinosaurs/?lang=en">Snake Oil and The Rise of the Dinosaur Myth</a></li>
+<li><a href="/alien-ufo-psyop-part7/?lang=en">The Alien UFO PSYOP: What V2K Reveals Part 7</a></li>
+</ul>
+<p><em>The heavens declare the glory of God — not the glory of NASA. The firmament shows His handiwork — not Lockheed Martin's. When you watch a rocket launch, ask yourself: what am I actually seeing? The flame and the fury are real. But what reaches the sky may not be what you've been told. Look up with your own eyes. Read the Bible with your own heart. And never, ever stop asking questions.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Are Space Rockets Actually HELIUM BALLOONS: The Evidence"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The evidence that space rockets may actually be helium balloons is more compelling than you think. NASA's deception runs deeper than anyone imagines."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-31T10:00:00Z","children":"December 31, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","NASA",{"href":"/en/tag/NASA/","className":"tag-pill","children":["#","NASA"]}],["$","a","helium-balloons",{"href":"/en/tag/helium-balloons/","className":"tag-pill","children":["#","helium-balloons"]}],["$","a","space-fraud",{"href":"/en/tag/space-fraud/","className":"tag-pill","children":["#","space-fraud"]}],["$","a","rockets",{"href":"/en/tag/rockets/","className":"tag-pill","children":["#","rockets"]}],["$","a","flat-earth",{"href":"/en/tag/flat-earth/","className":"tag-pill","children":["#","flat-earth"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/space-rockets-helium-balloons/","title":"Are Space Rockets Actually HELIUM BALLOONS: The Evidence"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/space-rockets-helium-balloons/","title":"Are Space Rockets Actually HELIUM BALLOONS: The Evidence"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Are Space Rockets Actually HELIUM BALLOONS: The Evidence | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The evidence that space rockets may actually be helium balloons is more compelling than you think. NASA's deception runs deeper than anyone imagines."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"NASA, helium-balloons, space-fraud, rockets, flat-earth"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/space-rockets-helium-balloons/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/space-rockets-helium-balloons/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/space-rockets-helium-balloons/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/space-rockets-helium-balloons/"}],["$","meta","10",{"property":"og:title","content":"Are Space Rockets Actually HELIUM BALLOONS: The Evidence"}],["$","meta","11",{"property":"og:description","content":"The evidence that space rockets may actually be helium balloons is more compelling than you think. NASA's deception runs deeper than anyone imagines."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/space-rockets-helium-balloons/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/space-rockets-helium-balloons.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Are Space Rockets Actually HELIUM BALLOONS: The Evidence"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Are Space Rockets Actually HELIUM BALLOONS: The Evidence"}],["$","meta","25",{"name":"twitter:description","content":"The evidence that space rockets may actually be helium balloons is more compelling than you think. NASA's deception runs deeper than anyone imagines."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/space-rockets-helium-balloons.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

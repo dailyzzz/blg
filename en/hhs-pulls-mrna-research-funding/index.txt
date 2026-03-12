@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","hhs-pulls-mrna-research-funding",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","hhs-pulls-mrna-research-funding","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","hhs-pulls-mrna-research-funding","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4a97,<h1 id="hhs-pulls-500-million-in-mrna-research-funding">HHS Pulls $500 Million in mRNA Research Funding</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows." — 1 Timothy 6:10</p>
+</blockquote>
+<p>In the days of Babel, men sought to build a tower that would reach heaven — not to glorify God, but to make a name for themselves and to defy the boundaries He had established between the created and the Creator. The project was funded by collective ambition and constructed with the latest technology of the age. It was not a house of worship. It was an engine of rebellion — a monument to man's conviction that he could transcend his nature, rewrite the order of creation, and become as gods.</p>
+<p>God scattered them and confused their language. The tower was never completed.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> reveals, the sin of transgression is not mere disobedience — it is the attempt to cross a boundary that God has established. To alter the human genome, to rewrite the code of life itself, to inject synthetic instructions into the cells of billions of human beings — this is not medicine. It is transgression. And the funding that sustains it is the mortar of a modern Babel.</p>
+<p>HHS has pulled $500 million from the tower. The question is whether the builders will stop.</p>
+<hr>
+<h2 id="the-mrna-empire-how-we-got-here">The mRNA Empire: How We Got Here</h2>
+<p>The mRNA technology platform did not emerge from the COVID-19 pandemic. It was in development for decades, funded primarily by the U.S. Department of Defense through the Defense Advanced Research Projects Agency (DARPA) and by the National Institutes of Health (NIH) through the National Institute of Allergy and Infectious Diseases (NIAID), directed for nearly four decades by Dr. Anthony Fauci.</p>
+<p>DARPA's Pandemic Prevention Platform (P3), launched in 2017, aimed to develop the capability to produce nucleic acid-based countermeasures — including mRNA therapies — within 60 days of identifying a pathogen. Moderna's mRNA platform was developed with direct DARPA funding under this program. The company's very name — <strong>Mo</strong>dified <strong>RNA</strong> — describes its technological foundation.</p>
+<p>The NIH co-developed the spike protein design used in the Moderna COVID-19 injection. This co-development meant the U.S. government held a direct financial interest in the product — it stood to receive royalty payments from its commercialization. NIH scientists, including those working under Fauci, received personal royalty payments from pharmaceutical companies for technologies they helped develop while employed as public servants.</p>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com) the financial architecture underlying the mRNA platform. According to Kingston's research, the COVID-19 mRNA injections were not developed under standard pharmaceutical regulatory pathways but under Other Transaction Authority (OTA) contracts — military procurement agreements that exempt the products from standard FDA pharmaceutical regulations. This means the products were never required to meet the safety and efficacy standards of conventional drugs. They were classified as "countermeasures" — military assets deployed under a declared emergency.</p>
+<p>"The mRNA platform was funded by the military, developed under military contracts, deployed under military authority, and shielded from liability by military-grade legal protections," Kingston has stated. "The fact that it was administered in pharmacies and doctor's offices does not change what it is. It is a defense technology, not a medical product."</p>
+<h3 id="the-500-million-pipeline">The $500 Million Pipeline</h3>
+<p>The $500 million in mRNA research funding that HHS has now pulled represents the pipeline — the next generation of mRNA products being developed for influenza, RSV, cancer, autoimmune diseases, rare genetic disorders, and a broad category of "pandemic preparedness" applications. This funding supported research at universities, biotech companies, and federal laboratories across the country.</p>
+<p>The pipeline included:</p>
+<ul>
+<li><strong>Next-generation COVID-19 boosters</strong> designed to target evolving variants</li>
+<li><strong>mRNA influenza vaccines</strong> intended to replace traditional egg-based flu vaccines</li>
+<li><strong>Self-amplifying mRNA (sa-mRNA) technology</strong> that instructs cells not only to produce a target protein but to replicate the mRNA itself, theoretically extending the duration and magnitude of the immune response</li>
+<li><strong>mRNA cancer vaccines</strong> personalized to individual patients' tumor profiles</li>
+<li><strong>Combined mRNA platforms</strong> delivering multiple vaccines in a single injection</li>
+</ul>
+<p>Each of these applications was built on the same foundational technology deployed during COVID-19 — synthetic mRNA wrapped in lipid nanoparticles, delivered into human cells to instruct those cells to manufacture proteins. The same technology that generated hundreds of thousands of adverse event reports, that distributed throughout the body contrary to initial claims, that concentrated in organs including the ovaries and liver, and that was deployed under legal frameworks specifically designed to prevent accountability.</p>
+<hr>
+<h2 id="the-financial-web">The Financial Web</h2>
+<p>The mRNA research funding did not flow in a straight line from HHS to researchers and back. It moved through a web of grants, contracts, sub-awards, and public-private partnerships that connected federal agencies, pharmaceutical companies, universities, and nonprofit organizations in a financial ecosystem designed to obscure accountability and maximize profit.</p>
+<p>Karen Kingston has mapped this financial web in detail. Key nodes include:</p>
+<p><strong>The Biomedical Advanced Research and Development Authority (BARDA)</strong> — an HHS agency that provided billions in funding for COVID-19 countermeasures and continues to fund mRNA platform development. BARDA operates with unusual secrecy, as many of its contracts are classified or subject to limited disclosure requirements.</p>
+<p><strong>The Coalition for Epidemic Preparedness Innovations (CEPI)</strong> — founded in 2017 at the World Economic Forum's annual meeting in Davos, funded by the Bill &#x26; Melinda Gates Foundation, Wellcome Trust, Norway, Germany, Japan, and the European Commission. CEPI funded mRNA vaccine development for pandemic preparedness and played a central role in the COVAX global vaccine distribution program.</p>
+<p><strong>The NIH's National Center for Advancing Translational Sciences (NCATS)</strong> — which funds the translation of basic research into clinical applications, including mRNA therapeutics.</p>
+<p><strong>University research programs</strong> receiving NIH and DARPA grants for mRNA-related research, many of which have licensing agreements with pharmaceutical companies that entitle the university (and individual researchers) to royalty payments from commercialized products.</p>
+<p>The withdrawal of $500 million from this web disrupts not merely individual research projects but the financial relationships that bind federal agencies, pharmaceutical companies, and academic institutions into a self-reinforcing cycle of mutual profit.</p>
+<hr>
+<h2 id="self-amplifying-mrna-the-next-frontier">Self-Amplifying mRNA: The Next Frontier</h2>
+<p>Among the most concerning technologies in the defunded pipeline is self-amplifying mRNA (sa-mRNA). Unlike conventional mRNA, which delivers a finite set of instructions that degrade over time, sa-mRNA includes an additional genetic sequence — derived from alphaviruses — that enables the mRNA to replicate itself inside human cells.</p>
+<p>This means that once injected, the sa-mRNA produces copies of itself, each copy instructing the cell to manufacture more target protein. The process continues until the cell's machinery degrades the self-amplifying instructions — but the timeline for that degradation is not fully understood, and the total quantity of protein produced by a self-amplifying construct is orders of magnitude greater than conventional mRNA.</p>
+<p>Japan approved the world's first sa-mRNA vaccine (ARCT-154, developed by Arcturus Therapeutics and manufactured by CSL Seqirus) for COVID-19 in November 2023. The approval was granted with limited clinical trial data and has generated significant concern among scientists and physicians regarding the potential for uncontrolled protein production, immune system overstimulation, and unknown long-term effects.</p>
+<p>Kingston has identified sa-mRNA as a critical escalation in the technological trajectory: "Self-amplifying mRNA is not a vaccine. It is a synthetic genetic program that, once inside your cells, runs autonomously. You cannot stop it. You cannot remove it. You have no control over how much protein it produces or for how long. This is not medicine. This is a self-replicating genetic technology deployed inside the human body."</p>
+<p>The defunding of sa-mRNA research represents one of the most significant implications of the HHS decision.</p>
+<hr>
+<h2 id="the-theological-dimension-rewriting-the-code-of-life">The Theological Dimension: Rewriting the Code of Life</h2>
+<blockquote>
+<p>"So God created man in his own image, in the image of God created he him; male and female created he them." — Genesis 1:27</p>
+</blockquote>
+<p>The human genome is not merely biological machinery. Scripture declares that human beings are created in the image of God — the <em>imago Dei</em>. The code that governs human biology is not random. It is authored. It carries the signature of its Creator.</p>
+<p>The mRNA platform does not cure disease in the traditional sense. It does not remove a pathogen or repair a damaged organ. It instructs human cells to produce something they were never designed to produce. It introduces synthetic genetic instructions into a system authored by God, commanding that system to execute code written by man.</p>
+<p>This is the transgression described in Scripture — the crossing of a boundary between the created order and the ambitions of those who would improve upon it. The serpent's original promise — "ye shall be as gods" (Genesis 3:5) — finds its modern expression in the language of genetic engineering: we can rewrite the code, optimize the design, and transcend the limitations of the body as God created it.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/171-Great_Reset_Rising.mp4">Great Reset Rising</a> documents the convergence of technological ambition and spiritual rebellion — the construction of a system that promises to perfect humanity through technology while severing humanity from its Creator.</p>
+<p>The $500 million defunding is a brick removed from this tower. But the blueprint remains, and the builders are not lacking for alternative funding sources.</p>
+<hr>
+<h2 id="what-the-defunding-means--and-what-it-does-not">What the Defunding Means — and What It Does Not</h2>
+<p>The HHS decision to pull $500 million in mRNA research funding is significant for several reasons:</p>
+<p><strong>It disrupts the pipeline.</strong> Without federal funding, many mRNA research programs will stall or halt entirely. University labs dependent on NIH grants will lose their funding streams. Early-stage biotech companies without revenue will face existential financial pressure. The timeline for next-generation mRNA products will be extended.</p>
+<p><strong>It sends a political signal.</strong> The defunding communicates that the current administration views the mRNA platform with skepticism rather than enthusiasm. This signal affects the behavior of regulators, researchers, and investors throughout the biomedical ecosystem.</p>
+<p><strong>It creates space for accountability.</strong> As long as the mRNA platform was expanding and generating revenue, there was no institutional incentive to examine its safety record. The defunding creates a pause — and in that pause, questions can be asked, data can be analyzed, and injured individuals can be heard.</p>
+<p>However, the defunding does not:</p>
+<p><strong>Affect existing products.</strong> COVID-19 mRNA injections already on the market (under full FDA approval) are not recalled or withdrawn by this action. Pfizer and Moderna retain their existing approvals and can continue manufacturing and distributing their current products.</p>
+<p><strong>Address liability.</strong> The PREP Act liability shield remains in force. Manufacturers remain immune from lawsuits related to COVID-19 countermeasures administered during the declared emergency.</p>
+<p><strong>Eliminate private funding.</strong> Pharmaceutical companies, venture capital firms, and international organizations (including CEPI, the Gates Foundation, and the Wellcome Trust) continue to fund mRNA research independently of federal appropriations. The technology will continue to be developed — the question is whether it will be developed with or without federal oversight and safety requirements.</p>
+<p><strong>Reverse the damage.</strong> The hundreds of millions of doses already administered cannot be recalled from the bodies of those who received them. Whatever effects the mRNA injections produce — in the near term or over decades — will manifest regardless of future funding decisions.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>HHS.gov — Budget and funding announcements</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's documentation of mRNA platform development, DARPA funding, OTA contracts, and sa-mRNA technology analysis</p>
+</li>
+<li>
+<p>DARPA Pandemic Prevention Platform (P3) — Program documentation</p>
+</li>
+<li>
+<p>BARDA — Biomedical Advanced Research and Development Authority contract records</p>
+</li>
+<li>
+<p>CEPI — Coalition for Epidemic Preparedness Innovations founding documents and funding sources</p>
+</li>
+<li>
+<p>Genesis 1:27, 1 Timothy 6:10 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/171-Great_Reset_Rising.mp4">Great Reset Rising</a> — The convergence of technological ambition and spiritual rebellion</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> — Military biodefense origins of pandemic technology</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/165-Event_201_Came_True.mp4">Event 201 Came True</a> — How pandemic simulations became pandemic realities</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> — The crossing of boundaries God has established between the created and the Creator</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> — The curse that threads through every generation's technology of rebellion</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/trump-bans-gain-of-function/?lang=en">Trump Executive Order Bans Gain-of-Function Research</a> — Executive action against the research that creates the threats it claims to defend against</li>
+<li><a href="/fda-ended-emergency-use-authorizations/?lang=en">FDA Just Ended Emergency Use Authorizations for COVID-19</a> — The termination of the legal framework that deployed mRNA technology at scale</li>
+<li><a href="/trump-freezes-nih-grants/?lang=en">Trump Freezes NIH Approvals and Research Grants</a> — The broader freeze on federal research funding</li>
+<li><a href="/government-fraud-biopharma/?lang=en">Is it Legal for the US Government to Commit Fraud with BioPharma</a> — The legal questions surrounding government-industry collusion</li>
+</ul>
+<hr>
+<p><em>Half a billion dollars has been pulled from the tower of Babel that modern biotechnology is constructing. But the tower's architects have not abandoned their blueprints, and the spirit that drives the construction — "ye shall be as gods" — has not been exorcised from the laboratories, the boardrooms, or the halls of power. The defunding is a reprieve, not a victory. "Except the LORD build the house, they labour in vain that build it" (Psalm 127:1). The mRNA platform was not built by the Lord. The question is whether man will dismantle what man has built, or whether God will do it for him.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"HHS Pulls $500 Million in mRNA Research Funding"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"HHS withdraws half a billion dollars in mRNA research funding, striking at the financial engine powering the next generation of experimental gene therapies."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-05T10:00:00Z","children":"May 5, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","HHS",{"href":"/en/tag/HHS/","className":"tag-pill","children":["#","HHS"]}],["$","a","mRNA",{"href":"/en/tag/mRNA/","className":"tag-pill","children":["#","mRNA"]}],["$","a","research-funding",{"href":"/en/tag/research-funding/","className":"tag-pill","children":["#","research-funding"]}],["$","a","vaccines",{"href":"/en/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","gene-therapy",{"href":"/en/tag/gene-therapy/","className":"tag-pill","children":["#","gene-therapy"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/hhs-pulls-mrna-research-funding/","title":"HHS Pulls $500 Million in mRNA Research Funding"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/hhs-pulls-mrna-research-funding/","title":"HHS Pulls $500 Million in mRNA Research Funding"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"HHS Pulls $500 Million in mRNA Research Funding | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"HHS withdraws half a billion dollars in mRNA research funding, striking at the financial engine powering the next generation of experimental gene therapies."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"HHS, mRNA, research-funding, vaccines, gene-therapy"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/hhs-pulls-mrna-research-funding/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/hhs-pulls-mrna-research-funding/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/hhs-pulls-mrna-research-funding/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/hhs-pulls-mrna-research-funding/"}],["$","meta","10",{"property":"og:title","content":"HHS Pulls $500 Million in mRNA Research Funding"}],["$","meta","11",{"property":"og:description","content":"HHS withdraws half a billion dollars in mRNA research funding, striking at the financial engine powering the next generation of experimental gene therapies."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/hhs-pulls-mrna-research-funding/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/hhs-pulls-mrna-research-funding.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"HHS Pulls $500 Million in mRNA Research Funding"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"HHS Pulls $500 Million in mRNA Research Funding"}],["$","meta","25",{"name":"twitter:description","content":"HHS withdraws half a billion dollars in mRNA research funding, striking at the financial engine powering the next generation of experimental gene therapies."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/hhs-pulls-mrna-research-funding.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

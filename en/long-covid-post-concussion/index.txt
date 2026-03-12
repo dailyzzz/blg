@@ -1,0 +1,227 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","long-covid-post-concussion",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","long-covid-post-concussion","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","long-covid-post-concussion","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T441e,<h1 id="long-covid-mimics-post-concussion-syndrome-the-neural-connection">Long COVID Mimics Post Concussion Syndrome: The Neural Connection</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world." — Ephesians 6:12</p>
+</blockquote>
+<p>The battle is not fought where the eye can see. The rulers of darkness do not operate through armies or governments alone — they operate through mechanisms invisible to the natural eye, through molecular processes that affect the body at levels too small for the unaided human to perceive. The brain — the organ through which the soul interfaces with the physical world, the seat of cognition and consciousness within the temple of the body — is under attack not from blunt force but from microscopic warfare.</p>
+<p>Long COVID — the persistent constellation of neurological symptoms affecting millions worldwide — mimics post-concussion syndrome so precisely that the clinical overlap has become impossible to ignore. The symptoms are the same: brain fog, cognitive impairment, fatigue, headache, dizziness, memory loss, anxiety, depression, sleep disturbance. The mechanism may also be the same: disruption of blood flow to the brain, inflammation of neural tissue, and breach of the blood-brain barrier. But while concussion results from physical trauma, Long COVID results from biological and potentially technological warfare — from the spike protein, from microclots, from nanotechnology that crosses the barrier God placed around the brain.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> speaks to the experience of walking through shadow — and the neurological fog that envelops millions is precisely this: a valley of cognitive shadow from which there seems to be no exit. <a href="https://confliction.zzzdaily.com/tracks/en/105-The_Second_Adam.mp4">The Second Adam</a> points to the restoration that Christ brings to everything the first Adam's fall corrupted — including the mind itself.</p>
+<hr>
+<h2 id="the-symptom-overlap">The Symptom Overlap</h2>
+<p>The clinical parallels between Long COVID and post-concussion syndrome (PCS) are striking and extensively documented. Both conditions produce a constellation of neurological symptoms that significantly impair daily function.</p>
+<h3 id="shared-symptoms">Shared Symptoms</h3>
+<table>
+<thead>
+<tr>
+<th>Symptom</th>
+<th>Long COVID</th>
+<th>Post-Concussion Syndrome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Brain fog</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Cognitive impairment</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Fatigue</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Headache</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Dizziness</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Memory difficulties</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Difficulty concentrating</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Sleep disturbances</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Anxiety</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Depression</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Light sensitivity</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Sound sensitivity</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Exercise intolerance</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Autonomic dysfunction</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p>The overlap is not partial — it is nearly complete. This is not a coincidence. When two clinically distinct conditions produce virtually identical symptom profiles, the most parsimonious explanation is that they share a common mechanism of neural damage.</p>
+<h3 id="patient-experience">Patient Experience</h3>
+<p>Patients with Long COVID consistently describe their experience in terms that concussion patients recognize immediately:</p>
+<ul>
+<li>"My brain feels like it's wrapped in cotton"</li>
+<li>"I can't think clearly — it's like the thoughts are there but I can't reach them"</li>
+<li>"I feel like I was hit in the head, even though I wasn't"</li>
+<li>"My memory is gone — I forget conversations I had yesterday"</li>
+<li>"I can't tolerate noise or bright lights"</li>
+<li>"I crash after any physical or mental exertion"</li>
+</ul>
+<p>Neurologists who treat both conditions have noted that they are often clinically indistinguishable without knowledge of the patient's medical history.</p>
+<h2 id="the-shared-mechanism-microvasculature-and-neuroinflammation">The Shared Mechanism: Microvasculature and Neuroinflammation</h2>
+<h3 id="microclot-induced-cerebral-hypoxia">Microclot-Induced Cerebral Hypoxia</h3>
+<p>As documented in our article on <a href="/vaccinated-amyloid-microclots/?lang=en">amyloid microclots</a>, all COVID-19 vaccinated individuals (and many unvaccinated individuals affected by shedding or the virus itself) have amyloid microclots in their blood. These microclots obstruct microvasculature — the tiny capillaries through which oxygen and nutrients reach individual cells.</p>
+<p>The brain is the most metabolically demanding organ in the body, consuming approximately 20% of total oxygen despite representing only 2% of body weight. Any reduction in cerebral microcirculation has immediate and severe consequences for brain function. When microclots obstruct cerebral capillaries:</p>
+<ul>
+<li>Brain cells receive inadequate oxygen (hypoxia)</li>
+<li>Metabolic waste products accumulate instead of being cleared</li>
+<li>Neural signaling is impaired</li>
+<li>Cognitive function degrades</li>
+</ul>
+<p>This is exactly the same mechanism by which concussion causes symptoms. Physical trauma to the brain damages cerebral blood vessels, disrupts microcirculation, causes localized hypoxia, and triggers neuroinflammation. The difference is that concussion damage is mechanical, while Long COVID damage is biochemical and potentially nanotechnological — but the downstream effect on brain function is identical.</p>
+<h3 id="blood-brain-barrier-disruption">Blood-Brain Barrier Disruption</h3>
+<p>The blood-brain barrier (BBB) is a highly selective membrane that separates circulating blood from brain tissue. It is one of the most sophisticated protective structures in the body — God's firewall for the organ of consciousness.</p>
+<p>Research has demonstrated that both the SARS-CoV-2 spike protein and certain components of the mRNA injection platform can disrupt the blood-brain barrier:</p>
+<ul>
+<li><strong>Spike protein</strong> binds to ACE2 receptors expressed on brain endothelial cells, triggering inflammatory cascades that loosen the tight junctions between cells</li>
+<li><strong>Lipid nanoparticles</strong> are specifically designed to cross biological membranes — and research has shown they can cross the BBB and accumulate in brain tissue</li>
+<li><strong>Inflammatory cytokines</strong> produced in response to spike protein (whether from infection or vaccination) increase BBB permeability</li>
+</ul>
+<p>When the blood-brain barrier is breached, substances that are normally excluded from brain tissue — inflammatory molecules, nanoparticles, heavy metals, microplastics — gain access to neural tissue. This is the same mechanism observed in concussion, where physical trauma disrupts the BBB and allows inflammatory molecules to enter the brain.</p>
+<p>Ana Mihalcea, MD, PhD has documented on her Substack (<a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a>) that the self-assembling nanostructures observed in blood are small enough to cross a compromised blood-brain barrier. This raises the possibility that nanotechnology is assembling not only in the blood but within brain tissue itself — a prospect with implications that extend far beyond neurological symptoms into questions of cognition, consciousness, and autonomy.</p>
+<h3 id="neuroinflammation">Neuroinflammation</h3>
+<p>Both concussion and Long COVID produce neuroinflammation — the activation of the brain's immune cells (microglia) in response to perceived injury. Activated microglia release inflammatory cytokines and reactive oxygen species that damage neural tissue, creating a self-perpetuating cycle of inflammation and damage.</p>
+<p>In concussion, the trigger is mechanical injury. In Long COVID, the triggers may include:</p>
+<ul>
+<li>Persistent spike protein production (from ongoing mRNA translation)</li>
+<li>Microclot-induced hypoxia</li>
+<li>Direct nanotechnology penetration of the BBB</li>
+<li>Autoimmune responses triggered by spike protein mimicry of human proteins</li>
+<li>Heavy metal and microplastic accumulation in neural tissue</li>
+</ul>
+<p>The result is the same: chronic neuroinflammation that degrades cognitive function and produces the constellation of symptoms shared by both conditions.</p>
+<h2 id="the-spiritual-war-against-the-mind">The Spiritual War Against the Mind</h2>
+<p>The brain is not merely an organ. In the biblical framework, it is the interface between the immaterial soul and the physical world. While the mind — the seat of thought, will, and emotion — is ultimately spiritual rather than material, it operates through the brain while the soul inhabits the body. To damage the brain is to impair the soul's ability to express itself in the physical world.</p>
+<p>The entities described in Ephesians 6:12 — principalities, powers, rulers of darkness — have always targeted the human mind. Deception is, by definition, a mental operation. The great delusion of 2 Thessalonians 2:9-12 is a delusion of the mind — a condition in which people cannot perceive truth because their capacity for discernment has been compromised.</p>
+<p>What happens when this spiritual assault on the mind is accompanied by a physical assault on the brain? When neuroinflammation degrades cognitive function, when microclots reduce oxygen to neural tissue, when the blood-brain barrier is breached and nanotechnology enters the organ of consciousness? The result is a population that is not only spiritually deceived but neurologically impaired — unable to think clearly, remember accurately, concentrate sufficiently, or process information with the speed and acuity that discernment requires.</p>
+<p>Under the dome of the firmament — the enclosed space described in Genesis 1 where humanity lives beneath the watchful hatred of imprisoned fallen angels — the corruption of the mind through both spiritual deception and neurological damage is the most comprehensive attack possible. It targets the interface through which humans relate to God, perceive truth, and exercise the dominion they were given over creation.</p>
+<h2 id="treatment-approaches">Treatment Approaches</h2>
+<p>Because the mechanism is shared, treatments that help concussion patients may also help Long COVID patients — and vice versa.</p>
+<h3 id="address-microclots">Address Microclots</h3>
+<p>Nattokinase and bromelain, as documented in our article on <a href="/vaccinated-amyloid-microclots/?lang=en">amyloid microclots</a>, can degrade the anomalous fibrin formations obstructing cerebral microcirculation. Restoring blood flow to the brain is the foundational intervention.</p>
+<h3 id="reduce-neuroinflammation">Reduce Neuroinflammation</h3>
+<ul>
+<li><strong>Omega-3 fatty acids</strong> (DHA specifically) — documented to reduce neuroinflammation and support neural membrane integrity in both concussion and chronic neurological conditions</li>
+<li><strong>Curcumin</strong> — potent anti-neuroinflammatory with blood-brain barrier penetration capabilities</li>
+<li><strong>Lion's mane mushroom</strong> — contains compounds (hericenones and erinacines) that stimulate nerve growth factor (NGF) production, supporting neural repair</li>
+<li><strong>Low-dose naltrexone</strong> — used by functional medicine practitioners to modulate neuroinflammation through opioid receptor pathways</li>
+</ul>
+<h3 id="support-blood-brain-barrier-integrity">Support Blood-Brain Barrier Integrity</h3>
+<ul>
+<li><strong>Resveratrol</strong> — supports tight junction integrity in cerebral endothelial cells</li>
+<li><strong>Vitamin D</strong> — adequate vitamin D status is associated with blood-brain barrier integrity</li>
+<li><strong>Avoid BBB-disrupting substances</strong> — alcohol, certain medications, and processed foods containing emulsifiers can further compromise the blood-brain barrier</li>
+</ul>
+<h3 id="edta-chelation">EDTA Chelation</h3>
+<p>Dr. Mihalcea's work documents that EDTA chelation improves blood quality broadly, including reduction of metallic nanoparticles that may accumulate in brain tissue. Removal of heavy metals (aluminum, mercury, lead) that have crossed the BBB is critical for reducing neuroinflammation.</p>
+<h3 id="hyperbaric-oxygen-therapy">Hyperbaric Oxygen Therapy</h3>
+<p>Hyperbaric oxygen therapy (HBOT) has demonstrated benefit for both post-concussion syndrome and Long COVID. By saturating tissues with oxygen under pressure, HBOT can overcome microclot-induced hypoxia, reduce neuroinflammation, and support neural repair. Research from Tel Aviv University has demonstrated that HBOT can improve cognitive function in Long COVID patients.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Pretorius E, et al. "Persistent clotting protein pathology in Long COVID." Cardiovascular Diabetology, 2021</li>
+<li>Ana Mihalcea, MD, PhD — Substack research publications: <a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a></li>
+<li>Zilberman-Itskovich S, et al. "Hyperbaric oxygen therapy improves neurocognitive functions of post-COVID-19 patients." Scientific Reports, 2022</li>
+<li>Rhea EM, et al. "The S1 protein of SARS-CoV-2 crosses the blood-brain barrier in mice." Nature Neuroscience, 2021</li>
+<li>The Master's Voice Prophecy Blog: <a href="https://themastersvoice.wordpress.com">themastersvoice.wordpress.com</a></li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The pharmaceutical product damaging brain and blood</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> — Nanoscale technology crossing the blood-brain barrier</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> — The engineered nature of the damage</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> — The cognitive fog through which millions now walk</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/105-The_Second_Adam.mp4">The Second Adam</a> — The restoration of all that was damaged, including the mind</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/vaccinated-amyloid-microclots/?lang=en">ALL C19 Vaccinated Have Amyloid Microclots in Their Blood</a> — The clotting mechanism behind neurological damage</li>
+<li><a href="/darkfield-microscopy-self-assembly/?lang=en">Darkfield Microscopy Shows Self Assembly Nanotechnology in Human Blood</a> — The nanotechnology crossing the blood-brain barrier</li>
+<li><a href="/smartphone-rouleaux-formation/?lang=en">Smart Phone Exposure Shows Rouleaux Formation in Live Blood</a> — Electromagnetic factors worsening blood flow and brain oxygenation</li>
+</ul>
+<hr>
+<p><em>The mind is the final frontier of the war. When the brain is inflamed, when microclots obstruct the capillaries that feed thought and memory, when the blood-brain barrier is breached and foreign technology enters the organ of consciousness — the capacity for discernment is physically degraded. This is not coincidence. The rulers of darkness of this world have always targeted the mind, and now they have a mechanism: pharmaceutical products that damage the brain through the same pathways as physical trauma. But the mind of Christ — offered to every believer through the Spirit of God — operates above the physical brain. It cannot be inflamed. It cannot be clotted. It cannot be breached. And it is available to everyone who asks, regardless of what has been done to the temple in which it dwells.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Long COVID Mimics Post Concussion Syndrome: The Neural Connection"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Long COVID symptoms mirror post-concussion syndrome, revealing a shared mechanism of neural damage through microclots, inflammation, and blood-brain barrier breach."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-23T10:00:00Z","children":"February 23, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","long-covid",{"href":"/en/tag/long-covid/","className":"tag-pill","children":["#","long-covid"]}],["$","a","post-concussion",{"href":"/en/tag/post-concussion/","className":"tag-pill","children":["#","post-concussion"]}],["$","a","neurological-damage",{"href":"/en/tag/neurological-damage/","className":"tag-pill","children":["#","neurological-damage"]}],["$","a","microclots",{"href":"/en/tag/microclots/","className":"tag-pill","children":["#","microclots"]}],["$","a","blood-brain-barrier",{"href":"/en/tag/blood-brain-barrier/","className":"tag-pill","children":["#","blood-brain-barrier"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/long-covid-post-concussion/","title":"Long COVID Mimics Post Concussion Syndrome: The Neural Connection"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/long-covid-post-concussion/","title":"Long COVID Mimics Post Concussion Syndrome: The Neural Connection"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Long COVID Mimics Post Concussion Syndrome: The Neural Connection | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Long COVID symptoms mirror post-concussion syndrome, revealing a shared mechanism of neural damage through microclots, inflammation, and blood-brain barrier breach."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"long-covid, post-concussion, neurological-damage, microclots, blood-brain-barrier"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/long-covid-post-concussion/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/long-covid-post-concussion/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/long-covid-post-concussion/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/long-covid-post-concussion/"}],["$","meta","10",{"property":"og:title","content":"Long COVID Mimics Post Concussion Syndrome: The Neural Connection"}],["$","meta","11",{"property":"og:description","content":"Long COVID symptoms mirror post-concussion syndrome, revealing a shared mechanism of neural damage through microclots, inflammation, and blood-brain barrier breach."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/long-covid-post-concussion/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/long-covid-post-concussion.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Long COVID Mimics Post Concussion Syndrome: The Neural Connection"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Long COVID Mimics Post Concussion Syndrome: The Neural Connection"}],["$","meta","25",{"name":"twitter:description","content":"Long COVID symptoms mirror post-concussion syndrome, revealing a shared mechanism of neural damage through microclots, inflammation, and blood-brain barrier breach."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/long-covid-post-concussion.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

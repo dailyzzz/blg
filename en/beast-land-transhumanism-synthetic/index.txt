@@ -1,0 +1,156 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","beast-land-transhumanism-synthetic",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","beast-land-transhumanism-synthetic","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","beast-land-transhumanism-synthetic","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3d75,<h1 id="the-beast-of-the-land-transhumanism-and-synthetic-futures">The BEAST of the LAND: Transhumanism and Synthetic Futures</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon." -- Revelation 13:11</p>
+</blockquote>
+<p>The second beast of Revelation -- the Beast of the Land -- rises from the earth itself. Not from the sea of nations, like the first beast, but from the ground, from the material world, from the physical creation. This beast appears gentle (horns like a lamb) but speaks with the voice of the dragon. It is a counterfeit of the Lamb of God -- an imitation of Christ that replaces divine creation with technological creation, organic life with synthetic life, God's design with the adversary's engineering.</p>
+<p>Transhumanism is the philosophy of the Beast of the Land. Synthetic biology is its method. And the synthetic future it promises -- a world of engineered organisms, artificial intelligence, uploaded consciousness, and technological immortality -- is the counterfeit creation that the dragon offers in place of the eternal life that only God provides.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a> from the Confliction album declares, the serpent's curse corrupts all that it touches, replacing the living with the synthetic. And as <a href="https://confliction.zzzdaily.com/tracks/en/81-The_Word_Made_Flesh.mp4">The Word Made Flesh</a> proclaims, God's Word became flesh -- real, organic, living flesh -- not synthetic, not engineered, not uploaded.</p>
+<hr>
+<h2 id="the-synthetic-future">The Synthetic Future</h2>
+<h3 id="what-is-being-built">What Is Being Built</h3>
+<p>The synthetic future being constructed through transhumanist technology encompasses every domain of creation:</p>
+<p><strong>Synthetic Biology</strong></p>
+<p>The engineering of biological systems from synthetic components. Synthetic biology creates:</p>
+<ul>
+<li>Organisms with DNA sequences designed in computers and assembled in laboratories</li>
+<li>Biological circuits that process information using engineered genetic pathways</li>
+<li>Artificial cells built from non-biological components that mimic cellular function</li>
+<li>Xenobots -- self-assembling biological robots created from frog cells, reprogrammed by AI</li>
+<li>Synthetic food -- lab-grown meat, engineered proteins, artificial nutrients</li>
+</ul>
+<p>Synthetic biology replaces God's creation with man's creation. Where God spoke organisms into existence by His Word, synthetic biologists write organisms into existence with code. The counterfeit is apparent: creation by speech (God) is replaced by creation by programming (man). The living Word is replaced by the digital word.</p>
+<p><strong>Synthetic Food</strong></p>
+<p>The food supply is being systematically transformed from organic to synthetic:</p>
+<ul>
+<li>Lab-grown meat produced from cultured animal cells</li>
+<li>Insect protein as a replacement for animal agriculture</li>
+<li>Genetically modified organisms (GMOs) with engineered genetic sequences</li>
+<li>mRNA technology injected into livestock, entering the food chain</li>
+<li>Nanotechnology in food processing, preservation, and packaging</li>
+<li>Synthetic fertilizers and pesticides replacing natural soil management</li>
+</ul>
+<p>The transformation of food from organic creation to synthetic product is a direct assault on the covenant of sustenance. God promised that "while the earth remaineth, seedtime and harvest shall not cease" (Genesis 8:22). The synthetic food agenda seeks to make natural agriculture obsolete, replacing God's provision with technological production controlled by corporations.</p>
+<p><strong>Synthetic Humans</strong></p>
+<p>The transhumanist vision culminates in the creation of synthetic humans -- beings that are part biological, part technological, and part digital:</p>
+<ul>
+<li>Neural implants that merge consciousness with artificial intelligence</li>
+<li>Genetic modifications that alter the human genome beyond natural parameters</li>
+<li>Nanotechnology that replaces biological processes with synthetic processes</li>
+<li>Digital consciousness uploaded from biological brains to silicon substrates</li>
+<li>Biological-mechanical hybrid bodies that combine organic tissue with robotic components</li>
+</ul>
+<p>Ana Mihalcea, MD, PhD, has documented extensively on her Substack (anamihalceamdphd.substack.com) how the nanotechnology now found in human blood is the first stage of the synthetic human project. The self-assembling structures in blood are converting organic biology into a hybrid organic-synthetic system -- transforming natural humans into the first generation of synthetic beings without their knowledge or consent.</p>
+<h2 id="the-beast-rising-from-the-earth">The Beast Rising from the Earth</h2>
+<h3 id="theological-analysis">Theological Analysis</h3>
+<p>Revelation 13:11-18 describes the second beast with specific characteristics that map directly to the transhumanist synthetic agenda:</p>
+<p><strong>"Coming up out of the earth"</strong></p>
+<p>The Beast of the Land rises from the earth -- from the material realm, from the physical creation. Transhumanism and synthetic biology are earth-based technologies. They do not come from heaven or from the spiritual realm. They come from the ground -- from the laboratories built on the earth's surface, from the minerals mined from the earth's crust, from the silicon extracted from the earth's sand.</p>
+<p>The plate-shaped earth, contained under the dome of the firmament, is the substrate from which the Beast of the Land emerges. It does not descend from above (like the fallen angels). It ascends from below -- from the material world, through technological manipulation of the physical elements God placed in the earth.</p>
+<p><strong>"Two horns like a lamb"</strong></p>
+<p>The Beast of the Land appears gentle, beneficial, lamb-like. Transhumanism presents itself as:</p>
+<ul>
+<li>Medical progress (healing disease through technology)</li>
+<li>Human enhancement (improving human capabilities)</li>
+<li>Compassionate innovation (reducing suffering through synthetic solutions)</li>
+<li>Democratic choice (morphological freedom, body autonomy)</li>
+</ul>
+<p>This lamb-like appearance conceals the dragon's voice. The medical progress delivers nanotechnology contamination. The human enhancement delivers control infrastructure. The compassionate innovation delivers synthetic food that separates humanity from God's natural provision. And the democratic choice becomes mandatory augmentation.</p>
+<p><strong>"Spake as a dragon"</strong></p>
+<p>Beneath the lamb-like exterior, the Beast of the Land speaks with the voice of the adversary. The dragon's voice says:</p>
+<ul>
+<li>"You shall be as gods" (transhumanist promise)</li>
+<li>"You shall not surely die" (life extension/immortality promise)</li>
+<li>"Your eyes shall be opened" (cognitive enhancement promise)</li>
+<li>"You shall know good and evil" (AI omniscience promise)</li>
+</ul>
+<p>These are the exact words of the serpent in Genesis 3:4-5. The transhumanist message is the serpent's message -- word for word, promise for promise -- delivered through technology rather than through a tree.</p>
+<p><strong>"Causeth the earth and them which dwell therein to worship the first beast"</strong></p>
+<p>The Beast of the Land uses its technology to enforce worship of the first beast (the global political system). The technological infrastructure of transhumanism -- nanotechnology, AI, electromagnetic grids, digital identity -- provides the enforcement mechanism for the Beast system. Without the technology, the Beast system has no teeth. With the technology, compliance can be monitored, measured, and enforced at the individual level.</p>
+<p><strong>"Maketh fire come down from heaven"</strong></p>
+<p>The Beast of the Land performs signs -- including fire from heaven. Directed energy weapons, operating from elevated platforms (towers, satellites, aircraft), literally make energy descend from above. This technological "miracle" convinces the population that the Beast system possesses divine-like power, facilitating worship and compliance.</p>
+<p><strong>"The mark"</strong></p>
+<p>The Beast of the Land administers the mark -- the technology required for economic participation. The injectable nanotechnology, the digital identity, the biometric verification, the biosensor network -- all are components of the mark system that the Beast of the Land deploys.</p>
+<h2 id="the-convergence-point">The Convergence Point</h2>
+<h3 id="all-things-synthetic">All Things Synthetic</h3>
+<p>The synthetic future represents the replacement of God's creation with the adversary's creation at every level:</p>
+<ul>
+<li><strong>Synthetic sky</strong> -- geoengineering replacing God's atmosphere with metallic haze</li>
+<li><strong>Synthetic weather</strong> -- weather warfare replacing God's rain with engineered precipitation</li>
+<li><strong>Synthetic food</strong> -- lab-grown products replacing God's harvest</li>
+<li><strong>Synthetic bodies</strong> -- nanotechnology replacing God's biology</li>
+<li><strong>Synthetic minds</strong> -- AI replacing God's consciousness</li>
+<li><strong>Synthetic souls</strong> -- digital upload replacing God's breath</li>
+</ul>
+<p>The end-state of the transhumanist synthetic agenda is a world in which nothing remains of God's original creation. Everything natural has been replaced by something synthetic. Everything organic has been replaced by something engineered. Everything alive has been replaced by something programmed.</p>
+<p>This is the Beast of the Land's ultimate objective: not merely to control creation but to replace it entirely. To build a synthetic world within the dome of the firmament that mimics God's world but serves the dragon. A counterfeit creation for a counterfeit god.</p>
+<h3 id="the-remnants-response">The Remnant's Response</h3>
+<p>But God's creation is resilient. The seeds planted by God still grow. The sun still rises. The rain still falls. The firmament still holds. And the remnant -- the people who refused the mark, refused the synthetic food, refused the nanotechnology, refused the augmentation -- carry within them the uncorrupted image of God. They are the living testimony that God's original creation endures, even in a world rushing toward synthetic replacement.</p>
+<p>The victory of the remnant is not technological. It is biological, spiritual, and covenantal. They carry God's DNA. They breathe God's breath. They drink God's water. They eat God's food. And they worship God alone -- not the Beast, not the dragon, and not the synthetic creation that the adversary has built within the dome.</p>
+<p>The fallen angels imprisoned under the dome will come. They will present themselves as creators, as aliens, as the source of human life. They will point to the synthetic creation and say, "We made this." And the world, already carrying the synthetic within their bodies, will believe the lie. But the remnant will know. They will remember the Word -- the Word that was in the beginning, the Word that was with God, the Word that was God, the Word that became flesh and dwelt among us, full of grace and truth.</p>
+<p>And that Word endures forever.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Church, G., "Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves," 2012</li>
+<li>World Economic Forum, "Fourth Industrial Revolution" and related synthetic biology documentation</li>
+<li>Various synthetic biology research and commercialization documentation</li>
+<li>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, the synthetic human agenda through nanotechnology</li>
+<li>Carnicom Institute, environmental synthetic contamination documentation</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/61-Synthetic_Biology.mp4">Synthetic Biology</a> -- The creation of synthetic life systems</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/339-The_New_Man.mp4">The New Man</a> -- The synthetic human as transhumanist goal</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/447-Modded_Humans.mp4">Modded Humans</a> -- The modification of God's design</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/489-Nephilim_Nanobots.mp4">Nephilim Nanobots</a> -- The Genesis 6 pattern in synthetic form</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/113-Kosher_Mafia_Rising.mp4">Kosher Mafia Rising</a> -- The corruption of the food supply</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a> -- The curse replacing the living with the synthetic</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/81-The_Word_Made_Flesh.mp4">The Word Made Flesh</a> -- God's Word as living flesh, not synthetic code</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/us-transhumanist-party/?lang=en">The U.S. Transhumanist Party and Political Posthumanism</a> -- The political movement behind the synthetic future</li>
+<li><a href="/human-augmentation-self-spreading/?lang=en">Human Augmentation Through Self-Spreading Nanotechnology</a> -- The spreading of synthetic technology</li>
+<li><a href="/european-commission-self-amplifying/?lang=en">European Commission Approves Self-Amplifying mRNA Technology</a> -- The self-replicating synthetic platform</li>
+</ul>
+<hr>
+<p><em>The Beast of the Land is rising. It comes from the earth -- from laboratories, from silicon, from engineered DNA, from synthetic proteins, from self-assembling nanotechnology. It looks like a lamb -- gentle, beneficial, progressive. But it speaks as a dragon -- promising divinity through technology, immortality through engineering, knowledge through artificial intelligence. The synthetic future it offers is a counterfeit creation -- a world where nothing remains of what God made, where every natural thing has been replaced by a synthetic imitation. But God's creation cannot be fully replaced. The Word that spoke the world into existence endures. The breath that God breathed into Adam still animates His children. And the blood of the Lamb -- not synthetic blood, not nanotechnology-infused blood, but the real, covenant blood of Jesus Christ -- remains the only substance in the universe that can redeem what the Beast of the Land seeks to corrupt. The synthetic future will fail. The counterfeit creation will crumble. And the Word made flesh will stand when every synthetic thing has returned to the dust from which it was engineered.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/food-environment/","className":"category-badge","children":"food-environment"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The BEAST of the LAND: Transhumanism and Synthetic Futures"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The Beast of the Land described in Revelation emerges through transhumanism and synthetic biology, replacing God's creation with a technological counterfeit."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-08T10:00:00Z","children":"April 8, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","beast-system",{"href":"/en/tag/beast-system/","className":"tag-pill","children":["#","beast-system"]}],["$","a","transhumanism",{"href":"/en/tag/transhumanism/","className":"tag-pill","children":["#","transhumanism"]}],["$","a","synthetic-biology",{"href":"/en/tag/synthetic-biology/","className":"tag-pill","children":["#","synthetic-biology"]}],["$","a","revelation",{"href":"/en/tag/revelation/","className":"tag-pill","children":["#","revelation"]}],["$","a","end-times",{"href":"/en/tag/end-times/","className":"tag-pill","children":["#","end-times"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/beast-land-transhumanism-synthetic/","title":"The BEAST of the LAND: Transhumanism and Synthetic Futures"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/beast-land-transhumanism-synthetic/","title":"The BEAST of the LAND: Transhumanism and Synthetic Futures"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The BEAST of the LAND: Transhumanism and Synthetic Futures | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The Beast of the Land described in Revelation emerges through transhumanism and synthetic biology, replacing God's creation with a technological counterfeit."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"beast-system, transhumanism, synthetic-biology, revelation, end-times"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/beast-land-transhumanism-synthetic/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/beast-land-transhumanism-synthetic/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/beast-land-transhumanism-synthetic/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/beast-land-transhumanism-synthetic/"}],["$","meta","10",{"property":"og:title","content":"The BEAST of the LAND: Transhumanism and Synthetic Futures"}],["$","meta","11",{"property":"og:description","content":"The Beast of the Land described in Revelation emerges through transhumanism and synthetic biology, replacing God's creation with a technological counterfeit."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/beast-land-transhumanism-synthetic/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/beast-land-transhumanism-synthetic.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The BEAST of the LAND: Transhumanism and Synthetic Futures"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The BEAST of the LAND: Transhumanism and Synthetic Futures"}],["$","meta","25",{"name":"twitter:description","content":"The Beast of the Land described in Revelation emerges through transhumanism and synthetic biology, replacing God's creation with a technological counterfeit."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/beast-land-transhumanism-synthetic.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

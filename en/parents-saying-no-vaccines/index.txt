@@ -1,0 +1,176 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","parents-saying-no-vaccines",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","parents-saying-no-vaccines","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","parents-saying-no-vaccines","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4010,<h1 id="nearly-1-out-of-5-parents-are-saying-no-to-vaccines">Nearly 1 out of 5 Parents Are Saying NO to Vaccines</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And Shadrach, Meshach, and Abednego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter. If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king. But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up." — Daniel 3:16-18</p>
+</blockquote>
+<p>The three Hebrew men in Babylon faced a mandate: bow to the golden image or burn. The mandate came from the highest authority in the land. Refusal carried the ultimate penalty. They refused. Their refusal was not based on a calculation of probabilities. It was based on a principle: they would not participate in a system that demanded bodily compliance as an act of worship to a false authority.</p>
+<p>Nearly one in five American parents have made the same choice. They are saying no to vaccines — not because they have calculated that the risk-benefit ratio favors refusal, but because they have concluded that the system demanding their children's compliance is not worthy of trust. The refusal is principled. The refusal is growing. And like the three Hebrew men, these parents are facing the furnace: loss of school access, loss of daycare, social ostracism, and the relentless pressure of a medical establishment that treats refusal as heresy.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> exposes the infrastructure of compliance. And the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> reminds us that the ultimate authority over children's bodies is not the state — it is the God who formed them.</p>
+<hr>
+<h2 id="the-survey-data-a-historic-shift">The Survey Data: A Historic Shift</h2>
+<h3 id="the-numbers">The Numbers</h3>
+<p>Recent survey data reveals that approximately 18-20% of American parents are now refusing some or all vaccines for their children. This represents a historic shift in public health compliance:</p>
+<ul>
+<li><strong>Before 2020:</strong> Vaccine refusal rates were estimated at 2-5% of parents, depending on the survey and definition used</li>
+<li><strong>2020-2023:</strong> Refusal rates began climbing as COVID-19 vaccine mandates generated resistance that extended to all vaccines</li>
+<li><strong>2024-2026:</strong> Refusal rates have stabilized in the 15-20% range, representing a four-to-tenfold increase from pre-pandemic levels</li>
+</ul>
+<p>The 20% threshold is significant because it represents the tipping point at which vaccine refusal becomes a socially normalized behavior rather than a fringe position. When one in five parents refuses, every social circle includes refusers. The stigma attached to refusal diminishes. The social pressure to comply weakens.</p>
+<h3 id="who-is-refusing">Who Is Refusing</h3>
+<p>The demographic profile of vaccine-refusing parents defies the stereotypes promoted by public health messaging:</p>
+<p><strong>Education:</strong> Vaccine refusal is highest among the most educated demographics. Parents with graduate degrees and those in healthcare professions show some of the highest refusal rates — contradicting the narrative that vaccine skepticism is driven by ignorance.</p>
+<p><strong>Income:</strong> Vaccine refusal spans all income levels, with significant refusal among both high-income professionals and working-class families. The common thread is not economic status but information access and institutional distrust.</p>
+<p><strong>Race/Ethnicity:</strong> Vaccine refusal has grown significantly in African American communities (driven by historical medical abuse and COVID-era distrust), Hispanic communities, and white communities across the political spectrum.</p>
+<p><strong>Geography:</strong> Refusal is no longer concentrated in specific regions. While certain states (Idaho, Alaska, Oregon) have historically high exemption rates, the post-COVID refusal movement has spread to all 50 states.</p>
+<p><strong>Political Affiliation:</strong> While vaccine skepticism was initially framed as a conservative phenomenon, data shows significant refusal growth among progressives, libertarians, and politically unaffiliated parents. The issue has crossed partisan lines.</p>
+<hr>
+<h2 id="the-kingston-report-why-parents-are-refusing">The Kingston Report: Why Parents Are Refusing</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> identifies the factors driving parental refusal.</p>
+<h3 id="trust-collapse">Trust Collapse</h3>
+<p>Kingston has documented that the single most powerful driver of vaccine refusal is the collapse of trust in public health institutions. This collapse was caused by:</p>
+<p><strong>The COVID-19 experience.</strong> Parents watched as:</p>
+<ul>
+<li>"Two weeks to flatten the curve" became two years of restrictions</li>
+<li>"Safe and effective" mRNA vaccines caused documented injuries and deaths</li>
+<li>Natural immunity was denied and demonized</li>
+<li>Mandates were imposed without scientific justification</li>
+<li>Children were masked, isolated, and injected for a disease that posed minimal risk to them</li>
+<li>The CDC changed definitions (of "vaccine," "herd immunity," "fully vaccinated") to match the product rather than the science</li>
+</ul>
+<p><strong>The censorship experience.</strong> Parents who researched vaccine safety online watched as:</p>
+<ul>
+<li>Social media platforms censored vaccine-critical content</li>
+<li>Doctors who questioned vaccine safety lost their licenses</li>
+<li>Scientists who published vaccine-critical research were deplatformed</li>
+<li>The term "misinformation" was weaponized to mean "anything that contradicts the pharmaceutical narrative"</li>
+</ul>
+<p><strong>The institutional capture experience.</strong> Parents learned that:</p>
+<ul>
+<li>The CDC owns vaccine patents and profits from vaccine sales</li>
+<li>The FDA receives the majority of its drug review funding from pharmaceutical companies (user fees)</li>
+<li>ACIP members who vote on the vaccine schedule have financial conflicts of interest with vaccine manufacturers</li>
+<li>The revolving door between regulatory agencies and the pharmaceutical industry is constant</li>
+</ul>
+<h3 id="the-information-revolution">The Information Revolution</h3>
+<p>Kingston has documented that the mass refusal is driven by an information revolution — parents now have access to:</p>
+<ul>
+<li>Vaccine package inserts (available online)</li>
+<li>VAERS data (searchable at vaers.hhs.gov)</li>
+<li>Pfizer's court-ordered documents (released and widely analyzed)</li>
+<li>Published peer-reviewed research on vaccine adverse events</li>
+<li>Independent analysis from scientists and clinicians outside the institutional mainstream</li>
+<li>Testimonies from vaccine-injured individuals and families</li>
+</ul>
+<p>The pharmaceutical industry's information monopoly has been broken. Parents can no longer be kept in the dark about what vaccines contain, what they can do, and what the manufacturers' own data shows. This information access is irreversible — and it is driving irreversible changes in parental behavior.</p>
+<hr>
+<h2 id="the-institutional-response-coercion-not-persuasion">The Institutional Response: Coercion, Not Persuasion</h2>
+<h3 id="how-the-system-is-responding">How the System Is Responding</h3>
+<p>The public health establishment's response to growing vaccine refusal has been coercive rather than persuasive:</p>
+<p><strong>Eliminating exemptions.</strong> States like California (SB 277), New York, and Maine have eliminated non-medical vaccine exemptions, removing the legal pathway for philosophical or religious refusal.</p>
+<p><strong>Restricting medical exemptions.</strong> Even medical exemptions — exemptions granted by a physician based on the child's medical condition — have been restricted. In California, a state board reviews and can override physician-granted medical exemptions.</p>
+<p><strong>Expanding mandates.</strong> Rather than addressing the causes of distrust, institutions are expanding the scope of mandates — adding new vaccines to the required schedule, extending mandates to younger ages, and increasing enforcement.</p>
+<p><strong>Social pressure campaigns.</strong> Public health messaging campaigns have shifted from education to shame — labeling refusing parents as "anti-vaxxers," accusing them of endangering other children, and framing refusal as a moral failing.</p>
+<h3 id="why-coercion-fails">Why Coercion Fails</h3>
+<p>The coercive approach is backfiring:</p>
+<ul>
+<li>Parents who are coerced into compliance do not become vaccine advocates — they become resentful and distrustful</li>
+<li>Eliminating legal exemptions drives noncompliance underground — parents homeschool, forge records, or move to states with exemptions</li>
+<li>The use of force confirms the suspicions of refusing parents — if the product is truly safe and beneficial, why must it be forced?</li>
+<li>Coercion generates organized political opposition — the medical freedom movement is now a significant political force in multiple states</li>
+</ul>
+<hr>
+<h2 id="the-biblical-framework-parental-authority">The Biblical Framework: Parental Authority</h2>
+<h3 id="parents-as-guardians">Parents as Guardians</h3>
+<p>Scripture places children under the authority and protection of their parents, not the state:</p>
+<blockquote>
+<p>"Train up a child in the way he should go: and when he is old, he will not depart from it." — Proverbs 22:6</p>
+</blockquote>
+<blockquote>
+<p>"And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord." — Ephesians 6:4</p>
+</blockquote>
+<p>The parent is the divinely appointed guardian of the child's body, mind, and spirit. The state's authority over children exists only as delegated by the family — not the reverse. When the state mandates medical procedures for children against the parents' wishes, it inverts the divine order: the state replaces the parent as guardian, and the medical system replaces God as the authority over the body.</p>
+<h3 id="the-furnace-of-compliance">The Furnace of Compliance</h3>
+<p>The mandate system is the modern furnace of Nebuchadnezzar. The golden image is the vaccine schedule. The decree is the mandate. The punishment for refusal is not death by fire but death by exclusion — exclusion from school, from daycare, from public life.</p>
+<p>But the three Hebrew men showed that the furnace is not the end. God was with them in the fire. And He is with the parents who refuse to bow — who stand before the school administrator, the pediatrician, the social worker, and say: "We will not serve thy gods, nor worship the golden image which thou hast set up."</p>
+<h3 id="the-mark-pattern">The Mark Pattern</h3>
+<p>Revelation 13 describes a system where no one can buy or sell without the mark. The vaccine mandate system is a prototype: no child can attend school, access daycare, or participate in public life without the required injections. The structure is identical — biological compliance as a prerequisite for social participation.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> explores how nanotechnology transforms this social compliance into biological identity — the mark becoming internal, permanent, and irremovable.</p>
+<hr>
+<h2 id="what-parents-should-know">What Parents Should Know</h2>
+<ol>
+<li><strong>Nearly 1 in 5 parents are now refusing vaccines</strong> — you are not alone, and refusal is growing.</li>
+<li><strong>Vaccine refusal is highest among the most educated</strong> — the "ignorance" narrative is false.</li>
+<li><strong>The trust collapse is driven by documented institutional failures</strong> during the COVID-19 era.</li>
+<li><strong>Every state has some form of vaccine exemption</strong> — know your state's laws and the process for claiming exemptions.</li>
+<li><strong>The coercive response to refusal</strong> (mandate expansion, exemption elimination) confirms that the system prioritizes compliance over consent.</li>
+<li><strong>Parental authority over children's medical decisions</strong> is a biblical and constitutional principle.</li>
+<li><strong>The information monopoly is broken</strong> — parents can now access the data the institutions suppressed.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of vaccine refusal trends and institutional response.</li>
+<li>Survey data on parental vaccine confidence</li>
+<li>State-by-state vaccine exemption laws</li>
+<li>CDC immunization coverage data</li>
+<li>Published research on demographic patterns of vaccine refusal</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> — The infrastructure of compliance</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The captured system parents are rejecting</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> — The compliance-to-mark trajectory</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — The authority that overrules the mandate</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> — Rejecting the counterfeit for the genuine</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/mass-awakening-deadly-mrna-shots/?lang=en">Survey Confirms Mass Awakening to Deadly COVID-19 mRNA Shots</a> — The awakening driving the refusal</li>
+<li><a href="/cdc-childhood-vaccine-schedule-reduced/?lang=en">CDC Childhood Vaccine Schedule Reduced: What Changed</a> — The institutional retreat</li>
+<li><a href="/babies-injected-43-vaccine-viruses/?lang=en">Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two</a> — What parents are refusing</li>
+<li><a href="/medical-diagnostic-system-rigged/?lang=en">For 45 Years the Medical Diagnostic System Has Been Rigged</a> — The rigged system parents see through</li>
+</ul>
+<hr>
+<p><em>Nearly one in five. The number grows. The furnace burns, but the parents stand. They have seen what the institution does not want them to see: the data, the documents, the injuries, the deaths. They have weighed the golden image on honest scales and found it wanting. "But if not, be it known unto thee, O king, that we will not serve thy gods." The refusal is not rebellion — it is obedience to a higher authority. The God who formed their children in the womb is the God who commands their protection. And the furnace has no power over those who walk with Him.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Nearly 1 out of 5 Parents Are Saying NO to Vaccines"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Survey data shows nearly 20 percent of American parents are now refusing vaccines for their children, representing a historic shift in public health compliance."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-01T10:00:00Z","children":"May 1, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","vaccine-refusal",{"href":"/en/tag/vaccine-refusal/","className":"tag-pill","children":["#","vaccine-refusal"]}],["$","a","parents",{"href":"/en/tag/parents/","className":"tag-pill","children":["#","parents"]}],["$","a","informed-consent",{"href":"/en/tag/informed-consent/","className":"tag-pill","children":["#","informed-consent"]}],["$","a","public-health",{"href":"/en/tag/public-health/","className":"tag-pill","children":["#","public-health"]}],["$","a","medical-freedom",{"href":"/en/tag/medical-freedom/","className":"tag-pill","children":["#","medical-freedom"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/parents-saying-no-vaccines/","title":"Nearly 1 out of 5 Parents Are Saying NO to Vaccines"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/parents-saying-no-vaccines/","title":"Nearly 1 out of 5 Parents Are Saying NO to Vaccines"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Nearly 1 out of 5 Parents Are Saying NO to Vaccines | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Survey data shows nearly 20 percent of American parents are now refusing vaccines for their children, representing a historic shift in public health compliance."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"vaccine-refusal, parents, informed-consent, public-health, medical-freedom"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/parents-saying-no-vaccines/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/parents-saying-no-vaccines/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/parents-saying-no-vaccines/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/parents-saying-no-vaccines/"}],["$","meta","10",{"property":"og:title","content":"Nearly 1 out of 5 Parents Are Saying NO to Vaccines"}],["$","meta","11",{"property":"og:description","content":"Survey data shows nearly 20 percent of American parents are now refusing vaccines for their children, representing a historic shift in public health compliance."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/parents-saying-no-vaccines/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/parents-saying-no-vaccines.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Nearly 1 out of 5 Parents Are Saying NO to Vaccines"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Nearly 1 out of 5 Parents Are Saying NO to Vaccines"}],["$","meta","25",{"name":"twitter:description","content":"Survey data shows nearly 20 percent of American parents are now refusing vaccines for their children, representing a historic shift in public health compliance."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/parents-saying-no-vaccines.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

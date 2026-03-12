@@ -1,0 +1,191 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","physical-harm-death-warning",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","physical-harm-death-warning","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","physical-harm-death-warning","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T40b1,<h1 id="official-warning-about-physical-harm-and-death-from-nanotechnology">Official Warning About Physical Harm And Death From Nanotechnology</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"My people are destroyed for lack of knowledge." -- Hosea 4:6</p>
+</blockquote>
+<p>The destruction described by Hosea is not the result of enemies at the gate. It is the result of ignorance -- the absence of knowledge that could have prevented the destruction. The physical harm and death now being caused by nanotechnology contamination in the human population is destroying people who do not know what is inside them, who do not understand what is happening to their blood, and who have never been warned by the institutions that were supposed to protect them.</p>
+<p>This article serves as an official warning. The evidence is documented. The harm is real. The deaths are occurring. And the knowledge that could save lives is being systematically suppressed by the very institutions responsible for public health.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a> from the Confliction album declares, the curse enters through ignorance exploited by deception. And as <a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> promises, the One who crushes the serpent also heals those the serpent has bitten.</p>
+<hr>
+<h2 id="the-warning">The Warning</h2>
+<h3 id="statement-of-harm">Statement of Harm</h3>
+<p>Based on the documented evidence of nanotechnology contamination in the human population, the following harms are being observed and documented by physicians, researchers, and scientists worldwide:</p>
+<p><strong>Cardiovascular Harm</strong></p>
+<ul>
+<li>Myocarditis and pericarditis (inflammation of the heart muscle and surrounding tissue)</li>
+<li>Sudden cardiac death in previously healthy individuals, including young athletes and children</li>
+<li>Blood clotting abnormalities including micro-clotting, macro-clotting, and unusual clot composition</li>
+<li>Rouleaux formation (red blood cell stacking) indicating disrupted blood flow</li>
+<li>Cardiac arrhythmias and conduction abnormalities</li>
+<li>Aortic dissection and aneurysm at increased rates</li>
+</ul>
+<p><strong>Neurological Harm</strong></p>
+<ul>
+<li>Cognitive impairment ("brain fog") affecting memory, concentration, and executive function</li>
+<li>Seizures and epileptiform activity in individuals with no prior seizure history</li>
+<li>Stroke at increased rates, including in young populations</li>
+<li>Progressive neurological deterioration resembling prion disease</li>
+<li>Bell's palsy and other cranial nerve palsies</li>
+<li>Guillain-Barre syndrome and other inflammatory neuropathies</li>
+</ul>
+<p><strong>Oncological Harm</strong></p>
+<ul>
+<li>Rapid-onset aggressive cancers ("turbo cancers") in previously healthy individuals</li>
+<li>Cancer recurrence in patients who had been in remission</li>
+<li>Treatment-resistant cancers that fail to respond to standard protocols</li>
+<li>Multiple simultaneous primary cancers in different organs</li>
+<li>Cancer in age groups and demographics not typically affected</li>
+</ul>
+<p><strong>Immunological Harm</strong></p>
+<ul>
+<li>Immune system dysfunction including lymphocyte depletion</li>
+<li>Autoimmune conditions emerging after nanotechnology exposure</li>
+<li>Increased susceptibility to infections including COVID-19, RSV, and opportunistic infections</li>
+<li>Reactivation of latent infections (shingles, herpes, EBV, CMV)</li>
+<li>AIDS-like immune deficiency in vaccinated populations (VAIDS)</li>
+</ul>
+<p><strong>Reproductive Harm</strong></p>
+<ul>
+<li>Menstrual irregularities including heavy bleeding, missed periods, and post-menopausal bleeding</li>
+<li>Miscarriage at increased rates</li>
+<li>Stillbirth at increased rates</li>
+<li>Fertility reduction in both males and females</li>
+<li>Abnormalities in breast milk composition</li>
+</ul>
+<p>Ana Mihalcea, MD, PhD, has documented hundreds of cases on her Substack (anamihalceamdphd.substack.com) correlating these clinical presentations with darkfield microscopy findings of nanotechnology contamination in blood. The correlation between nanotechnology load (measured by microscopy) and clinical severity (measured by symptom presentation) provides direct evidence of causation.</p>
+<h3 id="the-death-signal">The Death Signal</h3>
+<p>Excess mortality data from multiple countries shows significant increases in all-cause mortality that correlate temporally with mRNA vaccine deployment:</p>
+<ul>
+<li>Insurance industry data shows 40% increases in working-age mortality</li>
+<li>Actuarial analyses document excess deaths in highly vaccinated populations</li>
+<li>Cardiac deaths, cancer deaths, and neurological deaths are leading contributors</li>
+<li>The excess mortality persists years after vaccine deployment, consistent with ongoing nanotechnology activity</li>
+</ul>
+<p>These deaths are not being investigated by the institutions responsible for public health. Coroners are not examining blood for nanotechnology. Medical examiners are not performing darkfield microscopy on deceased individuals. The cause of death is attributed to natural causes, and the nanotechnology contamination goes unexamined and undocumented.</p>
+<h2 id="the-physicians-warning">The Physicians' Warning</h2>
+<h3 id="clinicians-speaking-out">Clinicians Speaking Out</h3>
+<p>Despite institutional pressure to remain silent, physicians and researchers worldwide are issuing warnings:</p>
+<ul>
+<li>Cardiologists documenting unprecedented cardiac event rates in young, healthy populations</li>
+<li>Oncologists reporting cancer patterns that have no historical precedent</li>
+<li>Neurologists seeing neurological damage profiles that resemble no known natural disease</li>
+<li>Pathologists finding unusual clot formations and tissue abnormalities in deceased individuals</li>
+<li>Hematologists observing blood abnormalities visible under standard microscopy</li>
+</ul>
+<p>These clinicians risk their careers, their licenses, and their reputations to warn the public. Their courage in the face of institutional suppression is the only reason this information reaches the public at all.</p>
+<h3 id="treatment-exists">Treatment Exists</h3>
+<p>Critical to this warning is the message of hope: treatment exists. The harm is real, but it is not irreversible in many cases:</p>
+<ul>
+<li><strong>EDTA chelation therapy</strong> reduces nanotechnology load and improves blood quality</li>
+<li><strong>Vitamin C and antioxidant protocols</strong> support detoxification and reduce oxidative stress</li>
+<li><strong>Methylene blue</strong> shows promise in disrupting nanotechnology self-assembly</li>
+<li><strong>Fasting and autophagy protocols</strong> support cellular self-cleaning</li>
+<li><strong>Electromagnetic shielding</strong> reduces external activation of nanotechnology</li>
+<li><strong>Prayer and spiritual warfare</strong> address the spiritual dimension of the contamination</li>
+</ul>
+<p>The body, designed by God with extraordinary resilience, fights against the foreign technology. With proper support -- medical, nutritional, and spiritual -- the body's natural defenses can be strengthened and the contamination reduced.</p>
+<h2 id="the-institutional-failure">The Institutional Failure</h2>
+<h3 id="why-the-system-did-not-protect-you">Why the System Did Not Protect You</h3>
+<p>The institutions responsible for protecting public health -- the FDA, the CDC, the EMA, the WHO -- not only failed to prevent the harm documented above, they actively facilitated it:</p>
+<ul>
+<li><strong>The FDA approved products without adequate safety data</strong>, granting Emergency Use Authorization based on two months of clinical trial follow-up for products that would be administered to billions of people for years</li>
+<li><strong>The CDC recommended universal vaccination</strong>, including for populations (children, pregnant women, recovered individuals) where the risk-benefit analysis was never established and where the nanotechnology components were never evaluated</li>
+<li><strong>The WHO coordinated global deployment</strong>, pressuring nations to adopt vaccination mandates and digital health passport systems that coerced compliance</li>
+<li><strong>Medical licensing boards threatened physicians</strong> who reported adverse events or questioned the safety narrative, creating institutional pressure to suppress clinical observations</li>
+<li><strong>Pharmaceutical companies were granted legal immunity</strong> from liability for vaccine injuries, removing the financial incentive for safety that normally constrains pharmaceutical behavior</li>
+</ul>
+<p>The system did not fail. It performed exactly as designed -- as a delivery mechanism for pharmaceutical products deployed under military authority, with institutional immunity from accountability.</p>
+<h3 id="the-suppression-of-treatment">The Suppression of Treatment</h3>
+<p>Perhaps the most damaging institutional failure was the active suppression of early treatment protocols that could have reduced the severity of COVID-19 without the need for mass vaccination:</p>
+<ul>
+<li><strong>Ivermectin</strong> -- a Nobel Prize-winning medication shown in multiple studies to reduce COVID-19 severity, was actively suppressed by regulatory agencies and medical institutions</li>
+<li><strong>Hydroxychloroquine</strong> -- a decades-old anti-malarial medication with documented antiviral properties, was subjected to fraudulent studies (the Lancet/Surgisphere scandal) designed to discredit it</li>
+<li><strong>Vitamin D, zinc, and other nutritional protocols</strong> -- well-established immune support interventions were dismissed as ineffective despite robust evidence of benefit</li>
+</ul>
+<p>The suppression of treatment was not merely negligent -- it was necessary for the deployment agenda. Under EUA regulations, Emergency Use Authorization for vaccines can only be granted when "there are no adequate, approved, and available alternatives." By suppressing alternatives, the regulatory system created the legal conditions necessary for vaccine authorization. The harm from untreated disease and the harm from undisclosed nanotechnology were both consequences of the same institutional decision: suppress treatment, authorize injection, deploy nanotechnology.</p>
+<h2 id="the-prophetic-warning">The Prophetic Warning</h2>
+<h3 id="pharmakeia-kills">Pharmakeia Kills</h3>
+<p>Revelation 18:23 warns that all nations were deceived by pharmakeia. Revelation 9:21 adds that despite the plagues, "neither repented they of their murders, nor of their sorceries [pharmakeia], nor of their fornication, nor of their thefts."</p>
+<p>The pharmakeia kills. The pharmaceutical sorcery produces not just deception but death. The excess mortality now documented worldwide is the death toll of pharmakeia -- the body count of the pharmaceutical deception that all nations accepted.</p>
+<p>But the warning also carries hope. The God who warns is the God who heals. The God who exposes the harm is the God who provides the remedy. The blood of Jesus Christ, applied through faith, cleanses what no chelation therapy can fully reach. The Spirit of God, received through prayer, fights what no pharmaceutical can defeat.</p>
+<p>The warning is urgent. The harm is real. The deaths are occurring. But the God who gave the warning also gave the remedy. And His remedy is sufficient.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>Various national excess mortality data (ONS UK, Eurostat, CDC USA)</p>
+</li>
+<li>
+<p>Insurance industry mortality reports, 2022-2025</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, clinical documentation and treatment protocols</p>
+</li>
+<li>
+<p>Multiple physician statements and clinical observations documented through independent media</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> -- The pharmaceutical weapon causing harm</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> -- The nanotechnology causing physical damage</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> -- The internal system producing harm</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/497-Tribulation_Tech.mp4">Tribulation Tech</a> -- The technology of the tribulation causing death</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a> -- The curse causing physical destruction</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> -- The healer of those the serpent has bitten</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/advanced-implanted-nanotechnology/?lang=en">Advanced Implanted Nanotechnology Microchips Found in Patients</a> -- Clinical documentation of nanotechnology in patients</li>
+<li><a href="/sv40-cancer-dna-covid-vaccines/?lang=en">SV40 Cancer-Causing DNA Found In COVID-19 Vaccines</a> -- Cancer-causing contamination</li>
+<li><a href="/victory-future-generation/?lang=en">Victory For Our Future Generation Against Medical Tyranny</a> -- Hope and resistance against the harm</li>
+</ul>
+<hr>
+<p><em>My people are destroyed for lack of knowledge. The knowledge is now available. The harm is documented. The deaths are counted. The nanotechnology is visible under the microscope. The treatments exist. The warning is given. What remains is the choice: will you receive the knowledge, or will you reject it? Will you seek treatment, or will you trust the institutions that poisoned you? Will you turn to the God who warns, or will you remain in the ignorance that the serpent exploits? The warning is given in love, because God does not desire the destruction of His people. He desires their healing. And healing begins with knowledge -- knowledge of what was done, knowledge of what is inside, and knowledge of the God who heals all diseases and redeems life from destruction.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Official Warning About Physical Harm And Death From Nanotechnology"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Official warnings from researchers and physicians about the physical harm and death being caused by nanotechnology contamination in the human population."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-31T10:00:00Z","children":"March 31, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","nanotechnology",{"href":"/en/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}],["$","a","harm",{"href":"/en/tag/harm/","className":"tag-pill","children":["#","harm"]}],["$","a","death",{"href":"/en/tag/death/","className":"tag-pill","children":["#","death"]}],["$","a","warning",{"href":"/en/tag/warning/","className":"tag-pill","children":["#","warning"]}],["$","a","physicians",{"href":"/en/tag/physicians/","className":"tag-pill","children":["#","physicians"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/physical-harm-death-warning/","title":"Official Warning About Physical Harm And Death From Nanotechnology"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/physical-harm-death-warning/","title":"Official Warning About Physical Harm And Death From Nanotechnology"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Official Warning About Physical Harm And Death From Nanotechnology | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Official warnings from researchers and physicians about the physical harm and death being caused by nanotechnology contamination in the human population."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"nanotechnology, harm, death, warning, physicians"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/physical-harm-death-warning/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/physical-harm-death-warning/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/physical-harm-death-warning/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/physical-harm-death-warning/"}],["$","meta","10",{"property":"og:title","content":"Official Warning About Physical Harm And Death From Nanotechnology"}],["$","meta","11",{"property":"og:description","content":"Official warnings from researchers and physicians about the physical harm and death being caused by nanotechnology contamination in the human population."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/physical-harm-death-warning/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/physical-harm-death-warning.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Official Warning About Physical Harm And Death From Nanotechnology"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Official Warning About Physical Harm And Death From Nanotechnology"}],["$","meta","25",{"name":"twitter:description","content":"Official warnings from researchers and physicians about the physical harm and death being caused by nanotechnology contamination in the human population."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/physical-harm-death-warning.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

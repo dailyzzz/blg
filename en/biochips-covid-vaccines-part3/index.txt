@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","biochips-covid-vaccines-part3",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","biochips-covid-vaccines-part3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","biochips-covid-vaccines-part3","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T45d2,<h1 id="study-of-biochips-found-in-covid-19-vaccines-part-3">Study of Biochips Found in COVID-19 Vaccines: Part 3</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name." -- Revelation 13:16-17</p>
+</blockquote>
+<p>The mark of the Beast has been debated for two millennia. Theologians have proposed tattoos, microchips, barcodes, and social credit scores. But the biochip evidence documented in Parts 1 and 2 of this series points to a reality that encompasses and transcends all of these proposals: a self-assembling biosensor network injected into the body through pharmaceutical intervention, creating an internal infrastructure that integrates the individual into a global system of identification, monitoring, and economic control.</p>
+<p>This is not the mark itself. But it may be the infrastructure upon which the mark will operate. The foundation upon which the final system will be built. And as this third and final installment documents, the patent evidence, the military research, and the stated objectives of the organizations driving this technology make the intended purpose unmistakably clear.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> from the Confliction album declares, the rebellion that began in heaven continues on earth through every system that seeks to replace God's authority with technological control. And as <a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> promises, those who endure to the end will overcome every weapon the adversary has deployed.</p>
+<hr>
+<h2 id="the-patent-evidence">The Patent Evidence</h2>
+<h3 id="united-states-patent-us11107588b2">United States Patent US11107588B2</h3>
+<p>Among the most significant patents connected to injectable biosensor technology is US11107588B2, assigned to Microsoft Technology Licensing. Titled "Cryptocurrency system using body activity data," this patent describes a system in which:</p>
+<ul>
+<li>A sensor device monitors body activity (including brain waves, body heat, blood flow, and organ activity)</li>
+<li>The body activity data is transmitted to a server</li>
+<li>The server evaluates whether the body activity satisfies conditions set by a cryptocurrency system</li>
+<li>If conditions are met, cryptocurrency is awarded to the user</li>
+</ul>
+<p>This patent explicitly describes a system in which human biological activity -- monitored by sensors within or on the body -- is the basis for economic participation. The sensors described in the patent are consistent with the biochip structures documented in vaccine vials and human blood. The cryptocurrency system described is consistent with a digital economic system that could replace physical currency. And the "conditions" that must be satisfied before economic activity is permitted bear unmistakable resemblance to the mark described in Revelation 13 -- a requirement that must be met before anyone can buy or sell.</p>
+<p>The patent number itself -- WO2020060606 (the international application number) -- has drawn attention for containing "060606," though this may be coincidental. What is not coincidental is the patent's explicit description of a system that monitors human biology through sensors and makes economic participation contingent upon body activity data.</p>
+<h3 id="darpa-and-the-injectable-biosensor-programs">DARPA and the Injectable Biosensor Programs</h3>
+<p>The Defense Advanced Research Projects Agency (DARPA) has funded multiple programs developing injectable biosensor technology:</p>
+<p><strong>Profusa and the Lumee Oxygen Platform</strong></p>
+<p>DARPA funded Profusa, Inc. to develop an injectable biosensor called the Lumee Oxygen Platform. This system consists of:</p>
+<ul>
+<li>A hydrogel scaffold injected under the skin</li>
+<li>Engineered fluorescent molecules embedded in the scaffold that change their optical properties in response to chemical signals in body tissue</li>
+<li>An external reader device that detects the fluorescent signals through the skin</li>
+</ul>
+<p>Profusa describes this technology as providing "real-time monitoring of body chemistry." The hydrogel scaffold is designed to integrate with surrounding tissue, becoming part of the body. The system provides continuous monitoring of oxygen levels, glucose, lactate, and other biomarkers.</p>
+<p>This is not a future technology. DARPA began funding Profusa's injectable biosensor in 2011. By 2021, the technology was being described as a tool for "pandemic preparedness" -- a sensor that could detect infection before symptoms appear.</p>
+<p><strong>The N3 Program: Next-Generation Nonsurgical Neurotechnology</strong></p>
+<p>DARPA's N3 program funds the development of noninvasive and minimally invasive neural interfaces -- technology that can read from and write to the brain without requiring surgical implantation. The program explicitly describes:</p>
+<ul>
+<li>Injectable nanotransducers that convert electromagnetic signals into neural signals and vice versa</li>
+<li>External transceivers that communicate with the injected nanotransducers</li>
+<li>Two-way communication between external systems and the human brain</li>
+</ul>
+<p>The N3 program does not merely monitor biological activity. It writes to the brain -- transmitting signals that influence neural activity. This is the technological foundation for mind control through injectable nanotechnology, a capability that moves the biochip system from surveillance into active control.</p>
+<h3 id="patent-landscape-analysis">Patent Landscape Analysis</h3>
+<p>A comprehensive analysis of the patent landscape surrounding injectable biosensor technology reveals thousands of patents filed by pharmaceutical companies, defense contractors, and technology corporations. Key patent families cover:</p>
+<ul>
+<li>Self-assembling nanostructures for in-body sensor networks</li>
+<li>Electromagnetic communication between implanted devices and external systems</li>
+<li>Energy harvesting from biological processes to power implanted devices</li>
+<li>Hydrogel scaffolds for persistent in-body device integration</li>
+<li>Neural interfaces using injectable nanotechnology</li>
+<li>Body-activity-based economic participation systems</li>
+</ul>
+<p>These patents do not describe speculative or theoretical technology. They describe engineered systems with specific designs, materials, manufacturing processes, and operational parameters. And the structures found in COVID-19 vaccine vials match the descriptions in these patents.</p>
+<h2 id="the-military-dimension">The Military Dimension</h2>
+<h3 id="human-performance-enhancement">Human Performance Enhancement</h3>
+<p>The U.S. Department of Defense has publicly acknowledged its interest in human augmentation technology. A 2019 study by the Biotechnologies for Health and Human Performance Council, titled "Cyborg Soldier 2050: Human/Machine Fusion and the Implications for the Future of the DOD," describes:</p>
+<ul>
+<li><strong>Optogenetic bodysuit sensors</strong> that monitor the warfighter's physiological status</li>
+<li><strong>Enhanced situational awareness</strong> through neural interfaces</li>
+<li><strong>Restoration and programmatic control of muscular function</strong> through nanotechnology</li>
+<li><strong>Direct communication between the brain and external systems</strong></li>
+</ul>
+<p>The study explicitly acknowledges that these technologies will first be developed for military applications and then extended to civilian populations. The military-to-civilian pipeline for injectable nanotechnology follows the same trajectory as GPS, the internet, and other technologies that were developed for defense and subsequently deployed to the general public.</p>
+<h3 id="the-dual-use-framework">The Dual-Use Framework</h3>
+<p>Injectable biosensor technology is classified as "dual-use" -- technology with both civilian and military applications. Under the dual-use framework, research that is publicly described as "health monitoring" or "pandemic preparedness" simultaneously advances military capabilities for soldier augmentation, performance monitoring, and neural control.</p>
+<p>This dual-use classification means that every dollar spent on civilian biosensor research simultaneously advances military human augmentation programs. The COVID-19 vaccine deployment, viewed through this lens, was not merely a public health campaign. It was the largest human augmentation deployment in history -- the injection of biosensor nanotechnology into billions of civilians under the cover of pandemic response.</p>
+<p>Ana Mihalcea, MD, PhD, has drawn extensive connections on her Substack (anamihalceamdphd.substack.com) between military augmentation research and the structures she observes in patient blood. Dr. Mihalcea argues that the civilian population is being used as an unwitting test bed for military nanotechnology, with the COVID-19 vaccine serving as the delivery mechanism.</p>
+<h2 id="the-spiritual-architecture">The Spiritual Architecture</h2>
+<h3 id="the-tower-of-babel-revisited">The Tower of Babel Revisited</h3>
+<p>In Genesis 11, humanity united in the construction of the Tower of Babel -- a structure designed to "reach unto heaven." God's response was to confuse their language and scatter them across the earth, disrupting the unified technological project that threatened to eliminate the boundaries He had established.</p>
+<p>The Internet of Bodies represents a new Tower of Babel -- a technological system designed to unite all of humanity into a single connected network, eliminating the boundaries of individual autonomy, privacy, and bodily sovereignty. Just as Babel sought to bridge the gap between earth and heaven through technology, the IoB seeks to bridge the gap between human consciousness and machine systems through injectable nanotechnology.</p>
+<p>But there is a crucial difference. The builders of Babel acted in open defiance. The builders of the IoB act through deception -- concealing their technology inside a medical product, deploying it under the cover of a pandemic, and denying its existence when researchers document the evidence. This is not merely ambition. It is pharmakeia -- pharmaceutical sorcery -- the specific mechanism of end-times deception identified in Revelation 18:23.</p>
+<h3 id="the-genesis-6-pattern">The Genesis 6 Pattern</h3>
+<p>The biochip system represents the latest iteration of the Genesis 6 corruption pattern. In Genesis 6, fallen angels (the "sons of God") crossed the boundary between the supernatural and the natural, introducing foreign genetic material into the human bloodline and producing hybrid offspring -- the Nephilim. God's response was the flood -- the destruction of all corrupted flesh and the preservation of Noah's uncorrupted line.</p>
+<p>The injection of synthetic nanotechnology into human blood follows the same pattern: the introduction of foreign, non-human material into the human body, blurring the boundary between the created and the manufactured, between the organic and the synthetic. The biochips are not nephilim. But they serve the same master, follow the same pattern, and pursue the same objective: the corruption of what God made pure.</p>
+<p>The coming of the fallen ones -- described in prophecy as beings that will descend under the dome of the firmament in the last days, disguised as aliens or extraterrestrial beings but in reality the fallen angels of Genesis 6 and Jude 6 -- will present themselves as the creators of humanity. The technological infrastructure being built inside the human body through injectable nanotechnology may serve as the reception system for this deception, the internal interface through which the great delusion of 2 Thessalonians 2 is delivered directly into the human nervous system.</p>
+<p>The sky itself is being prepared. Observers worldwide have documented unusual vivid colors, atmospheric phenomena, and light patterns that have no natural explanation. These changes in the firmament are precursors -- signs that the dome is being prepared for what is coming through it. The biochips inside and the signs above are components of the same system, pointing toward the same event.</p>
+<h3 id="the-mark-infrastructure">The Mark Infrastructure</h3>
+<p>The biochip system documented in this three-part series is not the Mark of the Beast. The Mark, as described in Revelation 13, involves a conscious choice -- an act of worship, an allegiance to the Beast system. But infrastructure precedes implementation. Roads are built before traffic flows. Networks are installed before signals are sent.</p>
+<p>The biochips are the infrastructure. The injectable biosensor network creates the technical platform upon which the Mark system will operate. When the time comes for the Mark to be fully activated -- when buying and selling require integration with the Beast system -- the hardware will already be in place. It was injected under the cover of a pandemic. It self-assembled inside the blood. And it awaits activation.</p>
+<p>The question is not whether this technology exists. The microscopes have answered that question. The question is what it will be used for. And the patents, the military research, the DARPA programs, and the Book of Revelation all point to the same answer.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Microsoft Technology Licensing, US Patent US11107588B2, "Cryptocurrency system using body activity data," 2020</li>
+<li>DARPA, Profusa Injectable Biosensor Program documentation, 2011-2021</li>
+<li>DARPA N3 Program, "Next-Generation Nonsurgical Neurotechnology," program overview</li>
+<li>U.S. DOD Biotechnologies for Health and Human Performance Council, "Cyborg Soldier 2050," 2019</li>
+<li>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, military nanotechnology analysis</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> -- The injection platform as a vehicle for the Beast system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> -- The nanoscale marking system operating inside the body</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/447-Modded_Humans.mp4">Modded Humans</a> -- Humanity modified at the technological level</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> -- The biometric surveillance infrastructure</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> -- The rebellion that continues through technological systems</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> -- The promise to those who endure through every weapon deployed</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/biochips-covid-vaccines-part1/?lang=en">Study of Biochips Found in COVID-19 Vaccines: Part 1</a> -- Visual identification of biochip structures</li>
+<li><a href="/biochips-covid-vaccines-part2/?lang=en">Study of Biochips Found in COVID-19 Vaccines: Part 2</a> -- Spectroscopic and elemental analysis</li>
+<li><a href="/targeted-individual-self-assembled-bioweapon/?lang=en">Targeted Individual: Microchips Self-Assembled As Bioweapon</a> -- The weaponization of injectable nanotechnology against individuals</li>
+<li><a href="/human-augmentation-self-spreading/?lang=en">Human Augmentation Through Self-Spreading Nanotechnology</a> -- The self-spreading dimension of the biochip system</li>
+</ul>
+<hr>
+<p><em>The infrastructure is in place. The biosensors are assembled. The network awaits activation. But the God who numbered the stars and named them each, who measured the waters in the hollow of His hand and weighed the mountains in a balance -- this God is not impressed by silicon, not threatened by graphene, not deceived by patents filed in secret. He remains sovereign over every circuit, every signal, and every system the adversary has constructed. And His mark -- sealed in the foreheads of His servants by angels, not by needles -- is the only identification that will matter when the kingdoms of this world become the kingdom of our Lord and of His Christ.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/science/","className":"category-badge","children":"science"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Study of Biochips Found in COVID-19 Vaccines: Part 3"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Part 3 concludes the biochip study, examining the broader deployment agenda, patent evidence, and spiritual implications of injectable biosensor networks."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-09T10:00:00Z","children":"March 9, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","biochips",{"href":"/en/tag/biochips/","className":"tag-pill","children":["#","biochips"]}],["$","a","biosensors",{"href":"/en/tag/biosensors/","className":"tag-pill","children":["#","biosensors"]}],["$","a","internet-of-bodies",{"href":"/en/tag/internet-of-bodies/","className":"tag-pill","children":["#","internet-of-bodies"]}],["$","a","mark-of-the-beast",{"href":"/en/tag/mark-of-the-beast/","className":"tag-pill","children":["#","mark-of-the-beast"]}],["$","a","transhumanism",{"href":"/en/tag/transhumanism/","className":"tag-pill","children":["#","transhumanism"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part3/","title":"Study of Biochips Found in COVID-19 Vaccines: Part 3"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part3/","title":"Study of Biochips Found in COVID-19 Vaccines: Part 3"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Study of Biochips Found in COVID-19 Vaccines: Part 3 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Part 3 concludes the biochip study, examining the broader deployment agenda, patent evidence, and spiritual implications of injectable biosensor networks."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"biochips, biosensors, internet-of-bodies, mark-of-the-beast, transhumanism"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part3/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part3/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/biochips-covid-vaccines-part3/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/biochips-covid-vaccines-part3/"}],["$","meta","10",{"property":"og:title","content":"Study of Biochips Found in COVID-19 Vaccines: Part 3"}],["$","meta","11",{"property":"og:description","content":"Part 3 concludes the biochip study, examining the broader deployment agenda, patent evidence, and spiritual implications of injectable biosensor networks."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part3/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/biochips-covid-vaccines-part3.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Study of Biochips Found in COVID-19 Vaccines: Part 3"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Study of Biochips Found in COVID-19 Vaccines: Part 3"}],["$","meta","25",{"name":"twitter:description","content":"Part 3 concludes the biochip study, examining the broader deployment agenda, patent evidence, and spiritual implications of injectable biosensor networks."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/biochips-covid-vaccines-part3.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

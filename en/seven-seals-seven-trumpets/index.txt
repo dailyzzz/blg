@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","seven-seals-seven-trumpets",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","seven-seals-seven-trumpets","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","seven-seals-seven-trumpets","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4c12,<h1 id="the-seven-seals-and-seven-trumpets-revelations-timeline-of-judgment">The Seven Seals and Seven Trumpets: Revelation's Timeline of Judgment</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals." — Revelation 5:1</p>
+</blockquote>
+<p>The scroll sealed with seven seals is the title deed to the earth — the document that authorizes the rightful owner to reclaim what has been usurped. In ancient Roman law, a sealed document required the authorized person to break the seals and execute its contents. Only the Lamb who was slain — Jesus Christ — is found worthy to break the seals and set in motion the judgments that reclaim the earth from the usurper.</p>
+<p>The sequence of judgments in Revelation is not random. It is structured with mathematical precision: seven seals, seven trumpets (emerging from the seventh seal), and seven bowls (emerging from the seventh trumpet). The pattern is telescopic — each series nesting within the last element of the previous series, creating a progression of increasing intensity and decreasing intervals. The judgments begin gradually and accelerate toward the climax: the return of Christ and the final battle.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> speaks to the reality of what these judgments represent — not abstract theology but physical, spiritual, and cosmic upheaval that will shake the foundations of human civilization. Understanding the timeline is not academic exercise. It is survival preparation for the generation that will witness these events.</p>
+<hr>
+<h2 id="the-scroll-and-the-lamb">The Scroll and the Lamb</h2>
+<p>Revelation 5 sets the stage. A scroll is held in the right hand of God, sealed with seven seals. A mighty angel asks: "Who is worthy to open the book, and to loose the seals thereof?" (5:2). No one in heaven, on earth, or under the earth is found worthy — and John weeps because the scroll cannot be opened.</p>
+<p>Then the Elder speaks: "Weep not: behold, the Lion of the tribe of Judah, the Root of David, hath prevailed to open the book" (5:5). But when John looks, he sees not a lion but a Lamb — "as it had been slain" (5:6). The conquering King conquers through sacrifice. The title deed to the earth is claimed not by military power but by redemptive blood.</p>
+<p>This is foundational for understanding the judgments that follow. The seals, trumpets, and bowls are not arbitrary acts of divine wrath. They are the legal execution of the earth's title deed by its rightful owner. The usurper — Satan, who offered Jesus "all the kingdoms of the world" in the temptation (Matthew 4:8-9) — must be dispossessed. The judgments are the dispossession process. Each seal broken, each trumpet blown, each bowl poured is another step in reclaiming what was lost in Eden.</p>
+<hr>
+<h2 id="the-seven-seals-revelation-61---81">The Seven Seals (Revelation 6:1 - 8:1)</h2>
+<h3 id="first-seal-the-white-horse--conquest-61-2">First Seal: The White Horse — Conquest (6:1-2)</h3>
+<p>"And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer."</p>
+<p>The rider on the white horse is a conqueror — but this is not Christ (who appears on a white horse in Revelation 19). This is a counterfeit — the Antichrist, who comes with a crown (authority given to him), a bow (military power, though notably without arrows — suggesting conquest through deception rather than direct warfare), and a mission to conquer.</p>
+<p>As explored in <a href="/antichrist-algorithm-digital-beast/?lang=en">The Antichrist Algorithm: When the Digital Beast Awakens</a>, the Antichrist's initial conquest may be technological and diplomatic rather than military — the establishment of a global system through treaties, digital infrastructure, and institutional control. The white horse suggests a false peace, a counterfeit messiah who appears to bring order and salvation.</p>
+<h3 id="second-seal-the-red-horse--war-63-4">Second Seal: The Red Horse — War (6:3-4)</h3>
+<p>"And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another."</p>
+<p>The false peace of the first seal collapses into war. The red horse brings global conflict — not regional skirmishes but war that "takes peace from the earth." The scale is planetary. The killing is mutual ("they should kill one another").</p>
+<h3 id="third-seal-the-black-horse--famine-65-6">Third Seal: The Black Horse — Famine (6:5-6)</h3>
+<p>"A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine."</p>
+<p>War produces famine. A "penny" (<em>denarius</em>) was a day's wage. A "measure" of wheat was one person's daily ration. An entire day's labor buys enough food for one person — while luxury goods (oil and wine) remain available for the wealthy. This is economic collapse with class disparity — the poor starve while the rich continue in comfort.</p>
+<h3 id="fourth-seal-the-pale-horse--death-67-8">Fourth Seal: The Pale Horse — Death (6:7-8)</h3>
+<p>"And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."</p>
+<p>One-quarter of the earth's population dies through four mechanisms: war (sword), famine (hunger), plague (death/pestilence), and wild animals. With the current world population, this represents approximately two billion people.</p>
+<h3 id="fifth-seal-the-martyrs-69-11">Fifth Seal: The Martyrs (6:9-11)</h3>
+<p>"And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held."</p>
+<p>The fifth seal reveals the spiritual dimension: believers are being martyred for their faith. They cry out for justice and are told to "rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled." More martyrdom is coming. The persecution intensifies.</p>
+<h3 id="sixth-seal-cosmic-upheaval-612-17">Sixth Seal: Cosmic Upheaval (6:12-17)</h3>
+<p>"And, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood; And the stars of heaven fell unto the earth... And the heaven departed as a scroll when it is rolled together."</p>
+<p>The sixth seal produces cosmic-scale disruption: a massive earthquake, solar blackout, lunar blood-red coloring, meteor showers, and atmospheric upheaval so severe that the sky itself appears to "roll up." Every class of person — kings, commanders, the wealthy, the powerful, slaves, and free — hides in caves, recognizing that "the great day of his wrath is come" (6:17).</p>
+<h3 id="seventh-seal-silence--then-trumpets-81-2">Seventh Seal: Silence — Then Trumpets (8:1-2)</h3>
+<p>"And when he had opened the seventh seal, there was silence in heaven about the space of half an hour."</p>
+<p>The seventh seal opens with silence — the most ominous moment in all of Revelation. Heaven, which is filled with perpetual worship, falls silent. The silence is the indrawn breath before the scream. What follows is worse than anything that has come before.</p>
+<p>The seven trumpets emerge from the seventh seal.</p>
+<hr>
+<h2 id="the-seven-trumpets-revelation-86---1119">The Seven Trumpets (Revelation 8:6 - 11:19)</h2>
+<h3 id="first-trumpet-vegetation-destroyed-87">First Trumpet: Vegetation Destroyed (8:7)</h3>
+<p>"The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up."</p>
+<p>One-third of all trees and all grass are destroyed. The ecological foundation of earth's food chain is devastated.</p>
+<h3 id="second-trumpet-the-sea-struck-88-9">Second Trumpet: The Sea Struck (8:8-9)</h3>
+<p>"And as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood; And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed."</p>
+<p>Something resembling a burning mountain — an asteroid, a volcanic eruption, or a supernatural object — strikes the ocean. One-third of marine life dies. One-third of ships are destroyed. The shipping industry, which carries 90% of global trade, is crippled.</p>
+<h3 id="third-trumpet-fresh-water-poisoned-810-11">Third Trumpet: Fresh Water Poisoned (8:10-11)</h3>
+<p>"And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter."</p>
+<p>A celestial object named Wormwood poisons one-third of the earth's fresh water supply. Many die from contaminated water. The name "Wormwood" (<em>apsinthos</em> in Greek) refers to a bitter, toxic plant. The Chernobyl nuclear disaster of 1986 drew attention to this prophecy because "Chernobyl" is the Ukrainian word for wormwood.</p>
+<h3 id="fourth-trumpet-celestial-darkness-812">Fourth Trumpet: Celestial Darkness (8:12)</h3>
+<p>"And the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened."</p>
+<p>One-third reduction in light from the sun, moon, and stars. Days become shorter. Temperatures drop. Crop growth is further impaired. The psychological impact of reduced light — seasonal affective disorder on a global scale — compounds the physical devastation.</p>
+<h3 id="fifth-trumpet-the-locusts-from-the-abyss-91-11">Fifth Trumpet: The Locusts from the Abyss (9:1-11)</h3>
+<p>"And there came out of the smoke locusts upon the earth: and unto them was given power, as the scorpions of the earth have power."</p>
+<p>A star (angelic being) opens the bottomless pit (<em>abyssos</em>). Smoke rises like a great furnace. From the smoke emerge "locusts" — beings described with precision that suggests something far stranger than insects: human faces, women's hair, lion's teeth, iron breastplates, wings that sound like chariot squadrons, and scorpion-like tails that sting and torment for five months.</p>
+<p>These are not natural locusts. They are beings released from the abyss — possibly the imprisoned fallen angels or their offspring — given permission to torment humanity for 150 days. Their king is "Abaddon" (Hebrew) or "Apollyon" (Greek) — "the Destroyer."</p>
+<h3 id="sixth-trumpet-the-army-of-200-million-913-21">Sixth Trumpet: The Army of 200 Million (9:13-21)</h3>
+<p>"And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them."</p>
+<p>Four angels bound at the Euphrates River are released. An army of 200 million is unleashed. One-third of humanity is killed — adding to the one-quarter already killed under the fourth seal. By this point, well over half the earth's population has perished.</p>
+<p>As discussed in <a href="/china-kings-of-east/?lang=en">China and the Kings of the East: Biblical Prophecy Unfolding</a>, the 200-million army may represent an eastern military coalition. The reference to the Euphrates connects this trumpet directly to Daniel's prophecy and to the drying of the Euphrates described in Revelation 16:12.</p>
+<h3 id="seventh-trumpet-the-kingdom-proclaimed-1115-19">Seventh Trumpet: The Kingdom Proclaimed (11:15-19)</h3>
+<p>"The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever."</p>
+<p>The seventh trumpet announces the transfer of authority. The kingdoms of the world — currently under the usurper's control — are declared to belong to Christ. This is the legal proclamation that precedes the physical enforcement: the bowl judgments, which emerge from the seventh trumpet.</p>
+<hr>
+<h2 id="the-seven-bowls-revelation-161-21">The Seven Bowls (Revelation 16:1-21)</h2>
+<p>The bowls are the final and most severe judgments — poured out in rapid succession:</p>
+<ol>
+<li><strong>Grievous sores</strong> on those with the mark of the beast (16:2)</li>
+<li><strong>The sea becomes blood</strong> — all marine life dies (16:3)</li>
+<li><strong>Rivers and springs become blood</strong> (16:4)</li>
+<li><strong>Scorching solar heat</strong> (16:8-9)</li>
+<li><strong>Darkness on the beast's throne</strong> — total darkness over his kingdom (16:10)</li>
+<li><strong>The Euphrates dries up</strong> — preparing the way for the kings of the east (16:12)</li>
+<li><strong>The greatest earthquake in history</strong> — cities collapse, islands disappear, 100-pound hailstones fall (16:17-21)</li>
+</ol>
+<p>The bowls are concentrated, rapid, and devastating. They are directed specifically at the beast system and those who chose to follow it. They are the final phase of judgment before the return of Christ.</p>
+<hr>
+<h2 id="the-structure-telescopic-judgment">The Structure: Telescopic Judgment</h2>
+<p>The relationship between seals, trumpets, and bowls is telescopic:</p>
+<ul>
+<li>The <strong>seventh seal</strong> contains the seven trumpets</li>
+<li>The <strong>seventh trumpet</strong> contains the seven bowls</li>
+</ul>
+<p>This means the judgments are not sequential in a flat timeline but nested — each series emerging from the climax of the previous series, with increasing intensity and decreasing time intervals. The seals span a longer period (possibly years). The trumpets are more concentrated. The bowls are poured out in rapid succession at the very end.</p>
+<p>As explored in <a href="/daniel-seventy-weeks-timeline/?lang=en">Daniel's Seventy Weeks: The Prophetic Timeline Decoded</a>, this timeline corresponds to Daniel's seventieth week — the final seven years. The seals likely begin near the start of the seventieth week, with the trumpets concentrated in the second half (the Great Tribulation of 3.5 years), and the bowls poured out immediately before Christ's return.</p>
+<hr>
+<h2 id="the-patterns-of-warning">The Patterns of Warning</h2>
+<p>God's judgment follows a consistent pattern: warning, then wrath. The seals serve as warnings — escalating signs that judgment is approaching. The trumpets intensify the warning. The bowls execute the final judgment.</p>
+<p>This pattern mirrors the plagues of Egypt:</p>
+<table>
+<thead>
+<tr>
+<th>Egypt</th>
+<th>Revelation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Water to blood (Nile)</td>
+<td>Sea and rivers to blood (Trumpets 2-3, Bowls 2-3)</td>
+</tr>
+<tr>
+<td>Locusts</td>
+<td>Locusts from the abyss (Trumpet 5)</td>
+</tr>
+<tr>
+<td>Darkness</td>
+<td>Celestial darkness (Trumpet 4, Bowl 5)</td>
+</tr>
+<tr>
+<td>Hail</td>
+<td>Hail and fire (Trumpet 1, Bowl 7)</td>
+</tr>
+<tr>
+<td>Boils</td>
+<td>Grievous sores (Bowl 1)</td>
+</tr>
+<tr>
+<td>Death of firstborn</td>
+<td>Massive death tolls (Seals 4, Trumpet 6)</td>
+</tr>
+</tbody>
+</table>
+<p>The exodus pattern is the template. Just as God judged Egypt to liberate Israel, God will judge the beast system to liberate His people and reclaim the earth. The plagues of Egypt lasted months. The plagues of Revelation last years. But the principle is identical: targeted judgment on the oppressor, protection of God's people, and ultimate deliverance.</p>
+<hr>
+<h2 id="where-are-we-now">Where Are We Now?</h2>
+<p>The seals, trumpets, and bowls have not yet begun in their fullness — they belong to Daniel's seventieth week, which has not yet commenced. However, the conditions for the seals are forming:</p>
+<ul>
+<li>The infrastructure for the Antichrist's global conquest (First Seal) is being built through digital ID, AI, and global governance</li>
+<li>The geopolitical tensions that will produce the Red Horse (Second Seal) are escalating across multiple theaters</li>
+<li>The economic fragility that will produce the Black Horse (Third Seal) is evident in global debt levels, supply chain vulnerabilities, and food system dependencies</li>
+<li>The biological and environmental threats that will produce the Pale Horse (Fourth Seal) are multiplying</li>
+</ul>
+<p>The seals have not been opened. But the Lamb is holding the scroll. And the conditions on earth are aligning with what the seals describe. The prophetic clock is not yet ticking its final countdown — but the hand is moving toward midnight.</p>
+<hr>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/347-The_Abomination_Of_Desolation.mp4">The Abomination Of Desolation</a> — The prophetic sequence unfolds</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/497-Tribulation_Tech.mp4">Tribulation Tech</a> — Technology and Revelation's timeline</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/111-The_Final_Day.mp4">The Final Day</a> — The culmination of all things</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/daniel-seventy-weeks-timeline/?lang=en">Daniel's Seventy Weeks: The Prophetic Timeline Decoded</a> — The overarching timeline into which the seals, trumpets, and bowls fit</li>
+<li><a href="/antichrist-algorithm-digital-beast/?lang=en">The Antichrist Algorithm: When the Digital Beast Awakens</a> — The first seal rider and the digital infrastructure of his conquest</li>
+</ul>
+<hr>
+<p><em>Seven seals. Seven trumpets. Seven bowls. Twenty-one judgments, telescoping from slow burn to rapid fire, from warning to wrath, from the opening of a scroll to the shaking of the heavens. The Lamb who was slain is the only one worthy to open the seals — because only the one who purchased the earth with His blood has the right to reclaim it. Each seal broken is a step toward that reclamation. Each trumpet blown is a warning to repent. Each bowl poured is a final judgment on those who refused. The timeline is precise. The structure is deliberate. The outcome is certain. The kingdoms of this world will become the kingdoms of our Lord and of His Christ. The scroll is in His hand. The seals will be broken. And every system built by the usurper — every algorithm, every currency, every government, every army — will face the judgment of the rightful King. He is worthy. He will prevail. And the judgments written in the scroll will be executed to the last detail.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/prophecy/","className":"category-badge","children":"prophecy"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The Seven Seals and Seven Trumpets: Revelation's Timeline of Judgment"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Revelation's sequence of seals, trumpets, and bowls describes a precisely ordered timeline of divine judgment upon the earth. Understanding this sequence is essential for discerning where we stand on the prophetic calendar."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-19T10:00:00Z","children":"March 19, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","seven-seals",{"href":"/en/tag/seven-seals/","className":"tag-pill","children":["#","seven-seals"]}],["$","a","seven-trumpets",{"href":"/en/tag/seven-trumpets/","className":"tag-pill","children":["#","seven-trumpets"]}],["$","a","revelation",{"href":"/en/tag/revelation/","className":"tag-pill","children":["#","revelation"]}],["$","a","judgment",{"href":"/en/tag/judgment/","className":"tag-pill","children":["#","judgment"]}],["$","a","end-times",{"href":"/en/tag/end-times/","className":"tag-pill","children":["#","end-times"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/seven-seals-seven-trumpets/","title":"The Seven Seals and Seven Trumpets: Revelation's Timeline of Judgment"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/seven-seals-seven-trumpets/","title":"The Seven Seals and Seven Trumpets: Revelation's Timeline of Judgment"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The Seven Seals and Seven Trumpets: Revelation's Timeline of Judgment | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Revelation's sequence of seals, trumpets, and bowls describes a precisely ordered timeline of divine judgment upon the earth. Understanding this sequence is essential for discerning where we stand on the prophetic calendar."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"seven-seals, seven-trumpets, revelation, judgment, end-times"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/seven-seals-seven-trumpets/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/seven-seals-seven-trumpets/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/seven-seals-seven-trumpets/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/seven-seals-seven-trumpets/"}],["$","meta","10",{"property":"og:title","content":"The Seven Seals and Seven Trumpets: Revelation's Timeline of Judgment"}],["$","meta","11",{"property":"og:description","content":"Revelation's sequence of seals, trumpets, and bowls describes a precisely ordered timeline of divine judgment upon the earth. Understanding this sequence is essential for discerning where we stand on the prophetic calendar."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/seven-seals-seven-trumpets/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/seven-seals-seven-trumpets.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The Seven Seals and Seven Trumpets: Revelation's Timeline of Judgment"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The Seven Seals and Seven Trumpets: Revelation's Timeline of Judgment"}],["$","meta","25",{"name":"twitter:description","content":"Revelation's sequence of seals, trumpets, and bowls describes a precisely ordered timeline of divine judgment upon the earth. Understanding this sequence is essential for discerning where we stand on the prophetic calendar."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/seven-seals-seven-trumpets.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

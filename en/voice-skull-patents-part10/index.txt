@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","voice-skull-patents-part10",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","voice-skull-patents-part10","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","voice-skull-patents-part10","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3143,<h1 id="voice-2-skull-the-patents-that-prove-its-real-part-10">Voice 2 Skull: The PATENTS That Prove It's Real Part 10</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"The lip of truth shall be established for ever: but a lying tongue is but for a moment."</em> — Proverbs 12:19</p>
+</blockquote>
+<p>When people claim that V2K technology doesn't exist, there is a simple, definitive response: <strong>the patents</strong>. The United States Patent and Trademark Office has granted multiple patents for devices that transmit audio directly into the human brain using electromagnetic radiation. These patents are public records. They describe working technology. They name the inventors and the assignees. And they prove, beyond any reasonable doubt, that voice-to-skull technology is real.</p>
+<p>This is Part 10 of our V2K series. We have traced the technology from personal experience through military history, disinformation campaigns, intelligence networks, family targeting, psychiatric weaponization, the alien psyop, covert microchipping, and cell tower infrastructure. Now we present the most irrefutable evidence of all: the patents themselves.</p>
+<p>Howard Pittman was told that words have spiritual power and that truth endures forever. Patents are legal documents — words given the authority of law. The V2K patents are words of truth that endure in the public record, immune to the disinformation campaigns, the psychiatric dismissals, and the media blackouts that protect this technology. They are the lip of truth established forever — proof that cannot be gaslit away.</p>
+<p>The Jesuits' infiltration "cloaked with cunning" relies on information control. But patents are designed to be public. The very system of intellectual property that the establishment uses to generate profit also generates evidence of its own weapons. Napoleon's "absolute power" is constrained by its own paperwork. And that paperwork proves everything we have been saying.</p>
+<hr>
+<h2 id="the-key-patents">The Key Patents</h2>
+<h3 id="us-patent-4877027--hearing-system-1989">US Patent 4,877,027 — "Hearing System" (1989)</h3>
+<p><strong>Inventor</strong>: Wayne B. Brunkan
+<strong>Filed</strong>: August 10, 1987
+<strong>Granted</strong>: October 31, 1989</p>
+<p><strong>Abstract</strong>: "Sound is induced in the head of a person by radiating the head with microwaves in the range of 100 megahertz to 10,000 megahertz that are modulated with a particular waveform."</p>
+<p>This patent describes a device that converts audio (speech, music, tones) into modulated microwave radiation and transmits it to a human target. The target hears the audio inside their head without any external speaker or earpiece.</p>
+<p><strong>Key claims</strong>:</p>
+<ul>
+<li>The device transmits sound directly into the human head using microwave radiation</li>
+<li>The frequency range (100 MHz to 10 GHz) encompasses cell phone and cell tower frequencies</li>
+<li>The modulation waveform is specifically designed to produce the microwave auditory effect</li>
+<li>The invention can transmit intelligible speech</li>
+</ul>
+<p>This patent alone is sufficient to prove that V2K technology exists. It describes a complete system for transmitting audio into a person's brain via microwave radiation, and it was granted by the US Patent Office after examination — meaning the technology was demonstrated to work.</p>
+<h3 id="us-patent-6470214--method-and-device-for-implementing-the-radio-frequency-hearing-effect-2002">US Patent 6,470,214 — "Method and Device for Implementing the Radio Frequency Hearing Effect" (2002)</h3>
+<p><strong>Inventor</strong>: James P. O'Loughlin, Diana L. Loree
+<strong>Assignee</strong>: The United States of America as represented by the Secretary of the Air Force
+<strong>Filed</strong>: December 13, 1996
+<strong>Granted</strong>: October 22, 2002</p>
+<p><strong>Abstract</strong>: "A modulation process with a fully suppressed carrier and input preprocessor filtering to produce an idealized representation of a desired sound."</p>
+<p>This patent is assigned to the <strong>US Air Force</strong> — proving direct military involvement in V2K technology development. It describes improvements to the microwave auditory effect that allow the transmission of more complex audio, including intelligible speech.</p>
+<p><strong>Key significance</strong>:</p>
+<ul>
+<li>The patent is assigned to the US military, confirming military development of V2K</li>
+<li>It describes a method for transmitting speech, not just tones or clicks</li>
+<li>The technology allows audio to be transmitted without any receiver device — the human brain is the receiver</li>
+<li>The filing date (1996) shows that this technology was operational at least 30 years ago</li>
+</ul>
+<h3 id="us-patent-6587729--apparatus-for-audibly-communicating-speech-using-the-radio-frequency-hearing-effect-2003">US Patent 6,587,729 — "Apparatus for Audibly Communicating Speech Using the Radio Frequency Hearing Effect" (2003)</h3>
+<p><strong>Inventor</strong>: James P. O'Loughlin, Diana L. Loree
+<strong>Assignee</strong>: The United States of America as represented by the Secretary of the Air Force
+<strong>Filed</strong>: April 24, 2002
+<strong>Granted</strong>: July 1, 2003</p>
+<p>This is a continuation of Patent 6,470,214, describing a specific apparatus for implementing the radio frequency hearing effect. Again assigned to the US Air Force, it provides additional technical details on the hardware implementation of V2K.</p>
+<h3 id="us-patent-3951134--apparatus-and-method-for-remotely-monitoring-and-altering-brain-waves-1976">US Patent 3,951,134 — "Apparatus and Method for Remotely Monitoring and Altering Brain Waves" (1976)</h3>
+<p><strong>Inventor</strong>: Robert G. Malech
+<strong>Filed</strong>: August 5, 1974
+<strong>Granted</strong>: April 20, 1976</p>
+<p><strong>Abstract</strong>: "Apparatus for and method of sensing brain waves at a position remote from a subject whereby electromagnetic signals of different frequencies are simultaneously transmitted toward the subject."</p>
+<p>This patent goes beyond audio transmission — it describes a system for both <strong>monitoring</strong> and <strong>altering</strong> brain waves remotely using electromagnetic radiation. This is two-way V2K: not just putting sounds in, but reading the brain's response.</p>
+<p><strong>Key significance</strong>:</p>
+<ul>
+<li>Remote brain wave monitoring without physical contact</li>
+<li>Remote brain wave alteration without physical contact</li>
+<li>Filed in 1974 — over 50 years ago</li>
+<li>The technology for reading thoughts and modifying brain activity has existed for half a century</li>
+</ul>
+<h3 id="additional-patents">Additional Patents</h3>
+<p>Multiple additional patents document related technologies:</p>
+<ul>
+<li><strong>US Patent 5,159,703</strong> (1992): "Silent Subliminal Presentation System" — a system for transmitting subliminal audio using silent frequencies</li>
+<li><strong>US Patent 4,858,612</strong> (1989): "Hearing Device" — an alternative method for inducing sound perception</li>
+<li><strong>US Patent 6,011,991</strong> (2000): "Communication System and Method Including Brain Wave Analysis" — brain-computer interface through electromagnetic means</li>
+<li><strong>US Patent 7,629,918</strong> (2009): "Multifunctional Radio Frequency Directed Energy System" — a weapon system that includes audio transmission capability</li>
+</ul>
+<h2 id="what-the-patents-prove">What the Patents Prove</h2>
+<h3 id="proof-of-existence">Proof of Existence</h3>
+<p>The patents prove that V2K technology:</p>
+<ol>
+<li><strong>Exists</strong> — the US Patent Office granted patents for working devices</li>
+<li><strong>Is military</strong> — multiple patents are assigned to the US Air Force</li>
+<li><strong>Transmits speech</strong> — not just tones, but intelligible words and sentences</li>
+<li><strong>Works without implants</strong> — the human brain itself is the receiver</li>
+<li><strong>Has been developing for decades</strong> — patents date back to the 1970s</li>
+<li><strong>Includes two-way capability</strong> — both transmitting audio in and reading brain activity out</li>
+</ol>
+<h3 id="proof-of-deployment">Proof of Deployment</h3>
+<p>While the patents themselves do not prove deployment, the combination of:</p>
+<ul>
+<li>Patented technology</li>
+<li>Military assignment</li>
+<li>Classified programs (MEDUSA, Voice of God weapon)</li>
+<li>Thousands of targeted individual reports</li>
+<li>Documented military use in Iraq</li>
+<li>Massive defense contractor involvement</li>
+</ul>
+<p>...creates an evidentiary chain that goes far beyond reasonable doubt. The technology exists, the military developed it, the military has used it, and civilians report being targeted by it. The patents are the keystone in this evidentiary arch.</p>
+<h2 id="the-spiritual-significance">The Spiritual Significance</h2>
+<h3 id="words-made-manifest">Words Made Manifest</h3>
+<p>Howard Pittman was told that words have spiritual power. The V2K patents are words made manifest — legal documents that testify to the existence of a weapon aimed at the human mind. These words cannot be unsaid, cannot be unpatented, cannot be retracted. They are permanent testimony in the public record.</p>
+<p>The Jesuits' practice of deception "cloaked with cunning" is undermined by their own system. The patent system — designed to protect intellectual property and generate profit — also generates evidence. The weapons of control leave a paper trail. And that paper trail leads directly to the truth.</p>
+<p>The principalities and powers of Ephesians 6:12 operate through deception. But God ensures that the truth is preserved — in the Word of God, in the testimony of witnesses like Howard Pittman, and yes, in the public records of the US Patent Office. "The lip of truth shall be established for ever."</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — comprehensive V2K patent analysis</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — spiritual authority of words and truth</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit deception undermined by its own systems</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- US Patent 4,877,027 / 6,470,214 / 6,587,729 / 3,951,134 — full texts available at USPTO.gov</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/65-Smart_Dust.mp4">Smart Dust</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/13-The_Word_of_God.mp4">The Word of God</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/cell-towers-nih-contract-part9/?lang=en">Cell Towers and the NIH CONTRACT You Were Never Told About Part 9</a></li>
+<li><a href="/targeted-individuals-food-supply-part11/?lang=en">Targeted Individuals and the FOOD SUPPLY Microchip Connection Part 11</a></li>
+<li><a href="/tin-foil-hat-boston-cia/?lang=en">THE TIN FOIL HAT: Boston City Hospital and the CIA Connection</a></li>
+</ul>
+<p><em>The patents don't lie. US Patent 4,877,027. US Patent 6,470,214. US Patent 6,587,729. Look them up. Read them. Share them. They describe devices that put voices in people's heads using microwave radiation. They are assigned to the US Air Force. They are public record. And they prove that every targeted individual who has ever been called "crazy" for hearing voices was telling the truth.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Voice 2 Skull: The PATENTS That Prove It's Real Part 10"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Part 10 presents the actual patents for voice-to-skull technology. The US Patent Office has approved devices that beam audio directly into the human brain."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-19T10:00:00Z","children":"December 19, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","V2K-patents",{"href":"/en/tag/V2K-patents/","className":"tag-pill","children":["#","V2K-patents"]}],["$","a","voice-to-skull",{"href":"/en/tag/voice-to-skull/","className":"tag-pill","children":["#","voice-to-skull"]}],["$","a","microwave-auditory",{"href":"/en/tag/microwave-auditory/","className":"tag-pill","children":["#","microwave-auditory"]}],["$","a","military-patents",{"href":"/en/tag/military-patents/","className":"tag-pill","children":["#","military-patents"]}],["$","a","directed-energy",{"href":"/en/tag/directed-energy/","className":"tag-pill","children":["#","directed-energy"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/voice-skull-patents-part10/","title":"Voice 2 Skull: The PATENTS That Prove It's Real Part 10"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/voice-skull-patents-part10/","title":"Voice 2 Skull: The PATENTS That Prove It's Real Part 10"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Voice 2 Skull: The PATENTS That Prove It's Real Part 10 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Part 10 presents the actual patents for voice-to-skull technology. The US Patent Office has approved devices that beam audio directly into the human brain."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"V2K-patents, voice-to-skull, microwave-auditory, military-patents, directed-energy"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/voice-skull-patents-part10/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/voice-skull-patents-part10/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/voice-skull-patents-part10/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/voice-skull-patents-part10/"}],["$","meta","10",{"property":"og:title","content":"Voice 2 Skull: The PATENTS That Prove It's Real Part 10"}],["$","meta","11",{"property":"og:description","content":"Part 10 presents the actual patents for voice-to-skull technology. The US Patent Office has approved devices that beam audio directly into the human brain."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/voice-skull-patents-part10/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/voice-skull-patents-part10.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Voice 2 Skull: The PATENTS That Prove It's Real Part 10"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Voice 2 Skull: The PATENTS That Prove It's Real Part 10"}],["$","meta","25",{"name":"twitter:description","content":"Part 10 presents the actual patents for voice-to-skull technology. The US Patent Office has approved devices that beam audio directly into the human brain."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/voice-skull-patents-part10.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

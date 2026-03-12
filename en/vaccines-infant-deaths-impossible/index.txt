@@ -1,0 +1,178 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","vaccines-infant-deaths-impossible",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","vaccines-infant-deaths-impossible","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","vaccines-infant-deaths-impossible","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T430e,<h1 id="why-its-not-possible-for-vaccines-to-not-cause-infant-deaths">Why It's NOT Possible for Vaccines to Not Cause Infant Deaths</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"There is no man that sinneth not." — 1 Kings 8:46</p>
+</blockquote>
+<p>Solomon, the wisest man who ever lived, spoke a universal truth: there is no perfection in human endeavor. No human creation is without flaw. No system designed by men achieves zero failure. This is not pessimism — it is the theology of a fallen world. Since the Fall, every human work carries the potential for harm, error, and unintended consequence. The only perfect work is God's work, and even His creation groans under the weight of the curse (Romans 8:22).</p>
+<p>When the pharmaceutical industry claims — or implies — that vaccines cause zero infant deaths, it is making a claim of perfection that is theologically impossible and scientifically absurd. No medical intervention administered to millions of infants achieves a zero death rate. No biological product injected into developing immune systems produces zero catastrophic reactions. The claim of perfect safety is not a scientific statement — it is an article of faith in a false religion.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> documents the religious nature of the medical system's claims. And the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> speaks to the substitution of faith in God with faith in pharmaceuticals.</p>
+<hr>
+<h2 id="the-immunological-impossibility">The Immunological Impossibility</h2>
+<h3 id="why-zero-deaths-is-impossible">Why Zero Deaths Is Impossible</h3>
+<p>The claim that vaccines do not cause infant deaths rests on an immunological impossibility. Here is why:</p>
+<p><strong>1. Every Immune Response Carries Risk of Death</strong></p>
+<p>Vaccination triggers an immune response. That is its mechanism of action. The immune response involves:</p>
+<ul>
+<li>Production of inflammatory cytokines</li>
+<li>Activation of T-cells and B-cells</li>
+<li>Fever (the body's temperature response to immune activation)</li>
+<li>Mobilization of the complement system</li>
+<li>Potential activation of the coagulation cascade</li>
+</ul>
+<p>Every one of these processes, in susceptible individuals, can become pathological:</p>
+<ul>
+<li><strong>Cytokine storm:</strong> Excessive cytokine production can cause multi-organ failure and death</li>
+<li><strong>Anaphylaxis:</strong> Severe allergic reaction to vaccine components can cause airway closure and death within minutes</li>
+<li><strong>Febrile seizures:</strong> Vaccine-induced fever can trigger seizures, which in rare cases cause brain damage or death</li>
+<li><strong>Disseminated intravascular coagulation (DIC):</strong> Immune activation can trigger widespread blood clotting, which can be fatal</li>
+<li><strong>Encephalitis:</strong> Immune-mediated brain inflammation can cause death</li>
+</ul>
+<p>These are not theoretical risks. They are documented adverse events that occur at some rate with every immune-activating product administered to millions of individuals. The rate may be low. But zero is mathematically impossible.</p>
+<p><strong>2. Genetic Variability Ensures Some Fatal Reactions</strong></p>
+<p>Humans are not genetically identical. The immune system's response to any antigen is mediated by:</p>
+<ul>
+<li><strong>HLA (Human Leukocyte Antigen) genes</strong> — the most polymorphic genes in the human genome, with thousands of variants affecting immune response</li>
+<li><strong>Cytokine receptor genes</strong> — variations affect the intensity of inflammatory response</li>
+<li><strong>Complement system genes</strong> — variations affect the complement cascade activation</li>
+<li><strong>Coagulation factor genes</strong> — variations affect susceptibility to clotting disorders</li>
+</ul>
+<p>In a population of millions of infants — each with a unique combination of these genetic variants — some individuals will have genetic profiles that produce catastrophic immune responses to vaccine antigens. This is not defect — it is genetic diversity. The infant whose immune system overreacts to a vaccine antigen is not "defective." They carry a genetic combination that was not compatible with the product administered.</p>
+<p>Since genetic testing is not performed before vaccination — since the specific genetic profile that predisposes to fatal vaccine reaction is not known for most variants — there is no way to predict which infant will have a catastrophic response. The only way to guarantee zero deaths would be to genetically screen every infant before every vaccine and withhold vaccination from those at risk. This is not done.</p>
+<p><strong>3. The Dose-Response Principle</strong></p>
+<p>Pharmacology's most fundamental principle is the dose-response relationship: every substance has a dose at which it becomes toxic. Paracelsus stated: "The dose makes the poison." Vaccines contain biologically active components at fixed doses:</p>
+<ul>
+<li>Antigens (viral proteins or inactivated virus)</li>
+<li>Adjuvants (aluminum salts)</li>
+<li>Preservatives (in some formulations)</li>
+<li>Excipients (polysorbate 80, formaldehyde residues, etc.)</li>
+</ul>
+<p>These fixed doses are calibrated for the "average" infant. But infants vary in weight, organ maturity, metabolic capacity, and immune development. A dose that is safe for a 12-pound infant with a mature liver may be toxic for an 8-pound premature infant with immature hepatic function. The one-size-fits-all dosing approach ensures that some infants receive a relative overdose.</p>
+<p><strong>4. Live Virus Vaccines Can Cause Disease</strong></p>
+<p>Vaccines containing live attenuated viruses (MMR, varicella, rotavirus) carry the inherent risk that the attenuated virus can revert to a virulent form or cause disease in immunocompromised individuals. This is not a theoretical risk:</p>
+<ul>
+<li><strong>Oral polio vaccine</strong> caused vaccine-derived polio in a small number of recipients (the reason the U.S. switched to inactivated polio vaccine)</li>
+<li><strong>Rotavirus vaccine</strong> is associated with intussusception (intestinal blockage) — a potentially fatal condition</li>
+<li><strong>MMR vaccine</strong> can cause vaccine-strain measles encephalitis in immunocompromised children</li>
+</ul>
+<hr>
+<h2 id="the-statistical-impossibility">The Statistical Impossibility</h2>
+<h3 id="the-law-of-large-numbers">The Law of Large Numbers</h3>
+<p>When any product is administered to millions of individuals, adverse events — including death — will occur. This is the law of large numbers applied to pharmacology:</p>
+<ul>
+<li>If a fatal reaction occurs at a rate of 1 per 1,000,000 doses, and 4,000,000 infants receive the product annually, approximately 4 deaths per year will occur</li>
+<li>If the rate is 1 per 100,000, approximately 40 deaths per year will occur</li>
+<li>If the rate is 1 per 10,000, approximately 400 deaths per year will occur</li>
+</ul>
+<p>The only way for zero deaths to occur is for the fatal reaction rate to be exactly zero — which, as demonstrated above, is immunologically impossible.</p>
+<h3 id="the-background-rate-illusion">The Background Rate Illusion</h3>
+<p>The pharmaceutical industry uses a statistical technique to make vaccine deaths invisible: comparison to background rates. In any population of infants, some will die from SIDS, congenital anomalies, infection, and other causes — regardless of vaccination status. This is the "background rate" of infant death.</p>
+<p>When a vaccinated infant dies, the death is compared to the background rate. If the overall infant death rate in the vaccinated population does not exceed the background rate, the deaths are attributed to "coincidence" — they would have happened anyway.</p>
+<p>But this logic is circular:</p>
+<ol>
+<li>The background rate was established in a population where virtually all infants are vaccinated (because the CDC schedule is nearly universal)</li>
+<li>If vaccines contribute to infant deaths, those deaths are already IN the background rate</li>
+<li>Comparing vaccinated infant deaths to a background rate that already includes vaccine-caused deaths will never show an excess — because the excess is baked into the baseline</li>
+</ol>
+<p>The only way to establish whether vaccines cause infant deaths is to compare mortality in a truly unvaccinated population against a vaccinated population. This study has never been conducted — and the CDC refuses to conduct it.</p>
+<hr>
+<h2 id="the-kingston-report-the-impossibility-documented">The Kingston Report: The Impossibility Documented</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> has documented the logical and scientific impossibility of the "vaccines don't cause deaths" claim.</p>
+<h3 id="the-package-insert-evidence">The Package Insert Evidence</h3>
+<p>Kingston has pointed to the simplest and most irrefutable evidence that vaccines cause death: the vaccine package inserts. The package insert for nearly every childhood vaccine — the manufacturer's own document — lists death as a reported adverse event. The manufacturers themselves acknowledge that death has occurred following administration of their products.</p>
+<p>When the manufacturer acknowledges death in its own legally binding document, and the public health establishment claims vaccines do not cause death, someone is lying.</p>
+<h3 id="the-vaers-evidence">The VAERS Evidence</h3>
+<p>VAERS contains thousands of reports of infant death following vaccination. While each individual report does not establish causation, the aggregate pattern — deaths clustering in the days immediately following vaccination, in previously healthy infants, with consistent clinical presentations (seizures, respiratory arrest, cardiac arrest) — constitutes a signal that demands investigation.</p>
+<p>The investigation has never been conducted. The CDC's position is that VAERS reports do not establish causation — a technically true statement that is used as a shield to avoid investigating whether causation exists.</p>
+<h3 id="the-legal-framework-evidence">The Legal Framework Evidence</h3>
+<p>The existence of the Vaccine Injury Compensation Program (VICP) — a federal program that has paid out over $4.7 billion in compensation for vaccine injuries and deaths — is evidence that vaccines cause injury and death. The program was created specifically because vaccines cause harm. If vaccines caused zero harm, the program would have no claimants and no payouts.</p>
+<p>The VICP has compensated families for infant deaths following vaccination. The federal government has paid money to parents whose infants died after receiving vaccines. This is the government's own implicit acknowledgment that vaccines can kill infants.</p>
+<hr>
+<h2 id="the-biblical-standard-truth-over-institutional-narrative">The Biblical Standard: Truth Over Institutional Narrative</h2>
+<h3 id="the-ninth-commandment-applied">The Ninth Commandment Applied</h3>
+<blockquote>
+<p>"Thou shalt not bear false witness against thy neighbour." — Exodus 20:16</p>
+</blockquote>
+<p>When public health institutions claim or imply that vaccines do not cause infant deaths — in the face of immunological impossibility, statistical inevitability, manufacturer acknowledgment, VAERS reports, and VICP payouts — they bear false witness. The false testimony is borne against every parent who relied on that testimony to make a decision about their child's body.</p>
+<p>The parents are the "neighbor" in the ninth commandment's framing. They trusted the institution's testimony. They brought their healthy infant for vaccination. If that infant died — and if the institution's false testimony contributed to the decision to vaccinate — the institution bears the guilt of false witness with lethal consequences.</p>
+<h3 id="the-sanctity-of-truth">The Sanctity of Truth</h3>
+<p>God is truth (John 14:6). Satan is "the father of lies" (John 8:44). The system that lies about the safety of products injected into infants serves the father of lies, regardless of how many medical degrees its spokespeople hold or how many institutional logos adorn its communications.</p>
+<hr>
+<h2 id="what-parents-should-know">What Parents Should Know</h2>
+<ol>
+<li><strong>It is immunologically impossible for vaccines to cause zero deaths.</strong> Every immune-activating product carries inherent risk of fatal reaction in susceptible individuals.</li>
+<li><strong>Genetic variability guarantees</strong> that some infants will have catastrophic responses to vaccine antigens.</li>
+<li><strong>The law of large numbers guarantees</strong> that when products are given to millions of infants, deaths will occur.</li>
+<li><strong>Vaccine package inserts list death</strong> as a reported adverse event — the manufacturers acknowledge it.</li>
+<li><strong>The VICP has paid billions</strong> for vaccine injuries and deaths — the government acknowledges it.</li>
+<li><strong>The background rate comparison is circular</strong> — vaccine deaths are already in the baseline.</li>
+<li><strong>A vaccinated-versus-unvaccinated study has never been conducted</strong> — the definitive test has been refused.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of vaccine safety impossibilities.</li>
+<li>Vaccine package inserts (FDA-approved manufacturer documents)</li>
+<li>VAERS database</li>
+<li>VICP payout data (HRSA)</li>
+<li>Published research on HLA polymorphism and immune response variability</li>
+<li>Published research on vaccine-associated adverse events in infants</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The religious claims of the medical system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The system behind the injections</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> — Mass injection infrastructure</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> — Faith in pharmaceuticals exchanged for faith in God</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/95-The_Valley_of_Death.mp4">The Valley of Death</a> — Walking through the shadow of infant loss</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/infant-deaths-measles-vaccines/?lang=en">What Moms Should Know About Infant Deaths From Measles Vaccines</a> — Documented measles vaccine deaths</li>
+<li><a href="/babies-injected-43-vaccine-viruses/?lang=en">Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two</a> — The scope of infant vaccination</li>
+<li><a href="/first-increase-infant-deaths-2022/?lang=en">2022 Was The First Increase in Infant Deaths in Decades</a> — The mortality reversal</li>
+<li><a href="/medical-diagnostic-system-rigged/?lang=en">For 45 Years the Medical Diagnostic System Has Been Rigged</a> — The rigged system</li>
+</ul>
+<hr>
+<p><em>No human work is perfect. No product administered to millions achieves zero harm. The claim that vaccines do not kill infants is not science — it is religion. It is faith in a pharmaceutical system that has placed itself above the laws of immunology, statistics, and truth. But God is not mocked. "There is no man that sinneth not" — and there is no medical product that harmeth not. The honest acknowledgment of this truth is the beginning of wisdom. "The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction" (Proverbs 1:7).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Why It's NOT Possible for Vaccines to Not Cause Infant Deaths"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Examining the immunological and statistical impossibility of vaccines causing zero infant deaths, and why the claim of perfect safety is scientifically false."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-29T10:00:00Z","children":"April 29, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","vaccine-safety",{"href":"/en/tag/vaccine-safety/","className":"tag-pill","children":["#","vaccine-safety"]}],["$","a","infant-deaths",{"href":"/en/tag/infant-deaths/","className":"tag-pill","children":["#","infant-deaths"]}],["$","a","immunology",{"href":"/en/tag/immunology/","className":"tag-pill","children":["#","immunology"]}],["$","a","statistics",{"href":"/en/tag/statistics/","className":"tag-pill","children":["#","statistics"]}],["$","a","adverse-events",{"href":"/en/tag/adverse-events/","className":"tag-pill","children":["#","adverse-events"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/vaccines-infant-deaths-impossible/","title":"Why It's NOT Possible for Vaccines to Not Cause Infant Deaths"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/vaccines-infant-deaths-impossible/","title":"Why It's NOT Possible for Vaccines to Not Cause Infant Deaths"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Why It's NOT Possible for Vaccines to Not Cause Infant Deaths | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Examining the immunological and statistical impossibility of vaccines causing zero infant deaths, and why the claim of perfect safety is scientifically false."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"vaccine-safety, infant-deaths, immunology, statistics, adverse-events"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/vaccines-infant-deaths-impossible/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/vaccines-infant-deaths-impossible/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/vaccines-infant-deaths-impossible/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/vaccines-infant-deaths-impossible/"}],["$","meta","10",{"property":"og:title","content":"Why It's NOT Possible for Vaccines to Not Cause Infant Deaths"}],["$","meta","11",{"property":"og:description","content":"Examining the immunological and statistical impossibility of vaccines causing zero infant deaths, and why the claim of perfect safety is scientifically false."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/vaccines-infant-deaths-impossible/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/vaccines-infant-deaths-impossible.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Why It's NOT Possible for Vaccines to Not Cause Infant Deaths"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Why It's NOT Possible for Vaccines to Not Cause Infant Deaths"}],["$","meta","25",{"name":"twitter:description","content":"Examining the immunological and statistical impossibility of vaccines causing zero infant deaths, and why the claim of perfect safety is scientifically false."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/vaccines-infant-deaths-impossible.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

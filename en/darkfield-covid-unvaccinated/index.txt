@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","darkfield-covid-unvaccinated",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","darkfield-covid-unvaccinated","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","darkfield-covid-unvaccinated","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T47a7,<h1 id="darkfield-live-blood-analysis-of-covid-19-unvaccinated-individuals">Darkfield Live Blood Analysis of COVID-19 Unvaccinated Individuals</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"For all have sinned, and come short of the glory of God." — Romans 3:23</p>
+</blockquote>
+<p>The universal condition of sin — touching every person born of Adam regardless of personal righteousness — is a theological principle with biological parallels that are becoming terrifyingly literal. Just as no human being escapes the contamination of sin through personal merit (only through the blood of Christ), no human being appears to escape the contamination of nanotechnology through personal medical choices. The unvaccinated — those who stood firm, endured the pressure, lost jobs, relationships, and social standing — are finding that their blood is not clean. It is contaminated. Not as severely as the vaccinated, in most cases, but contaminated nonetheless.</p>
+<p>This finding — confirmed under darkfield microscopy by multiple independent researchers — is perhaps the most distressing revelation in the entire body of nanotechnology blood research. The people who said no, who protected their bodily sovereignty at enormous personal cost, discover that their choice, while morally correct, was physically insufficient. The contamination found a way around their refusal.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> speaks to the covering God gave humanity — flesh that is now contaminated regardless of individual choices. And <a href="https://confliction.zzzdaily.com/tracks/en/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> points to the one river that remains uncontaminated — the water of life that flows from the throne of God.</p>
+<hr>
+<h2 id="the-study-unvaccinated-blood-under-the-microscope">The Study: Unvaccinated Blood Under the Microscope</h2>
+<p>Darkfield live blood analysis of COVID-19 unvaccinated individuals has been conducted by multiple researchers, with the most extensive body of work published by Ana Mihalcea, MD, PhD on her Substack (<a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a>).</p>
+<h3 id="methodology">Methodology</h3>
+<p>The methodology is consistent across research groups:</p>
+<ol>
+<li>Individuals who have never received any COVID-19 mRNA injection are confirmed through medical history review</li>
+<li>A fresh blood sample is drawn via finger prick or venipuncture</li>
+<li>The sample is placed on a glass slide with coverslip</li>
+<li>The slide is examined under darkfield microscopy at magnifications from 100x to 4000x</li>
+<li>Observations are documented through photography and video</li>
+<li>In many cases, time-lapse documentation captures real-time changes over hours</li>
+</ol>
+<h3 id="key-findings">Key Findings</h3>
+<p>The findings in unvaccinated blood are consistent across research groups and geographic locations:</p>
+<p><strong>Nanoparticles are present.</strong> Under darkfield illumination, unvaccinated blood shows luminescent nanoparticles — the same type of bright, point-like objects found in vaccinated blood. The concentration is typically lower than in vaccinated individuals but is clearly above what was found in pre-2020 archived blood samples.</p>
+<p><strong>Self-assembling structures form.</strong> Over time on the slide, nanoparticles in unvaccinated blood migrate, aggregate, and form structures — filaments, crystalline formations, and ribbon-like constructions. The morphology is identical to what is observed in vaccinated blood. The rate of assembly may be slower and the final structures smaller, but the process is the same.</p>
+<p><strong>Rouleaux formation occurs.</strong> Red blood cell stacking is observed in unvaccinated individuals, indicating disruption of zeta potential (surface charge). This finding is more common in unvaccinated individuals who live or work in close proximity to vaccinated individuals or in high-EMF environments.</p>
+<p><strong>Anomalous fibrin formations.</strong> Some unvaccinated individuals show fibrin abnormalities consistent with the amyloid microclots documented universally in vaccinated blood. This suggests that the spike protein or other inflammatory triggers are reaching unvaccinated individuals through environmental exposure.</p>
+<h3 id="comparison-vaccinated-vs-unvaccinated">Comparison: Vaccinated vs. Unvaccinated</h3>
+<p>While unvaccinated blood is contaminated, the severity is generally lower than in vaccinated blood:</p>
+<table>
+<thead>
+<tr>
+<th>Finding</th>
+<th>Vaccinated</th>
+<th>Unvaccinated</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nanoparticle density</td>
+<td>High to extreme</td>
+<td>Low to moderate</td>
+</tr>
+<tr>
+<td>Self-assembly rate</td>
+<td>Fast</td>
+<td>Slower</td>
+</tr>
+<tr>
+<td>Structure complexity</td>
+<td>Complex, large</td>
+<td>Smaller, simpler</td>
+</tr>
+<tr>
+<td>Rouleaux formation</td>
+<td>Severe</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Microclot presence</td>
+<td>Universal</td>
+<td>Variable</td>
+</tr>
+<tr>
+<td>Overall blood quality</td>
+<td>Poor to severely degraded</td>
+<td>Mildly to moderately degraded</td>
+</tr>
+</tbody>
+</table>
+<p>This gradient suggests that direct injection is the most effective delivery route (as expected), but that environmental contamination is producing measurable effects in the non-injected population.</p>
+<h2 id="contamination-pathways">Contamination Pathways</h2>
+<h3 id="shedding">Shedding</h3>
+<p>As documented in our article on <a href="/shedding-mrna-human-blood/?lang=en">shedding</a>, vaccinated individuals shed spike protein and potentially lipid nanoparticle components through:</p>
+<ul>
+<li>Exhaled breath</li>
+<li>Perspiration</li>
+<li>Bodily fluids (saliva, semen, breast milk)</li>
+<li>Skin contact</li>
+</ul>
+<p>Unvaccinated individuals living with vaccinated family members, working in vaccinated-majority environments, or sharing enclosed spaces with vaccinated individuals are continuously exposed to shed materials. The effect is cumulative — daily exposure over months and years produces an increasing body burden.</p>
+<h3 id="food-supply">Food Supply</h3>
+<p>mRNA technology is being deployed in the food supply. Livestock receive mRNA-based veterinary products. Food preservation technologies incorporating nanotechnology are under development. Pesticide formulations with nanoparticle delivery systems are in use. The unvaccinated individual who eats conventionally produced food is ingesting nanotechnology through their diet.</p>
+<h3 id="water-supply">Water Supply</h3>
+<p>Nanoscale particles are too small for standard municipal water treatment to remove. As billions of vaccinated individuals excrete nanoparticles through urine and sweat, these materials enter the water supply. Reverse osmosis and advanced filtration can reduce nanoscale contamination, but standard tap water provides no protection.</p>
+<h3 id="atmospheric-exposure">Atmospheric Exposure</h3>
+<p>Clifford Carnicom of the Carnicom Institute has documented decades of atmospheric contamination with synthetic filaments and nanoparticulate materials. Whether from deliberate geoengineering programs, industrial nanotechnology release, or other sources, atmospheric nanoparticles are inhaled by every breathing person.</p>
+<h3 id="medical-products">Medical Products</h3>
+<p>As our articles on the <a href="/influenza-vaccine-darkfield/?lang=en">influenza vaccine</a> and <a href="/mmr-vaccine-nanobot-swarms/?lang=en">MMR Varicella vaccine</a> document, nanotechnology is not limited to COVID-19 products. Any individual who has received any vaccine, any injection, or any intravenous medical product may have received nanotechnology contaminants through those products.</p>
+<h2 id="the-universal-condition">The Universal Condition</h2>
+<p>The contamination of unvaccinated blood reveals that this is not a medical issue confined to those who made a specific medical choice. It is an environmental condition — a universal contamination of the biosphere that affects every living person.</p>
+<p>This universality is consistent with several prophetic and theological frameworks:</p>
+<h3 id="genesis-6-the-corruption-of-all-flesh">Genesis 6: The Corruption of All Flesh</h3>
+<p>"And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth" (Genesis 6:12). The corruption before the flood was not limited to those who directly participated in the Nephilim contamination. It was universal — "all flesh." The environmental contamination of the modern era reproduces this universality through technological rather than biological mixing.</p>
+<h3 id="revelation-1823-the-deception-of-all-nations">Revelation 18:23: The Deception of All Nations</h3>
+<p>"By thy sorceries [pharmakeia] were all the nations deceived." Not some nations. ALL nations. The pharmaceutical sorcery encompasses both the injections and the environmental contamination they produce — ensuring that the deception, and the contamination, reaches all nations and all people.</p>
+<h3 id="2-thessalonians-29-12-the-great-delusion">2 Thessalonians 2:9-12: The Great Delusion</h3>
+<p>The great delusion told the vaccinated they were safe. It told the unvaccinated they were pure. Both were deceived. The vaccinated received a direct dose of contamination. The unvaccinated received it through a thousand invisible vectors. The delusion was complete — everyone believed something false.</p>
+<h2 id="under-the-dome-no-escape">Under the Dome: No Escape</h2>
+<p>The firmament described in Genesis 1 — the impenetrable dome of clear, glass-like material over the habitable world — ensures that nothing released beneath it escapes. The nanotechnology released through billions of injections, the nanoparticles shed from billions of bodies, the nanomaterials in the food and water and air — they cycle beneath the dome. They accumulate. They concentrate.</p>
+<p>The fallen angels imprisoned under this firmament designed the system with knowledge of the enclosed space. They know there is no "away." They know that contamination released into the biosphere beneath the dome becomes universal. The shedding phenomenon is not a bug — it is a feature. The environmental contamination is not an unintended consequence — it is the design.</p>
+<p>The sky is a dome. The contamination is beneath it. And everyone breathes the same air, drinks from the same water cycle, and lives under the same electromagnetic grid. The unvaccinated made the right choice. But the system was designed to make that choice insufficient for physical protection. Only spiritual protection — the blood of Christ — operates outside the enclosed physical system.</p>
+<h2 id="hope-and-intervention">Hope and Intervention</h2>
+<h3 id="the-unvaccinated-advantage">The Unvaccinated Advantage</h3>
+<p>Despite contamination, unvaccinated individuals retain significant advantages:</p>
+<ul>
+<li>Lower overall nanoparticle burden</li>
+<li>No direct mRNA injection (no spike protein factory installed in their cells)</li>
+<li>Intact natural immune function (not disrupted by repeated mRNA instruction sets)</li>
+<li>Generally better overall health outcomes</li>
+<li>More responsive to detoxification interventions</li>
+</ul>
+<h3 id="detoxification-protocols">Detoxification Protocols</h3>
+<p>The same interventions that help vaccinated individuals help the unvaccinated — and may be even more effective due to the lower starting contamination level:</p>
+<ul>
+<li>EDTA chelation therapy</li>
+<li>High-dose vitamin C</li>
+<li>N-acetylcysteine (NAC)</li>
+<li>Nattokinase and bromelain</li>
+<li>Methylene blue</li>
+<li>Chlorella and zeolite for heavy metal binding</li>
+<li>Infrared sauna</li>
+<li>Intermittent fasting to support autophagy</li>
+</ul>
+<h3 id="the-blood-of-the-unvaccinated-and-the-blood-supply">The Blood of the Unvaccinated and the Blood Supply</h3>
+<p>The contamination of unvaccinated blood carries implications for the blood supply itself. If both vaccinated and unvaccinated blood contains nanotechnology, then the entire donated blood supply is compromised. Blood transfusions — whether from vaccinated or unvaccinated donors — may introduce nanotechnology into recipients.</p>
+<p>This has created a growing movement for "pure blood" banking — efforts by unvaccinated individuals to donate and store their own blood or to create networks of unvaccinated donors. While unvaccinated blood is demonstrably less contaminated than vaccinated blood, the darkfield microscopy evidence shows that it is not free of contamination. The concept of truly "clean" blood may no longer exist in the modern world.</p>
+<p>This reality carries profound spiritual significance. In the Old Testament sacrificial system, the blood offered to God had to be from unblemished animals — animals without defect. The blood of atonement had to be pure. If human blood can no longer be considered pure — if every drop of blood on earth is contaminated with nanotechnology, heavy metals, and microplastics — then the only pure blood that has ever existed since the fall of Adam is the blood of Jesus Christ, shed at Calvary, uncorrupted by any earthly contaminant because it was the blood of God Himself incarnate.</p>
+<h3 id="spiritual-covering">Spiritual Covering</h3>
+<p>The contamination of unvaccinated blood demonstrates that physical measures alone are insufficient protection against a contamination system designed to be universal. The blood of Jesus Christ — the one blood that has never been and can never be contaminated — remains the ultimate covering. It does not protect the physical blood from nanotechnology (as the microscopy evidence shows). But it protects the soul, the spirit, and the eternal destiny of every person who is covered by it.</p>
+<p>The physical body will be redeemed at the resurrection, when God gives new bodies — incorruptible, uncontaminated, glorified. Until that day, the faithful manage their physical contamination through the interventions available while resting in the spiritual protection that no technology can breach.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Ana Mihalcea, MD, PhD — Unvaccinated blood analysis: <a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a></li>
+<li>Carnicom Institute — Environmental and biological contamination research: <a href="https://carnicominstitute.org">carnicominstitute.org</a></li>
+<li>The Master's Voice Prophecy Blog: <a href="https://themastersvoice.wordpress.com">themastersvoice.wordpress.com</a></li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/41-Shedding_Proof.mp4">Shedding Proof</a> — The documented evidence of contamination transmission</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/61-Synthetic_Biology.mp4">Synthetic Biology</a> — Synthetic technology merging with biology through every vector</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> — The designed spread of contamination beyond the injected</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> — The technology found in unvaccinated blood</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> — The physical body contaminated regardless of choices</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> — The one water that remains pure</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/shedding-mrna-human-blood/?lang=en">Further Proof Of Shedding: mRNA Found In Human Blood of Unvaccinated</a> — How mRNA reaches the uninjected</li>
+<li><a href="/darkfield-microscopy-self-assembly/?lang=en">Darkfield Microscopy Shows Self Assembly Nanotechnology in Human Blood</a> — The foundational evidence applicable to all blood</li>
+<li><a href="/human-blood-destroyed-nanotech/?lang=en">Human Blood Being Destroyed For Nanotechnology Integration</a> — The universal destruction of blood quality</li>
+</ul>
+<hr>
+<p><em>They said no. They endured the pressure, the isolation, the condemnation, the job losses, the broken relationships. They refused the injection and paid the price of refusal. And now darkfield microscopy shows their blood is contaminated too — not as severely, but contaminated. The system was designed this way. The shedding, the food supply, the water, the air beneath the dome — every vector was calculated to ensure that no one escapes the contamination through personal choice alone. But the God who sees every nanoparticle in every drop of blood is not defeated by a universal contamination. He has a universal answer: the blood of His Son, shed once, effective forever, available to all, corrupted by nothing. The unvaccinated made the right choice. And the right covering — the blood of the Lamb — makes the final difference that microscopy cannot measure and nanotechnology cannot touch.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Darkfield Live Blood Analysis of COVID-19 Unvaccinated Individuals"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Darkfield live blood analysis of unvaccinated individuals reveals nanotechnology contamination through shedding and environmental exposure despite no injection."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-02T10:00:00Z","children":"March 2, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","darkfield-microscopy",{"href":"/en/tag/darkfield-microscopy/","className":"tag-pill","children":["#","darkfield-microscopy"]}],["$","a","unvaccinated",{"href":"/en/tag/unvaccinated/","className":"tag-pill","children":["#","unvaccinated"]}],["$","a","blood-analysis",{"href":"/en/tag/blood-analysis/","className":"tag-pill","children":["#","blood-analysis"]}],["$","a","shedding",{"href":"/en/tag/shedding/","className":"tag-pill","children":["#","shedding"]}],["$","a","environmental-contamination",{"href":"/en/tag/environmental-contamination/","className":"tag-pill","children":["#","environmental-contamination"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/darkfield-covid-unvaccinated/","title":"Darkfield Live Blood Analysis of COVID-19 Unvaccinated Individuals"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/darkfield-covid-unvaccinated/","title":"Darkfield Live Blood Analysis of COVID-19 Unvaccinated Individuals"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Darkfield Live Blood Analysis of COVID-19 Unvaccinated Individuals | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Darkfield live blood analysis of unvaccinated individuals reveals nanotechnology contamination through shedding and environmental exposure despite no injection."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"darkfield-microscopy, unvaccinated, blood-analysis, shedding, environmental-contamination"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/darkfield-covid-unvaccinated/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/darkfield-covid-unvaccinated/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/darkfield-covid-unvaccinated/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/darkfield-covid-unvaccinated/"}],["$","meta","10",{"property":"og:title","content":"Darkfield Live Blood Analysis of COVID-19 Unvaccinated Individuals"}],["$","meta","11",{"property":"og:description","content":"Darkfield live blood analysis of unvaccinated individuals reveals nanotechnology contamination through shedding and environmental exposure despite no injection."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/darkfield-covid-unvaccinated/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/darkfield-covid-unvaccinated.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Darkfield Live Blood Analysis of COVID-19 Unvaccinated Individuals"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Darkfield Live Blood Analysis of COVID-19 Unvaccinated Individuals"}],["$","meta","25",{"name":"twitter:description","content":"Darkfield live blood analysis of unvaccinated individuals reveals nanotechnology contamination through shedding and environmental exposure despite no injection."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/darkfield-covid-unvaccinated.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

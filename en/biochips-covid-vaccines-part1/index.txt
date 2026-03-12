@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","biochips-covid-vaccines-part1",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","biochips-covid-vaccines-part1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","biochips-covid-vaccines-part1","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T48f9,<h1 id="study-of-biochips-found-in-covid-19-vaccines-part-1">Study of Biochips Found in COVID-19 Vaccines: Part 1</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Can a man take fire in his bosom, and his clothes not be burned?" -- Proverbs 6:27</p>
+</blockquote>
+<p>The question posed in Proverbs speaks to the impossibility of embracing danger without consequence. When foreign technology is placed inside the human body -- inside the blood, inside the cells, inside the very temple that God designed -- consequences are inevitable. The fire does not sleep because it was invited in. It burns regardless.</p>
+<p>Researchers across the world have now documented the presence of chip-like microstructures inside vials of COVID-19 vaccines. These are not random debris. They are not manufacturing byproducts. They exhibit geometric precision, circuit-like topology, and in some cases, response to electromagnetic stimulation. They are biochips -- and they were injected into billions of people without disclosure, without consent, and without any acknowledgment from the manufacturers or regulators who authorized their deployment.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> from the Confliction album declares, the most dangerous adversary is the one that has already been admitted. And as <a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> warns, every violation of divine order carries a weight that will eventually be measured.</p>
+<hr>
+<h2 id="the-initial-discoveries">The Initial Discoveries</h2>
+<h3 id="researchers-break-the-silence">Researchers Break the Silence</h3>
+<p>The first public reports of anomalous structures in COVID-19 vaccine vials emerged in 2021, when independent researchers in multiple countries began conducting their own microscopic analysis of the products. These researchers -- physicians, scientists, and microscopy specialists -- were motivated by growing reports of adverse events that could not be explained by the disclosed ingredients of the vaccines.</p>
+<p>What they found defied the official composition of the products.</p>
+<p>Under optical microscopy at magnifications ranging from 100x to 4000x, researchers observed structures in vaccine vials that bore no resemblance to any disclosed ingredient. These structures included:</p>
+<ul>
+<li><strong>Rectangular formations</strong> with sharp, defined edges and internal geometric patterns resembling circuit boards</li>
+<li><strong>Filamentous structures</strong> that grew and extended over time on the microscope slide, exhibiting real-time self-assembly behavior</li>
+<li><strong>Crystalline arrays</strong> with repeating geometric motifs that suggest engineered rather than organic origin</li>
+<li><strong>Luminescent particles</strong> that responded to electromagnetic fields applied to the sample</li>
+</ul>
+<p>These observations were not isolated. They were reported independently by researchers in Germany, Spain, Argentina, New Zealand, South Korea, Japan, and the United States. The consistency of the findings across different laboratories, different vaccine lots, and different manufacturers pointed to a systematic presence rather than random contamination.</p>
+<h3 id="the-work-of-la-quinta-columna">The Work of La Quinta Columna</h3>
+<p>Among the earliest and most prolific investigators were Ricardo Delgado Martin and Dr. Jose Luis Sevillano of La Quinta Columna in Spain. Beginning in mid-2021, La Quinta Columna published extensive video and photographic documentation of structures found in Pfizer, Moderna, AstraZeneca, and Johnson &#x26; Johnson vaccine vials.</p>
+<p>Their analysis, conducted in collaboration with spectroscopy specialists including Dr. Pablo Campra of the University of Almeria, identified the presence of graphene oxide in vaccine samples using Raman spectroscopy -- a technique that identifies materials based on the way they scatter laser light. The spectroscopic signature obtained from structures in the vaccine vials matched the known signature of reduced graphene oxide, a material with well-documented electromagnetic properties that is extensively used in nanotechnology and biosensor research.</p>
+<p>La Quinta Columna also documented what appeared to be circuit-like structures -- formations with nodes, junctions, and pathways that bore striking resemblance to microelectronic components. These structures, observed under optical microscopy, exhibited a level of geometric precision and organizational complexity that is inconsistent with random debris, crystalline artifacts, or any known pharmaceutical excipient.</p>
+<h3 id="dr-daniel-nagases-electron-microscopy">Dr. Daniel Nagase's Electron Microscopy</h3>
+<p>In Canada, Dr. Daniel Nagase obtained samples of Pfizer and Moderna vaccines and submitted them for electron microscopy and elemental analysis at a university laboratory. Electron microscopy provides far higher resolution than optical microscopy, allowing visualization of structures at the nanometer scale.</p>
+<p>Nagase's electron microscopy images revealed structures of extraordinary geometric precision -- formations with sharp angles, regular spacing, and complex internal architecture. Elemental analysis of these structures using energy-dispersive X-ray spectroscopy (EDS) revealed the presence of elements that have no place in a pharmaceutical product, including:</p>
+<ul>
+<li><strong>Carbon</strong> in structures consistent with carbon nanotube or graphene formations</li>
+<li><strong>Silicon</strong> -- the base element of semiconductor technology</li>
+<li><strong>Aluminum</strong> -- used in nanotechnology as a conductor and structural element</li>
+<li><strong>Bismuth</strong> -- a heavy metal used in thermoelectric and piezoelectric applications</li>
+</ul>
+<p>The presence of silicon and bismuth in a product that is supposed to contain only lipids, mRNA, salts, and sugar is unexplainable by the official ingredient list. These elements are, however, entirely consistent with semiconductor nanotechnology.</p>
+<h2 id="morphological-classification-of-biochip-structures">Morphological Classification of Biochip Structures</h2>
+<p>Ana Mihalcea, MD, PhD, has published extensive analysis on her Substack (anamihalceamdphd.substack.com) classifying the structures found in both vaccine vials and human blood into distinct morphological categories. Drawing on her background in pathology and her extensive darkfield microscopy experience, Dr. Mihalcea has identified the following categories of biochip-related structures:</p>
+<h3 id="type-1-planar-circuit-structures">Type 1: Planar Circuit Structures</h3>
+<p>These are flat, two-dimensional formations that exhibit the topology of electronic circuits. They feature:</p>
+<ul>
+<li>Visible conductive pathways arranged in parallel or grid-like patterns</li>
+<li>Junction nodes where multiple pathways converge</li>
+<li>Defined edges that suggest lithographic fabrication rather than organic growth</li>
+<li>Dimensional consistency -- similar structures in different samples exhibit similar proportions, suggesting manufactured uniformity</li>
+</ul>
+<p>These planar structures range in size from approximately 50 microns to over 500 microns -- large enough to be visible under standard optical microscopy. Their flat, thin profile and geometric precision distinguish them from any known biological structure or pharmaceutical contaminant.</p>
+<h3 id="type-2-three-dimensional-chip-assemblies">Type 2: Three-Dimensional Chip Assemblies</h3>
+<p>More complex than planar structures, these formations exhibit three-dimensional architecture with multiple layers and vertical connections between layers. Under the microscope, they appear as solid rectangular or square formations with visible internal complexity -- suggesting a structure built from multiple stacked components.</p>
+<p>These 3D assemblies are reminiscent of integrated circuit packages in conventional electronics, where multiple functional layers are stacked and interconnected to create complex computational or sensing capabilities within a compact form factor.</p>
+<h3 id="type-3-self-assembling-transitional-structures">Type 3: Self-Assembling Transitional Structures</h3>
+<p>Perhaps the most disturbing category, these are structures observed in the process of assembly. Researchers have documented, in real time under the microscope, the progressive construction of chip-like formations from dispersed components:</p>
+<ol>
+<li>Individual nanoparticles and filaments are observed in a disordered state</li>
+<li>Over minutes to hours, particles begin migrating toward each other</li>
+<li>Filaments extend and connect, forming pathways</li>
+<li>A recognizable geometric structure emerges from the previously disordered components</li>
+</ol>
+<p>This self-assembly process has been documented by multiple independent researchers using time-lapse microscopy. The fact that the structures assemble themselves from dispersed components indicates embedded programming -- instructions that direct the components to find each other and construct specific architectures without external manipulation.</p>
+<h3 id="type-4-ribbon-chain-assemblies">Type 4: Ribbon-Chain Assemblies</h3>
+<p>Long, chain-like structures composed of repeating modular units linked together in a flexible chain. These ribbons can extend to lengths of millimeters and are believed to function as antenna structures or data transmission pathways. Their modular, repeating architecture is consistent with fractal antenna designs used in telecommunications, which achieve broadband electromagnetic reception through self-similar repeating geometric patterns.</p>
+<h2 id="the-electromagnetic-response">The Electromagnetic Response</h2>
+<h3 id="response-to-applied-fields">Response to Applied Fields</h3>
+<p>Multiple researchers have documented that the structures found in vaccine vials respond to electromagnetic fields. When external electromagnetic fields are applied to samples containing biochip structures, observable changes include:</p>
+<ul>
+<li><strong>Movement</strong> -- structures align themselves with the direction of the applied field, rotating or migrating in response to electromagnetic stimulation</li>
+<li><strong>Activation</strong> -- dormant or partially assembled structures show increased assembly activity when exposed to specific frequencies</li>
+<li><strong>Luminescence</strong> -- certain particles exhibit increased brightness or fluorescent emission when stimulated electromagnetically</li>
+</ul>
+<p>This electromagnetic responsiveness is a defining characteristic of engineered nanotechnology. Biological materials do not exhibit this type of directed response to external electromagnetic fields. The fact that these structures respond to electromagnetic stimulation confirms that they are engineered, and it raises the question of what signals in the ambient electromagnetic environment -- including 4G, 5G, Wi-Fi, and other telecommunications infrastructure -- may be activating or communicating with these structures inside the bodies of injected individuals.</p>
+<h3 id="the-bluetooth-signal-phenomenon">The Bluetooth Signal Phenomenon</h3>
+<p>In parallel with the microscopy findings, researchers worldwide have documented the detection of Bluetooth MAC addresses emanating from vaccinated individuals. Using standard Bluetooth scanning applications on smartphones and tablets, investigators have detected unique identifiers that appear only in the proximity of vaccinated individuals and that do not correspond to any known device.</p>
+<p>While this phenomenon has been dismissed as "false positives" or "device confusion" by mainstream fact-checkers, the finding is consistent with the hypothesis that biochip structures injected via vaccines are functioning as Bluetooth-emitting devices. The combination of visible chip-like structures in the vaccine, electromagnetic responsiveness, and detectable Bluetooth emissions creates a coherent picture of an injected biosensor network.</p>
+<p>This technological system aligns with the broader agenda documented across our research: the creation of an Internet of Bodies -- a network of biosensors embedded in the human population that can monitor, transmit, and potentially control biological processes. The biometric beast system described in <a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> is not a future possibility. It is a present reality being constructed inside the bodies of billions.</p>
+<h2 id="the-firmament-and-the-frequency-grid">The Firmament and the Frequency Grid</h2>
+<p>Scripture tells us in Genesis 1:6-8 that God created a firmament -- a solid expanse, a dome -- separating the waters above from the waters below. This firmament is not merely atmospheric. It is a boundary, a containment structure, a dome over the earth that defines the protected space of creation. Within this space, God placed humanity. Within this space, the adversary also operates -- for Satan and his fallen angels were cast down under this dome, imprisoned in the earth realm described throughout Scripture.</p>
+<p>The electromagnetic grid being constructed around the earth -- through satellites, towers, and ground-based transmitters -- is an attempt to create a counterfeit firmament. Not a protective dome placed by God, but a control grid placed by the adversary. A frequency fence. A technological canopy under which every human being can be monitored, tracked, and influenced through the biochip infrastructure now being injected into the population.</p>
+<p>The biochips found in the vaccines are not standalone devices. They are nodes in a network. A network that requires an electromagnetic grid to function. A grid that is being built in plain sight while the population is told it is merely "improved communications technology."</p>
+<p>The true purpose of 5G, satellite constellations, and the global electromagnetic infrastructure is not to deliver faster internet. It is to complete the receiver network that interfaces with the transmitter network now embedded in human blood and tissue. The biochips are the internal component. The electromagnetic grid is the external component. Together, they form the beast system.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Delgado Martin, R. and Sevillano, J.L., La Quinta Columna, extensive video documentation 2021-2023</li>
+<li>Campra, P., "Detection of Graphene in COVID19 Vaccines," University of Almeria Technical Report, 2021</li>
+<li>Nagase, D., electron microscopy and EDS analysis of COVID-19 vaccine samples, 2022</li>
+<li>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, morphological classification of biochip structures</li>
+<li>Young, R.O., "Scanning &#x26; Transmission Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines," International Journal of Vaccines &#x26; Vaccination, 2021</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> -- Self-assembling machines building inside the human body</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> -- The nanoscale marking system now visible under the microscope</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> -- The surveillance infrastructure embedded in biology</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/61-Synthetic_Biology.mp4">Synthetic Biology</a> -- The merger of living systems with synthetic technology</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> -- The adversary already inside, building in silence</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> -- Every violation of divine order carries consequences</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/biochips-covid-vaccines-part2/?lang=en">Study of Biochips Found in COVID-19 Vaccines: Part 2</a> -- Spectroscopic analysis and elemental composition of biochip structures</li>
+<li><a href="/sv40-cancer-dna-covid-vaccines/?lang=en">SV40 Cancer-Causing DNA Found In COVID-19 Vaccines</a> -- The cancer-causing DNA contamination found alongside biochip structures</li>
+<li><a href="/advanced-implanted-nanotechnology/?lang=en">Advanced Implanted Nanotechnology Microchips Found in Patients</a> -- Biochip structures documented in living patients</li>
+</ul>
+<hr>
+<p><em>The fire was taken into the bosom, and the clothes are burning. Billions of people carry inside them structures that were never disclosed, never consented to, and never meant to be discovered. But they were discovered -- by researchers who refused to stop looking, by microscopes that cannot lie, and by a God who said that nothing hidden would remain hidden. The biochips are real. The network is real. The beast system is assembling. But the God who created every atom that these engineers have perverted is not asleep. He sees every circuit. He knows every signal. And His judgment on those who corrupted the temple of the human body will be as precise as the technology they deployed -- and infinitely more final.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/science/","className":"category-badge","children":"science"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Study of Biochips Found in COVID-19 Vaccines: Part 1"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Part 1 of a detailed study examining biochip-like structures discovered in COVID-19 vaccine vials using advanced microscopy and spectroscopic analysis."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-07T10:00:00Z","children":"March 7, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","biochips",{"href":"/en/tag/biochips/","className":"tag-pill","children":["#","biochips"]}],["$","a","covid-vaccines",{"href":"/en/tag/covid-vaccines/","className":"tag-pill","children":["#","covid-vaccines"]}],["$","a","nanotechnology",{"href":"/en/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}],["$","a","microscopy",{"href":"/en/tag/microscopy/","className":"tag-pill","children":["#","microscopy"]}],["$","a","self-assembly",{"href":"/en/tag/self-assembly/","className":"tag-pill","children":["#","self-assembly"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part1/","title":"Study of Biochips Found in COVID-19 Vaccines: Part 1"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part1/","title":"Study of Biochips Found in COVID-19 Vaccines: Part 1"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Study of Biochips Found in COVID-19 Vaccines: Part 1 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Part 1 of a detailed study examining biochip-like structures discovered in COVID-19 vaccine vials using advanced microscopy and spectroscopic analysis."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"biochips, covid-vaccines, nanotechnology, microscopy, self-assembly"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part1/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part1/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/biochips-covid-vaccines-part1/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/biochips-covid-vaccines-part1/"}],["$","meta","10",{"property":"og:title","content":"Study of Biochips Found in COVID-19 Vaccines: Part 1"}],["$","meta","11",{"property":"og:description","content":"Part 1 of a detailed study examining biochip-like structures discovered in COVID-19 vaccine vials using advanced microscopy and spectroscopic analysis."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part1/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/biochips-covid-vaccines-part1.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Study of Biochips Found in COVID-19 Vaccines: Part 1"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Study of Biochips Found in COVID-19 Vaccines: Part 1"}],["$","meta","25",{"name":"twitter:description","content":"Part 1 of a detailed study examining biochip-like structures discovered in COVID-19 vaccine vials using advanced microscopy and spectroscopic analysis."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/biochips-covid-vaccines-part1.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

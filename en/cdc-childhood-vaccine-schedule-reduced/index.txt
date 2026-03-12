@@ -1,0 +1,170 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","cdc-childhood-vaccine-schedule-reduced",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","cdc-childhood-vaccine-schedule-reduced","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cdc-childhood-vaccine-schedule-reduced","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T46dd,<h1 id="cdc-childhood-vaccine-schedule-reduced-what-changed">CDC Childhood Vaccine Schedule Reduced: What Changed</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Remove not the ancient landmark, which thy fathers have set." — Proverbs 22:28</p>
+</blockquote>
+<p>There are boundaries the Creator established that were never meant to be moved. The human immune system — the divinely engineered defense network woven into every human body from conception — is one such landmark. For millennia, the human body fought infection, developed immunity, and passed immunological memory to offspring through breast milk and natural exposure. This was the ancient landmark. This was the system God designed.</p>
+<p>Then the landmark was moved. Over the course of a century, the medical establishment systematically replaced natural immunity with a pharmaceutical substitute — a schedule of injections that grew from a handful of shots to dozens, administered to children before their immune systems had finished developing. The ancient landmark was not just moved — it was buried under a mountain of needles.</p>
+<p>Now, for the first time in decades, the CDC has acknowledged that the landmark was moved too far. The childhood vaccine schedule has been reduced. But before celebrating, we must ask: what changed, why now, and is the reduction real or merely strategic?</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> warns, the enemy's strategy has always been substitution — replacing the genuine with the counterfeit, the divine design with the human imitation. And the ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> documents how the entire medical system was captured and rebuilt to serve corporate interests rather than human health.</p>
+<hr>
+<h2 id="the-schedule-that-was-a-history-of-escalation">The Schedule That Was: A History of Escalation</h2>
+<h3 id="from-7-vaccines-to-72-doses">From 7 Vaccines to 72 Doses</h3>
+<p>To understand what the CDC changed, you must first understand what the schedule became. The trajectory of the childhood vaccine schedule over the past seven decades tells a story of relentless escalation:</p>
+<ul>
+<li><strong>1960s:</strong> Children received vaccines for 4 diseases — diphtheria, tetanus, pertussis (DTP), and polio (OPV). Total doses by age 18: approximately 7.</li>
+<li><strong>1980s:</strong> Hepatitis B and Haemophilus influenzae type b (Hib) were added. Total doses climbed to approximately 15.</li>
+<li><strong>1990s:</strong> Varicella (chickenpox), hepatitis A, pneumococcal conjugate, and rotavirus were added. Total doses approached 30.</li>
+<li><strong>2000s-2010s:</strong> HPV, meningococcal, additional boosters, and influenza (annually) were added. Total doses reached approximately 50-54 by age 18.</li>
+<li><strong>2020s:</strong> With COVID-19 mRNA injections added to the schedule for children as young as 6 months, the total number of vaccine doses recommended by the CDC from birth to age 18 reached approximately 72-74 doses of 16-17 different vaccines.</li>
+</ul>
+<p>This represents a tenfold increase in vaccine doses over sixty years. No long-term study has ever been conducted examining the cumulative effect of this entire schedule administered to a single child. The individual vaccines were tested (with varying rigor) against placebos or other vaccines — but the complete schedule as administered to actual children has never been tested as a whole.</p>
+<h3 id="the-absence-of-placebo-controlled-trials">The Absence of Placebo-Controlled Trials</h3>
+<p>A fact that stuns most parents when they learn it: the majority of childhood vaccines were never tested in true placebo-controlled randomized trials. A placebo, in the scientific sense, is an inert substance — saline solution, for instance — against which the active product is compared. Instead, most childhood vaccines were tested against:</p>
+<ul>
+<li><strong>Other vaccines</strong> (comparing one reactive product against another reactive product)</li>
+<li><strong>Adjuvants alone</strong> (the reactive aluminum-containing component without the antigen — a biologically active substance, not an inert placebo)</li>
+<li><strong>Previous versions of the same vaccine</strong></li>
+</ul>
+<p>This means the safety baseline for the childhood vaccine schedule was never established against true inert controls. Every safety claim is relative — "as safe as this other reactive product" — not absolute.</p>
+<hr>
+<h2 id="what-the-cdc-changed">What the CDC Changed</h2>
+<p>The specific reductions to the childhood vaccine schedule represent the first rollback in the schedule's history. While the exact scope of changes varies by report and interpretation, the key modifications include:</p>
+<h3 id="removed-or-deferred-recommendations">Removed or Deferred Recommendations</h3>
+<ol>
+<li>
+<p><strong>COVID-19 mRNA vaccines removed from the routine childhood schedule.</strong> The most significant change. The mRNA injections that were added to the childhood schedule in October 2022 — over the objections of millions of parents — have been removed from the routine recommendation. This does not mean they are unavailable, but they are no longer universally recommended for all children.</p>
+</li>
+<li>
+<p><strong>Hepatitis B birth dose made optional.</strong> The practice of injecting newborns with hepatitis B vaccine within 24 hours of birth — a disease transmitted through sexual contact and intravenous drug use — has been revised. The birth dose is now recommended only for infants born to hepatitis B-positive mothers rather than universally administered.</p>
+</li>
+<li>
+<p><strong>Reduced doses for certain combination vaccines.</strong> Some multi-dose series have been shortened, with fewer boosters recommended during the first two years of life.</p>
+</li>
+</ol>
+<h3 id="what-remains">What Remains</h3>
+<p>Despite the reductions, the childhood vaccine schedule remains extensive. The core schedule still includes:</p>
+<ul>
+<li>DTaP (diphtheria, tetanus, pertussis) — 5 doses</li>
+<li>IPV (inactivated polio) — 4 doses</li>
+<li>MMR (measles, mumps, rubella) — 2 doses</li>
+<li>Varicella — 2 doses</li>
+<li>Hib (Haemophilus influenzae type b) — 3-4 doses</li>
+<li>PCV (pneumococcal conjugate) — 4 doses</li>
+<li>Rotavirus — 2-3 doses</li>
+<li>Hepatitis A — 2 doses</li>
+<li>Annual influenza vaccine</li>
+<li>HPV — 2-3 doses (adolescents)</li>
+<li>Meningococcal vaccines</li>
+</ul>
+<p>The total dose count remains in the range of 50+ doses from birth to age 18, even with the reductions.</p>
+<hr>
+<h2 id="the-kingston-report-why-the-reduction-happened-now">The Kingston Report: Why the Reduction Happened Now</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> provides critical context for understanding why the CDC reduced the schedule — and why the timing matters.</p>
+<h3 id="the-political-calculation">The Political Calculation</h3>
+<p>Kingston has documented that the CDC's schedule reduction did not emerge from a sudden awakening to the dangers of over-vaccination. It emerged from political necessity. Public trust in the CDC collapsed during the COVID-19 era. The agency's credibility among parents — particularly regarding childhood vaccines — reached historic lows. Survey data showed that vaccine refusal and delay among parents increased dramatically between 2020 and 2025.</p>
+<p>The schedule reduction, Kingston argues, is a strategic retreat — not a philosophical shift. By removing the most controversial elements (COVID mRNA shots for children) and making modest adjustments to the birth-dose hepatitis B recommendation, the CDC aims to:</p>
+<ol>
+<li><strong>Restore credibility</strong> by appearing responsive to parental concerns</li>
+<li><strong>Protect the core schedule</strong> by sacrificing the most indefensible recommendations to preserve the rest</li>
+<li><strong>Prevent a broader rejection</strong> of all childhood vaccines by making targeted concessions</li>
+</ol>
+<p>This is a well-documented institutional strategy: when the entire framework is under threat, sacrifice the periphery to protect the core.</p>
+<h3 id="the-liability-shield">The Liability Shield</h3>
+<p>Kingston has also documented a critical legal dimension. The National Childhood Vaccine Injury Act of 1986 — which granted vaccine manufacturers immunity from liability for injuries caused by vaccines on the CDC's recommended childhood schedule — only applies to vaccines that are on the schedule. By removing COVID mRNA products from the childhood schedule, the manufacturers' liability calculations change.</p>
+<p>As COVID vaccine injury claims mount — and as the evidence of harm to children becomes increasingly undeniable — removing these products from the childhood schedule may serve to limit institutional liability while preserving the liability shield for the vaccines that remain.</p>
+<hr>
+<h2 id="what-the-reduction-reveals">What the Reduction Reveals</h2>
+<p>The very fact that the CDC reduced the schedule reveals truths that the agency spent decades denying:</p>
+<h3 id="the-schedule-was-excessive">The Schedule Was Excessive</h3>
+<p>By removing vaccines from the schedule, the CDC implicitly acknowledges that the previous schedule contained recommendations that were unnecessary or unjustified. If every vaccine on the prior schedule was truly essential — as the CDC maintained for years — then removing any of them would endanger children. The CDC cannot simultaneously claim that the prior schedule was perfectly calibrated AND that removing vaccines from it is safe.</p>
+<h3 id="the-safety-reviews-were-inadequate">The Safety Reviews Were Inadequate</h3>
+<p>If vaccines are being removed because the risk-benefit analysis no longer favors their inclusion, this means the original risk-benefit analysis that placed them on the schedule was either wrong, incomplete, or influenced by factors other than child safety. For the hepatitis B birth dose in particular — a vaccine administered to hours-old newborns for a disease they are at virtually zero risk of contracting — the original recommendation was never justifiable on risk-benefit grounds.</p>
+<h3 id="parental-resistance-works">Parental Resistance Works</h3>
+<p>The reduction also reveals that sustained parental resistance to over-vaccination creates institutional change. The CDC did not reduce the schedule because new scientific evidence suddenly emerged. The evidence questioning the schedule existed for decades. What changed was that enough parents refused, enough questions were asked, and enough political pressure was applied that the institution was forced to respond.</p>
+<hr>
+<h2 id="the-biblical-perspective-on-restored-boundaries">The Biblical Perspective on Restored Boundaries</h2>
+<blockquote>
+<p>"Thus saith the LORD, Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein, and ye shall find rest for your souls." — Jeremiah 6:16</p>
+</blockquote>
+<p>The reduction of the childhood vaccine schedule — however modest, however strategically motivated — is a step toward restoring the ancient landmark. But the path back to the old ways is longer than a few removed vaccines. The old path is the path God designed: an immune system that develops through natural exposure, strengthened by nutrition, rest, breast milk, and the microbiome that the Creator wove into human biology.</p>
+<p>The firmament that God established over the earth (Genesis 1:6-8) — the protective dome that separates the waters above from the waters below — is a picture of divine protection. God designed systems of protection at every scale, from the cosmic to the cellular. The human immune system is a firmament over the body, a protective barrier designed to distinguish self from non-self, to identify and eliminate threats, and to remember encounters for future defense.</p>
+<p>When the pharmaceutical industry replaced this divinely designed system with an injection schedule, it was not improving on God's design. It was replacing it — substituting the Creator's firmament with a synthetic canopy that requires lifetime maintenance, generates lifetime revenue, and creates lifetime dependency.</p>
+<hr>
+<h2 id="what-parents-should-know-going-forward">What Parents Should Know Going Forward</h2>
+<h3 id="the-schedule-will-change-again">The Schedule Will Change Again</h3>
+<p>The current reduction is not the final word. The childhood vaccine schedule will continue to evolve, and the direction of that evolution depends on which forces prevail — parental advocacy for fewer interventions, or pharmaceutical industry pressure for new products (including mRNA-based childhood vaccines currently in development).</p>
+<h3 id="mrna-is-coming-for-the-schedule">mRNA Is Coming for the Schedule</h3>
+<p>As documented in our article on <a href="/childhood-vaccines-mrna-technology/?lang=en">Childhood Vaccines and mRNA Technology</a>, the pharmaceutical industry is developing mRNA replacements for conventional childhood vaccines. The removal of COVID mRNA shots from the childhood schedule does not mean mRNA technology has been rejected for pediatric use. It means the first mRNA product failed so visibly that it had to be withdrawn. The next generation of mRNA childhood vaccines is already in the pipeline.</p>
+<h3 id="know-the-difference-between-recommended-and-required">Know the Difference Between "Recommended" and "Required"</h3>
+<p>The CDC recommends vaccines. States require them (with exemptions). Understanding this distinction is critical for parents navigating the system. A vaccine's removal from the CDC schedule does not necessarily change state requirements immediately — state legislatures and health departments must update their own mandates.</p>
+<h3 id="demand-transparency-on-all-remaining-vaccines">Demand Transparency on All Remaining Vaccines</h3>
+<p>The reduction of the schedule should not create complacency about the vaccines that remain. Parents should apply the same scrutiny to every remaining vaccine: What are the ingredients? What is the adverse event profile? What is the true risk-benefit calculation for my individual child? Was it tested against a true placebo?</p>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of CDC schedule changes and pharmaceutical industry strategy.</li>
+<li>CDC Recommended Childhood and Adolescent Immunization Schedule</li>
+<li>National Childhood Vaccine Injury Act of 1986 (42 U.S.C. Section 300aa)</li>
+<li>ACIP Meeting Minutes</li>
+<li>Vaccine Adverse Event Reporting System (VAERS) data</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — How the medical establishment was captured to serve corporate interests</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The injection program as an ancient war against the bloodline</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> — The infrastructure of mass injection</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> — The enemy's strategy of substituting the genuine with the counterfeit</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — The promise that the Seed of the woman will prevail</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/childhood-vaccines-mrna-technology/?lang=en">Can Routine Childhood Vaccines Contain mRNA Technology</a> — Investigating mRNA's entry into pediatric vaccines</li>
+<li><a href="/natural-immunity-god-given-design/?lang=en">Natural Immunity: God's Given Design</a> — The immune system as divine architecture</li>
+<li><a href="/rockefeller-medicine-captured-healthcare/?lang=en">Rockefeller Medicine: Captured Healthcare</a> — The corporate capture of modern medicine</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=en">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — The next generation of mRNA technology</li>
+</ul>
+<hr>
+<p><em>The ancient landmark is stirring. After decades of relentless escalation, the schedule has retreated — not because the institution repented, but because the parents refused. This is how the old paths are restored: not by waiting for Pharaoh to open the gates, but by walking through them. "Train up a child in the way he should go: and when he is old, he will not depart from it" (Proverbs 22:6). The training begins with what you allow into their bodies.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"CDC Childhood Vaccine Schedule Reduced: What Changed"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Examining the CDC's reduced childhood vaccine schedule, what was removed, what remains, and what the changes reveal about decades of over-vaccination."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-10T10:00:00Z","children":"April 10, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CDC",{"href":"/en/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","childhood-vaccines",{"href":"/en/tag/childhood-vaccines/","className":"tag-pill","children":["#","childhood-vaccines"]}],["$","a","vaccine-schedule",{"href":"/en/tag/vaccine-schedule/","className":"tag-pill","children":["#","vaccine-schedule"]}],["$","a","pediatric-health",{"href":"/en/tag/pediatric-health/","className":"tag-pill","children":["#","pediatric-health"]}],["$","a","public-health-policy",{"href":"/en/tag/public-health-policy/","className":"tag-pill","children":["#","public-health-policy"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cdc-childhood-vaccine-schedule-reduced/","title":"CDC Childhood Vaccine Schedule Reduced: What Changed"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cdc-childhood-vaccine-schedule-reduced/","title":"CDC Childhood Vaccine Schedule Reduced: What Changed"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"CDC Childhood Vaccine Schedule Reduced: What Changed | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Examining the CDC's reduced childhood vaccine schedule, what was removed, what remains, and what the changes reveal about decades of over-vaccination."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CDC, childhood-vaccines, vaccine-schedule, pediatric-health, public-health-policy"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/cdc-childhood-vaccine-schedule-reduced/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cdc-childhood-vaccine-schedule-reduced/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cdc-childhood-vaccine-schedule-reduced/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cdc-childhood-vaccine-schedule-reduced/"}],["$","meta","10",{"property":"og:title","content":"CDC Childhood Vaccine Schedule Reduced: What Changed"}],["$","meta","11",{"property":"og:description","content":"Examining the CDC's reduced childhood vaccine schedule, what was removed, what remains, and what the changes reveal about decades of over-vaccination."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/cdc-childhood-vaccine-schedule-reduced/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cdc-childhood-vaccine-schedule-reduced.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"CDC Childhood Vaccine Schedule Reduced: What Changed"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"CDC Childhood Vaccine Schedule Reduced: What Changed"}],["$","meta","25",{"name":"twitter:description","content":"Examining the CDC's reduced childhood vaccine schedule, what was removed, what remains, and what the changes reveal about decades of over-vaccination."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cdc-childhood-vaccine-schedule-reduced.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

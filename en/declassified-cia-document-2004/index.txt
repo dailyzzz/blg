@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","declassified-cia-document-2004",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","declassified-cia-document-2004","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","declassified-cia-document-2004","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3db0,<h1 id="declassified-cia-document-from-2004-reveals-transhumanist-agenda">Declassified CIA Document From 2004 Reveals Transhumanist Agenda</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun." -- Ecclesiastes 1:9</p>
+</blockquote>
+<p>The transhumanist agenda now unfolding before our eyes was not born in a Silicon Valley conference room in 2020. It was planned, documented, and classified decades ago by intelligence agencies that understood exactly where technology was heading and exactly how it would be used. A declassified CIA document from 2004 reveals that the integration of nanotechnology, biotechnology, information technology, and cognitive science into the human organism was not merely anticipated -- it was strategically planned.</p>
+<p>Solomon wrote that there is nothing new under the sun. The agenda now being presented as "innovation" and "progress" is the execution of plans laid before the COVID-19 pandemic, before the mRNA platform, before the public had ever heard the word "nanotechnology." The document trail is clear. The plan was always there.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> from the Confliction album warns, the violation of divine boundaries is never accidental -- it is always planned. And as <a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> reminds us, the desire to become like God through forbidden knowledge is the oldest temptation in creation.</p>
+<hr>
+<h2 id="the-document-converging-technologies">The Document: Converging Technologies</h2>
+<h3 id="nbic-convergence">NBIC Convergence</h3>
+<p>The declassified document -- part of a broader intelligence community assessment of "converging technologies" -- describes the planned merger of four technology domains:</p>
+<ul>
+<li><strong>N</strong> -- Nanotechnology: manipulation of matter at the atomic and molecular scale</li>
+<li><strong>B</strong> -- Biotechnology: manipulation of living systems and biological processes</li>
+<li><strong>I</strong> -- Information Technology: computation, data processing, and communication systems</li>
+<li><strong>C</strong> -- Cognitive Science: understanding and manipulation of the human mind</li>
+</ul>
+<p>The NBIC convergence framework describes a future in which these four domains merge to create capabilities that none could achieve alone. The document explicitly describes:</p>
+<p><strong>Human Performance Enhancement</strong></p>
+<p>The augmentation of human physical and cognitive capabilities through technological integration. This includes enhanced strength, endurance, sensory perception, memory, processing speed, and emotional regulation -- achieved not through training or discipline but through the installation of technology in or on the human body.</p>
+<p><strong>Brain-Machine Interface</strong></p>
+<p>Direct communication between the human brain and external technological systems, enabling thought-controlled devices, telepathic communication between individuals, and the upload and download of information directly to and from the brain.</p>
+<p><strong>Nanotechnology-Based Medical Systems</strong></p>
+<p>Injectable nanotechnology that monitors, diagnoses, and treats disease from inside the body. This includes nanoscale sensors, drug delivery systems, and self-assembling structures that maintain health through continuous internal monitoring and intervention.</p>
+<p><strong>Cognitive Enhancement</strong></p>
+<p>The augmentation of human cognitive capabilities through pharmaceutical, genetic, and technological means. This includes enhancement of memory, attention, learning speed, and problem-solving ability -- creating cognitive capabilities that exceed natural human limits.</p>
+<h3 id="the-2004-timeline">The 2004 Timeline</h3>
+<p>What makes this document particularly significant is its date: 2004. Twenty years before the mass deployment of mRNA nanotechnology, the intelligence community had already:</p>
+<ul>
+<li>Identified the technologies that would be converged</li>
+<li>Described the capabilities that convergence would enable</li>
+<li>Outlined the human augmentation applications</li>
+<li>Anticipated the societal implications</li>
+<li>Planned the institutional framework for development and deployment</li>
+</ul>
+<p>The COVID-19 pandemic and the mass vaccination campaign were not responses to an unexpected crisis. They were the execution of a plan that had been developing for at least two decades -- a plan to introduce nanotechnology into the human population under the cover of medical emergency.</p>
+<p>Ana Mihalcea, MD, PhD, has documented extensively on her Substack (anamihalceamdphd.substack.com) how the nanotechnology now visible in human blood matches the capabilities described in declassified intelligence documents. The self-assembling structures, the biosensor functions, the electromagnetic communication -- all were anticipated in documents that predated the pandemic by years and decades.</p>
+<h2 id="the-institutional-framework">The Institutional Framework</h2>
+<h3 id="the-national-nanotechnology-initiative">The National Nanotechnology Initiative</h3>
+<p>In 2000 -- four years before the CIA document -- President Clinton launched the National Nanotechnology Initiative (NNI), a federal program to coordinate nanotechnology research and development across 20 federal agencies. The NNI has received cumulative funding exceeding $40 billion -- making it one of the largest research investments in American history.</p>
+<p>The NNI's stated goals include:</p>
+<ul>
+<li>Advancing nanotechnology research and development</li>
+<li>Fostering the transfer of nanotechnology to commercial and military applications</li>
+<li>Developing educational and workforce programs in nanotechnology</li>
+<li>Supporting responsible development and regulation</li>
+</ul>
+<p>The NNI created the institutional infrastructure for nanotechnology development -- the research labs, the funding mechanisms, the regulatory frameworks, and the commercial pipelines that would eventually produce the nanotechnology now found in human blood. The CIA document was produced within this institutional context, describing not a fantasy but a program already underway.</p>
+<h3 id="darpas-role">DARPA's Role</h3>
+<p>The Defense Advanced Research Projects Agency has been the primary funding source for the most advanced nanotechnology research. DARPA programs relevant to the transhumanist agenda include:</p>
+<ul>
+<li><strong>BiSTEPS</strong> (Biological Technologies for Stability, Efficiency, and Performance of Soldiers) -- research into biological augmentation for military personnel</li>
+<li><strong>Living Foundries</strong> -- a program to develop synthetic biology capabilities for manufacturing biological materials</li>
+<li><strong>ElectRx</strong> (Electrical Prescriptions) -- research into neuromodulation technology for treating disease and enhancing performance through electrical stimulation of peripheral nerves</li>
+<li><strong>N3</strong> (Next-Generation Nonsurgical Neurotechnology) -- injectable neural interface technology</li>
+<li><strong>Pandemic Prevention Platform (P3)</strong> -- rapid development of pharmaceutical countermeasures, including mRNA technology</li>
+</ul>
+<p>The DARPA pipeline from laboratory to deployment passes through pharmaceutical companies, military contractors, and intelligence agencies -- the same entities that comprise the shadow government described by CIA whistleblower Kevin Shipp. The transhumanist agenda is not a private sector initiative. It is a military-intelligence program executed through pharmaceutical channels.</p>
+<h2 id="the-spiritual-dimension">The Spiritual Dimension</h2>
+<h3 id="the-forbidden-knowledge-pattern">The Forbidden Knowledge Pattern</h3>
+<p>The transhumanist agenda follows the pattern of forbidden knowledge established in Genesis 3. The serpent's temptation to Eve was explicitly transhumanist: "You shall be as gods, knowing good and evil." The promise of transcending human limitations through forbidden knowledge -- becoming more than human, becoming like God -- is the original sin.</p>
+<p>The CIA document from 2004 articulates this same promise in modern language: human enhancement, cognitive augmentation, physical transcendence through technology. The vocabulary is different. The promise is identical. And the source is the same spiritual impulse that drove the first transgression in Eden.</p>
+<p>The Book of Enoch (referenced in Jude 14-15) describes the forbidden knowledge taught by the fallen Watchers to humanity before the flood: metallurgy, weaponry, cosmetics, enchantments, and astrology. This forbidden knowledge corrupted humanity and was a major factor in God's decision to bring the flood. Nanotechnology, biotechnology, and cognitive science are the modern equivalents of this forbidden knowledge -- technologies that transgress the boundaries God placed between the natural and the supernatural, the human and the divine, the created and the Creator.</p>
+<h3 id="the-dome-and-the-defiance">The Dome and the Defiance</h3>
+<p>The firmament placed by God over the earth in Genesis 1:6-8 is a boundary -- a statement of divine sovereignty over the created realm. The transhumanist agenda is a direct challenge to this boundary. It seeks to transcend human limitations not through spiritual transformation but through technological augmentation -- to breach the boundary between human and superhuman without going through the gate that God established (salvation through Jesus Christ).</p>
+<p>The CIA document reveals that this defiance is not spontaneous. It is planned, funded, and executed through institutional structures that operate behind classification walls. The principalities and powers described in Ephesians 6:12 -- the spiritual forces driving this agenda -- work through bureaucracies, budgets, and black programs. They use intelligence agencies as their instruments. They use classification as their veil. And they use pharmaceutical products as their delivery mechanism.</p>
+<p>But the dome holds. The firmament God placed is above the ambitions of the transhumanists, above the classified programs of the intelligence agencies, and above the technology that the adversary has deployed. The boundary between human and divine is maintained by the One who placed it -- and no NBIC convergence, no DARPA program, and no CIA plan can breach what God has sealed.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>National Science Foundation, "Converging Technologies for Improving Human Performance: Nanotechnology, Biotechnology, Information Technology and Cognitive Science," 2002</p>
+</li>
+<li>
+<p>CIA declassified assessment of NBIC convergence technologies, 2004</p>
+</li>
+<li>
+<p>National Nanotechnology Initiative, annual reports and strategic plans, 2000-present</p>
+</li>
+<li>
+<p>DARPA program documentation for BiSTEPS, Living Foundries, ElectRx, N3, and P3</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, declassified document analysis</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> -- The military research agency behind the transhumanist agenda</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/339-The_New_Man.mp4">The New Man</a> -- The transhumanist vision planned decades ago</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/447-Modded_Humans.mp4">Modded Humans</a> -- The augmented human planned in classified documents</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/211-Total_Information_Awareness.mp4">Total Information Awareness</a> -- The surveillance dimension of the transhumanist system</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> -- The planned violation of divine boundaries</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> -- The desire to become like God through forbidden knowledge</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/cia-intelligence-shadow-government/?lang=en">CIA Insider Kevin Shipp Explains The Shadow Government</a> -- The institutional structure behind the transhumanist plan</li>
+<li><a href="/declassified-cia-technocratic-1978/?lang=en">Declassified Technocratic CIA Document From 1978</a> -- Earlier documentation of technological control planning</li>
+<li><a href="/cyborg-dawn-military-augmentation/?lang=en">Cyborg Dawn: Military Use Of Human Augmentation Technology</a> -- The military dimension of human augmentation</li>
+</ul>
+<hr>
+<p><em>The document was classified. The plan was hidden. The agenda was concealed behind walls of secrecy for two decades before it was deployed upon the world. But the God who sees behind every classification wall, who reads every classified document before it is written, who knows the end from the beginning -- this God was not surprised. He knew the plan before the planners knew it. And He has already prepared the response: a Kingdom that no technology can enhance, a Body that no nanotechnology can corrupt, and a Name that is above every name the transhumanists have given to their programs.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Declassified CIA Document From 2004 Reveals Transhumanist Agenda"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"A declassified CIA document from 2004 reveals detailed planning for human augmentation and transhumanist technology integration into civilian populations."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-17T10:00:00Z","children":"March 17, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","cia",{"href":"/en/tag/cia/","className":"tag-pill","children":["#","cia"]}],["$","a","declassified",{"href":"/en/tag/declassified/","className":"tag-pill","children":["#","declassified"]}],["$","a","transhumanism",{"href":"/en/tag/transhumanism/","className":"tag-pill","children":["#","transhumanism"]}],["$","a","human-augmentation",{"href":"/en/tag/human-augmentation/","className":"tag-pill","children":["#","human-augmentation"]}],["$","a","nanotechnology",{"href":"/en/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/declassified-cia-document-2004/","title":"Declassified CIA Document From 2004 Reveals Transhumanist Agenda"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/declassified-cia-document-2004/","title":"Declassified CIA Document From 2004 Reveals Transhumanist Agenda"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Declassified CIA Document From 2004 Reveals Transhumanist Agenda | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"A declassified CIA document from 2004 reveals detailed planning for human augmentation and transhumanist technology integration into civilian populations."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"cia, declassified, transhumanism, human-augmentation, nanotechnology"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/declassified-cia-document-2004/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/declassified-cia-document-2004/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/declassified-cia-document-2004/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/declassified-cia-document-2004/"}],["$","meta","10",{"property":"og:title","content":"Declassified CIA Document From 2004 Reveals Transhumanist Agenda"}],["$","meta","11",{"property":"og:description","content":"A declassified CIA document from 2004 reveals detailed planning for human augmentation and transhumanist technology integration into civilian populations."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/declassified-cia-document-2004/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/declassified-cia-document-2004.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Declassified CIA Document From 2004 Reveals Transhumanist Agenda"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Declassified CIA Document From 2004 Reveals Transhumanist Agenda"}],["$","meta","25",{"name":"twitter:description","content":"A declassified CIA document from 2004 reveals detailed planning for human augmentation and transhumanist technology integration into civilian populations."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/declassified-cia-document-2004.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

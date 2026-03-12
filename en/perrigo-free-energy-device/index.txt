@@ -1,0 +1,116 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","perrigo-free-energy-device",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","perrigo-free-energy-device","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","perrigo-free-energy-device","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3179,<h1 id="the-peculiar-story-of-he-perrigos-free-energy-device">The Peculiar Story of H.E. Perrigo's FREE ENERGY Device</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows."</em> — 1 Timothy 6:10</p>
+</blockquote>
+<p>In the forgotten corners of American history, there are stories of inventors who built devices that generated energy from seemingly nothing — devices that threatened to overthrow the petroleum-based energy monopoly and liberate humanity from its dependence on fossil fuels. These inventors were silenced. Their devices vanished. Their names were erased from history. And the energy monopoly continued, decade after decade, charging the world for something that should have been free.</p>
+<p>H.E. Perrigo is one such inventor. His story — brief, mysterious, and ultimately tragic — illustrates the fate that awaits anyone who challenges the energy establishment. Perrigo built a device. The device apparently worked. Then Perrigo and his device disappeared from the historical record, leaving behind only fragments of evidence that something remarkable was created and something terrible was done to suppress it.</p>
+<p>Howard Pittman was shown during his NDE that the demonic hierarchy organizes to steal, kill, and destroy. The suppression of free energy technology is theft on a cosmic scale — the theft of humanity's birthright, the theft of God's provision through the natural energies of creation, the theft of freedom itself. The 97.5% who are failing pay their electric bills, fill their gas tanks, and heat their homes without ever knowing that the energy they pay for could be free.</p>
+<p>Napoleon called the Jesuits "a military organization" pursuing "absolute power." Control of energy is control of civilization. The Jesuits and their allied secret societies — working through the Rockefeller energy empire and its successors — have ensured that free energy technology remains suppressed, its inventors silenced, and its history erased. Pope Clement XIV was poisoned for defying them. Free energy inventors have met similar fates.</p>
+<hr>
+<h2 id="the-perrigo-device">The Perrigo Device</h2>
+<h3 id="what-we-know">What We Know</h3>
+<p>H.E. Perrigo reportedly developed an electromagnetic device in the early 20th century that generated more energy than it consumed — an apparent violation of the law of conservation of energy as conventionally understood. The device was described as:</p>
+<ul>
+<li>A <strong>self-running electromagnetic motor/generator</strong> that produced usable electrical output</li>
+<li>Based on principles of <strong>electromagnetic resonance</strong> and <strong>magnetic flux manipulation</strong></li>
+<li>Capable of powering household equipment without external fuel or power source</li>
+<li>Demonstrated to witnesses who confirmed its operation</li>
+</ul>
+<p>The details of Perrigo's device are sparse — which is itself significant. The historical record has been systematically stripped of information about free energy inventors, making research difficult by design. What remains are fragments: newspaper mentions, patent applications, correspondence, and the testimony of witnesses who saw the devices operate.</p>
+<h3 id="what-happened">What Happened</h3>
+<p>The pattern that befell Perrigo is the same pattern that has befallen virtually every free energy inventor in history:</p>
+<ol>
+<li><strong>Invention</strong>: The inventor builds a working device</li>
+<li><strong>Demonstration</strong>: The device is shown to witnesses, investors, or the press</li>
+<li><strong>Attention</strong>: The demonstration attracts attention from powerful interests</li>
+<li><strong>Suppression</strong>: The inventor is bought off, threatened, discredited, or eliminated</li>
+<li><strong>Disappearance</strong>: The device vanishes — confiscated, destroyed, or hidden</li>
+<li><strong>Erasure</strong>: The inventor's story is removed from the historical record</li>
+</ol>
+<p>Perrigo's story follows this pattern. The device was built, it was demonstrated, and then both the device and its inventor faded from public awareness. The energy establishment continued unchallenged.</p>
+<h2 id="the-suppression-of-free-energy">The Suppression of Free Energy</h2>
+<h3 id="the-rockefeller-energy-monopoly">The Rockefeller Energy Monopoly</h3>
+<p>The suppression of free energy technology must be understood in the context of the Rockefeller energy monopoly. Standard Oil — John D. Rockefeller's company — controlled approximately 90% of American oil refining by the 1880s. Although Standard Oil was broken up by the Supreme Court in 1911, the successor companies (ExxonMobil, Chevron, etc.) continue to dominate the global energy industry.</p>
+<p>The Rockefeller dynasty's wealth and power depend on humanity's continued use of fossil fuels. Free energy technology — any technology that generates usable energy without fossil fuel consumption — is an existential threat to this empire. The Rockefellers have therefore invested heavily in suppressing free energy:</p>
+<ul>
+<li><strong>Patent acquisition</strong>: Companies acquire free energy patents and shelve them</li>
+<li><strong>Regulatory capture</strong>: Energy regulations are written to exclude alternative technologies</li>
+<li><strong>Academic control</strong>: Rockefeller-funded universities teach physics in ways that make free energy seem impossible</li>
+<li><strong>Media control</strong>: Mainstream media dismisses free energy research as pseudoscience</li>
+<li><strong>Inventor suppression</strong>: Individual inventors face legal, financial, and physical threats</li>
+</ul>
+<h3 id="the-physics-establishments-role">The Physics Establishment's Role</h3>
+<p>The academic physics establishment serves as a gatekeeper against free energy. Any researcher who claims to have developed a device that generates more energy than it consumes is immediately dismissed as a fraud or a crank, because the laws of thermodynamics "prohibit" such a device.</p>
+<p>But the laws of thermodynamics were formulated in the 19th century based on observations of heat engines — steam engines and their successors. They describe the behavior of closed systems in thermal equilibrium. They do not necessarily apply to:</p>
+<ul>
+<li><strong>Open systems</strong> that draw energy from the ambient environment</li>
+<li><strong>Electromagnetic systems</strong> that tap into zero-point energy or vacuum fluctuations</li>
+<li><strong>Resonant systems</strong> that amplify energy through constructive interference</li>
+<li><strong>Novel physical phenomena</strong> not accounted for in 19th-century thermodynamics</li>
+</ul>
+<p>The physics establishment's blanket dismissal of free energy serves the same function as the "tin foil hat" meme: it prevents investigation by triggering automatic ridicule. And this dismissal is enforced by the same Rockefeller-funded institutions that benefit from the energy monopoly.</p>
+<h3 id="nikola-tesla-the-most-famous-suppression">Nikola Tesla: The Most Famous Suppression</h3>
+<p>The most famous free energy suppression involves Nikola Tesla, who claimed to have developed technology for wireless energy transmission and energy extraction from the ambient environment. Tesla's Wardenclyffe Tower — designed for wireless power transmission — was demolished after J.P. Morgan withdrew funding upon learning that Tesla's system could not be metered (and therefore could not be used to charge customers).</p>
+<p>Tesla's story establishes the template: energy that cannot be metered cannot be monetized, and energy that cannot be monetized cannot be allowed to exist. The energy monopoly is not about providing energy — it is about selling energy. Free energy eliminates the sale, and therefore must be eliminated.</p>
+<h2 id="the-spiritual-dimension">The Spiritual Dimension</h2>
+<h3 id="gods-provision-suppressed">God's Provision Suppressed</h3>
+<p>God created a universe filled with energy. The sun radiates more energy in one second than humanity uses in a year. The Earth's magnetic field contains vast energy. The quantum vacuum contains energy at every point in space. Energy is not scarce — it is abundant beyond human comprehension.</p>
+<p>The scarcity of energy is manufactured. It is a lie — maintained by the energy monopoly, enforced by the physics establishment, and protected by the intelligence agencies that serve the Rockefeller dynasty and its allied secret societies.</p>
+<p>Howard Pittman was shown that the demonic hierarchy's primary goal is to separate humanity from God's provision. The energy monopoly accomplishes this by inserting itself between humanity and the abundant energy God created. Instead of receiving energy freely from creation, humanity must purchase it from corporations — paying for what God gave freely.</p>
+<p>This is the pattern of the Rockefeller system: steal God's provision, repackage it, sell it back, and punish anyone who tries to access it directly. It applies to medicine (natural healing suppressed, drugs sold), food (organic farming suppressed, processed food sold), and energy (free energy suppressed, fossil fuels sold).</p>
+<h3 id="the-jesuit-energy-connection">The Jesuit Energy Connection</h3>
+<p>The Jesuit order's involvement in the energy sector extends through their network of universities, their connections to the intelligence community, and their influence over the Vatican's vast financial empire. Jesuit-trained scientists staff the physics departments that declare free energy impossible. Jesuit-connected intelligence operatives suppress inventors who prove otherwise. And the Jesuit order's pursuit of "absolute power" is served by an energy system that makes every human being dependent on corporations for their survival.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — free energy suppression research and inventor histories</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — God's provision vs. manufactured scarcity</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit control of scientific institutions</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Tesla's Wardenclyffe Tower historical records</li>
+<li>Standard Oil antitrust case documentation</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/111-Free_Energy_Murdered.mp4">Free Energy Murdered</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/27-The_Promise_of_Salvation.mp4">The Promise of Salvation</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/lester-hendershot-fuelless-motor/?lang=en">Lester Hendershot's FUELLESS MOTOR: Free Energy Suppressed</a></li>
+<li><a href="/garabed-free-energy-generator/?lang=en">The Garabed Free Energy Generator That Disappeared</a></li>
+<li><a href="/space-rockets-helium-balloons/?lang=en">Are Space Rockets Actually HELIUM BALLOONS: The Evidence</a></li>
+</ul>
+<p><em>H.E. Perrigo built a device that could have changed the world. The world silenced him. But the energy is still there — in every magnetic field, every quantum fluctuation, every ray of sunlight. God's provision cannot be permanently suppressed. The truth about energy, like all truth, will eventually break free. And when it does, the Rockefeller monopoly will fall — not with a whimper, but with the roar of a world finally set free.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The Peculiar Story of H.E. Perrigo's FREE ENERGY Device"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"H.E. Perrigo built a free energy device that allegedly worked. Then the device vanished, the inventor was silenced, and history forgot. Until now."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-25T10:00:00Z","children":"December 25, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","free-energy",{"href":"/en/tag/free-energy/","className":"tag-pill","children":["#","free-energy"]}],["$","a","suppressed-technology",{"href":"/en/tag/suppressed-technology/","className":"tag-pill","children":["#","suppressed-technology"]}],["$","a","perrigo",{"href":"/en/tag/perrigo/","className":"tag-pill","children":["#","perrigo"]}],["$","a","energy-monopoly",{"href":"/en/tag/energy-monopoly/","className":"tag-pill","children":["#","energy-monopoly"]}],["$","a","alternative-energy",{"href":"/en/tag/alternative-energy/","className":"tag-pill","children":["#","alternative-energy"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/perrigo-free-energy-device/","title":"The Peculiar Story of H.E. Perrigo's FREE ENERGY Device"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/perrigo-free-energy-device/","title":"The Peculiar Story of H.E. Perrigo's FREE ENERGY Device"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The Peculiar Story of H.E. Perrigo's FREE ENERGY Device | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"H.E. Perrigo built a free energy device that allegedly worked. Then the device vanished, the inventor was silenced, and history forgot. Until now."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"free-energy, suppressed-technology, perrigo, energy-monopoly, alternative-energy"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/perrigo-free-energy-device/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/perrigo-free-energy-device/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/perrigo-free-energy-device/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/perrigo-free-energy-device/"}],["$","meta","10",{"property":"og:title","content":"The Peculiar Story of H.E. Perrigo's FREE ENERGY Device"}],["$","meta","11",{"property":"og:description","content":"H.E. Perrigo built a free energy device that allegedly worked. Then the device vanished, the inventor was silenced, and history forgot. Until now."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/perrigo-free-energy-device/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/perrigo-free-energy-device.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The Peculiar Story of H.E. Perrigo's FREE ENERGY Device"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The Peculiar Story of H.E. Perrigo's FREE ENERGY Device"}],["$","meta","25",{"name":"twitter:description","content":"H.E. Perrigo built a free energy device that allegedly worked. Then the device vanished, the inventor was silenced, and history forgot. Until now."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/perrigo-free-energy-device.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

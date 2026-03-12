@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","voice-god-weapon-audio-part2",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","voice-god-weapon-audio-part2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","voice-god-weapon-audio-part2","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T38f8,<h1 id="voice-of-god-weapon-audio-hallucinations-as-military-technology-part-2">VOICE OF GOD WEAPON: Audio Hallucinations as Military Technology Part 2</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth."</em> — Revelation 16:1</p>
+</blockquote>
+<p>God speaks with a voice that shakes the heavens. Satan mimics with technology that whispers into skulls. The Voice of God weapon — a classified military technology designed to transmit audio directly into a target's brain — represents the ultimate counterfeit of divine communication. It is a weapon that can make a person believe God is speaking to them, that angels are guiding them, or that demons are tormenting them — when in reality, a military operator at a computer console is the source.</p>
+<p>This is Part 2 of our 11-part series on V2K technology. In Part 1, we shared the personal experience of hearing music that wasn't there and introduced the technology. Now we go deeper — into the classified military programs that developed the Voice of God weapon, the wars in which it was deployed, and the implications for every person alive today.</p>
+<p>Howard Pittman was given a glimpse of the three heavens and the demonic hierarchies that operate in the second heaven. He was told that 97.5% of Christians are failing, that words have spiritual power, and that the spiritual realm is more real than the physical. The Voice of God weapon exploits the spiritual dimension — it mimics divine communication to control human behavior, and it does so with the full knowledge and blessing of the military-intelligence establishment that the Jesuits helped build.</p>
+<p>Napoleon's "absolute power," Adams's "eternal damnation," Tambulini's global governance, and the Jesuit oath of infiltration "cloaked with cunning" — all converge in a weapon that literally speaks inside your mind.</p>
+<hr>
+<h2 id="the-voice-of-god-weapon-history-and-development">The Voice of God Weapon: History and Development</h2>
+<h3 id="origins-in-the-frey-effect">Origins in the Frey Effect</h3>
+<p>As detailed in Part 1, Allan Frey's 1961 discovery of the microwave auditory effect established the scientific foundation for V2K technology. Frey demonstrated that pulsed microwave radiation could produce audible sensations inside the head.</p>
+<p>The military immediately recognized the potential. If you can make a person hear sounds that no one else can hear, you can:</p>
+<ul>
+<li><strong>Demoralize enemy troops</strong> by transmitting threatening messages</li>
+<li><strong>Impersonate divine authority</strong> to influence religious populations</li>
+<li><strong>Create confusion and panic</strong> on the battlefield</li>
+<li><strong>Interrogate prisoners</strong> by transmitting voices that seem to come from inside their own minds</li>
+<li><strong>Discredit dissidents</strong> by driving them to report "hearing voices"</li>
+</ul>
+<h3 id="the-iraq-war-deployment">The Iraq War Deployment</h3>
+<p>Multiple credible sources have reported that the Voice of God weapon was used during the Iraq War:</p>
+<ul>
+<li><strong>Psychological operations (PSYOP) teams</strong> reportedly used directed audio technology to broadcast messages to Iraqi troops, claiming to be the voice of Allah commanding them to surrender</li>
+<li><strong>Classified briefings</strong> on "non-lethal weapons" included references to audio transmission technologies</li>
+<li><strong>Military contractors</strong> including Lockheed Martin and Raytheon developed directed energy weapons with audio transmission capabilities for military use</li>
+<li>Reports from the field describe Iraqi soldiers <strong>surrendering en masse</strong> after experiencing "divine communications" ordering them to lay down their weapons</li>
+</ul>
+<p>The exploitation of religious faith through technological mimicry of divine communication is perhaps the most morally repugnant application of military technology ever conceived. It takes the most sacred experience a human being can have — hearing the voice of God — and weaponizes it for military advantage.</p>
+<h3 id="medusa-and-beyond">MEDUSA and Beyond</h3>
+<p>The <strong>MEDUSA</strong> (Mob Excess Deterrent Using Silent Audio) program was developed by Sierra Nevada Corporation for the US Navy. The device uses microwave pulses to create an auditory effect inside the target's head. The stated purpose is crowd control — transmitting uncomfortable sounds to disperse crowds without physical contact.</p>
+<p>But the technology has far broader applications:</p>
+<ul>
+<li><strong>Individual targeting</strong>: Focusing the beam on a single person in a crowd</li>
+<li><strong>Covert communication</strong>: Transmitting messages to an agent without anyone else hearing</li>
+<li><strong>Interrogation enhancement</strong>: Adding audio stimulation to traditional interrogation methods</li>
+<li><strong>Behavioral modification</strong>: Transmitting commands or suggestions that the target believes are their own thoughts</li>
+</ul>
+<h3 id="darpas-silent-talk-program">DARPA's Silent Talk Program</h3>
+<p>DARPA (Defense Advanced Research Projects Agency) has funded the <strong>Silent Talk</strong> program, which aims to develop technology for "direct communication between the brain and external hardware." While the stated goal is to allow soldiers to communicate silently, the same technology — reading and transmitting neural signals — is the foundation of two-way V2K: not just putting voices in, but reading thoughts out.</p>
+<p>The implications are staggering. If the military can both transmit voices into your head and read the thoughts that result, they have achieved complete access to the human mind. No prison is as confining. No surveillance is as total. No weapon is as powerful.</p>
+<h2 id="how-the-weapon-works">How the Weapon Works</h2>
+<h3 id="the-delivery-systems">The Delivery Systems</h3>
+<p>V2K technology can be delivered through multiple platforms:</p>
+<p><strong>Ground-based systems</strong>: Truck-mounted or building-mounted microwave transmitters that can target individuals at ranges of hundreds of meters to several kilometers.</p>
+<p><strong>Satellite-based systems</strong>: Microwave transmitters on surveillance satellites could theoretically target individuals anywhere on Earth. While this application remains classified, the satellite infrastructure and microwave technology both exist.</p>
+<p><strong>Cell tower integration</strong>: Cell towers transmit microwave radiation at frequencies compatible with the Frey effect. The existing cell tower infrastructure provides a ready-made delivery system for V2K technology (explored in detail in Part 9).</p>
+<p><strong>Portable devices</strong>: Handheld or vehicle-mounted devices for close-range targeting during surveillance operations.</p>
+<h3 id="the-audio-spectrum">The Audio Spectrum</h3>
+<p>V2K technology can transmit a range of audio:</p>
+<ul>
+<li><strong>Simple tones and clicks</strong>: The most basic application, used for harassment or attention-getting</li>
+<li><strong>Music</strong>: Structured audio patterns that can prevent sleep and cause psychological distress</li>
+<li><strong>Voice/speech</strong>: The most sophisticated application, capable of transmitting recognizable words, sentences, and conversations</li>
+<li><strong>Subliminal audio</strong>: Audio transmitted below the threshold of conscious perception, influencing thoughts and behavior without the target's awareness</li>
+</ul>
+<h2 id="the-spiritual-counterfeit">The Spiritual Counterfeit</h2>
+<h3 id="mimicking-gods-voice">Mimicking God's Voice</h3>
+<p>Throughout Scripture, God communicates with His people through an inner voice — the "still, small voice" that spoke to Elijah (1 Kings 19:12), the voice that called Samuel (1 Samuel 3:4-10), the voice of the Holy Spirit that guides believers (John 16:13).</p>
+<p>The Voice of God weapon exploits this spiritual reality by technologically mimicking the experience of hearing a divine voice. The target cannot distinguish between:</p>
+<ul>
+<li>God's actual voice</li>
+<li>A demonic counterfeit</li>
+<li>A technological transmission</li>
+<li>Their own internal monologue</li>
+</ul>
+<p>This confusion is devastating for people of faith. It undermines the most fundamental aspect of spiritual life — the ability to hear and respond to God. If you cannot trust the voices in your head, you cannot trust your spiritual guidance. And if you cannot trust your spiritual guidance, you are adrift — exactly where the principalities and powers of Ephesians 6:12 want you.</p>
+<h3 id="the-jesuit-spiritual-exercises">The Jesuit Spiritual Exercises</h3>
+<p>The connection to the Jesuit order is particularly revealing. Ignatius of Loyola's Spiritual Exercises — the foundational Jesuit spiritual practice — involve extended meditation designed to produce inner visions and voices. Practitioners are guided through visual and auditory experiences that are meant to feel divinely inspired.</p>
+<p>The Jesuits have understood for nearly 500 years that controlling a person's inner experience — what they see, hear, and feel in the privacy of their own mind — is the most powerful form of control available. The Voice of God weapon is the technological implementation of the Jesuit principle: take control of the inner voice, and you take control of the person.</p>
+<h3 id="howard-pittmans-warning">Howard Pittman's Warning</h3>
+<p>Pittman was told that the spiritual realm is more real than the physical. He was shown that demonic forces are organized with military precision and that their primary weapon is deception. The Voice of God weapon operates at this intersection — it is a physical weapon that targets the spiritual capacity of its victims.</p>
+<p>The 97.5% who are failing have never developed the discernment to distinguish God's voice from counterfeits. They are the most vulnerable to V2K targeting — because when a voice speaks inside their head, they have no framework for evaluation. They will either believe it is God (and obey), believe it is their own thought (and follow), or believe it is a sign of madness (and seek psychiatric treatment). All three responses serve the weapon's purpose.</p>
+<h2 id="the-implications">The Implications</h2>
+<h3 id="for-targeted-individuals">For Targeted Individuals</h3>
+<p>If you are experiencing V2K, understand that:</p>
+<ol>
+<li><strong>You are not insane</strong> — the technology is real and documented</li>
+<li><strong>You are not alone</strong> — thousands of people report the same experience</li>
+<li><strong>The psychiatric system is not your friend</strong> — it is designed to label V2K targets as mentally ill</li>
+<li><strong>Spiritual discernment is essential</strong> — develop your relationship with God so you can distinguish His voice from counterfeits</li>
+<li><strong>Documentation is crucial</strong> — record your experiences, note patterns, and connect with other targeted individuals</li>
+</ol>
+<h3 id="for-everyone-else">For Everyone Else</h3>
+<p>Even if you are not currently targeted, V2K technology affects you:</p>
+<ul>
+<li>The <strong>existence</strong> of the weapon means that any person can be targeted at any time</li>
+<li>The <strong>infrastructure</strong> (cell towers, satellites, ground-based systems) is already in place</li>
+<li>The <strong>legal framework</strong> protecting citizens from V2K targeting does not exist</li>
+<li>The <strong>psychiatric system</strong> serves as a discrediting mechanism for anyone who reports the technology</li>
+<li>The <strong>spiritual implications</strong> affect every person of faith who relies on inner guidance</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — V2K technology documentation and targeted individual research</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — divine communication vs. counterfeit voices</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit Spiritual Exercises and inner experience control</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- US military non-lethal weapons documentation</li>
+<li>DARPA Silent Talk program records</li>
+<li>Allan Frey's original microwave auditory effect research</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/13-The_Word_of_God.mp4">The Word of God</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/v2k-hearing-music-part1/?lang=en">My V2K Story: Hearing Music That Isn't There Part 1</a></li>
+<li><a href="/v2k-lies-myths-part3/?lang=en">V2K: The Lies, Myths, and Misunderstandings Part 3</a></li>
+<li><a href="/who-putting-voices-heads-part4/?lang=en">Who Is Really Putting Voices in People's Heads Part 4</a></li>
+</ul>
+<p><em>They built a weapon that speaks inside your mind — and they named it the Voice of God. That name tells you everything about their intentions. They want to replace God. They want to counterfeit the most sacred experience a human being can have. They want to control not just your body, not just your behavior, but your soul. Recognize the counterfeit. Seek the real Voice. It still speaks — and it still sets free.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"VOICE OF GOD WEAPON: Audio Hallucinations as Military Technology Part 2"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The US military developed a 'Voice of God' weapon to beam voices into enemy heads. Part 2 of the V2K series explores its classified history and deployment."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-08T10:00:00Z","children":"December 8, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","voice-of-god-weapon",{"href":"/en/tag/voice-of-god-weapon/","className":"tag-pill","children":["#","voice-of-god-weapon"]}],["$","a","V2K",{"href":"/en/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","military-technology",{"href":"/en/tag/military-technology/","className":"tag-pill","children":["#","military-technology"]}],["$","a","psychological-operations",{"href":"/en/tag/psychological-operations/","className":"tag-pill","children":["#","psychological-operations"]}],["$","a","DARPA",{"href":"/en/tag/DARPA/","className":"tag-pill","children":["#","DARPA"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/voice-god-weapon-audio-part2/","title":"VOICE OF GOD WEAPON: Audio Hallucinations as Military Technology Part 2"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/voice-god-weapon-audio-part2/","title":"VOICE OF GOD WEAPON: Audio Hallucinations as Military Technology Part 2"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"VOICE OF GOD WEAPON: Audio Hallucinations as Military Technology Part 2 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The US military developed a 'Voice of God' weapon to beam voices into enemy heads. Part 2 of the V2K series explores its classified history and deployment."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"voice-of-god-weapon, V2K, military-technology, psychological-operations, DARPA"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/voice-god-weapon-audio-part2/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/voice-god-weapon-audio-part2/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/voice-god-weapon-audio-part2/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/voice-god-weapon-audio-part2/"}],["$","meta","10",{"property":"og:title","content":"VOICE OF GOD WEAPON: Audio Hallucinations as Military Technology Part 2"}],["$","meta","11",{"property":"og:description","content":"The US military developed a 'Voice of God' weapon to beam voices into enemy heads. Part 2 of the V2K series explores its classified history and deployment."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/voice-god-weapon-audio-part2/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/voice-god-weapon-audio-part2.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"VOICE OF GOD WEAPON: Audio Hallucinations as Military Technology Part 2"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"VOICE OF GOD WEAPON: Audio Hallucinations as Military Technology Part 2"}],["$","meta","25",{"name":"twitter:description","content":"The US military developed a 'Voice of God' weapon to beam voices into enemy heads. Part 2 of the V2K series explores its classified history and deployment."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/voice-god-weapon-audio-part2.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","cell-towers-nih-contract-part9",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","cell-towers-nih-contract-part9","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cell-towers-nih-contract-part9","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3790,<h1 id="cell-towers-and-the-nih-contract-you-were-never-told-about-part-9">Cell Towers and the NIH CONTRACT You Were Never Told About Part 9</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant."</em> — Isaiah 24:5</p>
+</blockquote>
+<p>They stand on every corner, on every hillside, on every rooftop — cell towers, the ubiquitous infrastructure of modern communication. We walk past them without thought. We depend on them for our phones, our internet, our social connections. We never question their purpose because the answer seems obvious: they transmit cellular signals.</p>
+<p>But what else do they transmit? And what contracts govern their use that the public has never been told about?</p>
+<p>Part 9 of this series reveals a hidden connection between the National Institutes of Health and the cell tower infrastructure — a contract that links the nation's largest biomedical research agency to the electromagnetic radiation network that blankets every American city. This connection suggests that cell towers serve purposes far beyond civilian telecommunications, and that the V2K targeting documented in this series may be facilitated by the very infrastructure we use to make phone calls.</p>
+<p>Howard Pittman was shown that the demonic realm operates through systems that appear benign. Cell towers appear benign — essential, even. But Ephesians 6:12 warns of "spiritual wickedness in high places," and cell towers are literally in high places. The 97.5% who are failing walk beneath these towers every day, never suspecting that the infrastructure they depend on may be the weapon aimed at them.</p>
+<p>Napoleon's Jesuits pursued "absolute power" — and total electromagnetic coverage of the population is absolute power in its purest form. Adams's "eternal damnation" applies to those who build the cage. Tambulini's governance from his room now extends through every tower, every frequency, every pulse.</p>
+<hr>
+<h2 id="the-nih-contract">The NIH Contract</h2>
+<h3 id="what-we-found">What We Found</h3>
+<p>Through public records research, investigative journalists and independent researchers have discovered NIH contracts related to the study of electromagnetic radiation effects on human biology. These contracts, while not classified, are buried in bureaucratic databases and written in technical language designed to obscure their significance.</p>
+<p>Key findings include:</p>
+<ul>
+<li>NIH-funded research on the <strong>biological effects of radiofrequency radiation</strong> at frequencies used by cell towers</li>
+<li>Contracts studying <strong>behavioral effects of electromagnetic exposure</strong> on human subjects</li>
+<li>Research programs examining <strong>neurological responses to pulsed microwave radiation</strong> — the same type of radiation that produces the Frey effect (V2K)</li>
+<li>Partnerships between the NIH and <strong>telecommunications companies</strong> for radiation exposure studies</li>
+<li>Research into <strong>electromagnetic bioeffects</strong> conducted at military-affiliated laboratories using NIH funding</li>
+</ul>
+<p>The significance is clear: the NIH — the government's primary health research agency — has been studying the effects of cell tower radiation on human biology, including neurological effects. This research is directly relevant to V2K technology, because V2K works by delivering pulsed microwave radiation — the same type of radiation transmitted by cell towers.</p>
+<h3 id="the-dual-use-infrastructure">The Dual-Use Infrastructure</h3>
+<p>Cell towers are dual-use infrastructure — they serve both civilian telecommunications and potentially military/intelligence purposes. This dual-use nature is not speculation; it is inherent in the technology:</p>
+<ul>
+<li>Cell towers transmit at <strong>microwave frequencies</strong> compatible with the Frey effect</li>
+<li>Cell towers can be <strong>remotely controlled and reconfigured</strong> by network operators</li>
+<li>Cell tower <strong>beamforming technology</strong> (used in 5G) can focus electromagnetic energy on specific locations or individuals</li>
+<li>Cell tower infrastructure is <strong>classified as critical national security infrastructure</strong>, giving the government legal authority to commandeer it during emergencies</li>
+<li>Cell tower <strong>coverage maps</strong> closely correspond with <strong>V2K targeting reports</strong> from targeted individuals</li>
+</ul>
+<h3 id="5g-and-beamforming">5G and Beamforming</h3>
+<p>The rollout of 5G technology introduces a critical new capability: <strong>beamforming</strong>. Unlike previous cellular generations, which broadcast signals in all directions, 5G antennas can focus electromagnetic energy into narrow beams directed at specific devices — or specific people.</p>
+<p>Beamforming is presented as a technical improvement — it allows faster data transmission by concentrating energy on the receiving device. But the same capability can be used to:</p>
+<ul>
+<li>Direct <strong>V2K signals</strong> at a specific individual in a crowd</li>
+<li>Deliver <strong>directed energy</strong> to a targeted person without affecting bystanders</li>
+<li>Track individual <strong>movement patterns</strong> through beam-steering data</li>
+<li>Create <strong>localized electromagnetic environments</strong> that affect specific areas or buildings</li>
+</ul>
+<p>The 5G infrastructure, with its dense network of small cells and phased array antennas, creates an electromagnetic grid of unprecedented precision and control. Every person within this grid can be individually addressed by the system — for communication, for surveillance, or for targeting.</p>
+<h2 id="the-health-effects-theyre-hiding">The Health Effects They're Hiding</h2>
+<h3 id="what-the-research-shows">What the Research Shows</h3>
+<p>Decades of research on electromagnetic radiation have documented biological effects at exposure levels considered "safe" by regulatory agencies:</p>
+<ul>
+<li><strong>Neurological effects</strong>: Headaches, sleep disruption, cognitive impairment, tinnitus, and mood changes in populations near cell towers</li>
+<li><strong>Cancer clusters</strong>: Studies in multiple countries have found elevated cancer rates in populations living near cell towers</li>
+<li><strong>Reproductive effects</strong>: Reduced fertility, altered hormone levels, and developmental effects in animal studies</li>
+<li><strong>Blood-brain barrier disruption</strong>: Electromagnetic radiation can increase the permeability of the blood-brain barrier, allowing toxins and pathogens to enter the brain</li>
+<li><strong>Calcium ion efflux</strong>: Electromagnetic radiation disrupts calcium signaling in cells, affecting virtually every biological process</li>
+</ul>
+<p>The telecommunications industry has suppressed this research using the same playbook as the tobacco industry: fund competing studies designed to show no effect, discredit independent researchers, capture regulatory agencies, and maintain the narrative that the technology is safe.</p>
+<h3 id="the-who-classification">The WHO Classification</h3>
+<p>In 2011, the International Agency for Research on Cancer (IARC), a WHO agency, classified radiofrequency electromagnetic fields as "possibly carcinogenic to humans" (Group 2B). This classification — which places cell phone radiation in the same category as lead and DDT — received minimal media coverage and had no impact on regulatory standards.</p>
+<p>The classification was based on evidence from the Interphone study and other research showing increased brain tumor risk in heavy cell phone users. But the WHO's larger bureaucracy — heavily influenced by telecommunications industry lobbyists — has resisted upgrading the classification or changing exposure standards.</p>
+<h2 id="the-surveillance-architecture">The Surveillance Architecture</h2>
+<h3 id="total-coverage">Total Coverage</h3>
+<p>The cell tower network provides total electromagnetic coverage of the American population. There are over <strong>400,000 cell towers</strong> in the United States, with additional small cells being deployed for 5G coverage. This infrastructure provides:</p>
+<ul>
+<li><strong>GPS-level location tracking</strong> of every cell phone (and every person carrying one)</li>
+<li><strong>Real-time surveillance</strong> of communications, movements, and behaviors</li>
+<li><strong>Electromagnetic saturation</strong> of the environment at frequencies with documented biological effects</li>
+<li><strong>Potential V2K delivery</strong> capability through beamforming and targeted transmission</li>
+</ul>
+<h3 id="the-legal-framework">The Legal Framework</h3>
+<p>The legal framework for cell tower surveillance is built on a series of laws, regulations, and court decisions that have progressively expanded government access to telecommunications data:</p>
+<ul>
+<li>The <strong>Communications Assistance for Law Enforcement Act (CALEA)</strong> requires telecommunications carriers to build surveillance capabilities into their networks</li>
+<li>The <strong>PATRIOT Act</strong> expanded government surveillance authority</li>
+<li>The <strong>FISA Amendments Act</strong> legalized bulk collection of electronic communications</li>
+<li><strong>Stingray devices</strong> — fake cell towers used by law enforcement — can intercept communications and track individuals without warrants</li>
+</ul>
+<p>This legal framework, combined with the physical infrastructure of cell towers, creates a surveillance system of unprecedented scope and power — a system that could readily be adapted for V2K targeting of any individual within its coverage area.</p>
+<h2 id="the-spiritual-architecture">The Spiritual Architecture</h2>
+<h3 id="towers-of-babel">Towers of Babel</h3>
+<p>The Bible's account of the Tower of Babel (Genesis 11) describes humanity's first attempt to build a structure reaching to the heavens — a symbol of man's rebellion against God. God scattered the people and confused their language as a corrective.</p>
+<p>Cell towers are the modern Towers of Babel — structures that reach toward the heavens, carrying communications that connect all people into a single network. But unlike the original Babel, these towers carry not just human communication but electromagnetic radiation that affects the human body and mind. They are not connecting people — they are connecting people to a control system.</p>
+<p>Howard Pittman was shown three heavens. The cell towers reach into the first heaven — the atmospheric heaven — and transmit signals through the same space where demonic forces operate. The electromagnetic pollution of the atmosphere is not merely a physical phenomenon — it is a spiritual one. It fills God's creation with man-made noise, drowning out the natural frequencies of the Earth and the still, small voice of the Holy Spirit.</p>
+<p>The Jesuits' pursuit of total information control finds its ultimate infrastructure in the cell tower network. Every communication, every location, every biological response is captured, analyzed, and stored. Tambulini's governance of "half the world from this room" has been replaced by governance of the whole world from a server farm.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — NIH contracts and cell tower infrastructure research</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — the spiritual dimensions of electromagnetic warfare</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit information control infrastructure</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- IARC Monograph on Radiofrequency Electromagnetic Fields (2013)</li>
+<li>BioInitiative Report on electromagnetic bioeffects</li>
+<li>NIH grant and contract databases</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/65-Smart_Dust.mp4">Smart Dust</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/117-The_Burning_of_Sin.mp4">The Burning of Sin</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/secretly-microchipping-humans-part8/?lang=en">The Hidden History of Secretly Microchipping Humans Part 8</a></li>
+<li><a href="/voice-skull-patents-part10/?lang=en">Voice 2 Skull: The PATENTS That Prove It's Real Part 10</a></li>
+<li><a href="/targeted-individuals-food-supply-part11/?lang=en">Targeted Individuals and the FOOD SUPPLY Microchip Connection Part 11</a></li>
+</ul>
+<p><em>The towers are watching. The towers are listening. And the towers may be speaking — directly into your mind, at frequencies you cannot hear and power levels you cannot measure. The NIH contract connects the health establishment to the surveillance establishment, and both serve the same master. Look up at the towers. Ask what else they're for. The answer will change everything.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Cell Towers and the NIH CONTRACT You Were Never Told About Part 9"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Part 9 exposes the NIH contract linking cell tower infrastructure to human experimentation. The towers are not just for calls — they are V2K weapons."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-17T10:00:00Z","children":"December 17, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","cell-towers",{"href":"/en/tag/cell-towers/","className":"tag-pill","children":["#","cell-towers"]}],["$","a","NIH",{"href":"/en/tag/NIH/","className":"tag-pill","children":["#","NIH"]}],["$","a","5G",{"href":"/en/tag/5G/","className":"tag-pill","children":["#","5G"]}],["$","a","V2K",{"href":"/en/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","electromagnetic-weapons",{"href":"/en/tag/electromagnetic-weapons/","className":"tag-pill","children":["#","electromagnetic-weapons"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cell-towers-nih-contract-part9/","title":"Cell Towers and the NIH CONTRACT You Were Never Told About Part 9"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cell-towers-nih-contract-part9/","title":"Cell Towers and the NIH CONTRACT You Were Never Told About Part 9"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Cell Towers and the NIH CONTRACT You Were Never Told About Part 9 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Part 9 exposes the NIH contract linking cell tower infrastructure to human experimentation. The towers are not just for calls — they are V2K weapons."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"cell-towers, NIH, 5G, V2K, electromagnetic-weapons"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/cell-towers-nih-contract-part9/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cell-towers-nih-contract-part9/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cell-towers-nih-contract-part9/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cell-towers-nih-contract-part9/"}],["$","meta","10",{"property":"og:title","content":"Cell Towers and the NIH CONTRACT You Were Never Told About Part 9"}],["$","meta","11",{"property":"og:description","content":"Part 9 exposes the NIH contract linking cell tower infrastructure to human experimentation. The towers are not just for calls — they are V2K weapons."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/cell-towers-nih-contract-part9/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cell-towers-nih-contract-part9.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Cell Towers and the NIH CONTRACT You Were Never Told About Part 9"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Cell Towers and the NIH CONTRACT You Were Never Told About Part 9"}],["$","meta","25",{"name":"twitter:description","content":"Part 9 exposes the NIH contract linking cell tower infrastructure to human experimentation. The towers are not just for calls — they are V2K weapons."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cell-towers-nih-contract-part9.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

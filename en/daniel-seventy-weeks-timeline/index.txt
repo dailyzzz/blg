@@ -1,0 +1,163 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","daniel-seventy-weeks-timeline",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","daniel-seventy-weeks-timeline","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","daniel-seventy-weeks-timeline","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4f1b,<h1 id="daniels-seventy-weeks-the-prophetic-timeline-decoded">Daniel's Seventy Weeks: The Prophetic Timeline Decoded</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy." — Daniel 9:24</p>
+</blockquote>
+<p>No prophecy in Scripture is more mathematically precise than Daniel's seventy weeks. Given to Daniel by the angel Gabriel around 538 BC, during the Babylonian captivity, this prophecy provides an exact timeline from the decree to rebuild Jerusalem to the coming of the Messiah — and beyond, to the final period of tribulation that closes human history as we know it.</p>
+<p>The precision is the point. God does not speak in vague generalities when He chooses to reveal His timeline. He gives numbers. He gives starting points. He gives sequences. And when you calculate them — using the historical record, the Hebrew calendar, and the prophetic principle of a day representing a year — the numbers land with devastating accuracy on events that have already occurred and events that are yet to come.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/13-The_Word_of_God.mp4">The Word of God</a> reminds us that Scripture is not a collection of ancient opinions. It is the living, active word of a God who declares the end from the beginning. Daniel's seventy weeks are proof. No human intelligence could have calculated these dates five centuries before the events they predicted. The precision points to an Author who exists outside of time and sees all of history as a single unfolding page.</p>
+<hr>
+<h2 id="the-text-daniel-924-27">The Text: Daniel 9:24-27</h2>
+<p>Before decoding the timeline, we must examine the text itself with precision:</p>
+<p><strong>Verse 24:</strong> "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy."</p>
+<p><strong>Verse 25:</strong> "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times."</p>
+<p><strong>Verse 26:</strong> "And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined."</p>
+<p><strong>Verse 27:</strong> "And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate."</p>
+<p>Six purposes. Three time periods. Two princes. One timeline that spans from ancient Persia to the end of the age.</p>
+<hr>
+<h2 id="the-prophetic-key-a-day-for-a-year">The Prophetic Key: A Day for a Year</h2>
+<p>The Hebrew word translated "weeks" is <em>shabuim</em> — literally "sevens." Seventy sevens. The question is: sevens of what? Days? Months? Years?</p>
+<p>The prophetic principle of a day representing a year is established elsewhere in Scripture:</p>
+<ul>
+<li><strong>Numbers 14:34</strong> — "After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years."</li>
+<li><strong>Ezekiel 4:6</strong> — "I have appointed thee each day for a year."</li>
+</ul>
+<p>Applying this principle, seventy weeks (seventy sevens) = 70 x 7 = <strong>490 prophetic years</strong>. This is the total duration of the prophecy — 490 years determined upon Daniel's people (Israel) and his holy city (Jerusalem).</p>
+<p>These 490 years are divided into three segments:</p>
+<ol>
+<li><strong>Seven weeks (49 years)</strong> — the period of Jerusalem's rebuilding</li>
+<li><strong>Sixty-two weeks (434 years)</strong> — the period from the rebuilding to the Messiah</li>
+<li><strong>One week (7 years)</strong> — the final period, often called the Tribulation</li>
+</ol>
+<p>Total: 7 + 62 + 1 = 70 weeks. 49 + 434 + 7 = 490 years.</p>
+<hr>
+<h2 id="the-starting-point-the-decree-to-rebuild">The Starting Point: The Decree to Rebuild</h2>
+<p>The prophecy begins with "the going forth of the commandment to restore and to build Jerusalem." This is the starting gun — the historical event that starts the prophetic clock.</p>
+<p>There are four possible Persian decrees that could serve as this starting point:</p>
+<ol>
+<li><strong>Cyrus's decree (539 BC)</strong> — Ezra 1:1-4. This decree authorized the rebuilding of the Temple, not the city of Jerusalem.</li>
+<li><strong>Darius I's decree (519 BC)</strong> — Ezra 6:1-12. This reaffirmed Cyrus's Temple decree.</li>
+<li><strong>Artaxerxes' decree to Ezra (458 BC)</strong> — Ezra 7:11-26. This authorized religious reforms and Temple service but not city construction.</li>
+<li><strong>Artaxerxes' decree to Nehemiah (445 BC)</strong> — Nehemiah 2:1-8. This specifically authorized the rebuilding of Jerusalem's walls and city — exactly what Daniel 9:25 describes.</li>
+</ol>
+<p>The decree to Nehemiah in 445 BC is the most precise match. It specifically addresses the restoration of Jerusalem as a city — "restore and build Jerusalem" — not merely the Temple. It is dated to the month of Nisan in the twentieth year of Artaxerxes I, which historians date to March-April 445 BC.</p>
+<p>This is our starting point.</p>
+<hr>
+<h2 id="the-first-sixty-nine-weeks-to-messiah-the-prince">The First Sixty-Nine Weeks: To Messiah the Prince</h2>
+<p>Daniel 9:25 states: "from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks."</p>
+<p>Seven weeks + sixty-two weeks = sixty-nine weeks = 69 x 7 = <strong>483 prophetic years</strong>.</p>
+<p>Now we must calculate. A prophetic year in the biblical calendar is 360 days (based on the 30-day month used in Genesis 7:11, 7:24, 8:3-4, and Revelation 11:2-3, 12:6, 13:5). So:</p>
+<p>483 prophetic years x 360 days per year = <strong>173,880 days</strong>.</p>
+<p>Starting from Nisan 1, 445 BC, and counting 173,880 days forward:</p>
+<p>173,880 days ÷ 365.2421897 (solar days per year) = 476 solar years and 24 days.</p>
+<p>445 BC + 476 years = AD 32 (accounting for the absence of a year zero between 1 BC and AD 1, which adds one year, bringing us to AD 32).</p>
+<p>Adding the 24 remaining days to Nisan 1 (approximately March 14 in the Julian calendar) brings us to approximately <strong>April 6, AD 32</strong>.</p>
+<p>What happened on or around that date? According to multiple chronological reconstructions — including the work of Sir Robert Anderson in his 1894 book <em>The Coming Prince</em>, and later refined by Harold Hoehner — April 6, AD 32 corresponds to <strong>Nisan 10</strong> in the Hebrew calendar of that year. Nisan 10 is the date prescribed in Exodus 12:3 for the selection of the Passover lamb.</p>
+<p>It is the date on which Jesus of Nazareth entered Jerusalem riding on a donkey — the Triumphal Entry — presenting Himself publicly as the Messiah for the first and only time, to the cheers of the crowd shouting "Hosanna to the Son of David."</p>
+<p>The prophecy given to Daniel over 500 years earlier predicted the exact day the Messiah would present Himself to Israel. Not the approximate decade. Not the general era. The exact day. 173,880 days from the decree of Artaxerxes to the Triumphal Entry of Jesus Christ into Jerusalem.</p>
+<hr>
+<h2 id="messiah-cut-off-the-crucifixion">Messiah Cut Off: The Crucifixion</h2>
+<p>Daniel 9:26 continues: "And after threescore and two weeks shall Messiah be cut off, but not for himself."</p>
+<p>"After" the sixty-ninth week — but before the seventieth — the Messiah is "cut off." The Hebrew word is <em>karath</em> — to cut, to destroy, to execute. It is the word used for the cutting of a covenant (a covenant is "cut" by the shedding of blood) and for capital punishment.</p>
+<p>"But not for himself." The Messiah is executed, but not for His own crimes. He dies vicariously — for others. This is the crucifixion described with forensic precision five centuries before it occurred.</p>
+<p>Jesus was crucified on Nisan 14, AD 32 — four days after the Triumphal Entry. He was "cut off" exactly as Daniel prophesied: after the sixty-ninth week, but not for Himself. He died as the Passover Lamb — selected on Nisan 10 (the Triumphal Entry), inspected for four days (the confrontations with religious leaders recorded in the Gospels), and sacrificed on Nisan 14 (the crucifixion).</p>
+<p>The prophecy then adds: "and the people of the prince that shall come shall destroy the city and the sanctuary." This refers to the destruction of Jerusalem and the Temple by the Romans in AD 70. The "people of the prince that shall come" are the Romans — and the "prince that shall come" is a future figure, the Antichrist, who will arise from the revived Roman system. As explored in <a href="/antichrist-algorithm-digital-beast/?lang=en">The Antichrist Algorithm: When the Digital Beast Awakens</a>, this prince emerges from the same imperial lineage that destroyed Jerusalem.</p>
+<hr>
+<h2 id="the-gap-the-church-age">The Gap: The Church Age</h2>
+<p>Between the sixty-ninth week and the seventieth week, there is a gap — an undefined period during which the prophetic clock for Israel is paused. This gap is the Church Age, the period in which we currently live.</p>
+<p>This concept is not arbitrary. It is rooted in the text itself. Daniel 9:26 describes events that occur "after" the sixty-ninth week but before the seventieth: the crucifixion and the destruction of Jerusalem. These events span at least 38 years (AD 32 to AD 70). The seventieth week has not yet begun, because its specific events — described in verse 27 — have not yet occurred.</p>
+<p>The gap is also consistent with the prophetic pattern of "near and far" fulfillment seen throughout the Old Testament. Isaiah 61:1-2 — which Jesus read in the synagogue at Nazareth (Luke 4:18-19) — describes both His first coming ("to proclaim the acceptable year of the LORD") and His second coming ("and the day of vengeance of our God"). Jesus stopped reading mid-verse, because the day of vengeance was not yet. The gap between the two clauses of a single verse has lasted over two thousand years.</p>
+<p>Similarly, the gap between Daniel's sixty-ninth and seventieth weeks has lasted over two thousand years — and counting. The prophetic clock for Israel stopped when Israel rejected the Messiah and was scattered among the nations. It will restart when the events of the seventieth week begin.</p>
+<hr>
+<h2 id="the-seventieth-week-the-final-seven-years">The Seventieth Week: The Final Seven Years</h2>
+<p>Daniel 9:27 describes the seventieth week — the final seven years of the prophetic timeline:</p>
+<p>"And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate."</p>
+<p>The "he" refers back to "the prince that shall come" from verse 26 — the Antichrist. The events of the seventieth week include:</p>
+<ol>
+<li>
+<p><strong>Confirming a covenant with many for one week (7 years).</strong> The Antichrist establishes a treaty or agreement — likely involving Israel and multiple other parties ("many"). This covenant likely involves peace guarantees, Temple access, and political arrangements.</p>
+</li>
+<li>
+<p><strong>In the midst of the week (3.5 years in), he breaks the covenant.</strong> He causes the sacrifice and oblation to cease — meaning the Temple services that had been restored are terminated. This requires a rebuilt Temple in Jerusalem, a topic of intense present-day discussion.</p>
+</li>
+<li>
+<p><strong>The abomination of desolation.</strong> The Antichrist sets up something abominable in the holy place — an act of desecration that Jesus specifically warned about in Matthew 24:15: "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand)."</p>
+</li>
+<li>
+<p><strong>Desolation until the consummation.</strong> The desecration continues until the predetermined end — the return of Christ, the defeat of the Antichrist, and the establishment of the Messianic Kingdom.</p>
+</li>
+</ol>
+<p>The seventieth week corresponds to the Tribulation period described in Revelation, particularly chapters 6-19. The first half (3.5 years) is a period of false peace. The second half (3.5 years) — the Great Tribulation — is a period of unprecedented judgment and persecution. As explored in <a href="/seven-seals-seven-trumpets/?lang=en">The Seven Seals and Seven Trumpets: Revelation's Timeline of Judgment</a>, the events of Daniel's seventieth week unfold in precise sequence through the seals, trumpets, and bowls of Revelation.</p>
+<hr>
+<h2 id="the-six-purposes-what-the-seventy-weeks-accomplish">The Six Purposes: What the Seventy Weeks Accomplish</h2>
+<p>Daniel 9:24 lists six purposes that the seventy weeks will accomplish:</p>
+<ol>
+<li><strong>To finish the transgression</strong> — Israel's national transgression against God will be completed and dealt with.</li>
+<li><strong>To make an end of sins</strong> — Sin itself will be judged and terminated.</li>
+<li><strong>To make reconciliation for iniquity</strong> — Atonement will be made. This was accomplished at the Cross but will be nationally recognized by Israel at the Second Coming (Zechariah 12:10).</li>
+<li><strong>To bring in everlasting righteousness</strong> — The Messianic Kingdom will be established, where righteousness reigns permanently.</li>
+<li><strong>To seal up the vision and prophecy</strong> — All prophetic revelation will be fulfilled. No more prophecy will be needed because the prophesied events will have occurred.</li>
+<li><strong>To anoint the most Holy</strong> — The Messiah will be enthroned and the Temple consecrated in the Millennial Kingdom.</li>
+</ol>
+<p>Three of these purposes were accomplished at Christ's first coming (reconciliation for iniquity, and the basis for finishing transgression and ending sin). Three remain to be accomplished at His second coming (everlasting righteousness, sealing prophecy, and anointing the Most Holy). The gap between the sixty-ninth and seventieth weeks is the gap between these two sets of three — between the Cross and the Crown.</p>
+<hr>
+<h2 id="the-precision-that-demands-a-response">The Precision That Demands a Response</h2>
+<p>The mathematical precision of Daniel's seventy weeks eliminates coincidence as an explanation. The prophecy names the starting event (the decree to rebuild), specifies the duration (69 weeks of years = 173,880 days), and identifies the end event (the Messiah presenting Himself). When you calculate from the historical date of Artaxerxes' decree, you arrive at the exact date of Christ's Triumphal Entry.</p>
+<p>No human being in 538 BC could have predicted events in AD 32 with this precision. No statistical model, no political analysis, no educated guess could produce a five-century forecast accurate to the day. This is not human knowledge. It is divine revelation — and it has been verified by history.</p>
+<p>If the first sixty-nine weeks were fulfilled with mathematical precision, what basis do we have for doubting that the seventieth week will be fulfilled with equal precision? The same God who calculated 173,880 days from decree to Messiah has calculated the final seven years with the same exactness. The Tribulation is not a vague future possibility. It is the mathematically determined conclusion of a timeline that has already proven its accuracy.</p>
+<hr>
+<h2 id="nothing-new-under-the-sun">Nothing New Under the Sun</h2>
+<blockquote>
+<p>"Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me, Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure." — Isaiah 46:9-10</p>
+</blockquote>
+<p>Daniel's seventy weeks demonstrate that God is not reacting to history. He is directing it. The decree of a Persian king, the rebuilding of a city, the entry of a man on a donkey, the crucifixion on a Roman cross, the destruction of a Temple by Roman legions — each event was foreknown, foretold, and fulfilled on schedule.</p>
+<p>The remaining events — the covenant, the abomination, the tribulation, the return — are on the same schedule. The same Author wrote them. The same precision governs them. The same certainty guarantees them.</p>
+<p>We live in the gap. The sixty-ninth week has been fulfilled. The seventieth week has not yet begun. But the prophetic clock that paused will restart — and when it does, the final seven years will unfold with the same mathematical certainty that governed the first 483 years. The question is not whether it will happen. The question is whether you will recognize it when it begins.</p>
+<hr>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/347-The_Abomination_Of_Desolation.mp4">The Abomination Of Desolation</a> — The prophetic timeline unfolds</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/497-Tribulation_Tech.mp4">Tribulation Tech</a> — Technology and end-times prophecy</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/seven-seals-seven-trumpets/?lang=en">The Seven Seals and Seven Trumpets: Revelation's Timeline of Judgment</a> — The detailed unfolding of events during Daniel's seventieth week</li>
+<li><a href="/antichrist-algorithm-digital-beast/?lang=en">The Antichrist Algorithm: When the Digital Beast Awakens</a> — The prince that shall come and his digital infrastructure</li>
+</ul>
+<hr>
+<p><em>Five hundred years before it happened, God told Daniel the exact day the Messiah would ride into Jerusalem. The decree was issued. The days were counted. The King arrived on schedule. And then He was cut off — not for Himself, but for us. The first sixty-nine weeks proved that God keeps His appointments to the day. The seventieth week will be no different. The covenant will be confirmed. The abomination will stand. The tribulation will unfold. And at the consummation — at the end of the final week — the Son of David who rode a donkey into Jerusalem the first time will return on a white horse with the armies of heaven. The math is precise. The God behind the math is faithful. And the timeline He established in Daniel 9 is approaching its final chapter.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/prophecy/","className":"category-badge","children":"prophecy"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Daniel's Seventy Weeks: The Prophetic Timeline Decoded"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Daniel 9:24-27 contains the most precise prophetic timeline in all of Scripture. The seventy weeks prophecy predicted the exact date of the Messiah's arrival and provides the framework for understanding the end of days."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-01-22T10:00:00Z","children":"January 22, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","daniel",{"href":"/en/tag/daniel/","className":"tag-pill","children":["#","daniel"]}],["$","a","seventy-weeks",{"href":"/en/tag/seventy-weeks/","className":"tag-pill","children":["#","seventy-weeks"]}],["$","a","prophecy",{"href":"/en/tag/prophecy/","className":"tag-pill","children":["#","prophecy"]}],["$","a","timeline",{"href":"/en/tag/timeline/","className":"tag-pill","children":["#","timeline"]}],["$","a","messiah",{"href":"/en/tag/messiah/","className":"tag-pill","children":["#","messiah"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/daniel-seventy-weeks-timeline/","title":"Daniel's Seventy Weeks: The Prophetic Timeline Decoded"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/daniel-seventy-weeks-timeline/","title":"Daniel's Seventy Weeks: The Prophetic Timeline Decoded"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Daniel's Seventy Weeks: The Prophetic Timeline Decoded | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Daniel 9:24-27 contains the most precise prophetic timeline in all of Scripture. The seventy weeks prophecy predicted the exact date of the Messiah's arrival and provides the framework for understanding the end of days."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"daniel, seventy-weeks, prophecy, timeline, messiah"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/daniel-seventy-weeks-timeline/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/daniel-seventy-weeks-timeline/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/daniel-seventy-weeks-timeline/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/daniel-seventy-weeks-timeline/"}],["$","meta","10",{"property":"og:title","content":"Daniel's Seventy Weeks: The Prophetic Timeline Decoded"}],["$","meta","11",{"property":"og:description","content":"Daniel 9:24-27 contains the most precise prophetic timeline in all of Scripture. The seventy weeks prophecy predicted the exact date of the Messiah's arrival and provides the framework for understanding the end of days."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/daniel-seventy-weeks-timeline/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/daniel-seventy-weeks-timeline.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Daniel's Seventy Weeks: The Prophetic Timeline Decoded"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Daniel's Seventy Weeks: The Prophetic Timeline Decoded"}],["$","meta","25",{"name":"twitter:description","content":"Daniel 9:24-27 contains the most precise prophetic timeline in all of Scripture. The seventy weeks prophecy predicted the exact date of the Messiah's arrival and provides the framework for understanding the end of days."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/daniel-seventy-weeks-timeline.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

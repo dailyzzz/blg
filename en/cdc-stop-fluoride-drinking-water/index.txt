@@ -1,0 +1,130 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","cdc-stop-fluoride-drinking-water",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","cdc-stop-fluoride-drinking-water","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cdc-stop-fluoride-drinking-water","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3536,<h1 id="cdc-to-stop-recommending-fluoride-addition-to-drinking-water">CDC to Stop Recommending Fluoride Addition to Drinking Water</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters; And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter." — Revelation 8:10-11</p>
+</blockquote>
+<p>Scripture prophesies that in the last days, the waters will be poisoned. The star Wormwood falls upon the rivers and the fountains, and the waters become bitter — toxic — and many die from drinking them. The prophecy is not metaphorical. It describes the contamination of the water supply — the fundamental resource upon which all human life depends.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> reveals, the crossing of God's boundaries manifests in the corruption of His creation — the poisoning of the air, the soil, the food, and the water that He designed to sustain life. Fluoride in drinking water is a transgression against the created order — the deliberate addition of an industrial waste product to the water supply under the claim that it prevents tooth decay, while the evidence of neurological harm accumulates decade by decade.</p>
+<p>The CDC has reversed its recommendation. The Wormwood is being identified — if not yet removed.</p>
+<hr>
+<h2 id="the-history-of-water-fluoridation">The History of Water Fluoridation</h2>
+<p>Water fluoridation in the United States began in 1945, when Grand Rapids, Michigan became the first city to add fluoride to its public water supply. The CDC subsequently endorsed community water fluoridation as a public health measure, and by 2020, approximately 73% of the U.S. population served by community water systems received fluoridated water.</p>
+<p>The CDC has called water fluoridation one of the "ten great public health achievements of the 20th century." The American Dental Association, the American Medical Association, and the World Health Organization have all endorsed the practice. The recommended fluoride level was set at 0.7 milligrams per liter (mg/L) by the U.S. Public Health Service in 2015, reduced from the prior range of 0.7-1.2 mg/L.</p>
+<p>However, the scientific evidence challenging fluoridation has grown steadily over the past two decades:</p>
+<p><strong>Neurotoxicity:</strong> A landmark 2024 National Toxicology Program (NTP) report, after years of suppression and revision, concluded that fluoride exposure at levels consistent with water fluoridation is associated with reduced IQ in children. The report reviewed over 70 human studies and found a consistent association between fluoride exposure and neurodevelopmental harm.</p>
+<p><strong>Endocrine disruption:</strong> The National Research Council's 2006 report identified fluoride as an endocrine disruptor, noting effects on thyroid function, bone metabolism, and reproductive health at levels that overlap with those produced by water fluoridation.</p>
+<p><strong>Dental caries reduction:</strong> The claimed dental benefit of water fluoridation has been increasingly questioned. Large-scale epidemiological studies comparing fluoridated and non-fluoridated communities have found minimal differences in dental caries rates — suggesting that the widespread use of fluoridated toothpaste has rendered water fluoridation unnecessary for dental health.</p>
+<p><strong>Dental fluorosis:</strong> Water fluoridation is the primary cause of dental fluorosis — a condition caused by excessive fluoride intake during tooth development, resulting in discoloration and structural damage to tooth enamel. CDC data shows that approximately 65% of American adolescents now exhibit some degree of dental fluorosis — a dramatic increase from the 10% prevalence rate when fluoridation was introduced.</p>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com): "Water fluoridation is the most successful mass medication program in human history. It was implemented without individual consent, maintained without adequate safety monitoring, and defended without honest engagement with accumulating evidence of harm. The CDC's reversal is not a scientific update — it is a confession that the agency has been wrong for 80 years while dismissing the scientists who tried to warn it."</p>
+<hr>
+<h2 id="the-federal-court-ruling">The Federal Court Ruling</h2>
+<p>The CDC's policy reversal follows a landmark federal court ruling in the case of <em>Food &#x26; Water Watch et al. v. EPA</em>, in which Judge Edward Chen of the Northern District of California ruled that water fluoridation at current levels poses an unreasonable risk of neurotoxic harm, particularly to children. The ruling ordered the EPA to take regulatory action to address the risk.</p>
+<p>Judge Chen's ruling was based on extensive expert testimony and the NTP report, which the judge found to be the most comprehensive review of fluoride neurotoxicity ever conducted. The ruling noted that the EPA's own risk assessment had not adequately accounted for neurodevelopmental effects and that the agency had failed to apply the precautionary principle to a substance involuntarily administered to the entire population.</p>
+<p>The CDC's reversal of its fluoridation recommendation effectively removes the federal government's endorsement of the practice — though the decision to fluoridate remains with individual municipalities and state governments.</p>
+<hr>
+<h2 id="the-deeper-issue-mass-medication-without-consent">The Deeper Issue: Mass Medication Without Consent</h2>
+<p>Water fluoridation is mass medication. It involves the addition of a pharmacologically active substance to the public water supply for the purpose of producing a therapeutic effect (the prevention of dental caries) in the population that consumes the water. The substance is administered:</p>
+<ul>
+<li>Without individual consent</li>
+<li>Without individual dosage control (consumption varies by water intake)</li>
+<li>Without individual medical evaluation</li>
+<li>Without individual monitoring for adverse effects</li>
+<li>Without the ability of individuals to opt out (short of purchasing filtration systems or alternative water sources)</li>
+</ul>
+<p>This is a fundamental violation of medical ethics, which requires informed consent for any medical intervention. The Nuremberg Code, the Declaration of Helsinki, and established principles of bioethics all require that medical interventions be voluntary, individually consented, and subject to the right of withdrawal.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> documents how systems of population-wide medical intervention — from fluoridation to vaccination mandates — erode the principle of individual consent and establish the precedent that the state may administer medical treatments to the entire population without individual permission.</p>
+<hr>
+<h2 id="the-prophetic-significance">The Prophetic Significance</h2>
+<blockquote>
+<p>"And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb." — Revelation 22:1</p>
+</blockquote>
+<p>God's design for water is purity — the river of life, clear as crystal. The contamination of water is the corruption of God's design — the transformation of a life-sustaining gift into a vehicle for toxicity. The CDC's decades-long endorsement of water fluoridation was a participation in this corruption — the institutional blessing of a practice that introduced an industrial waste product into the water that God designed to sustain life.</p>
+<p>The reversal begins the process of restoration. But restoration requires action at every level — federal, state, and municipal. The CDC's recommendation is ended, but the fluoride in the water remains until local authorities act to remove it.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>CDC — Water fluoridation recommendation reversal</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of water fluoridation history, NTP report suppression, and mass medication ethics</p>
+</li>
+<li>
+<p>National Toxicology Program — Fluoride neurotoxicity report</p>
+</li>
+<li>
+<p>Food &#x26; Water Watch et al. v. EPA — Federal court ruling</p>
+</li>
+<li>
+<p>National Research Council — "Fluoride in Drinking Water: A Scientific Review of EPA's Standards" (2006)</p>
+</li>
+<li>
+<p>Revelation 8:10-11, Revelation 22:1 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> — Population-wide medical intervention without individual consent</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a> — Government programs treating the population as experimental subjects</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Institutional unanimity defending a harmful practice for decades</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> — The corruption of God's created order through the poisoning of water</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> — The curse manifesting in the contamination of life's most basic sustenance</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/hhs-maha-transformation/?lang=en">HHS Announces MAHA Transformation of Healthcare</a> — Clean water as a pillar of the MAHA initiative</li>
+<li><a href="/rfk-cleans-house-cdc/?lang=en">RFK Jr. Cleans House at the CDC</a> — Reforming the agency that endorsed fluoridation for 80 years</li>
+<li><a href="/fda-ended-emergency-use-authorizations/?lang=en">FDA Just Ended Emergency Use Authorizations for COVID-19</a> — Reversing pharmaceutical policy built on inadequate evidence</li>
+<li><a href="/rfk-worldwide-cause-autism/?lang=en">RFK Jr. Announces Worldwide Effort to Determine Cause of Autism</a> — Investigating environmental neurotoxins including fluoride</li>
+</ul>
+<hr>
+<p><em>The waters of America have been contaminated for 80 years under the endorsement of the CDC — an industrial waste product added to the water supply of 200 million people without consent, without adequate safety testing, and despite accumulating evidence of neurological harm. The CDC's reversal is a beginning — but only a beginning. The fluoride remains in the water until every municipality acts to remove it. "He that hath ears to hear, let him hear" (Matthew 11:15). The CDC has spoken. The science has spoken. The courts have spoken. Now the question falls to every city, every county, and every water district: will you continue to poison the water, or will you restore it to the purity God designed?</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"CDC to Stop Recommending Fluoride Addition to Drinking Water"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The CDC reverses decades of policy by ending its recommendation for fluoride addition to public drinking water, citing neurotoxicity and IQ reduction evidence."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-27T10:00:00Z","children":"May 27, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CDC",{"href":"/en/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","fluoride",{"href":"/en/tag/fluoride/","className":"tag-pill","children":["#","fluoride"]}],["$","a","drinking-water",{"href":"/en/tag/drinking-water/","className":"tag-pill","children":["#","drinking-water"]}],["$","a","neurotoxicity",{"href":"/en/tag/neurotoxicity/","className":"tag-pill","children":["#","neurotoxicity"]}],["$","a","public-health",{"href":"/en/tag/public-health/","className":"tag-pill","children":["#","public-health"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cdc-stop-fluoride-drinking-water/","title":"CDC to Stop Recommending Fluoride Addition to Drinking Water"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cdc-stop-fluoride-drinking-water/","title":"CDC to Stop Recommending Fluoride Addition to Drinking Water"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"CDC to Stop Recommending Fluoride Addition to Drinking Water | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The CDC reverses decades of policy by ending its recommendation for fluoride addition to public drinking water, citing neurotoxicity and IQ reduction evidence."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CDC, fluoride, drinking-water, neurotoxicity, public-health"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/cdc-stop-fluoride-drinking-water/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cdc-stop-fluoride-drinking-water/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cdc-stop-fluoride-drinking-water/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cdc-stop-fluoride-drinking-water/"}],["$","meta","10",{"property":"og:title","content":"CDC to Stop Recommending Fluoride Addition to Drinking Water"}],["$","meta","11",{"property":"og:description","content":"The CDC reverses decades of policy by ending its recommendation for fluoride addition to public drinking water, citing neurotoxicity and IQ reduction evidence."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/cdc-stop-fluoride-drinking-water/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cdc-stop-fluoride-drinking-water.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"CDC to Stop Recommending Fluoride Addition to Drinking Water"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"CDC to Stop Recommending Fluoride Addition to Drinking Water"}],["$","meta","25",{"name":"twitter:description","content":"The CDC reverses decades of policy by ending its recommendation for fluoride addition to public drinking water, citing neurotoxicity and IQ reduction evidence."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cdc-stop-fluoride-drinking-water.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

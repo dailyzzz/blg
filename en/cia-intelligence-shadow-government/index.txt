@@ -1,0 +1,169 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","cia-intelligence-shadow-government",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","cia-intelligence-shadow-government","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cia-intelligence-shadow-government","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4686,<h1 id="cia-insider-kevin-shipp-explains-the-shadow-government">CIA Insider Kevin Shipp Explains The Shadow Government</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"For there is nothing covered, that shall not be revealed; and hid, that shall not be known." -- Matthew 10:26</p>
+</blockquote>
+<p>Jesus spoke these words to His disciples as He sent them into a world governed by hidden powers -- Roman occupation backed by intelligence networks, religious authorities with secret councils, and political rulers whose real agendas bore no resemblance to their public pronouncements. Two thousand years later, the same dynamic governs the modern world: elected officials serve as the visible face of power while the real governing structure operates in the shadows, behind classification walls, in compartmented programs, and through intelligence agencies that answer to no elected authority.</p>
+<p>Kevin Shipp is one of the few people who have seen both sides of that wall. As a decorated CIA officer who served in multiple high-risk assignments, Shipp had direct access to the internal workings of the American intelligence community. What he saw compelled him to become a whistleblower, risking everything to expose the shadow government that operates behind the constitutional republic Americans believe they inhabit.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> from the Confliction album warns, the most effective deception is the one that replaces reality with a convincing illusion. And as <a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satans Disguise</a> declares, the adversary's most powerful weapon is appearing as something trustworthy while operating for destruction.</p>
+<hr>
+<h2 id="kevin-shipp-the-whistleblower">Kevin Shipp: The Whistleblower</h2>
+<h3 id="background">Background</h3>
+<p>Kevin Shipp served as a CIA officer for multiple decades in positions including protective intelligence, counterintelligence, and as a counterterrorism center officer. He was decorated for his service and held high-level security clearances that gave him access to classified programs and operational intelligence.</p>
+<p>After leaving the CIA, Shipp became one of the most outspoken whistleblowers in the intelligence community, describing his experiences and the structural corruption he witnessed in books, lectures, and public presentations. His firsthand account provides an inside perspective on the shadow government that academic analysis and investigative journalism can only observe from the outside.</p>
+<h3 id="the-shadow-government-vs-the-deep-state">The Shadow Government vs. The Deep State</h3>
+<p>Shipp makes a critical distinction between the "shadow government" and the "deep state" -- terms that are often used interchangeably but describe different components of the same system:</p>
+<p><strong>The Shadow Government</strong></p>
+<p>The shadow government consists of the intelligence agencies and their associated programs that operate above the law and beyond the reach of democratic oversight. Key components include:</p>
+<ul>
+<li><strong>The CIA</strong> -- the Central Intelligence Agency, which operates covert programs domestically and internationally with minimal congressional oversight</li>
+<li><strong>The NSA</strong> -- the National Security Agency, which conducts mass surveillance of the global population and maintains the most extensive data collection apparatus in history</li>
+<li><strong>The NRO</strong> -- the National Reconnaissance Office, which operates spy satellites and space-based surveillance systems</li>
+<li><strong>The DIA</strong> -- the Defense Intelligence Agency, which provides military intelligence and operates clandestine programs</li>
+<li><strong>The Intelligence Community (IC) as a whole</strong> -- 17 intelligence agencies that collectively form a parallel government operating behind classification walls</li>
+</ul>
+<p>The shadow government's power derives from three sources:</p>
+<ol>
+<li><strong>Classification authority</strong> -- the ability to classify any information as secret, preventing public or congressional access</li>
+<li><strong>Covert action authority</strong> -- the ability to conduct operations (including assassinations, coups, and regime changes) without public knowledge or democratic authorization</li>
+<li><strong>Budget opacity</strong> -- intelligence budgets are "black budgets" that are exempt from normal congressional appropriation oversight</li>
+</ol>
+<p><strong>The Deep State</strong></p>
+<p>The deep state is broader than the shadow government. It encompasses:</p>
+<ul>
+<li>The shadow government (intelligence agencies)</li>
+<li>The military-industrial complex (defense contractors, weapons manufacturers)</li>
+<li>Wall Street and major financial institutions</li>
+<li>Mainstream media conglomerates</li>
+<li>Silicon Valley technology corporations</li>
+<li>Major pharmaceutical companies</li>
+<li>Key elements of the judiciary and law enforcement</li>
+</ul>
+<p>The deep state is the ecosystem that supports, funds, protects, and profits from the shadow government's operations. It is the visible layer that interfaces with the public while serving the interests of the hidden layer.</p>
+<h2 id="the-constitutional-violation">The Constitutional Violation</h2>
+<h3 id="government-by-classification">Government by Classification</h3>
+<p>Shipp's most damning revelation is that the classification system -- originally designed to protect legitimate national security secrets -- has been weaponized to create a parallel government that operates outside constitutional constraints.</p>
+<p>Under the Constitution, all government power derives from the consent of the governed. Citizens elect representatives who make laws, authorize programs, and appropriate funds. The classification system subverts this process by making entire categories of government activity invisible to the public and even to most elected officials.</p>
+<ul>
+<li><strong>Compartmented programs</strong> are accessible only to individuals with specific clearances and need-to-know authorization. Most members of Congress do not have access to the most sensitive compartmented programs.</li>
+<li><strong>Special Access Programs (SAPs)</strong> operate under even stricter access controls, with some programs known only to a handful of individuals. These "waived" or "unacknowledged" SAPs are not disclosed even to congressional intelligence committees.</li>
+<li><strong>The president himself</strong> may not have full access to all classified programs. The classification system was designed by the intelligence agencies, and they control access to their own secrets.</li>
+</ul>
+<p>The result is a government within a government -- a classified state that conducts operations, spends money, develops technology, and makes policy decisions without the knowledge or consent of the democratic system it supposedly serves.</p>
+<h3 id="the-cia-and-domestic-operations">The CIA and Domestic Operations</h3>
+<p>Despite legal prohibitions against domestic intelligence operations (the CIA's charter restricts it to foreign intelligence), Shipp documents extensive CIA domestic activity:</p>
+<ul>
+<li><strong>Media manipulation</strong> -- Operation Mockingbird and its successors, through which the CIA has maintained influence over major media organizations, planting stories, suppressing investigations, and shaping public opinion</li>
+<li><strong>Academic infiltration</strong> -- CIA funding of academic research and placement of assets in universities to influence academic discourse and recruit assets</li>
+<li><strong>Corporate integration</strong> -- Deep relationships between the CIA and major corporations, including technology companies, pharmaceutical companies, and financial institutions</li>
+<li><strong>Domestic surveillance</strong> -- Despite legal prohibitions, the CIA collects intelligence on American citizens through partnerships with the NSA, FBI, and foreign intelligence services</li>
+</ul>
+<p>Ana Mihalcea, MD, PhD, has connected on her Substack (anamihalceamdphd.substack.com) the intelligence community's documented programs of human experimentation -- MKUltra, Operation Midnight Climax, and others -- with the current deployment of nanotechnology through pharmaceutical products. Dr. Mihalcea argues that the pharmaceutical-intelligence nexus identified by Shipp provides the institutional mechanism through which nanotechnology was developed, tested, and deployed to the global population.</p>
+<h2 id="the-intelligence-pharmaceutical-complex">The Intelligence-Pharmaceutical Complex</h2>
+<h3 id="operation-paperclip-and-the-nazi-foundation">Operation Paperclip and the Nazi Foundation</h3>
+<p>The American intelligence community's involvement in pharmaceutical experimentation traces to Operation Paperclip -- the post-World War II program that brought over 1,600 Nazi scientists, engineers, and technicians to the United States. Among these were scientists who had conducted human experiments in concentration camps, including research into:</p>
+<ul>
+<li>Chemical and biological weapons</li>
+<li>Mind control and behavioral modification</li>
+<li>Human endurance and biological limits</li>
+<li>Pharmaceutical effects on unwilling human subjects</li>
+</ul>
+<p>These scientists were integrated into American military, intelligence, and pharmaceutical programs, bringing with them both the technical expertise and the ethical framework of Nazi experimentation. The continuity from Nazi human experimentation to CIA programs like MKUltra is not speculative -- it is documented in declassified records.</p>
+<h3 id="the-modern-pharmaceutical-intelligence-nexus">The Modern Pharmaceutical-Intelligence Nexus</h3>
+<p>The relationship between the intelligence community and the pharmaceutical industry has deepened over decades:</p>
+<ul>
+<li><strong>DARPA funds pharmaceutical research</strong> through programs that develop injectable technologies for military and civilian applications</li>
+<li><strong>The CIA's venture capital arm, In-Q-Tel</strong>, has invested in pharmaceutical and biotechnology companies, including companies developing nanotechnology and biosensor platforms</li>
+<li><strong>Intelligence community personnel rotate through pharmaceutical companies</strong>, creating a revolving door of expertise and allegiance between government intelligence and private pharmaceutical production</li>
+<li><strong>The Emergency Use Authorization framework</strong> -- which bypassed normal safety testing for COVID-19 vaccines -- was developed under national security authorities, not public health authorities. The Department of Defense, not the Department of Health and Human Services, placed the orders for COVID-19 vaccines.</li>
+</ul>
+<p>This intelligence-pharmaceutical nexus is the institutional structure through which nanotechnology was developed, concealed within pharmaceutical products, and deployed to the global population. The shadow government that Kevin Shipp describes is the governance structure that authorized, funded, and protected this deployment.</p>
+<h2 id="the-prophetic-dimension">The Prophetic Dimension</h2>
+<h3 id="the-rulers-of-darkness">The Rulers of Darkness</h3>
+<p>Ephesians 6:12 describes spiritual warfare against "the rulers of the darkness of this age." The shadow government is the temporal manifestation of this spiritual reality -- a system of hidden rule that operates through darkness (classification), deception (media manipulation), and force (covert action).</p>
+<p>The intelligence community's obsession with secrecy mirrors the spiritual dynamic described throughout Scripture: the kingdom of darkness operates through concealment, while the Kingdom of God operates through revelation. "The secret things belong to the Lord our God, but those things which are revealed belong to us and to our children forever" (Deuteronomy 29:29).</p>
+<p>The exposure of the shadow government by whistleblowers like Kevin Shipp is itself a prophetic act -- the bringing of hidden things into the light, the fulfillment of Jesus' promise that nothing covered shall remain unrevealed. Every classified program, every compartmented operation, every black budget expenditure will be exposed -- not merely by human whistleblowers, but by the God who sees every secret and will judge every hidden work.</p>
+<p>The dome of the firmament contains all of this -- the shadow government, the intelligence agencies, the pharmaceutical complex, and the nanotechnology they have deployed. All of it operates under the dome that God placed, within the boundaries that God set, and under the authority that God alone possesses. The shadow government may be hidden from the public, but it is not hidden from God. And His exposure is coming.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>Shipp, K., "From the Company of Shadows," public presentations and documentation, 2017-present</p>
+</li>
+<li>
+<p>U.S. Senate Select Committee on Intelligence, various oversight reports</p>
+</li>
+<li>
+<p>Church Committee Report, "Final Report of the Select Committee to Study Governmental Operations with Respect to Intelligence Activities," 1976</p>
+</li>
+<li>
+<p>Jacobsen, A., "Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America," 2014</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, intelligence-pharmaceutical nexus analysis</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> -- The blackmail networks controlling the shadow government</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a> -- The continuation of intelligence mind control programs</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/243-Cybereason_CIA.mp4">Cybereason CIA</a> -- The digital intelligence infrastructure</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> -- The all-seeing surveillance system</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- The deception that replaces reality with illusion</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satans Disguise</a> -- The adversary masquerading as trustworthy</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/declassified-cia-document-2004/?lang=en">Declassified CIA Document From 2004 Reveals Transhumanist Agenda</a> -- CIA documents revealing the transhumanist plan</li>
+<li><a href="/declassified-cia-technocratic-1978/?lang=en">Declassified Technocratic CIA Document From 1978</a> -- Earlier CIA documentation of technological control</li>
+<li><a href="/mrna-bioweapons-prohibition/?lang=en">The mRNA Bioweapons Prohibition Case</a> -- Legal action against the intelligence-pharmaceutical weapon</li>
+</ul>
+<hr>
+<p><em>The shadow government operates behind walls of classification, protected by secrecy, funded by black budgets, and enforced by covert action. But the God who spoke light into darkness is not contained by classification markings. He sees every compartmented program. He knows every black budget line item. He witnesses every covert operation. And the shadow government that has hidden itself from the people it claims to serve cannot hide from the One whose eyes run to and fro throughout the whole earth. Nothing covered shall remain unrevealed. Nothing hidden shall remain unknown. The shadow is temporary. The light is eternal.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"CIA Insider Kevin Shipp Explains The Shadow Government"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Former CIA officer Kevin Shipp exposes the shadow government structure operating behind elected officials, controlling policy through intelligence agencies."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-16T10:00:00Z","children":"March 16, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","cia",{"href":"/en/tag/cia/","className":"tag-pill","children":["#","cia"]}],["$","a","shadow-government",{"href":"/en/tag/shadow-government/","className":"tag-pill","children":["#","shadow-government"]}],["$","a","deep-state",{"href":"/en/tag/deep-state/","className":"tag-pill","children":["#","deep-state"]}],["$","a","intelligence",{"href":"/en/tag/intelligence/","className":"tag-pill","children":["#","intelligence"]}],["$","a","kevin-shipp",{"href":"/en/tag/kevin-shipp/","className":"tag-pill","children":["#","kevin-shipp"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cia-intelligence-shadow-government/","title":"CIA Insider Kevin Shipp Explains The Shadow Government"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cia-intelligence-shadow-government/","title":"CIA Insider Kevin Shipp Explains The Shadow Government"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"CIA Insider Kevin Shipp Explains The Shadow Government | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Former CIA officer Kevin Shipp exposes the shadow government structure operating behind elected officials, controlling policy through intelligence agencies."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"cia, shadow-government, deep-state, intelligence, kevin-shipp"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/cia-intelligence-shadow-government/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cia-intelligence-shadow-government/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cia-intelligence-shadow-government/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cia-intelligence-shadow-government/"}],["$","meta","10",{"property":"og:title","content":"CIA Insider Kevin Shipp Explains The Shadow Government"}],["$","meta","11",{"property":"og:description","content":"Former CIA officer Kevin Shipp exposes the shadow government structure operating behind elected officials, controlling policy through intelligence agencies."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/cia-intelligence-shadow-government/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cia-intelligence-shadow-government.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"CIA Insider Kevin Shipp Explains The Shadow Government"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"CIA Insider Kevin Shipp Explains The Shadow Government"}],["$","meta","25",{"name":"twitter:description","content":"Former CIA officer Kevin Shipp exposes the shadow government structure operating behind elected officials, controlling policy through intelligence agencies."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cia-intelligence-shadow-government.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

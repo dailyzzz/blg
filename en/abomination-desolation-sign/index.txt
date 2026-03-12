@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","abomination-desolation-sign",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","abomination-desolation-sign","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","abomination-desolation-sign","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3ad0,<h1 id="the-abomination-of-desolation-recognizing-the-sign">The Abomination of Desolation: Recognizing the Sign</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Therefore when you see the 'abomination of desolation,' spoken of by Daniel the prophet, standing in the holy place (whoever reads, let him understand), then let those who are in Judea flee to the mountains." — Matthew 24:15-16</p>
+</blockquote>
+<p>Of all the prophetic signs Jesus could have highlighted, He chose one above all others as the definitive indicator that the end had arrived. Not wars. Not famines. Not earthquakes. Those are "the beginning of sorrows." The sign that triggers immediate, urgent, life-or-death action is the abomination of desolation — a specific act of desecration in the holy place that signals the beginning of the Great Tribulation, the worst period in all of human history. Jesus did not merely mention this sign. He commanded His followers to understand it. "Whoever reads, let him understand." This is not optional knowledge. It is survival information.</p>
+<p>As the Confliction album track <a href="https://confliction.zzzdaily.com/tracks/en/111-The_Final_Day.mp4">The Final Day</a> warns, there is a moment of no return — a line crossed after which the world changes forever. The abomination of desolation is that line.</p>
+<hr>
+<h2 id="daniels-three-references">Daniel's Three References</h2>
+<p>The phrase "abomination of desolation" (or "abomination that makes desolate") appears three times in the Book of Daniel:</p>
+<h3 id="daniel-927">Daniel 9:27</h3>
+<blockquote>
+<p>"And on the wing of abominations shall be one who makes desolate, even until the consummation, which is determined, is poured out on the desolate."</p>
+</blockquote>
+<p>This occurs in the context of Daniel's seventy weeks prophecy. The "one who makes desolate" acts in the middle of the seventieth week — 3.5 years into the final seven-year period. As detailed in our article on <a href="/daniel-seventy-weeks-timeline/?lang=en">Daniel's Seventy Weeks</a>, this is the midpoint betrayal when the Antichrist breaks his covenant with Israel and desecrates the Temple.</p>
+<h3 id="daniel-1131">Daniel 11:31</h3>
+<blockquote>
+<p>"And forces shall be mustered by him, and they shall defile the sanctuary fortress; then they shall take away the daily sacrifices, and place there the abomination of desolation."</p>
+</blockquote>
+<p>This passage describes both a historical event (Antiochus IV Epiphanes) and a future archetype (the final Antichrist). The dual fulfillment pattern is critical — the historical event proves the prophecy is real, and the future event proves the prophecy is not yet complete.</p>
+<h3 id="daniel-1211">Daniel 12:11</h3>
+<blockquote>
+<p>"And from the time that the daily sacrifice is taken away, and the abomination of desolation is set up, there shall be one thousand two hundred and ninety days."</p>
+</blockquote>
+<p>This provides an exact timeline: 1,290 days from the cessation of daily sacrifices and the establishment of the abomination. This is slightly longer than the 1,260 days (3.5 years) of the Great Tribulation, suggesting an additional 30-day period of transition or judgment.</p>
+<h2 id="the-historical-precedent-antiochus-iv-epiphanes">The Historical Precedent: Antiochus IV Epiphanes</h2>
+<p>In 167 BC, the Seleucid king Antiochus IV Epiphanes invaded Jerusalem, entered the Temple, and committed a series of desecrations:</p>
+<ul>
+<li>He erected an altar to Zeus on the altar of burnt offering</li>
+<li>He sacrificed a pig — the most unclean animal in Jewish law — on the altar</li>
+<li>He set up an idol (likely a statue of Zeus bearing his own likeness) in the Holy of Holies</li>
+<li>He forbade the daily sacrifices, circumcision, and observance of the Sabbath</li>
+<li>He desecrated the Temple scrolls and burned copies of the Torah</li>
+</ul>
+<p>This historical event was so traumatic that it sparked the Maccabean Revolt, the rededication of the Temple (celebrated as Hanukkah), and a permanent scar on Jewish consciousness.</p>
+<p>But Jesus, speaking in approximately AD 30 — nearly 200 years after Antiochus — referred to the abomination of desolation as a <strong>future</strong> event. He used the future tense: "When you <strong>see</strong>." He was not pointing to Antiochus as the fulfillment but to Antiochus as the prototype. The true abomination of desolation was yet to come.</p>
+<h2 id="the-partial-fulfillment-ad-70">The Partial Fulfillment: AD 70</h2>
+<p>When the Roman legions under Titus besieged Jerusalem in AD 70, they eventually breached the Temple walls, and Roman soldiers brought their standards — bearing images of the emperor and eagles, objects of pagan worship — into the Temple courts. They offered sacrifices to their standards in the Temple precinct before destroying the entire structure.</p>
+<p>This event partially fulfills the prophecy and explains why Jesus told His followers in Luke 21:20: "When you see Jerusalem surrounded by armies, then know that its desolation is near." Early Christians who heeded this warning fled to Pella in modern-day Jordan and survived the siege that killed over a million Jews.</p>
+<p>However, the AD 70 event does not fully satisfy the prophecy because:</p>
+<ul>
+<li>It did not occur in the context of a seven-year covenant</li>
+<li>It was not followed by the return of Christ</li>
+<li>It did not trigger the cosmic disturbances described in Matthew 24:29</li>
+<li>The "great tribulation, such as has not been since the beginning of the world" (Matthew 24:21) was not immediately followed by the end of the age</li>
+</ul>
+<p>This confirms that the ultimate fulfillment remains future.</p>
+<h2 id="the-future-fulfillment-what-to-watch-for">The Future Fulfillment: What to Watch For</h2>
+<p>For the abomination of desolation to occur in its final prophetic form, several preconditions must be met:</p>
+<h3 id="1-a-rebuilt-temple">1. A Rebuilt Temple</h3>
+<p>The abomination occurs in "the holy place" — the Temple in Jerusalem. Currently, the Temple Mount is occupied by the Dome of the Rock and the Al-Aqsa Mosque. For daily sacrifices to be instituted and then stopped, for an image to be set up in the holy place, a functioning Temple must exist.</p>
+<p>The Temple Institute in Jerusalem has already prepared the priestly garments, the sacred vessels, and the architectural plans for the Third Temple. Red heifers — necessary for the purification ritual described in Numbers 19 — have been imported from Texas and are being prepared. The political and religious will to rebuild exists among significant segments of Israeli society.</p>
+<h3 id="2-restored-daily-sacrifices">2. Restored Daily Sacrifices</h3>
+<p>The cessation of daily sacrifices (Daniel 12:11) requires that daily sacrifices have first been resumed. This means not just a building but an operational Temple with a functioning priesthood performing the prescribed sacrifices. The Temple Institute has trained priests and prepared the implements necessary for this restoration.</p>
+<h3 id="3-the-antichrists-self-enthronement">3. The Antichrist's Self-Enthronement</h3>
+<p>Paul provides the most explicit description of the abomination in 2 Thessalonians 2:3-4:</p>
+<blockquote>
+<p>"Let no one deceive you by any means; for that Day will not come unless the falling away comes first, and the man of sin is revealed, the son of perdition, who opposes and exalts himself above all that is called God or that is worshiped, so that he sits as God in the temple of God, showing himself that he is God."</p>
+</blockquote>
+<p>The abomination of desolation is the Antichrist entering the rebuilt Temple in Jerusalem and declaring himself to be God. This is not merely a political act — it is the ultimate spiritual transgression, a human being claiming divine authority in the place designated for the worship of the one true God. It is the final, fullest expression of the lie from the Garden: "You shall be as gods."</p>
+<h3 id="4-the-image-of-the-beast">4. The Image of the Beast</h3>
+<p>Revelation 13:14-15 describes a second dimension of the abomination:</p>
+<blockquote>
+<p>"And he deceives those who dwell on the earth by those signs which he was granted to do in the sight of the beast, telling those who dwell on the earth to make an image to the beast... He was granted power to give breath to the image of the beast, that the image of the beast should both speak and cause as many as would not worship the image of the beast to be killed."</p>
+</blockquote>
+<p>An image that can "speak" and identify those who refuse to worship it — this sounds remarkably like AI-powered technology. A holographic or robotic image in the Temple, equipped with facial recognition and connected to the global surveillance network, could literally identify and target those who refuse to worship it.</p>
+<p>As explored in our article on <a href="/antichrist-algorithm-digital-beast/?lang=en">Antichrist Algorithm: The Digital Beast</a>, the technology for the "image of the beast" already exists. AI-powered avatars can speak, facial recognition can identify, and digital ID systems can track who complies and who resists.</p>
+<h2 id="jesuss-urgent-warning">Jesus's Urgent Warning</h2>
+<p>When Jesus describes what happens after the abomination, His language reaches a level of urgency found nowhere else in His teaching:</p>
+<blockquote>
+<p>"Then let those who are in Judea flee to the mountains. Let him who is on the housetop not go down to take anything out of his house. And let him who is in the field not go back to get his clothes. But woe to those who are pregnant and to those who are nursing babies in those days! And pray that your flight may not be in winter or on the Sabbath. For then there will be great tribulation, such as has not been since the beginning of the world until this time, no, nor ever shall be." — Matthew 24:16-21</p>
+</blockquote>
+<p>This is evacuation language. Drop everything. Do not go back for possessions. Do not delay. The Great Tribulation begins the moment the abomination is established, and survival depends on immediate flight. Those who hesitate will be caught in a persecution so severe that Jesus says nothing in all of human history — past or future — will compare to it.</p>
+<h2 id="recognizing-the-sign-today">Recognizing the Sign Today</h2>
+<p>The abomination of desolation has not yet occurred. But the conditions for its occurrence are being systematically assembled:</p>
+<ul>
+<li><strong>Temple preparations</strong> are underway in Jerusalem</li>
+<li><strong>The technology</strong> for a speaking, identifying image exists</li>
+<li><strong>The geopolitical conditions</strong> for a seven-year covenant involving Israel are developing</li>
+<li><strong>The digital infrastructure</strong> for global worship enforcement (comply or be cut off) is being built</li>
+</ul>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/347-The_Abomination_Of_Desolation.mp4">The Abomination Of Desolation</a> explores the prophetic reality of this sign, while <a href="https://zzzdaily.zzzdaily.com/tracks/en/423-I_Saw_The_End_Of_The_World.mp4">I Saw The End Of The World</a> paints the broader picture of the days surrounding it.</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/424-I_Saw_The_End_Of_The_World-Alt.mp4">I Saw The End Of The World (Alt)</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/348-The_Abomination_Of_Desolation-Alt.mp4">The Abomination Of Desolation (Alt)</a></li>
+</ul>
+<p>The command is clear: understand this sign. Watch for it. And when it appears, do not hesitate.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- <a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/347-The_Abomination_Of_Desolation.mp4">The Abomination Of Desolation</a> — The sign Jesus commanded His followers to recognize</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/423-I_Saw_The_End_Of_The_World.mp4">I Saw The End Of The World</a> — The broader prophetic vision of the final days</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li>
+<p><a href="https://confliction.zzzdaily.com/tracks/en/111-The_Final_Day.mp4">The Final Day</a> — The irreversible turning point in human history</p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/421-The_Year_Of_The_Test.mp4">The Year Of The Test</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/422-The_Year_Of_The_Test-Alt.mp4">The Year Of The Test (Alt)</a></p>
+</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/seven-seals-seven-trumpets/?lang=en">The Seven Seals and Seven Trumpets: Where Are We Now?</a> — The timeline of Revelation's judgments</li>
+<li><a href="/daniel-seventy-weeks-timeline/?lang=en">Daniel's Seventy Weeks: The Prophetic Timeline Decoded</a> — The countdown that culminates in the abomination</li>
+<li><a href="/antichrist-algorithm-digital-beast/?lang=en">Antichrist Algorithm: The Digital Beast</a> — The technology that enables the image of the beast</li>
+<li><a href="/mark-of-the-beast-digital-id/?lang=en">The Mark of the Beast: Digital ID</a> — The economic enforcement system activated after the abomination</li>
+</ul>
+<hr>
+<p><em>Jesus looked at His disciples and gave them one sign above all others. Not wars — those are the beginning. Not earthquakes — those are birth pains. The sign that demands immediate action is the abomination of desolation standing in the holy place. When the man of sin sits in God's Temple and declares himself God, when the image speaks and demands worship, when the daily sacrifice ceases and the great tribulation begins — that is the moment. Whoever reads, let him understand. Your understanding may determine your survival.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/prophecy/","className":"category-badge","children":"prophecy"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The Abomination of Desolation: Recognizing the Sign"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"A thorough examination of the abomination of desolation — the pivotal prophetic sign Jesus warned His followers to watch for — its historical precedent, its future fulfillment, and what believers must do when they see it."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-06-03T10:00:00Z","children":"June 3, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","abomination-of-desolation",{"href":"/en/tag/abomination-of-desolation/","className":"tag-pill","children":["#","abomination-of-desolation"]}],["$","a","matthew-24",{"href":"/en/tag/matthew-24/","className":"tag-pill","children":["#","matthew-24"]}],["$","a","daniel",{"href":"/en/tag/daniel/","className":"tag-pill","children":["#","daniel"]}],["$","a","temple",{"href":"/en/tag/temple/","className":"tag-pill","children":["#","temple"]}],["$","a","antichrist",{"href":"/en/tag/antichrist/","className":"tag-pill","children":["#","antichrist"]}],["$","a","tribulation",{"href":"/en/tag/tribulation/","className":"tag-pill","children":["#","tribulation"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/abomination-desolation-sign/","title":"The Abomination of Desolation: Recognizing the Sign"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/abomination-desolation-sign/","title":"The Abomination of Desolation: Recognizing the Sign"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The Abomination of Desolation: Recognizing the Sign | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"A thorough examination of the abomination of desolation — the pivotal prophetic sign Jesus warned His followers to watch for — its historical precedent, its future fulfillment, and what believers must do when they see it."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"abomination-of-desolation, matthew-24, daniel, temple, antichrist, tribulation"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/abomination-desolation-sign/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/abomination-desolation-sign/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/abomination-desolation-sign/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/abomination-desolation-sign/"}],["$","meta","10",{"property":"og:title","content":"The Abomination of Desolation: Recognizing the Sign"}],["$","meta","11",{"property":"og:description","content":"A thorough examination of the abomination of desolation — the pivotal prophetic sign Jesus warned His followers to watch for — its historical precedent, its future fulfillment, and what believers must do when they see it."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/abomination-desolation-sign/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/abomination-desolation-sign.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The Abomination of Desolation: Recognizing the Sign"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The Abomination of Desolation: Recognizing the Sign"}],["$","meta","25",{"name":"twitter:description","content":"A thorough examination of the abomination of desolation — the pivotal prophetic sign Jesus warned His followers to watch for — its historical precedent, its future fulfillment, and what believers must do when they see it."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/abomination-desolation-sign.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

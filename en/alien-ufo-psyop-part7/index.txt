@@ -1,0 +1,116 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","alien-ufo-psyop-part7",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","alien-ufo-psyop-part7","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","alien-ufo-psyop-part7","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3136,<h1 id="the-alien-ufo-psyop-what-v2k-reveals-part-7">The Alien UFO PSYOP: What V2K Reveals Part 7</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect."</em> — Matthew 24:24</p>
+</blockquote>
+<p>The alien UFO phenomenon is the greatest psychological operation of the modern era. For decades, the global population has been conditioned — through movies, television, news coverage, and government "disclosures" — to believe in extraterrestrial visitors. The conditioning has accelerated dramatically in recent years, with government officials making unprecedented public statements about "unidentified aerial phenomena" and congressional hearings featuring testimony from military whistleblowers.</p>
+<p>But what if the alien phenomenon is not extraterrestrial at all? What if it is a combination of advanced military technology, V2K-induced perceptual manipulation, and spiritual deception — a psyop designed to prepare humanity for a false reality that serves the same ancient agenda of control that has driven the Jesuit order and its allied secret societies for centuries?</p>
+<p>Howard Pittman was shown the three heavens and the demonic entities that inhabit the second heaven. He was told that these entities have the power to manipulate human perception and that their primary weapon is deception. The "aliens" that people see and hear may not be from another planet — they may be from another dimension. And the technology that enables the experience may not be extraterrestrial — it may be V2K.</p>
+<p>The Jesuits have maintained interest in astronomy and space since their founding. Vatican Observatory, run by Jesuit astronomers, has publicly speculated about extraterrestrial life. Napoleon's "absolute power," Adams's "eternal damnation," and Tambulini's governance of "half the world" find their ultimate expression in a deception that encompasses the entire cosmos.</p>
+<hr>
+<h2 id="the-v2k-alien-connection">The V2K-Alien Connection</h2>
+<h3 id="alien-abduction-experiences-and-v2k-symptoms">Alien Abduction Experiences and V2K Symptoms</h3>
+<p>The phenomenology of "alien abduction" experiences bears striking similarities to V2K targeting:</p>
+<p><strong>Hearing voices</strong>: Abductees frequently report hearing telepathic communications from alien beings — voices inside their head that communicate without sound. This is indistinguishable from V2K transmission.</p>
+<p><strong>Paralysis</strong>: Abductees report being unable to move during their experiences. Directed energy weapons can produce temporary muscular paralysis through electromagnetic stimulation of motor neurons.</p>
+<p><strong>Implants</strong>: Abductees report that aliens implanted devices in their bodies. Covert microchipping technology exists and has been documented (explored in Part 8).</p>
+<p><strong>Missing time</strong>: Abductees report losing hours of memory. Drug-induced amnesia and electromagnetic disruption of memory formation can produce this effect.</p>
+<p><strong>Bright lights</strong>: Abductees report brilliant lights associated with their experiences. Directed energy weapons, electromagnetic stimulation of the visual cortex, and V2K-related phenomena can produce perceived light effects.</p>
+<p><strong>Emotional manipulation</strong>: Abductees report feelings of terror, calm, or love that are imposed rather than naturally generated. V2K and directed energy technology can influence emotional states through electromagnetic manipulation of brain chemistry.</p>
+<p>The overlap between alien abduction phenomenology and documented V2K/DEW capabilities is too precise to be coincidental. Either aliens independently developed technology that produces identical effects to classified military weapons, or the alien experience is being produced by those weapons.</p>
+<h3 id="the-military-ufo-connection">The Military UFO Connection</h3>
+<p>The modern UFO phenomenon began in the 1940s — precisely when the US military was developing its most advanced aircraft, radar systems, and electronic warfare capabilities. The timing is not coincidental:</p>
+<ul>
+<li><strong>Kenneth Arnold sighting (1947)</strong>: The first major UFO report occurred the same year as the Roswell incident and the founding of the CIA</li>
+<li><strong>Project Blue Book (1952-1969)</strong>: The Air Force's "investigation" of UFOs served primarily as a public relations operation to manage UFO reports</li>
+<li><strong>Area 51</strong>: The most famous "UFO base" is actually a test facility for classified military aircraft</li>
+<li><strong>Recent disclosure</strong>: The Pentagon's Unidentified Aerial Phenomena Task Force and congressional hearings coincide with massive increases in directed energy weapon and drone technology</li>
+</ul>
+<p>The government has consistently managed the UFO narrative — sometimes suppressing it, sometimes promoting it — depending on what serves its interests at any given time. The current "disclosure" phase suggests that the narrative is being prepared for a major escalation.</p>
+<h3 id="project-blue-beam">Project Blue Beam</h3>
+<p>Project Blue Beam is a reported classified program designed to use advanced technology to simulate a global alien event. The project allegedly involves:</p>
+<ol>
+<li><strong>Holographic projection technology</strong>: Projecting realistic images in the sky visible to millions</li>
+<li><strong>V2K transmission</strong>: Transmitting "telepathic" communications from the "aliens" directly into people's brains</li>
+<li><strong>Directed energy weapons</strong>: Creating physical effects that simulate alien technology</li>
+<li><strong>Electromagnetic manipulation</strong>: Altering consciousness and perception on a mass scale</li>
+</ol>
+<p>While Project Blue Beam is dismissed as "conspiracy theory," the individual technologies it describes are documented and real:</p>
+<ul>
+<li>Holographic projection technology exists</li>
+<li>V2K transmission is patented and deployed</li>
+<li>Directed energy weapons are operational</li>
+<li>Electromagnetic consciousness manipulation has been researched for decades</li>
+</ul>
+<p>The only question is whether these technologies have been integrated into a single system designed to simulate an alien event. Given the military's documented history of deception operations, the answer is almost certainly yes.</p>
+<h2 id="the-spiritual-dimension">The Spiritual Dimension</h2>
+<h3 id="demons-not-aliens">Demons, Not Aliens</h3>
+<p>The Bible does not describe extraterrestrial visitors. It describes spiritual entities — angels, demons, and fallen angels — that interact with the physical world. The characteristics attributed to "aliens" in modern accounts are identical to the characteristics attributed to demons in historical accounts:</p>
+<ul>
+<li><strong>Deceptive communication</strong>: Both aliens and demons communicate through telepathy (inner voices)</li>
+<li><strong>Physical manipulation</strong>: Both can produce physical effects (paralysis, marks on the body, reproductive interference)</li>
+<li><strong>Light manifestation</strong>: Both appear in association with bright lights</li>
+<li><strong>Fear and control</strong>: Both induce terror and submission in their targets</li>
+<li><strong>Anti-Christian messaging</strong>: Alien "communications" consistently undermine biblical truth, denying Christ's divinity, promoting "universal consciousness," and teaching New Age theology</li>
+</ul>
+<p>Howard Pittman was shown that the demonic hierarchy is organized with military precision and that their primary weapon is deception. The alien phenomenon is the ultimate deception — it reframes demonic activity as extraterrestrial contact, replacing the spiritual framework (which provides tools for resistance) with a technological framework (which provides none).</p>
+<p>When a person believes they are being contacted by aliens, they have no spiritual defense. When they recognize they are being targeted by demons, they can put on the full armor of God (Ephesians 6:11-18) and resist. The alien narrative is designed to prevent this recognition.</p>
+<h3 id="the-jesuit-space-connection">The Jesuit Space Connection</h3>
+<p>The Vatican Observatory — operated by Jesuit astronomers — has made increasingly bold statements about the possibility of extraterrestrial life. Jesuit astronomer Guy Consolmagno has stated that he would "baptize an alien." The Vatican has hosted astrobiology conferences. The institutional Church is preparing its followers to accept an alien narrative.</p>
+<p>This is classic Jesuit strategy: infiltrate both sides of the conversation. The Jesuits control the religious institution (the Vatican) and the scientific institution (the Observatory). When the alien psyop is deployed, they will be positioned to interpret it through both lenses — religious and scientific — ensuring their control over the public response.</p>
+<h2 id="what-this-means">What This Means</h2>
+<p>The V2K technology that targets individuals today could be deployed on a mass scale tomorrow. The infrastructure exists (cell towers, satellites, ground-based transmitters). The technology exists (V2K, directed energy, holographic projection). The narrative has been prepared (decades of alien conditioning through media and government disclosure). And the spiritual forces behind the deception have been at work since before human history began.</p>
+<p>If and when the alien psyop is deployed, those who understand V2K technology and spiritual warfare will be the only ones who can see through it. Everyone else — the 97.5% Pittman described — will believe the lie, because they have been trained to believe it, conditioned to accept it, and stripped of the spiritual discernment needed to reject it.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — UFO psyop research and V2K-alien connection analysis</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — demons vs. aliens and the spiritual deception</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Vatican Observatory and the alien agenda</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Project Blue Book historical records</li>
+<li>Congressional UAP hearings testimony</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/101-NASA_Helium_Balloons.mp4">NASA Helium Balloons</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/65-Smart_Dust.mp4">Smart Dust</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/schizophrenia-mental-illness-psyop-part6/?lang=en">Schizophrenia: The Mental Illness PSYOP Part 6</a></li>
+<li><a href="/secretly-microchipping-humans-part8/?lang=en">The Hidden History of Secretly Microchipping Humans Part 8</a></li>
+<li><a href="/space-rockets-helium-balloons/?lang=en">Are Space Rockets Actually HELIUM BALLOONS: The Evidence</a></li>
+</ul>
+<p><em>They're not aliens. They're demons with a technology department. The voices in your head are not from another galaxy — they're from the second heaven and the Pentagon. The great deception is coming — and it will look like first contact. But those who know the truth, who wear the armor of God, who have the discernment of the Spirit — they will see through it. Will you be among them?</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The Alien UFO PSYOP: What V2K Reveals Part 7"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The UFO/alien phenomenon may be a V2K-driven psyop. Part 7 connects voice-to-skull technology to alien abduction experiences and government disclosure."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-13T10:00:00Z","children":"December 13, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","UFO",{"href":"/en/tag/UFO/","className":"tag-pill","children":["#","UFO"]}],["$","a","aliens",{"href":"/en/tag/aliens/","className":"tag-pill","children":["#","aliens"]}],["$","a","psyop",{"href":"/en/tag/psyop/","className":"tag-pill","children":["#","psyop"]}],["$","a","V2K",{"href":"/en/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","project-bluebeam",{"href":"/en/tag/project-bluebeam/","className":"tag-pill","children":["#","project-bluebeam"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/alien-ufo-psyop-part7/","title":"The Alien UFO PSYOP: What V2K Reveals Part 7"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/alien-ufo-psyop-part7/","title":"The Alien UFO PSYOP: What V2K Reveals Part 7"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The Alien UFO PSYOP: What V2K Reveals Part 7 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The UFO/alien phenomenon may be a V2K-driven psyop. Part 7 connects voice-to-skull technology to alien abduction experiences and government disclosure."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"UFO, aliens, psyop, V2K, project-bluebeam"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/alien-ufo-psyop-part7/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/alien-ufo-psyop-part7/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/alien-ufo-psyop-part7/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/alien-ufo-psyop-part7/"}],["$","meta","10",{"property":"og:title","content":"The Alien UFO PSYOP: What V2K Reveals Part 7"}],["$","meta","11",{"property":"og:description","content":"The UFO/alien phenomenon may be a V2K-driven psyop. Part 7 connects voice-to-skull technology to alien abduction experiences and government disclosure."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/alien-ufo-psyop-part7/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/alien-ufo-psyop-part7.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The Alien UFO PSYOP: What V2K Reveals Part 7"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The Alien UFO PSYOP: What V2K Reveals Part 7"}],["$","meta","25",{"name":"twitter:description","content":"The UFO/alien phenomenon may be a V2K-driven psyop. Part 7 connects voice-to-skull technology to alien abduction experiences and government disclosure."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/alien-ufo-psyop-part7.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,169 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","cyborg-dawn-military-augmentation",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","cyborg-dawn-military-augmentation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cyborg-dawn-military-augmentation","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3c93,<h1 id="cyborg-dawn-military-use-of-human-augmentation-technology">Cyborg Dawn: Military Use Of Human Augmentation Technology</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown." -- Genesis 6:4</p>
+</blockquote>
+<p>The Nephilim were the first augmented beings -- hybrid entities whose enhanced capabilities made them "mighty men" and "men of renown." Their creation was the product of an unauthorized mixing of the human with the non-human, producing beings that exceeded natural human limitations but at the cost of their humanity. The military augmentation programs documented in this article pursue the identical objective: the creation of enhanced beings that exceed natural human limitations through the integration of technology into biology.</p>
+<p>The Pentagon's vision of the "cyborg soldier" is not science fiction. It is documented in official military research, funded through defense budgets, and progressing through development pipelines that lead directly to human deployment. The dawn of the cyborg is upon us, and the military is its architect.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> from the Confliction album warns, the rebellion that produced the Nephilim continues through technological systems. And as <a href="https://confliction.zzzdaily.com/tracks/en/81-The_Word_Made_Flesh.mp4">The Word Made Flesh</a> declares, God entered human flesh in its natural form -- not augmented, not enhanced, not merged with technology -- declaring the unmodified human body sacred.</p>
+<hr>
+<h2 id="the-cyborg-soldier-2050-report">The Cyborg Soldier 2050 Report</h2>
+<h3 id="official-military-vision">Official Military Vision</h3>
+<p>In 2019, the U.S. Department of Defense Biotechnologies for Health and Human Performance Council published "Cyborg Soldier 2050: Human/Machine Fusion and the Implications for the Future of the DOD." This report explicitly describes the military's vision for human augmentation:</p>
+<p><strong>Four Key Technologies</strong></p>
+<p>The report identifies four augmentation technologies that it considers achievable by 2050:</p>
+<ol>
+<li>
+<p><strong>Ocular Enhancement</strong> -- Technology to enhance human vision beyond natural capabilities, including night vision, magnification, and the ability to see across electromagnetic spectra invisible to the natural eye. This technology involves either external devices interfacing with the visual cortex or internal implants that modify the eye's receptor capabilities.</p>
+</li>
+<li>
+<p><strong>Programmatic Muscular Control</strong> -- Technology that provides direct control over muscular function through neural implants or nanotechnology interfaces. This enables enhanced strength, endurance, and precision of physical movement, as well as the restoration of function in injured soldiers. The technology effectively places the soldier's musculature under programmable control.</p>
+</li>
+<li>
+<p><strong>Auditory Enhancement</strong> -- Technology to enhance hearing beyond natural capabilities, including extended frequency range, directional hearing, and the ability to filter or amplify specific sounds in complex acoustic environments. This may involve cochlear modifications or neural interface technology.</p>
+</li>
+<li>
+<p><strong>Direct Neural Enhancement</strong> -- The most consequential technology: direct brain-computer interfaces that enable thought-controlled devices, enhanced cognitive processing, and direct communication between soldiers without spoken language. This technology connects the soldier's brain to external computational systems, creating a hybrid human-machine intelligence.</p>
+</li>
+</ol>
+<h3 id="the-military-to-civilian-pipeline">The Military-to-Civilian Pipeline</h3>
+<p>The Cyborg Soldier 2050 report explicitly acknowledges that military augmentation technologies will transfer to civilian populations:</p>
+<blockquote>
+<p>"These technologies are likely to be adopted by civilians first due to the availability of commercial versions... The civilian adoption of these technologies will present new opportunities and risks that the DOD will need to consider."</p>
+</blockquote>
+<p>This acknowledgment reveals the strategy: military augmentation technology is developed with defense budgets, tested on soldiers, refined through military deployment, and then transferred to civilian populations. The transfer mechanism varies:</p>
+<ul>
+<li>Direct commercial marketing (wearable devices, implants marketed as health products)</li>
+<li>Pharmaceutical delivery (nanotechnology injected under the cover of vaccination)</li>
+<li>Environmental distribution (atmospheric, water, and food chain contamination)</li>
+<li>Mandatory institutional requirements (employment, education, financial access conditioned on augmentation)</li>
+</ul>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) how the nanotechnology now found in civilian blood matches the specifications described in military augmentation research. The self-assembling biosensor structures, the electromagnetic communication capabilities, and the neural interface potential of the nanotechnology in blood are consistent with the Cyborg Soldier 2050 technology roadmap.</p>
+<h2 id="darpas-augmentation-programs">DARPA's Augmentation Programs</h2>
+<h3 id="the-research-pipeline">The Research Pipeline</h3>
+<p>DARPA maintains the largest and most advanced portfolio of human augmentation research in the world:</p>
+<p><strong>Electrical Prescriptions (ElectRx)</strong></p>
+<p>The ElectRx program develops miniaturized neural interface devices that modulate peripheral nerve activity to treat disease and enhance performance. These devices -- small enough to be injected -- interface with the vagus nerve and other neural pathways to:</p>
+<ul>
+<li>Regulate inflammation</li>
+<li>Control pain perception</li>
+<li>Modulate immune function</li>
+<li>Influence organ function</li>
+</ul>
+<p>The injectable form factor of ElectRx devices means they can be deployed through standard medical injection -- indistinguishable from a vaccination.</p>
+<p><strong>Neural Engineering System Design (NESD)</strong></p>
+<p>NESD develops high-resolution brain-computer interfaces that translate brain activity into digital signals and digital signals into brain activity. The program aims to create interfaces with million-channel resolution -- sufficient to read and write individual neuron activity in real time.</p>
+<p><strong>Hand Proprioception and Touch Interfaces (HAPTIX)</strong></p>
+<p>HAPTIX develops technology that provides tactile feedback through neural interfaces, enabling users to "feel" through prosthetic or robotic systems. This technology extends the human sensory envelope beyond the physical body.</p>
+<p><strong>Restoring Active Memory (RAM)</strong></p>
+<p>The RAM program develops technology to restore memory function in individuals with brain injury -- and, by extension, to enhance memory function beyond natural limits. The technology involves implanted neural devices that stimulate memory formation and recall.</p>
+<h3 id="supersoldier-programs-worldwide">Supersoldier Programs Worldwide</h3>
+<p>The United States is not alone in pursuing military human augmentation:</p>
+<ul>
+<li><strong>China</strong> is investing billions in brain-computer interface technology, gene editing for soldier enhancement, and pharmaceutical augmentation programs</li>
+<li><strong>Russia</strong> has publicly acknowledged research into "genetic soldier" programs using CRISPR and other gene editing technologies</li>
+<li><strong>France's military ethics committee</strong> approved research into augmented soldiers in 2020</li>
+<li><strong>The United Kingdom</strong> has published reports on human augmentation as a defense priority</li>
+</ul>
+<p>The global military augmentation race ensures that the technology will be developed, deployed, and proliferated regardless of ethical objections. No nation can afford to unilaterally abstain while adversaries develop enhanced soldiers.</p>
+<h2 id="the-genesis-6-connection">The Genesis 6 Connection</h2>
+<h3 id="mighty-men-of-old">Mighty Men of Old</h3>
+<p>The Nephilim of Genesis 6 were "mighty men" -- beings whose enhanced capabilities set them apart from natural humans. They were the product of an unauthorized mixing of human and non-human elements.</p>
+<p>The cyborg soldier is a modern Nephilim -- a being whose enhanced capabilities are produced by the merging of human biology with non-human technology. The mixing is different (technological rather than genetic-angelic), but the pattern is identical:</p>
+<ul>
+<li>Natural human limitations are deemed insufficient</li>
+<li>An external source of enhancement is introduced</li>
+<li>The enhanced being exceeds human capabilities</li>
+<li>The enhanced being serves the agenda of the enhancer, not the Creator</li>
+</ul>
+<p>The military's stated goal is to create soldiers who are stronger, faster, smarter, and more resilient than natural humans. This is the Nephilim project in modern form: the creation of "mighty men" through unauthorized mixing.</p>
+<h3 id="the-fallen-angels-technology">The Fallen Angels' Technology</h3>
+<p>The Book of Enoch (referenced in Jude 14-15 and 2 Peter 2:4) describes the Watchers -- fallen angels who descended to earth and taught humanity forbidden knowledge. Among their teachings were:</p>
+<ul>
+<li>Metallurgy and weapon-making (Azazel)</li>
+<li>Enchantments and pharmacology (Semjaza)</li>
+<li>Astrology and celestial knowledge (Baraqijal)</li>
+<li>Signs and portents (Kokabel)</li>
+</ul>
+<p>These forbidden technologies corrupted humanity and led to the judgment of the flood. The modern parallel is unmistakable: nanotechnology, biotechnology, and neural interface technology are the forbidden knowledge of our age -- taught not by descending angels but by DARPA-funded researchers who serve the same spiritual agenda.</p>
+<p>The dome of the firmament contains both the fallen angels who taught the forbidden knowledge and the humans who received it. Under this dome, the same drama repeats: forbidden knowledge is offered, humanity accepts, corruption follows, and judgment comes. The cyborg dawn is not progress. It is repetition -- the Genesis 6 corruption in a laboratory coat.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>U.S. DOD Biotechnologies for Health and Human Performance Council, "Cyborg Soldier 2050," 2019</p>
+</li>
+<li>
+<p>DARPA ElectRx, NESD, HAPTIX, and RAM program documentation</p>
+</li>
+<li>
+<p>French Armed Forces Ethics Committee, opinion on augmented soldiers, 2020</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, military nanotechnology analysis</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/447-Modded_Humans.mp4">Modded Humans</a> -- The modified human as military asset</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/339-The_New_Man.mp4">The New Man</a> -- The designed supersoldier</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> -- DARPA's research driving the augmentation agenda</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/489-Nephilim_Nanobots.mp4">Nephilim Nanobots</a> -- The Genesis 6 pattern repeated with nanotechnology</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> -- The rebellion that drives augmentation</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/81-The_Word_Made_Flesh.mp4">The Word Made Flesh</a> -- God's declaration that unmodified flesh is sacred</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/declassified-cia-document-2004/?lang=en">Declassified CIA Document From 2004 Reveals Transhumanist Agenda</a> -- The intelligence community's augmentation plans</li>
+<li><a href="/europeans-augmentation-mandatory/?lang=en">Europeans Beware: Human Augmentation Becoming Mandatory</a> -- The civilian deployment of military technology</li>
+<li><a href="/human-augmentation-self-spreading/?lang=en">Human Augmentation Through Self-Spreading Nanotechnology</a> -- The self-spreading dimension of augmentation</li>
+</ul>
+<hr>
+<p><em>The dawn of the cyborg is the twilight of the human. Every augmentation adds capability but subtracts humanity. Every enhancement serves the enhancer more than the enhanced. Every step toward the supersoldier is a step away from the image of God. The Nephilim were mighty men of renown -- and God destroyed them with a flood. The cyborg soldiers being built in DARPA laboratories will be mighty too -- enhanced beyond natural limits, controlled through neural interfaces, deployed as weapons. But the God who judged the first augmentation will judge the last. The cyborg dawn will end as the Nephilim project ended: under the weight of divine judgment that no augmentation can withstand.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Cyborg Dawn: Military Use Of Human Augmentation Technology"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"How military programs are developing and deploying human augmentation technology that will transform soldiers into cyborgs and civilians into controlled subjects."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-25T10:00:00Z","children":"March 25, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","cyborg",{"href":"/en/tag/cyborg/","className":"tag-pill","children":["#","cyborg"]}],["$","a","military",{"href":"/en/tag/military/","className":"tag-pill","children":["#","military"]}],["$","a","human-augmentation",{"href":"/en/tag/human-augmentation/","className":"tag-pill","children":["#","human-augmentation"]}],["$","a","darpa",{"href":"/en/tag/darpa/","className":"tag-pill","children":["#","darpa"]}],["$","a","transhumanism",{"href":"/en/tag/transhumanism/","className":"tag-pill","children":["#","transhumanism"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cyborg-dawn-military-augmentation/","title":"Cyborg Dawn: Military Use Of Human Augmentation Technology"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cyborg-dawn-military-augmentation/","title":"Cyborg Dawn: Military Use Of Human Augmentation Technology"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Cyborg Dawn: Military Use Of Human Augmentation Technology | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"How military programs are developing and deploying human augmentation technology that will transform soldiers into cyborgs and civilians into controlled subjects."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"cyborg, military, human-augmentation, darpa, transhumanism"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/cyborg-dawn-military-augmentation/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cyborg-dawn-military-augmentation/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cyborg-dawn-military-augmentation/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cyborg-dawn-military-augmentation/"}],["$","meta","10",{"property":"og:title","content":"Cyborg Dawn: Military Use Of Human Augmentation Technology"}],["$","meta","11",{"property":"og:description","content":"How military programs are developing and deploying human augmentation technology that will transform soldiers into cyborgs and civilians into controlled subjects."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/cyborg-dawn-military-augmentation/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cyborg-dawn-military-augmentation.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Cyborg Dawn: Military Use Of Human Augmentation Technology"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Cyborg Dawn: Military Use Of Human Augmentation Technology"}],["$","meta","25",{"name":"twitter:description","content":"How military programs are developing and deploying human augmentation technology that will transform soldiers into cyborgs and civilians into controlled subjects."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cyborg-dawn-military-augmentation.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

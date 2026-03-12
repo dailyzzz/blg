@@ -1,0 +1,181 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","spike-antibodies-fetal-deaths",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","spike-antibodies-fetal-deaths","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","spike-antibodies-fetal-deaths","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T471a,<h1 id="spike-protein-antibodies-increase-fetal-deaths">Spike Protein ANTIBODIES Increase Fetal Deaths</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul." — Leviticus 17:11</p>
+</blockquote>
+<p>Blood is the covenant substance of Scripture. The life of all flesh resides in the blood — not as metaphor, but as biological and spiritual reality. When God established the blood covenant, He established the principle that blood carries life, transmits identity, and serves as the medium of atonement. The blood that flows between mother and child during pregnancy is a covenant of life — the most intimate biological bond in human existence.</p>
+<p>Now the blood has been turned against the unborn. Not just the spike protein itself — but the antibodies the body produces in response to the spike protein. The immune response that was supposed to be "protection" has become a weapon that attacks the very tissues responsible for sustaining fetal life.</p>
+<p>This is the inversion that the serpent has always pursued: turning the body's own defenses against itself, turning the blood covenant from a channel of life into a channel of death. The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/51-The_Covenant_Blood.mp4">The Covenant Blood</a> speaks directly to this reality — the sacred blood corrupted by a foreign agent. And the ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> reveals the deliberate engineering behind this biological weapon.</p>
+<hr>
+<h2 id="the-critical-distinction-not-just-spike-protein--spike-antibodies">The Critical Distinction: Not Just Spike Protein — Spike ANTIBODIES</h2>
+<h3 id="why-this-finding-changes-everything">Why This Finding Changes Everything</h3>
+<p>The discussion of COVID-19 vaccine harm has focused primarily on the spike protein itself — its toxicity, its persistence, its interaction with ACE2 receptors, its suppression of p53. These are real and documented harms. But the finding that spike protein <em>antibodies</em> — the immune response generated by vaccination — independently increase fetal deaths represents a qualitatively different category of harm.</p>
+<p>Here is why: the entire premise of vaccination is that the antibodies generated by the vaccine provide protection. The antibodies are the product. They are what the vaccine is <em>designed</em> to produce. If the antibodies themselves cause fetal death, then the vaccine is functioning as designed and causing harm simultaneously. The harm is not a side effect — it is the main effect misdirected.</p>
+<h3 id="the-mechanism-molecular-mimicry-and-cross-reactivity">The Mechanism: Molecular Mimicry and Cross-Reactivity</h3>
+<p>The mechanism by which spike protein antibodies harm the fetus involves a phenomenon called <strong>molecular mimicry</strong> or <strong>cross-reactivity.</strong> Here is how it works:</p>
+<ol>
+<li>
+<p><strong>The mRNA vaccine instructs cells to produce spike protein.</strong> This is the designed mechanism.</p>
+</li>
+<li>
+<p><strong>The immune system recognizes spike protein as foreign</strong> and generates antibodies targeting specific regions (epitopes) on the spike protein surface.</p>
+</li>
+<li>
+<p><strong>Some of these epitopes resemble proteins found on human placental tissue.</strong> Specifically, sections of the spike protein share structural similarity with <strong>syncytin-1</strong> — a human endogenous retroviral protein that is essential for placental formation and function.</p>
+</li>
+<li>
+<p><strong>Antibodies targeting these shared epitopes attack both spike protein AND placental tissue.</strong> The immune system cannot distinguish between the foreign spike protein epitope and the similar-looking human placental protein. The antibodies cross-react.</p>
+</li>
+<li>
+<p><strong>The placenta is damaged.</strong> Antibody-mediated immune attack on syncytin-1 and other placental proteins disrupts placental formation, compromises placental blood flow, and can lead to placental insufficiency, fetal growth restriction, and fetal death.</p>
+</li>
+</ol>
+<h3 id="syncytin-1-the-critical-target">Syncytin-1: The Critical Target</h3>
+<p>Syncytin-1 deserves special attention. It is a protein encoded by a human endogenous retrovirus (HERV-W) that has been incorporated into the human genome over evolutionary time. In modern human biology, syncytin-1 performs an essential function: it mediates the fusion of trophoblast cells to form the <strong>syncytiotrophoblast</strong> — the multinucleated layer of the placenta that interfaces with the maternal blood supply.</p>
+<p>Without syncytin-1, the placenta cannot form properly. Without a properly formed placenta, the fetus cannot receive oxygen, nutrients, or immune factors from the mother. Syncytin-1 is, quite literally, essential for human life to begin.</p>
+<p>The structural similarity between regions of the SARS-CoV-2 spike protein and syncytin-1 was identified early in the pandemic by several researchers, including Dr. Wolfgang Wodarg, who raised the alarm before the vaccines were authorized. Their concerns were dismissed by regulatory agencies and fact-checkers as "debunked." The evidence now vindicates their warnings.</p>
+<hr>
+<h2 id="the-research-evidence">The Research Evidence</h2>
+<h3 id="published-findings">Published Findings</h3>
+<p>Multiple lines of evidence support the connection between spike protein antibodies and fetal harm:</p>
+<p><strong>Anti-syncytin-1 antibody detection:</strong> Studies have detected antibodies that cross-react with syncytin-1 in the blood of vaccinated individuals. These antibodies were not present before vaccination and appeared after the immune response to the vaccine was mounted. Their presence indicates that the immune response to spike protein is generating antibodies that recognize and can attack human placental proteins.</p>
+<p><strong>Placental pathology findings:</strong> Pathological examination of placentas from vaccinated mothers who experienced adverse pregnancy outcomes has revealed patterns consistent with immune-mediated damage: inflammation, fibrin deposition, thrombosis (blood clotting), and villitis (inflammation of the placental villi) — all patterns associated with antibody-mediated placental injury.</p>
+<p><strong>Animal studies:</strong> Animal reproductive toxicity studies — including the limited studies Pfizer conducted — showed concerning signals. In Pfizer's own reproductive toxicity study in rats, vaccinated animals showed a statistically significant increase in pre-implantation loss (the failure of fertilized embryos to implant in the uterine wall). Pre-implantation loss is consistent with anti-syncytin-1 antibody activity disrupting the earliest stages of placental formation.</p>
+<p><strong>Epidemiological signals:</strong> Post-marketing surveillance data from multiple countries has shown elevated rates of miscarriage, stillbirth, and neonatal death temporally associated with COVID-19 vaccination during pregnancy. While these signals are disputed by regulatory agencies, the biological mechanism of antibody cross-reactivity provides a plausible causal pathway.</p>
+<hr>
+<h2 id="the-kingston-report-documenting-the-mechanism">The Kingston Report: Documenting the Mechanism</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> has been instrumental in connecting the immunological mechanism to the clinical outcomes.</p>
+<h3 id="the-designed-immune-response-as-weapon">The Designed Immune Response as Weapon</h3>
+<p>Kingston has documented a critical insight: the immune response to the spike protein is not an accident. It is the designed outcome of the vaccine. The antibodies are the product. But the product attacks human tissue. This creates a paradox that the manufacturers cannot resolve:</p>
+<ul>
+<li>If the vaccine generates a strong antibody response (which it was designed to do), those antibodies cross-react with placental tissue and damage the fetus.</li>
+<li>If the vaccine does not generate a strong antibody response, it fails as a vaccine.</li>
+<li>There is no dose at which the vaccine both works as intended AND avoids generating cross-reactive antibodies.</li>
+</ul>
+<p>This is not a manufacturing defect. It is an inherent design flaw. The spike protein was chosen as the antigen for the vaccine because it is the most immunogenic surface protein of SARS-CoV-2. But its immunogenicity includes the capacity to generate antibodies that cross-react with human proteins. This property cannot be separated from the protein's vaccine function.</p>
+<h3 id="the-booster-amplification-effect">The Booster Amplification Effect</h3>
+<p>Kingston has also documented that repeated vaccination (boosters) amplifies the cross-reactivity problem. Each booster stimulates a new round of antibody production. With each round:</p>
+<ul>
+<li><strong>More anti-spike antibodies are produced,</strong> including cross-reactive ones</li>
+<li><strong>Antibody affinity maturation occurs,</strong> meaning antibodies become more tightly binding — including to cross-reactive targets</li>
+<li><strong>IgG4 class switching is triggered,</strong> which changes the functional profile of the antibodies in ways that may paradoxically increase tissue damage through tolerogenic mechanisms</li>
+</ul>
+<p>For women who received multiple doses before or during pregnancy, the concentration of cross-reactive antibodies is higher, the binding affinity is stronger, and the potential for placental damage is greater.</p>
+<hr>
+<h2 id="the-biblical-covenant-of-blood">The Biblical Covenant of Blood</h2>
+<p>The blood covenant between mother and child is the most direct biological expression of God's covenant of life. When God told Abraham, "In thy seed shall all the nations of the earth be blessed" (Genesis 22:18), the blessing was transmitted through the bloodline — through the biological covenant of reproduction that connects every generation to the one before it.</p>
+<p>The attack on this covenant through spike protein antibodies is an assault on the mechanism by which God transmits blessing from one generation to the next. When antibodies generated by a pharmaceutical product attack the placenta — the organ through which life flows from mother to child — the blood covenant is corrupted.</p>
+<h3 id="the-pharmakeia-dimension">The Pharmakeia Dimension</h3>
+<p>Revelation 18:23 warns that "by thy pharmakeia were all nations deceived." The deception in this case is multilayered:</p>
+<ol>
+<li>Women were told the vaccine was safe during pregnancy</li>
+<li>They were told the antibodies the vaccine produced would protect them</li>
+<li>They were not told that those same antibodies could attack their placenta</li>
+<li>They were not told that the spike protein shares structural features with essential placental proteins</li>
+<li>They were not given informed consent because the information required for informed consent was suppressed</li>
+</ol>
+<p>This is pharmakeia — sorcery accomplished through medicine. The potion is the vaccine. The spell is the "safe and effective" mantra. The victim is the unborn child.</p>
+<hr>
+<h2 id="the-scale-of-the-problem">The Scale of the Problem</h2>
+<h3 id="global-vaccination-of-pregnant-women">Global Vaccination of Pregnant Women</h3>
+<p>During the COVID-19 campaign, health authorities worldwide recommended COVID-19 vaccination for pregnant women. The CDC, WHO, ACOG (American College of Obstetricians and Gynecologists), and virtually every major medical body endorsed vaccination during pregnancy. In many cases, pregnant women were specifically targeted for vaccination campaigns, told they were at "elevated risk" from COVID and that vaccination would protect both them and their babies.</p>
+<p>The number of pregnant women who received COVID-19 mRNA vaccines is estimated at tens of millions worldwide. Every one of these women produced spike protein antibodies. Every one of those antibody populations included some proportion of cross-reactive antibodies. Every one of those women's developing babies was exposed to an immune response that included antibodies capable of attacking placental tissue.</p>
+<h3 id="the-data-we-do-not-have">The Data We Do Not Have</h3>
+<p>The full scope of harm may never be known because:</p>
+<ul>
+<li><strong>Miscarriages in the first trimester are common</strong> and often attributed to "natural causes" without investigation</li>
+<li><strong>Stillbirths are attributed to various factors</strong> and vaccination status is rarely investigated as a contributing cause</li>
+<li><strong>Fertility impacts may not manifest immediately</strong> — damage to oocytes (egg cells) from LNP accumulation in the ovaries may affect pregnancies years after vaccination</li>
+<li><strong>Reporting systems are passive</strong> — VAERS, the Yellow Card system, and similar databases only capture a fraction of adverse events</li>
+</ul>
+<hr>
+<h2 id="what-women-and-families-should-know">What Women and Families Should Know</h2>
+<ol>
+<li>
+<p><strong>Spike protein antibodies cross-react with human placental proteins.</strong> This is documented in published research, not speculation.</p>
+</li>
+<li>
+<p><strong>The cross-reactivity was predictable</strong> from the known structural similarity between spike protein and syncytin-1, and it was flagged before the vaccines were authorized.</p>
+</li>
+<li>
+<p><strong>Repeated vaccination amplifies the risk</strong> through antibody amplification and affinity maturation.</p>
+</li>
+<li>
+<p><strong>No mRNA product has been adequately tested for reproductive safety.</strong> Pfizer excluded pregnant women from its clinical trials and the post-marketing pregnancy data shows devastating outcomes in the small number of tracked cases.</p>
+</li>
+<li>
+<p><strong>Future fertility may be affected</strong> by LNP accumulation in the ovaries and by antibody cross-reactivity with reproductive tissue proteins.</p>
+</li>
+<li>
+<p><strong>Informed consent was never provided</strong> because the information needed to give informed consent was suppressed, dismissed, or not generated.</p>
+</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of antibody cross-reactivity and reproductive harm.</li>
+<li>Published research on spike protein and syncytin-1 molecular mimicry</li>
+<li>Pfizer reproductive toxicity study data (submitted to EMA)</li>
+<li>Pfizer Post-Marketing Adverse Event Report (court-ordered release)</li>
+<li>VAERS pregnancy-related adverse event reports</li>
+<li>Placental pathology studies in vaccinated populations</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The injection system that targets the bloodline</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> — The deliberate engineering of biological harm</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/41-Shedding_Proof.mp4">Shedding Proof</a> — Vaccine components and antibodies transmitting between people</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — The sacred blood covenant corrupted by a foreign agent</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> — The life that was meant to flow uncontaminated</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/pfizer-denies-birth-defects/?lang=en">Pfizer Denies Significant Increased Rate of Birth Defects</a> — Pfizer's denial and the documented reality</li>
+<li><a href="/women-hospitalized-mrna-vaccination/?lang=en">Study of 4,610 Women Hospitalized After mRNA Vaccination</a> — The documented toll on women</li>
+<li><a href="/first-increase-infant-deaths-2022/?lang=en">2022 Was The First Increase in Infant Deaths in Decades</a> — The post-vaccination infant mortality signal</li>
+<li><a href="/vaccines-infant-deaths-impossible/?lang=en">Why It's NOT Possible for Vaccines to Not Cause Infant Deaths</a> — The immunological impossibility of zero harm</li>
+</ul>
+<hr>
+<p><em>The blood covenant between mother and child was designed by God to carry life from one generation to the next. Now the body's own immune response — engineered by a pharmaceutical product — turns that covenant into an attack on the unborn. But the same God who designed the blood covenant also designed its Redeemer. "The blood of Jesus Christ his Son cleanseth us from all sin" (1 John 1:7). The blood that was meant to carry life will carry life again. The covenant will be restored.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Spike Protein ANTIBODIES Increase Fetal Deaths"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Research reveals that antibodies generated against the spike protein are themselves causing fetal deaths through cross-reactivity with placental proteins."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-14T10:00:00Z","children":"April 14, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","spike-protein",{"href":"/en/tag/spike-protein/","className":"tag-pill","children":["#","spike-protein"]}],["$","a","antibodies",{"href":"/en/tag/antibodies/","className":"tag-pill","children":["#","antibodies"]}],["$","a","fetal-deaths",{"href":"/en/tag/fetal-deaths/","className":"tag-pill","children":["#","fetal-deaths"]}],["$","a","pregnancy",{"href":"/en/tag/pregnancy/","className":"tag-pill","children":["#","pregnancy"]}],["$","a","autoimmunity",{"href":"/en/tag/autoimmunity/","className":"tag-pill","children":["#","autoimmunity"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/spike-antibodies-fetal-deaths/","title":"Spike Protein ANTIBODIES Increase Fetal Deaths"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/spike-antibodies-fetal-deaths/","title":"Spike Protein ANTIBODIES Increase Fetal Deaths"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Spike Protein ANTIBODIES Increase Fetal Deaths | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Research reveals that antibodies generated against the spike protein are themselves causing fetal deaths through cross-reactivity with placental proteins."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"spike-protein, antibodies, fetal-deaths, pregnancy, autoimmunity"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/spike-antibodies-fetal-deaths/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/spike-antibodies-fetal-deaths/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/spike-antibodies-fetal-deaths/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/spike-antibodies-fetal-deaths/"}],["$","meta","10",{"property":"og:title","content":"Spike Protein ANTIBODIES Increase Fetal Deaths"}],["$","meta","11",{"property":"og:description","content":"Research reveals that antibodies generated against the spike protein are themselves causing fetal deaths through cross-reactivity with placental proteins."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/spike-antibodies-fetal-deaths/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/spike-antibodies-fetal-deaths.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Spike Protein ANTIBODIES Increase Fetal Deaths"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Spike Protein ANTIBODIES Increase Fetal Deaths"}],["$","meta","25",{"name":"twitter:description","content":"Research reveals that antibodies generated against the spike protein are themselves causing fetal deaths through cross-reactivity with placental proteins."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/spike-antibodies-fetal-deaths.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

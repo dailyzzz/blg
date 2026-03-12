@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","toxic-homes-houses-poisonous",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","toxic-homes-houses-poisonous","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","toxic-homes-houses-poisonous","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T31b1,<h1 id="our-toxic-homes-how-modern-houses-became-poisonous">Our TOXIC HOMES: How Modern Houses Became POISONOUS</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"Woe unto them that join house to house, that lay field to field, till there be no place."</em> — Isaiah 5:8</p>
+</blockquote>
+<p>Your home is supposed to be your sanctuary. Instead, it is a sealed box filled with toxic chemicals. The building materials, the furniture, the paint, the carpet, the cleaning products — every element of the modern home off-gases chemicals that accumulate in the air you breathe for eight to sixteen hours every day. Indoor air quality is, on average, two to five times worse than outdoor air quality. In some homes, it is one hundred times worse.</p>
+<p>Howard Pittman's NDE revealed a spiritual realm where systems of destruction operate invisibly. Three heavens. Demonic hierarchy. 97.5 percent of Christians rejected. 95 percent serve "self." Every word matters (Matthew 12:36-37). The toxification of the home — the most intimate human space — is one of the invisible systems through which the principalities and powers of Ephesians 6:12 wage war on human health and consciousness.</p>
+<p>The Jesuits — Loyola's military organization of "absolute power" (Napoleon), governing "all the world" (Tamburini) — have historically understood that control of the environment controls the population. <em>Catholic Confidential</em> reveals their infiltration "cloaked with cunning." The toxification of homes is not a Jesuit plot in the direct sense, but it is the product of the institutional industrial system whose foundations the Jesuits helped lay — a system that prioritizes profit, control, and material bondage over human wellbeing.</p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4" type="video/mp4">
+</video>
+<p><em>Cast Out of Paradise — from the Confliction album</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4" type="video/mp4">
+</video>
+<p><em>The Deceiver's Lies — from the Confliction album</em></p>
+<hr>
+<h2 id="the-chemical-cocktail">The Chemical Cocktail</h2>
+<h3 id="formaldehyde-the-embalming-agent-in-your-walls">Formaldehyde: The Embalming Agent in Your Walls</h3>
+<p>Formaldehyde is a known carcinogen classified by the World Health Organization as a Group 1 human carcinogen. It is also one of the most common chemicals in building materials. Plywood, particleboard, MDF, laminate flooring, insulation, and adhesives all contain formaldehyde-based resins that off-gas into the home for years after installation.</p>
+<p>New homes are particularly dangerous. The "new house smell" that many homeowners enjoy is, in large part, formaldehyde and other volatile organic compounds (VOCs) being released from freshly installed materials. This off-gassing is most intense in the first year but continues at lower levels for up to a decade.</p>
+<p>The EPA estimates that the average American spends 90 percent of their time indoors. This means that the average American breathes formaldehyde-contaminated air for roughly 22 hours per day. The cumulative exposure over a lifetime — decades of breathing a known carcinogen in the place where you feel safest — is staggering.</p>
+<h3 id="flame-retardants-the-silent-disruptor">Flame Retardants: The Silent Disruptor</h3>
+<p>Flame retardant chemicals are embedded in furniture foam, mattresses, carpet padding, electronics, and children's products. These chemicals — primarily PBDEs (polybrominated diphenyl ethers) and organophosphate flame retardants — are endocrine disruptors linked to thyroid problems, neurological damage, reproductive issues, and cancer.</p>
+<p>The flame retardant industry was built on a lie. In the 1970s, the tobacco industry funded research to deflect attention from cigarettes as a cause of house fires. Instead of addressing the real fire risk (cigarettes), the industry lobbied for flame retardant requirements in furniture — creating a vast market for chemical manufacturers while filling homes with toxic compounds that migrate out of products and into house dust.</p>
+<p>Children, who play on floors and put objects in their mouths, have the highest exposure to flame retardants. Studies have found flame retardant metabolites in the urine of virtually every American child tested. The long-term health consequences of this universal childhood exposure are still being discovered.</p>
+<p>Agent131711 documents on Substack (agent131711.substack.com) how the chemical industry, the tobacco industry, and the regulatory agencies formed an alliance that prioritized commercial interests over public health. This alliance — a textbook example of the institutional capture that characterizes the Saturn system — ensured that homes would be filled with toxic chemicals for decades.</p>
+<h3 id="vocs-the-invisible-cloud">VOCs: The Invisible Cloud</h3>
+<p>Volatile organic compounds (VOCs) are emitted by paint, cleaning products, air fresheners, new furniture, dry-cleaned clothing, personal care products, and dozens of other household items. Common VOCs include benzene (a carcinogen), toluene (a neurotoxin), xylene (causes respiratory damage), and ethylene glycol (causes kidney damage).</p>
+<p>The average home contains hundreds of VOC sources. The combined off-gassing from all these sources creates an invisible chemical cloud that the home's occupants breathe continuously. Modern homes, built to be energy-efficient, are sealed tightly — which traps VOCs inside, creating concentrations far higher than would exist in a naturally ventilated building.</p>
+<p>The "sick building syndrome" identified in the 1980s is not limited to office buildings. Homes are sick buildings too. The symptoms — headaches, fatigue, respiratory problems, cognitive impairment, chronic illness — are accepted as normal by a population that does not realize its home is the cause.</p>
+<h2 id="how-homes-became-toxic">How Homes Became Toxic</h2>
+<h3 id="the-industrial-revolutions-legacy">The Industrial Revolution's Legacy</h3>
+<p>Pre-industrial homes were built with natural materials: wood, stone, clay, straw, lime plaster. These materials do not off-gas toxic chemicals. They breathe — allowing moisture and air to move through walls, maintaining a natural equilibrium that modern sealed homes cannot achieve.</p>
+<p>The industrial revolution introduced synthetic materials: plastics, petroleum-based adhesives, chemical-treated lumber, synthetic insulation, petrochemical paints. Each innovation was marketed as an improvement — stronger, cheaper, longer-lasting. The toxicological consequences were either unknown or ignored.</p>
+<p>The Jesuits, who helped industrialize the educational system through their <em>Ratio Studiorum</em>, contributed to the intellectual framework that prioritized technological progress over human wellbeing. The Enlightenment, which the Jesuits both advanced and co-opted, taught that nature is a resource to be exploited, not a system to be respected. This philosophy produced the industrial home — a machine for living, as Le Corbusier called it — that is now poisoning its occupants.</p>
+<h3 id="regulatory-failure">Regulatory Failure</h3>
+<p>The Toxic Substances Control Act (TSCA) of 1976 — the primary U.S. law governing chemicals — grandfathered in over 60,000 chemicals without requiring safety testing. Of the approximately 85,000 chemicals currently in commercial use, fewer than 1 percent have been thoroughly tested for health effects.</p>
+<p>This means that the chemicals in your home — in your walls, your furniture, your air — have never been proven safe. They are in use because they were never proven dangerous to the satisfaction of a regulatory system designed to protect industry, not consumers.</p>
+<p>Howard Pittman's 97.5 percent rejection rate reflects a population that trusts the system — that breathes what the system provides, eats what the system serves, and believes what the system teaches — without questioning whether the system serves their interests or its own.</p>
+<h2 id="detoxifying-your-home">Detoxifying Your Home</h2>
+<h3 id="practical-steps">Practical Steps</h3>
+<ol>
+<li>
+<p><strong>Ventilate</strong>: Open windows regularly, even in winter. Cross-ventilation reduces indoor VOC concentrations dramatically.</p>
+</li>
+<li>
+<p><strong>Choose natural materials</strong>: When building or renovating, use solid wood, natural stone, clay plaster, and zero-VOC paints.</p>
+</li>
+<li>
+<p><strong>Remove carpet</strong>: Carpet traps dust, flame retardants, and VOCs. Replace with hard flooring.</p>
+</li>
+<li>
+<p><strong>Eliminate air fresheners</strong>: Synthetic fragrances are one of the most concentrated VOC sources in the home.</p>
+</li>
+<li>
+<p><strong>Use natural cleaning products</strong>: Vinegar, baking soda, and castile soap replace the vast majority of chemical cleaners.</p>
+</li>
+<li>
+<p><strong>Air purification</strong>: HEPA filters and activated carbon filters remove particulates and some VOCs from indoor air.</p>
+</li>
+<li>
+<p><strong>Houseplants</strong>: Certain plants — spider plants, peace lilies, snake plants — have been shown to absorb formaldehyde and other VOCs.</p>
+</li>
+</ol>
+<h3 id="the-spiritual-dimension">The Spiritual Dimension</h3>
+<p>Your home is your temple. In scripture, the body is called the temple of the Holy Spirit (1 Corinthians 6:19), and the home is the temple of the body. A toxic home produces a toxic body, which affects the spirit. The poisoning of domestic space is, in spiritual terms, the desecration of the temple — an act of warfare by the principalities and powers that seek to destroy humanity through every available mechanism.</p>
+<p>Detoxifying your home is a spiritual act. It is a reclamation of sacred space from the industrial system that has profaned it. Every natural material chosen, every chemical eliminated, every window opened is an act of resistance against the Saturn system's program of material bondage and physical degradation.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+<li><strong>Agent131711 Substack</strong>: <a href="https://agent131711.substack.com">agent131711.substack.com</a> — Research on indoor toxicity and industrial chemical exposure</li>
+<li><strong>Howard Pittman NDE Testimony</strong>: <a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Watch on YouTube</a> — The spiritual dimension of environmental poisoning</li>
+<li><strong>Catholic Confidential: Deplorable Jesuit Secrets Revealed</strong>: <a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Watch on YouTube</a> — Institutional systems of environmental control</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceiver's Lies</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/65-Smart_Dust.mp4">Smart Dust</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/351-Broken_Weather.mp4">Broken Weather</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/135-Food_Price_Shadow_Industry.mp4">Food Price Shadow Industry</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/farm-disease-toxic-mold/?lang=en">FARM DISEASE: The Toxic Mold Crisis Nobody Talks About</a></li>
+<li><a href="/black-mold-hoax/?lang=en">Is Harmful Black Mold Actually a HOAX: The Evidence</a></li>
+<li><a href="/rice-poisoned/?lang=en">RICE HAS BEEN POISONED: What You Need to Know</a></li>
+</ul>
+<p><em>Your home is poisoning you. Slowly, invisibly, continuously. The air you breathe while you sleep, while you eat, while you pray — that air carries the residue of an industrial system that values profit over life. Reclaim your space. Open the windows. Choose natural over synthetic. Make your home a sanctuary again — not for comfort, but for truth, for health, and for the Spirit that cannot dwell in a temple filled with poison.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/food-environment/","className":"category-badge","children":"food-environment"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Our TOXIC HOMES: How Modern Houses Became POISONOUS"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Your home is poisoning you with VOCs, formaldehyde, and flame retardants. Discover how the Jesuit-connected industrial system toxified shelter."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-07T10:00:00Z","children":"May 7, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","toxic-homes",{"href":"/en/tag/toxic-homes/","className":"tag-pill","children":["#","toxic-homes"]}],["$","a","indoor-pollution",{"href":"/en/tag/indoor-pollution/","className":"tag-pill","children":["#","indoor-pollution"]}],["$","a","voc",{"href":"/en/tag/voc/","className":"tag-pill","children":["#","voc"]}],["$","a","formaldehyde",{"href":"/en/tag/formaldehyde/","className":"tag-pill","children":["#","formaldehyde"]}],["$","a","health",{"href":"/en/tag/health/","className":"tag-pill","children":["#","health"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/toxic-homes-houses-poisonous/","title":"Our TOXIC HOMES: How Modern Houses Became POISONOUS"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/toxic-homes-houses-poisonous/","title":"Our TOXIC HOMES: How Modern Houses Became POISONOUS"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Our TOXIC HOMES: How Modern Houses Became POISONOUS | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Your home is poisoning you with VOCs, formaldehyde, and flame retardants. Discover how the Jesuit-connected industrial system toxified shelter."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"toxic-homes, indoor-pollution, voc, formaldehyde, health"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/toxic-homes-houses-poisonous/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/toxic-homes-houses-poisonous/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/toxic-homes-houses-poisonous/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/toxic-homes-houses-poisonous/"}],["$","meta","10",{"property":"og:title","content":"Our TOXIC HOMES: How Modern Houses Became POISONOUS"}],["$","meta","11",{"property":"og:description","content":"Your home is poisoning you with VOCs, formaldehyde, and flame retardants. Discover how the Jesuit-connected industrial system toxified shelter."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/toxic-homes-houses-poisonous/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/toxic-homes-houses-poisonous.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Our TOXIC HOMES: How Modern Houses Became POISONOUS"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Our TOXIC HOMES: How Modern Houses Became POISONOUS"}],["$","meta","25",{"name":"twitter:description","content":"Your home is poisoning you with VOCs, formaldehyde, and flame retardants. Discover how the Jesuit-connected industrial system toxified shelter."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/toxic-homes-houses-poisonous.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","tin-foil-hat-boston-cia",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","tin-foil-hat-boston-cia","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","tin-foil-hat-boston-cia","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T349b,<h1 id="the-tin-foil-hat-boston-city-hospital-and-the-cia-connection">THE TIN FOIL HAT: Boston City Hospital and the CIA Connection</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?"</em> — Isaiah 29:15</p>
+</blockquote>
+<p>The "tin foil hat" is one of the most effective memes ever deployed against critical thinking. It has become universal shorthand for "crazy person" — a single image that discredits any concern about electromagnetic surveillance, mind control, or directed energy weapons. The moment anyone raises these topics, the tin foil hat meme activates, and the conversation is over.</p>
+<p>But what if the tin foil hat has a real origin? What if patients at a specific hospital were given metallic shielding by researchers who knew they were being subjected to electromagnetic experiments? What if the meme was deliberately created and propagated to discredit anyone who discovered the truth about electromagnetic weapons?</p>
+<p>This article traces the connection between Boston City Hospital, CIA-funded electromagnetic experiments, and the deliberate weaponization of the tin foil hat meme against public awareness of real technology.</p>
+<p>Howard Pittman was shown that demonic forces operate through deception systems so pervasive that even pointing them out triggers ridicule. The tin foil hat meme is such a system — it transforms legitimate concern into comedy, serious research into parody, and real victims into punchlines. The 97.5% who are failing laugh at the tin foil hat because they have been programmed to laugh. And in laughing, they ensure that the technology aimed at them remains hidden.</p>
+<p>The Jesuits' infiltration "cloaked with cunning" includes the weaponization of ridicule. Napoleon's "absolute power" is maintained not just through force but through mockery of those who resist. The tin foil hat is the Jesuit cloak — it makes the truth invisible by making it laughable.</p>
+<hr>
+<h2 id="boston-city-hospital-and-the-cia">Boston City Hospital and the CIA</h2>
+<h3 id="the-hospital-experiments">The Hospital Experiments</h3>
+<p>Boston City Hospital (now Boston Medical Center) was one of numerous medical institutions that participated in CIA-funded research during the Cold War. The scope of these experiments included:</p>
+<ul>
+<li><strong>Electromagnetic radiation effects</strong> on human subjects</li>
+<li><strong>Drug administration</strong> without informed consent</li>
+<li><strong>Behavioral modification</strong> through physical and psychological manipulation</li>
+<li><strong>Electroconvulsive therapy</strong> at experimental parameters</li>
+</ul>
+<p>Patients at the hospital — many of them poor, minority, or psychiatric patients who could not advocate for themselves — were subjected to experiments they did not understand and did not consent to. This was standard practice during the MKUltra era: the most vulnerable members of society were used as laboratory animals by the most powerful institutions in America.</p>
+<h3 id="the-shielding-connection">The Shielding Connection</h3>
+<p>During electromagnetic experiments, researchers would have needed to establish baselines — determining the effects of electromagnetic radiation on subjects with and without shielding. Metal foil (aluminum or tin) is an effective electromagnetic shield. Patients or subjects who were provided with metallic shielding as part of experimental protocols would have appeared to be wearing "tin foil hats."</p>
+<p>If patients subsequently reported that metallic shielding reduced the effects of electromagnetic targeting — which it would, given basic physics — they would have been ridiculed for this claim. The ridiculing of metallic shielding as "crazy" served the double purpose of discrediting the patients' testimony and deterring others from attempting to shield themselves against electromagnetic weapons.</p>
+<h3 id="the-meme-weaponization">The Meme Weaponization</h3>
+<p>The deliberate propagation of the tin foil hat meme followed the standard intelligence community playbook for discrediting unwanted information:</p>
+<ol>
+<li><strong>Identify the threat</strong>: People discovering that electromagnetic weapons exist and that metallic shielding provides protection</li>
+<li><strong>Create the meme</strong>: Associate metallic shielding with insanity through media, comedy, and cultural repetition</li>
+<li><strong>Propagate widely</strong>: Ensure the meme penetrates every level of culture — movies, TV shows, social media, casual conversation</li>
+<li><strong>Automatic discrediting</strong>: Any person who discusses electromagnetic weapons triggers the meme, ending conversation before it begins</li>
+</ol>
+<p>This playbook was developed by the CIA for COINTELPRO and related programs. The tin foil hat meme is one of its most successful products — a cultural weapon that has protected classified technology from public scrutiny for decades.</p>
+<h2 id="the-science-of-electromagnetic-shielding">The Science of Electromagnetic Shielding</h2>
+<h3 id="faraday-cages-are-real">Faraday Cages Are Real</h3>
+<p>Electromagnetic shielding is not pseudoscience. It is established physics, used by:</p>
+<ul>
+<li><strong>Military facilities</strong>: Sensitive Compartmented Information Facilities (SCIFs) use electromagnetic shielding to prevent electronic surveillance</li>
+<li><strong>Intelligence agencies</strong>: CIA and NSA offices use Faraday cages to protect against electromagnetic espionage</li>
+<li><strong>Corporate research labs</strong>: Companies use electromagnetic shielding to protect proprietary information</li>
+<li><strong>MRI facilities</strong>: MRI rooms are shielded to prevent electromagnetic interference</li>
+<li><strong>Electronic testing</strong>: Anechoic chambers use electromagnetic shielding for testing electronic equipment</li>
+</ul>
+<p>When a government facility uses electromagnetic shielding, it is called "national security." When a citizen uses electromagnetic shielding, it is called "tin foil hat." The physics is identical. The social treatment is opposite.</p>
+<h3 id="what-shielding-can-and-cannot-do">What Shielding Can and Cannot Do</h3>
+<p>Aluminum foil does provide some electromagnetic shielding, but its effectiveness depends on:</p>
+<ul>
+<li><strong>Frequency of the signal</strong>: Foil is more effective against higher frequencies</li>
+<li><strong>Coverage</strong>: Partial coverage (a hat) provides less protection than full enclosure (a Faraday cage)</li>
+<li><strong>Grounding</strong>: Proper electromagnetic shielding requires grounding — simply wearing foil on the head is less effective than a grounded enclosure</li>
+<li><strong>Thickness</strong>: Thicker material provides better shielding</li>
+</ul>
+<p>A proper Faraday cage — a fully enclosed, grounded metallic enclosure — provides excellent electromagnetic shielding. This is why sensitive government and military facilities use them. The "tin foil hat" is a crude approximation that provides limited protection — but the principle behind it is scientifically sound.</p>
+<h2 id="the-broader-pattern-weaponized-ridicule">The Broader Pattern: Weaponized Ridicule</h2>
+<h3 id="the-cia-and-cultural-manipulation">The CIA and Cultural Manipulation</h3>
+<p>The CIA has a documented history of cultural manipulation:</p>
+<ul>
+<li><strong>Operation Mockingbird</strong>: The CIA infiltrated major media organizations and placed assets in newsrooms to shape public narratives</li>
+<li><strong>MKUltra and Hollywood</strong>: CIA-connected producers and writers shaped entertainment narratives that mocked conspiracy theories and promoted trust in government</li>
+<li><strong>The term "conspiracy theory"</strong>: A CIA document from 1967 (dispatch 1035-960) outlined strategies for discrediting critics of the Warren Commission report, including promoting the use of the term "conspiracy theory" to dismiss unwanted investigations</li>
+</ul>
+<p>The tin foil hat meme fits perfectly within this history. It was not an organic cultural development — it was a manufactured tool for discrediting anyone who discovered the truth about electromagnetic weapons.</p>
+<h3 id="how-ridicule-controls-behavior">How Ridicule Controls Behavior</h3>
+<p>Ridicule is one of the most powerful social control mechanisms:</p>
+<ul>
+<li><strong>Fear of ridicule</strong> prevents people from investigating forbidden topics</li>
+<li><strong>Preemptive ridicule</strong> discredits ideas before they can be evaluated</li>
+<li><strong>Social enforcement</strong> — peers who have internalized the ridicule enforce it on others</li>
+<li><strong>Self-censorship</strong> — people who discover the truth choose silence over social ostracism</li>
+</ul>
+<p>The tin foil hat meme activates all of these mechanisms simultaneously. The mere thought of electromagnetic shielding triggers the meme, which triggers the fear of ridicule, which triggers self-censorship. The technology remains hidden not because it is secret, but because anyone who discusses it is automatically discredited.</p>
+<h2 id="the-spiritual-dimension">The Spiritual Dimension</h2>
+<h3 id="truth-vs-ridicule">Truth vs. Ridicule</h3>
+<p>Howard Pittman was told that the spiritual realm is the true reality and that deception is the primary weapon of the demonic hierarchy. Ridicule is a form of deception — it substitutes emotional reaction for rational evaluation. The tin foil hat meme prevents rational evaluation of electromagnetic weapons by triggering an emotional response (laughter, contempt, embarrassment) before the evidence can be examined.</p>
+<p>Scripture warns against those who "seek deep to hide their counsel from the Lord." The CIA's electromagnetic weapons programs are hidden deep — behind classification, disinformation, and the tin foil hat meme. But Isaiah's warning applies: God sees what they do in the dark. And the truth, as Pittman was shown, will ultimately prevail.</p>
+<p>The Jesuits' practice of "every species of vice" includes the vice of mockery — using ridicule to silence truth. Their infiltration "cloaked with cunning" uses the tin foil hat as one of many cloaks. And the 97.5% who are failing continue to laugh at a meme that was designed to keep them enslaved.</p>
+<p>Do not fear ridicule. Fear ignorance. The truth about electromagnetic weapons is documented in patents, military records, congressional testimony, and the lived experience of thousands of targeted individuals. The tin foil hat meme cannot erase that truth. It can only delay its recognition.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — Boston City Hospital CIA connection and tin foil hat origin research</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — truth vs. ridicule in spiritual warfare</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit use of ridicule as a control mechanism</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- CIA dispatch 1035-960 (1967) — conspiracy theory discrediting guidelines</li>
+<li>Operation Mockingbird documentation</li>
+<li>MKUltra declassified records</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/schizophrenia-mental-illness-psyop-part6/?lang=en">Schizophrenia: The Mental Illness PSYOP Part 6</a></li>
+<li><a href="/voice-skull-patents-part10/?lang=en">Voice 2 Skull: The PATENTS That Prove It's Real Part 10</a></li>
+<li><a href="/v2k-hearing-music-part1/?lang=en">My V2K Story: Hearing Music That Isn't There Part 1</a></li>
+</ul>
+<p><em>The tin foil hat is not a joke. It is a weapon — a cultural weapon designed to silence anyone who discovers the truth about electromagnetic targeting. The joke is on us: while we laugh, the technology advances, the targeting continues, and the truth remains hidden behind a meme. Stop laughing. Start researching. The patents are real. The weapons are real. And the people wearing the foil were right.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"THE TIN FOIL HAT: Boston City Hospital and the CIA Connection"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The 'tin foil hat' meme was not born from paranoia — it was born at Boston City Hospital, where the CIA conducted electromagnetic experiments on patients."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-23T10:00:00Z","children":"December 23, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","tin-foil-hat",{"href":"/en/tag/tin-foil-hat/","className":"tag-pill","children":["#","tin-foil-hat"]}],["$","a","CIA",{"href":"/en/tag/CIA/","className":"tag-pill","children":["#","CIA"]}],["$","a","boston-city-hospital",{"href":"/en/tag/boston-city-hospital/","className":"tag-pill","children":["#","boston-city-hospital"]}],["$","a","electromagnetic-shielding",{"href":"/en/tag/electromagnetic-shielding/","className":"tag-pill","children":["#","electromagnetic-shielding"]}],["$","a","MKUltra",{"href":"/en/tag/MKUltra/","className":"tag-pill","children":["#","MKUltra"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/tin-foil-hat-boston-cia/","title":"THE TIN FOIL HAT: Boston City Hospital and the CIA Connection"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/tin-foil-hat-boston-cia/","title":"THE TIN FOIL HAT: Boston City Hospital and the CIA Connection"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"THE TIN FOIL HAT: Boston City Hospital and the CIA Connection | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The 'tin foil hat' meme was not born from paranoia — it was born at Boston City Hospital, where the CIA conducted electromagnetic experiments on patients."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"tin-foil-hat, CIA, boston-city-hospital, electromagnetic-shielding, MKUltra"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/tin-foil-hat-boston-cia/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/tin-foil-hat-boston-cia/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/tin-foil-hat-boston-cia/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/tin-foil-hat-boston-cia/"}],["$","meta","10",{"property":"og:title","content":"THE TIN FOIL HAT: Boston City Hospital and the CIA Connection"}],["$","meta","11",{"property":"og:description","content":"The 'tin foil hat' meme was not born from paranoia — it was born at Boston City Hospital, where the CIA conducted electromagnetic experiments on patients."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/tin-foil-hat-boston-cia/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/tin-foil-hat-boston-cia.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"THE TIN FOIL HAT: Boston City Hospital and the CIA Connection"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"THE TIN FOIL HAT: Boston City Hospital and the CIA Connection"}],["$","meta","25",{"name":"twitter:description","content":"The 'tin foil hat' meme was not born from paranoia — it was born at Boston City Hospital, where the CIA conducted electromagnetic experiments on patients."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/tin-foil-hat-boston-cia.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

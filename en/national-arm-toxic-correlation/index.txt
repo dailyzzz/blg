@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","national-arm-toxic-correlation",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","national-arm-toxic-correlation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","national-arm-toxic-correlation","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3491,<h1 id="national-arm-exposes-toxic-correlation-between-vaccines-and-injury">National ARM Exposes Toxic Correlation Between Vaccines and Injury</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"By their fruits ye shall know them." -- Matthew 7:20</p>
+</blockquote>
+<p>A tree is known by its fruit. A product is known by its outcomes. A medical intervention is known by its effects on those who receive it. The fruit of the mRNA vaccine deployment is now measurable, documented, and undeniable: a surge of injuries, disabilities, and deaths that correlates with mathematical precision to the timing, distribution, and dosage of the products.</p>
+<p>National ARM (Adverse Reaction Monitoring) has assembled the statistical evidence that the medical establishment refuses to examine. Their analysis demonstrates what darkfield microscopy reveals and what patients experience: the vaccines are causing harm at a scale that no pharmaceutical product in history has ever approached.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a> from the Confliction album declares, the fruit of the serpent's offering is always death. And as <a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> warns, the deception always promises benefit while delivering destruction.</p>
+<hr>
+<h2 id="the-statistical-evidence">The Statistical Evidence</h2>
+<h3 id="adverse-event-reporting-systems">Adverse Event Reporting Systems</h3>
+<p>Multiple national adverse event reporting systems have captured unprecedented volumes of reports following COVID-19 vaccination:</p>
+<p><strong>VAERS (Vaccine Adverse Event Reporting System, United States)</strong></p>
+<p>The U.S. VAERS database, jointly managed by the CDC and FDA, has received more adverse event reports for COVID-19 vaccines than for all other vaccines combined over the entire 30+ year history of the reporting system. Reports include:</p>
+<ul>
+<li>Over 35,000 reports of death</li>
+<li>Over 200,000 reports of hospitalization</li>
+<li>Over 60,000 reports of permanent disability</li>
+<li>Over 45,000 reports of life-threatening events</li>
+<li>Over 17,000 reports of myocarditis/pericarditis</li>
+<li>Over 15,000 reports of heart attack</li>
+</ul>
+<p>Published research estimates that VAERS captures only 1-10% of actual adverse events (the "underreporting factor"), meaning the true numbers may be 10 to 100 times higher than the reported figures.</p>
+<p><strong>EudraVigilance (European Union)</strong></p>
+<p>The European adverse event database has recorded millions of adverse event reports, including tens of thousands of fatalities.</p>
+<p><strong>Yellow Card (United Kingdom)</strong></p>
+<p>The UK's reporting system mirrors the patterns seen in VAERS and EudraVigilance, with disproportionate adverse event reporting for COVID-19 vaccines.</p>
+<h3 id="national-arms-analysis">National ARM's Analysis</h3>
+<p>National ARM has conducted rigorous statistical analysis of these adverse event databases, cross-referenced with vaccination deployment data, demographic data, and all-cause mortality records. Their key findings include:</p>
+<p><strong>Temporal Correlation</strong></p>
+<p>Adverse events cluster tightly around vaccination dates. The highest concentration of reports occurs within 48 hours of injection, with a secondary peak at 7-14 days. This temporal clustering is the hallmark of causation -- it demonstrates that the events are directly associated with the product, not random background occurrences.</p>
+<p><strong>Dose-Response Relationship</strong></p>
+<p>The risk of adverse events increases with each successive dose. Individuals who received three or more doses show significantly higher rates of serious adverse events than those who received one or two doses. This dose-response relationship is a classical indicator of toxic causation.</p>
+<p><strong>Lot Variability</strong></p>
+<p>Different manufacturing lots (batches) of the same product show dramatically different adverse event rates. Some lots are associated with hundreds of adverse event reports while others show near-zero reports. This variability suggests either inconsistent manufacturing quality or intentional variation -- a pattern consistent with dose-finding studies conducted on an unwitting population.</p>
+<p><strong>Age and Gender Patterns</strong></p>
+<p>Young males show the highest rates of myocarditis, while females show higher rates of autoimmune and reproductive adverse events. These demographic patterns are consistent with the known biological effects of spike protein and lipid nanoparticle distribution in different body types.</p>
+<p><strong>All-Cause Mortality Correlation</strong></p>
+<p>All-cause mortality in highly vaccinated countries shows statistically significant increases that correlate with the timing of vaccination campaigns. These increases persist beyond the initial vaccination period, consistent with ongoing biological effects from persistent nanotechnology and/or self-amplifying mRNA activity.</p>
+<p>Ana Mihalcea, MD, PhD, has published on her Substack (anamihalceamdphd.substack.com) clinical evidence that directly connects the statistical patterns identified by National ARM with the physical evidence of nanotechnology contamination in patient blood. The adverse events documented in databases correlate with the nanotechnology load and self-assembly activity documented under darkfield microscopy, providing the physical mechanism for the statistical patterns.</p>
+<h2 id="the-suppression-of-evidence">The Suppression of Evidence</h2>
+<h3 id="how-the-signal-is-hidden">How the Signal Is Hidden</h3>
+<p>Despite the unprecedented volume and severity of adverse event reports, the signal has been systematically suppressed:</p>
+<p><strong>Definitional Manipulation</strong></p>
+<p>The definition of "vaccinated" was manipulated to exclude individuals within 14 days of injection from the vaccinated cohort. Since the highest concentration of adverse events occurs within this window, this definitional trick transfers the most severe vaccine-caused events to the "unvaccinated" category, creating the false appearance that vaccines reduce rather than increase adverse events.</p>
+<p><strong>Database Manipulation</strong></p>
+<p>Reports in VAERS and other databases have been retroactively modified, reclassified, or removed. Researchers who have monitored specific reports over time have documented the disappearance of reports from the system.</p>
+<p><strong>Causation Denial</strong></p>
+<p>Despite meeting every classical epidemiological criterion for causation (temporal relationship, dose-response, biological plausibility, consistency across populations), the adverse event signal has been dismissed as "coincidental" by regulatory agencies that refuse to conduct the causal investigations that would confirm what the data already demonstrates.</p>
+<p><strong>Media Suppression</strong></p>
+<p>Media coverage of vaccine adverse events has been systematically suppressed through social media censorship, search engine de-ranking, and institutional pressure on journalists and publications.</p>
+<h2 id="the-prophetic-connection">The Prophetic Connection</h2>
+<h3 id="pharmakeia-and-the-body-count">Pharmakeia and the Body Count</h3>
+<p>The adverse event data documented by National ARM is the body count of pharmakeia. Revelation 18:23 warns that all nations would be deceived by pharmaceutical sorcery. The deception includes not only the concealment of nanotechnology in the products but the concealment of the harm those products cause.</p>
+<p>The statistical evidence is a form of testimony -- numbers that speak for those who can no longer speak for themselves. Every death report in VAERS represents a person. Every disability report represents a life diminished. Every hospitalization report represents suffering that was caused by a product that was declared safe by institutions that knew or should have known better.</p>
+<p>The blood covenant corruption documented throughout our research has a body count. National ARM is counting it. And God is recording it.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>VAERS (Vaccine Adverse Event Reporting System) data analysis</p>
+</li>
+<li>
+<p>EudraVigilance and Yellow Card adverse event data</p>
+</li>
+<li>
+<p>National ARM statistical analysis and publications</p>
+</li>
+<li>
+<p>Lazarus, R., et al., "Electronic Support for Public Health-Vaccine Adverse Event Reporting System (ESP:VAERS)," Harvard Pilgrim Health Care, Inc., 2010 (documenting VAERS underreporting)</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, clinical correlation with statistical data</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> -- The pharmaceutical product causing the injuries</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/165-Event_201_Came_True.mp4">Event 201 Came True</a> -- The pre-planned pandemic and its products</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> -- The coordinated global deployment</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> -- The engineered biological harm</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a> -- The fruit of the serpent's offering is death</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- Benefit promised, destruction delivered</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/physical-harm-death-warning/?lang=en">Official Warning About Physical Harm And Death From Nanotechnology</a> -- The warning about nanotechnology harm</li>
+<li><a href="/biotech-safety-government-lies/?lang=en">Government Assurances of Biotech Safety Are Worthless</a> -- The history of false safety claims</li>
+<li><a href="/swiss-criminal-complaint-authorities/?lang=en">Swiss Scientists File Criminal Complaint Against Authorities Over mRNA</a> -- Legal action based on harm evidence</li>
+</ul>
+<hr>
+<p><em>By their fruits ye shall know them. The fruit of the mRNA vaccine deployment is counted in adverse event reports: tens of thousands dead, hundreds of thousands hospitalized, tens of thousands permanently disabled. These are not numbers. They are people -- people who trusted their governments, trusted their doctors, trusted the word "safe." National ARM has counted the fruit. The tree is known. And the God who knows every hair on every head, who records every sparrow that falls, has also counted -- not in databases that can be manipulated, but in the Book of Life that no algorithm can alter. The toxic correlation is real. The harm is real. The dead are real. And the judgment on those who planted the poisoned tree and called its fruit good is real as well -- as certain as the statistical correlation, as inevitable as the harvest.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"National ARM Exposes Toxic Correlation Between Vaccines and Injury"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"National ARM's statistical analysis exposes the undeniable toxic correlation between COVID-19 vaccines and a surge of injuries, disabilities, and deaths worldwide."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-04T10:00:00Z","children":"April 4, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","national-arm",{"href":"/en/tag/national-arm/","className":"tag-pill","children":["#","national-arm"]}],["$","a","vaccine-injury",{"href":"/en/tag/vaccine-injury/","className":"tag-pill","children":["#","vaccine-injury"]}],["$","a","statistics",{"href":"/en/tag/statistics/","className":"tag-pill","children":["#","statistics"]}],["$","a","correlation",{"href":"/en/tag/correlation/","className":"tag-pill","children":["#","correlation"]}],["$","a","adverse-events",{"href":"/en/tag/adverse-events/","className":"tag-pill","children":["#","adverse-events"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/national-arm-toxic-correlation/","title":"National ARM Exposes Toxic Correlation Between Vaccines and Injury"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/national-arm-toxic-correlation/","title":"National ARM Exposes Toxic Correlation Between Vaccines and Injury"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"National ARM Exposes Toxic Correlation Between Vaccines and Injury | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"National ARM's statistical analysis exposes the undeniable toxic correlation between COVID-19 vaccines and a surge of injuries, disabilities, and deaths worldwide."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"national-arm, vaccine-injury, statistics, correlation, adverse-events"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/national-arm-toxic-correlation/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/national-arm-toxic-correlation/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/national-arm-toxic-correlation/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/national-arm-toxic-correlation/"}],["$","meta","10",{"property":"og:title","content":"National ARM Exposes Toxic Correlation Between Vaccines and Injury"}],["$","meta","11",{"property":"og:description","content":"National ARM's statistical analysis exposes the undeniable toxic correlation between COVID-19 vaccines and a surge of injuries, disabilities, and deaths worldwide."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/national-arm-toxic-correlation/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/national-arm-toxic-correlation.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"National ARM Exposes Toxic Correlation Between Vaccines and Injury"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"National ARM Exposes Toxic Correlation Between Vaccines and Injury"}],["$","meta","25",{"name":"twitter:description","content":"National ARM's statistical analysis exposes the undeniable toxic correlation between COVID-19 vaccines and a surge of injuries, disabilities, and deaths worldwide."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/national-arm-toxic-correlation.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

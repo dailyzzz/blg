@@ -1,0 +1,134 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","communist-takeover-medicine-circumcision-part1",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","communist-takeover-medicine-circumcision-part1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","communist-takeover-medicine-circumcision-part1","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3eb5,<h1 id="the-communist-takeover-of-us-medicine-circumcision-part-1">THE COMMUNIST TAKEOVER OF US MEDICINE: Circumcision Part 1</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ."</em> — Colossians 2:8</p>
+</blockquote>
+<p>The American medical system did not become the monstrosity it is today by accident. It was deliberately captured, reshaped, and weaponized by ideological forces that most Americans have never been taught to recognize. The communist infiltration of American institutions — documented by congressional investigations, defecting agents, and declassified intelligence files — extended deep into the medical profession. And one of the most revealing markers of this infiltration is the routine practice of infant circumcision.</p>
+<p>In America today, approximately 55-60% of newborn males are circumcised — a medical procedure performed without the patient's consent, without medical necessity, and without any credible evidence of benefit. The United States is virtually alone among developed nations in this practice. No European country routinely circumcises infants. No Asian country does. No South American country does. The question that demands an answer is: why does America?</p>
+<p>The answer traces back to the communist takeover of American medicine — a takeover that used ideological subversion, institutional capture, and the destruction of traditional values to reshape the most intimate aspects of human life.</p>
+<p>Howard Pittman was told during his NDE that 97.5% of Christians were failing, that they had "never made Jesus Lord," that they served self. The medical establishment that mutilates infant boys serves itself — its ideology, its revenue, its power. Ephesians 6:12 warns us that the battle is "against principalities, against powers, against the rulers of the darkness of this world." The circumcision industry is one such principality.</p>
+<p>Napoleon recognized the Jesuit order as "a military organization" pursuing "absolute power." The Catholic Confidential documentary reveals their infiltration "cloaked with cunning." The communist infiltration of American medicine followed the same playbook: patient, systematic, invisible to those not trained to see it.</p>
+<hr>
+<h2 id="the-communist-infiltration-of-american-institutions">The Communist Infiltration of American Institutions</h2>
+<h3 id="the-congressional-record">The Congressional Record</h3>
+<p>In 1963, Congressman Albert Herlong Jr. read into the Congressional Record a list of 45 Communist goals for America, derived from Cleon Skousen's book <em>The Naked Communist</em>. Among these goals:</p>
+<ul>
+<li><strong>Goal #3</strong>: "Develop the illusion that total disarmament by the United States would be a demonstration of moral strength."</li>
+<li><strong>Goal #17</strong>: "Get control of the schools. Use them as transmission belts for socialism and current Communist propaganda."</li>
+<li><strong>Goal #29</strong>: "Discredit the American Constitution by calling it inadequate, old-fashioned, out of step with modern needs."</li>
+<li><strong>Goal #32</strong>: "Support any socialist movement to give centralized control over any part of the culture — education, social agencies, welfare programs, mental health clinics, etc."</li>
+<li><strong>Goal #38</strong>: "Transfer some of the powers of arrest from the police to social agencies."</li>
+<li><strong>Goal #39</strong>: "Dominate the psychiatric profession and use mental health laws as a means of gaining coercive control over those who oppose Communist goals."</li>
+<li><strong>Goal #40</strong>: "Discredit the family as an institution."</li>
+<li><strong>Goal #41</strong>: "Emphasize the need to raise children away from the negative influence of parents."</li>
+</ul>
+<p>The medical establishment was a primary target. By controlling medicine, the communist-influenced networks gained the power to define normalcy and deviance, to prescribe and prohibit behaviors, and to physically alter the bodies of citizens without their consent.</p>
+<h3 id="the-rockefeller-communist-connection">The Rockefeller-Communist Connection</h3>
+<p>The Rockefeller family's relationship with communist and socialist movements is extensively documented. The Rockefeller Foundation funded Soviet-connected researchers. The Chase Manhattan Bank, Rockefeller's financial institution, was one of the first American banks to open branches in the Soviet Union. David Rockefeller openly praised Mao Zedong's communist revolution.</p>
+<p>This was not ideological confusion. The Rockefeller dynasty — like the Jesuit order — transcends conventional political categories. Their goal is control, and they fund whatever movements advance that goal. Communism's emphasis on centralized state control over every aspect of life — including the body — aligned perfectly with the Rockefeller medical vision.</p>
+<p>The Flexner Report of 1910, funded by Rockefeller and Carnegie, centralized medical education and destroyed alternative healing traditions. This was a communist strategy applied to medicine: eliminate competition, centralize authority, and make the population dependent on a single, state-approved system.</p>
+<h2 id="the-history-of-american-circumcision">The History of American Circumcision</h2>
+<h3 id="not-a-jewish-or-christian-practice">Not a Jewish or Christian Practice</h3>
+<p>A common misconception is that American circumcision derives from Judeo-Christian religious tradition. This is false. Christianity explicitly rejected circumcision as a requirement for believers (Galatians 5:6, Acts 15). The vast majority of Christian nations — Europe, South America, most of Asia — do not practice routine infant circumcision.</p>
+<p>American circumcision has entirely secular origins. It was promoted in the late 19th century by medical professionals who believed it would prevent masturbation — a practice that Victorian-era doctors considered a cause of insanity, epilepsy, and moral degeneracy.</p>
+<h3 id="the-anti-pleasure-agenda">The Anti-Pleasure Agenda</h3>
+<p>Dr. John Harvey Kellogg — yes, the cereal magnate — was one of the most prominent promoters of circumcision as a cure for masturbation. In his 1888 book <em>Treatment for Self-Abuse and Its Effects</em>, Kellogg wrote:</p>
+<p>"The operation should be performed by a surgeon without administering anesthetic, as the brief pain attending the operation will have a salutary effect upon the mind, especially if it be connected with the idea of punishment."</p>
+<p>This is not medicine. This is ritualized punishment of infant boys for a behavior they have not committed and cannot commit. It is abuse dressed in medical language — the same inversion of good and evil that characterizes Satanic operations throughout history.</p>
+<h3 id="the-medicalization-of-mutilation">The Medicalization of Mutilation</h3>
+<p>By the early 20th century, the anti-masturbation rationale had become embarrassingly outdated. The medical establishment needed new justifications for circumcision. Over the decades, a rotating series of medical claims was advanced:</p>
+<ul>
+<li><strong>1900s-1930s</strong>: Prevents masturbation and moral degeneracy</li>
+<li><strong>1940s-1950s</strong>: Prevents penile cancer</li>
+<li><strong>1960s-1970s</strong>: Improves hygiene</li>
+<li><strong>1980s-1990s</strong>: Prevents urinary tract infections</li>
+<li><strong>2000s-present</strong>: Prevents HIV transmission</li>
+</ul>
+<p>Each claim was eventually debunked or shown to be vastly exaggerated, only to be replaced by a new claim. This pattern — shifting justifications for an unchanged practice — reveals that the practice is not driven by evidence but by something else entirely.</p>
+<h2 id="the-communist-medical-nexus">The Communist-Medical Nexus</h2>
+<h3 id="destroying-the-family-unit">Destroying the Family Unit</h3>
+<p>One of communism's core goals is the destruction of the family unit. When a newborn boy is separated from his mother and subjected to surgical genital alteration within hours of birth, the mother-child bond is disrupted at its most vulnerable moment. The infant experiences extreme pain and trauma that studies have shown affects neurological development, pain perception, and trust.</p>
+<p>The mother, who instinctively wants to protect her baby, is told by medical authorities that the procedure is "routine," "beneficial," and "nothing to worry about." She is trained to override her maternal instincts and defer to institutional authority — which is precisely the conditioning that communist systems require.</p>
+<h3 id="the-pain-studies-they-buried">The Pain Studies They Buried</h3>
+<p>Until the 1990s, many circumcisions were performed without any anesthesia at all, based on the medical claim that newborns "don't feel pain." This claim was not merely wrong — it was monstrous. Newborns have a fully developed nervous system and experience pain acutely. Studies measuring cortisol levels, heart rate, and crying patterns in circumcised infants showed levels of physiological stress comparable to torture.</p>
+<p>The medical establishment's willingness to inflict unanesthetized surgery on helpless infants — while denying that those infants feel pain — reveals a profound disconnection from basic human empathy. This disconnection is characteristic of systems that have been captured by ideological forces that view human beings as resources to be managed rather than souls to be cherished.</p>
+<h3 id="profit-over-people">Profit Over People</h3>
+<p>Circumcision generates billions of dollars annually for the American medical system:</p>
+<ul>
+<li><strong>Surgical fees</strong>: Each circumcision generates $200-$600 in direct surgical charges</li>
+<li><strong>Complications</strong>: Circumcision complications generate additional medical revenue through corrective procedures, infection treatment, and emergency care</li>
+<li><strong>Foreskin harvesting</strong>: Infant foreskins are collected and sold to biotech companies for use in cosmetic products, skin grafts, and research materials. Companies like SkinMedica (now owned by Allergan) use infant foreskin-derived fibroblasts in anti-aging creams that sell for hundreds of dollars per jar.</li>
+</ul>
+<p>The fact that infant body parts are harvested and sold for cosmetic products should be a national scandal. Instead, it is a routine business practice, hidden in plain sight — exactly as the Jesuit method operates: infiltration "cloaked with cunning."</p>
+<h2 id="the-spiritual-dimension">The Spiritual Dimension</h2>
+<h3 id="blood-ritual-or-medical-procedure">Blood Ritual or Medical Procedure?</h3>
+<p>The removal of the foreskin of a newborn male involves:</p>
+<ul>
+<li>The shedding of innocent blood</li>
+<li>The alteration of God's creation without the subject's consent</li>
+<li>The infliction of extreme pain on a helpless being</li>
+<li>The severing of sensitive tissue at the most intimate part of the body</li>
+<li>The collection and commodification of human flesh</li>
+</ul>
+<p>If these elements were described without the medical context, most people would recognize them as characteristics of a blood ritual. The medicalization of circumcision provides cover for what is, at its core, a ritualistic practice with deeply disturbing spiritual implications.</p>
+<p>Howard Pittman was shown that demonic forces operate through systems that appear benign. The 97.5% who are failing in their spiritual walk are failing precisely because they cannot see the spiritual reality behind the physical facade. A hospital operating room looks clean, sterile, and scientific. But the spiritual dimension of what happens when innocent blood is shed without consent is not visible to the physical eye.</p>
+<h3 id="the-covenant-question">The Covenant Question</h3>
+<p>Christians who support circumcision often cite the Old Testament covenant. But the New Covenant in Christ explicitly supersedes the requirement for physical circumcision. Paul wrote in Galatians 5:2: "If ye be circumcised, Christ shall profit you nothing." The circumcision that matters in the New Covenant is circumcision of the heart (Romans 2:29) — a spiritual transformation, not a physical mutilation.</p>
+<p>The Jesuits, masters of scriptural manipulation, have long used selective Bible passages to justify practices that serve their institutional goals. The use of Old Testament circumcision to justify infant genital cutting in a Christian nation is a perfect example of this manipulation.</p>
+<h2 id="looking-ahead-to-part-2">Looking Ahead to Part 2</h2>
+<p>In Part 2, we will examine the specific medical claims used to justify circumcision, debunk each one with clinical evidence, explore the psychological impact on circumcised males, and trace the institutional networks that keep this practice entrenched in American medicine despite the lack of medical justification.</p>
+<p>The communist takeover of American medicine is not just about circumcision — it is about the systematic capture of every institution that shapes human life, from birth to death. Circumcision is simply the most visible marker of this capture, because it is applied to the most vulnerable members of society at the most vulnerable moment of their lives.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — research on medical system corruption and circumcision history</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — spiritual warfare and demonic systems</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit infiltration methods</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Congressional Record, 1963 — 45 Communist goals for America</li>
+<li>Cleon Skousen, <em>The Naked Communist</em></li>
+<li>John Harvey Kellogg, <em>Treatment for Self-Abuse and Its Effects</em> (1888)</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/117-The_Burning_of_Sin.mp4">The Burning of Sin</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/truth-circumcision-part2/?lang=en">The Truth About Circumcision They Don't Want You to Know Part 2</a></li>
+<li><a href="/human-dissection-rockefeller-breeding-farm/?lang=en">HUMAN Dissection and the Rockefeller BREEDING FARM</a></li>
+<li><a href="/big-pharma-bloodlust-torture/?lang=en">Big Pharma's BLOODLUST: The Hidden History of Medical Torture</a></li>
+</ul>
+<p><em>They cut our sons before they can speak, before they can refuse, before they can understand. They call it medicine. They call it prevention. They call it routine. God calls it something else entirely. In Part 2, we go deeper.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"THE COMMUNIST TAKEOVER OF US MEDICINE: Circumcision Part 1"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The communist infiltration of American medicine reshaped healthcare into a tool of control. Part 1 examines how circumcision became a weapon of ideology."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-11-13T10:00:00Z","children":"November 13, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","circumcision",{"href":"/en/tag/circumcision/","className":"tag-pill","children":["#","circumcision"]}],["$","a","communist-infiltration",{"href":"/en/tag/communist-infiltration/","className":"tag-pill","children":["#","communist-infiltration"]}],["$","a","medical-system",{"href":"/en/tag/medical-system/","className":"tag-pill","children":["#","medical-system"]}],["$","a","rockefeller",{"href":"/en/tag/rockefeller/","className":"tag-pill","children":["#","rockefeller"]}],["$","a","social-engineering",{"href":"/en/tag/social-engineering/","className":"tag-pill","children":["#","social-engineering"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/communist-takeover-medicine-circumcision-part1/","title":"THE COMMUNIST TAKEOVER OF US MEDICINE: Circumcision Part 1"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/communist-takeover-medicine-circumcision-part1/","title":"THE COMMUNIST TAKEOVER OF US MEDICINE: Circumcision Part 1"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"THE COMMUNIST TAKEOVER OF US MEDICINE: Circumcision Part 1 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The communist infiltration of American medicine reshaped healthcare into a tool of control. Part 1 examines how circumcision became a weapon of ideology."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"circumcision, communist-infiltration, medical-system, rockefeller, social-engineering"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/communist-takeover-medicine-circumcision-part1/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/communist-takeover-medicine-circumcision-part1/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/communist-takeover-medicine-circumcision-part1/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/communist-takeover-medicine-circumcision-part1/"}],["$","meta","10",{"property":"og:title","content":"THE COMMUNIST TAKEOVER OF US MEDICINE: Circumcision Part 1"}],["$","meta","11",{"property":"og:description","content":"The communist infiltration of American medicine reshaped healthcare into a tool of control. Part 1 examines how circumcision became a weapon of ideology."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/communist-takeover-medicine-circumcision-part1/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/communist-takeover-medicine-circumcision-part1.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"THE COMMUNIST TAKEOVER OF US MEDICINE: Circumcision Part 1"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"THE COMMUNIST TAKEOVER OF US MEDICINE: Circumcision Part 1"}],["$","meta","25",{"name":"twitter:description","content":"The communist infiltration of American medicine reshaped healthcare into a tool of control. Part 1 examines how circumcision became a weapon of ideology."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/communist-takeover-medicine-circumcision-part1.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

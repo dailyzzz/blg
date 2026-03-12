@@ -1,0 +1,214 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","babies-injected-43-vaccine-viruses",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","babies-injected-43-vaccine-viruses","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","babies-injected-43-vaccine-viruses","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T421e,<h1 id="babies-are-injected-with-up-to-43-vaccine-viruses-before-age-two">Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee." — Jeremiah 1:5</p>
+</blockquote>
+<p>God forms children in the womb with intentionality. Every organ, every system, every cell is placed according to the Creator's design. The immune system — the body's defense against the fallen world — is among the most complex and carefully orchestrated of God's biological works. It develops through a precise sequence of stages: the innate immune system is present at birth, while the adaptive immune system matures gradually through the first years of life, learning to distinguish self from non-self through natural exposure to the environment.</p>
+<p>This developmental sequence is God's design. The infant immune system is not deficient — it is developing according to a timeline established by the Creator. The decision to inject up to 43 vaccine virus antigens into this developing system before the age of two represents a human override of the divine developmental timeline — an assumption that the pharmaceutical industry knows better than the Creator how the immune system should be trained.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> documents the capture of medicine by interests that placed profit above the Creator's design. And the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> speaks to the sacred nature of the body that God clothed humanity in — a body not designed for pharmaceutical bombardment.</p>
+<hr>
+<h2 id="the-numbers-what-babies-receive">The Numbers: What Babies Receive</h2>
+<h3 id="the-cdc-recommended-schedule-birth-to-age-2">The CDC Recommended Schedule (Birth to Age 2)</h3>
+<p>Under the CDC's recommended immunization schedule, infants receive the following vaccines before their second birthday:</p>
+<p><strong>Birth:</strong></p>
+<ul>
+<li>Hepatitis B — Dose 1</li>
+</ul>
+<p><strong>2 Months:</strong></p>
+<ul>
+<li>Hepatitis B — Dose 2</li>
+<li>DTaP (diphtheria, tetanus, pertussis) — Dose 1</li>
+<li>IPV (inactivated polio) — Dose 1</li>
+<li>Hib (Haemophilus influenzae type b) — Dose 1</li>
+<li>PCV13 (pneumococcal conjugate) — Dose 1</li>
+<li>Rotavirus — Dose 1</li>
+</ul>
+<p><strong>4 Months:</strong></p>
+<ul>
+<li>DTaP — Dose 2</li>
+<li>IPV — Dose 2</li>
+<li>Hib — Dose 2</li>
+<li>PCV13 — Dose 2</li>
+<li>Rotavirus — Dose 2</li>
+</ul>
+<p><strong>6 Months:</strong></p>
+<ul>
+<li>Hepatitis B — Dose 3</li>
+<li>DTaP — Dose 3</li>
+<li>IPV — Dose 3 (may be given at 6-18 months)</li>
+<li>Hib — Dose 3 (schedule varies by brand)</li>
+<li>PCV13 — Dose 3</li>
+<li>Rotavirus — Dose 3 (if using RotaTeq)</li>
+<li>Influenza — Dose 1 (and annually thereafter)</li>
+</ul>
+<p><strong>12-15 Months:</strong></p>
+<ul>
+<li>MMR (measles, mumps, rubella) — Dose 1</li>
+<li>Varicella (chickenpox) — Dose 1</li>
+<li>Hib — Dose 4</li>
+<li>PCV13 — Dose 4</li>
+<li>Hepatitis A — Dose 1</li>
+</ul>
+<p><strong>15-18 Months:</strong></p>
+<ul>
+<li>DTaP — Dose 4</li>
+</ul>
+<h3 id="counting-the-antigens">Counting the Antigens</h3>
+<p>When you count the individual vaccine virus antigens that a child receives by age two:</p>
+<ul>
+<li><strong>Hepatitis B:</strong> 3 doses of hepatitis B antigen = 3</li>
+<li><strong>DTaP:</strong> 4 doses, each containing diphtheria toxoid + tetanus toxoid + pertussis antigens = 12+ antigenic exposures</li>
+<li><strong>IPV:</strong> 3 doses of inactivated poliovirus (3 types) = 9</li>
+<li><strong>Hib:</strong> 3-4 doses of Haemophilus influenzae type b = 3-4</li>
+<li><strong>PCV13:</strong> 4 doses of 13 pneumococcal serotypes = 4 doses (52 serotype exposures)</li>
+<li><strong>Rotavirus:</strong> 2-3 doses of live attenuated rotavirus = 2-3</li>
+<li><strong>MMR:</strong> 1 dose containing measles + mumps + rubella (3 live viruses) = 3</li>
+<li><strong>Varicella:</strong> 1 dose of live varicella virus = 1</li>
+<li><strong>Hepatitis A:</strong> 1 dose = 1</li>
+<li><strong>Influenza:</strong> 1-2 doses = 1-2</li>
+</ul>
+<p>The total number of distinct pathogen antigens introduced into the infant's body by age two reaches approximately 43 or more — through approximately 25-30 individual injections (plus oral rotavirus doses).</p>
+<h3 id="what-this-means-in-practice">What This Means in Practice</h3>
+<p>A typical well-baby visit at 2 months involves <strong>six simultaneous vaccine injections</strong> (or combinations thereof). A 12-pound, 2-month-old infant — whose immune system is still in its earliest developmental stage — receives multiple live and inactivated pathogens, aluminum adjuvants, preservatives, and other excipients in a single visit.</p>
+<p>At no point in the development of this schedule was the cumulative effect of all these vaccines, administered simultaneously and in rapid sequence, studied in a clinical trial. Each vaccine was tested individually (and many were tested against other vaccines rather than placebos). The schedule as a whole — the aggregate impact of 43 antigens delivered through 25+ injections in the first 24 months of life — has never been tested.</p>
+<hr>
+<h2 id="the-kingston-report-the-untested-schedule">The Kingston Report: The Untested Schedule</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> highlights the fundamental scientific failure at the heart of the childhood vaccine schedule.</p>
+<h3 id="no-cumulative-safety-study-exists">No Cumulative Safety Study Exists</h3>
+<p>Kingston has documented the single most damning fact about the childhood vaccine schedule: <strong>it has never been tested as a whole.</strong> There is no clinical trial — not one — that enrolled infants, administered the complete CDC schedule to the treatment group, administered no vaccines (or a true placebo) to the control group, and followed both groups for health outcomes over years.</p>
+<p>This means:</p>
+<ul>
+<li>No one knows the cumulative immune impact of 43 antigens in 24 months</li>
+<li>No one knows how the simultaneous administration of multiple vaccines affects the developing brain</li>
+<li>No one knows the long-term health outcomes of fully vaccinated children compared to completely unvaccinated children</li>
+<li>No one can scientifically assert that the schedule is "safe" because the experiment has never been conducted</li>
+</ul>
+<p>The absence of this study is not accidental. It is deliberate. The CDC has repeatedly refused to conduct a vaccinated-versus-unvaccinated study, claiming it would be "unethical" to leave children unvaccinated. But the claim of unethicality rests on the assumption that vaccines are beneficial — an assumption that cannot be verified without the very study the CDC refuses to conduct. The reasoning is circular: "We can't test whether the schedule is safe because we assume it's safe."</p>
+<h3 id="aluminum-adjuvant-load">Aluminum Adjuvant Load</h3>
+<p>Kingston has documented the cumulative aluminum exposure from the childhood vaccine schedule. Aluminum adjuvants (aluminum hydroxide, aluminum phosphate, alum) are added to vaccines to stimulate the immune system. By age 18 months, a fully vaccinated child has received approximately 4,925 micrograms of injected aluminum through vaccines.</p>
+<p>This aluminum is not ingested (where approximately 0.3% is absorbed). It is injected directly into muscle tissue and enters the bloodstream and lymphatic system. Injected aluminum bypasses the gastrointestinal tract's natural filtering mechanisms. Research has shown that injected aluminum nanoparticles can:</p>
+<ul>
+<li>Cross the blood-brain barrier</li>
+<li>Accumulate in brain tissue</li>
+<li>Trigger neuroinflammation</li>
+<li>Persist in the body for years</li>
+</ul>
+<p>The FDA's maximum recommended aluminum exposure for intravenous feeding in premature infants is 4-5 micrograms per kilogram per day. A 12-pound (5.4 kg) infant at a 2-month well-baby visit receiving multiple aluminum-containing vaccines can receive over 1,000 micrograms of aluminum in a single visit — far exceeding the FDA's own safety threshold for injected aluminum.</p>
+<hr>
+<h2 id="the-developing-immune-system">The Developing Immune System</h2>
+<h3 id="gods-design-gradual-training">God's Design: Gradual Training</h3>
+<p>The infant immune system develops through a divinely designed sequence:</p>
+<ol>
+<li>
+<p><strong>Maternal antibodies (passive immunity):</strong> At birth, the infant carries maternal IgG antibodies transferred across the placenta. These antibodies provide protection for the first months of life while the infant's own immune system develops.</p>
+</li>
+<li>
+<p><strong>Breast milk immunity:</strong> Breast milk contains IgA antibodies, lactoferrin, lysozyme, and immune cells that provide ongoing passive protection and actively train the infant gut microbiome — a critical component of immune development.</p>
+</li>
+<li>
+<p><strong>Natural exposure:</strong> As the infant encounters environmental microbes through normal life — skin contact, breathing, oral exploration — the adaptive immune system gradually learns to recognize and respond to pathogens. This training is graded and sequential, matching the immune system's developmental capacity.</p>
+</li>
+<li>
+<p><strong>Microbiome development:</strong> The gut microbiome — home to 70% of the immune system — develops over the first 2-3 years of life. Its development is influenced by birth method, breastfeeding, diet, and environmental exposure. Disruption of microbiome development through pharmaceutical interventions (including vaccines and antibiotics) can permanently alter immune function.</p>
+</li>
+</ol>
+<h3 id="the-pharmaceutical-override">The Pharmaceutical Override</h3>
+<p>The CDC vaccine schedule overrides this natural developmental sequence by:</p>
+<ul>
+<li>Introducing 43 antigens before the adaptive immune system has matured</li>
+<li>Bypassing the gastrointestinal and respiratory immune training pathways (injection goes directly into muscle)</li>
+<li>Disrupting the microbiome through immune activation and adjuvant exposure</li>
+<li>Overwhelming the developing immune system with simultaneous multi-antigen challenges</li>
+<li>Substituting pharmaceutical immune training for the natural exposure-based training God designed</li>
+</ul>
+<hr>
+<h2 id="the-biblical-perspective">The Biblical Perspective</h2>
+<h3 id="the-creators-timeline">The Creator's Timeline</h3>
+<blockquote>
+<p>"To every thing there is a season, and a time to every purpose under the heaven." — Ecclesiastes 3:1</p>
+</blockquote>
+<p>God established developmental timelines for every aspect of creation. The infant immune system develops on a timeline established by the Creator — a timeline that involves gradual exposure, natural training, and sequential maturation. The vaccine schedule imposes a pharmaceutical timeline on a system designed to develop naturally.</p>
+<p>This is not a question of whether disease prevention is valuable. It is a question of whether the Creator's design for immune development should be overridden by a pharmaceutical schedule created by an industry that profits from every dose on the schedule and bears no liability for the injuries those doses cause.</p>
+<h3 id="the-firmament-of-the-immune-system">The Firmament of the Immune System</h3>
+<p>The immune system is the body's firmament — the protective barrier between the sacred internal environment and the external world of pathogens. Like the firmament over the earth, the immune system separates, protects, and maintains the integrity of the space it guards.</p>
+<p>When 43 antigens are injected through the firmament — bypassing the natural entry points (gut, respiratory tract, skin) that God designed as the immune system's training grounds — the firmament is not strengthened. It is overwhelmed, confused, and potentially permanently altered.</p>
+<hr>
+<h2 id="what-parents-should-know">What Parents Should Know</h2>
+<ol>
+<li><strong>Babies receive up to 43 vaccine virus antigens by age 2</strong> through approximately 25-30 injections.</li>
+<li><strong>The complete schedule has never been tested</strong> in a vaccinated-versus-unvaccinated study.</li>
+<li><strong>Cumulative aluminum exposure from the schedule</strong> exceeds FDA safety thresholds for injected aluminum.</li>
+<li><strong>The infant immune system is designed to develop gradually</strong> through natural exposure, not through rapid-fire pharmaceutical bombardment.</li>
+<li><strong>Each vaccine was tested individually</strong> — but the aggregate impact of the complete schedule is unknown.</li>
+<li><strong>Vaccine manufacturers bear no liability</strong> for injuries caused by childhood vaccines.</li>
+<li><strong>Parents have the right to refuse or delay</strong> any vaccine. Know your state's exemption options.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of the childhood vaccine schedule and cumulative immune impact.</li>
+<li>CDC Recommended Childhood Immunization Schedule</li>
+<li>FDA aluminum safety thresholds for parenteral nutrition</li>
+<li>Published research on aluminum nanoparticle brain accumulation</li>
+<li>VAERS adverse event data for childhood vaccines</li>
+<li>Published research on infant immune system development</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The captured medical system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The targeting of children</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> — Mass injection infrastructure</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> — The sacred body not meant for pharmaceutical bombardment</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — The infant blood covenant under assault</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/infant-deaths-measles-vaccines/?lang=en">What Moms Should Know About Infant Deaths From Measles Vaccines</a> — Measles vaccine deaths documented</li>
+<li><a href="/first-increase-infant-deaths-2022/?lang=en">2022 Was The First Increase in Infant Deaths in Decades</a> — Rising infant mortality</li>
+<li><a href="/vaccines-infant-deaths-impossible/?lang=en">Why It's NOT Possible for Vaccines to Not Cause Infant Deaths</a> — The immunological impossibility</li>
+<li><a href="/cdc-childhood-vaccine-schedule-reduced/?lang=en">CDC Childhood Vaccine Schedule Reduced: What Changed</a> — Schedule changes</li>
+</ul>
+<hr>
+<p><em>Forty-three antigens. Twenty-five injections. Twenty-four months. No cumulative safety study. No liability for the manufacturers. No informed consent for the parents — because the information required for consent does not exist. The infant cannot speak, cannot consent, cannot refuse. The infant trusts completely. "Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God" (Mark 10:14). Jesus called the children to Himself with arms of protection. The pharmaceutical system calls them to the needle with a schedule they cannot question.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"By age two, babies on the CDC schedule receive up to 43 vaccine virus antigens through dozens of injections, with no study of the cumulative immune impact."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-27T10:00:00Z","children":"April 27, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","infant-vaccines",{"href":"/en/tag/infant-vaccines/","className":"tag-pill","children":["#","infant-vaccines"]}],["$","a","CDC-schedule",{"href":"/en/tag/CDC-schedule/","className":"tag-pill","children":["#","CDC-schedule"]}],["$","a","vaccine-antigens",{"href":"/en/tag/vaccine-antigens/","className":"tag-pill","children":["#","vaccine-antigens"]}],["$","a","pediatric-health",{"href":"/en/tag/pediatric-health/","className":"tag-pill","children":["#","pediatric-health"]}],["$","a","immune-system",{"href":"/en/tag/immune-system/","className":"tag-pill","children":["#","immune-system"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/babies-injected-43-vaccine-viruses/","title":"Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/babies-injected-43-vaccine-viruses/","title":"Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"By age two, babies on the CDC schedule receive up to 43 vaccine virus antigens through dozens of injections, with no study of the cumulative immune impact."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"infant-vaccines, CDC-schedule, vaccine-antigens, pediatric-health, immune-system"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/babies-injected-43-vaccine-viruses/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/babies-injected-43-vaccine-viruses/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/babies-injected-43-vaccine-viruses/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/babies-injected-43-vaccine-viruses/"}],["$","meta","10",{"property":"og:title","content":"Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two"}],["$","meta","11",{"property":"og:description","content":"By age two, babies on the CDC schedule receive up to 43 vaccine virus antigens through dozens of injections, with no study of the cumulative immune impact."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/babies-injected-43-vaccine-viruses/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/babies-injected-43-vaccine-viruses.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Babies Are Injected with Up to 43 Vaccine Viruses Before Age Two"}],["$","meta","25",{"name":"twitter:description","content":"By age two, babies on the CDC schedule receive up to 43 vaccine virus antigens through dozens of injections, with no study of the cumulative immune impact."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/babies-injected-43-vaccine-viruses.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

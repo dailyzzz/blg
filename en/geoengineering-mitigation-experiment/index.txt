@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","geoengineering-mitigation-experiment",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","geoengineering-mitigation-experiment","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","geoengineering-mitigation-experiment","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3529,<h1 id="worldwide-geoengineering-mitigation-intention-experiment">Worldwide Geoengineering Mitigation Intention Experiment</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease." -- Genesis 8:22</p>
+</blockquote>
+<p>After the flood, God made a promise: the cycles of the earth would not cease. Seedtime and harvest. Summer and winter. Day and night. These are divine guarantees -- covenantal assurances from the Creator that the earth's systems would function as designed. Geoengineering -- the deliberate manipulation of atmospheric systems -- is a direct assault on this covenantal promise. It seeks to replace God's weather with engineered weather, God's sky with metallic haze, and God's natural cycles with technologically controlled climate.</p>
+<p>The worldwide geoengineering mitigation intention experiment represents humanity's organized response to this assault. Across continents, scientists, researchers, and communities are documenting the contamination, developing mitigation strategies, and working to restore the atmospheric systems that God designed.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> from the Confliction album reminds us, the corruption of the natural world is a consequence of the fall. And as <a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> declares, restoration is possible for those who fight.</p>
+<hr>
+<h2 id="the-contamination">The Contamination</h2>
+<h3 id="what-is-being-documented">What Is Being Documented</h3>
+<p>The geoengineering contamination of Earth's atmosphere is documented across multiple evidence categories:</p>
+<p><strong>Visual Evidence</strong></p>
+<ul>
+<li>Persistent trails from aircraft that do not dissipate like normal condensation trails (contrails)</li>
+<li>Grid patterns, X-patterns, and parallel lines laid across the sky by multiple aircraft</li>
+<li>Expansion of trails into broad haze layers that obscure blue sky</li>
+<li>Unusual cloud formations that appear manipulated or geometric</li>
+</ul>
+<p><strong>Chemical Evidence</strong></p>
+<p>Independent laboratory analysis of rainwater, snow, soil, and air samples from locations worldwide has documented:</p>
+<ul>
+<li><strong>Aluminum</strong> at levels exceeding EPA safe limits by factors of 10 to 100</li>
+<li><strong>Barium</strong> in concentrations that cannot be explained by natural geological processes</li>
+<li><strong>Strontium</strong> at elevated levels correlated with atmospheric deposition events</li>
+<li><strong>Manganese, titanium, and other metals</strong> at levels inconsistent with natural background concentrations</li>
+</ul>
+<p>These metals match the patent specifications for solar radiation management (SRM) programs that propose injecting reflective metallic particles into the atmosphere to reduce solar heating.</p>
+<p><strong>Biological Evidence</strong></p>
+<ul>
+<li>Respiratory illness spikes correlated with heavy spraying events</li>
+<li>Soil pH changes affecting agricultural productivity</li>
+<li>Tree die-off in forests worldwide, with affected trees showing elevated aluminum levels in tissue</li>
+<li>Aquatic ecosystem disruption as atmospheric metals contaminate watersheds</li>
+<li>Decline in insect populations correlated with metallic nanoparticle deposition</li>
+</ul>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) the connection between atmospheric contamination and the nanotechnology found in human blood. Dr. Mihalcea's research suggests that geoengineering operations are distributing not only metallic particles but also nanotechnology components that contribute to the self-assembling structures found in blood samples from both vaccinated and unvaccinated individuals.</p>
+<h3 id="the-scale-of-operations">The Scale of Operations</h3>
+<p>Geoengineering operations are not small-scale experiments. They are global in scope:</p>
+<ul>
+<li>Aircraft operations are documented over every continent including Antarctica</li>
+<li>Operations occur daily in most regions, with intensity varying by location and season</li>
+<li>Military, commercial, and contracted aircraft are all involved</li>
+<li>Budgets for geoengineering research and operations run to billions of dollars</li>
+<li>International agreements and protocols govern aspects of geoengineering, though most operational details remain classified</li>
+</ul>
+<p>The Carnicom Institute, founded by Clifford Carnicom, has been documenting atmospheric contamination since the late 1990s. Carnicom's decades of research have established that the atmospheric spraying programs are real, persistent, and escalating -- and that the materials being deposited include not only metals but also synthetic filaments (often called "Morgellons fibers") that exhibit self-assembling properties similar to the nanotechnology found in blood.</p>
+<h2 id="the-mitigation-experiment">The Mitigation Experiment</h2>
+<h3 id="objectives">Objectives</h3>
+<p>The worldwide geoengineering mitigation intention experiment has multiple objectives:</p>
+<ol>
+<li><strong>Documentation</strong> -- Creating a comprehensive, global, time-stamped database of geoengineering activity including visual observations, chemical analysis, and biological impact documentation</li>
+<li><strong>Public awareness</strong> -- Breaking through the media suppression of geoengineering evidence to inform the public about what is being done to their atmosphere</li>
+<li><strong>Legal action</strong> -- Building the evidentiary foundation for legal challenges to geoengineering operations</li>
+<li><strong>Scientific analysis</strong> -- Conducting rigorous scientific analysis of atmospheric samples, biological samples, and environmental impact data</li>
+<li><strong>Mitigation strategies</strong> -- Developing and testing strategies to reduce the harmful effects of geoengineering on human health and the environment</li>
+<li><strong>Intentional restoration</strong> -- Exploring the role of collective human intention in influencing atmospheric and environmental conditions</li>
+</ol>
+<h3 id="mitigation-strategies">Mitigation Strategies</h3>
+<p>Researchers and practitioners worldwide are developing multiple approaches to mitigate geoengineering harm:</p>
+<p><strong>Personal Health Protection</strong></p>
+<ul>
+<li>Heavy metal detoxification protocols (EDTA chelation, vitamin C, chlorella, cilantro)</li>
+<li>Respiratory protection during heavy spraying events</li>
+<li>Water filtration systems capable of removing nanoscale contaminants</li>
+<li>Organic food sourcing to reduce exposure through contaminated food supply</li>
+<li>Grounding/earthing practices to support the body's electromagnetic balance</li>
+</ul>
+<p><strong>Environmental Remediation</strong></p>
+<ul>
+<li>Soil remediation using biochar, compost, and beneficial microorganisms to bind and neutralize metallic contaminants</li>
+<li>Water filtration at community scale using advanced membrane technology</li>
+<li>Reforestation with metal-tolerant species to stabilize contaminated soils</li>
+<li>Bioremediation using organisms that accumulate and neutralize heavy metals</li>
+</ul>
+<p><strong>Legal and Political Action</strong></p>
+<ul>
+<li>Environmental lawsuits challenging geoengineering operations under Clean Air Act and international environmental law</li>
+<li>Freedom of information requests demanding disclosure of geoengineering programs and budgets</li>
+<li>Legislative action to require public disclosure and consent for atmospheric modification programs</li>
+<li>International treaty proposals to regulate or prohibit non-consensual geoengineering</li>
+</ul>
+<h2 id="the-spiritual-dimension">The Spiritual Dimension</h2>
+<h3 id="the-sky-belongs-to-god">The Sky Belongs to God</h3>
+<p>The atmosphere is not government property. It is not a canvas for military operations. It is not a medium for nanotechnology distribution. The sky belongs to God. "The heavens declare the glory of God; and the firmament sheweth his handywork" (Psalm 19:1).</p>
+<p>Geoengineering is the vandalism of God's sky. The metallic haze that replaces blue with white, the persistent trails that cross God's heaven with chemical lines, the toxic metals that rain down on God's creation -- these are acts of desecration performed against the firmament that God placed for the protection and beauty of His creation.</p>
+<p>The dome of the firmament -- the solid expanse described in Genesis 1:6-8 -- is above the geoengineering operations. The spraying occurs within the atmosphere, beneath the dome. The metals fall within the contained space. But the dome itself is not violated by the spraying. God's boundary holds. And beneath that boundary, the resistance to atmospheric contamination is an act of stewardship -- caring for the creation that God entrusted to humanity.</p>
+<p>The vivid colors reported in the sky -- the unusual pinks, purples, and oranges at sunrise and sunset -- may be a dual phenomenon: partly the result of metallic particle scattering in the atmosphere, and partly prophetic signs of changes to the firmament itself. The Master's Voice prophecy blog describes sky color changes as precursors to the arrival of fallen beings under the dome. The geoengineering may be the physical preparation, and the sky signs may be the spiritual preparation, for the same event.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Carnicom Institute, cliffordcarnicom.com, atmospheric contamination documentation since 1999</li>
+<li>Herndon, J.M., various publications on atmospheric coal fly ash deposition</li>
+<li>Wigington, D., GeoengineeringWatch.org, comprehensive geoengineering documentation</li>
+<li>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, geoengineering-nanotechnology connection</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZR296RWS0yM&#x26;list=PLm6Vq0bTTCDiPIX2ItdQTQGX7mXQXBxoV">NASA and Space — The Greatest Deception Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/293-Arrows_In_The_Sky.mp4">Arrows In The Sky</a> -- The atmospheric assault raining down</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/351-Broken_Weather.mp4">Broken Weather</a> -- Engineered weather destroying natural patterns</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/65-Smart_Dust.mp4">Smart Dust</a> -- Microscale sensors dispersed through the atmosphere</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/305-Fire_From_The_Sky.mp4">Fire From The Sky</a> -- What descends from the contaminated sky</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> -- The corruption of the natural world</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> -- Restoration through resistance</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/militarized-weather-warfare/?lang=en">Militarized Weather Warfare In Action: The Evidence</a> -- Weather as a military weapon</li>
+<li><a href="/rfk-poisoned-geoengineering/?lang=en">RFK Confirmed Poisoned Via Geoengineering Exposure</a> -- Human health effects of geoengineering</li>
+<li><a href="/international-panel-geoengineering/?lang=en">The 1st International Panel on Geoengineering Reveals Agenda</a> -- The institutional agenda behind geoengineering</li>
+</ul>
+<hr>
+<p><em>The heavens declare the glory of God, but the geoengineers are trying to rewrite the declaration. They spray metals across the firmament. They turn blue to white. They rain aluminum on the gardens and mercury into the water. But God's promise stands: while the earth remains, seedtime and harvest shall not cease. The geoengineering mitigation experiment is the human response to an inhuman assault on the sky. Scientists documenting, communities detoxifying, lawyers filing, and people praying -- all are engaged in the stewardship of a creation that belongs not to the engineers who defile it but to the God who made it. And the God who made the sky will restore it. The haze will clear. The metals will be judged. And the heavens will once again declare the glory of the God who placed them -- undimmed, uncontaminated, and eternal.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/food-environment/","className":"category-badge","children":"food-environment"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Worldwide Geoengineering Mitigation Intention Experiment"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"A worldwide experiment in geoengineering mitigation uniting scientists and communities to document, resist, and neutralize atmospheric contamination programs."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-05T10:00:00Z","children":"April 5, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","geoengineering",{"href":"/en/tag/geoengineering/","className":"tag-pill","children":["#","geoengineering"]}],["$","a","mitigation",{"href":"/en/tag/mitigation/","className":"tag-pill","children":["#","mitigation"]}],["$","a","experiment",{"href":"/en/tag/experiment/","className":"tag-pill","children":["#","experiment"]}],["$","a","chemtrails",{"href":"/en/tag/chemtrails/","className":"tag-pill","children":["#","chemtrails"]}],["$","a","atmosphere",{"href":"/en/tag/atmosphere/","className":"tag-pill","children":["#","atmosphere"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/geoengineering-mitigation-experiment/","title":"Worldwide Geoengineering Mitigation Intention Experiment"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/geoengineering-mitigation-experiment/","title":"Worldwide Geoengineering Mitigation Intention Experiment"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Worldwide Geoengineering Mitigation Intention Experiment | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"A worldwide experiment in geoengineering mitigation uniting scientists and communities to document, resist, and neutralize atmospheric contamination programs."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"geoengineering, mitigation, experiment, chemtrails, atmosphere"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/geoengineering-mitigation-experiment/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/geoengineering-mitigation-experiment/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/geoengineering-mitigation-experiment/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/geoengineering-mitigation-experiment/"}],["$","meta","10",{"property":"og:title","content":"Worldwide Geoengineering Mitigation Intention Experiment"}],["$","meta","11",{"property":"og:description","content":"A worldwide experiment in geoengineering mitigation uniting scientists and communities to document, resist, and neutralize atmospheric contamination programs."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/geoengineering-mitigation-experiment/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/geoengineering-mitigation-experiment.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Worldwide Geoengineering Mitigation Intention Experiment"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Worldwide Geoengineering Mitigation Intention Experiment"}],["$","meta","25",{"name":"twitter:description","content":"A worldwide experiment in geoengineering mitigation uniting scientists and communities to document, resist, and neutralize atmospheric contamination programs."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/geoengineering-mitigation-experiment.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

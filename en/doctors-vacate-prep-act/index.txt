@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","doctors-vacate-prep-act",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","doctors-vacate-prep-act","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","doctors-vacate-prep-act","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3f90,<h1 id="over-100000-doctors-pave-way-to-vacate-prep-act-immunity">Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow." — Isaiah 1:17</p>
+</blockquote>
+<p>When the judges of Israel became corrupt — taking bribes, perverting justice, acquitting the guilty for reward — God did not merely condemn the judges. He called the people to rise and demand justice themselves. The duty to seek justice does not belong to institutions alone. When institutions fail, the burden falls to individuals who retain the moral courage to act.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> proclaims, the crushing of the serpent's head is not accomplished through institutional reform alone but through the faithful action of those who refuse to be complicit in evil.</p>
+<p>Over 100,000 physicians have united to challenge the PREP Act — the legal fortress that has shielded pharmaceutical companies from accountability for injuries caused by COVID-19 injections. These doctors have taken an oath to do no harm. Now they are demanding that those who did harm face the consequences.</p>
+<hr>
+<h2 id="the-prep-act-the-fortress-of-immunity">The PREP Act: The Fortress of Immunity</h2>
+<p>The Public Readiness and Emergency Preparedness Act (PREP Act), signed into law in 2005, provides blanket immunity from liability for manufacturers, distributors, program planners, and qualified persons involved in the administration of "covered countermeasures" during a declared public health emergency.</p>
+<p>On February 4, 2020 — before any COVID-19 case had been confirmed in the United States through community spread — HHS Secretary Alex Azar issued a PREP Act declaration covering COVID-19 countermeasures. This declaration was subsequently amended multiple times to expand its scope, extending immunity to vaccine manufacturers, pharmacies, healthcare providers, and government officials involved in the vaccination program.</p>
+<p>The PREP Act's immunity is nearly absolute. It can only be overcome in cases of "willful misconduct" — a legal standard so high that it has never been successfully met in any PREP Act case. The definition of willful misconduct under the Act requires proof that the covered person acted "intentionally to achieve a wrongful purpose" with "knowledge that the act is unlawful" and in "disregard of a known or obvious risk that is so great as to make it highly probable that the harm will outweigh the benefit."</p>
+<p>The only compensation mechanism available to those injured by covered countermeasures is the Countermeasures Injury Compensation Program (CICP), administered by HHS. The CICP has no judicial review, no discovery process, no right to legal representation, no right to appeal, and a one-year filing deadline. As of 2024, the CICP had adjudicated thousands of COVID-19 vaccine injury claims — and compensated fewer than a dozen.</p>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com) that the PREP Act was the essential legal precondition for the entire COVID-19 injection program. "Without the PREP Act, no manufacturer would have agreed to produce the vaccines, no pharmacy would have agreed to administer them, and no employer would have agreed to mandate them," Kingston has written. "The PREP Act is not merely a liability shield — it is the foundation upon which the entire compulsory injection apparatus was built. Remove the PREP Act, and the apparatus collapses."</p>
+<hr>
+<h2 id="the-physicians-challenge">The Physicians' Challenge</h2>
+<p>Over 100,000 physicians have now signed onto a legal and legislative effort to vacate the PREP Act's immunity provisions as applied to COVID-19 countermeasures. The effort is proceeding on multiple fronts:</p>
+<h3 id="constitutional-challenge">Constitutional Challenge</h3>
+<p>The physicians argue that the PREP Act, as applied to COVID-19 vaccines, violates the Seventh Amendment right to a civil jury trial. The Seventh Amendment guarantees: "In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved." The PREP Act eliminates this right entirely for individuals injured by covered countermeasures, replacing the jury trial with an administrative compensation program that provides no judicial review.</p>
+<p>The constitutional challenge also invokes the Due Process Clause of the Fifth Amendment, arguing that the PREP Act deprives injured individuals of their liberty and property (including their right to sue for compensation) without due process of law.</p>
+<h3 id="statutory-challenge">Statutory Challenge</h3>
+<p>The physicians argue that the PREP Act's immunity should not apply to COVID-19 mRNA injections because the products were materially misrepresented to the public. The PREP Act protects "covered countermeasures" — but the physicians contend that the products administered were not what they were represented to be.</p>
+<p>Specifically, the physicians allege that the mRNA injections were represented as "vaccines" — products that prevent infection and transmission — when in fact they did not prevent infection or transmission. The products were represented as "safe and effective" when clinical trial data was incomplete, the control group was eliminated, and safety signals were suppressed. The products were represented as remaining at the injection site when biodistribution data showed they spread throughout the body.</p>
+<p>If the products were materially misrepresented, the argument goes, the PREP Act's immunity does not apply because the covered countermeasure actually administered was not the covered countermeasure described in the authorization.</p>
+<h3 id="legislative-effort">Legislative Effort</h3>
+<p>In parallel with the legal challenges, physicians are pressing for congressional action to amend or repeal the PREP Act. The legislative effort focuses on:</p>
+<ul>
+<li>Eliminating or substantially lowering the "willful misconduct" standard</li>
+<li>Providing injured individuals with a right to a civil jury trial</li>
+<li>Establishing an independent compensation tribunal with judicial review</li>
+<li>Requiring manufacturers to maintain liability insurance as a condition of EUA authorization</li>
+<li>Implementing a sunset provision that limits PREP Act immunity to the duration of the declared emergency</li>
+</ul>
+<hr>
+<h2 id="the-significance-of-100000-physicians">The Significance of 100,000 Physicians</h2>
+<p>The number is significant not merely for its scale but for what it represents. These are licensed physicians — individuals who have completed medical school, residency training, and board certification. They hold the credentials that the medical establishment uses to gatekeep authority. They cannot be dismissed as "anti-vaxxers" or "conspiracy theorists" without undermining the credibility of the entire credentialing system.</p>
+<p>The 100,000 physicians represent approximately 10% of the practicing physician workforce in the United States. They include family medicine doctors, internists, cardiologists, neurologists, oncologists, pediatricians, emergency medicine physicians, and surgeons. They practice in every state, in every healthcare system, in every clinical specialty.</p>
+<p>Their unified challenge to the PREP Act represents the most significant dissent within the medical profession since the COVID-19 pandemic began. It demonstrates that the narrative of unanimous medical consensus supporting the vaccination program was always false — maintained not by genuine agreement but by the threat of professional consequences for dissent.</p>
+<p>Kingston has observed: "The 100,000 physicians who are challenging the PREP Act represent the conscience of American medicine. They are the doctors who saw the injuries, reported the adverse events, and were told to be silent. They are the physicians who asked questions and were disciplined. They are the medical professionals who placed their oath above their careers — and they are no longer willing to accept a legal framework that prevents their patients from seeking justice."</p>
+<hr>
+<h2 id="the-injuries-behind-the-numbers">The Injuries Behind the Numbers</h2>
+<p>The PREP Act does not exist in a vacuum. It protects manufacturers and administrators from liability for real injuries sustained by real human beings.</p>
+<p>VAERS — the Vaccine Adverse Event Reporting System, co-managed by the CDC and FDA — has received over 1.6 million adverse event reports related to COVID-19 vaccines, including:</p>
+<ul>
+<li>Over 37,000 reports of death</li>
+<li>Over 68,000 reports of permanent disability</li>
+<li>Over 213,000 reports of hospitalization</li>
+<li>Over 172,000 reports of emergency room visits</li>
+<li>Over 21,000 reports of myocarditis/pericarditis</li>
+<li>Over 16,000 reports of heart attack</li>
+<li>Over 56,000 reports of severe allergic reaction</li>
+</ul>
+<p>These numbers are widely acknowledged — even by the CDC — to represent significant underreporting. A Harvard Pilgrim Healthcare study commissioned by HHS found that fewer than 1% of vaccine adverse events are reported to VAERS, suggesting that the actual number of adverse events is orders of magnitude higher than the reported numbers.</p>
+<p>The PREP Act ensures that none of these individuals — or their families, in the case of deaths — can sue the manufacturers of the products that harmed them. The 100,000 physicians challenging the PREP Act are fighting to restore the legal right of these injured Americans to seek justice through the court system.</p>
+<hr>
+<h2 id="the-beast-system-and-the-shield-of-immunity">The Beast System and the Shield of Immunity</h2>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> documents the architecture of a system in which compliance is compulsory and accountability is impossible. The PREP Act is the legal embodiment of this architecture — a law that compels participation (through mandates) while eliminating the possibility of recourse (through immunity).</p>
+<p>This is the essence of the Beast System described in Revelation 13: a system that exercises total authority over the bodies and economic participation of the population while remaining unaccountable for the consequences of its exercise of that authority.</p>
+<p>The 100,000 physicians challenging the PREP Act are attempting to break the immunity shield — to restore accountability to a system designed to function without it.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>PREP Act — 42 U.S.C. Section 247d-6d</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of PREP Act legal architecture, willful misconduct standard, and CICP program failures</p>
+</li>
+<li>
+<p>VAERS (Vaccine Adverse Event Reporting System) — vaers.hhs.gov</p>
+</li>
+<li>
+<p>Harvard Pilgrim Healthcare — "Electronic Support for Public Health–Vaccine Adverse Event Reporting System (ESP:VAERS)"</p>
+</li>
+<li>
+<p>Seventh Amendment, U.S. Constitution</p>
+</li>
+<li>
+<p>Isaiah 1:17 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> — Compulsory compliance without accountability</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — The synchronized system of legal, medical, and institutional control</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — Institutional corruption defended by legal architecture</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — The faithful who refuse complicity in evil</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/101-Fight_of_Faith.mp4">Fight of Faith</a> — The call to stand against systems that demand silent obedience</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/florida-criminal-charges-pfizer/?lang=en">How Florida Residents Can Bring Criminal Charges Against Pfizer</a> — State-level legal strategies bypassing the PREP Act</li>
+<li><a href="/pfizer-case-government-not-interested/?lang=en">Court Filing in Pfizer Case: Government NOT Interested in Justice</a> — The judiciary's response to pharmaceutical accountability efforts</li>
+<li><a href="/government-fraud-biopharma/?lang=en">Is it Legal for the US Government to Commit Fraud with BioPharma</a> — The legal framework enabling government-pharma collusion</li>
+<li><a href="/florida-ends-vaccine-mandates/?lang=en">Florida Surgeon General Announces End to ALL Vaccine Mandates</a> — Dismantling the enforcement arm of the system</li>
+</ul>
+<hr>
+<p><em>One hundred thousand physicians have risen to challenge the fortress of immunity that shields the pharmaceutical industry from accountability. They carry the weight of an oath — "first, do no harm" — and the burden of having witnessed the harm that others have done. The PREP Act stands as a monument to institutional corruption — a law that compels participation in a medical program while criminalizing the pursuit of justice for those that program has injured. "He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD" (Proverbs 17:15). The PREP Act justifies the wicked and condemns the just. These 100,000 physicians are seeking to restore what the law has perverted — the simple right of the injured to face their injurer in a court of law.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"More than 100,000 physicians unite to challenge the PREP Act liability shield that protected pharmaceutical companies from COVID-19 vaccine injury lawsuits."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-13T10:00:00Z","children":"May 13, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","PREP-Act",{"href":"/en/tag/PREP-Act/","className":"tag-pill","children":["#","PREP-Act"]}],["$","a","doctors",{"href":"/en/tag/doctors/","className":"tag-pill","children":["#","doctors"]}],["$","a","liability",{"href":"/en/tag/liability/","className":"tag-pill","children":["#","liability"]}],["$","a","vaccines",{"href":"/en/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","accountability",{"href":"/en/tag/accountability/","className":"tag-pill","children":["#","accountability"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/doctors-vacate-prep-act/","title":"Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/doctors-vacate-prep-act/","title":"Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"More than 100,000 physicians unite to challenge the PREP Act liability shield that protected pharmaceutical companies from COVID-19 vaccine injury lawsuits."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"PREP-Act, doctors, liability, vaccines, accountability"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/doctors-vacate-prep-act/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/doctors-vacate-prep-act/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/doctors-vacate-prep-act/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/doctors-vacate-prep-act/"}],["$","meta","10",{"property":"og:title","content":"Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity"}],["$","meta","11",{"property":"og:description","content":"More than 100,000 physicians unite to challenge the PREP Act liability shield that protected pharmaceutical companies from COVID-19 vaccine injury lawsuits."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/doctors-vacate-prep-act/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/doctors-vacate-prep-act.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity"}],["$","meta","25",{"name":"twitter:description","content":"More than 100,000 physicians unite to challenge the PREP Act liability shield that protected pharmaceutical companies from COVID-19 vaccine injury lawsuits."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/doctors-vacate-prep-act.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

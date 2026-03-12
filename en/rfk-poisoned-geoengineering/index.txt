@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","rfk-poisoned-geoengineering",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","rfk-poisoned-geoengineering","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rfk-poisoned-geoengineering","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T39d8,<h1 id="rfk-confirmed-poisoned-via-geoengineering-exposure">RFK Confirmed Poisoned Via Geoengineering Exposure</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth." -- Revelation 8:7</p>
+</blockquote>
+<p>The skies are not safe. What falls from above is not rain. The geoengineering operations documented worldwide -- the persistent trails laid by aircraft across every continent, the metallic particulates measured in rainwater, the barium, strontium, and aluminum detected in soil samples -- represent a systematic contamination of the earth's atmosphere with toxic heavy metals. And the human body absorbs what the sky deposits.</p>
+<p>Robert F. Kennedy Jr., one of the most prominent voices against pharmaceutical corruption and environmental contamination, has publicly documented his own mercury and heavy metal toxicity. The evidence points to geoengineering exposure as a primary vector -- atmospheric deposition of heavy metals that contaminate air, water, soil, and food, poisoning everyone beneath the sky without discrimination.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a> from the Confliction album reminds us, the curse that entered through the serpent corrupts the entire created order. And as <a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> declares, the exile from Eden included the corruption of the ground itself -- "cursed is the ground for your sake."</p>
+<hr>
+<h2 id="the-geoengineering-evidence">The Geoengineering Evidence</h2>
+<h3 id="what-is-being-sprayed">What Is Being Sprayed</h3>
+<p>Geoengineering -- the deliberate large-scale manipulation of Earth's atmospheric processes -- is no longer a conspiracy theory. It is a documented reality acknowledged by governments, universities, and scientific bodies:</p>
+<ul>
+<li><strong>Solar Radiation Management (SRM)</strong> -- the injection of reflective particles (typically sulfate aerosols or metallic nanoparticles) into the stratosphere to reflect sunlight and reduce global temperatures</li>
+<li><strong>Cloud Seeding</strong> -- the dispersal of silver iodide, potassium iodide, or other nucleating agents to modify precipitation patterns</li>
+<li><strong>Stratospheric Aerosol Injection (SAI)</strong> -- the deployment of aerosols at high altitude to create artificial haze layers</li>
+</ul>
+<p>What is documented in the atmosphere includes:</p>
+<ul>
+<li><strong>Aluminum oxide nanoparticles</strong> -- highly reflective, respiratory toxic, and neurotoxic</li>
+<li><strong>Barium salts</strong> -- toxic to the heart and nervous system, detectable in rainwater samples at levels exceeding safe exposure limits</li>
+<li><strong>Strontium</strong> -- radioactive isotopes of which are known carcinogens</li>
+<li><strong>Mercury</strong> -- a potent neurotoxin that bioaccumulates in the food chain</li>
+<li><strong>Coal fly ash</strong> -- industrial waste containing a mixture of toxic heavy metals, proposed by some researchers as a primary geoengineering dispersant</li>
+</ul>
+<p>Independent researchers worldwide have documented these metals in rainwater, soil, snow, and air samples. The concentrations found often exceed EPA safe limits and are increasing over time, consistent with ongoing and expanding atmospheric deposition programs.</p>
+<h3 id="rfks-mercury-toxicity">RFK's Mercury Toxicity</h3>
+<p>Robert F. Kennedy Jr. has publicly discussed his mercury toxicity -- elevated levels of mercury in his body that have affected his neurological function, including his voice. Mercury toxicity from geoengineering exposure occurs through multiple pathways:</p>
+<p><strong>Inhalation</strong></p>
+<p>Mercury and other heavy metals dispersed in the atmosphere are inhaled with every breath. Fine and ultrafine particles (PM2.5 and smaller) penetrate deep into the lungs, cross the alveolar membrane, and enter the bloodstream directly. This pathway delivers atmospheric metals directly to the brain, heart, and other organs.</p>
+<p><strong>Water Contamination</strong></p>
+<p>Atmospheric metals deposited in watersheds contaminate surface water, groundwater, and municipal water supplies. Water treatment systems are not designed to remove all forms of mercury, particularly organic mercury compounds that form when elemental mercury interacts with environmental microorganisms.</p>
+<p><strong>Food Chain Bioaccumulation</strong></p>
+<p>Mercury in soil is absorbed by plants and accumulates in organisms that consume those plants. Fish, a primary dietary source of mercury exposure, concentrate atmospheric mercury deposited in waterways through bioaccumulation up the food chain.</p>
+<p><strong>Soil Contamination</strong></p>
+<p>Agricultural soil contaminated with atmospheric metals produces crops that contain these metals. The food supply becomes a chronic exposure vector for the entire population.</p>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) the relationship between heavy metal contamination and nanotechnology self-assembly in blood. Dr. Mihalcea has found that heavy metals in the blood appear to facilitate the self-assembly of nanotechnology structures, with metals serving as structural components and electromagnetic response elements within the self-assembling system. EDTA chelation, which removes heavy metals, simultaneously reduces nanotechnology assembly activity.</p>
+<h2 id="the-geoengineering-nanotechnology-connection">The Geoengineering-Nanotechnology Connection</h2>
+<h3 id="dual-vector-contamination">Dual-Vector Contamination</h3>
+<p>The evidence suggests that geoengineering operations serve a dual purpose:</p>
+<ol>
+<li><strong>Heavy metal deposition</strong> -- contaminating the population with metals that facilitate nanotechnology self-assembly</li>
+<li><strong>Direct nanotechnology dispersal</strong> -- distributing nanoparticles and nanotechnology components through atmospheric fallout</li>
+</ol>
+<p>Clifford Carnicom of the Carnicom Institute has documented for over two decades the presence of synthetic filaments -- fibers with no natural origin -- in atmospheric fallout collected worldwide. These filaments exhibit morphological similarity to the self-assembling structures found in blood by Dr. Mihalcea and other researchers, suggesting a common technological origin.</p>
+<p>If geoengineering operations are distributing both the heavy metal "soil" and the nanotechnology "seeds" that grow in that soil, then the atmosphere itself is a delivery mechanism for the self-assembling biosensor system. The sky is raining technology.</p>
+<h3 id="smart-dust-and-atmospheric-sensors">Smart Dust and Atmospheric Sensors</h3>
+<p>"Smart dust" -- microscale or nanoscale sensors designed to be dispersed in the environment and collect data -- is a documented area of military research. DARPA and other agencies have funded the development of millimeter-scale autonomous sensing devices that can:</p>
+<ul>
+<li>Float in the atmosphere, collecting environmental data</li>
+<li>Be dispersed by aircraft over target areas</li>
+<li>Self-organize into mesh sensor networks</li>
+<li>Communicate data to collection platforms via electromagnetic transmission</li>
+</ul>
+<p>The connection between smart dust, atmospheric geoengineering, and injectable nanotechnology creates a comprehensive contamination model: nanotechnology is deployed through both the sky (atmospheric distribution) and the syringe (pharmaceutical injection), creating a population saturated with biosensor technology from both external and internal vectors.</p>
+<h2 id="the-firmament-under-assault">The Firmament Under Assault</h2>
+<h3 id="the-sky-is-changing">The Sky Is Changing</h3>
+<p>Observers worldwide have documented unprecedented changes in the sky:</p>
+<ul>
+<li>Persistent trails that do not dissipate like normal contrails</li>
+<li>Milky, hazy skies that obscure what was once deep blue atmosphere</li>
+<li>Unusual vivid colors at sunrise and sunset -- pinks, purples, and oranges of unnatural intensity</li>
+<li>Geometric patterns in cloud formations that suggest electromagnetic manipulation</li>
+<li>Anomalous light phenomena with no conventional explanation</li>
+</ul>
+<p>These sky changes are consistent with the atmospheric injection of metallic nanoparticles, which scatter light differently than natural atmospheric particles, producing unusual coloration and haze. But they may also carry prophetic significance.</p>
+<p>The Master's Voice prophecy blog describes vivid sky colors as precursors to the arrival of fallen beings -- entities that will descend through the firmament disguised as aliens. The changing sky may indicate changes to the dome itself -- the firmament being altered or modulated in preparation for what is coming through it.</p>
+<p>The plate-shaped earth, rimmed by the ice walls described in early exploration accounts and contained under the dome of the firmament described in Genesis 1, is being blanketed with a metallic atmospheric layer that transforms the sky from God's canopy into the adversary's screen. What falls from this screen enters the blood. What enters the blood builds the biosensor network. And the biosensor network awaits the signal from whatever comes through the changed sky above.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>Herndon, J.M., "Aluminum poisoning of humanity and Earth's biota by clandestine geoengineering activity: implications for India," Current Science, 2015</p>
+</li>
+<li>
+<p>Carnicom Institute, cliffordcarnicom.com, atmospheric filament documentation</p>
+</li>
+<li>
+<p>RFK Jr., public statements on mercury toxicity and environmental exposure</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, heavy metal and nanotechnology interaction documentation</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZR296RWS0yM&#x26;list=PLm6Vq0bTTCDiPIX2ItdQTQGX7mXQXBxoV">NASA and Space — The Greatest Deception Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/293-Arrows_In_The_Sky.mp4">Arrows In The Sky</a> -- The atmospheric assault raining down on humanity</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/351-Broken_Weather.mp4">Broken Weather</a> -- Engineered weather destroying natural patterns</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/65-Smart_Dust.mp4">Smart Dust</a> -- Microscale sensors dispersed through the atmosphere</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/305-Fire_From_The_Sky.mp4">Fire From The Sky</a> -- What descends from the engineered sky</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpents Curse</a> -- The curse corrupting the entire created order</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> -- The ground itself cursed</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/geoengineering-mitigation-experiment/?lang=en">Worldwide Geoengineering Mitigation Intention Experiment</a> -- Efforts to combat atmospheric contamination</li>
+<li><a href="/militarized-weather-warfare/?lang=en">Militarized Weather Warfare In Action: The Evidence</a> -- Weather as a weapon system</li>
+<li><a href="/directed-energy-weapons-smart-cities/?lang=en">Directed Energy Weapons Deployed In Smart Cities</a> -- Energy weapons operating through the contaminated atmosphere</li>
+</ul>
+<hr>
+<p><em>The sky that God designed to rain blessing is raining poison. The atmosphere that was made to sustain life is delivering death -- mercury, aluminum, barium, and nanotechnology falling on every person beneath the dome. RFK's toxicity is everyone's toxicity. His mercury is our mercury. What falls from the sky does not discriminate. But the God who placed the firmament and controls the rain has not abdicated. He sees what is being sprayed. He measures what is being deposited. And He will judge those who turned His sky into a delivery system for their poison. The heavens declare the glory of God -- and even the corrupted heavens testify against those who corrupted them.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"RFK Confirmed Poisoned Via Geoengineering Exposure"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Evidence reveals RFK's mercury and heavy metal toxicity is linked to geoengineering exposure, connecting atmospheric spraying to human health deterioration."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-27T10:00:00Z","children":"March 27, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","rfk",{"href":"/en/tag/rfk/","className":"tag-pill","children":["#","rfk"]}],["$","a","geoengineering",{"href":"/en/tag/geoengineering/","className":"tag-pill","children":["#","geoengineering"]}],["$","a","mercury",{"href":"/en/tag/mercury/","className":"tag-pill","children":["#","mercury"]}],["$","a","heavy-metals",{"href":"/en/tag/heavy-metals/","className":"tag-pill","children":["#","heavy-metals"]}],["$","a","chemtrails",{"href":"/en/tag/chemtrails/","className":"tag-pill","children":["#","chemtrails"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/rfk-poisoned-geoengineering/","title":"RFK Confirmed Poisoned Via Geoengineering Exposure"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/rfk-poisoned-geoengineering/","title":"RFK Confirmed Poisoned Via Geoengineering Exposure"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"RFK Confirmed Poisoned Via Geoengineering Exposure | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Evidence reveals RFK's mercury and heavy metal toxicity is linked to geoengineering exposure, connecting atmospheric spraying to human health deterioration."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"rfk, geoengineering, mercury, heavy-metals, chemtrails"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/rfk-poisoned-geoengineering/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/rfk-poisoned-geoengineering/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/rfk-poisoned-geoengineering/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/rfk-poisoned-geoengineering/"}],["$","meta","10",{"property":"og:title","content":"RFK Confirmed Poisoned Via Geoengineering Exposure"}],["$","meta","11",{"property":"og:description","content":"Evidence reveals RFK's mercury and heavy metal toxicity is linked to geoengineering exposure, connecting atmospheric spraying to human health deterioration."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/rfk-poisoned-geoengineering/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/rfk-poisoned-geoengineering.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"RFK Confirmed Poisoned Via Geoengineering Exposure"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"RFK Confirmed Poisoned Via Geoengineering Exposure"}],["$","meta","25",{"name":"twitter:description","content":"Evidence reveals RFK's mercury and heavy metal toxicity is linked to geoengineering exposure, connecting atmospheric spraying to human health deterioration."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/rfk-poisoned-geoengineering.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

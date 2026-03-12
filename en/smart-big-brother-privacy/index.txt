@@ -1,0 +1,137 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","smart-big-brother-privacy",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","smart-big-brother-privacy","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","smart-big-brother-privacy","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T37b7,<h1 id="privacy-is-history-smart-big-brother-is-already-here">Privacy Is History: SMART Big Brother Is Already Here</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"The eyes of the LORD are in every place, beholding the evil and the good." -- Proverbs 15:3</p>
+</blockquote>
+<p>God's omniscience is a divine attribute -- the capacity of the Creator to see all things because He made all things. It is not surveillance. It is not control. It is the natural consequence of being the author of reality. God sees because God is God.</p>
+<p>The surveillance state inverts this attribute. It seeks to see all things not because it created them, but because it wants to control them. It builds the infrastructure of omniscience -- cameras, sensors, microphones, biometric scanners, data analytics, AI pattern recognition -- and deploys it not for love but for power. The SMART in "smart devices" does not mean intelligent. It means Self-Monitoring, Analysis, and Reporting Technology. Every smart device is a surveillance device by design.</p>
+<p>Big Brother is no longer a warning from George Orwell. He is an installed system. He is the phone in your pocket, the speaker on your counter, the camera at every intersection, the sensor in every building, and the satellite above every city. He sees all, hears all, records all. And unlike God, he does not love you.</p>
+<p>As the Confliction album track <a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> reminds us, the path through the surveillance state is not despair but overcoming -- through the blood of the Lamb, through the word of testimony, through faith that does not love its life unto death.</p>
+<hr>
+<h2 id="the-smart-ecosystem-every-device-is-a-spy">The SMART Ecosystem: Every Device Is a Spy</h2>
+<h3 id="your-phone">Your Phone</h3>
+<p>The smartphone is the most complete surveillance device ever voluntarily adopted by a population. It contains:</p>
+<ul>
+<li><strong>Multiple microphones</strong> -- always listening for wake words, and frequently listening without them. Published research has demonstrated that smartphones record ambient audio and use it for advertising targeting.</li>
+<li><strong>Multiple cameras</strong> -- capable of photographing and filming without screen indication in compromised devices.</li>
+<li><strong>GPS and cellular triangulation</strong> -- providing continuous location tracking accurate to within a few meters.</li>
+<li><strong>Accelerometers and gyroscopes</strong> -- detecting movement, orientation, gait patterns, and even keystroke vibrations.</li>
+<li><strong>Biometric sensors</strong> -- fingerprint, facial recognition, and in some models, iris scanning.</li>
+<li><strong>Wi-Fi and Bluetooth radios</strong> -- continuously scanning for nearby networks and devices, creating a map of every location you visit and every device you approach.</li>
+</ul>
+<p>The phone does not simply make calls and run apps. It generates a continuous, multi-dimensional data stream describing your location, movement, behavior, communications, interests, relationships, health indicators, and emotional state (detectable through voice analysis and usage patterns).</p>
+<h3 id="your-home">Your Home</h3>
+<p>Smart home devices extend the surveillance from your person to your domestic space:</p>
+<ul>
+<li><strong>Smart speakers</strong> (Amazon Echo, Google Home) listen continuously and process audio in the cloud. They are microphones connected to the world's largest data collection companies.</li>
+<li><strong>Smart TVs</strong> contain cameras and microphones and transmit viewing habits, ambient audio, and in some cases, video to manufacturers and advertising networks.</li>
+<li><strong>Smart thermostats</strong> track occupancy patterns, sleep schedules, and daily routines based on heating and cooling preferences.</li>
+<li><strong>Smart doorbells and cameras</strong> (Ring, Nest) provide continuous video surveillance of your property and share data with law enforcement through established partnerships.</li>
+<li><strong>Smart appliances</strong> (refrigerators, washers, ovens) connect to the internet and transmit usage data that reveals dietary habits, cleaning schedules, and lifestyle patterns.</li>
+</ul>
+<p>Every smart device in your home is a sensor reporting to an external network. Together, they create a comprehensive behavioral profile of your domestic life -- what you eat, when you sleep, who visits, what you watch, what you discuss, how you move through your own home.</p>
+<h3 id="your-city">Your City</h3>
+<p>Smart city infrastructure extends surveillance into every public space:</p>
+<ul>
+<li><strong>Automated license plate readers</strong> track every vehicle movement.</li>
+<li><strong>Facial recognition cameras</strong> at intersections, public buildings, and transit stations identify individuals in real time.</li>
+<li><strong>Wi-Fi and Bluetooth sniffers</strong> at commercial locations, airports, and transit hubs track device presence and movement.</li>
+<li><strong>ShotSpotter and acoustic sensors</strong> monitor audio for specific sound patterns.</li>
+<li><strong>Smart streetlights</strong> equipped with cameras, microphones, and environmental sensors provide continuous monitoring of public spaces.</li>
+<li><strong>Drone surveillance</strong> provides aerial monitoring capabilities that can be deployed over neighborhoods, events, or individuals.</li>
+</ul>
+<hr>
+<h2 id="dr-ana-mihalcea-the-surveillance-inside-your-body">Dr. Ana Mihalcea: The Surveillance Inside Your Body</h2>
+<p>Ana Maria Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) what may be the final frontier of surveillance: monitoring technology inside the human body.</p>
+<p>Dr. Mihalcea's darkfield microscopy research documents self-assembling structures in blood that exhibit properties consistent with biosensors -- devices that detect biological conditions and transmit data electromagnetically. If these structures function as claimed by the published nanotechnology literature they resemble, then surveillance extends beyond the phone, the home, and the city -- into the bloodstream, the organs, and potentially the brain.</p>
+<h3 id="bluetooth-signals-from-bodies">Bluetooth Signals from Bodies</h3>
+<p>Research documented by Dr. Mihalcea and others reports unexplained Bluetooth MAC addresses detected in proximity to individuals, particularly those who received COVID-19 injections. These addresses do not correspond to any known personal device and appear in patterns consistent with biological activity rather than electronic device behavior.</p>
+<p>If verified, this represents the integration of the human body into the surveillance IoT network. Your body becomes a broadcasting device -- a SMART sensor transmitting biological data to the infrastructure of Big Brother.</p>
+<h3 id="the-internet-of-bodies">The Internet of Bodies</h3>
+<p>The World Economic Forum has explicitly used the term "Internet of Bodies" (IoB) to describe the extension of surveillance technology into the human body. Their published documentation envisions a world where internal and external sensors generate continuous data about every citizen's biological state, activity, location, and behavior -- data managed by AI and integrated into governance systems.</p>
+<p>Dr. Mihalcea's research suggests this vision is not future. It is present.</p>
+<hr>
+<h2 id="the-firmament-and-total-containment">The Firmament and Total Containment</h2>
+<p>Privacy under the dome is architecturally impossible once the surveillance infrastructure is complete. The firmament -- the solid dome described in Genesis 1:6-8, confirmed by Job 37:18 as "strong, and as a molten looking glass" -- creates a closed, bounded environment. Satellite surveillance covers the surface. Atmospheric sensors (smart dust) blanket the air. Ground-based infrastructure monitors every building, street, and vehicle. Body-internal biosensors monitor every person.</p>
+<p>Under the dome, there is nowhere to hide. The surveillance is total because the environment is total. The dome seals the earth as a closed system, and within that system, every square meter, every cubic meter of air, and every human body can be monitored.</p>
+<p>This is not God's omniscience. God's omniscience is motivated by love. This is the serpent's omniscience -- motivated by control, built on technology, enforced by the fear of consequences. The sky above is the firmament of God. The surveillance below is the firmament of the Beast -- a dome of data that contains, monitors, and controls everything beneath it.</p>
+<hr>
+<h2 id="the-practical-reality-what-is-already-known-about-you">The Practical Reality: What Is Already Known About You</h2>
+<p>For the average person in a developed nation, the surveillance state already knows:</p>
+<ul>
+<li>Your location at all times (phone GPS, vehicle telematics, facial recognition)</li>
+<li>Your purchase history (credit/debit cards, online shopping, loyalty programs)</li>
+<li>Your communication content (email scanning, messaging metadata, voice assistant recordings)</li>
+<li>Your social network (contacts, social media connections, co-location data)</li>
+<li>Your health status (medical records, pharmacy data, fitness trackers, and potentially internal biosensors)</li>
+<li>Your political views (social media activity, search history, donation records)</li>
+<li>Your emotional state (voice analysis, facial expression recognition, behavioral patterns)</li>
+<li>Your daily routine (smart home data, commute patterns, work schedule)</li>
+</ul>
+<p>This is not theoretical. This is the current data profile available to government agencies and corporations with access to the combined datasets of the surveillance ecosystem. The question is not whether Big Brother is watching. The question is whether there is any aspect of your life he is not watching.</p>
+<hr>
+<h2 id="what-you-can-do">What You Can Do</h2>
+<ol>
+<li><strong>Audit your smart devices.</strong> Every connected device is a sensor. Decide which sensors you are willing to tolerate and remove the rest.</li>
+<li><strong>Use cash.</strong> Cash transactions leave no digital trace. As digital payments expand, cash use becomes an act of privacy resistance.</li>
+<li><strong>Encrypt communications.</strong> End-to-end encrypted messaging and email protect content from casual interception.</li>
+<li><strong>Minimize biometric exposure.</strong> Avoid unnecessary facial recognition, fingerprinting, and biometric enrollment.</li>
+<li><strong>Understand that privacy is a spiritual issue.</strong> The temple of the body was designed for the Holy Spirit, not for surveillance networks. "The secret things belong unto the LORD our God" (Deuteronomy 29:29). Some things are meant to be known only by God.</li>
+</ol>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/49-Smart_City_Prison.mp4">Smart City Prison</a> -- The 15-minute surveillance trap</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/65-Smart_Dust.mp4">Smart Dust</a> -- Invisible sensors blanketing every surface</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a> -- When the body itself becomes a transmitter</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/471-Beast_System_Bluetooth.mp4">Beast System Bluetooth</a> -- The wireless infrastructure of total control</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> -- The path through surveillance is faith, not despair</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/us-omniverse-under-ai/?lang=en">Are You Ready For The US Omniverse Under AI Governance</a> -- The digital twin that aggregates all surveillance data</li>
+<li><a href="/att-patent-surveil-brain/?lang=en">AT&#x26;T Patent To Surveil and Hack Your Brain Waves</a> -- Surveillance that reaches inside the skull</li>
+<li><a href="/mandatory-digital-id-mexico/?lang=en">Mandatory Digital ID For All Citizens Begins In Mexico</a> -- The identity layer of the surveillance state</li>
+<li><a href="/palantir-panopticon-seeing-stone/?lang=en">Palantir Panopticon: The Seeing Stone of Total Surveillance</a> -- The AI that processes the data Big Brother collects</li>
+</ul>
+<hr>
+<p><em>God sees all because He is the Creator, and His seeing is an expression of love. "The eyes of the LORD run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him" (2 Chronicles 16:9). He sees in order to show Himself strong on your behalf. The surveillance state sees in order to show itself strong against you. Every smart device, every camera, every sensor, every biosensor inside the body -- they see not for love but for control. Privacy is history because the infrastructure of control is complete. But the God who sees all has already declared His verdict on every system of control: "Fear not, for I am with thee" (Isaiah 41:10). The all-seeing God is not the enemy. He is the refuge. And no surveillance state, however comprehensive, can monitor what happens between a soul and its Creator in the secret place of prayer.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Privacy Is History: SMART Big Brother Is Already Here"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The convergence of smart devices, AI surveillance, biometric tracking, and digital infrastructure has made privacy a historical relic, not a present reality."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-07T10:00:00Z","children":"February 7, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","privacy",{"href":"/en/tag/privacy/","className":"tag-pill","children":["#","privacy"]}],["$","a","surveillance",{"href":"/en/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}],["$","a","smart-devices",{"href":"/en/tag/smart-devices/","className":"tag-pill","children":["#","smart-devices"]}],["$","a","big-brother",{"href":"/en/tag/big-brother/","className":"tag-pill","children":["#","big-brother"]}],["$","a","biometrics",{"href":"/en/tag/biometrics/","className":"tag-pill","children":["#","biometrics"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/smart-big-brother-privacy/","title":"Privacy Is History: SMART Big Brother Is Already Here"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/smart-big-brother-privacy/","title":"Privacy Is History: SMART Big Brother Is Already Here"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Privacy Is History: SMART Big Brother Is Already Here | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The convergence of smart devices, AI surveillance, biometric tracking, and digital infrastructure has made privacy a historical relic, not a present reality."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"privacy, surveillance, smart-devices, big-brother, biometrics"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/smart-big-brother-privacy/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/smart-big-brother-privacy/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/smart-big-brother-privacy/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/smart-big-brother-privacy/"}],["$","meta","10",{"property":"og:title","content":"Privacy Is History: SMART Big Brother Is Already Here"}],["$","meta","11",{"property":"og:description","content":"The convergence of smart devices, AI surveillance, biometric tracking, and digital infrastructure has made privacy a historical relic, not a present reality."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/smart-big-brother-privacy/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/smart-big-brother-privacy.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Privacy Is History: SMART Big Brother Is Already Here"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Privacy Is History: SMART Big Brother Is Already Here"}],["$","meta","25",{"name":"twitter:description","content":"The convergence of smart devices, AI surveillance, biometric tracking, and digital infrastructure has made privacy a historical relic, not a present reality."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/smart-big-brother-privacy.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,158 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","who-putting-voices-heads-part4",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","who-putting-voices-heads-part4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","who-putting-voices-heads-part4","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T38c9,<h1 id="who-is-really-putting-voices-in-peoples-heads-part-4">Who Is Really Putting Voices in People's Heads Part 4</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"For there is nothing covered, that shall not be revealed; and hid, that shall not be known."</em> — Matthew 10:26</p>
+</blockquote>
+<p>In the first three parts of this series, we established that V2K technology is real, that it has been weaponized by the military, and that a sophisticated disinformation campaign protects it from public scrutiny. Now comes the question that every targeted individual asks — and that the establishment desperately wants to prevent you from answering: <strong>Who is doing this?</strong></p>
+<p>The answer is not a single person or a single agency. It is a network — a web of intelligence agencies, military contractors, research institutions, and secret societies that operates across national boundaries and outside democratic oversight. This network has roots in the Jesuit order's centuries-old infrastructure of global control, it has been technologically empowered by the military-industrial complex, and it is spiritually animated by the principalities and powers described in Ephesians 6:12.</p>
+<p>Howard Pittman was shown that the second heaven is organized with military precision — ranks, hierarchies, chains of command. The earthly V2K network mirrors this spiritual structure: it has commanders, operators, analysts, and support staff. It operates within classified programs that are shielded from congressional oversight, public accountability, and legal challenge. And it targets civilians with impunity, because the legal and medical systems have been designed to make V2K targeting invisible and its victims voiceless.</p>
+<hr>
+<h2 id="the-intelligence-agencies">The Intelligence Agencies</h2>
+<h3 id="the-cia">The CIA</h3>
+<p>The Central Intelligence Agency has the longest documented history of mind control research of any organization on Earth. MKUltra (1953-1973) was merely the most well-known program — the CIA has conducted mind control research under numerous classified programs, both before and after MKUltra's official termination.</p>
+<p>Key facts about CIA involvement in V2K-related technology:</p>
+<ul>
+<li>The CIA funded the original research into microwave auditory effects through front organizations</li>
+<li>MKUltra subprojects included electronic brain stimulation, remote influence, and audio transmission research</li>
+<li>The CIA's Office of Technical Services developed sophisticated audio surveillance and transmission devices</li>
+<li>CIA contractor relationships with universities, hospitals, and research institutions provided cover for classified research</li>
+<li>Former CIA officials have acknowledged the existence of directed energy weapons in public testimony</li>
+</ul>
+<p>The CIA's connection to the Jesuit order runs through Georgetown University — the premier Jesuit institution in America and a primary recruiting ground for CIA personnel. Georgetown's School of Foreign Service has produced more intelligence community leaders than any other program. This is not coincidence — it is the Jesuit method of institutional infiltration at its most effective.</p>
+<h3 id="the-nsa">The NSA</h3>
+<p>The National Security Agency — the largest intelligence agency in the world by budget and personnel — monitors global communications and operates the world's most sophisticated electronic surveillance infrastructure. The NSA's capabilities include:</p>
+<ul>
+<li><strong>SIGINT</strong> (Signals Intelligence): Interception and analysis of electronic signals</li>
+<li><strong>ELINT</strong> (Electronic Intelligence): Detection and analysis of electromagnetic emissions</li>
+<li><strong>Directed energy</strong>: The NSA operates directed energy research programs</li>
+<li><strong>Global infrastructure</strong>: The NSA's network of ground stations, satellites, and undersea cables provides worldwide coverage</li>
+</ul>
+<p>The NSA's involvement in V2K is suggested by:</p>
+<ul>
+<li>Its control of the electromagnetic spectrum monitoring infrastructure</li>
+<li>Its partnerships with defense contractors who develop directed energy weapons</li>
+<li>Its documented practice of warrantless surveillance of American citizens</li>
+<li>Its classification authority, which shields V2K programs from public oversight</li>
+</ul>
+<h3 id="darpa">DARPA</h3>
+<p>The Defense Advanced Research Projects Agency is the military's primary technology development organization. DARPA has funded:</p>
+<ul>
+<li>The <strong>Silent Talk</strong> program (direct brain-to-computer communication)</li>
+<li><strong>Neural interface</strong> research</li>
+<li><strong>Directed energy weapon</strong> development</li>
+<li><strong>Brain-computer interface</strong> programs</li>
+<li><strong>Biological enhancement</strong> research</li>
+</ul>
+<p>DARPA operates outside normal military procurement channels and with minimal oversight. Its programs are classified at levels that prevent congressional review. The agency serves as a bridge between academic research and military deployment — identifying promising technologies at universities and accelerating their development into weapons systems.</p>
+<h2 id="the-defense-contractors">The Defense Contractors</h2>
+<h3 id="the-military-industrial-complex">The Military-Industrial Complex</h3>
+<p>The V2K weapon system — like all advanced military technology — is developed, manufactured, and maintained by private defense contractors. Key companies include:</p>
+<p><strong>Lockheed Martin</strong>: The world's largest defense contractor, with extensive directed energy weapons programs and classified contracts with every major intelligence agency.</p>
+<p><strong>Raytheon</strong> (now RTX Corporation): A major developer of microwave weapons, radar systems, and electronic warfare equipment. Raytheon's Active Denial System — a microwave weapon designed to cause pain — demonstrates the company's expertise in directed microwave energy.</p>
+<p><strong>General Dynamics</strong>: Develops electronic warfare systems, communications systems, and intelligence technology.</p>
+<p><strong>Northrop Grumman</strong>: Develops space-based systems, electronic warfare, and directed energy weapons.</p>
+<p><strong>BAE Systems</strong>: Develops electronic warfare and signals intelligence systems.</p>
+<p><strong>Sierra Nevada Corporation</strong>: Developed the MEDUSA (Mob Excess Deterrent Using Silent Audio) device for the US Navy.</p>
+<p>These companies operate in a revolving door with the Pentagon and intelligence agencies. Former military and intelligence officials sit on their boards, lead their programs, and maintain classified clearances. The line between government and contractor is deliberately blurred.</p>
+<h3 id="the-fusion-centers">The Fusion Centers</h3>
+<p>Since 2003, the Department of Homeland Security has funded over <strong>80 fusion centers</strong> across the United States. These centers combine intelligence from federal, state, and local law enforcement agencies, as well as private sector partners.</p>
+<p>Fusion centers have been documented:</p>
+<ul>
+<li>Monitoring domestic political activity</li>
+<li>Sharing intelligence with private corporations</li>
+<li>Operating with minimal transparency and accountability</li>
+<li>Classifying American citizens as potential threats based on political beliefs</li>
+</ul>
+<p>V2K targeting of domestic civilians could be coordinated through fusion centers, which provide the institutional infrastructure for multi-agency operations and shield those operations from public oversight through classification.</p>
+<h2 id="the-research-institutions">The Research Institutions</h2>
+<h3 id="universities-in-the-network">Universities in the Network</h3>
+<p>The V2K research network extends through major universities:</p>
+<ul>
+<li><strong>MIT Lincoln Laboratory</strong>: Develops radar and electromagnetic systems for the military</li>
+<li><strong>Johns Hopkins Applied Physics Laboratory</strong>: Conducts classified defense research</li>
+<li><strong>Georgia Tech Research Institute</strong>: Develops electronic warfare and directed energy systems</li>
+<li><strong>Various medical schools</strong>: Conduct neuroscience research with classified military applications</li>
+</ul>
+<p>These institutions provide academic cover for classified research, train the next generation of weapons developers, and produce the scientific publications that advance the technology while maintaining plausible deniability about weapons applications.</p>
+<h3 id="the-jesuit-university-connection">The Jesuit University Connection</h3>
+<p>Jesuit universities — Georgetown, Fordham, Loyola, Boston College, and others — train intelligence professionals, conduct defense-related research, and maintain close relationships with the military-industrial complex. Georgetown's strategic location in Washington, D.C., and its deep connections to the intelligence community make it a central node in the V2K research and operations network.</p>
+<p>The Catholic Confidential documentary reveals that Jesuit infiltration extends to every institution. The Jesuit presence in the intelligence community is not passive — it is strategic. The order's 500-year history of intelligence operations, information warfare, and psychological manipulation makes it uniquely qualified to design and operate V2K targeting programs.</p>
+<h2 id="the-spiritual-operators">The Spiritual Operators</h2>
+<h3 id="beyond-technology">Beyond Technology</h3>
+<p>V2K technology operates in the physical realm, but its effects extend into the spiritual realm. Howard Pittman's vision of the three heavens suggests that the technology may be exploited by spiritual entities:</p>
+<ul>
+<li>Demonic forces could use V2K transmissions as carriers for spiritual influence</li>
+<li>The confusion created by V2K could open spiritual doors that would otherwise remain closed</li>
+<li>The fear, isolation, and despair experienced by V2K targets creates spiritual vulnerability</li>
+<li>The psychiatric medication prescribed to V2K targets may impair spiritual discernment</li>
+</ul>
+<p>The operators of V2K technology may not fully understand the spiritual dimensions of their weapon. But the principalities and powers of Ephesians 6:12 understand perfectly — and they exploit the technology for their own purposes.</p>
+<h2 id="what-can-be-done">What Can Be Done</h2>
+<h3 id="individual-response">Individual Response</h3>
+<ol>
+<li><strong>Seek God first</strong>: The most powerful defense against V2K is a strong relationship with God, who can provide discernment, peace, and protection</li>
+<li><strong>Document everything</strong>: Keep detailed records of V2K experiences, including times, locations, and characteristics</li>
+<li><strong>Connect with others</strong>: Find trusted community — other targeted individuals, faith communities, advocacy groups</li>
+<li><strong>Protect your health</strong>: Maintain physical and mental health through nutrition, exercise, and rest</li>
+<li><strong>Resist psychiatric labeling</strong>: Be cautious about seeking psychiatric help, as the system is designed to discredit V2K reports</li>
+</ol>
+<h3 id="collective-response">Collective Response</h3>
+<ol>
+<li><strong>Demand transparency</strong>: Push for congressional investigation of directed energy weapons targeting civilians</li>
+<li><strong>Support legislation</strong>: Advocate for laws protecting citizens from electromagnetic weapons</li>
+<li><strong>Spread awareness</strong>: Share information about V2K technology with others</li>
+<li><strong>Pray</strong>: Spiritual warfare requires spiritual weapons — prayer, fasting, and the Word of God</li>
+</ol>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — identifying V2K operators and institutional networks</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — spiritual dimensions of technological targeting</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit intelligence operations</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Military-industrial complex documentation and defense contractor records</li>
+<li>Fusion center oversight reports</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/v2k-lies-myths-part3/?lang=en">V2K: The Lies, Myths, and Misunderstandings Part 3</a></li>
+<li><a href="/investigation-grandma-part5/?lang=en">An Investigation Into My Grandma's Targeting Part 5</a></li>
+<li><a href="/cell-towers-nih-contract-part9/?lang=en">Cell Towers and the NIH CONTRACT You Were Never Told About Part 9</a></li>
+</ul>
+<p><em>Who is putting voices in people's heads? Not a lone madman in a basement. Not a science fiction villain. A network — vast, well-funded, classified, and protected by every institution you have been taught to trust. Intelligence agencies. Defense contractors. Research universities. Secret societies. And behind them all, the spiritual forces that have waged war on humanity since the beginning. Know your enemy. Seek your God. The battle is real, and your mind is the battlefield.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Who Is Really Putting Voices in People's Heads Part 4"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Part 4 of the V2K series identifies the agencies, contractors, and networks behind voice-to-skull targeting of civilians worldwide."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-10T10:00:00Z","children":"December 10, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","V2K",{"href":"/en/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","intelligence-agencies",{"href":"/en/tag/intelligence-agencies/","className":"tag-pill","children":["#","intelligence-agencies"]}],["$","a","CIA",{"href":"/en/tag/CIA/","className":"tag-pill","children":["#","CIA"]}],["$","a","defense-contractors",{"href":"/en/tag/defense-contractors/","className":"tag-pill","children":["#","defense-contractors"]}],["$","a","targeted-individuals",{"href":"/en/tag/targeted-individuals/","className":"tag-pill","children":["#","targeted-individuals"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/who-putting-voices-heads-part4/","title":"Who Is Really Putting Voices in People's Heads Part 4"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/who-putting-voices-heads-part4/","title":"Who Is Really Putting Voices in People's Heads Part 4"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Who Is Really Putting Voices in People's Heads Part 4 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Part 4 of the V2K series identifies the agencies, contractors, and networks behind voice-to-skull targeting of civilians worldwide."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"V2K, intelligence-agencies, CIA, defense-contractors, targeted-individuals"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/who-putting-voices-heads-part4/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/who-putting-voices-heads-part4/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/who-putting-voices-heads-part4/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/who-putting-voices-heads-part4/"}],["$","meta","10",{"property":"og:title","content":"Who Is Really Putting Voices in People's Heads Part 4"}],["$","meta","11",{"property":"og:description","content":"Part 4 of the V2K series identifies the agencies, contractors, and networks behind voice-to-skull targeting of civilians worldwide."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/who-putting-voices-heads-part4/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/who-putting-voices-heads-part4.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Who Is Really Putting Voices in People's Heads Part 4"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Who Is Really Putting Voices in People's Heads Part 4"}],["$","meta","25",{"name":"twitter:description","content":"Part 4 of the V2K series identifies the agencies, contractors, and networks behind voice-to-skull targeting of civilians worldwide."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/who-putting-voices-heads-part4.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

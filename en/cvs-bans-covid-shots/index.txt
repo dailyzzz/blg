@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","cvs-bans-covid-shots",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","cvs-bans-covid-shots","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cvs-bans-covid-shots","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T40b5,<h1 id="cvs-immediately-bans-covid-shots-at-some-pharmacies">CVS Immediately Bans COVID Shots at Some Pharmacies</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that are accustomed to do evil." — Jeremiah 13:23</p>
+</blockquote>
+<p>When Pharaoh's heart was hardened, he did not release the Israelites because it was right. He released them because the plagues made the cost of holding them unbearable. His compliance was not repentance — it was calculation. And the moment the pressure subsided, he pursued them to the Red Sea.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> reveals, the battle between good and evil is not won through the voluntary compliance of the wicked but through the overwhelming power of truth that makes the continuation of the lie untenable. CVS did not ban COVID shots because it discovered a conscience. It banned them because the ground beneath the COVID-19 injection program has shifted — legally, politically, and commercially — and the cost of continuing has begun to exceed the cost of stopping.</p>
+<p>The question is not why CVS stopped. The question is why it took so long — and how many millions of injections were administered while the company knew, or should have known, that the products it was dispensing had not been subjected to adequate safety review.</p>
+<hr>
+<h2 id="the-pharmacy-as-distribution-channel">The Pharmacy as Distribution Channel</h2>
+<p>During the COVID-19 pandemic, pharmacies became the primary distribution channel for COVID-19 injections in the United States. CVS Health, the nation's largest pharmacy chain with over 9,900 locations, administered tens of millions of COVID-19 doses through its retail pharmacies and MinuteClinic locations.</p>
+<p>The Federal Retail Pharmacy Program for COVID-19 Vaccination — a partnership between the federal government and pharmacy chains — was announced in November 2020, before any vaccine had received Emergency Use Authorization. The program enrolled CVS, Walgreens, Walmart, Rite Aid, and other major pharmacy chains as distribution nodes in the national vaccination campaign.</p>
+<p>Under this program, pharmacies received COVID-19 vaccine doses directly from the federal government at no cost. The pharmacies were reimbursed for administration fees — approximately $40 per dose — through Medicare, Medicaid, and private insurance, as well as through the HRSA COVID-19 Uninsured Program for patients without insurance. At scale, these administration fees generated billions in revenue for pharmacy chains.</p>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com) that the pharmacy distribution model served a specific strategic purpose: it bypassed the traditional physician-patient relationship. "When you receive a vaccine at your doctor's office, your physician reviews your medical history, assesses your risk factors, discusses the risks and benefits, and makes an individualized recommendation," Kingston has written. "When you receive a vaccine at a pharmacy, a pharmacist or pharmacy technician administers it according to a protocol — no medical history review, no individualized risk assessment, no physician oversight. The pharmacy model was designed to maximize throughput, not safety."</p>
+<h3 id="the-prep-act-shield-at-the-pharmacy-counter">The PREP Act Shield at the Pharmacy Counter</h3>
+<p>Pharmacists and pharmacy technicians who administered COVID-19 injections were covered under the PREP Act liability shield. This meant that even if a pharmacist administered a dose to a patient with known contraindications, even if the pharmacist failed to screen for allergies or medical conditions, even if the pharmacist administered the wrong dose or used an expired vial — the pharmacist, the pharmacy, and the manufacturer were all shielded from liability.</p>
+<p>This liability shield removed the only mechanism that normally incentivizes caution in medical practice: the fear of consequences for negligence. With liability eliminated, the incentive structure was entirely one-directional — more doses administered meant more revenue, with zero legal risk.</p>
+<hr>
+<h2 id="the-ban-what-happened">The Ban: What Happened</h2>
+<p>CVS Health announced the immediate cessation of COVID-19 vaccination services at select pharmacy locations. The announcement cited multiple factors:</p>
+<p><strong>Declining demand:</strong> Public uptake of COVID-19 boosters had plummeted from pandemic-era highs. The most recent booster campaign achieved an uptake rate below 20% of the eligible population — a dramatic decline from the initial vaccination campaign that reached over 70% of adults.</p>
+<p><strong>Regulatory uncertainty:</strong> With the FDA's termination of Emergency Use Authorizations and HHS leadership openly questioning the safety of mRNA technology, the regulatory landscape for COVID-19 injections has become unstable. Pharmacies that continue to administer these products face potential future liability exposure if the PREP Act shield is modified or vacated.</p>
+<p><strong>Inventory management:</strong> COVID-19 vaccine doses have a limited shelf life and require specialized cold chain storage. With declining demand, pharmacies have been discarding significant quantities of expired doses — representing both waste and reputational risk.</p>
+<p><strong>Staff concerns:</strong> Pharmacy workers — including pharmacists and technicians — have increasingly expressed concern about administering products whose safety profile is under active scrutiny by federal health authorities. Several pharmacy employee organizations have called for the right to decline administration without professional consequences.</p>
+<h3 id="what-cvs-did-not-say">What CVS Did Not Say</h3>
+<p>CVS did not acknowledge the safety concerns that have driven the decline in public demand. The company did not reference the VAERS data documenting hundreds of thousands of adverse event reports. It did not reference the myocarditis signal in young males. It did not reference the excess mortality data. It did not reference the growing body of peer-reviewed research documenting adverse effects of mRNA COVID-19 injections.</p>
+<p>The company framed its decision as a response to market conditions — demand has declined, and the business case for maintaining COVID-19 vaccination services at all locations no longer exists. This framing allows CVS to retreat from the vaccination program without admitting that the products it administered to millions of Americans may have caused harm.</p>
+<hr>
+<h2 id="the-revenue-machine">The Revenue Machine</h2>
+<p>To understand CVS's decision, one must understand the scale of the revenue the company generated from COVID-19 vaccinations.</p>
+<p>CVS Health reported over $11 billion in COVID-19-related revenue across 2021-2023, encompassing vaccination administration fees, COVID-19 testing services, and related pharmacy sales. The company administered over 59 million COVID-19 vaccine and booster doses during this period.</p>
+<p>At approximately $40 per dose in administration fees — multiplied across 59 million doses — the vaccination program generated approximately $2.36 billion in administration fee revenue alone. This does not account for additional revenue from COVID-19 testing, related pharmacy purchases, and the customer acquisition value of the millions of new patients who entered CVS locations for vaccination services.</p>
+<p>Kingston has observed: "CVS did not administer 59 million doses because it cared about public health. It administered 59 million doses because each dose generated $40 in revenue under a liability-free legal framework. The moment the revenue opportunity declines and the liability landscape shifts, the 'public health' mission evaporates. This tells you everything you need to know about what motivated the program."</p>
+<hr>
+<h2 id="the-pharmacists-dilemma">The Pharmacist's Dilemma</h2>
+<p>Pharmacists occupy a unique position in the healthcare system. They are licensed professionals with doctoral-level education in pharmacology, drug interactions, and patient safety. They take an oath to prioritize patient welfare. Yet during the COVID-19 pandemic, pharmacists were placed in an impossible position.</p>
+<p>The protocols governing COVID-19 vaccination at pharmacies were set not by the pharmacist's independent professional judgment but by federal and corporate directives. Pharmacists were instructed to administer the injections to every eligible patient who requested them. Screening protocols were minimal — a brief questionnaire about allergies and current illness, with no review of the patient's complete medical history.</p>
+<p>Pharmacists who expressed concerns about the products — who questioned their safety, who reported adverse events, who recommended caution for specific patient populations — faced professional consequences. State pharmacy boards, guided by CDC and FDA positions, treated any deviation from the recommended vaccination protocols as potential grounds for disciplinary action.</p>
+<p>Kingston has documented cases in which pharmacists who refused to administer COVID-19 injections — based on their professional judgment that the products posed unacceptable risks for specific patients — were terminated, reported to licensing boards, and subjected to professional investigation. "The pharmacist's oath to 'do no harm' was functionally suspended during COVID-19," Kingston has stated. "Any pharmacist who acted on that oath — who declined to administer a product they believed was harmful — was punished. The system demanded compliance, not professional judgment."</p>
+<hr>
+<h2 id="the-prophetic-pattern">The Prophetic Pattern</h2>
+<blockquote>
+<p>"For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows." — 1 Timothy 6:10</p>
+</blockquote>
+<p>CVS's decision to halt COVID-19 injections at some locations is driven by the same force that drove it to administer 59 million doses: financial calculation. The company began because the revenue was enormous and the liability was zero. It is stopping because the revenue has declined and the liability landscape is shifting.</p>
+<p>The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/125-Illuminati_Founding_Fathers.mp4">Illuminati Founding Fathers</a> documents how commercial interests have been embedded in the governance structures of the nation from its inception — how the merchants and the rulers have always been intertwined, and how the language of public service has always served as cover for private profit.</p>
+<p>At no point in this arc — from the beginning of CVS's participation in the vaccination program to its partial withdrawal — has the driving motivation been the health and safety of the patients who walked through its doors. The motivation has been, is, and will remain financial. The leopard has not changed its spots. It has merely repositioned itself for the next commercial opportunity.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>CVS Health — Corporate announcements and SEC filings</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of pharmacy distribution models, PREP Act liability shields, and pharmaceutical revenue structures</p>
+</li>
+<li>
+<p>Federal Retail Pharmacy Program for COVID-19 Vaccination — CDC.gov</p>
+</li>
+<li>
+<p>VAERS (Vaccine Adverse Event Reporting System) — vaers.hhs.gov</p>
+</li>
+<li>
+<p>Jeremiah 13:23, 1 Timothy 6:10 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/125-Illuminati_Founding_Fathers.mp4">Illuminati Founding Fathers</a> — Commercial interests embedded in governance structures</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Corporate and institutional compliance with the Beast System</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> — Medical compliance as the infrastructure of control</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> — Truth overwhelming the lies that sustained the system</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — Corporate deception clothed in the language of health</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/fda-ended-emergency-use-authorizations/?lang=en">FDA Just Ended Emergency Use Authorizations for COVID-19</a> — The regulatory shift that changed the commercial landscape</li>
+<li><a href="/florida-ends-vaccine-mandates/?lang=en">Florida Surgeon General Announces End to ALL Vaccine Mandates</a> — State-level rejection of the vaccination apparatus</li>
+<li><a href="/doctors-vacate-prep-act/?lang=en">Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity</a> — The legal challenge to the liability shield that enabled the pharmacy distribution model</li>
+<li><a href="/vaccine-recall-2024-biopharma/?lang=en">2024 Vaccine Recall Underway by BioPharma Giant</a> — Product safety concerns forcing corporate action</li>
+</ul>
+<hr>
+<p><em>CVS banned COVID shots not because it found its conscience but because the financial calculus shifted. The company that administered 59 million doses under a liability-free framework now retreats as that framework crumbles — not with an apology, not with an acknowledgment of harm, but with a quiet corporate adjustment dressed in the language of market conditions. "They have healed also the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace" (Jeremiah 6:14). There is no peace for those injured by the products CVS dispensed. And there will be no peace until accountability replaces calculation as the driving force in American healthcare.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"CVS Immediately Bans COVID Shots at Some Pharmacies"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"CVS Health halts COVID-19 vaccinations at select pharmacy locations amid growing safety concerns and declining public demand for the mRNA injections."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-10T10:00:00Z","children":"May 10, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CVS",{"href":"/en/tag/CVS/","className":"tag-pill","children":["#","CVS"]}],["$","a","COVID-shots",{"href":"/en/tag/COVID-shots/","className":"tag-pill","children":["#","COVID-shots"]}],["$","a","pharmacies",{"href":"/en/tag/pharmacies/","className":"tag-pill","children":["#","pharmacies"]}],["$","a","vaccines",{"href":"/en/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","mRNA",{"href":"/en/tag/mRNA/","className":"tag-pill","children":["#","mRNA"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cvs-bans-covid-shots/","title":"CVS Immediately Bans COVID Shots at Some Pharmacies"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cvs-bans-covid-shots/","title":"CVS Immediately Bans COVID Shots at Some Pharmacies"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"CVS Immediately Bans COVID Shots at Some Pharmacies | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"CVS Health halts COVID-19 vaccinations at select pharmacy locations amid growing safety concerns and declining public demand for the mRNA injections."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CVS, COVID-shots, pharmacies, vaccines, mRNA"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/cvs-bans-covid-shots/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cvs-bans-covid-shots/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cvs-bans-covid-shots/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cvs-bans-covid-shots/"}],["$","meta","10",{"property":"og:title","content":"CVS Immediately Bans COVID Shots at Some Pharmacies"}],["$","meta","11",{"property":"og:description","content":"CVS Health halts COVID-19 vaccinations at select pharmacy locations amid growing safety concerns and declining public demand for the mRNA injections."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/cvs-bans-covid-shots/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cvs-bans-covid-shots.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"CVS Immediately Bans COVID Shots at Some Pharmacies"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"CVS Immediately Bans COVID Shots at Some Pharmacies"}],["$","meta","25",{"name":"twitter:description","content":"CVS Health halts COVID-19 vaccinations at select pharmacy locations amid growing safety concerns and declining public demand for the mRNA injections."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cvs-bans-covid-shots.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

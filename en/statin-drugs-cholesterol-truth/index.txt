@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","statin-drugs-cholesterol-truth",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","statin-drugs-cholesterol-truth","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","statin-drugs-cholesterol-truth","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4520,<h1 id="study-verifies-cholesterol-lowering-statin-drugs-are-dangerous">Study Verifies Cholesterol-Lowering Statin Drugs Are Dangerous</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness." — Isaiah 5:20</p>
+</blockquote>
+<p>There is a category of deception so thorough, so institutionally embedded, that it inverts reality itself. It takes something the body needs — something God designed into human biology for essential purposes — and calls it the enemy. It takes a pharmaceutical product that damages the body at the cellular level and calls it medicine. It takes a natural substance that protects the brain, produces hormones, and maintains the integrity of every cell membrane in the body, and declares it a disease marker that must be suppressed at all costs.</p>
+<p>This is the statin deception. For over four decades, the pharmaceutical industry has waged war on cholesterol — a molecule so vital to human life that the body manufactures it in every cell, with the liver producing approximately 80% of total cholesterol regardless of dietary intake. Cholesterol is not a toxin. It is not a disease. It is a building material for life itself. And the drugs designed to suppress its production — statins — are among the most prescribed medications in history, generating hundreds of billions of dollars in revenue while systematically damaging the bodies of the people who take them.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> speaks to the light of truth breaking through the darkness of deception — and the statin lie is a cave of darkness that has imprisoned hundreds of millions of people in a pharmaceutical dependency based on fraudulent science. <a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> reminds us that the enemy always offers an exchange — health for sickness, truth for lies, freedom for bondage — and statins are precisely this exchange: the promise of cardiac protection in exchange for the destruction of the body from within.</p>
+<hr>
+<h2 id="the-study-what-new-research-confirms">The Study: What New Research Confirms</h2>
+<p>Recent research has added to the growing body of evidence that statin drugs carry serious, underreported health risks that outweigh their purported benefits for the vast majority of people who take them.</p>
+<h3 id="muscle-damage-myopathy-and-rhabdomyolysis">Muscle Damage (Myopathy and Rhabdomyolysis)</h3>
+<p>Statins work by inhibiting HMG-CoA reductase, an enzyme essential for cholesterol synthesis. But this same enzyme is essential for the production of Coenzyme Q10 (CoQ10) — a molecule critical for mitochondrial energy production in every cell of the body, particularly in muscle tissue and the heart.</p>
+<p>Studies confirm that statin use depletes CoQ10 levels by up to 40%, leading to:</p>
+<ul>
+<li><strong>Myalgia</strong> (muscle pain) — reported by 10-25% of statin users in clinical practice, far exceeding the rates reported in industry-funded clinical trials</li>
+<li><strong>Myopathy</strong> (muscle weakness and deterioration) — documented damage to skeletal muscle fibers</li>
+<li><strong>Rhabdomyolysis</strong> — in severe cases, muscle tissue breaks down and releases myoglobin into the bloodstream, causing kidney damage and potentially death</li>
+</ul>
+<p>The irony is devastating: a drug prescribed to protect the heart depletes the very molecule (CoQ10) that the heart muscle needs most to function.</p>
+<h3 id="cognitive-decline">Cognitive Decline</h3>
+<p>The brain contains approximately 25% of the body's total cholesterol. It is the most cholesterol-rich organ in the body because cholesterol is essential for synapse formation, myelin sheath maintenance, and neurotransmitter function. Lowering cholesterol production with statins directly impacts brain function.</p>
+<p>Research has documented:</p>
+<ul>
+<li><strong>Memory impairment</strong> — the FDA added a warning about memory loss and confusion to statin labels in 2012, an acknowledgment forced by accumulating adverse event reports</li>
+<li><strong>Cognitive decline</strong> — studies have demonstrated measurable decreases in cognitive function in statin users, particularly in older adults</li>
+<li><strong>Increased dementia risk</strong> — some research suggests that long-term statin use may increase the risk of neurodegenerative disease by depriving the brain of the cholesterol it needs to maintain neural connections</li>
+</ul>
+<h3 id="diabetes-risk">Diabetes Risk</h3>
+<p>Multiple large-scale studies have confirmed that statin use increases the risk of developing type 2 diabetes by 9-46%, depending on the specific statin and the dose. This means that a drug prescribed to reduce cardiovascular risk is simultaneously increasing the risk of a metabolic disease that is itself a major cardiovascular risk factor — a pharmacological paradox that would be comedic if it were not killing people.</p>
+<h3 id="liver-damage">Liver Damage</h3>
+<p>Statins are metabolized by the liver — the same organ that produces the cholesterol the drugs are designed to suppress. Liver enzyme elevations (indicating cellular damage) are a recognized side effect of statin therapy, and regular liver function monitoring is recommended for statin users. The drug damages the organ that processes it.</p>
+<h2 id="the-cholesterol-myth">The Cholesterol Myth</h2>
+<p>The entire statin paradigm is built on the "lipid hypothesis" — the theory that dietary and blood cholesterol causes heart disease by depositing in arterial walls. This theory, promoted by Ancel Keys beginning in the 1950s and adopted by the American Heart Association as institutional dogma, has been progressively dismantled by independent research.</p>
+<h3 id="what-cholesterol-actually-does">What Cholesterol Actually Does</h3>
+<p>Cholesterol is not a toxin to be eliminated. It is a vital molecule with essential functions:</p>
+<ul>
+<li><strong>Cell membrane structure</strong> — every cell in the body requires cholesterol to maintain membrane integrity and fluidity</li>
+<li><strong>Hormone production</strong> — cholesterol is the precursor molecule for all steroid hormones, including testosterone, estrogen, cortisol, and vitamin D</li>
+<li><strong>Bile acid synthesis</strong> — cholesterol is required for the production of bile acids that digest dietary fats</li>
+<li><strong>Brain function</strong> — cholesterol is essential for synapse formation, neurotransmitter function, and myelin production</li>
+<li><strong>Immune function</strong> — cholesterol plays a role in immune cell signaling and the body's response to infection</li>
+<li><strong>Wound healing</strong> — cholesterol is mobilized to sites of tissue damage as part of the repair process</li>
+</ul>
+<h3 id="the-real-cause-of-heart-disease">The Real Cause of Heart Disease</h3>
+<p>The emerging consensus among independent researchers is that heart disease is primarily driven by inflammation — not cholesterol levels. Arterial plaque forms at sites of inflammatory damage to the endothelial lining of blood vessels. Cholesterol is present in plaque not because it caused the damage, but because the body sent it there to repair the damage. Blaming cholesterol for heart disease is like blaming firefighters for fires because they are always found at the scene.</p>
+<p>The true drivers of cardiovascular inflammation include:</p>
+<ul>
+<li><strong>Seed oils</strong> (soybean, canola, corn, safflower) rich in omega-6 fatty acids that promote inflammatory signaling</li>
+<li><strong>Refined sugar and processed carbohydrates</strong> that cause glycation damage to blood vessel walls</li>
+<li><strong>Chronic stress</strong> and elevated cortisol</li>
+<li><strong>Environmental toxins</strong> including heavy metals and microplastics</li>
+<li><strong>Pharmaceutical drugs</strong> — including, ironically, some statins themselves</li>
+</ul>
+<h2 id="pharmakeia-and-the-statin-industry">Pharmakeia and the Statin Industry</h2>
+<p>Ana Mihalcea, MD, PhD has documented on her Substack (<a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a>) the devastating effects of pharmaceutical interventions on blood quality. While her primary focus is nanotechnology contamination, her broader work illuminates a pharmaceutical system that treats the human body as a market rather than a temple — selling products that suppress symptoms while causing new diseases that require additional products.</p>
+<p>The statin industry exemplifies this model perfectly:</p>
+<ol>
+<li>Convince the public that a natural substance (cholesterol) is dangerous</li>
+<li>Sell a drug to suppress that substance</li>
+<li>When the drug causes new problems (diabetes, muscle damage, cognitive decline), sell additional drugs to treat those problems</li>
+<li>Never address the actual causes of heart disease (inflammation from processed food, environmental toxins, and pharmaceutical damage) because those causes implicate the industry itself</li>
+</ol>
+<p>This is Rockefeller medicine in its purest form — a system designed by John D. Rockefeller in the early 20th century to replace natural healing with petroleum-derived pharmaceutical products, capture medical education, and create a permanent dependency on patented chemicals. The statin is the perfect Rockefeller product: it treats a manufactured disease with a manufactured drug that creates real diseases requiring more manufactured drugs.</p>
+<p>Revelation 18:23 declares that by pharmakeia — sorcery through pharmaceutical manipulation — all the nations were deceived. The statin deception is one of the most successful pharmakeia operations in history. Over 200 million people worldwide take statins. The global market exceeds $15 billion annually. And the deception is so complete that physicians who question the lipid hypothesis risk professional censure.</p>
+<h2 id="the-spiritual-dimension-of-pharmaceutical-dependency">The Spiritual Dimension of Pharmaceutical Dependency</h2>
+<p>The corruption of human health through pharmaceutical dependency is not merely a commercial enterprise. It is a spiritual operation conducted under the dome of the firmament by entities that have been working to corrupt human biology since Genesis 6.</p>
+<p>When the fallen angels — the "sons of God" of Genesis 6:2 — came down and corrupted human flesh, they introduced foreign elements into God's creation that were never meant to be there. The Nephilim — the hybrid offspring of this corruption — were an abomination precisely because they mixed what God had separated. The modern pharmaceutical system continues this work through chemical rather than genetic means: introducing synthetic compounds into the human body that disrupt the biological systems God designed.</p>
+<p>Statins do not heal. They suppress. They inhibit a life-essential enzyme, deplete a life-essential molecule, damage life-essential organs, and create new diseases. They are anti-life by design, and they are administered under the guise of health — which is the very definition of sorcery: harm disguised as help, poison presented as medicine, darkness called light.</p>
+<p>The great delusion of 2 Thessalonians 2:9-12 is not a single event. It is a comprehensive inversion of reality in which the entire framework of understanding is reversed. The statin paradigm is one facet of this delusion — a system in which the body's own healing molecule is declared the enemy, and a synthetic poison is declared the savior.</p>
+<h2 id="what-to-do-instead">What to Do Instead</h2>
+<h3 id="addressing-the-real-causes">Addressing the Real Causes</h3>
+<p>Rather than suppressing cholesterol, genuine cardiovascular health is achieved by addressing the inflammatory processes that damage blood vessels:</p>
+<ul>
+<li><strong>Eliminate seed oils</strong> — replace soybean, canola, corn, and safflower oil with olive oil, coconut oil, butter, and animal fats</li>
+<li><strong>Reduce processed sugar</strong> — minimize consumption of refined carbohydrates and added sugars</li>
+<li><strong>Eat whole foods</strong> — prioritize nutrient-dense, unprocessed foods that support rather than damage cardiovascular function</li>
+<li><strong>Supplement wisely</strong> — CoQ10 (especially if currently taking statins), omega-3 fatty acids, magnesium, and vitamin K2 all support cardiovascular health through mechanisms that actually address root causes</li>
+</ul>
+<h3 id="if-currently-taking-statins">If Currently Taking Statins</h3>
+<p>Anyone currently taking statins should not discontinue abruptly without medical guidance. However, seeking a physician who understands the limitations of the lipid hypothesis and can guide a safe transition away from statin dependency is strongly advised. Functional medicine practitioners and integrative cardiologists are more likely to provide evidence-based guidance that prioritizes actual health over pharmaceutical compliance.</p>
+<h3 id="coq10-supplementation">CoQ10 Supplementation</h3>
+<p>At minimum, anyone taking a statin should be supplementing with CoQ10 (ubiquinol form preferred) at 100-300mg daily to counteract the depletion caused by the drug. That most prescribing physicians do not recommend this essential supplement alongside statin therapy is itself evidence of a system that prioritizes drug sales over patient health.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Ravnskov U, et al. "LDL-C does not cause cardiovascular disease: A comprehensive review of the current literature." Expert Review of Clinical Pharmacology, 2018</li>
+<li>Ana Mihalcea, MD, PhD — Research on pharmaceutical effects on blood: <a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a></li>
+<li>DuBroff R, de Lorgeril M. "Cholesterol confusion and statin controversy." World Journal of Cardiology, 2015</li>
+<li>FDA Drug Safety Communication: "Important safety label changes to cholesterol-lowering statin drugs" (2012)</li>
+<li>The Master's Voice Prophecy Blog: <a href="https://themastersvoice.wordpress.com">themastersvoice.wordpress.com</a></li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The captured medical system that sells disease as treatment</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — Pharmaceutical sorcery deceiving the nations</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> — The engineering of illness through institutional systems</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> — Truth breaking through the darkness of institutional deception</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> — The false exchange of health for pharmaceutical dependency</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/natural-molecules-anti-cancer/?lang=en">Natural Molecules With Anti-Cancer Properties They Don't Want You To Know</a> — What the body actually needs versus what pharma sells</li>
+<li><a href="/human-blood-destroyed-nanotech/?lang=en">Human Blood Being Destroyed For Nanotechnology Integration</a> — The broader pharmaceutical assault on blood integrity</li>
+<li><a href="/darkfield-microscopy-self-assembly/?lang=en">Darkfield Microscopy Shows Self Assembly Nanotechnology in Human Blood</a> — What pharmaceutical contamination looks like under the microscope</li>
+</ul>
+<hr>
+<p><em>They took cholesterol — a molecule God wove into the fabric of every cell — and called it the enemy. They took a drug that depletes the heart's energy, destroys muscle tissue, and degrades the brain, and called it medicine. Isaiah saw this inversion three thousand years ago: woe unto them that call evil good, and good evil. The statin lie is not merely a medical error — it is pharmakeia, the sorcery by which all nations are deceived. But the body God designed knows the difference between poison and nourishment, even when the mind has been deceived. And the truth — like cholesterol itself — will not be suppressed forever. It is too essential to life.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Study Verifies Cholesterol-Lowering Statin Drugs Are Dangerous"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"New research confirms statin drugs carry serious health risks including muscle damage and cognitive decline, exposing the cholesterol-heart disease myth."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-20T10:00:00Z","children":"February 20, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","statins",{"href":"/en/tag/statins/","className":"tag-pill","children":["#","statins"]}],["$","a","cholesterol",{"href":"/en/tag/cholesterol/","className":"tag-pill","children":["#","cholesterol"]}],["$","a","pharmaceutical-industry",{"href":"/en/tag/pharmaceutical-industry/","className":"tag-pill","children":["#","pharmaceutical-industry"]}],["$","a","heart-disease",{"href":"/en/tag/heart-disease/","className":"tag-pill","children":["#","heart-disease"]}],["$","a","drug-safety",{"href":"/en/tag/drug-safety/","className":"tag-pill","children":["#","drug-safety"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/statin-drugs-cholesterol-truth/","title":"Study Verifies Cholesterol-Lowering Statin Drugs Are Dangerous"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/statin-drugs-cholesterol-truth/","title":"Study Verifies Cholesterol-Lowering Statin Drugs Are Dangerous"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Study Verifies Cholesterol-Lowering Statin Drugs Are Dangerous | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"New research confirms statin drugs carry serious health risks including muscle damage and cognitive decline, exposing the cholesterol-heart disease myth."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"statins, cholesterol, pharmaceutical-industry, heart-disease, drug-safety"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/statin-drugs-cholesterol-truth/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/statin-drugs-cholesterol-truth/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/statin-drugs-cholesterol-truth/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/statin-drugs-cholesterol-truth/"}],["$","meta","10",{"property":"og:title","content":"Study Verifies Cholesterol-Lowering Statin Drugs Are Dangerous"}],["$","meta","11",{"property":"og:description","content":"New research confirms statin drugs carry serious health risks including muscle damage and cognitive decline, exposing the cholesterol-heart disease myth."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/statin-drugs-cholesterol-truth/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/statin-drugs-cholesterol-truth.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Study Verifies Cholesterol-Lowering Statin Drugs Are Dangerous"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Study Verifies Cholesterol-Lowering Statin Drugs Are Dangerous"}],["$","meta","25",{"name":"twitter:description","content":"New research confirms statin drugs carry serious health risks including muscle damage and cognitive decline, exposing the cholesterol-heart disease myth."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/statin-drugs-cholesterol-truth.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

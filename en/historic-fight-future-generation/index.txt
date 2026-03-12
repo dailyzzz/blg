@@ -1,0 +1,157 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","historic-fight-future-generation",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","historic-fight-future-generation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","historic-fight-future-generation","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3abd,<h1 id="the-historic-fight-for-our-future-generation">The Historic Fight For Our Future Generation</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Train up a child in the way he should go: and when he is old, he will not depart from it." -- Proverbs 22:6</p>
+</blockquote>
+<p>The training of children is the sacred duty of parents -- not of governments, not of pharmaceutical companies, not of global organizations with transhumanist agendas. The future generation belongs to God and to the families He created to steward them. The historic fight now unfolding is about who owns the children: the parents who bore them or the system that seeks to modify them.</p>
+<p>Every tyrannical system in history has targeted the young. Pharaoh killed the Hebrew children. Herod slaughtered the infants of Bethlehem. The modern system does not slaughter openly -- it injects quietly, modifies silently, and captures technologically. The battlefield is the bloodstream. The weapon is the needle. And the prize is the uncorrupted biology of the next generation.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/81-The_Word_Made_Flesh.mp4">The Word Made Flesh</a> from the Confliction album reminds us, God became a child -- He entered this world as an infant, vulnerable, dependent, and entrusted to human parents. To attack children is to attack the very form through which God chose to enter creation. And as <a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> declares, those who fight for the vulnerable inherit the victory.</p>
+<hr>
+<h2 id="the-target-children">The Target: Children</h2>
+<h3 id="the-pediatric-mrna-campaign">The Pediatric mRNA Campaign</h3>
+<p>Despite children facing statistically near-zero risk from COVID-19, regulatory agencies worldwide authorized mRNA injections for children as young as six months. This authorization was based on:</p>
+<ul>
+<li>Clinical trials with sample sizes too small to detect rare adverse events</li>
+<li>Efficacy endpoints that measured antibody levels rather than clinical outcomes</li>
+<li>Follow-up periods too short to detect medium or long-term harm</li>
+<li>No assessment of nanotechnology content or self-assembly behavior</li>
+</ul>
+<p>The authorization of mRNA products for children represents the extension of the nanotechnology deployment platform to the youngest and most vulnerable members of the population. Children's developing bodies, immune systems, and neurological architecture are particularly susceptible to disruption by foreign nanotechnology.</p>
+<p>Ana Mihalcea, MD, PhD, has expressed grave concern on her Substack (anamihalceamdphd.substack.com) about the implications of nanotechnology in developing children. Dr. Mihalcea notes that developing neural tissue, rapidly dividing cells, and immature immune systems create conditions in which nanotechnology integration may be more extensive and more permanent than in adult recipients.</p>
+<h3 id="the-childhood-vaccination-schedule">The Childhood Vaccination Schedule</h3>
+<p>The mRNA platform is now being integrated into the broader childhood vaccination schedule. mRNA-based products are in development for RSV, influenza, and other childhood diseases. Each new mRNA product carries the same nanotechnology platform -- lipid nanoparticles, potential graphene contamination, self-assembling components -- that was documented in the COVID-19 vaccines.</p>
+<p>The strategy is clear: normalize mRNA technology for children through the existing vaccination schedule, making nanotechnology injection a routine part of childhood medical care. Every child who receives an mRNA product joins the network. Every injection adds nodes to the internal biosensor infrastructure. By the time these children reach adulthood, the technology will be an integral part of their biology -- woven into their blood, their tissue, and potentially their neural architecture from infancy.</p>
+<h2 id="the-historic-parallel">The Historic Parallel</h2>
+<h3 id="the-nuremberg-code">The Nuremberg Code</h3>
+<p>The Nuremberg Code was established in 1947 in response to the horrific human experiments conducted by Nazi doctors in concentration camps. Its principles are foundational to medical ethics:</p>
+<ol>
+<li><strong>Voluntary consent is absolutely essential.</strong> The person involved must have the legal capacity to consent, must exercise free power of choice, and must have sufficient knowledge of the subject to make an informed decision.</li>
+<li><strong>The experiment must yield results for the good of society, unprocurable by other means.</strong></li>
+<li><strong>The experiment must avoid all unnecessary physical and mental suffering.</strong></li>
+<li><strong>No experiment should be conducted where there is reason to believe death or disabling injury will occur.</strong></li>
+</ol>
+<p>The deployment of nanotechnology-containing mRNA products to children violates every principle of the Nuremberg Code:</p>
+<ul>
+<li>Children cannot provide voluntary consent. Parents cannot provide informed consent when the nanotechnology components were not disclosed.</li>
+<li>The results could have been achieved by other means (natural immunity, early treatment).</li>
+<li>The suffering is not only not avoided -- it is being documented by researchers worldwide.</li>
+<li>There is abundant evidence of death and disabling injury from mRNA products.</li>
+</ul>
+<p>The Nuremberg Code was created specifically to prevent what is now happening. Its principles are being violated on a global scale, targeting the most vulnerable population: children.</p>
+<h3 id="the-unesco-declaration-on-bioethics">The UNESCO Declaration on Bioethics</h3>
+<p>The UNESCO Universal Declaration on Bioethics and Human Rights (2005) affirms that "the interests and welfare of the individual should have priority over the sole interest of science or society" and that "any preventive, diagnostic and therapeutic medical intervention is only to be carried out with the prior, free and informed consent of the person concerned."</p>
+<p>The deployment of undisclosed nanotechnology through pharmaceutical products to children violates this declaration comprehensively. The interests of the individual child are subordinated to the interests of the pharmaceutical-military-intelligence complex. Consent is impossible because disclosure was never made.</p>
+<h2 id="the-resistance">The Resistance</h2>
+<h3 id="parental-rights-movement">Parental Rights Movement</h3>
+<p>The fight for the future generation has catalyzed the most powerful parental rights movement in modern history. Parents worldwide are:</p>
+<ul>
+<li>Withdrawing children from school systems that require pharmaceutical compliance</li>
+<li>Establishing homeschool cooperatives and alternative education networks</li>
+<li>Filing lawsuits to protect parental authority over children's medical decisions</li>
+<li>Organizing political campaigns to elect representatives who support medical freedom</li>
+<li>Creating parallel healthcare systems that prioritize informed consent and transparent medicine</li>
+</ul>
+<p>This movement crosses every political, racial, religious, and socioeconomic boundary. Parents from every background are united by a single imperative: protect the children.</p>
+<h3 id="legislative-action">Legislative Action</h3>
+<p>Legislators in multiple states and countries have introduced or passed legislation to protect children from forced biotechnology:</p>
+<ul>
+<li>Bans on vaccine mandates for school attendance</li>
+<li>Informed consent requirements that include full disclosure of all product components</li>
+<li>Prohibition of experimental medical products for children without explicit parental consent</li>
+<li>Legislative investigations into pharmaceutical safety data and regulatory processes</li>
+</ul>
+<p>These legislative actions create the legal framework that will protect the future generation from the next wave of nanotechnology deployment.</p>
+<h3 id="the-scientific-resistance">The Scientific Resistance</h3>
+<p>Scientists and physicians who refuse to participate in the corruption of children's biology are building an alternative scientific infrastructure:</p>
+<ul>
+<li>Independent laboratories conducting analysis of pharmaceutical products outside the captured regulatory system</li>
+<li>Publication platforms that bypass censored peer-reviewed journals</li>
+<li>Clinical networks that share treatment protocols for nanotechnology contamination</li>
+<li>Research collaborations that document adverse events suppressed by official reporting systems</li>
+</ul>
+<p>This alternative scientific infrastructure is the foundation of honest medicine -- medicine that serves the patient rather than the pharmaceutical system.</p>
+<h2 id="the-spiritual-battle">The Spiritual Battle</h2>
+<h3 id="suffer-the-little-children">Suffer the Little Children</h3>
+<p>Jesus said: "Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God" (Mark 10:14). Children are the special inheritance of the Kingdom. To corrupt their biology with undisclosed nanotechnology is to assault the Kingdom itself.</p>
+<p>The spiritual battle for the future generation is not metaphorical. It is the continuation of the ancient war against the bloodline of humanity that began in Genesis 6, when the sons of God corrupted the human genome through forbidden union. The nanotechnology now targeting children is the modern form of this corruption -- not genetic mixing with fallen angels, but technological corruption through injectable platforms that alter the biology of children from infancy.</p>
+<p>The firmament holds. The dome that God placed over the earth contains the battlefield. And within this space, the fight for the future generation is the most consequential battle of our time. Those who fight for the children fight for the Kingdom. Those who protect the innocent stand with the God who became an infant Himself and entrusted His childhood to human parents.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>The Nuremberg Code, Nuremberg Military Tribunal, 1947</p>
+</li>
+<li>
+<p>UNESCO Universal Declaration on Bioethics and Human Rights, 2005</p>
+</li>
+<li>
+<p>Various state and national legislation on medical freedom and parental rights</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, pediatric nanotechnology concerns</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> -- The injection platform targeting children</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/91-The_Kinsey_Corruption.mp4">The Kinsey Corruption</a> -- The history of targeting children through institutional systems</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> -- The coordinated global assault</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/339-The_New_Man.mp4">The New Man</a> -- The transhumanist redesign targeting the young</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/81-The_Word_Made_Flesh.mp4">The Word Made Flesh</a> -- God entered the world as a child</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/127-The_Overcoming.mp4">The Overcoming</a> -- Victory promised to those who fight</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/victory-future-generation/?lang=en">Victory For Our Future Generation Against Medical Tyranny</a> -- Documented victories in the fight</li>
+<li><a href="/mrna-bioweapons-prohibition/?lang=en">The mRNA Bioweapons Prohibition Case</a> -- Legal action to stop mRNA deployment</li>
+<li><a href="/biotech-safety-government-lies/?lang=en">Government Assurances of Biotech Safety Are Worthless</a> -- Why government safety claims cannot be trusted</li>
+</ul>
+<hr>
+<p><em>The children are the prize. Every system of tyranny has known this. Every system of control has targeted the young. And every generation that has failed to protect its children has lost the future. But this generation is not failing. Parents are rising. Scientists are speaking. Lawyers are fighting. And the God who became a child Himself -- who entrusted His own infancy to human hands -- is not silent. He is the defender of the fatherless, the protector of the innocent, and the judge of those who harm the little ones. It would be better for them to have a millstone tied around their neck and be cast into the sea than to harm one of these little ones. The fight for the future generation is the fight of our lives. And it is a fight we must not -- and by God's grace, will not -- lose.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The Historic Fight For Our Future Generation"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The historic battle to protect future generations from forced nanotechnology, pharmaceutical tyranny, and the transhumanist agenda now targeting children."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-21T10:00:00Z","children":"March 21, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","future-generation",{"href":"/en/tag/future-generation/","className":"tag-pill","children":["#","future-generation"]}],["$","a","children",{"href":"/en/tag/children/","className":"tag-pill","children":["#","children"]}],["$","a","medical-freedom",{"href":"/en/tag/medical-freedom/","className":"tag-pill","children":["#","medical-freedom"]}],["$","a","resistance",{"href":"/en/tag/resistance/","className":"tag-pill","children":["#","resistance"]}],["$","a","transhumanism",{"href":"/en/tag/transhumanism/","className":"tag-pill","children":["#","transhumanism"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/historic-fight-future-generation/","title":"The Historic Fight For Our Future Generation"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/historic-fight-future-generation/","title":"The Historic Fight For Our Future Generation"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The Historic Fight For Our Future Generation | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The historic battle to protect future generations from forced nanotechnology, pharmaceutical tyranny, and the transhumanist agenda now targeting children."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"future-generation, children, medical-freedom, resistance, transhumanism"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/historic-fight-future-generation/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/historic-fight-future-generation/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/historic-fight-future-generation/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/historic-fight-future-generation/"}],["$","meta","10",{"property":"og:title","content":"The Historic Fight For Our Future Generation"}],["$","meta","11",{"property":"og:description","content":"The historic battle to protect future generations from forced nanotechnology, pharmaceutical tyranny, and the transhumanist agenda now targeting children."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/historic-fight-future-generation/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/historic-fight-future-generation.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The Historic Fight For Our Future Generation"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The Historic Fight For Our Future Generation"}],["$","meta","25",{"name":"twitter:description","content":"The historic battle to protect future generations from forced nanotechnology, pharmaceutical tyranny, and the transhumanist agenda now targeting children."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/historic-fight-future-generation.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

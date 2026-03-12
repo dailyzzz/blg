@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","pulse-investigation-part1",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","pulse-investigation-part1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pulse-investigation-part1","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T2cb3,<h1 id="pulse-investigation-begins-what-really-happened-part-1">PULSE Investigation Begins: What Really Happened Part 1</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"For there is nothing covered, that shall not be revealed; neither hid, that shall not be known."</em> — Luke 12:2</p>
+</blockquote>
+<p>Every major event in modern history has two stories: the official narrative and the truth. The official narrative is delivered within hours, repeated endlessly by media, and hardened into accepted fact before any genuine investigation occurs. The truth takes longer — years, sometimes decades — because it must be extracted from suppressed documents, silenced witnesses, and institutional resistance. The Pulse nightclub event of June 12, 2016, is no exception.</p>
+<p>Howard Pittman's NDE revealed that the spiritual realm operates through systems of deception. Three heavens. Demonic hierarchy. 97.5 percent rejection. 95 percent self-service. Every word judged (Matthew 12:36-37). The media system that delivers official narratives operates within this deceptive hierarchy. The principalities and powers of Ephesians 6:12 use media events to shape public consciousness, manufacture consent for policy changes, and suppress the questions that would expose the truth.</p>
+<p>The Jesuits — Loyola's military organization, Napoleon's "absolute power," Tamburini governing "all the world" — have historically used dramatic events to advance institutional agendas. <em>Catholic Confidential</em> reveals infiltration "cloaked with cunning," blind obedience, "every species of vice." The pattern of manufactured events followed by pre-prepared policy responses is a Jesuit specialty — problem, reaction, solution — refined over centuries and deployed with increasing sophistication in the modern media age.</p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4" type="video/mp4">
+</video>
+<p><em>The Deceiver's Lies — from the Confliction album</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/05-The_First_Darkness.mp4" type="video/mp4">
+</video>
+<p><em>The First Darkness — from the Confliction album</em></p>
+<hr>
+<h2 id="the-official-story">The Official Story</h2>
+<h3 id="what-you-were-told">What You Were Told</h3>
+<p>The official narrative states that on June 12, 2016, a lone gunman entered Pulse nightclub in Orlando, Florida, during Latin Night and opened fire, killing 49 people and wounding 53 others before being killed by police approximately three hours later. The attacker was identified as Omar Mateen, a 29-year-old security guard who had been investigated by the FBI twice before the attack.</p>
+<p>This narrative was established within hours of the event. Within days, it was hardened into accepted fact. Within weeks, it was being used to advance gun control legislation, surveillance expansion, and counter-terrorism policy. Within months, it was memorialized as the deadliest mass shooting in American history at that time.</p>
+<p>The speed of narrative establishment is itself suspicious. Genuine investigations take time. The Warren Commission took ten months. The 9/11 Commission took twenty. Yet the Pulse narrative was complete before the bodies were identified.</p>
+<h3 id="the-questions-nobody-asked">The Questions Nobody Asked</h3>
+<p>Agent131711 documents on Substack (agent131711.substack.com) the questions that the media refused to ask:</p>
+<ul>
+<li>Why was a man investigated twice by the FBI for potential terrorist ties still able to purchase weapons and maintain a security clearance?</li>
+<li>Why did it take police three hours to enter the building?</li>
+<li>Why were witnesses reporting multiple shooters in the immediate aftermath, before the single-shooter narrative was established?</li>
+<li>Why was the building demolished before independent investigators could examine the physical evidence?</li>
+<li>How did a single person achieve the reported casualty count in the reported timeframe with the reported weapons?</li>
+<li>Why were the 911 call transcripts initially redacted to remove references to the attacker's stated motivations?</li>
+</ul>
+<p>Each of these questions has an institutional answer. None of the institutional answers are satisfactory. The investigation begins here — with the questions the system does not want asked.</p>
+<h2 id="the-fbi-connection">The FBI Connection</h2>
+<h3 id="two-prior-investigations">Two Prior Investigations</h3>
+<p>The FBI investigated Omar Mateen twice — in 2013 and 2014 — for potential terrorist connections. Both investigations were closed. After the Pulse event, the FBI claimed that the investigations found insufficient evidence to maintain surveillance.</p>
+<p>This pattern — the FBI investigating a subject who later commits a major attack — is not unique to Pulse. It has occurred in multiple high-profile events, creating a pattern that either represents catastrophic institutional failure or something more troubling: institutional awareness that failed to prevent (or was not intended to prevent) the event.</p>
+<p>The FBI's relationship with subjects of investigation is complicated by its extensive use of informants and undercover operatives. The Bureau has a documented history of facilitating the very plots it claims to disrupt — providing weapons, encouragement, and logistical support to individuals it is ostensibly investigating. Congressional hearings have documented cases where FBI informants provided everything needed for an attack, then arrested the subject just before execution.</p>
+<p>Whether this pattern applies to Pulse is a question the investigation must explore. The institutional resistance to exploring it — the media's refusal to ask, the government's refusal to disclose — is itself evidence that the question is dangerous to the official narrative.</p>
+<h3 id="the-security-clearance-anomaly">The Security Clearance Anomaly</h3>
+<p>Mateen worked for G4S, one of the world's largest private security companies, with contracts across government and military sectors. He held a security clearance despite two FBI investigations. This anomaly has never been adequately explained.</p>
+<p>In the security industry, an FBI investigation is typically grounds for clearance revocation. The fact that Mateen retained his clearance through two investigations suggests either catastrophic bureaucratic failure or institutional decision-making that deemed his continued employment and access more valuable than the risk he posed.</p>
+<p>Howard Pittman's testimony about institutional deception applies directly. The institutions tasked with protecting the public — the FBI, the security industry, the intelligence community — failed in ways that are either inexplicably incompetent or deliberately planned. The 97.5 percent rejection rate reflects a population that trusts institutions without examining their failures. The Pulse investigation examines those failures.</p>
+<h2 id="the-three-hour-gap">The Three-Hour Gap</h2>
+<h3 id="why-did-police-wait">Why Did Police Wait?</h3>
+<p>The attack began at approximately 2:02 AM. Police first made entry into the building at approximately 5:02 AM — a three-hour gap during which, according to the official timeline, the attacker had access to the victims inside the building.</p>
+<p>During those three hours, wounded victims bled. Some bled to death. The three-hour gap is one of the most disturbing aspects of the Pulse event, and the institutional explanation — that police followed "active shooter" protocols that required assessment before entry — contradicts the "active shooter" protocols established after Columbine, which mandate immediate entry to stop the killing.</p>
+<p>The three-hour gap raises questions that this investigation will pursue in subsequent parts. What happened inside during those three hours? Why were the established protocols not followed? Who made the decision to wait, and on what authority?</p>
+<h2 id="what-this-investigation-will-cover">What This Investigation Will Cover</h2>
+<p>This five-part investigation will examine:</p>
+<ul>
+<li><strong>Part 1</strong> (this article): The official narrative, the questions nobody asked, and the FBI connection</li>
+<li><strong>Part 2</strong>: What you have never seen — suppressed evidence, witness testimony, and physical evidence</li>
+<li><strong>Part 3</strong>: Unexpected connections — the institutional links between the attacker, the security industry, and the intelligence community</li>
+<li><strong>Part 4</strong>: The two biggest mistakes in the investigation — the errors that reveal the truth</li>
+<li><strong>Part 5</strong>: Follow the money — the financial trail that leads to the truth behind the event</li>
+</ul>
+<p>This investigation does not claim to have all the answers. It claims to ask the right questions — the questions that the media, the government, and the institutional system have refused to ask. The truth, as Luke 12:2 promises, will be revealed. Nothing hidden will remain hidden. The Pulse investigation begins now.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><strong>Agent131711 Substack</strong>: <a href="https://agent131711.substack.com">agent131711.substack.com</a> — Investigative research into the Pulse event</li>
+<li><strong>Howard Pittman NDE Testimony</strong>: <a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Watch on YouTube</a> — Institutional deception and the spiritual stakes</li>
+<li><strong>Catholic Confidential: Deplorable Jesuit Secrets Revealed</strong>: <a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Watch on YouTube</a> — The Jesuit pattern of manufactured events and institutional responses</li>
+</ul>
+<h2 id="sources-and-references">Sources and References</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Secret Societies and the Catholic Church — The Hidden Hand Exposed</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceiver's Lies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/05-The_First_Darkness.mp4">The First Darkness</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/73-Suppressing_Truth.mp4">Suppressing Truth</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/181-Ending_Anonymity.mp4">Ending Anonymity</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/115-Psychology_Industry_Hoax.mp4">Psychology Industry Hoax</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/pulse-never-seen-part2/?lang=en">PULSE: What You've NEVER SEEN Before Part 2</a></li>
+<li><a href="/pulse-unexpected-connections-part3/?lang=en">Unexpected Connections: The PULSE Investigation Part 3</a></li>
+<li><a href="/sick-of-it-combat-censorship/?lang=en">I'M SICK OF IT: How to Combat Censorship and Fight Back</a></li>
+</ul>
+<p><em>The investigation begins. Not with answers, but with questions — the questions that the system has spent years suppressing. Every suppressed question is a door. Every door conceals something the system does not want you to see. We will open every door. We will ask every question. And whatever we find, we will publish — because truth is not optional, and silence is complicity.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/media/","className":"category-badge","children":"media"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"PULSE Investigation Begins: What Really Happened Part 1"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Part 1 of the PULSE investigation begins. Discover the hidden facts, Jesuit connections, and Satanic patterns behind what really happened."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-29T10:00:00Z","children":"May 29, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","pulse",{"href":"/en/tag/pulse/","className":"tag-pill","children":["#","pulse"]}],["$","a","investigation",{"href":"/en/tag/investigation/","className":"tag-pill","children":["#","investigation"]}],["$","a","media",{"href":"/en/tag/media/","className":"tag-pill","children":["#","media"]}],["$","a","truth",{"href":"/en/tag/truth/","className":"tag-pill","children":["#","truth"]}],["$","a","cover-up",{"href":"/en/tag/cover-up/","className":"tag-pill","children":["#","cover-up"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/pulse-investigation-part1/","title":"PULSE Investigation Begins: What Really Happened Part 1"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/pulse-investigation-part1/","title":"PULSE Investigation Begins: What Really Happened Part 1"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"PULSE Investigation Begins: What Really Happened Part 1 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Part 1 of the PULSE investigation begins. Discover the hidden facts, Jesuit connections, and Satanic patterns behind what really happened."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"pulse, investigation, media, truth, cover-up"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/pulse-investigation-part1/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pulse-investigation-part1/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pulse-investigation-part1/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pulse-investigation-part1/"}],["$","meta","10",{"property":"og:title","content":"PULSE Investigation Begins: What Really Happened Part 1"}],["$","meta","11",{"property":"og:description","content":"Part 1 of the PULSE investigation begins. Discover the hidden facts, Jesuit connections, and Satanic patterns behind what really happened."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/pulse-investigation-part1/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pulse-investigation-part1.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"PULSE Investigation Begins: What Really Happened Part 1"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"PULSE Investigation Begins: What Really Happened Part 1"}],["$","meta","25",{"name":"twitter:description","content":"Part 1 of the PULSE investigation begins. Discover the hidden facts, Jesuit connections, and Satanic patterns behind what really happened."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pulse-investigation-part1.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

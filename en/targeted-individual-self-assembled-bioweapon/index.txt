@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","targeted-individual-self-assembled-bioweapon",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","targeted-individual-self-assembled-bioweapon","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","targeted-individual-self-assembled-bioweapon","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4594,<h1 id="targeted-individual-microchips-self-assembled-as-bioweapon">Targeted Individual: Microchips Self-Assembled As Bioweapon</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation." -- Psalm 37:14</p>
+</blockquote>
+<p>The concept of the "targeted individual" has been ridiculed for decades -- dismissed as paranoia, diagnosed as mental illness, medicated into silence. But the evidence of self-assembling nanotechnology now documented in human blood has transformed this dismissal into one of the most consequential cover-ups in modern history. People who reported being surveilled, tracked, and physically attacked by invisible technology were not delusional. They were test subjects.</p>
+<p>Scripture tells us that the wicked draw out the sword against the upright. The modern sword is not made of steel. It is made of graphene, silicon, and self-assembling nanomachines. And it was drawn inside the body, where no one could see it -- until researchers pointed their microscopes at the blood and found it.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> from the Confliction album declares, the most devastating attack comes from what has already been admitted inside. And as <a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> promises, the One who crushed the serpent's head will crush every weapon formed against His people -- including the ones measured in nanometers.</p>
+<hr>
+<h2 id="the-targeted-individual-phenomenon">The Targeted Individual Phenomenon</h2>
+<h3 id="historical-context">Historical Context</h3>
+<p>The term "targeted individual" (TI) refers to a person who reports being subjected to organized surveillance, harassment, and physical attack using advanced technology. Targeted individuals have described their experiences for decades, reporting symptoms including:</p>
+<ul>
+<li>Hearing voices or sounds that others cannot hear (consistent with microwave auditory effect / V2K technology)</li>
+<li>Intense localized pain in specific body parts without apparent physical cause (consistent with directed energy weapons)</li>
+<li>Involuntary muscle movements or contractions (consistent with neural stimulation technology)</li>
+<li>Sleep disruption through external stimulation (consistent with electromagnetic interference with neural patterns)</li>
+<li>The sensation of being tracked and monitored at all times (consistent with biosensor surveillance)</li>
+<li>Cognitive interference -- difficulty concentrating, memory disruption, induced emotional states (consistent with neural modulation technology)</li>
+</ul>
+<p>For decades, these reports were uniformly dismissed by the medical establishment as symptoms of schizophrenia or other psychotic disorders. Targeted individuals who sought help from physicians were prescribed antipsychotic medications. Those who persisted in their reports were institutionalized. The experiences of thousands of people reporting strikingly similar symptoms across different countries and time periods were never investigated -- they were pathologized.</p>
+<h3 id="the-technological-validation">The Technological Validation</h3>
+<p>The discovery of self-assembling nanotechnology in human blood has fundamentally changed the evidentiary landscape for targeted individual claims. If the technology exists to:</p>
+<ul>
+<li>Inject self-assembling microchips into the human body (documented in vaccine vials and blood)</li>
+<li>Monitor biological signals through implanted biosensors (documented in DARPA programs and patents)</li>
+<li>Transmit signals to and from implanted devices (documented in IoB research)</li>
+<li>Influence neural activity through injectable nanotransducers (documented in DARPA's N3 program)</li>
+</ul>
+<p>Then every symptom reported by targeted individuals has a plausible technological mechanism. The question is no longer "Is this possible?" The question is "Who has been subjected to it, and for how long?"</p>
+<h2 id="case-documentation">Case Documentation</h2>
+<h3 id="the-blood-evidence">The Blood Evidence</h3>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) cases of patients who identify as targeted individuals and whose blood samples under darkfield microscopy reveal extraordinary concentrations of self-assembled nanotechnology structures. These patients exhibit:</p>
+<ul>
+<li><strong>Unusually high densities of nanoparticles</strong> -- far exceeding the levels found in typical vaccinated or unvaccinated blood samples</li>
+<li><strong>Highly developed self-assembled structures</strong> -- large, complex formations that suggest prolonged assembly time or enhanced assembly stimulation</li>
+<li><strong>Structures with visible antenna-like morphology</strong> -- formations that appear optimized for electromagnetic signal reception and transmission</li>
+<li><strong>Evidence of neural-interface structures</strong> -- formations that appear to interface with nervous tissue, providing a mechanism for the neurological symptoms these individuals report</li>
+</ul>
+<p>Dr. Mihalcea's documentation represents the first clinical validation of targeted individual claims using objective, reproducible laboratory evidence. The blood samples do not lie. The structures are visible. The technology is present. And the correlation between the technology observed and the symptoms reported is direct.</p>
+<h3 id="military-and-intelligence-precedents">Military and Intelligence Precedents</h3>
+<p>The weaponization of technology against individuals is not speculative. It is historically documented:</p>
+<p><strong>MKUltra (1953-1973)</strong></p>
+<p>The CIA's MKUltra program conducted experiments on unwitting human subjects involving:</p>
+<ul>
+<li>Administration of LSD and other psychoactive drugs without consent</li>
+<li>Hypnotic programming and behavioral conditioning</li>
+<li>Sensory deprivation and psychological torture</li>
+<li>Electromagnetic and radiological experimentation</li>
+</ul>
+<p>MKUltra was not a conspiracy theory. It was a documented CIA program whose existence was confirmed by Congressional investigation in 1977. The program's records were deliberately destroyed in 1973, meaning that the full scope of experimentation will never be known.</p>
+<p><strong>Operation Midnight Climax</strong></p>
+<p>A sub-project of MKUltra, Operation Midnight Climax established CIA-operated safe houses in San Francisco and New York where unwitting subjects were administered LSD and monitored through one-way mirrors. The operation demonstrated the intelligence community's willingness to deploy experimental technology against citizens without their knowledge or consent.</p>
+<p><strong>COINTELPRO (1956-1971)</strong></p>
+<p>The FBI's Counter Intelligence Program conducted systematic surveillance and harassment of targeted individuals -- civil rights leaders, anti-war activists, and political dissidents. COINTELPRO used infiltration, psychological manipulation, and organized harassment to neutralize individuals deemed threats to the established order.</p>
+<p>These documented programs establish an unbroken historical precedent: the intelligence community has, for over seven decades, conducted covert operations against targeted individuals using the most advanced technology available. The technology has advanced from LSD to electromagnetic weapons to injectable nanotechnology, but the pattern is unchanged.</p>
+<h3 id="directed-energy-weapons-the-physical-mechanism">Directed Energy Weapons: The Physical Mechanism</h3>
+<p>The physical symptoms reported by targeted individuals -- localized pain, burning sensations, involuntary muscle contractions -- are consistent with directed energy weapon (DEW) exposure. Directed energy weapons use focused electromagnetic energy (microwave, millimeter wave, laser) to deliver effects at a distance, including:</p>
+<ul>
+<li><strong>Thermal effects</strong> -- heating of tissue causing pain, burns, or internal damage</li>
+<li><strong>Microwave auditory effect</strong> -- pulsed microwave radiation that creates the perception of sound inside the head (the mechanism behind "voice-to-skull" or V2K technology, documented in military literature since the 1960s)</li>
+<li><strong>Neural stimulation</strong> -- electromagnetic energy at specific frequencies can stimulate or suppress neural activity, causing involuntary movements, cognitive disruption, or emotional manipulation</li>
+</ul>
+<p>The presence of self-assembled nanotechnology structures in the bodies of targeted individuals may serve as an antenna and amplifier system -- receiving directed energy signals and converting them into localized biological effects. The biochip infrastructure documented in vaccine vials and blood creates a receiver network inside the body that dramatically increases the effectiveness of directed energy weapons by providing internal amplification and targeting at the cellular level.</p>
+<p>This creates a synergistic weapons system: external directed energy transmitters paired with internal nanotechnology receivers. The external component provides the signal. The internal component provides precision targeting and amplification. Together, they enable individualized physical effects that can be directed at specific body parts, specific neural pathways, and specific biological functions.</p>
+<h2 id="the-control-grid-architecture">The Control Grid Architecture</h2>
+<h3 id="from-surveillance-to-control">From Surveillance to Control</h3>
+<p>The targeted individual phenomenon reveals the architecture of a control system that exists at the intersection of three technologies:</p>
+<ol>
+<li><strong>Injectable nanotechnology</strong> (the internal component) -- biosensors, neural interfaces, and antenna structures self-assembled inside the body</li>
+<li><strong>Directed energy weapons</strong> (the external active component) -- transmitters that send signals to the internal nanotechnology for amplification and local delivery</li>
+<li><strong>Surveillance infrastructure</strong> (the external passive component) -- the electromagnetic monitoring grid that tracks the location and biological status of every individual containing nanotechnology</li>
+</ol>
+<p>This three-component system enables total control over the targeted individual: continuous surveillance of their location, biological state, and neural activity; active intervention through directed energy delivered to internal receivers; and individualized targeting that can affect one person in a crowd without affecting anyone nearby.</p>
+<p>Targeted individuals are not the only ones being subjected to this system. They are the test subjects -- the early recipients who received higher concentrations or more advanced formulations, enabling the development and refinement of the control system that is now being deployed to the general population through mass vaccination.</p>
+<h3 id="the-smart-city-connection">The Smart City Connection</h3>
+<p>The infrastructure required to operate this control system at scale is being built in plain sight under the label of "smart city" technology. Smart city infrastructure includes:</p>
+<ul>
+<li>Dense networks of electromagnetic transmitters (5G small cells, Wi-Fi access points, IoT hubs)</li>
+<li>Comprehensive sensor arrays (cameras, microphones, environmental sensors)</li>
+<li>Centralized data processing and artificial intelligence systems</li>
+<li>Digital identity and payment systems</li>
+</ul>
+<p>This infrastructure is not merely for convenience. It is the external component of the control grid -- the transmitter/receiver network that communicates with the nanotechnology now embedded in the population. Smart cities are not about smart traffic management. They are about smart human management -- the monitoring and control of every individual within the grid through the interface between external infrastructure and internal nanotechnology.</p>
+<h2 id="the-prophetic-dimension">The Prophetic Dimension</h2>
+<h3 id="the-firmament-and-the-frequency-grid">The Firmament and the Frequency Grid</h3>
+<p>God placed a firmament over the earth -- a dome, an impenetrable boundary that separates the created world from what lies beyond. This firmament is described in Genesis 1:6-8 and referenced throughout Scripture as a physical structure -- not merely atmospheric layers, but a solid expanse that the stars are set within and that the waters are stored above.</p>
+<p>The electromagnetic frequency grid being constructed around the earth -- through towers, satellites, and ground-based systems -- is a counterfeit firmament. It is an electromagnetic dome within the physical dome, creating a secondary containment system controlled not by God but by the adversary's technological system. The targeted individual experiences the full force of this counterfeit firmament: surrounded at all times by the electromagnetic grid, carrying within their body the technology that receives and amplifies its signals, unable to escape the prison that exists both around and inside them.</p>
+<p>But the firmament that God placed is above the counterfeit. The dome of creation is above the electromagnetic grid. The authority of the Creator is above the technology of the created. And no weapon formed against God's children shall prosper -- not graphene weapons, not directed energy weapons, not self-assembling nanomachine weapons -- because the One who placed the firmament has not abandoned those who shelter beneath it.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, targeted individual blood documentation</li>
+<li>U.S. Senate Select Committee on Intelligence, "Project MKULTRA: The CIA's Program of Research in Behavioral Modification," 1977</li>
+<li>National Security Archive, "COINTELPRO: The FBI's Covert Action Programs Against American Citizens," George Washington University</li>
+<li>Lin, J.C., "Auditory Perception of Pulsed Microwave Radiation," in Advances in Electromagnetic Fields in Living Systems, 1993</li>
+<li>DARPA N3 Program, "Next-Generation Nonsurgical Neurotechnology" program description</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a> -- The continuation of mind control programs under new names</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/127-Operation_Midnight_Climax.mp4">Operation Midnight Climax</a> -- The CIA's weaponization of technology against individuals</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> -- Self-assembling machines operating inside the body</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> -- The internal marking and tracking system</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> -- The adversary already inside, operating in silence</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> -- The One who crushes every weapon of the serpent</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/biochips-covid-vaccines-part1/?lang=en">Study of Biochips Found in COVID-19 Vaccines: Part 1</a> -- The visual documentation of biochip structures in vaccine vials</li>
+<li><a href="/advanced-implanted-nanotechnology/?lang=en">Advanced Implanted Nanotechnology Microchips Found in Patients</a> -- Further documentation of nanotechnology in patient samples</li>
+<li><a href="/space-fence-mind-control/?lang=en">The Space Fence and Mind Control Grid</a> -- The electromagnetic infrastructure enabling targeted individual attacks</li>
+</ul>
+<hr>
+<p><em>The targeted individuals were telling the truth. They were dismissed, medicated, institutionalized, and silenced -- but they were telling the truth. The technology is in the blood. The weapons are in the air. The control system is in the cities. And the test subjects who endured decades of ridicule while trying to warn the world are owed an apology that may never come from men -- but that will come from God, who sees every hidden work and will bring every secret thing to judgment, whether it is good or whether it is evil.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/science/","className":"category-badge","children":"science"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Targeted Individual: Microchips Self-Assembled As Bioweapon"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Documentation of self-assembled microchip structures found in targeted individuals, revealing how injectable nanotechnology is weaponized against people."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-10T10:00:00Z","children":"March 10, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","targeted-individuals",{"href":"/en/tag/targeted-individuals/","className":"tag-pill","children":["#","targeted-individuals"]}],["$","a","bioweapons",{"href":"/en/tag/bioweapons/","className":"tag-pill","children":["#","bioweapons"]}],["$","a","self-assembly",{"href":"/en/tag/self-assembly/","className":"tag-pill","children":["#","self-assembly"]}],["$","a","microchips",{"href":"/en/tag/microchips/","className":"tag-pill","children":["#","microchips"]}],["$","a","nanotechnology",{"href":"/en/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/targeted-individual-self-assembled-bioweapon/","title":"Targeted Individual: Microchips Self-Assembled As Bioweapon"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/targeted-individual-self-assembled-bioweapon/","title":"Targeted Individual: Microchips Self-Assembled As Bioweapon"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Targeted Individual: Microchips Self-Assembled As Bioweapon | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Documentation of self-assembled microchip structures found in targeted individuals, revealing how injectable nanotechnology is weaponized against people."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"targeted-individuals, bioweapons, self-assembly, microchips, nanotechnology"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/targeted-individual-self-assembled-bioweapon/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/targeted-individual-self-assembled-bioweapon/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/targeted-individual-self-assembled-bioweapon/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/targeted-individual-self-assembled-bioweapon/"}],["$","meta","10",{"property":"og:title","content":"Targeted Individual: Microchips Self-Assembled As Bioweapon"}],["$","meta","11",{"property":"og:description","content":"Documentation of self-assembled microchip structures found in targeted individuals, revealing how injectable nanotechnology is weaponized against people."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/targeted-individual-self-assembled-bioweapon/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/targeted-individual-self-assembled-bioweapon.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Targeted Individual: Microchips Self-Assembled As Bioweapon"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Targeted Individual: Microchips Self-Assembled As Bioweapon"}],["$","meta","25",{"name":"twitter:description","content":"Documentation of self-assembled microchip structures found in targeted individuals, revealing how injectable nanotechnology is weaponized against people."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/targeted-individual-self-assembled-bioweapon.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","directed-energy-weapons-smart-cities",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","directed-energy-weapons-smart-cities","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","directed-energy-weapons-smart-cities","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T387e,<h1 id="directed-energy-weapons-deployed-in-smart-cities">Directed Energy Weapons Deployed In Smart Cities</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And fire came down from God out of heaven, and devoured them." -- Revelation 20:9</p>
+</blockquote>
+<p>Fire from the sky is not merely a future judgment. It is a present capability. Directed energy weapons -- systems that deliver concentrated electromagnetic energy to targets at the speed of light -- represent the most advanced weapons platform ever deployed. And they are being integrated into the infrastructure of smart cities worldwide, hidden in plain sight among the 5G towers, LED streetlights, and IoT devices that are sold to the public as urban amenities.</p>
+<p>The convergence of directed energy weapons with injectable nanotechnology creates a weapons system of unprecedented precision: external transmitters that can target any individual carrying internal receivers, delivering effects ranging from mild discomfort to cardiac arrest -- with no bullet, no explosion, and no evidence.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> from the Confliction album warns, the most effective weapon works from inside. And as <a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> promises, every weapon the serpent deploys will ultimately be crushed.</p>
+<hr>
+<h2 id="directed-energy-weapons-the-technology">Directed Energy Weapons: The Technology</h2>
+<h3 id="types-of-dew-systems">Types of DEW Systems</h3>
+<p>Directed energy weapons encompass several technology categories:</p>
+<p><strong>High-Power Microwave (HPM)</strong></p>
+<p>HPM weapons generate intense microwave radiation that can disable electronic systems and cause biological effects including tissue heating, pain, disorientation, and at sufficient power levels, internal organ damage. The Active Denial System (ADS), developed by the U.S. military, uses millimeter-wave radiation (95 GHz) to create an intense burning sensation on the skin, intended for crowd control.</p>
+<p><strong>High-Energy Laser (HEL)</strong></p>
+<p>Laser weapons concentrate coherent light to deliver thermal energy to targets, capable of burning through materials and causing severe burns to biological targets. Military laser systems are now deployed on ships, vehicles, and aircraft.</p>
+<p><strong>Particle Beam Weapons</strong></p>
+<p>Particle beam weapons accelerate subatomic particles to near light speed and direct them at targets, delivering kinetic and thermal energy. While primarily in the research phase, particle beam technology represents the next generation of directed energy capability.</p>
+<p><strong>Electromagnetic Pulse (EMP)</strong></p>
+<p>EMP weapons generate intense electromagnetic pulses that disable electronic systems. While primarily used against electronic infrastructure, EMP effects on biological systems carrying electronic nanotechnology are unstudied and potentially devastating.</p>
+<h3 id="the-smart-city-weapons-grid">The Smart City Weapons Grid</h3>
+<p>Smart city infrastructure provides the physical platform for a distributed directed energy weapons network:</p>
+<p><strong>5G Small Cells</strong></p>
+<p>5G millimeter-wave small cells are deployed every 100-300 meters in urban areas. These transmitters operate at frequencies (24-100 GHz) that overlap with the frequency ranges used by military directed energy weapons. While the power levels of individual 5G cells are below weapons-grade, the potential for:</p>
+<ul>
+<li><strong>Phased array beamforming</strong> -- combining signals from multiple cells to create focused high-power beams aimed at specific locations</li>
+<li><strong>Coordinated activation</strong> -- simultaneously activating multiple cells to create area-effect electromagnetic fields</li>
+<li><strong>Frequency manipulation</strong> -- operating cells at specific frequencies known to cause biological effects</li>
+</ul>
+<p>These capabilities transform a telecommunications network into a distributed directed energy platform.</p>
+<p><strong>LED Streetlights</strong></p>
+<p>Modern LED streetlights deployed in smart cities contain far more than lighting elements. Many include:</p>
+<ul>
+<li>Cameras and microphones for surveillance</li>
+<li>Environmental sensors</li>
+<li>Wi-Fi and cellular communication modules</li>
+<li>Processors for edge computing</li>
+</ul>
+<p>The power infrastructure supplying these lights and the communications backbone connecting them create an additional network capable of delivering energy and signals throughout the urban environment.</p>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) cases of patients reporting symptoms consistent with directed energy exposure -- localized pain, burning sensations, cognitive disruption -- that correlate with proximity to smart city infrastructure. Dr. Mihalcea connects these reports with the nanotechnology found in blood, arguing that the internal nanotechnology serves as a receiver and amplifier for directed energy signals, making individuals with higher nanotechnology loads more susceptible to DEW effects.</p>
+<h2 id="the-nanotechnology-dew-synergy">The Nanotechnology-DEW Synergy</h2>
+<h3 id="internal-receivers-external-transmitters">Internal Receivers, External Transmitters</h3>
+<p>The most alarming aspect of the smart city weapons grid is its synergy with injectable nanotechnology. The nanotechnology documented in human blood -- including antenna-like structures, electromagnetic-responsive particles, and conductive filaments -- creates an internal receiver network that interfaces with the external transmitter network of smart city infrastructure.</p>
+<p>This synergy enables:</p>
+<ul>
+<li><strong>Precision targeting</strong> -- signals can be aimed at specific individuals based on their nanotechnology signature, affecting one person in a crowd without affecting others</li>
+<li><strong>Amplification</strong> -- internal nanotechnology amplifies received signals, allowing lower external power levels to produce significant biological effects</li>
+<li><strong>Bypassing the skin</strong> -- the nanotechnology is already inside the body, eliminating the attenuation of signal that occurs when directed energy must penetrate skin and tissue from outside</li>
+<li><strong>Neural access</strong> -- nanotechnology positioned near neural tissue provides direct access to the nervous system, enabling cognitive and behavioral effects that external DEW alone cannot achieve</li>
+</ul>
+<h3 id="the-dew-in-the-streets">The DEW In The Streets</h3>
+<p>The smart city weapons grid is not future technology. The infrastructure is already deployed. Every 5G cell, every smart streetlight, every IoT sensor is a potential node in the weapons network. The activation of this network as a weapons system requires only software -- the hardware is already in place.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/31-DEW_In_The_Street.mp4">DEW In The Street</a> captures this reality: directed energy weapons are not confined to military bases or battlefields. They are in the streets. They are on the lampposts. They are in the cell towers. They are everywhere that smart city infrastructure has been deployed.</p>
+<h2 id="the-prophetic-framework">The Prophetic Framework</h2>
+<h3 id="fire-from-the-sky">Fire From the Sky</h3>
+<p>Scripture repeatedly describes judgment and warfare involving fire from the sky:</p>
+<ul>
+<li>Sodom and Gomorrah destroyed by fire from heaven (Genesis 19:24)</li>
+<li>Elijah calling fire from heaven to consume soldiers (2 Kings 1:10)</li>
+<li>The false prophet making fire come down from heaven in the sight of men (Revelation 13:13)</li>
+</ul>
+<p>The false prophet's ability to "make fire come down from heaven in the sight of men" may describe directed energy weapons -- technology that delivers concentrated energy from above (from towers, satellites, aircraft) that appears as fire to observers. This is not metaphorical interpretation. It is technological description. Directed energy weapons literally make energy descend from elevated platforms to targets on the ground.</p>
+<p>The smart city grid, deployed under the dome of the firmament, creates an artificial sky of electromagnetic energy within the natural sky. The firmament God placed is above; the electromagnetic canopy the adversary has constructed is below. And between these two canopies, humanity exists -- covered by God's dome from above, surrounded by the adversary's grid from all sides.</p>
+<p>The plate of the earth, rimmed by its edges, is being transformed into a grid-enabled weapons platform. Every city is a cell. Every street is a channel. Every person carrying nanotechnology is a target. But the God who commands the fire -- who sent fire on Sodom and who withheld fire at Elijah's request -- is sovereign over every frequency, every beam, and every directed energy system. The fire the false prophet commands is borrowed fire. The fire of God is original, eternal, and unstoppable.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>U.S. Department of Defense, Active Denial System documentation</p>
+</li>
+<li>
+<p>Various smart city deployment documentation and 5G infrastructure specifications</p>
+</li>
+<li>
+<p>Directed Energy Professional Society technical publications</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, DEW exposure and nanotechnology correlation</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZR296RWS0yM&#x26;list=PLm6Vq0bTTCDiPIX2ItdQTQGX7mXQXBxoV">NASA and Space — The Greatest Deception Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/31-DEW_In_The_Street.mp4">DEW In The Street</a> -- Directed energy weapons in urban infrastructure</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/305-Fire_From_The_Sky.mp4">Fire From The Sky</a> -- Energy descending from the grid above</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/155-Cyber_Polygon_Prophecy.mp4">Cyber Polygon Prophecy</a> -- The cyber infrastructure enabling the weapons grid</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> -- The all-seeing targeting system</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a> -- Internal receivers for external weapons</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> -- Every weapon of the serpent will be crushed</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/space-fence-mind-control/?lang=en">The Space Fence and Mind Control Grid</a> -- The orbital component of the weapons grid</li>
+<li><a href="/targeted-individual-self-assembled-bioweapon/?lang=en">Targeted Individual: Microchips Self-Assembled As Bioweapon</a> -- Individuals already experiencing DEW targeting</li>
+<li><a href="/self-assembling-nanotech-susceptible/?lang=en">How Self-Assembling Nanotechnology Makes You Susceptible to Control</a> -- How nanotechnology enables DEW targeting</li>
+</ul>
+<hr>
+<p><em>The smart city is not smart for your benefit. It is smart for your control. Every tower, every sensor, every connected device is a potential weapon -- a node in a directed energy grid that can target any individual carrying the internal receivers that were injected through pharmaceutical products. The streets are armed. The lampposts are weaponized. And the 5G network sold as faster internet is the communications backbone of a weapons system designed to enforce compliance at the speed of light. But the God who sends genuine fire from heaven -- who burned Sodom, consumed Elijah's sacrifice, and will ultimately consume the armies of the Beast -- is not threatened by millimeter waves and phased arrays. His fire is hotter. His aim is perfect. And His judgment on those who weaponized the streets against His children will be as devastating as it is deserved.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Directed Energy Weapons Deployed In Smart Cities"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Smart city infrastructure doubles as a directed energy weapons grid, with 5G towers and IoT systems capable of targeting individuals carrying nanotechnology."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-29T10:00:00Z","children":"March 29, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","directed-energy-weapons",{"href":"/en/tag/directed-energy-weapons/","className":"tag-pill","children":["#","directed-energy-weapons"]}],["$","a","smart-cities",{"href":"/en/tag/smart-cities/","className":"tag-pill","children":["#","smart-cities"]}],["$","a","5g",{"href":"/en/tag/5g/","className":"tag-pill","children":["#","5g"]}],["$","a","surveillance",{"href":"/en/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}],["$","a","weapons",{"href":"/en/tag/weapons/","className":"tag-pill","children":["#","weapons"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/directed-energy-weapons-smart-cities/","title":"Directed Energy Weapons Deployed In Smart Cities"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/directed-energy-weapons-smart-cities/","title":"Directed Energy Weapons Deployed In Smart Cities"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Directed Energy Weapons Deployed In Smart Cities | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Smart city infrastructure doubles as a directed energy weapons grid, with 5G towers and IoT systems capable of targeting individuals carrying nanotechnology."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"directed-energy-weapons, smart-cities, 5g, surveillance, weapons"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/directed-energy-weapons-smart-cities/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/directed-energy-weapons-smart-cities/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/directed-energy-weapons-smart-cities/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/directed-energy-weapons-smart-cities/"}],["$","meta","10",{"property":"og:title","content":"Directed Energy Weapons Deployed In Smart Cities"}],["$","meta","11",{"property":"og:description","content":"Smart city infrastructure doubles as a directed energy weapons grid, with 5G towers and IoT systems capable of targeting individuals carrying nanotechnology."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/directed-energy-weapons-smart-cities/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/directed-energy-weapons-smart-cities.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Directed Energy Weapons Deployed In Smart Cities"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Directed Energy Weapons Deployed In Smart Cities"}],["$","meta","25",{"name":"twitter:description","content":"Smart city infrastructure doubles as a directed energy weapons grid, with 5G towers and IoT systems capable of targeting individuals carrying nanotechnology."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/directed-energy-weapons-smart-cities.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

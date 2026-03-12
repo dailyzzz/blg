@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","women-hospitalized-mrna-vaccination",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","women-hospitalized-mrna-vaccination","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","women-hospitalized-mrna-vaccination","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4702,<h1 id="study-of-4610-women-hospitalized-after-mrna-vaccination">Study of 4,610 Women Hospitalized After mRNA Vaccination</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Who can find a virtuous woman? for her price is far above rubies." — Proverbs 31:10</p>
+</blockquote>
+<p>Scripture holds women in a position of sacred honor. The woman was the final act of creation — the completion of God's design, the one from whose body all subsequent human life would emerge. Eve was called "the mother of all living" (Genesis 3:20). Every human being since Adam has entered the world through a woman's body. The woman's body is the gateway of life.</p>
+<p>When that body is damaged — when thousands of women are hospitalized after receiving a medical product they were told was safe — it is not merely an adverse event. It is an assault on the gateway of life itself. The hospitalization of 4,610 women following mRNA vaccination is not a statistic. It is 4,610 individual bodies — bodies designed to carry life, nurture children, and sustain families — damaged by a product that was aggressively marketed to them as essential healthcare.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> speaks to the life that was meant to flow through the body uncontaminated. The ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> exposes the infrastructure of mass injection that processed women like products on a conveyor belt.</p>
+<hr>
+<h2 id="the-study-overview">The Study: Overview</h2>
+<h3 id="study-parameters">Study Parameters</h3>
+<p>A clinical study examining hospitalization events following mRNA COVID-19 vaccination documented 4,610 women who required hospital admission in the period following their vaccination. The study analyzed:</p>
+<ul>
+<li><strong>Demographics:</strong> Age distribution, pre-existing conditions, pregnancy status</li>
+<li><strong>Vaccination details:</strong> Which mRNA product (Pfizer-BioNTech or Moderna), dose number (first, second, booster), time between vaccination and hospitalization</li>
+<li><strong>Clinical presentations:</strong> The medical conditions that led to hospitalization</li>
+<li><strong>Outcomes:</strong> Length of hospitalization, ICU admissions, procedures performed, discharge status, deaths</li>
+</ul>
+<h3 id="key-findings">Key Findings</h3>
+<p>The study revealed several patterns that challenge the "safe and effective" narrative:</p>
+<p><strong>1. Cardiac Events Were Prominent</strong>
+A significant proportion of hospitalizations involved cardiac conditions:</p>
+<ul>
+<li>Myocarditis and pericarditis</li>
+<li>Acute coronary events (heart attacks) in women without prior cardiac history</li>
+<li>Arrhythmias (abnormal heart rhythms)</li>
+<li>Takotsubo cardiomyopathy ("broken heart syndrome")</li>
+<li>Pulmonary embolism (blood clots in the lungs)</li>
+</ul>
+<p><strong>2. Neurological Events Were Widespread</strong>
+Neurological presentations included:</p>
+<ul>
+<li>Stroke (both ischemic and hemorrhagic) in young women</li>
+<li>Guillain-Barre syndrome (ascending paralysis)</li>
+<li>Transverse myelitis (spinal cord inflammation)</li>
+<li>Bell's palsy and other cranial nerve palsies</li>
+<li>Seizures in women with no prior seizure history</li>
+<li>Severe headaches and intracranial hypertension</li>
+</ul>
+<p><strong>3. Thrombotic Events Were Disproportionate</strong>
+Blood clotting disorders appeared at rates far exceeding background:</p>
+<ul>
+<li>Deep vein thrombosis (DVT)</li>
+<li>Pulmonary embolism (PE)</li>
+<li>Cerebral venous sinus thrombosis (CVST)</li>
+<li>Thrombotic thrombocytopenic purpura (TTP)</li>
+<li>Vaccine-induced immune thrombocytopenia and thrombosis (VITT)</li>
+</ul>
+<p><strong>4. Autoimmune Conditions Were Triggered</strong>
+New-onset autoimmune conditions appeared following vaccination:</p>
+<ul>
+<li>Systemic lupus erythematosus flares and new diagnoses</li>
+<li>Rheumatoid arthritis onset</li>
+<li>Autoimmune hepatitis</li>
+<li>Immune thrombocytopenia (ITP)</li>
+<li>Multiple sclerosis onset and relapse</li>
+</ul>
+<p><strong>5. Reproductive and Gynecological Events</strong>
+Women experienced specific reproductive adverse events:</p>
+<ul>
+<li>Severe menstrual abnormalities requiring hospitalization</li>
+<li>Hemorrhagic ovarian cysts</li>
+<li>Post-menopausal bleeding requiring investigation</li>
+<li>Pregnancy complications (in those vaccinated during pregnancy)</li>
+</ul>
+<hr>
+<h2 id="the-kingston-report-analysis-and-context">The Kingston Report: Analysis and Context</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> places this study in the broader context of documented mRNA vaccine harm, specifically as it disproportionately affects women.</p>
+<h3 id="why-women-are-disproportionately-affected">Why Women Are Disproportionately Affected</h3>
+<p>Kingston has documented several biological reasons why women may experience more severe adverse events from mRNA vaccination:</p>
+<p><strong>Immune System Differences:</strong> Women have more robust immune responses than men on average — higher baseline antibody production, stronger T-cell responses, and more vigorous inflammatory reactions. While this provides greater protection against many infections, it also means that the immune response triggered by mRNA vaccination is more intense in women, leading to more vigorous inflammation and greater potential for autoimmune-type damage.</p>
+<p><strong>Hormonal Interactions:</strong> The lipid nanoparticles used in mRNA vaccines accumulate in the ovaries (as shown by Pfizer's biodistribution data submitted to Japanese regulators). The interaction between LNPs, mRNA, and ovarian hormonal tissue has not been studied. Hormonal fluctuations during the menstrual cycle affect immune function, and the timing of vaccination relative to the menstrual cycle may influence the severity of the immune response and resulting adverse events.</p>
+<p><strong>LNP Ovarian Accumulation:</strong> The biodistribution data showing LNP concentration in ovarian tissue is particularly concerning for women. The ovaries are not merely reproductive organs — they are endocrine organs that regulate hormonal balance throughout the body. Disruption of ovarian function can cascade to affect cardiovascular, neurological, immune, and metabolic systems.</p>
+<p><strong>Autoimmune Susceptibility:</strong> Women are already disproportionately affected by autoimmune conditions (approximately 80% of autoimmune disease patients are female). mRNA vaccination's immune-stimulating properties can trigger autoimmune cascades in individuals with underlying susceptibility — and women represent the majority of that susceptible population.</p>
+<h3 id="the-menstrual-signal">The Menstrual Signal</h3>
+<p>Kingston has specifically documented the menstrual abnormalities that followed the vaccine rollout — changes so widespread that they could not be ignored even by agencies attempting to minimize vaccine adverse events:</p>
+<ul>
+<li><strong>Thousands of women reported</strong> dramatic changes to their menstrual cycles following vaccination, including heavier bleeding, missed periods, irregular cycles, and severe cramping</li>
+<li><strong>Post-menopausal women</strong> reported resumption of menstrual bleeding — a symptom that normally triggers urgent investigation for endometrial cancer</li>
+<li><strong>Adolescent girls</strong> reported abnormal bleeding patterns</li>
+<li><strong>The NIH eventually funded a study</strong> (after months of dismissing the reports) that confirmed menstrual changes following vaccination — a rare acknowledgment forced by the volume of reports</li>
+</ul>
+<p>The menstrual signal is significant because the menstrual cycle is a sensitive indicator of systemic health. Changes to the menstrual cycle indicate disruption of the hypothalamic-pituitary-ovarian axis — the hormonal control system that governs not only reproduction but also bone density, cardiovascular function, metabolism, and mood. When 4,610 women are hospitalized and thousands more experience menstrual disruption, the signal points to systemic harm, not isolated adverse events.</p>
+<hr>
+<h2 id="breaking-down-the-hospitalization-data">Breaking Down the Hospitalization Data</h2>
+<h3 id="age-distribution">Age Distribution</h3>
+<p>The study revealed that hospitalizations were not confined to elderly or comorbid women:</p>
+<ul>
+<li>A significant proportion of hospitalized women were <strong>under age 50</strong> — women in their prime reproductive years</li>
+<li>Many had <strong>no significant pre-existing conditions</strong> prior to vaccination</li>
+<li>The youngest hospitalized patients were <strong>adolescents</strong> who received the vaccine as part of the pediatric authorization</li>
+<li>Elderly women were also represented, often with more severe outcomes</li>
+</ul>
+<h3 id="dose-response-pattern">Dose-Response Pattern</h3>
+<p>The data showed a clear pattern related to dose number:</p>
+<ul>
+<li><strong>Second dose hospitalizations exceeded first dose hospitalizations</strong> — consistent with immune priming and enhanced response</li>
+<li><strong>Booster dose hospitalizations</strong> showed the highest rate of autoimmune and inflammatory presentations</li>
+<li><strong>Time from vaccination to hospitalization</strong> ranged from hours (anaphylaxis, acute cardiac events) to weeks (autoimmune conditions, thrombotic events)</li>
+</ul>
+<h3 id="outcome-severity">Outcome Severity</h3>
+<p>Among the 4,610 hospitalized women:</p>
+<ul>
+<li>A percentage required <strong>ICU admission</strong> for life-threatening conditions</li>
+<li>Some required <strong>emergency surgical intervention</strong> (thrombectomy, craniotomy for hemorrhagic stroke)</li>
+<li><strong>Deaths were recorded</strong> in the study population</li>
+<li>Many experienced <strong>prolonged hospitalization</strong> beyond typical admission lengths for their conditions</li>
+<li><strong>Discharge with ongoing disability</strong> was documented in a subset of patients</li>
+</ul>
+<hr>
+<h2 id="the-informed-consent-failure">The Informed Consent Failure</h2>
+<h3 id="what-women-were-told">What Women Were Told</h3>
+<p>Women who received mRNA vaccines were told:</p>
+<ul>
+<li>The vaccine is "safe and effective"</li>
+<li>Common side effects are mild: sore arm, fatigue, low-grade fever</li>
+<li>Serious side effects are "extremely rare"</li>
+<li>The vaccine is recommended for pregnant and breastfeeding women</li>
+<li>The benefits outweigh the risks for all adults</li>
+</ul>
+<h3 id="what-women-were-not-told">What Women Were Not Told</h3>
+<p>Women were not told:</p>
+<ul>
+<li>LNPs accumulate in the ovaries</li>
+<li>The spike protein the vaccine produces suppresses the p53 tumor suppressor gene</li>
+<li>Antibodies generated by the vaccine cross-react with placental proteins</li>
+<li>The vaccine causes measurable immune suppression (IgG4 class switching)</li>
+<li>The modified mRNA may persist for months</li>
+<li>Menstrual disruption affects a significant percentage of vaccinated women</li>
+<li>The clinical trials excluded pregnant women and had no adequate reproductive safety data</li>
+<li>The company making the vaccine has a $4.7 billion criminal fraud record</li>
+</ul>
+<p>This is not informed consent. This is informed deception. Women were given one set of information and denied another. The information they received promoted compliance. The information they were denied would have promoted refusal.</p>
+<hr>
+<h2 id="the-biblical-perspective-women-as-targets">The Biblical Perspective: Women as Targets</h2>
+<h3 id="the-pattern-of-genesis-3">The Pattern of Genesis 3</h3>
+<p>The serpent targeted Eve in the Garden. Not because she was weaker — but because she was the gateway. Through the woman, the corruption would enter the human race. Through the woman, all future generations would be affected.</p>
+<p>The same targeting pattern is visible in the mRNA campaign. Women were specifically targeted for vaccination messaging:</p>
+<ul>
+<li>Pregnant women were specifically encouraged to vaccinate</li>
+<li>Healthcare workers (a predominantly female workforce) faced mandates</li>
+<li>Teachers (predominantly female) faced mandates</li>
+<li>Social pressure campaigns emphasized "protecting others" — an appeal disproportionately effective among women who are relationally oriented</li>
+</ul>
+<p>The targeting of women is not accidental. It is strategic. When you damage the gateway of life, you damage all future life that would have passed through it.</p>
+<h3 id="the-pharmakeia-warning">The Pharmakeia Warning</h3>
+<p>Revelation 18:23 warns of pharmakeia — sorcery through drugs. The hospitalization of 4,610 women is the documented consequence of that sorcery. The drug was presented as healing. It caused harm. The "safe and effective" spell was spoken, and women believed it, and their bodies paid the price.</p>
+<p>But God sees every hospitalized woman. He numbers every damaged heart, every clotted vessel, every inflamed nerve. "He healeth the broken in heart, and bindeth up their wounds. He telleth the number of the stars; he calleth them all by their names" (Psalm 147:3-4). The God who numbers the stars also numbers the wounded.</p>
+<hr>
+<h2 id="what-women-should-know">What Women Should Know</h2>
+<ol>
+<li>
+<p><strong>4,610 hospitalizations represent the documented minimum.</strong> Adverse event reporting systems are passive and capture only a fraction of actual events. Studies estimate VAERS captures between 1-10% of adverse events.</p>
+</li>
+<li>
+<p><strong>The adverse event spectrum is broad.</strong> Cardiac, neurological, thrombotic, autoimmune, and reproductive systems are all affected.</p>
+</li>
+<li>
+<p><strong>Women's biology makes them more susceptible</strong> to certain vaccine adverse events due to immune, hormonal, and autoimmune factors.</p>
+</li>
+<li>
+<p><strong>LNP accumulation in ovaries is documented</strong> in the manufacturer's own biodistribution data.</p>
+</li>
+<li>
+<p><strong>Menstrual disruption is a systemic signal,</strong> not a minor inconvenience. It indicates disruption of fundamental hormonal and reproductive systems.</p>
+</li>
+<li>
+<p><strong>Informed consent was systematically denied.</strong> Women were not given the information needed to make an informed decision about a product that disproportionately affects them.</p>
+</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of sex-specific vaccine adverse events.</li>
+<li>Clinical study of 4,610 hospitalized women post-mRNA vaccination</li>
+<li>Pfizer Biodistribution Study (Japanese PMDA)</li>
+<li>VAERS data analysis (sex-stratified)</li>
+<li>NIH-funded menstrual cycle study</li>
+<li>Published research on sex differences in immune response to mRNA vaccination</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> — The infrastructure of mass injection</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The system targeting the vulnerable</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/41-Shedding_Proof.mp4">Shedding Proof</a> — Transmission of vaccine components</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> — The life meant to flow uncontaminated through the body</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — The blood covenant under assault</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/pfizer-denies-birth-defects/?lang=en">Pfizer Denies Significant Increased Rate of Birth Defects</a> — Pfizer's denial and documented reality</li>
+<li><a href="/spike-antibodies-fetal-deaths/?lang=en">Spike Protein ANTIBODIES Increase Fetal Deaths</a> — How antibodies harm the unborn</li>
+<li><a href="/mrna-faulty-genes-myocarditis/?lang=en">mRNA Technology Can Add Faulty Genes Leading to Myocarditis</a> — The cardiac damage mechanism</li>
+<li><a href="/cdc-safety-data-mrna-vaccines/?lang=en">Updated CDC Safety Data on COVID-19 mRNA Vaccines</a> — The latest safety signals</li>
+</ul>
+<hr>
+<p><em>Behind every statistic is a woman — a mother, a daughter, a wife, a sister. Behind 4,610 hospitalizations are 4,610 stories of trust betrayed, health stolen, and bodies damaged by a product marketed as care. But the God who formed Eve from Adam's rib — who designed the female body as the gateway of life — does not forget His daughters. "Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee" (Isaiah 49:15).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Study of 4,610 Women Hospitalized After mRNA Vaccination"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"A study documenting 4,610 women hospitalized following mRNA COVID-19 vaccination reveals patterns of harm including cardiac, neurological, and autoimmune events."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-16T10:00:00Z","children":"April 16, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","women-health",{"href":"/en/tag/women-health/","className":"tag-pill","children":["#","women-health"]}],["$","a","hospitalization",{"href":"/en/tag/hospitalization/","className":"tag-pill","children":["#","hospitalization"]}],["$","a","mRNA-vaccines",{"href":"/en/tag/mRNA-vaccines/","className":"tag-pill","children":["#","mRNA-vaccines"]}],["$","a","adverse-events",{"href":"/en/tag/adverse-events/","className":"tag-pill","children":["#","adverse-events"]}],["$","a","clinical-study",{"href":"/en/tag/clinical-study/","className":"tag-pill","children":["#","clinical-study"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/women-hospitalized-mrna-vaccination/","title":"Study of 4,610 Women Hospitalized After mRNA Vaccination"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/women-hospitalized-mrna-vaccination/","title":"Study of 4,610 Women Hospitalized After mRNA Vaccination"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Study of 4,610 Women Hospitalized After mRNA Vaccination | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"A study documenting 4,610 women hospitalized following mRNA COVID-19 vaccination reveals patterns of harm including cardiac, neurological, and autoimmune events."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"women-health, hospitalization, mRNA-vaccines, adverse-events, clinical-study"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/women-hospitalized-mrna-vaccination/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/women-hospitalized-mrna-vaccination/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/women-hospitalized-mrna-vaccination/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/women-hospitalized-mrna-vaccination/"}],["$","meta","10",{"property":"og:title","content":"Study of 4,610 Women Hospitalized After mRNA Vaccination"}],["$","meta","11",{"property":"og:description","content":"A study documenting 4,610 women hospitalized following mRNA COVID-19 vaccination reveals patterns of harm including cardiac, neurological, and autoimmune events."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/women-hospitalized-mrna-vaccination/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/women-hospitalized-mrna-vaccination.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Study of 4,610 Women Hospitalized After mRNA Vaccination"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Study of 4,610 Women Hospitalized After mRNA Vaccination"}],["$","meta","25",{"name":"twitter:description","content":"A study documenting 4,610 women hospitalized following mRNA COVID-19 vaccination reveals patterns of harm including cardiac, neurological, and autoimmune events."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/women-hospitalized-mrna-vaccination.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

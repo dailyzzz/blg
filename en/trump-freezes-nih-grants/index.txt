@@ -1,0 +1,138 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","trump-freezes-nih-grants",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","trump-freezes-nih-grants","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","trump-freezes-nih-grants","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T368b,<h1 id="trump-freezes-nih-approvals-and-research-grants">Trump Freezes NIH Approvals and Research Grants</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much." — Luke 16:10</p>
+</blockquote>
+<p>When Nehemiah returned to Jerusalem and discovered that the Levites had been driven from the Temple because the tithes had been diverted, he did not merely restore the tithes. He confronted the officials who had allowed the diversion, purified the chambers, and established new oversight. The money had been misallocated — not to external enemies, but by internal corruption. The same funds meant to sustain the house of God had been redirected to serve private interests.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> reveals, forbidden knowledge always carries a price — and the price is always paid by those who did not choose to pursue it. The NIH's research grant system has spent decades funneling taxpayer money into research programs that advanced pharmaceutical industry interests while neglecting the fundamental questions about public health that the agency was created to answer.</p>
+<p>The freeze has come. The tithes have been stopped. And the officials who diverted them are demanding to know why.</p>
+<hr>
+<h2 id="the-nih-grant-machine">The NIH Grant Machine</h2>
+<p>The National Institutes of Health is the largest public funder of biomedical research in the world, with an annual budget exceeding $47 billion. The vast majority of this budget — approximately $32 billion — is distributed through research grants to universities, medical schools, research institutions, and individual scientists across the country and around the world.</p>
+<p>The NIH grant system shapes American biomedical research in its entirety. Research topics that receive NIH funding are pursued. Topics that do not receive NIH funding are abandoned. Scientists who align their research with NIH priorities receive funding, tenure, and prestige. Scientists who pursue questions outside NIH priorities face career stagnation.</p>
+<p>This system gives the NIH — and by extension, the officials who control NIH funding priorities — effective veto power over the direction of American biomedical science. If the NIH decides that a question should not be studied, it will not be studied. If the NIH decides that a research approach should be prioritized, it will be prioritized. The agency does not merely fund science — it directs it.</p>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com) that the NIH's funding priorities have been systematically aligned with pharmaceutical industry interests: "The NIH does not fund research that threatens pharmaceutical revenue. It does not fund comparative studies of vaccinated vs. unvaccinated populations. It does not fund research into natural immunity. It does not fund investigations into the root causes of chronic disease that might implicate pharmaceutical products. It funds research that supports the development, marketing, and deployment of pharmaceutical products — because the officials who set funding priorities are connected to the industry that profits from them."</p>
+<h3 id="the-royalty-problem">The Royalty Problem</h3>
+<p>A critical and underreported aspect of NIH corruption is the royalty system. NIH scientists — including those in leadership positions who influence funding decisions — are entitled to receive personal royalty payments from pharmaceutical companies that commercialize technologies developed with NIH support.</p>
+<p>Between 2010 and 2020, NIH scientists received an estimated $350 million in royalty payments from pharmaceutical and biotech companies. These payments were made to individual scientists — not to the agency — and were not publicly disclosed until forced through FOIA litigation.</p>
+<p>The conflict of interest is staggering. NIH scientists who receive royalties from pharmaceutical companies are the same scientists who:</p>
+<ul>
+<li>Set research funding priorities</li>
+<li>Review grant applications from other researchers</li>
+<li>Serve on advisory committees that influence drug and vaccine policy</li>
+<li>Make decisions about which research questions are worth pursuing</li>
+</ul>
+<p>A scientist receiving personal royalties from Moderna has a financial interest in research that supports Moderna's products — and a financial disincentive to fund research that might question them.</p>
+<hr>
+<h2 id="the-freeze">The Freeze</h2>
+<p>President Trump's freeze on NIH grant approvals and research funding halts the flow of taxpayer money through a system that has been documented to operate with pervasive conflicts of interest and inadequate oversight. The freeze encompasses:</p>
+<p><strong>New grant approvals:</strong> No new NIH research grants will be approved during the freeze period.</p>
+<p><strong>Grant renewals:</strong> Existing grants will not be renewed until a comprehensive review of NIH funding priorities and conflict-of-interest policies is completed.</p>
+<p><strong>Intramural research:</strong> Research conducted within NIH's own laboratories is subject to review for alignment with reformed agency priorities.</p>
+<p><strong>International grants:</strong> NIH funding flowing to international research institutions — including institutions involved in gain-of-function research — is frozen pending review.</p>
+<p>The freeze does not affect grants that have already been disbursed or research that is currently being conducted under existing funding. It affects the pipeline — the next round of grants, renewals, and approvals.</p>
+<hr>
+<h2 id="the-response">The Response</h2>
+<p>The scientific establishment has responded with unprecedented alarm. University administrators warn of laboratory closures. Department chairs warn of researcher departures. Scientific journals publish editorials decrying the "politicization of science." Nobel laureates sign open letters demanding the restoration of funding.</p>
+<p>But the alarm is selective. The same scientific establishment that now demands the restoration of taxpayer funding:</p>
+<ul>
+<li>Did not raise alarm when NIH funding priorities were aligned with pharmaceutical industry interests</li>
+<li>Did not demand transparency when NIH scientists received hundreds of millions in personal royalties from the companies they were supposed to oversee</li>
+<li>Did not object when NIH-funded research supported the development of products deployed under Emergency Use Authorization without completed clinical trials</li>
+<li>Did not protest when NIH funding was used to support gain-of-function research at foreign laboratories</li>
+<li>Did not demand accountability when the NIH suppressed early treatment research that threatened the EUA framework</li>
+</ul>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> documents how the funding streams connecting federal agencies, defense contractors, and pharmaceutical companies create a self-sustaining ecosystem in which the same money cycles through the same institutions, producing the same outcomes, regardless of the public interest.</p>
+<p>Kingston has observed: "The scientific establishment is not alarmed because research will stop. It is alarmed because the money will stop. The NIH grant system is not merely a funding mechanism — it is a patronage system. Universities depend on NIH overhead (indirect cost) payments that fund their administration, their buildings, and their expansion. Researchers depend on NIH grants for their salaries, their tenure, and their prestige. The freeze threatens not scientific progress but institutional revenue."</p>
+<hr>
+<h2 id="the-prophetic-lens">The Prophetic Lens</h2>
+<blockquote>
+<p>"Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings." — Malachi 3:8</p>
+</blockquote>
+<p>The NIH was created to serve the American people — to use taxpayer funds to advance knowledge that protects and improves human health. Instead, the agency has served the pharmaceutical industry — using taxpayer funds to develop products that generate private profit while leaving the public to bear the costs and the consequences.</p>
+<p>This is a form of robbery. The tithes of the American people — their tax dollars — were offered for the purpose of health. They were diverted to the purpose of profit. The freeze is an attempt to restore the original purpose of the offering.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>NIH.gov — Budget, grant program documentation, and funding statistics</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of NIH funding conflicts, royalty payment documentation, and institutional capture through the grant system</p>
+</li>
+<li>
+<p>Open The Books — NIH royalty payment disclosures obtained through FOIA</p>
+</li>
+<li>
+<p>NIH Office of Extramural Research — Grant management policies</p>
+</li>
+<li>
+<p>Luke 16:10, Malachi 3:8 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> — Federal funding streams connecting agencies and industry</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/171-Great_Reset_Rising.mp4">Great Reset Rising</a> — The institutional ecosystem threatened by reform</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — Financial compromises binding institutions to corruption</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a> — Forbidden knowledge funded by stolen tithes</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> — Crossing the boundary between public service and private profit</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/hhs-pulls-mrna-research-funding/?lang=en">HHS Pulls $500 Million in mRNA Research Funding</a> — The mRNA-specific funding cuts</li>
+<li><a href="/trump-bans-gain-of-function/?lang=en">Trump Executive Order Bans Gain-of-Function Research</a> — Banning the research the NIH funded abroad</li>
+<li><a href="/hhs-maha-transformation/?lang=en">HHS Announces MAHA Transformation of Healthcare</a> — The broader reform vision</li>
+<li><a href="/fauci-covid-emails-disclosed/?lang=en">Will Fauci's COVID-19 Emails Finally Be Disclosed</a> — The communications trail from NIH leadership</li>
+</ul>
+<hr>
+<p><em>Nehemiah found that the tithes meant for the Temple had been diverted to private interests, the Levites had been driven away, and the house of God stood neglected. The NIH's $47 billion annual budget — funded by the tithes of the American taxpayer — has been diverted to pharmaceutical industry profit, genuine safety research has been driven away, and the house of public health stands neglected. The freeze is Nehemiah's confrontation — a demand that the money return to its intended purpose. "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven" (Malachi 3:10). The tithes have been misdirected for decades. The freeze demands their restoration.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Trump Freezes NIH Approvals and Research Grants"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"President Trump freezes NIH grant approvals and research funding, disrupting the financial pipeline that connected taxpayer money to pharmaceutical industry profits."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-19T10:00:00Z","children":"May 19, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Trump",{"href":"/en/tag/Trump/","className":"tag-pill","children":["#","Trump"]}],["$","a","NIH",{"href":"/en/tag/NIH/","className":"tag-pill","children":["#","NIH"]}],["$","a","research-grants",{"href":"/en/tag/research-grants/","className":"tag-pill","children":["#","research-grants"]}],["$","a","funding-freeze",{"href":"/en/tag/funding-freeze/","className":"tag-pill","children":["#","funding-freeze"]}],["$","a","reform",{"href":"/en/tag/reform/","className":"tag-pill","children":["#","reform"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/trump-freezes-nih-grants/","title":"Trump Freezes NIH Approvals and Research Grants"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/trump-freezes-nih-grants/","title":"Trump Freezes NIH Approvals and Research Grants"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Trump Freezes NIH Approvals and Research Grants | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"President Trump freezes NIH grant approvals and research funding, disrupting the financial pipeline that connected taxpayer money to pharmaceutical industry profits."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Trump, NIH, research-grants, funding-freeze, reform"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/trump-freezes-nih-grants/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/trump-freezes-nih-grants/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/trump-freezes-nih-grants/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/trump-freezes-nih-grants/"}],["$","meta","10",{"property":"og:title","content":"Trump Freezes NIH Approvals and Research Grants"}],["$","meta","11",{"property":"og:description","content":"President Trump freezes NIH grant approvals and research funding, disrupting the financial pipeline that connected taxpayer money to pharmaceutical industry profits."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/trump-freezes-nih-grants/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/trump-freezes-nih-grants.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Trump Freezes NIH Approvals and Research Grants"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Trump Freezes NIH Approvals and Research Grants"}],["$","meta","25",{"name":"twitter:description","content":"President Trump freezes NIH grant approvals and research funding, disrupting the financial pipeline that connected taxpayer money to pharmaceutical industry profits."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/trump-freezes-nih-grants.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

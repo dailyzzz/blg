@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","pam-bondi-prosecution-kirk-moore",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","pam-bondi-prosecution-kirk-moore","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pam-bondi-prosecution-kirk-moore","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T38d1,<h1 id="pam-bondi-ordered-prosecution-of-dr-kirk-moore">Pam Bondi Ordered Prosecution of Dr. Kirk Moore</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And who is he that will harm you, if ye be followers of that which is good? But and if ye suffer for righteousness' sake, happy are ye: and be not afraid of their terror, neither be troubled." — 1 Peter 3:13-14</p>
+</blockquote>
+<p>The Hebrew midwives Shiphrah and Puah were ordered by Pharaoh to kill every male child born to the Israelites. They refused. They defied the direct command of the most powerful ruler on earth because they feared God more than they feared Pharaoh. Scripture records that "God dealt well with the midwives" (Exodus 1:20) — not because they obeyed the law, but because they obeyed a higher law.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> reveals, every generation faces the same choice: obey the commands of a corrupt system or obey the commands of conscience. The curse of the serpent operates through systems that demand compliance with evil — and the first casualties of those systems are always those who refuse to comply.</p>
+<p>Dr. Kirk Moore is accused of providing patients with saline injections instead of COVID-19 vaccines, issuing vaccination cards to individuals who did not receive the actual product. The government calls it fraud. The question this article explores is whether the greater fraud was committed by the doctor who saved his patients from an experimental injection — or by the government that mandated it.</p>
+<hr>
+<h2 id="the-case-against-dr-kirk-moore">The Case Against Dr. Kirk Moore</h2>
+<p>Dr. Kirk Moore, a family practice physician, was charged with federal crimes related to his alleged participation in a scheme to provide patients with saline injections rather than COVID-19 vaccines while issuing CDC vaccination record cards indicating that the patients had been vaccinated.</p>
+<p>The charges include conspiracy to defraud the United States, making false statements, and aiding individuals in obtaining fraudulent COVID-19 vaccination cards. The government alleges that Moore's actions undermined the national vaccination program, violated federal record-keeping requirements, and constituted wire fraud in connection with federal healthcare programs.</p>
+<p>Attorney General Pam Bondi's decision to order the prosecution is significant because it occurs within an administration that has simultaneously:</p>
+<ul>
+<li>Terminated Emergency Use Authorizations for COVID-19 vaccines</li>
+<li>Pulled $500 million in mRNA research funding</li>
+<li>Banned gain-of-function research</li>
+<li>Initiated the removal of CDC officials connected to pharmaceutical industry conflicts</li>
+<li>Supported legislative efforts to reform the childhood vaccination schedule</li>
+</ul>
+<p>The apparent contradiction — prosecuting a physician for helping patients avoid a product that the administration itself has moved to restrict — has generated significant debate within both the medical freedom community and the legal establishment.</p>
+<h3 id="the-governments-position">The Government's Position</h3>
+<p>The government's position is that regardless of the merits or risks of COVID-19 vaccination, Dr. Moore violated federal law by issuing false vaccination records. The government argues that the integrity of medical record-keeping is a foundational requirement of the healthcare system, and that any physician who falsifies records — for any reason — commits a prosecutable offense.</p>
+<p>This position has internal logic. Medical records are legal documents. Their accuracy is essential to patient care, public health surveillance, and the functioning of the healthcare system. A physician who records a vaccination that did not occur creates a false record that could have downstream consequences for the patient's care and for epidemiological data.</p>
+<h3 id="the-defense-position">The Defense Position</h3>
+<p>Dr. Moore's defenders argue that the prosecution constitutes selective enforcement of federal law against a physician who acted in the best interest of his patients. The defense position rests on several arguments:</p>
+<p><strong>Informed consent was violated by the mandate system.</strong> COVID-19 vaccine mandates compelled individuals to receive an experimental product as a condition of employment, education, or military service. This compulsion violated the Nuremberg Code, the Declaration of Helsinki, and federal informed consent requirements that mandate voluntary participation in medical interventions.</p>
+<p><strong>The physician's oath supersedes regulatory compliance.</strong> The Hippocratic oath — "first, do no harm" — requires physicians to prioritize patient welfare above all other considerations, including regulatory mandates. If a physician believed in good faith that the COVID-19 injection posed a greater risk to a specific patient than the disease it purported to prevent, the oath required the physician to act on that judgment.</p>
+<p><strong>The products themselves were fraudulently represented.</strong> If the COVID-19 mRNA injections were materially misrepresented to the public — regarding their safety, their efficacy, their mechanism of action, or their biodistribution — then the original fraud was committed not by Dr. Moore but by the manufacturers and regulators who misrepresented the products.</p>
+<p>Karen Kingston has written in The Kingston Report (karenkingston.substack.com): "Dr. Kirk Moore is being prosecuted for protecting his patients from a product that the government itself is now acknowledging was inadequately tested, that the FDA's own data shows distributed throughout the body contrary to public representations, and that has generated hundreds of thousands of adverse event reports. The government is prosecuting a physician for doing what the government itself is now admitting should have been done — protecting people from a dangerous product."</p>
+<hr>
+<h2 id="the-broader-legal-question">The Broader Legal Question</h2>
+<p>The Moore prosecution raises a question that transcends the specifics of his case: when a government mandates a medical intervention that is later shown to have been inadequately tested, misrepresented to the public, and responsible for widespread harm — do physicians who helped their patients avoid that intervention deserve prosecution or commendation?</p>
+<p>This question has historical precedent. During the Nuremberg trials following World War II, the defense of "following orders" was explicitly rejected. The Nuremberg Code, developed in response to Nazi medical experiments, established that:</p>
+<ol>
+<li>The voluntary consent of the human subject is absolutely essential</li>
+<li>The experiment should be such as to yield fruitful results for the good of society, unprocurable by other methods or means of study</li>
+<li>The experiment should be so conducted as to avoid all unnecessary physical and mental suffering and injury</li>
+<li>No experiment should be conducted where there is an a priori reason to believe that death or disabling injury will occur</li>
+</ol>
+<p>COVID-19 vaccine mandates violated each of these principles. Consent was not voluntary — it was coerced through threat of job loss, educational exclusion, and military discipline. The experiments (clinical trials) were incomplete when the products were deployed. The products caused documented physical suffering and injury. And there was a priori reason to believe injury could occur, given the novel mechanism of action and the absence of long-term safety data.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/127-Operation_Midnight_Climax.mp4">Operation Midnight Climax</a> documents the historical pattern of government medical experimentation on unwitting populations — from MKUltra to the Tuskegee experiments — and the legal and moral frameworks developed in response. The COVID-19 mandate apparatus violated every one of those frameworks.</p>
+<hr>
+<h2 id="the-prophetic-dimension">The Prophetic Dimension</h2>
+<blockquote>
+<p>"Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven." — Matthew 5:10</p>
+</blockquote>
+<p>Scripture does not promise that the righteous will escape persecution. It promises that they will be blessed in their persecution — not by the systems of the world, but by God. Dr. Moore faces the judgment of man's law. Whether he faces the judgment of God depends not on whether he complied with federal record-keeping requirements but on whether he acted to protect the lives entrusted to his care.</p>
+<p>The Hebrew midwives falsified their records. They told Pharaoh that the Hebrew women gave birth before the midwives arrived. Scripture does not condemn them for the deception. It records that "God dealt well with the midwives: and the people multiplied, and waxed very mighty" (Exodus 1:20).</p>
+<p>The parallel is not perfect. But the principle is consistent: when a system demands participation in harm, those who refuse — even through deception — may stand in a different light before God than those who comply.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>United States v. Kirk Moore — Federal court filings and charging documents</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of prosecution context, informed consent violations, and PREP Act implications</p>
+</li>
+<li>
+<p>Nuremberg Code (1947)</p>
+</li>
+<li>
+<p>Declaration of Helsinki — World Medical Association</p>
+</li>
+<li>
+<p>1 Peter 3:13-14, Matthew 5:10, Exodus 1:20 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/127-Operation_Midnight_Climax.mp4">Operation Midnight Climax</a> — Government medical experimentation on unwitting populations</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a> — The continuity of government programs that treat citizens as test subjects</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — The system that demands compliance and punishes conscience</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> — Systems that demand compliance with evil</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/101-Fight_of_Faith.mp4">Fight of Faith</a> — The cost of standing against institutional corruption</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/florida-criminal-charges-pfizer/?lang=en">How Florida Residents Can Bring Criminal Charges Against Pfizer</a> — Legal strategies for holding manufacturers accountable</li>
+<li><a href="/doctors-vacate-prep-act/?lang=en">Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity</a> — The broader physician movement against pharmaceutical immunity</li>
+<li><a href="/federal-government-pfizer-data-fraud/?lang=en">Is It a Crime? Federal Government Assisted Pfizer in Data Fraud</a> — The government's own participation in fraud</li>
+<li><a href="/pfizer-case-government-not-interested/?lang=en">Court Filing in Pfizer Case: Government NOT Interested in Justice</a> — Selective prosecution in the pharmaceutical context</li>
+</ul>
+<hr>
+<p><em>Dr. Kirk Moore stands accused of fraud for issuing false vaccination records. The government that mandated the injections he helped his patients avoid now acknowledges the products were inadequately tested. The administration prosecuting him is simultaneously dismantling the program he undermined. The Hebrew midwives defied Pharaoh and God blessed them. Whether the courts of man will show the same discernment remains to be seen. "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn" (Proverbs 29:2). Dr. Moore acted according to his oath and his conscience. The question is not whether he broke the law — it is whether the law he broke deserved to be obeyed.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Pam Bondi Ordered Prosecution of Dr. Kirk Moore"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Attorney General Pam Bondi orders federal prosecution of Dr. Kirk Moore, raising questions about whether saving patients from mandated injections is a crime."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-14T10:00:00Z","children":"May 14, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Pam-Bondi",{"href":"/en/tag/Pam-Bondi/","className":"tag-pill","children":["#","Pam-Bondi"]}],["$","a","Kirk-Moore",{"href":"/en/tag/Kirk-Moore/","className":"tag-pill","children":["#","Kirk-Moore"]}],["$","a","prosecution",{"href":"/en/tag/prosecution/","className":"tag-pill","children":["#","prosecution"]}],["$","a","vaccines",{"href":"/en/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","medical-freedom",{"href":"/en/tag/medical-freedom/","className":"tag-pill","children":["#","medical-freedom"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/pam-bondi-prosecution-kirk-moore/","title":"Pam Bondi Ordered Prosecution of Dr. Kirk Moore"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/pam-bondi-prosecution-kirk-moore/","title":"Pam Bondi Ordered Prosecution of Dr. Kirk Moore"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Pam Bondi Ordered Prosecution of Dr. Kirk Moore | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Attorney General Pam Bondi orders federal prosecution of Dr. Kirk Moore, raising questions about whether saving patients from mandated injections is a crime."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Pam-Bondi, Kirk-Moore, prosecution, vaccines, medical-freedom"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/pam-bondi-prosecution-kirk-moore/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pam-bondi-prosecution-kirk-moore/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pam-bondi-prosecution-kirk-moore/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pam-bondi-prosecution-kirk-moore/"}],["$","meta","10",{"property":"og:title","content":"Pam Bondi Ordered Prosecution of Dr. Kirk Moore"}],["$","meta","11",{"property":"og:description","content":"Attorney General Pam Bondi orders federal prosecution of Dr. Kirk Moore, raising questions about whether saving patients from mandated injections is a crime."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/pam-bondi-prosecution-kirk-moore/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pam-bondi-prosecution-kirk-moore.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Pam Bondi Ordered Prosecution of Dr. Kirk Moore"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Pam Bondi Ordered Prosecution of Dr. Kirk Moore"}],["$","meta","25",{"name":"twitter:description","content":"Attorney General Pam Bondi orders federal prosecution of Dr. Kirk Moore, raising questions about whether saving patients from mandated injections is a crime."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pam-bondi-prosecution-kirk-moore.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

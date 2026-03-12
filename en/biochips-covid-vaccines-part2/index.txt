@@ -1,0 +1,156 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","biochips-covid-vaccines-part2",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","biochips-covid-vaccines-part2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","biochips-covid-vaccines-part2","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4afe,<h1 id="study-of-biochips-found-in-covid-19-vaccines-part-2">Study of Biochips Found in COVID-19 Vaccines: Part 2</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places." -- Ephesians 6:12</p>
+</blockquote>
+<p>The adversary does not always announce himself with horns and fire. Sometimes he arrives in a glass vial, under a fluorescent light, administered by a smiling nurse who genuinely believes she is helping. The principalities and powers described by Paul operate through systems -- systems of governance, systems of medicine, systems of technology -- and the biochip structures documented in Part 1 of this series represent the convergence of all three systems into a single injectable platform.</p>
+<p>In this second installment, we move beyond visual identification to examine what these structures are made of, how they function, and what they reveal about the purpose behind their deployment.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> from the Confliction album reminds us, the exile from Eden was the consequence of accepting what was offered by the serpent. And as <a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satans Disguise</a> warns, the enemy's most effective weapon is appearing as something beneficial -- something desirable -- something you would willingly accept into your body.</p>
+<hr>
+<h2 id="spectroscopic-analysis-what-are-they-made-of">Spectroscopic Analysis: What Are They Made Of?</h2>
+<h3 id="raman-spectroscopy-findings">Raman Spectroscopy Findings</h3>
+<p>Raman spectroscopy is the gold standard for non-destructive material identification. By directing a laser beam at a sample and measuring the spectrum of scattered light, researchers can identify materials based on their unique vibrational fingerprint. Every material scatters light differently, and the resulting spectrum serves as a molecular "barcode" that can be matched against known reference standards.</p>
+<p>Dr. Pablo Campra of the University of Almeria, Spain, conducted Raman spectroscopy analysis of structures found in Pfizer COVID-19 vaccine samples. His findings, published in a technical report, identified spectral signatures consistent with:</p>
+<ul>
+<li><strong>Reduced graphene oxide (rGO)</strong> -- a carbon nanomaterial with exceptional electrical conductivity, mechanical strength, and electromagnetic properties. The Raman spectrum showed the characteristic D band (approximately 1350 cm-1) and G band (approximately 1580 cm-1) peaks that are the defining signature of graphene-family materials.</li>
+<li><strong>Carbon nanotubes</strong> -- cylindrical carbon structures with remarkable electrical and thermal conductivity. Carbon nanotubes are one of the foundational materials of nanotechnology and are extensively used in biosensor construction.</li>
+</ul>
+<p>These findings were independently corroborated by researchers in Argentina, where the team at the University of Buenos Aires conducted similar spectroscopic analysis and obtained matching results.</p>
+<h3 id="energy-dispersive-x-ray-spectroscopy-eds">Energy-Dispersive X-Ray Spectroscopy (EDS)</h3>
+<p>EDS analysis, which identifies the elemental composition of a sample by measuring the characteristic X-rays emitted when the sample is bombarded with an electron beam, revealed the presence of elements that have no pharmaceutical justification:</p>
+<ul>
+<li><strong>Silicon (Si)</strong> -- the foundational element of semiconductor technology. Silicon has no role in any disclosed vaccine component. Its presence indicates semiconductor structures.</li>
+<li><strong>Titanium (Ti)</strong> -- used in nanotechnology for its biocompatibility and piezoelectric properties. Titanium is not a disclosed ingredient.</li>
+<li><strong>Bismuth (Bi)</strong> -- a heavy metal used in thermoelectric generators, which convert temperature differences into electrical energy. Bismuth's presence suggests energy harvesting capability.</li>
+<li><strong>Barium (Ba)</strong> -- used in piezoelectric ceramics and as a component of ferroelectric materials used in memory and sensing applications.</li>
+<li><strong>Thallium (Tl)</strong> -- a highly toxic heavy metal used in semiconductor manufacturing and photoconductor technology.</li>
+<li><strong>Aluminum (Al)</strong> -- while aluminum is a known vaccine adjuvant, its presence in specific geometric structures suggests a structural role in nanotechnology rather than an immunological role.</li>
+</ul>
+<p>The combination of silicon, titanium, bismuth, and barium in structures with circuit-like morphology points directly to engineered microelectronic systems. These are not biological contaminants. They are not manufacturing residues. They are components of a technological system.</p>
+<h3 id="micro-ftir-analysis">Micro-FTIR Analysis</h3>
+<p>Fourier Transform Infrared Spectroscopy (FTIR) at the micro scale provided additional confirmation. FTIR identifies molecular bonds by measuring how a sample absorbs infrared light at different wavelengths. Micro-FTIR analysis of structures in vaccine samples identified molecular signatures consistent with:</p>
+<ul>
+<li><strong>Polyethylene glycol (PEG)</strong> -- a disclosed component of the lipid nanoparticle formulation, but present in concentrations and configurations beyond what is expected for the stated purpose</li>
+<li><strong>Hydrogel polymers</strong> -- self-assembling polymer networks that serve as scaffolding for nanotechnology assembly. Hydrogels are a key platform technology for injectable biosensors and drug delivery systems</li>
+<li><strong>Unidentified synthetic polymer signatures</strong> -- spectral features that do not match any disclosed ingredient or known pharmaceutical excipient</li>
+</ul>
+<h2 id="functional-architecture-how-they-work">Functional Architecture: How They Work</h2>
+<h3 id="the-biosensor-model">The Biosensor Model</h3>
+<p>Based on the morphological, elemental, and spectroscopic evidence, researchers have proposed a functional model for the biochip structures found in the vaccines. This model describes a multi-component biosensor system consisting of:</p>
+<p><strong>1. Sensing Elements</strong></p>
+<p>The quantum dot-like particles and semiconductor structures serve as sensors, capable of detecting biological signals including:</p>
+<ul>
+<li>Electrical activity (nerve impulses, cardiac rhythm, brain waves)</li>
+<li>Chemical concentrations (glucose, hormones, neurotransmitters)</li>
+<li>Temperature variations</li>
+<li>pH changes</li>
+<li>Mechanical stress (blood pressure, physical movement)</li>
+</ul>
+<p><strong>2. Signal Processing</strong></p>
+<p>The circuit-like planar structures provide local signal processing capability -- the ability to filter, amplify, and encode biological signals into a format suitable for transmission. This is analogous to the signal conditioning circuitry in any electronic sensor system.</p>
+<p><strong>3. Energy Harvesting</strong></p>
+<p>The presence of bismuth and piezoelectric materials suggests energy harvesting capability -- the ability to generate electrical power from the body's own energy sources. Thermoelectric generation (converting body heat into electricity) and piezoelectric generation (converting mechanical stress into electricity) are both established nanotechnology approaches to powering implanted devices without batteries.</p>
+<p><strong>4. Communication</strong></p>
+<p>The ribbon-chain structures, with their fractal antenna geometry, provide electromagnetic communication capability -- the ability to transmit processed signals to external receivers and to receive instructions from external transmitters. The documented Bluetooth emissions from vaccinated individuals may represent the observable output of this communication system.</p>
+<p><strong>5. Self-Assembly Programming</strong></p>
+<p>The observed self-assembly behavior indicates embedded programming -- molecular-level instructions that direct the individual components to find each other, connect, and construct functional architectures after injection. This is consistent with DNA-origami nanotechnology, in which strands of DNA are used as structural templates to guide the assembly of nanoscale components into predetermined configurations.</p>
+<h3 id="the-internet-of-bodies">The Internet of Bodies</h3>
+<p>The functional model described above is not speculative. It describes a system that is extensively documented in the scientific literature and in published patents. The "Internet of Bodies" (IoB) is a recognized field of research in which biosensors embedded in or on the human body are networked to external systems for monitoring, data collection, and intervention.</p>
+<p>The RAND Corporation published a report in 2020 titled "The Internet of Bodies: Opportunities, Risks, and Governance," which describes:</p>
+<blockquote>
+<p>"IoB devices and the data they generate offer several potential benefits, including improvements in health and wellness, greater physical safety, enhanced productivity and convenience... [however] IoB data could be used for surveillance and control."</p>
+</blockquote>
+<p>The World Economic Forum has published extensively on the Internet of Bodies, describing a future in which "our bodies will be so high-tech we won't be able to really distinguish between what's natural and what's artificial."</p>
+<p>The biochip structures found in the vaccines are the deployment mechanism for the Internet of Bodies. They are not a side effect of the vaccine manufacturing process. They are the primary payload -- the actual product being delivered under the cover of a medical intervention.</p>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) the progressive assembly of these structures in patient blood over time, showing that the biochip system continues to build and organize for weeks and months after injection. This ongoing assembly process, observed in real-time under darkfield microscopy, demonstrates that the injected components are executing a construction program inside the human body.</p>
+<h2 id="graphene-oxide-the-core-platform">Graphene Oxide: The Core Platform</h2>
+<h3 id="properties-of-graphene-oxide">Properties of Graphene Oxide</h3>
+<p>Graphene oxide is a single-atom-thick sheet of carbon arranged in a hexagonal lattice, with oxygen-containing functional groups attached to its surface. It is one of the most versatile materials in nanotechnology, offering:</p>
+<ul>
+<li><strong>Exceptional electrical conductivity</strong> -- graphene is the most conductive material known, capable of transmitting electrical signals with minimal resistance</li>
+<li><strong>Enormous surface area</strong> -- a single gram of graphene has a surface area of 2,630 square meters, providing vast area for biochemical interaction</li>
+<li><strong>Biocompatibility concerns</strong> -- while graphene is increasingly used in biomedical applications, its safety profile in vivo remains controversial, with studies documenting inflammatory responses, oxidative stress, and cellular toxicity</li>
+<li><strong>Electromagnetic properties</strong> -- graphene interacts strongly with electromagnetic fields across a broad frequency range, making it ideal for antenna and sensor applications</li>
+<li><strong>Self-assembly capability</strong> -- graphene oxide sheets can be engineered to self-assemble into three-dimensional structures through controlled reduction and functionalization</li>
+</ul>
+<h3 id="the-graphene-blood-interface">The Graphene-Blood Interface</h3>
+<p>When graphene oxide enters the bloodstream, it interacts with blood components in several documented ways:</p>
+<ul>
+<li><strong>Red blood cell disruption</strong> -- graphene oxide sheets can physically cut and damage red blood cells, contributing to the rouleaux formation (red blood cell stacking) documented by Dr. Mihalcea and other researchers</li>
+<li><strong>Platelet activation</strong> -- graphene oxide triggers platelet activation and aggregation, potentially contributing to the thrombotic events (blood clots) documented worldwide following mRNA injection</li>
+<li><strong>Immune system interaction</strong> -- graphene oxide is recognized by the immune system as a foreign body, triggering inflammatory cascades that may contribute to the systemic inflammation reported by many vaccine recipients</li>
+<li><strong>Electromagnetic interface</strong> -- graphene oxide in the blood creates a distributed electromagnetic interface throughout the vascular system, potentially enabling the reception and transmission of electromagnetic signals from every region of the body</li>
+</ul>
+<p>The graphene oxide component of the biochip system serves as the foundational platform -- the "motherboard" upon which other nanotechnology components are assembled and through which signals are conducted throughout the body.</p>
+<h2 id="the-blood-covenant-dimension">The Blood Covenant Dimension</h2>
+<p>The injection of semiconductor nanotechnology, graphene oxide, and self-assembling biochips into the human bloodstream carries profound spiritual implications that extend far beyond the medical and technological.</p>
+<p>In Genesis 6, the sons of God came unto the daughters of men and produced the Nephilim -- hybrid beings that were an abomination to God. This corruption of the human bloodline was so severe that God responded with the flood, preserving only Noah, who was "perfect in his generations" -- genetically uncorrupted.</p>
+<p>The injection of synthetic technology into human blood represents a modern replay of the Genesis 6 corruption. It is the mixing of the created with the manufactured, the organic with the synthetic, the human with the machine. This is not metaphorical. Under darkfield microscopes, researchers can see synthetic structures assembling inside human blood -- constructing themselves within the covenant substance of life.</p>
+<p>The pharmakeia of Revelation 18:23 -- the pharmaceutical sorcery by which all nations are deceived -- is not abstract. It is graphene. It is silicon. It is bismuth. It is self-assembling nanotechnology delivered through an injection that the entire world was pressured, coerced, and in many cases forced to accept. The sorcery is technological, and the deception is global.</p>
+<p>The great delusion spoken of in 2 Thessalonians 2:11 -- "God shall send them strong delusion, that they should believe a lie" -- operates through systems that make the lie appear to be truth. The lie that these injections were safe. The lie that their contents were fully disclosed. The lie that the structures appearing in blood are "normal." The delusion is not ignorance -- it is the inability to see what is plainly visible, because the seeing itself has been corrupted.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Campra, P., "Deteccion de grafeno en vacunas COVID19 por espectroscopia Micro-RAMAN," University of Almeria Technical Report, November 2021</li>
+<li>RAND Corporation, "The Internet of Bodies: Opportunities, Risks, and Governance," 2020</li>
+<li>World Economic Forum, "The Internet of Bodies Is Here," 2020</li>
+<li>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, progressive assembly documentation</li>
+<li>Lee, J.H., et al., "Graphene oxide-based biosensors for biological applications," Journal of Industrial and Engineering Chemistry, 2020</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> -- The nanoscale system marking and tracking from within</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/489-Nephilim_Nanobots.mp4">Nephilim Nanobots</a> -- The Genesis 6 corruption repeated at the nanoscale</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/497-Tribulation_Tech.mp4">Tribulation Tech</a> -- The technology platforms of the tribulation period</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/339-The_New_Man.mp4">The New Man</a> -- The transhumanist vision of a redesigned humanity</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> -- The original expulsion and the exile it set in motion</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satans Disguise</a> -- The enemy appearing as benefit while delivering corruption</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/biochips-covid-vaccines-part1/?lang=en">Study of Biochips Found in COVID-19 Vaccines: Part 1</a> -- Visual identification and morphological classification</li>
+<li><a href="/biochips-covid-vaccines-part3/?lang=en">Study of Biochips Found in COVID-19 Vaccines: Part 3</a> -- Implications and the broader biochip deployment agenda</li>
+<li><a href="/self-assembling-nanotech-susceptible/?lang=en">How Self-Assembling Nanotechnology Makes You Susceptible to Control</a> -- The control grid enabled by injectable nanotechnology</li>
+</ul>
+<hr>
+<p><em>The elemental analysis does not lie. Silicon, bismuth, titanium, barium -- the building blocks of semiconductor technology -- are inside the blood of billions. They were placed there through the most coordinated pharmaceutical campaign in human history, and their presence was never disclosed. But God is not deceived by spectroscopic concealment. He sees every atom. He knows every element. And the One who created carbon, silicon, and every element on the periodic table will hold accountable those who weaponized His creation against His children. The biochips assemble in silence, but the Judge of all the earth does not sleep.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/science/","className":"category-badge","children":"science"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Study of Biochips Found in COVID-19 Vaccines: Part 2"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Part 2 examines the spectroscopic analysis, elemental composition, and functional architecture of biochip structures found in COVID-19 vaccine vials."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-08T10:00:00Z","children":"March 8, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","biochips",{"href":"/en/tag/biochips/","className":"tag-pill","children":["#","biochips"]}],["$","a","spectroscopy",{"href":"/en/tag/spectroscopy/","className":"tag-pill","children":["#","spectroscopy"]}],["$","a","graphene-oxide",{"href":"/en/tag/graphene-oxide/","className":"tag-pill","children":["#","graphene-oxide"]}],["$","a","nanotechnology",{"href":"/en/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}],["$","a","vaccines",{"href":"/en/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part2/","title":"Study of Biochips Found in COVID-19 Vaccines: Part 2"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part2/","title":"Study of Biochips Found in COVID-19 Vaccines: Part 2"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Study of Biochips Found in COVID-19 Vaccines: Part 2 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Part 2 examines the spectroscopic analysis, elemental composition, and functional architecture of biochip structures found in COVID-19 vaccine vials."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"biochips, spectroscopy, graphene-oxide, nanotechnology, vaccines"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part2/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part2/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/biochips-covid-vaccines-part2/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/biochips-covid-vaccines-part2/"}],["$","meta","10",{"property":"og:title","content":"Study of Biochips Found in COVID-19 Vaccines: Part 2"}],["$","meta","11",{"property":"og:description","content":"Part 2 examines the spectroscopic analysis, elemental composition, and functional architecture of biochip structures found in COVID-19 vaccine vials."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/biochips-covid-vaccines-part2/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/biochips-covid-vaccines-part2.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Study of Biochips Found in COVID-19 Vaccines: Part 2"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Study of Biochips Found in COVID-19 Vaccines: Part 2"}],["$","meta","25",{"name":"twitter:description","content":"Part 2 examines the spectroscopic analysis, elemental composition, and functional architecture of biochip structures found in COVID-19 vaccine vials."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/biochips-covid-vaccines-part2.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

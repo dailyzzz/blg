@@ -1,0 +1,117 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","stevia-sweetener-birth-control",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","stevia-sweetener-birth-control","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","stevia-sweetener-birth-control","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T338a,<h1 id="stevia-the-sweetener-being-used-as-birth-control">Stevia: The Sweetener Being Used AS BIRTH CONTROL</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"Be fruitful, and multiply, and replenish the earth."</em> — Genesis 1:28</p>
+</blockquote>
+<p>God's first command to humanity was to reproduce. Any force that undermines human fertility strikes at the most fundamental divine mandate. Stevia — the "natural" sweetener marketed as a healthy alternative to sugar and artificial sweeteners — has a documented history as a contraceptive. Indigenous peoples of South America used it for centuries to prevent pregnancy. And now it is in your food, your beverages, your children's snacks.</p>
+<p>Howard Pittman's NDE revealed a spiritual war of extraordinary scope. Demonic hierarchies in the second heaven. 97.5 percent rejection. 95 percent self-service. Every word judged (Matthew 12:36-37). The weaponization of the food supply against human fertility is not a conspiracy theory — it is a documented strategy that operates through the same institutional systems that the Jesuits built and the Saturn cult maintains.</p>
+<p>Loyola's military organization. Napoleon's "absolute power." Tamburini governing "all the world." Clement XIV poisoned. <em>Catholic Confidential</em>: infiltration "cloaked with cunning," blind obedience, "every species of vice." The Jesuits have long been associated with depopulation strategies — the missions that decimated indigenous populations, the educational systems that delayed marriage and reduced family size, the institutional policies that prioritized control over procreation.</p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4" type="video/mp4">
+</video>
+<p><em>The Serpent's Curse — from the Confliction album</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4" type="video/mp4">
+</video>
+<p><em>Satan's Disguise — from the Confliction album</em></p>
+<hr>
+<h2 id="the-contraceptive-history">The Contraceptive History</h2>
+<h3 id="indigenous-knowledge">Indigenous Knowledge</h3>
+<p>Stevia rebaudiana is a plant native to Paraguay and Brazil. The Guarani people, who have used it for centuries, called it <em>ka'a he'e</em> — "sweet herb." But the Guarani did not use stevia only as a sweetener. They used it as a medicinal plant — and one of its documented traditional uses was as a contraceptive.</p>
+<p>This is not fringe history. It is documented in ethnobotanical literature. The Guarani women used stevia preparations to prevent pregnancy and to regulate menstruation. The plant was recognized by indigenous peoples as having anti-fertility properties long before Western science examined it.</p>
+<p>The Jesuit missionaries who established missions (reducciones) among the Guarani in the 17th and 18th centuries would have known about stevia's traditional uses. The Jesuits were meticulous documentarians of indigenous knowledge — their reports to Rome included detailed botanical and medical information. The question of what the Jesuits did with this knowledge is one that institutional history has carefully avoided.</p>
+<p>Agent131711 documents on Substack (agent131711.substack.com) the connection between Jesuit botanical knowledge and modern pharmaceutical development. The Jesuits collected plant specimens, medicinal recipes, and traditional knowledge from every continent they reached. This knowledge did not disappear when the missions closed. It entered the institutional network and has resurfaced in forms that serve institutional agendas.</p>
+<h3 id="the-scientific-evidence">The Scientific Evidence</h3>
+<p>Multiple studies have examined stevia's effects on fertility:</p>
+<p>A 1968 study published in the journal <em>Economic Botany</em> documented the Guarani's use of stevia as a contraceptive and noted that prolonged consumption reduced fertility in laboratory animals.</p>
+<p>A 1999 study published in <em>Phytomedicine</em> found that stevioside — stevia's active compound — reduced testosterone levels and sperm production in male rats at high doses.</p>
+<p>A 2012 study found that stevia extract affected reproductive hormones in female rats, potentially disrupting ovulation.</p>
+<p>The industry response is predictable: the doses in these studies are higher than normal dietary consumption. The dose argument — the same argument used to defend arsenic in rice — ignores cumulative exposure, synergistic effects, and the reality that stevia is now present in thousands of products consumed daily by millions of people.</p>
+<h2 id="the-modern-stevia-explosion">The Modern Stevia Explosion</h2>
+<h3 id="from-niche-to-ubiquitous">From Niche to Ubiquitous</h3>
+<p>Two decades ago, stevia was a niche product found in health food stores. Today, it is everywhere. Coca-Cola uses it (as Truvia). PepsiCo uses it (as PureVia). It appears in yogurt, protein bars, flavored water, chewing gum, toothpaste, children's vitamins, and thousands of other products.</p>
+<p>The speed of stevia's adoption is remarkable. In 2008, the FDA granted stevia GRAS (Generally Recognized As Safe) status. Within a decade, it had penetrated virtually every category of the food industry. This rapid adoption was not driven by consumer demand — it was driven by food manufacturers seeking a "natural" alternative to artificial sweeteners that were facing increasing public skepticism.</p>
+<p>The transition from a plant known by indigenous peoples as a contraceptive to a ubiquitous food additive consumed by billions is not a natural market evolution. It is an institutional decision — made by the same food corporations that control the global food supply, regulated by the same captured agencies that allow arsenic in rice, and promoted by the same media that suppresses inconvenient truths.</p>
+<h3 id="the-dosage-question">The Dosage Question</h3>
+<p>How much stevia does the average American consume? This is difficult to calculate because stevia appears in so many products. A person who drinks stevia-sweetened beverages, eats stevia-sweetened yogurt, chews stevia-sweetened gum, and takes stevia-sweetened supplements may be consuming far more stevioside than any individual product label suggests.</p>
+<p>The cumulative daily intake of stevia across all sources has not been comprehensively studied. The FDA's GRAS determination was based on individual product use, not cumulative exposure across the entire diet. This is a regulatory failure that mirrors the arsenic-in-rice situation: each product is evaluated in isolation, while the consumer's total exposure across all products is ignored.</p>
+<h2 id="the-depopulation-context">The Depopulation Context</h2>
+<h3 id="falling-fertility-rates">Falling Fertility Rates</h3>
+<p>Global fertility rates have been declining for decades. In developed nations, birth rates are below replacement level. In the United States, the fertility rate hit a historic low in 2023. The explanations offered — economic pressure, career priorities, cultural shifts — are real but incomplete. They do not account for the biological dimension: the documented decline in sperm counts, the increase in reproductive disorders, and the ubiquity of endocrine-disrupting chemicals in the food supply, water supply, and consumer products.</p>
+<p>Stevia is one of many substances in the modern diet with documented anti-fertility effects. BPA, phthalates, glyphosate, atrazine, and dozens of other chemicals are known endocrine disruptors. The cumulative effect of consuming all of these substances simultaneously, over a lifetime, has never been studied — because no institution with the power to conduct such a study has the incentive to reveal its results.</p>
+<p>Agent131711's Substack research connects the declining fertility rates to a broader agenda documented in the writings of the global elite: the Club of Rome, the World Economic Forum, the United Nations Population Fund. These organizations have openly advocated for population reduction for decades. The question is not whether a depopulation agenda exists — it is documented. The question is what tools are being used to implement it.</p>
+<h3 id="the-spiritual-warfare-dimension">The Spiritual Warfare Dimension</h3>
+<p>God's first command was to be fruitful and multiply. Any force that undermines this command opposes God's design. The principalities and powers of Ephesians 6:12 operate through systems — and the food system, loaded with anti-fertility chemicals including stevia, is one such system.</p>
+<p>Howard Pittman witnessed demonic entities organized for the destruction of humanity. The 97.5 percent rejection rate demonstrates the spiritual consequences of living within systems designed by these entities' earthly servants. The poisoning of the food supply with anti-fertility agents is not merely a health issue — it is a spiritual attack on God's first command.</p>
+<p>The Jesuits, who have been involved in population management since their first missions, understand the power of subtle biological intervention. Their willingness to practice "every species of vice" (Catholic Confidential) extends to whatever methods serve the institutional agenda. The replacement of sugar with a known contraceptive plant extract in the global food supply is precisely the kind of subtle, deniable, system-wide intervention that characterizes Jesuit methodology.</p>
+<h2 id="protecting-yourself">Protecting Yourself</h2>
+<h3 id="practical-steps">Practical Steps</h3>
+<ol>
+<li>
+<p><strong>Read every label</strong>: Stevia appears under many names — stevia extract, steviol glycosides, Reb A, Truvia, PureVia. Learn to identify them all.</p>
+</li>
+<li>
+<p><strong>Choose whole foods</strong>: The best way to avoid stevia is to eat foods that do not require sweetening — fresh fruits, vegetables, meats, and grains.</p>
+</li>
+<li>
+<p><strong>Use raw honey or real sugar in moderation</strong>: These natural sweeteners, while caloric, do not carry stevia's anti-fertility history.</p>
+</li>
+<li>
+<p><strong>Protect your children</strong>: Children's products are increasingly sweetened with stevia. Read labels for everything your children consume.</p>
+</li>
+<li>
+<p><strong>Spread awareness</strong>: Most people have never heard of stevia's contraceptive history. Share this information.</p>
+</li>
+</ol>
+<p>The narrow path leads through informed choices — choices that reject the convenience of the industrial food system in favor of the difficult, deliberate work of eating what God provided rather than what the system engineered.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+<li><strong>Agent131711 Substack</strong>: <a href="https://agent131711.substack.com">agent131711.substack.com</a> — Research on stevia's contraceptive history and the depopulation agenda</li>
+<li><strong>Howard Pittman NDE Testimony</strong>: <a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Watch on YouTube</a> — Spiritual warfare through material systems</li>
+<li><strong>Catholic Confidential: Deplorable Jesuit Secrets Revealed</strong>: <a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Watch on YouTube</a> — Jesuit methods of population management</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/135-Food_Price_Shadow_Industry.mp4">Food Price Shadow Industry</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/351-Broken_Weather.mp4">Broken Weather</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/rice-poisoned/?lang=en">RICE HAS BEEN POISONED: What You Need to Know</a></li>
+<li><a href="/food-industry-hidden-dangers/?lang=en">Food Industry Hidden Dangers: What's Really in Your Food</a></li>
+<li><a href="/toxic-homes-houses-poisonous/?lang=en">Our TOXIC HOMES: How Modern Houses Became POISONOUS</a></li>
+</ul>
+<p><em>The sweetest poison is the one you choose voluntarily. Stevia is marketed as health. It is marketed as natural. It is marketed as the smart alternative. But indigenous peoples knew what it was: a plant that prevents life. And now it is in everything you eat. The first command was to be fruitful. The system's command is the opposite. Choose which voice you follow.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/food-environment/","className":"category-badge","children":"food-environment"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Stevia: The Sweetener Being Used AS BIRTH CONTROL"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Discover how stevia was historically used as birth control and why it is now in everything you eat. The Jesuit-connected depopulation agenda exposed."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-05T10:00:00Z","children":"May 5, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","stevia",{"href":"/en/tag/stevia/","className":"tag-pill","children":["#","stevia"]}],["$","a","birth-control",{"href":"/en/tag/birth-control/","className":"tag-pill","children":["#","birth-control"]}],["$","a","sweetener",{"href":"/en/tag/sweetener/","className":"tag-pill","children":["#","sweetener"]}],["$","a","depopulation",{"href":"/en/tag/depopulation/","className":"tag-pill","children":["#","depopulation"]}],["$","a","food-safety",{"href":"/en/tag/food-safety/","className":"tag-pill","children":["#","food-safety"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/stevia-sweetener-birth-control/","title":"Stevia: The Sweetener Being Used AS BIRTH CONTROL"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/stevia-sweetener-birth-control/","title":"Stevia: The Sweetener Being Used AS BIRTH CONTROL"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Stevia: The Sweetener Being Used AS BIRTH CONTROL | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Discover how stevia was historically used as birth control and why it is now in everything you eat. The Jesuit-connected depopulation agenda exposed."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"stevia, birth-control, sweetener, depopulation, food-safety"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/stevia-sweetener-birth-control/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/stevia-sweetener-birth-control/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/stevia-sweetener-birth-control/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/stevia-sweetener-birth-control/"}],["$","meta","10",{"property":"og:title","content":"Stevia: The Sweetener Being Used AS BIRTH CONTROL"}],["$","meta","11",{"property":"og:description","content":"Discover how stevia was historically used as birth control and why it is now in everything you eat. The Jesuit-connected depopulation agenda exposed."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/stevia-sweetener-birth-control/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/stevia-sweetener-birth-control.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Stevia: The Sweetener Being Used AS BIRTH CONTROL"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Stevia: The Sweetener Being Used AS BIRTH CONTROL"}],["$","meta","25",{"name":"twitter:description","content":"Discover how stevia was historically used as birth control and why it is now in everything you eat. The Jesuit-connected depopulation agenda exposed."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/stevia-sweetener-birth-control.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

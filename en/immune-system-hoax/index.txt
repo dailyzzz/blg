@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","immune-system-hoax",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","immune-system-hoax","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","immune-system-hoax","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T435a,<h1 id="the-immune-system-hoax-what-they-never-told-you">THE IMMUNE SYSTEM HOAX: What They Never Told You</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"There is a way which seemeth right unto a man, but the end thereof are the ways of death."</em> — Proverbs 14:12</p>
+</blockquote>
+<p>The "immune system" is perhaps the most successful marketing concept in the history of medicine. It has been used to sell billions of dollars in supplements, justify mandatory vaccination programs, create entire medical specialties, and convince the public that their bodies are under constant assault from invisible enemies. The concept is so deeply embedded in our culture that questioning it seems absurd — like questioning gravity or the color of the sky.</p>
+<p>But the immune system as popularly understood — a military force within the body that identifies and destroys foreign invaders — is a model, not a fact. It is a metaphor that was constructed in the 20th century, refined by Rockefeller-funded institutions, and propagated by a pharmaceutical industry that profits enormously from public belief in it.</p>
+<p>Howard Pittman learned that the demonic hierarchy operates through deception systems so pervasive that nearly everyone is ensnared. Ninety-seven and a half percent of Christians, he was told, were failing. They had "never made Jesus Lord" — they served self. The immune system narrative serves self: it tells you that your body is a fortress under siege, that you need pharmaceutical weapons to defend it, and that your health depends on buying the right products. It replaces trust in God with trust in medicine.</p>
+<p>The Jesuits built their order as "a military organization" — and the immune system is described in military terms. This is not coincidence. The same mindset that sees the world as a battlefield to be conquered sees the body as a fortress to be defended. Both views serve the same master. Both generate the same result: fear, dependency, and control.</p>
+<hr>
+<h2 id="the-history-of-the-immune-system-concept">The History of the "Immune System" Concept</h2>
+<h3 id="before-the-metaphor">Before the Metaphor</h3>
+<p>Before the 20th century, the concept of an "immune system" did not exist. Doctors spoke of "constitution" — the overall strength and vitality of the body. A person with a strong constitution resisted disease; a person with a weak constitution succumbed to it. Constitution was understood to depend on nutrition, rest, emotional state, environmental conditions, and spiritual health.</p>
+<p>This holistic understanding was functional, intuitive, and did not require pharmaceutical products. It was therefore incompatible with the Rockefeller medical model, which needed discrete, targetable mechanisms that could be manipulated with drugs and vaccines.</p>
+<h3 id="the-military-metaphor-takes-hold">The Military Metaphor Takes Hold</h3>
+<p>The modern immune system concept emerged in the mid-20th century, as immunology became a distinct medical discipline. The language of immunology is entirely military:</p>
+<ul>
+<li>The body has <strong>defenses</strong></li>
+<li>White blood cells are <strong>soldiers</strong> or <strong>killers</strong></li>
+<li>Antibodies are <strong>weapons</strong></li>
+<li>Pathogens are <strong>invaders</strong> or <strong>enemies</strong></li>
+<li>Vaccines <strong>train</strong> the immune system</li>
+<li>The body mounts an <strong>attack</strong> or <strong>response</strong></li>
+<li>Cancer cells are <strong>invaded</strong> by immune cells</li>
+</ul>
+<p>This military metaphor is not accidental. It reflects the worldview of the institutions that created it — institutions funded by the Rockefeller Foundation, staffed by researchers trained in the germ theory paradigm, and serving an industry that profits from war against the body.</p>
+<p>The metaphor is also self-reinforcing. Once you accept that your body is under constant attack, you need constant defense. Once you need constant defense, you need the products that provide it: vaccines, immune-boosting supplements, antiviral drugs, antibiotics. The metaphor creates the market.</p>
+<h3 id="what-immunologists-actually-know">What Immunologists Actually Know</h3>
+<p>Behind the simplified public narrative, immunologists know that the "immune system" is not a unified system at all. It is a collection of diverse biological processes — inflammation, phagocytosis, complement activation, cytokine signaling, and many others — that operate in complex, interconnected, and often contradictory ways.</p>
+<p>These processes are not "fighting invaders." They are maintaining homeostasis — the body's internal balance. When the body encounters something it needs to process — whether a food substance, an environmental chemical, a metabolic waste product, or biological material — it initiates responses designed to neutralize, break down, and eliminate the material. This is not warfare. It is housekeeping.</p>
+<p>The distinction matters enormously. If the body is fighting invaders, you need weapons (drugs and vaccines). If the body is maintaining balance, you need to support its natural processes — through nutrition, rest, clean air and water, and the reduction of toxic exposures.</p>
+<h2 id="the-fraud-of-immune-boosting">The Fraud of "Immune Boosting"</h2>
+<h3 id="a-concept-without-scientific-meaning">A Concept Without Scientific Meaning</h3>
+<p>The phrase "boost your immune system" is ubiquitous in health marketing. Vitamin C "boosts immunity." Echinacea "supports immune function." Zinc "strengthens the immune response." These claims have generated billions in revenue — and they are scientifically meaningless.</p>
+<p>Immunologists readily admit that "boosting" the immune system is not a coherent concept. What would it mean to "boost" a system that includes processes as diverse as inflammation, antibody production, and cell-mediated responses? Boosting inflammation would cause autoimmune disease. Boosting antibody production without cause would trigger allergic reactions. Boosting killer T-cell activity would destroy healthy tissue.</p>
+<p>The concept of "immune boosting" exists not because it makes scientific sense but because it sells products. It is a marketing term, not a medical term — and the fact that it has been adopted by mainstream medicine reveals how deeply commercial interests have corrupted medical science.</p>
+<h3 id="the-autoimmune-paradox">The Autoimmune Paradox</h3>
+<p>If the immune system is a defense force that protects the body against foreign invaders, how do autoimmune diseases exist? In autoimmune disease, the "immune system" attacks the body's own tissues. This is described as a "malfunction" — the immune system "mistakenly" identifying self as non-self.</p>
+<p>But autoimmune diseases have increased dramatically over the past century — precisely the period during which vaccination, pharmaceutical drug use, processed food consumption, and environmental toxin exposure have all increased. If the immune system is "malfunctioning" at epidemic rates, perhaps the system doesn't work the way we've been told.</p>
+<p>The terrain theory explanation is more coherent: the body's processes are responding to the actual conditions of the body's internal environment. When that environment is loaded with foreign chemicals — vaccine adjuvants, pharmaceutical drugs, food additives, environmental toxins — the body's response can become chaotic. The problem is not a malfunctioning defense system; the problem is an overwhelmed body trying to cope with conditions it was never designed to face.</p>
+<h2 id="the-vaccine-connection">The Vaccine Connection</h2>
+<h3 id="vaccines-and-immune-training">Vaccines and "Immune Training"</h3>
+<p>The entire justification for vaccination rests on the immune system concept. Vaccines are said to "train" the immune system to recognize and fight specific pathogens. Without the immune system metaphor, vaccination makes no sense.</p>
+<p>But if the "immune system" is not a military defense force that can be trained to recognize enemies, then the foundational logic of vaccination collapses. And with it collapses one of the most profitable industries in history — an industry worth over $60 billion annually and growing.</p>
+<p>This is why the immune system concept is defended with such ferocity. It is not merely a scientific model — it is the keystone of a multi-billion dollar industry. Remove it, and the entire structure falls.</p>
+<h3 id="the-antibody-myth">The Antibody Myth</h3>
+<p>Antibodies are central to the immune system narrative. Vaccines are said to work by stimulating antibody production. Antibody levels (titers) are used to measure "immunity." The presence of antibodies is equated with protection against disease.</p>
+<p>But the relationship between antibodies and disease protection is far less clear than the public has been told:</p>
+<ul>
+<li>People with <strong>high antibody titers</strong> can still develop the disease they're supposedly protected against</li>
+<li>People with <strong>no detectable antibodies</strong> can be resistant to disease</li>
+<li>Individuals with <strong>agammaglobulinemia</strong> (a condition in which the body produces no antibodies at all) can recover from infections normally</li>
+<li><strong>Maternal antibodies</strong> supposedly protect newborns, but diseases still occur in infants with high maternal antibody levels</li>
+</ul>
+<p>These facts are well-known in immunology but are never communicated to the public, because they undermine the vaccine narrative. The public is told: vaccine produces antibodies; antibodies equal protection; therefore vaccines protect. This syllogism is false at every step — but it is profitable, and profitability is what matters in Rockefeller medicine.</p>
+<h2 id="the-terrain-truth">The Terrain Truth</h2>
+<h3 id="what-antoine-bechamp-actually-taught">What Antoine Bechamp Actually Taught</h3>
+<p>Antoine Bechamp — the French scientist whose work was suppressed in favor of Pasteur's germ theory — taught that the body contains tiny particles he called "microzymes." These microzymes could transform into bacteria or other microorganisms depending on the conditions of the body's internal terrain.</p>
+<p>In Bechamp's model, bacteria found in diseased tissue are not invaders — they are the body's own microzymes that have transformed in response to toxic conditions. The bacteria are the cleanup crew, not the cause. Treating them as the enemy is like blaming firefighters for the fires they're trying to extinguish.</p>
+<p>This model explains many observations that germ theory cannot:</p>
+<ul>
+<li>Why people exposed to the same "pathogen" have wildly different outcomes</li>
+<li>Why diseases follow seasonal patterns</li>
+<li>Why improving sanitation, nutrition, and living conditions reduces disease far more effectively than drugs and vaccines</li>
+<li>Why autoimmune diseases are increasing alongside chemical exposure</li>
+<li>Why the failed contagion experiments consistently failed</li>
+</ul>
+<h3 id="the-bodys-real-processes">The Body's Real Processes</h3>
+<p>Instead of an "immune system" that fights invaders, the body has a set of maintenance and repair processes that maintain internal balance:</p>
+<ul>
+<li><strong>Inflammation</strong>: Not a battle, but a healing response. Inflammation brings blood, nutrients, and cleaning cells to areas of damage or toxic accumulation.</li>
+<li><strong>Fever</strong>: Not a disease symptom, but a healing mechanism. Elevated temperature accelerates metabolic processes and facilitates detoxification.</li>
+<li><strong>Mucus production</strong>: Not a response to "infection," but a mechanism for trapping and expelling environmental irritants and metabolic waste.</li>
+<li><strong>Skin eruptions</strong>: Not signs of viral infection, but pathways for toxin elimination through the body's largest organ.</li>
+<li><strong>Lymphatic drainage</strong>: Not an army transporting captured pathogens, but a waste removal system that cleans the body's tissues.</li>
+</ul>
+<p>These processes don't need "boosting." They need support — through whole food nutrition, adequate rest, clean water, sunshine, fresh air, and the reduction of toxic inputs.</p>
+<h2 id="the-spiritual-reality">The Spiritual Reality</h2>
+<h3 id="the-temple-not-the-fortress">The Temple, Not the Fortress</h3>
+<p>Scripture describes the body as a temple of the Holy Spirit — not a fortress under siege. This distinction is profound. A temple is a place of worship, peace, and communion with God. A fortress is a place of war, fear, and constant vigilance. The immune system narrative transforms God's temple into a military installation, replacing worship with warfare and peace with perpetual anxiety.</p>
+<p>Howard Pittman was shown that the spiritual realm is organized to deceive. The immune system narrative is a spiritual deception as much as a medical one. It teaches people to fear their own bodies, to distrust God's design, and to depend on man-made interventions for their survival.</p>
+<p>The 95% who serve "self" — the statistic Pittman was given — are the 95% who believe they must save themselves through pharmaceutical products rather than trusting in the Creator who designed their bodies to heal. The immune system hoax is a tool of self-worship: it tells you that your body is under attack and only your purchasing decisions can save you.</p>
+<h3 id="the-jesuit-model-of-control">The Jesuit Model of Control</h3>
+<p>The Catholic Confidential documentary reveals the Jesuit method: infiltrate, control, and redirect. They infiltrated medical education through their universities. They controlled medical research through their funding networks. They redirected the public's understanding of health from trust in God's design to dependency on pharmaceutical products.</p>
+<p>General Tambulini's boast — "I govern half the world from this room" — extends to the governance of how billions of people understand their own bodies. When you believe you have an "immune system" that needs pharmaceutical support, you are living in a reality constructed by the same forces that have been manipulating human civilization for centuries.</p>
+<p>The way out is the same as it has always been: seek truth, reject the narratives of the powerful, and trust in the God who created you fearfully and wonderfully — not as a machine that breaks down, but as a living temple that heals when properly nourished and cared for.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — research on the immune system narrative and terrain theory</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — spiritual warfare and the 97.5% failure rate</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit infiltration of medical education</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Antoine Bechamp's original research on microzymes</li>
+<li>Historical development of immunology as a discipline</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/61-Synthetic_Biology.mp4">Synthetic Biology</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/13-The_Word_of_God.mp4">The Word of God</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/73-The_Fallen_Angels.mp4">The Fallen Angels</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/who-admits-no-evidence-vitamin-a/?lang=en">WHO ADMITS NO EVIDENCE That VITAMIN A Is Actually Helpful</a></li>
+<li><a href="/big-fat-tuberculosis-lie/?lang=en">The BIG FAT Tuberculosis LIE They Built Modern Medicine On</a></li>
+<li><a href="/chickenpox-contagion-experiments/?lang=en">The CHICKENPOX Contagion Experiments That Proved Nothing</a></li>
+<li><a href="/satanic-science-smallpox-vaccine/?lang=en">Satanic Science: The Horrifying Truth Behind the Smallpox Vaccine</a></li>
+</ul>
+<p><em>Your body is not a battlefield. It is a temple. It was not designed for war — it was designed for worship. The immune system hoax turned God's masterpiece into a pharmaceutical customer. Reject the lie. Trust the design. Honor the Designer.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"THE IMMUNE SYSTEM HOAX: What They Never Told You"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The immune system as taught in schools is a fabrication of Rockefeller medicine. Discover the truth about your body's real defense mechanisms."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-11-11T10:00:00Z","children":"November 11, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","immune-system",{"href":"/en/tag/immune-system/","className":"tag-pill","children":["#","immune-system"]}],["$","a","germ-theory",{"href":"/en/tag/germ-theory/","className":"tag-pill","children":["#","germ-theory"]}],["$","a","rockefeller-medicine",{"href":"/en/tag/rockefeller-medicine/","className":"tag-pill","children":["#","rockefeller-medicine"]}],["$","a","terrain-theory",{"href":"/en/tag/terrain-theory/","className":"tag-pill","children":["#","terrain-theory"]}],["$","a","medical-hoax",{"href":"/en/tag/medical-hoax/","className":"tag-pill","children":["#","medical-hoax"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/immune-system-hoax/","title":"THE IMMUNE SYSTEM HOAX: What They Never Told You"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/immune-system-hoax/","title":"THE IMMUNE SYSTEM HOAX: What They Never Told You"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"THE IMMUNE SYSTEM HOAX: What They Never Told You | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The immune system as taught in schools is a fabrication of Rockefeller medicine. Discover the truth about your body's real defense mechanisms."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"immune-system, germ-theory, rockefeller-medicine, terrain-theory, medical-hoax"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/immune-system-hoax/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/immune-system-hoax/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/immune-system-hoax/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/immune-system-hoax/"}],["$","meta","10",{"property":"og:title","content":"THE IMMUNE SYSTEM HOAX: What They Never Told You"}],["$","meta","11",{"property":"og:description","content":"The immune system as taught in schools is a fabrication of Rockefeller medicine. Discover the truth about your body's real defense mechanisms."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/immune-system-hoax/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/immune-system-hoax.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"THE IMMUNE SYSTEM HOAX: What They Never Told You"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"THE IMMUNE SYSTEM HOAX: What They Never Told You"}],["$","meta","25",{"name":"twitter:description","content":"The immune system as taught in schools is a fabrication of Rockefeller medicine. Discover the truth about your body's real defense mechanisms."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/immune-system-hoax.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

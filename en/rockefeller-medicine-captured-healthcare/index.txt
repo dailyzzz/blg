@@ -1,0 +1,209 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","rockefeller-medicine-captured-healthcare",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","rockefeller-medicine-captured-healthcare","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rockefeller-medicine-captured-healthcare","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T79a1,<h1 id="rockefeller-medicine-how-healthcare-was-captured">Rockefeller Medicine: How Healthcare Was Captured</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"And the LORD God made for Adam and for his wife garments of skins and clothed them." — Genesis 3:21</p>
+</blockquote>
+<p>When Adam and Eve fell, God did not abandon them. He provided garments of skin — a divine covering, an act of sacrificial provision that required the shedding of blood. These garments were not synthetic. They were not manufactured in a laboratory. They came from the hand of God Himself, fashioned from the natural creation He had already declared "very good."</p>
+<p>This is the pattern: God provides through nature. He placed healing in the plants, minerals, roots, and leaves of the earth He made. Genesis records a garden, not a pharmacy. The herbs yielding seed were given for food and medicine from the very beginning. For thousands of years, humanity understood this. Every ancient civilization — Hebrew, Egyptian, Chinese, Greek, Indian — built its healing traditions on the botanical, mineral, and dietary provisions embedded in the created order.</p>
+<p>Then came Rockefeller medicine.</p>
+<p>In the span of a single generation, the God-given garments of skin were stripped away and replaced with garments of plastic — synthetic petroleum-based pharmaceuticals designed not to heal but to manage symptoms, create dependency, and generate perpetual profit. What God provided freely in the garden, the Rockefeller system patented, monopolized, and sold back to humanity at ruinous cost.</p>
+<p>As the Confliction album track <a href="https://confliction.zzzdaily.com/tracks/en/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> explores, there is a profound difference between divine provision and synthetic replacement. God covered Adam and Eve with something real, something that cost a life, something rooted in the created order. The pharmaceutical system covers humanity with something artificial — petroleum derivatives dressed up as medicine — and calls it progress. But the pattern reveals the truth: when man replaces what God has provided with his own synthetic imitation, the result is not healing but bondage.</p>
+<p>This is the story of how that replacement happened — not by accident, but by design.</p>
+<hr>
+<h2 id="before-the-flexner-report-what-american-medicine-actually-looked-like">Before the Flexner Report: What American Medicine Actually Looked Like</h2>
+<p>The popular narrative today is that medicine before the twentieth century was primitive, dangerous, and unscientific — a chaotic landscape of quacks and snake-oil salesmen that required the steady hand of modern institutional science to bring order. This narrative is a lie carefully constructed by the very people who profited from dismantling what came before.</p>
+<p>In the late 1800s and early 1900s, American medicine was remarkably pluralistic. Multiple healing traditions coexisted, competed, and served millions of patients:</p>
+<h3 id="eclectic-medicine">Eclectic Medicine</h3>
+<p>The Eclectic medical movement, founded in the 1830s, combined the best of botanical medicine with conventional practices. Eclectic physicians used plant-based remedies validated through clinical experience, rejected harmful practices like mercury dosing and excessive bloodletting that "regular" physicians still employed, and focused on supporting the body's own healing capacity. By 1900, there were more than twenty Eclectic medical colleges across the United States, graduating thousands of physicians who practiced what today would be called integrative medicine.</p>
+<h3 id="homeopathy">Homeopathy</h3>
+<p>Homeopathic medicine, developed by Samuel Hahnemann in the late eighteenth century, had become enormously popular in America. By 1900, there were twenty-two homeopathic medical schools, over one hundred homeopathic hospitals, and more than a thousand homeopathic pharmacies in the United States. Homeopathic physicians had notably better outcomes during the cholera and yellow fever epidemics of the nineteenth century — a documented fact that infuriated the conventional medical establishment.</p>
+<h3 id="herbal-and-botanical-medicine">Herbal and Botanical Medicine</h3>
+<p>Herbalism was the oldest medical tradition in human history and remained the primary form of healthcare for the majority of Americans, particularly in rural areas. Knowledge of medicinal plants was passed through families, communities, midwives, and folk healers. This was not ignorance — it was thousands of years of accumulated empirical knowledge about which plants treated which conditions. Many of the most effective pharmaceuticals of the twentieth century were eventually derived from the very plants these traditions had used for centuries.</p>
+<h3 id="naturopathy-and-nutritional-medicine">Naturopathy and Nutritional Medicine</h3>
+<p>Naturopathic traditions emphasized diet, hydrotherapy, exercise, fresh air, sunlight, and the body's innate healing intelligence. Benedict Lust, the father of American naturopathy, established schools and clinics that taught a comprehensive system of natural healing. These practitioners understood what modern medicine is only now rediscovering: that nutrition is the foundation of health, and that most chronic disease begins with nutritional deficiency and toxic exposure.</p>
+<h3 id="the-key-point">The Key Point</h3>
+<p>These were not fringe movements. They were mainstream medical traditions with their own colleges, hospitals, licensing boards, professional journals, and millions of satisfied patients. In many cases, their outcomes were superior to those of "regular" allopathic medicine, which at the time still employed practices like mercury treatment, arsenic compounds, and heroic bloodletting.</p>
+<p>This pluralistic medical landscape — diverse, competitive, largely affordable, and rooted in natural therapeutics — was the world that John D. Rockefeller, Andrew Carnegie, and the American Medical Association set out to destroy.</p>
+<hr>
+<h2 id="the-flexner-report-the-blueprint-for-medical-monopoly">The Flexner Report: The Blueprint for Medical Monopoly</h2>
+<p>In 1910, Abraham Flexner — a schoolteacher from Louisville, Kentucky, with no medical degree and no medical experience — published a report that would reshape the entire landscape of American medicine. The report, formally titled <em>Medical Education in the United States and Canada</em>, was commissioned by the Carnegie Foundation for the Advancement of Teaching, with major funding and strategic direction from the Rockefeller Foundation.</p>
+<p>Flexner visited 155 medical schools across North America over eighteen months and concluded that the vast majority were substandard. His report recommended closing most of them and consolidating medical education into a small number of university-affiliated institutions that followed the "German model" — a research-oriented, laboratory-based approach centered on pharmacology, surgery, and pathology.</p>
+<h3 id="what-the-report-actually-did">What the Report Actually Did</h3>
+<p>On its face, the Flexner Report appeared to be a reasonable call for higher standards in medical education. Some schools were indeed poorly equipped. But the report's true function was not quality improvement — it was market capture. The results speak for themselves:</p>
+<ul>
+<li><strong>Of the 155 medical schools operating in 1910, fewer than half survived the next twenty years.</strong> By 1935, the number had been slashed to 66.</li>
+<li><strong>Every single homeopathic medical college was closed.</strong> All twenty-two of them. An entire medical tradition with over a century of practice in America was wiped out within a generation.</li>
+<li><strong>All but two of the eclectic medical colleges were shuttered.</strong> Those two survived only briefly before also closing.</li>
+<li><strong>Naturopathic, herbal, and nutritional medicine programs were defunded and denied accreditation.</strong> Without accreditation, they could not receive funding. Without funding, they could not operate. Without graduates, they could not propagate their knowledge.</li>
+<li><strong>Medical schools that trained Black physicians were almost entirely eliminated.</strong> Of the seven Black medical schools operating in 1910, only two — Howard University and Meharry Medical College — survived the Flexner purge. This had devastating consequences for healthcare access in Black communities for generations.</li>
+<li><strong>Women's medical colleges were similarly decimated.</strong> The few women's medical schools that existed were closed or absorbed, reducing female representation in medicine for decades.</li>
+</ul>
+<p>The schools that survived were the ones that adopted the Rockefeller-Carnegie model: research universities that taught pharmaceutical-based, surgery-based medicine and received massive endowments from the Rockefeller and Carnegie foundations. Johns Hopkins — which Flexner held up as the gold standard — received the largest Rockefeller medical endowments in history.</p>
+<h3 id="follow-the-money">Follow the Money</h3>
+<p>The Rockefeller Foundation's General Education Board, established in 1903, poured over $100 million (equivalent to billions today) into the medical schools that complied with the new model. Schools that accepted the money restructured their curricula around pharmaceutical intervention. Schools that refused the money — or that taught competing modalities — lost accreditation and closed.</p>
+<p>This was not philanthropy. This was a leveraged buyout of an entire profession.</p>
+<hr>
+<h2 id="john-d-rockefellers-petroleum-to-pharmaceutical-pipeline">John D. Rockefeller's Petroleum-to-Pharmaceutical Pipeline</h2>
+<p>To understand why the Rockefellers invested so heavily in reshaping medicine, you must understand their core business: petroleum.</p>
+<p>By the early 1900s, John D. Rockefeller's Standard Oil was the most powerful corporation in American history, controlling roughly ninety percent of U.S. oil refining. But Rockefeller had a problem. The petrochemical refining process produced enormous quantities of byproducts — chemical compounds derived from crude oil that initially had limited commercial application.</p>
+<p>Rockefeller and his business advisors recognized that these petrochemical byproducts could be synthesized into compounds that mimicked the active ingredients found in medicinal plants. If medicine could be redirected away from plants — which could not be patented — and toward synthetic petrochemical derivatives — which could — the result would be an entirely new and virtually limitless market for petroleum byproducts.</p>
+<p>The strategy was elegant in its ruthlessness:</p>
+<ol>
+<li><strong>Fund a report</strong> calling for the standardization of medical education (Flexner Report)</li>
+<li><strong>Endow the surviving medical schools</strong> with enormous grants, conditional on teaching pharmaceutical-based medicine</li>
+<li><strong>Close the competing schools</strong> that taught plant-based, homeopathic, and natural medicine</li>
+<li><strong>Control the licensing bodies</strong> (AMA) to ensure only pharmaceutical-trained physicians could practice</li>
+<li><strong>Patent synthetic versions</strong> of naturally occurring compounds and sell them at massive markup</li>
+<li><strong>Eliminate the competition</strong> not through superior results but through regulatory capture</li>
+</ol>
+<p>This is precisely what happened. The Rockefeller Foundation, the Carnegie Foundation, and the American Medical Association worked in concert to create a medical system in which the only legally sanctioned form of treatment was one that required the purchase of patentable, petroleum-derived pharmaceutical products.</p>
+<hr>
+<h2 id="the-ama-from-trade-association-to-enforcement-arm">The AMA: From Trade Association to Enforcement Arm</h2>
+<p>The American Medical Association, founded in 1847, had long been a professional organization for allopathic physicians. But it was the AMA's partnership with the Rockefeller-Carnegie axis that transformed it into the gatekeeper of all American medicine.</p>
+<p>After the Flexner Report, the AMA was given effective control over medical school accreditation through its Council on Medical Education. This meant the AMA decided which schools could operate, what they could teach, and who could call themselves a doctor. Any physician practicing outside the AMA-approved model — whether homeopathic, eclectic, naturopathic, or chiropractic — faced loss of licensure, legal prosecution, or professional destruction.</p>
+<p>Morris Fishbein, who led the AMA from 1924 to 1950 as editor of the <em>Journal of the American Medical Association</em>, waged a decades-long campaign against any medical practice that competed with pharmaceutical medicine. Fishbein personally led the prosecution of Harry Hoxsey, whose herbal cancer treatment clinics served tens of thousands of patients. Fishbein attempted to buy Hoxsey's formula; when Hoxsey refused, Fishbein used the AMA's institutional power to label him a quack and drive him out of the country.</p>
+<p>Royal Raymond Rife, who developed a frequency-based cancer treatment approach, faced similar institutional destruction. His laboratory was raided, his equipment confiscated, and his research suppressed. The pattern repeated across the twentieth century: any treatment that could not be patented and sold through pharmaceutical channels was systematically attacked — not on the basis of clinical outcomes, but on the basis of economic competition.</p>
+<hr>
+<h2 id="the-redesign-of-medical-education">The Redesign of Medical Education</h2>
+<p>With competing schools eliminated and funding secured, the Rockefeller-Carnegie model fundamentally redesigned what doctors learned — and, more critically, what they did not learn.</p>
+<h3 id="what-was-added">What Was Added</h3>
+<ul>
+<li><strong>Pharmacology</strong> became the central discipline of medical training. Students spent years learning the chemical compositions, mechanisms, and applications of pharmaceutical drugs.</li>
+<li><strong>Surgery</strong> was elevated as the primary intervention for conditions that drugs alone could not address.</li>
+<li><strong>Laboratory science</strong> — pathology, microbiology, biochemistry — became the lens through which all disease was understood, reducing the human body to a collection of chemical reactions to be managed with chemical interventions.</li>
+</ul>
+<h3 id="what-was-removed">What Was Removed</h3>
+<ul>
+<li><strong>Nutrition</strong> was virtually eliminated from the medical curriculum. Today, the average American medical student receives fewer than twenty-five hours of nutrition education across four years of medical school. Many receive fewer than ten. In a nation where chronic disease — heart disease, diabetes, cancer, autoimmune disorders — is driven primarily by dietary factors, doctors are taught almost nothing about food as medicine.</li>
+<li><strong>Herbal and botanical medicine</strong> was completely removed. Thousands of years of accumulated knowledge about medicinal plants was erased from professional medical training in a single generation.</li>
+<li><strong>Homeopathy</strong> was purged entirely. A medical system that had its own hospitals, pharmacies, and medical schools simply ceased to exist within mainstream medicine.</li>
+<li><strong>Preventive and lifestyle medicine</strong> was marginalized. The focus shifted from preventing disease through diet, exercise, and environmental factors to treating disease after it appeared — using drugs and surgery.</li>
+<li><strong>The physician-patient relationship</strong> was restructured around brief, transactional encounters focused on symptom identification and drug prescription rather than comprehensive health assessment and individualized care.</li>
+</ul>
+<p>The result is the system we live under today: physicians trained exclusively in pharmaceutical and surgical intervention, lacking the knowledge to address the nutritional, environmental, and lifestyle causes of the chronic diseases that account for seventy percent of all deaths in the developed world.</p>
+<hr>
+<h2 id="selling-the-cure-200-years--the-documented-record">"SELLING THE CURE: 200 Years" — The Documented Record</h2>
+<p>The investigation published by Agent131711 on the Chemtrails Substack (<a href="https://chemtrails.substack.com">chemtrails.substack.com</a>), titled "SELLING THE CURE: 200 Years," provides an extraordinary compilation of historical evidence documenting the pharmaceutical industry's two-century campaign to replace natural medicine with proprietary chemical products.</p>
+<p>The investigation includes reproductions of original historical advertisements, corporate documents, and regulatory records showing:</p>
+<ul>
+<li><strong>Early pharmaceutical companies openly marketed petrochemical derivatives</strong> as superior replacements for traditional plant-based remedies, despite having no evidence of superior efficacy</li>
+<li><strong>The deliberate creation of diseases</strong> — or rather, the medicalization of normal human conditions — to generate new markets for pharmaceutical products</li>
+<li><strong>The systematic infiltration of medical education</strong> by pharmaceutical companies through funding, curriculum design, textbook publishing, and the placement of industry-aligned faculty</li>
+<li><strong>The revolving door</strong> between pharmaceutical corporations, regulatory agencies (FDA), and medical professional organizations (AMA) that ensures the system perpetuates itself</li>
+<li><strong>Historical images and documents</strong> that trace the transformation of American medicine from a diverse, patient-centered, largely natural practice to a centralized, corporate-controlled, drug-dependent system</li>
+</ul>
+<p>The investigation meticulously documents what many now recognize: that the history of modern medicine is not a story of scientific progress triumphing over ignorance, but a story of industrial monopolization triumphing over competition — using regulatory capture, philanthropic manipulation, and institutional coercion as its primary weapons.</p>
+<hr>
+<h2 id="the-pharmaceutical-industrys-ownership-of-medical-education">The Pharmaceutical Industry's Ownership of Medical Education</h2>
+<p>Today, the system the Rockefellers built is self-perpetuating. The pharmaceutical industry does not merely influence medical education — it owns it:</p>
+<ul>
+<li><strong>Drug companies fund the majority of medical research.</strong> This means they control which questions are asked, which studies are published, and which results see the light of day. Studies unfavorable to pharmaceutical products are routinely buried, a practice documented extensively by researchers like Peter Gotzsche, former director of the Nordic Cochrane Centre.</li>
+<li><strong>Pharmaceutical representatives have direct access to physicians</strong> and medical students. Drug reps visit medical offices, provide free samples, sponsor continuing education courses, and fund medical conferences. The average physician sees pharmaceutical representatives multiple times per month.</li>
+<li><strong>Medical textbooks are influenced by industry funding.</strong> The content of what doctors learn is shaped by the same companies that profit from what doctors prescribe.</li>
+<li><strong>Continuing Medical Education (CME)</strong> — required for physicians to maintain their licenses — is heavily sponsored by pharmaceutical companies, ensuring that practicing physicians are continuously exposed to industry messaging throughout their careers.</li>
+<li><strong>Academic medical centers</strong> — the institutions that train the next generation of physicians — depend on pharmaceutical research funding for their budgets, faculty positions, and institutional prestige. This creates an institutional incentive to avoid research that challenges pharmaceutical paradigms.</li>
+</ul>
+<p>The result is a closed loop: pharmaceutical companies fund the education of doctors who prescribe pharmaceutical products to patients who generate revenue for pharmaceutical companies that fund the education of more doctors. At no point in this cycle is there a structural incentive to teach physicians about the nutritional, botanical, and lifestyle interventions that could prevent or reverse the chronic diseases that pharmaceutical products are prescribed to manage.</p>
+<p>As our article on the <a href="/military-pharmaceutical-partnership/?lang=en">Military-Pharmaceutical Partnership</a> documents, this closed loop extends beyond civilian medicine into the military-industrial complex, where pharmaceutical companies serve as government contractors and military research drives pharmaceutical development.</p>
+<hr>
+<h2 id="the-suppression-of-nutritional-medicine">The Suppression of Nutritional Medicine</h2>
+<p>Perhaps the most consequential aspect of the Rockefeller redesign was the suppression of nutritional medicine — the understanding that food is the body's primary medicine and that most chronic disease originates in nutritional deficiency and toxic exposure.</p>
+<p>Consider what the pharmaceutical model replaced:</p>
+<ul>
+<li><strong>Hippocrates</strong>, the father of Western medicine, declared: "Let food be thy medicine and medicine be thy food." This foundational principle was functionally removed from medical training.</li>
+<li><strong>Scurvy</strong> was understood for centuries to be a nutritional deficiency cured by citrus fruit. Yet the pharmaceutical model treats the symptoms of nutritional deficiency with drugs rather than addressing the deficiency itself.</li>
+<li><strong>Pellagra</strong>, which killed thousands in the American South in the early twentieth century, was caused by niacin (vitamin B3) deficiency. It was initially blamed on an infectious agent by the same medical establishment that had adopted the pharmaceutical model. Dr. Joseph Goldberger proved it was a dietary disease, but his findings were resisted for years by a medical system structurally incentivized to look for pharmaceutical rather than nutritional solutions.</li>
+<li><strong>Heart disease</strong>, the leading cause of death in the developed world, has been repeatedly shown to be driven primarily by dietary factors — processed seed oils, refined sugar, processed food, and nutritional deficiency. Yet the primary medical response is statin drugs (a multi-billion-dollar pharmaceutical category) rather than dietary intervention.</li>
+</ul>
+<p>As explored in our article on <a href="/food-as-medicine-healing-nutrition/?lang=en">Food as Medicine: Healing Nutrition</a>, the scientific evidence for nutritional medicine is overwhelming. But the structural incentives of the Rockefeller-built system ensure that this evidence is marginalized, underfunded, and excluded from mainstream medical practice.</p>
+<p>The pharmaceutical industry cannot patent broccoli. It cannot patent sunlight. It cannot patent clean water, fermented foods, or medicinal herbs that grow freely from the earth. And what cannot be patented cannot generate the profit margins that sustain the system. This is why the most powerful medicine on earth — food — is the one thing doctors are not taught to prescribe.</p>
+<hr>
+<h2 id="the-leaves-of-the-tree-gods-medicine-was-always-plant-based">The Leaves of the Tree: God's Medicine Was Always Plant-Based</h2>
+<blockquote>
+<p>"On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations." — Revelation 22:2</p>
+</blockquote>
+<p>Scripture begins in a garden and ends in a city with a garden at its center. The tree of life, which appeared in Genesis and was barred after the Fall, reappears in the final chapter of Revelation — and its leaves are explicitly described as being "for the healing of the nations."</p>
+<p>This is not metaphor. This is the divine declaration that God's design for healing is botanical. It is plant-based. It is embedded in the creation itself. From Genesis to Revelation, the biblical model of medicine is rooted in the natural world that God made and called good.</p>
+<p>Consider the biblical record:</p>
+<ul>
+<li><strong>Genesis 1:29</strong>: "I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food." The first dietary instruction was plant-based.</li>
+<li><strong>Ezekiel 47:12</strong>: "Their fruit will serve for food and their leaves for healing." Medicinal plants are described as part of God's provision in the restored creation.</li>
+<li><strong>Psalm 104:14</strong>: "He makes grass grow for the cattle, and plants for people to cultivate — bringing forth food from the earth." God's design for human sustenance and health is agricultural, not pharmaceutical.</li>
+<li><strong>Revelation 22:2</strong>: The ultimate healing of the nations comes not from a pharmaceutical laboratory but from the leaves of a tree planted by God in the new Jerusalem.</li>
+</ul>
+<p>The Rockefeller system took what God gave freely — the healing properties of plants, minerals, sunlight, clean water, and whole food — and replaced it with synthetic, patentable, petroleum-derived substitutes that manage symptoms without addressing causes, create dependency without producing health, and generate profit without delivering healing.</p>
+<p>This is not progress. This is the garments of plastic replacing the garments of skin. It is human industry substituting its own creation for God's provision and calling it science.</p>
+<hr>
+<h2 id="what-you-can-do">What You Can Do</h2>
+<ol>
+<li><strong>Learn the real history.</strong> The narrative that modern pharmaceutical medicine represents the pinnacle of scientific achievement is a manufactured story, funded by the same interests that profit from it. Study the pre-Flexner medical traditions. Read the original Flexner Report. Follow the money.</li>
+<li><strong>Reclaim nutritional medicine.</strong> Study the healing properties of whole foods, herbs, and minerals. Resources like our <a href="/detox-protocols-comprehensive-guide/?lang=en">Detox Protocols Comprehensive Guide</a> and <a href="/food-as-medicine-healing-nutrition/?lang=en">Food as Medicine</a> provide practical starting points.</li>
+<li><strong>Support practitioners outside the monopoly.</strong> Naturopathic physicians, herbalists, functional medicine practitioners, and nutritional therapists carry forward the healing traditions that the Rockefeller system tried to erase.</li>
+<li><strong>Question every prescription.</strong> Ask whether the condition being treated has a nutritional, dietary, or lifestyle cause. Ask whether there are non-pharmaceutical interventions supported by evidence. Demand informed consent as documented in our article on <a href="/informed-consent-destroyed/?lang=en">Informed Consent Destroyed</a>.</li>
+<li><strong>Return to the garden.</strong> Grow food. Learn to identify medicinal plants. Teach your children that healing comes from the earth God made, not from the petroleum industry that seeks to replace Him.</li>
+</ol>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/191-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The petroleum-to-pharmaceutical pipeline and the monopolization of healing</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/111-Free_Energy_Murdered.mp4">Free Energy Murdered</a> — How suppressed technologies extend beyond medicine into energy, economics, and control</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/97-Income_Tax_Is_Slavery.mp4">Income Tax Is Slavery</a> — The Rockefeller system extends beyond medicine into the financial architecture of control</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li>
+<p><a href="https://confliction.zzzdaily.com/tracks/en/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> — Divine provision versus synthetic replacement: what God gave freely, man patented and sold</p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/en/130-Rockefeller_Medicine-Alt.mp4">Rockefeller Medicine (Alt)</a></p>
+</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/two-hundred-years-insanity-medicine/?lang=en">200 Years of Insanity Disguised as Medicine</a> — The full two-century timeline of pharmaceutical industry manipulation, from mercury dosing to mRNA injections</li>
+<li><a href="/pharmakeia-sorcery-pharmaceuticals/?lang=en">Pharmakeia: Sorcery Is Pharmaceuticals</a> — The Greek word translated "sorcery" in Revelation is pharmakeia — the word from which we derive "pharmaceutical"</li>
+<li><a href="/terrain-theory-vs-germ-theory/?lang=en">Terrain Theory vs Germ Theory</a> — The suppressed scientific framework that challenges the foundational assumptions of pharmaceutical medicine</li>
+<li><a href="/psychology-industry-manufacturing-illness/?lang=en">The Psychology Industry</a> — How the mental health establishment applies the same Rockefeller model to the mind: pathologize normal human experience and sell the chemical cure</li>
+</ul>
+<hr>
+<p><em>God clothed Adam and Eve in garments of skin — real, natural, sacrificial, sufficient. The Rockefeller medical system stripped those garments away and dressed humanity in petroleum plastic, called it progress, and charged admission. But the tree of life still stands. Its leaves are still for the healing of the nations. No patent. No prescription. No middleman. Just the provision of a Creator who healed freely from the beginning and will heal freely at the end.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Rockefeller Medicine: How Healthcare Was Captured"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The documented history of how the Rockefeller Foundation funded the Flexner Report to eliminate natural medicine, homeopathy, and herbalism — replacing them with petroleum-based pharmaceuticals and creating the medical monopoly we live under today."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-05T10:00:00Z","children":"March 5, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","rockefeller",{"href":"/en/tag/rockefeller/","className":"tag-pill","children":["#","rockefeller"]}],["$","a","big-pharma",{"href":"/en/tag/big-pharma/","className":"tag-pill","children":["#","big-pharma"]}],["$","a","medical-history",{"href":"/en/tag/medical-history/","className":"tag-pill","children":["#","medical-history"]}],["$","a","alternative-medicine",{"href":"/en/tag/alternative-medicine/","className":"tag-pill","children":["#","alternative-medicine"]}],["$","a","Flexner-Report",{"href":"/en/tag/Flexner-Report/","className":"tag-pill","children":["#","Flexner-Report"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/rockefeller-medicine-captured-healthcare/","title":"Rockefeller Medicine: How Healthcare Was Captured"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/rockefeller-medicine-captured-healthcare/","title":"Rockefeller Medicine: How Healthcare Was Captured"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Rockefeller Medicine: How Healthcare Was Captured | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The documented history of how the Rockefeller Foundation funded the Flexner Report to eliminate natural medicine, homeopathy, and herbalism — replacing them with petroleum-based pharmaceuticals and creating the medical monopoly we live under today."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"rockefeller, big-pharma, medical-history, alternative-medicine, Flexner-Report"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/rockefeller-medicine-captured-healthcare/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/rockefeller-medicine-captured-healthcare/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/rockefeller-medicine-captured-healthcare/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/rockefeller-medicine-captured-healthcare/"}],["$","meta","10",{"property":"og:title","content":"Rockefeller Medicine: How Healthcare Was Captured"}],["$","meta","11",{"property":"og:description","content":"The documented history of how the Rockefeller Foundation funded the Flexner Report to eliminate natural medicine, homeopathy, and herbalism — replacing them with petroleum-based pharmaceuticals and creating the medical monopoly we live under today."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/rockefeller-medicine-captured-healthcare/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/rockefeller-medicine-captured-healthcare.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Rockefeller Medicine: How Healthcare Was Captured"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Rockefeller Medicine: How Healthcare Was Captured"}],["$","meta","25",{"name":"twitter:description","content":"The documented history of how the Rockefeller Foundation funded the Flexner Report to eliminate natural medicine, homeopathy, and herbalism — replacing them with petroleum-based pharmaceuticals and creating the medical monopoly we live under today."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/rockefeller-medicine-captured-healthcare.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

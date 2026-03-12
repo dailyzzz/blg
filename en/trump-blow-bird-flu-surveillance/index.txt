@@ -1,0 +1,126 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","trump-blow-bird-flu-surveillance",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","trump-blow-bird-flu-surveillance","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","trump-blow-bird-flu-surveillance","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3334,<h1 id="trump-delivers-shocking-blow-to-bird-flu-surveillance-program">Trump Delivers Shocking Blow to Bird Flu Surveillance Program</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"The wicked flee when no man pursueth: but the righteous are bold as a lion." — Proverbs 28:1</p>
+</blockquote>
+<p>Pharaoh's sorcerers could replicate some of God's miracles — they turned their staffs to serpents, they turned water to blood, they summoned frogs. But their power was imitative, not creative. They could manufacture the appearance of a threat, but they could not control the consequences. When the real plagues came — the plagues they could not replicate — they confessed, "This is the finger of God."</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> reveals, the modern sorcerers manufacture threats through surveillance systems that are designed not to detect genuine dangers but to generate the data that justifies the next emergency declaration. The bird flu surveillance program was such a system — built to find what it was designed to find, calibrated to produce the alarm that triggers the response, and funded by the same interests that profit from the response.</p>
+<p>Trump has delivered a blow to this system. The sorcerers are alarmed — not because the threat is real, but because their ability to manufacture the appearance of a threat has been disrupted.</p>
+<hr>
+<h2 id="the-bird-flu-narrative">The Bird Flu Narrative</h2>
+<p>H5N1 avian influenza has been promoted as the next pandemic threat for over two decades. Since 2003, public health authorities, pharmaceutical companies, and media outlets have periodically elevated bird flu to crisis status — warning of potential human-to-human transmission, projecting catastrophic death tolls, and advocating for massive investment in vaccines and antivirals.</p>
+<p>The bird flu narrative intensified in 2024-2025 with the detection of H5N1 in U.S. dairy cattle herds and a small number of human cases among farmworkers. The CDC classified the human risk as low but simultaneously activated surveillance programs, allocated funding for H5N1 vaccine development, and coordinated with the WHO on international monitoring.</p>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com) that the bird flu surveillance program followed the same pattern established with COVID-19: "The surveillance infrastructure is not designed to protect the public. It is designed to generate the data that justifies the next Public Health Emergency of International Concern declaration. Once a PHEIC is declared, the entire apparatus activates — EUAs, PREP Act immunity, vaccine mandates, censorship coordination. The surveillance program is the trigger. Whoever controls the surveillance controls the trigger."</p>
+<h3 id="the-pcr-problem">The PCR Problem</h3>
+<p>A critical element of the bird flu surveillance program relied on PCR (polymerase chain reaction) testing — the same technology used during COVID-19 to detect viral genetic material. During COVID-19, the PCR test was deployed at cycle thresholds so high that it generated massive numbers of false positive results — detecting fragments of viral RNA that did not represent active infection or transmissibility.</p>
+<p>The bird flu surveillance program utilized similar testing protocols, raising the same concerns about diagnostic accuracy and case inflation that characterized the COVID-19 testing regime.</p>
+<p>Kingston has noted: "The PCR test is not a diagnostic tool — it is a manufacturing tool. Kary Mullis, who won the Nobel Prize for inventing PCR, stated explicitly that it should not be used to diagnose infectious disease. When you run PCR at high enough cycle thresholds, you can find anything in anyone. The surveillance program was calibrated to find bird flu — and calibrated tools find what they are calibrated to find."</p>
+<hr>
+<h2 id="the-surveillance-infrastructure">The Surveillance Infrastructure</h2>
+<p>The bird flu surveillance program encompassed multiple components:</p>
+<p><strong>Animal surveillance:</strong> Monitoring of poultry flocks, dairy herds, and wild bird populations for H5N1 presence.</p>
+<p><strong>Wastewater surveillance:</strong> Monitoring of municipal wastewater for H5N1 genetic material — a technique developed during COVID-19 and expanded to cover additional pathogens.</p>
+<p><strong>Human surveillance:</strong> Monitoring of agricultural workers, veterinarians, and others with animal exposure for H5N1 symptoms and infection.</p>
+<p><strong>Genomic surveillance:</strong> Sequencing of H5N1 viral samples to detect mutations that might enhance human transmissibility.</p>
+<p><strong>International coordination:</strong> Data sharing with the WHO and international partners through global surveillance networks.</p>
+<p>Trump's disruption of this program included the termination of federal contracts with surveillance operators, the withdrawal of funding for wastewater monitoring programs, and the cessation of federal coordination with international surveillance networks.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/165-Event_201_Came_True.mp4">Event 201 Came True</a> documents how pandemic simulations establish the infrastructure that is then activated during real events. The bird flu surveillance program was building the same infrastructure — surveillance systems, testing protocols, response frameworks — that would be activated when the next emergency was declared.</p>
+<hr>
+<h2 id="the-response">The Response</h2>
+<p>Public health officials and pharmaceutical companies reacted with alarm, warning that the dismantling of the surveillance program leaves the nation blind to the next pandemic threat. The WHO expressed "deep concern" about the United States' withdrawal from global surveillance cooperation.</p>
+<p>But the alarm reveals its own motivation. The surveillance program's primary beneficiaries were not the American public but the pharmaceutical companies positioned to supply the countermeasures that the surveillance system was designed to trigger.</p>
+<p>Multiple pharmaceutical companies had already invested in H5N1 vaccine development, with products in various stages of clinical trials. Federal contracts for H5N1 vaccine stockpiling had been negotiated or were in negotiation. The economic pipeline from surveillance detection to emergency declaration to EUA authorization to vaccine deployment was already being constructed.</p>
+<p>Trump's blow to the surveillance program disrupts this pipeline at its origin — severing the detection mechanism that generates the data that justifies the emergency that triggers the deployment that generates the revenue.</p>
+<hr>
+<h2 id="the-prophetic-pattern">The Prophetic Pattern</h2>
+<blockquote>
+<p>"For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind." — 2 Timothy 1:7</p>
+</blockquote>
+<p>The bird flu narrative, like the COVID-19 narrative before it, operates through fear. The surveillance system exists to generate data that amplifies fear. The fear justifies emergency measures. The emergency measures enable the deployment of pharmaceutical products. The pharmaceutical products generate revenue.</p>
+<p>At every step, fear is the fuel. And Scripture identifies the spirit of fear not as wisdom or prudence but as the opposite of the sound mind that God provides.</p>
+<p>The dismantling of the surveillance program is, in spiritual terms, a rejection of the spirit of fear — a declaration that the nation will not be governed by manufactured alarm, will not submit to the cycle of surveillance-emergency-compliance that characterized the COVID-19 response, and will not permit the construction of the infrastructure for the next manufactured crisis.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>WhiteHouse.gov — Executive actions on surveillance program defunding</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of bird flu surveillance infrastructure, PCR testing methodology, and pandemic pipeline economics</p>
+</li>
+<li>
+<p>CDC — H5N1 surveillance program documentation</p>
+</li>
+<li>
+<p>WHO — International surveillance cooperation frameworks</p>
+</li>
+<li>
+<p>Proverbs 28:1, 2 Timothy 1:7 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/165-Event_201_Came_True.mp4">Event 201 Came True</a> — Surveillance infrastructure as rehearsal for the next deployment</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> — Military surveillance origins of pandemic monitoring</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/155-Cyber_Polygon_Prophecy.mp4">Cyber Polygon Prophecy</a> — Simulated threats triggering real responses</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — Manufactured threats from manufactured surveillance data</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> — Fear as the serpent's primary weapon of control</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/trump-obliterates-who-h5n1/?lang=en">Trump Obliterates WHO Plans for H5N1 Pandemic</a> — Defying the international bird flu pandemic framework</li>
+<li><a href="/hhs-orders-cdc-stop-flu-vaccine/?lang=en">HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program</a> — Shutting down flu-related pharmaceutical programs</li>
+<li><a href="/trump-bans-gain-of-function/?lang=en">Trump Executive Order Bans Gain-of-Function Research</a> — Eliminating the research that engineers pandemic threats</li>
+<li><a href="/us-withdraws-world-health-organization/?lang=en">United States Withdraws from the World Health Organization</a> — Severing ties with the global surveillance coordinator</li>
+</ul>
+<hr>
+<p><em>The sorcerers manufactured frogs and called it a plague. The surveillance system manufactured data and called it a pandemic threat. Trump has broken the sorcerers' tools — not because the threat of infectious disease is imaginary, but because the apparatus built to monitor it was designed to trigger a response that profits its architects rather than protects the public. "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe" (Proverbs 29:25). The surveillance program was a snare — dressed in the language of safety, designed to entrap a nation in the next cycle of fear, compliance, and pharmaceutical profit. The snare has been broken.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Trump Delivers Shocking Blow to Bird Flu Surveillance Program"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"President Trump dismantles the bird flu surveillance program, disrupting the infrastructure designed to justify the next pandemic declaration and lockdown cycle."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-22T10:00:00Z","children":"May 22, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Trump",{"href":"/en/tag/Trump/","className":"tag-pill","children":["#","Trump"]}],["$","a","bird-flu",{"href":"/en/tag/bird-flu/","className":"tag-pill","children":["#","bird-flu"]}],["$","a","H5N1",{"href":"/en/tag/H5N1/","className":"tag-pill","children":["#","H5N1"]}],["$","a","surveillance",{"href":"/en/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}],["$","a","pandemic-preparedness",{"href":"/en/tag/pandemic-preparedness/","className":"tag-pill","children":["#","pandemic-preparedness"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/trump-blow-bird-flu-surveillance/","title":"Trump Delivers Shocking Blow to Bird Flu Surveillance Program"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/trump-blow-bird-flu-surveillance/","title":"Trump Delivers Shocking Blow to Bird Flu Surveillance Program"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Trump Delivers Shocking Blow to Bird Flu Surveillance Program | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"President Trump dismantles the bird flu surveillance program, disrupting the infrastructure designed to justify the next pandemic declaration and lockdown cycle."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Trump, bird-flu, H5N1, surveillance, pandemic-preparedness"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/trump-blow-bird-flu-surveillance/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/trump-blow-bird-flu-surveillance/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/trump-blow-bird-flu-surveillance/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/trump-blow-bird-flu-surveillance/"}],["$","meta","10",{"property":"og:title","content":"Trump Delivers Shocking Blow to Bird Flu Surveillance Program"}],["$","meta","11",{"property":"og:description","content":"President Trump dismantles the bird flu surveillance program, disrupting the infrastructure designed to justify the next pandemic declaration and lockdown cycle."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/trump-blow-bird-flu-surveillance/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/trump-blow-bird-flu-surveillance.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Trump Delivers Shocking Blow to Bird Flu Surveillance Program"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Trump Delivers Shocking Blow to Bird Flu Surveillance Program"}],["$","meta","25",{"name":"twitter:description","content":"President Trump dismantles the bird flu surveillance program, disrupting the infrastructure designed to justify the next pandemic declaration and lockdown cycle."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/trump-blow-bird-flu-surveillance.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

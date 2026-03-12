@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","cdc-advisors-covid-shots-cancer",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","cdc-advisors-covid-shots-cancer","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cdc-advisors-covid-shots-cancer","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4fdf,<h1 id="cdc-advisors-disclose-links-between-covid-19-shots-and-cancer">CDC Advisors Disclose Links Between COVID-19 Shots and Cancer</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"For there is nothing covered, that shall not be revealed; neither hid, that shall not be known." — Luke 12:2</p>
+</blockquote>
+<p>In the courts of ancient Israel, the role of the witness was sacred. The entire justice system depended on truthful testimony. "One witness shall not rise up against a man for any iniquity... at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established" (Deuteronomy 19:15). When witnesses lied, the consequence was severe — the false witness would receive the punishment that would have fallen on the accused.</p>
+<p>For years, the witnesses at the CDC — the advisory committee members, the directors, the spokespeople — testified to the safety of COVID-19 mRNA shots. They testified before Congress. They testified on television. They testified in official recommendations that became mandates affecting billions of people. They swore, in effect, that these products would not cause serious harm.</p>
+<p>Now some of those same witnesses are changing their testimony. CDC advisors have begun disclosing links between COVID-19 shots and cancer. The wall of denial is cracking — not from the outside, but from within.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> illuminates, truth cannot be permanently contained in darkness. And the ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> reveals how the disease and its so-called solution were engineered as two halves of the same agenda.</p>
+<hr>
+<h2 id="the-disclosures">The Disclosures</h2>
+<h3 id="what-cdc-advisors-have-acknowledged">What CDC Advisors Have Acknowledged</h3>
+<p>In a development that would have been unthinkable even two years ago, members of the CDC's Advisory Committee on Immunization Practices (ACIP) and affiliated scientific advisors have disclosed data and concerns linking COVID-19 mRNA vaccinations to elevated cancer risk. These disclosures include:</p>
+<p><strong>Acknowledgment of Immune Suppression Patterns:</strong> Advisors have acknowledged data showing that mRNA vaccination is associated with transient but significant immune suppression — a phenomenon characterized by reduced T-cell function, altered natural killer (NK) cell activity, and shifts in the immune profile that parallel patterns seen in immunocompromised cancer patients.</p>
+<p><strong>Recognition of DNA Contamination:</strong> Scientific advisors have acknowledged the discovery of residual plasmid DNA in mRNA vaccine vials — contamination from the manufacturing process. This DNA includes the SV40 promoter sequence, a genetic element derived from Simian Virus 40 that is known to drive gene expression and has been linked to cancer in laboratory studies. The presence of SV40 promoter sequences in a product injected into billions of people is, by any measure, a cancer-relevant finding.</p>
+<p><strong>Review of VAERS Signal Data:</strong> Advisors have reviewed Vaccine Adverse Event Reporting System (VAERS) data showing statistically significant signals for various cancers following COVID-19 vaccination, including lymphoma, leukemia, breast cancer, and cancers of the brain and central nervous system. While VAERS data alone does not establish causation, the pattern and magnitude of the signal exceeds what would be expected from background cancer rates.</p>
+<p><strong>Acknowledgment of Turbo Cancer Reports:</strong> The medical community's informal designation of "turbo cancers" — unusually aggressive, fast-growing, treatment-resistant cancers in previously healthy and often young individuals — has been acknowledged by advisors as a phenomenon requiring investigation. The temporal association between vaccination campaigns and the emergence of these cancers has been noted, though advisors are careful to frame this as "correlation requiring further study" rather than established causation.</p>
+<h3 id="the-significance-of-internal-disclosure">The Significance of Internal Disclosure</h3>
+<p>The significance of these disclosures cannot be overstated. When the CDC's own advisory structure acknowledges a safety signal, the institutional implications cascade:</p>
+<ol>
+<li><strong>The "safe and effective" narrative is officially compromised</strong> — not by external critics, but by the institution's own experts</li>
+<li><strong>Liability exposure increases</strong> — every future cancer claim can now reference the CDC's own advisors' disclosures</li>
+<li><strong>Informed consent is retroactively destroyed</strong> — billions of people were told the shots were safe, while the institution now acknowledges cancer links it either knew or should have known about during the rollout</li>
+<li><strong>Future mRNA products face heightened scrutiny</strong> — if the first-generation mRNA products are linked to cancer, every subsequent mRNA product must address this concern in its regulatory pathway</li>
+</ol>
+<hr>
+<h2 id="the-kingston-report-documentation-and-analysis">The Kingston Report: Documentation and Analysis</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> provides the documentary framework that predicted these disclosures years before the CDC acknowledged them.</p>
+<h3 id="the-sv40-promoter-discovery">The SV40 Promoter Discovery</h3>
+<p>Kingston was among the first analysts to highlight the significance of Dr. Kevin McKernan's discovery of SV40 promoter sequences in Pfizer's mRNA vaccine vials. McKernan, a genomics expert who developed sequencing methods used in the Human Genome Project, found that Pfizer's vials contained DNA contamination at levels far exceeding regulatory limits — and that this contamination included the SV40 promoter/enhancer sequence.</p>
+<p>The SV40 promoter is not a random piece of DNA. It is a specific genetic element that:</p>
+<ul>
+<li><strong>Drives gene expression in mammalian cells</strong> — it acts as a powerful "on switch" for whatever gene it is placed near</li>
+<li><strong>Is derived from a cancer-causing virus</strong> — Simian Virus 40, which is known to cause tumors in laboratory animals and has been linked to human cancers including mesothelioma, brain tumors, and lymphoma</li>
+<li><strong>Can facilitate genomic integration</strong> — when the SV40 promoter is present near other DNA sequences, it can facilitate the integration of those sequences into the host cell genome, potentially creating permanent genetic modifications</li>
+</ul>
+<p>Kingston documented that the presence of SV40 promoter sequences in mRNA vaccine vials means that recipients potentially received not only synthetic mRNA but also DNA fragments capable of integrating into their genome and driving the expression of oncogenes (cancer-causing genes).</p>
+<h3 id="the-immune-suppression-documentation">The Immune Suppression Documentation</h3>
+<p>Kingston has also documented the mechanism of mRNA vaccine-induced immune suppression. The modified nucleoside (N1-methylpseudouridine) used in both Pfizer and Moderna mRNA products was incorporated to prevent the immune system from immediately destroying the foreign mRNA. But this modification does not selectively suppress only the anti-mRNA response — it broadly suppresses innate immune signaling, including:</p>
+<ul>
+<li><strong>Toll-like receptor (TLR) activation</strong> — the immune system's first-response pathogen detection system</li>
+<li><strong>Type I interferon production</strong> — the immune system's primary antiviral and anticancer signaling pathway</li>
+<li><strong>Natural killer (NK) cell function</strong> — the immune cells specifically responsible for identifying and destroying cancerous cells</li>
+</ul>
+<p>By suppressing these fundamental immune functions, mRNA vaccination creates a window of vulnerability during which pre-cancerous cells that would normally be identified and destroyed are allowed to survive and proliferate. In individuals with existing undetected cancers, this immune suppression can accelerate tumor growth — explaining the turbo cancer phenomenon.</p>
+<hr>
+<h2 id="the-cancer-mechanisms-a-comprehensive-picture">The Cancer Mechanisms: A Comprehensive Picture</h2>
+<p>The CDC advisors' disclosures align with multiple documented mechanisms by which COVID-19 mRNA shots can promote cancer:</p>
+<h3 id="mechanism-1-p53-tumor-suppressor-suppression">Mechanism 1: p53 Tumor Suppressor Suppression</h3>
+<p>As documented in our article on <a href="/spike-protein-cancer-tumor-suppressing/?lang=en">Spike Protein and Cancer Tumor-Suppressing Genes</a>, the spike protein produced by mRNA vaccines suppresses the p53 tumor suppressor — the guardian of the genome. With p53 disabled, cells accumulate DNA damage without triggering the repair or self-destruction programs that prevent cancer.</p>
+<h3 id="mechanism-2-dna-contamination-and-genomic-integration">Mechanism 2: DNA Contamination and Genomic Integration</h3>
+<p>The SV40 promoter-containing DNA fragments discovered in mRNA vaccine vials can potentially integrate into the host genome. If integration occurs near an oncogene, the SV40 promoter can activate that oncogene, driving cancer development. If integration disrupts a tumor suppressor gene, that gene's protective function is lost.</p>
+<h3 id="mechanism-3-immune-suppression">Mechanism 3: Immune Suppression</h3>
+<p>The N1-methylpseudouridine modification suppresses innate immune function, reducing the body's ability to detect and destroy pre-cancerous cells. This creates an immunological permissive environment for tumor growth.</p>
+<h3 id="mechanism-4-chronic-inflammation">Mechanism 4: Chronic Inflammation</h3>
+<p>Spike protein persistence — documented for months or longer after vaccination — drives chronic inflammation. Chronic inflammation is a well-established driver of cancer development, creating an environment of oxidative stress, DNA damage, and cellular proliferation that favors tumor formation.</p>
+<h3 id="mechanism-5-toll-like-receptor-interference">Mechanism 5: Toll-like Receptor Interference</h3>
+<p>The mRNA construct and its lipid nanoparticle delivery system interfere with Toll-like receptor signaling — the innate immune system's pattern recognition receptors that detect abnormal cells. This interference reduces immune surveillance and allows cancerous cells to evade detection.</p>
+<h3 id="mechanism-6-igg4-class-switching">Mechanism 6: IgG4 Class Switching</h3>
+<p>Repeated mRNA vaccination has been documented to cause immunoglobulin class switching from IgG1/IgG3 (inflammatory, cancer-fighting antibodies) to IgG4 (tolerogenic antibodies that suppress immune responses). IgG4 class switching tells the immune system to tolerate the antigen rather than fight it — and this tolerance can extend to cancer cells expressing spike protein or spike-modified surface markers.</p>
+<hr>
+<h2 id="the-pattern-of-institutional-disclosure">The Pattern of Institutional Disclosure</h2>
+<h3 id="how-institutions-admit-the-truth">How Institutions Admit the Truth</h3>
+<p>Institutions like the CDC do not reverse course suddenly. They follow a predictable pattern:</p>
+<ol>
+<li><strong>Denial:</strong> "There is no evidence that COVID-19 vaccines cause cancer." (2021-2023)</li>
+<li><strong>Minimization:</strong> "Some signals have been detected but are not statistically significant." (2023-2024)</li>
+<li><strong>Qualified acknowledgment:</strong> "Correlations exist that require further study." (2024-2025)</li>
+<li><strong>Partial disclosure:</strong> "Some advisors have raised concerns about cancer associations." (2025-2026)</li>
+<li><strong>Full disclosure (if it ever comes):</strong> "The data support a causal relationship between mRNA vaccination and certain cancers."</li>
+</ol>
+<p>The CDC is currently in stage 4. The progression from denial to partial disclosure has taken approximately four years — four years during which people continued to receive boosters, continued to be told the products were safe, and continued to develop cancers that might have been prevented by earlier disclosure.</p>
+<p>This pattern is not unique to the CDC. It is the same pattern followed by the tobacco industry (decades of denial before acknowledging cancer causation), the asbestos industry (decades of denial before acknowledging mesothelioma), and the pharmaceutical industry itself (Vioxx, opioids, DES — all followed the same trajectory from denial to eventual, forced disclosure).</p>
+<h3 id="why-now">Why Now?</h3>
+<p>The timing of these disclosures is not random. Several factors are converging:</p>
+<ul>
+<li><strong>Cancer data is becoming undeniable.</strong> Insurance actuarial data, cancer registry data, and clinical observations are generating a signal too large to suppress.</li>
+<li><strong>Whistleblowers are emerging.</strong> Scientists and clinicians within the system who observed the data are breaking ranks.</li>
+<li><strong>Legal liability is shifting.</strong> As more lawsuits are filed, the institution's legal calculus favors disclosure (which can be framed as "transparency") over continued suppression (which can be framed as "cover-up").</li>
+<li><strong>Political landscape changes.</strong> The political environment has shifted toward greater vaccine scrutiny, making disclosure politically safer than continued denial.</li>
+</ul>
+<hr>
+<h2 id="the-biblical-witness">The Biblical Witness</h2>
+<blockquote>
+<p>"And ye shall know the truth, and the truth shall make you free." — John 8:32</p>
+</blockquote>
+<p>The Hebrew prophets understood that institutional corruption always follows the same arc: denial, suppression, and eventual exposure. The prophet Ezekiel was shown "the abominations that they do here" — the hidden practices of the religious establishment that were conducted behind closed doors, in the inner chambers, away from public view (Ezekiel 8:6-12). God told Ezekiel: "Hast thou seen this? turn thee yet again, and thou shalt see greater abominations."</p>
+<p>The abominations were always there. The disclosures did not create the truth — they revealed it. The cancer link did not begin when CDC advisors acknowledged it. It began when the first spike protein suppressed the first p53 molecule in the first vaccinated person. Truth exists independent of its acknowledgment by institutions.</p>
+<p>The mark of the beast system described in Revelation 13 is, at its core, a system of bodily compliance — where participation in society requires acceptance of a physical modification. As the ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> explores, the technological components of this system are already being deployed. The cancer link is one consequence of accepting biological modification from a system that does not serve the Creator.</p>
+<hr>
+<h2 id="what-this-means-going-forward">What This Means Going Forward</h2>
+<h3 id="for-the-vaccinated">For the Vaccinated</h3>
+<p>The CDC advisors' disclosures validate the concerns that millions of people have had since the rollout began. For those who received mRNA vaccines:</p>
+<ol>
+<li><strong>Heightened cancer surveillance is warranted.</strong> Discuss increased screening with healthcare providers.</li>
+<li><strong>Support p53 function.</strong> Research nutrients and compounds that support tumor suppression: zinc, selenium, EGCG (green tea extract), sulforaphane, resveratrol.</li>
+<li><strong>Support innate immunity.</strong> Vitamins D, C, zinc, and quercetin support the innate immune functions suppressed by mRNA vaccination.</li>
+<li><strong>Avoid further mRNA injections.</strong> Each additional dose extends spike protein production and resets the immune suppression window.</li>
+<li><strong>Document your vaccination history and health changes.</strong> As the legal landscape evolves, documentation will be critical.</li>
+</ol>
+<h3 id="for-the-institutions">For the Institutions</h3>
+<p>The CDC's partial disclosure opens a door that cannot be closed. Every subsequent mRNA product — for COVID boosters, influenza, RSV, or any other indication — must now be evaluated against the cancer signal that the CDC's own advisors have acknowledged. The era of unquestioned "safe and effective" declarations for mRNA technology is over.</p>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Documentation of mRNA vaccine cancer mechanisms and regulatory disclosures.</li>
+<li>McKernan, Kevin. DNA contamination analysis of mRNA vaccine vials.</li>
+<li>ACIP meeting transcripts and presentations.</li>
+<li>VAERS data analysis.</li>
+<li>Published research on spike protein and p53 interaction.</li>
+<li>Published research on IgG4 class switching following mRNA vaccination.</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/179-Engineering_Contagion.mp4">Engineering Contagion</a> — How disease and its "solution" are engineered as two halves of the same agenda</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> — The technological mark system being deployed through injections</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The injection program targeting the bloodline</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> — Truth cannot be permanently contained in darkness</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — The sacred bloodline under assault</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/spike-protein-cancer-tumor-suppressing/?lang=en">SARS-2 Spike Protein Weakens Cancer Tumor-Suppressing Gene</a> — The molecular mechanism of spike protein and p53 suppression</li>
+<li><a href="/ai-mrna-vaccines-turbo-cancers/?lang=en">Why AI-Designed mRNA Vaccines Cause Turbo Cancers</a> — How AI optimization accelerates the cancer risk</li>
+<li><a href="/cdc-safety-data-mrna-vaccines/?lang=en">Updated CDC Safety Data on COVID-19 mRNA Vaccines</a> — The latest official safety signals</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=en">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — How sa-mRNA extends all vaccine risks indefinitely</li>
+</ul>
+<hr>
+<p><em>The witnesses are changing their testimony. The wall that the institution built from denial, suppression, and "safe and effective" mantras is cracking from the inside. But God did not need the CDC's confession to know the truth. He watched every spike protein suppress every p53 molecule. He numbered every cancer cell that grew unchecked. "For the eyes of the LORD run to and fro throughout the whole earth" (2 Chronicles 16:9). The disclosure has begun. It will not stop until every hidden thing is revealed.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"CDC Advisors Disclose Links Between COVID-19 Shots and Cancer"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"CDC advisory committee members have disclosed evidence linking COVID-19 mRNA shots to increased cancer risk, marking a significant shift in official narrative."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-12T10:00:00Z","children":"April 12, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CDC",{"href":"/en/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","cancer",{"href":"/en/tag/cancer/","className":"tag-pill","children":["#","cancer"]}],["$","a","COVID-19-vaccines",{"href":"/en/tag/COVID-19-vaccines/","className":"tag-pill","children":["#","COVID-19-vaccines"]}],["$","a","ACIP",{"href":"/en/tag/ACIP/","className":"tag-pill","children":["#","ACIP"]}],["$","a","turbo-cancer",{"href":"/en/tag/turbo-cancer/","className":"tag-pill","children":["#","turbo-cancer"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cdc-advisors-covid-shots-cancer/","title":"CDC Advisors Disclose Links Between COVID-19 Shots and Cancer"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/cdc-advisors-covid-shots-cancer/","title":"CDC Advisors Disclose Links Between COVID-19 Shots and Cancer"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"CDC Advisors Disclose Links Between COVID-19 Shots and Cancer | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"CDC advisory committee members have disclosed evidence linking COVID-19 mRNA shots to increased cancer risk, marking a significant shift in official narrative."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CDC, cancer, COVID-19-vaccines, ACIP, turbo-cancer"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/cdc-advisors-covid-shots-cancer/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cdc-advisors-covid-shots-cancer/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cdc-advisors-covid-shots-cancer/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cdc-advisors-covid-shots-cancer/"}],["$","meta","10",{"property":"og:title","content":"CDC Advisors Disclose Links Between COVID-19 Shots and Cancer"}],["$","meta","11",{"property":"og:description","content":"CDC advisory committee members have disclosed evidence linking COVID-19 mRNA shots to increased cancer risk, marking a significant shift in official narrative."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/cdc-advisors-covid-shots-cancer/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cdc-advisors-covid-shots-cancer.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"CDC Advisors Disclose Links Between COVID-19 Shots and Cancer"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"CDC Advisors Disclose Links Between COVID-19 Shots and Cancer"}],["$","meta","25",{"name":"twitter:description","content":"CDC advisory committee members have disclosed evidence linking COVID-19 mRNA shots to increased cancer risk, marking a significant shift in official narrative."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cdc-advisors-covid-shots-cancer.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

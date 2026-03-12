@@ -1,0 +1,176 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","covid-vaccine-chief-boosters-ineffective",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","covid-vaccine-chief-boosters-ineffective","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","covid-vaccine-chief-boosters-ineffective","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T395f,<h1 id="covid-19-vaccine-chief-laughs-at-boosters-being-zero-percent-effective">COVID-19 Vaccine Chief Laughs at Boosters Being Zero Percent Effective</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation. Their sword shall enter into their own heart, and their bows shall be broken." — Psalm 37:14-15</p>
+</blockquote>
+<p>In Scripture, laughter at the expense of the innocent is the mark of the scorner — the Hebrew <em>letz</em> — the one who mocks what is sacred, who ridicules the suffering of others, and who takes pleasure in deception. "Fools make a mock at sin" (Proverbs 14:9). When a person in a position of public health authority laughs about the ineffectiveness of a product that billions of people were pressured, coerced, and in many cases forced to receive, it is not merely inappropriate. It is the laughter of the scorner.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> speaks to the substitution at the heart of the fraud — protection exchanged for poison, safety exchanged for injury, truth exchanged for a lie. And the ZZZ Daily track <a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> reveals the system behind the laughter.</p>
+<hr>
+<h2 id="the-incident-laughter-in-the-face-of-the-public">The Incident: Laughter in the Face of the Public</h2>
+<h3 id="what-happened">What Happened</h3>
+<p>A senior official involved in the COVID-19 vaccine program — a person with direct responsibility for the development, approval, or deployment of COVID-19 booster shots — was captured making statements that revealed contempt for the public and awareness that the booster shots were ineffective. The official laughed while discussing data showing that booster effectiveness against infection had dropped to zero percent — or effectively zero — against circulating variants.</p>
+<p>The significance of this moment lies in the contrast between the private candor and the public messaging:</p>
+<p><strong>What the public was told:</strong></p>
+<ul>
+<li>"Boosters provide critical additional protection"</li>
+<li>"Getting boosted is the best way to protect yourself and your loved ones"</li>
+<li>"Updated boosters target the latest variants"</li>
+<li>"Boosters are safe and effective"</li>
+</ul>
+<p><strong>What the official knew (and laughed about):</strong></p>
+<ul>
+<li>Booster effectiveness against infection was functionally zero</li>
+<li>The updated boosters were not tested in clinical trials before authorization (they were authorized based on mouse data)</li>
+<li>The virus was mutating faster than the boosters could be updated</li>
+<li>The public was being told to take a product that the insiders knew did not work as advertised</li>
+</ul>
+<h3 id="the-bivalent-booster-scandal">The Bivalent Booster Scandal</h3>
+<p>The bivalent boosters — updated formulations targeting both the original strain and the Omicron variant — were authorized by the FDA in August 2022 without human clinical trial data. The authorization was based on:</p>
+<ul>
+<li><strong>Mouse data:</strong> Antibody responses in eight mice</li>
+<li><strong>Extrapolation from the original vaccine:</strong> The assumption that because the original formulation was effective (a claim itself increasingly disputed), an updated formulation would also be effective</li>
+<li><strong>Theoretical modeling:</strong> Computer predictions of how the updated booster would perform</li>
+</ul>
+<p>When human data eventually became available, it showed:</p>
+<ul>
+<li><strong>Minimal to zero effectiveness against infection</strong> within weeks of administration</li>
+<li><strong>Rapidly waning effectiveness against hospitalization</strong></li>
+<li><strong>No meaningful difference from previous boosters</strong> that targeted only the original strain</li>
+</ul>
+<p>The official laughing about zero percent effectiveness was laughing about a product that was never adequately tested, that was deployed based on mouse studies, and that billions of people were told they needed to receive.</p>
+<hr>
+<h2 id="the-kingston-report-the-business-of-boosters">The Kingston Report: The Business of Boosters</h2>
+<p>Karen Kingston's analysis through <a href="https://karenkingston.substack.com">The Kingston Report</a> reveals the financial and strategic motivations behind the booster campaign.</p>
+<h3 id="the-revenue-engine">The Revenue Engine</h3>
+<p>Kingston has documented that boosters represent the pharmaceutical industry's transition from emergency deployment to recurring revenue. The COVID-19 vaccine market was, by design, a subscription model:</p>
+<ul>
+<li><strong>Initial series (2 doses):</strong> The introduction — creating the customer base</li>
+<li><strong>First booster:</strong> Establishing the pattern of repeat consumption</li>
+<li><strong>Second booster:</strong> Normalizing annual or semi-annual injection</li>
+<li><strong>Updated boosters:</strong> The permanent subscription — annual COVID shots modeled on annual flu shots</li>
+</ul>
+<p>Each booster generated billions in revenue:</p>
+<ul>
+<li>Pfizer's COVID-19 vaccine generated $37.8 billion in revenue in 2022 alone</li>
+<li>Moderna's COVID-19 vaccine generated $18.4 billion in 2022</li>
+<li>Booster campaigns extended the revenue timeline beyond the initial emergency period</li>
+</ul>
+<p>The booster campaign was not driven by public health evidence. It was driven by commercial necessity. When the initial two-dose series showed waning effectiveness (raising questions about the product itself), boosters were presented as the solution — more of the product that was failing, at additional cost, with additional risk.</p>
+<h3 id="the-igg4-class-switching-problem">The IgG4 Class Switching Problem</h3>
+<p>Kingston has documented a particularly damaging consequence of repeated mRNA boosting: IgG4 class switching. Research published in Science and other journals has shown that repeated mRNA vaccination induces a shift in antibody response from IgG1/IgG3 (inflammatory, virus-fighting antibodies) to IgG4 (tolerogenic antibodies that tell the immune system to tolerate rather than attack).</p>
+<p>This means:</p>
+<ul>
+<li><strong>Each booster makes the immune system MORE tolerant of the virus</strong> — the opposite of the intended effect</li>
+<li><strong>The virus is treated as an allergen to be tolerated</strong> rather than a pathogen to be destroyed</li>
+<li><strong>IgG4 dominance is associated with immune tolerance in cancer</strong> — meaning repeated boosting may facilitate cancer by promoting an immune environment that tolerates abnormal cells</li>
+</ul>
+<p>The official who laughed about zero percent effectiveness may not have understood the IgG4 mechanism — but the result is clear: boosters are not merely ineffective. They actively reprogram the immune system in harmful ways.</p>
+<hr>
+<h2 id="the-mandate-context">The Mandate Context</h2>
+<h3 id="people-lost-everything-for-refusing-boosters">People Lost Everything for Refusing Boosters</h3>
+<p>The laughter must be understood in the context of what happened to people who refused boosters:</p>
+<ul>
+<li><strong>Healthcare workers were fired</strong> for refusing boosters — nurses, doctors, paramedics who served through the worst of the pandemic were terminated for declining an injection that insiders knew was ineffective</li>
+<li><strong>Military personnel were discharged</strong> for refusing boosters — service members with years of dedication were separated from the armed forces for declining a product with zero percent effectiveness</li>
+<li><strong>Students were barred from education</strong> for refusing boosters — young people at minimal risk from COVID were denied educational access for refusing a product authorized based on mouse data</li>
+<li><strong>Workers across industries lost jobs</strong> for refusing booster mandates</li>
+<li><strong>Families were torn apart</strong> over booster compliance</li>
+</ul>
+<p>These people suffered real, tangible consequences — loss of income, loss of career, loss of educational opportunity, family fracture — for refusing a product that the insiders knew was ineffective. And the insiders laughed.</p>
+<hr>
+<h2 id="the-biblical-standard-woe-to-the-scorners">The Biblical Standard: Woe to the Scorners</h2>
+<h3 id="the-scorner-in-scripture">The Scorner in Scripture</h3>
+<blockquote>
+<p>"Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful." — Psalm 1:1</p>
+</blockquote>
+<p>The scorner (<em>letz</em>) occupies a specific position in the taxonomy of wickedness in Proverbs and the Psalms. The scorner is not merely wrong — the scorner takes pleasure in the wrongness. The scorner laughs at the suffering caused by deception. The scorner sits in a seat of power and uses that seat to mock those who are harmed.</p>
+<p>"A scorner seeketh wisdom, and findeth it not" (Proverbs 14:6). The official who laughed about zero percent effectiveness will not find wisdom — because wisdom begins with the fear of the LORD, and the scorner fears nothing but the exposure of the lie.</p>
+<h3 id="revelation-1823-and-the-great-deception">Revelation 18:23 and the Great Deception</h3>
+<p>The booster campaign is pharmakeia at its most pure: a pharmaceutical product marketed as essential, mandated as necessary, and known by insiders to be ineffective — all while generating tens of billions in revenue. "By thy pharmakeia were all nations deceived."</p>
+<p>The deception encompasses:</p>
+<ul>
+<li>The product itself (ineffective)</li>
+<li>The marketing ("safe and effective")</li>
+<li>The mandates (forced compliance)</li>
+<li>The data (mouse studies as the basis for human authorization)</li>
+<li>The internal attitude (laughter at the public's expense)</li>
+</ul>
+<hr>
+<h2 id="what-individuals-should-know">What Individuals Should Know</h2>
+<ol>
+<li><strong>A senior vaccine official laughed about boosters being zero percent effective.</strong> The people who made the product knew it did not work.</li>
+<li><strong>Bivalent boosters were authorized based on mouse data</strong> — not human clinical trials.</li>
+<li><strong>Repeated boosting causes IgG4 class switching</strong> — reprogramming the immune system toward tolerance rather than defense.</li>
+<li><strong>The booster campaign was commercially driven</strong> — generating tens of billions in revenue for products the insiders knew were failing.</li>
+<li><strong>People lost jobs, careers, military service, and education</strong> for refusing boosters that insiders knew were ineffective.</li>
+<li><strong>The mandates were based on a lie</strong> — the boosters did not provide the protection that was claimed as the basis for requiring them.</li>
+</ol>
+<hr>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of booster effectiveness data and commercial motivations.</li>
+<li>Published research on IgG4 class switching following repeated mRNA vaccination</li>
+<li>FDA bivalent booster authorization documents</li>
+<li>CDC booster effectiveness studies</li>
+<li>Pfizer and Moderna financial reports (2022-2025)</li>
+<li>Mandate documentation from federal, state, and private sector employers</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — The system behind the injection campaign</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — The captured medical establishment</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> — The infrastructure of mass injection</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> — Protection exchanged for poison</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — The blood corrupted by the lie</li>
+</ul>
+<hr>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/mass-awakening-deadly-mrna-shots/?lang=en">Survey Confirms Mass Awakening to Deadly COVID-19 mRNA Shots</a> — The public is waking up</li>
+<li><a href="/cdc-safety-data-mrna-vaccines/?lang=en">Updated CDC Safety Data on COVID-19 mRNA Vaccines</a> — The official safety signals</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=en">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — The next generation of mRNA</li>
+<li><a href="/parents-saying-no-vaccines/?lang=en">Nearly 1 out of 5 Parents Are Saying NO to Vaccines</a> — The refusal movement grows</li>
+</ul>
+<hr>
+<p><em>The scorner laughed. But "He that sitteth in the heavens shall laugh: the LORD shall have them in derision" (Psalm 2:4). God's laughter is the last laughter. The official who laughed about zero percent effectiveness will one day stand before the One whose measurements are perfect, whose scales are just, and whose memory does not fade. Every person who lost a job, a career, a relationship, or their health because of a mandated product that the insiders knew was worthless — their testimony is recorded where laughter cannot reach it.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"COVID-19 Vaccine Chief Laughs at Boosters Being Zero Percent Effective"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"A senior COVID-19 vaccine official was caught laughing about booster shots being zero percent effective, exposing the fraud behind repeated mRNA injections."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-24T10:00:00Z","children":"April 24, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","boosters",{"href":"/en/tag/boosters/","className":"tag-pill","children":["#","boosters"]}],["$","a","vaccine-effectiveness",{"href":"/en/tag/vaccine-effectiveness/","className":"tag-pill","children":["#","vaccine-effectiveness"]}],["$","a","COVID-19",{"href":"/en/tag/COVID-19/","className":"tag-pill","children":["#","COVID-19"]}],["$","a","fraud",{"href":"/en/tag/fraud/","className":"tag-pill","children":["#","fraud"]}],["$","a","mRNA-vaccines",{"href":"/en/tag/mRNA-vaccines/","className":"tag-pill","children":["#","mRNA-vaccines"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/covid-vaccine-chief-boosters-ineffective/","title":"COVID-19 Vaccine Chief Laughs at Boosters Being Zero Percent Effective"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/covid-vaccine-chief-boosters-ineffective/","title":"COVID-19 Vaccine Chief Laughs at Boosters Being Zero Percent Effective"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"COVID-19 Vaccine Chief Laughs at Boosters Being Zero Percent Effective | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"A senior COVID-19 vaccine official was caught laughing about booster shots being zero percent effective, exposing the fraud behind repeated mRNA injections."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"boosters, vaccine-effectiveness, COVID-19, fraud, mRNA-vaccines"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/covid-vaccine-chief-boosters-ineffective/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/covid-vaccine-chief-boosters-ineffective/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/covid-vaccine-chief-boosters-ineffective/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/covid-vaccine-chief-boosters-ineffective/"}],["$","meta","10",{"property":"og:title","content":"COVID-19 Vaccine Chief Laughs at Boosters Being Zero Percent Effective"}],["$","meta","11",{"property":"og:description","content":"A senior COVID-19 vaccine official was caught laughing about booster shots being zero percent effective, exposing the fraud behind repeated mRNA injections."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/covid-vaccine-chief-boosters-ineffective/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/covid-vaccine-chief-boosters-ineffective.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"COVID-19 Vaccine Chief Laughs at Boosters Being Zero Percent Effective"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"COVID-19 Vaccine Chief Laughs at Boosters Being Zero Percent Effective"}],["$","meta","25",{"name":"twitter:description","content":"A senior COVID-19 vaccine official was caught laughing about booster shots being zero percent effective, exposing the fraud behind repeated mRNA injections."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/covid-vaccine-chief-boosters-ineffective.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,141 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","nih-vaccine-truth",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","nih-vaccine-truth","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","nih-vaccine-truth","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T35e7,<h1 id="the-nih-vaccine-truth-they-buried-for-decades">The NIH Vaccine Truth They Buried for Decades</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad."</em> — Luke 8:17</p>
+</blockquote>
+<p>The National Institutes of Health — the largest biomedical research agency in the world, with an annual budget exceeding $45 billion — has known for decades that vaccines carry risks far greater than what the public has been told. Internal documents, buried studies, and the testimony of whistleblowers reveal a pattern of deliberate concealment that constitutes one of the greatest public health frauds in history.</p>
+<p>The NIH is not a neutral scientific institution. It is a government agency with deep financial ties to the pharmaceutical industry, institutional incentives to promote vaccination, and a bureaucratic culture that punishes dissent and rewards conformity. The truth about vaccines was not lost — it was buried, deliberately, by people who knew what they were doing and why.</p>
+<p>Howard Pittman was told during his NDE that 97.5% of Christians were failing in their walk. They had "never made Jesus Lord." They served "self." The NIH serves itself — its budget, its reputation, its institutional survival — and in doing so, it serves the pharmaceutical industry that funds much of its research, staffs its advisory committees, and employs its former officials.</p>
+<p>The Jesuits' infiltration "cloaked with cunning" extends to every institution that governs human life. Napoleon's "absolute power," Adams's "eternal damnation," Tambulini's governance of "half the world" — these describe the reality of institutional control that the NIH represents. The Catholic Confidential documentary exposed how blind obedience and "every species of vice" characterize the Jesuit method. The NIH operates on the same principles.</p>
+<hr>
+<h2 id="what-the-nih-knew--and-when-they-knew-it">What the NIH Knew — and When They Knew It</h2>
+<h3 id="the-sv40-contamination">The SV40 Contamination</h3>
+<p>Between 1955 and 1963, an estimated 98 million Americans received polio vaccines contaminated with Simian Virus 40 (SV40), a virus found in the monkey kidney cells used to produce the vaccine. The NIH knew about the contamination as early as 1960.</p>
+<p>SV40 is a known oncogenic virus — it causes cancer in laboratory animals. Research has found SV40 DNA in human cancers, including:</p>
+<ul>
+<li>Brain tumors (mesotheliomas)</li>
+<li>Bone cancers (osteosarcomas)</li>
+<li>Lymphomas</li>
+<li>Lung cancers</li>
+</ul>
+<p>The NIH's response to this contamination was not to alert the public, not to recall the contaminated vaccines, and not to investigate the potential cancer link. Instead, they:</p>
+<ul>
+<li>Quietly switched to SV40-free vaccine production</li>
+<li>Suppressed research linking SV40 to human cancers</li>
+<li>Funded studies designed to find no connection between SV40 and cancer</li>
+<li>Allowed the contaminated vaccine to be used until existing stocks were exhausted</li>
+</ul>
+<p>Ninety-eight million Americans were injected with a cancer-causing virus, and the NIH covered it up. This is not speculation — it is documented in congressional testimony, internal NIH communications, and peer-reviewed research that the mainstream medical establishment has spent decades trying to discredit.</p>
+<h3 id="the-simpsonwood-conference">The Simpsonwood Conference</h3>
+<p>In June 2000, the CDC convened a secret meeting at the Simpsonwood Conference Center in Norcross, Georgia. The meeting brought together 52 attendees from the CDC, FDA, NIH, vaccine manufacturers, and the WHO to discuss a study by CDC epidemiologist Thomas Verstraeten.</p>
+<p>Verstraeten's study, using the Vaccine Safety Datalink (a database of millions of children's medical records), had found a statistically significant association between thimerosal-containing vaccines and neurological disorders, including autism.</p>
+<p>The Simpsonwood transcripts — obtained through the Freedom of Information Act — reveal that the attendees were more concerned with protecting the vaccine program than with protecting children:</p>
+<ul>
+<li>Participants discussed how to <strong>manipulate the data</strong> to eliminate the association</li>
+<li>They discussed the <strong>legal implications</strong> of the findings</li>
+<li>They discussed how to <strong>prevent the data from being accessed</strong> by outside researchers</li>
+<li>One participant stated he would not want to give thimerosal-containing vaccines to his own grandchild</li>
+</ul>
+<p>After the meeting, Verstraeten's study was reworked — using different statistical methods and different data sets — until the association between thimerosal and autism disappeared. The final published version showed no association. The original data showing the association was not made public.</p>
+<h3 id="the-thompson-confession">The Thompson Confession</h3>
+<p>In 2014, CDC senior scientist William Thompson contacted journalist and researcher Brian Hooker and confessed that the CDC had committed scientific fraud in a landmark 2004 study on the MMR vaccine and autism.</p>
+<p>Thompson stated that the study's authors had found a statistically significant association between early MMR vaccination and autism in African American boys. Rather than report this finding, the authors:</p>
+<ul>
+<li>Met in a conference room</li>
+<li>Brought the relevant data printouts</li>
+<li>Threw them in a <strong>garbage can</strong></li>
+<li>Re-analyzed the data without the subgroup that showed the association</li>
+<li>Published the fraudulent results</li>
+</ul>
+<p>Thompson retained copies of the original documents and turned them over to Congressman Bill Posey. Despite Thompson's confession and the documentary evidence of fraud, no investigation was conducted, no researchers were disciplined, and the fraudulent study remains in the published literature.</p>
+<h2 id="the-financial-conflicts">The Financial Conflicts</h2>
+<h3 id="nih-scientists-royalties">NIH Scientists' Royalties</h3>
+<p>A 2005 investigation by the Associated Press revealed that NIH scientists had been collecting royalty payments from pharmaceutical companies for products they helped develop — including vaccines. The investigation found:</p>
+<ul>
+<li>NIH scientists received <strong>$8.9 million</strong> in royalties between 1991 and 2002</li>
+<li>Individual scientists received up to <strong>$150,000 per year</strong> from companies whose products they were evaluating</li>
+<li>The royalty payments were <strong>not disclosed</strong> to the public or to the advisory committees that evaluated the products</li>
+<li>NIH leadership actively resisted disclosure requirements</li>
+</ul>
+<p>This means that NIH scientists who sat on advisory committees recommending vaccines were simultaneously receiving payments from the companies that manufactured those vaccines. The conflict of interest is so egregious that it would disqualify a judge, a journalist, or virtually any other professional — but in the NIH, it was standard operating procedure.</p>
+<h3 id="the-revolving-door">The Revolving Door</h3>
+<p>The revolving door between the NIH, the CDC, the FDA, and the pharmaceutical industry ensures that the agencies tasked with regulating vaccines are controlled by the industry they are supposed to regulate:</p>
+<ul>
+<li><strong>Julie Gerberding</strong>, CDC Director during the Thompson fraud, left to become President of Merck's vaccine division</li>
+<li><strong>Scott Gottlieb</strong>, FDA Commissioner, had extensive pharmaceutical industry ties before and after his tenure</li>
+<li><strong>Anthony Fauci</strong>, NIH/NIAID Director for 38 years, oversaw billions in grants to pharmaceutical companies while helping to set vaccine policy</li>
+</ul>
+<p>The pattern is unmistakable: government officials set policies that benefit pharmaceutical companies, then leave government to work for those companies. This is not public service — it is corporate capture.</p>
+<h2 id="the-suppressed-research">The Suppressed Research</h2>
+<h3 id="studies-that-disappeared">Studies That Disappeared</h3>
+<p>Over the decades, numerous studies showing vaccine risks have been suppressed, retracted, defunded, or simply ignored:</p>
+<ul>
+<li>Studies linking vaccines to <strong>autoimmune disorders</strong> have been defunded</li>
+<li>Studies showing <strong>aluminum adjuvant toxicity</strong> have been attacked and marginalized</li>
+<li>Studies documenting <strong>vaccine-strain viral shedding</strong> have been suppressed</li>
+<li>Studies linking <strong>childhood vaccines to chronic disease</strong> have been ridiculed</li>
+</ul>
+<p>The suppression is systematic. It operates through funding control (don't fund studies that might produce unwanted results), peer review manipulation (reject papers that threaten the consensus), and career destruction (ruin researchers who publish inconvenient findings).</p>
+<h3 id="the-vaccine-court">The Vaccine Court</h3>
+<p>The National Childhood Vaccine Injury Act of 1986 created the Vaccine Injury Compensation Program (VICP) — a special court that adjudicates vaccine injury claims. This court has paid out over <strong>$4.7 billion</strong> in compensation to vaccine-injured individuals.</p>
+<p>The existence of the Vaccine Court is itself an admission that vaccines cause injury. If vaccines were as safe as claimed, no special court would be necessary. The creation of the court — which simultaneously protects vaccine manufacturers from lawsuits — reveals the government's priorities: protect the vaccine program and its manufacturers, compensate the injured quietly, and maintain public confidence.</p>
+<h2 id="the-spiritual-warfare">The Spiritual Warfare</h2>
+<h3 id="the-nih-as-false-authority">The NIH as False Authority</h3>
+<p>Howard Pittman was shown that demonic forces operate through institutions that claim authority they do not legitimately possess. The NIH claims the authority to determine what is safe for your body — an authority that belongs to you, to your doctor (in consultation with you), and ultimately to God.</p>
+<p>When the NIH declares a vaccine "safe and effective," those words carry spiritual weight. They create a reality that billions of people accept on faith. But Pittman was told that 95% serve "self" — and the NIH serves its institutional self-interest above all.</p>
+<p>The Jesuits perfected the art of institutional authority. Their universities, their hospitals, their publishing houses — all exist to establish and maintain the authority of the order. The NIH operates on the same model: its authority is self-referential, self-reinforcing, and designed to be unquestionable.</p>
+<p>The way out is the same as it always is: question the authority, examine the evidence, seek the truth, and trust in God rather than in institutions that have repeatedly demonstrated their willingness to deceive.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — extensive documentation of NIH vaccine fraud</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — spiritual warfare and false institutional authority</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — the Jesuit model of institutional control</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Simpsonwood Conference transcripts (FOIA)</li>
+<li>William Thompson CDC whistleblower confession</li>
+<li>SV40 contamination documentation and congressional testimony</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/67-The_Enemy_Within.mp4">The Enemy Within</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/satanic-science-smallpox-vaccine/?lang=en">Satanic Science: The Horrifying Truth Behind the Smallpox Vaccine</a></li>
+<li><a href="/viruses-first-appear-military-bases/?lang=en">Why Do Viruses Always First Appear on Military Bases</a></li>
+<li><a href="/big-pharma-bloodlust-torture/?lang=en">Big Pharma's BLOODLUST: The Hidden History of Medical Torture</a></li>
+</ul>
+<p><em>The NIH knew. They knew about the contamination, the injuries, the deaths. They knew and they buried it — because the vaccine program was more important than the children it harmed. The truth they buried is rising. No institution, no matter how powerful, can keep the truth underground forever. "For nothing is secret, that shall not be made manifest."</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The NIH Vaccine Truth They Buried for Decades"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"The NIH has internal documents showing vaccine dangers they never shared with the public. Decades of buried truth about vaccine safety are now surfacing."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-01T10:00:00Z","children":"December 1, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","NIH",{"href":"/en/tag/NIH/","className":"tag-pill","children":["#","NIH"]}],["$","a","vaccines",{"href":"/en/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","cover-up",{"href":"/en/tag/cover-up/","className":"tag-pill","children":["#","cover-up"]}],["$","a","vaccine-safety",{"href":"/en/tag/vaccine-safety/","className":"tag-pill","children":["#","vaccine-safety"]}],["$","a","government-corruption",{"href":"/en/tag/government-corruption/","className":"tag-pill","children":["#","government-corruption"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/nih-vaccine-truth/","title":"The NIH Vaccine Truth They Buried for Decades"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/nih-vaccine-truth/","title":"The NIH Vaccine Truth They Buried for Decades"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The NIH Vaccine Truth They Buried for Decades | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"The NIH has internal documents showing vaccine dangers they never shared with the public. Decades of buried truth about vaccine safety are now surfacing."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"NIH, vaccines, cover-up, vaccine-safety, government-corruption"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/nih-vaccine-truth/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/nih-vaccine-truth/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/nih-vaccine-truth/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/nih-vaccine-truth/"}],["$","meta","10",{"property":"og:title","content":"The NIH Vaccine Truth They Buried for Decades"}],["$","meta","11",{"property":"og:description","content":"The NIH has internal documents showing vaccine dangers they never shared with the public. Decades of buried truth about vaccine safety are now surfacing."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/nih-vaccine-truth/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/nih-vaccine-truth.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The NIH Vaccine Truth They Buried for Decades"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The NIH Vaccine Truth They Buried for Decades"}],["$","meta","25",{"name":"twitter:description","content":"The NIH has internal documents showing vaccine dangers they never shared with the public. Decades of buried truth about vaccine safety are now surfacing."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/nih-vaccine-truth.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

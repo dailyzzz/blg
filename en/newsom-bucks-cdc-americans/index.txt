@@ -1,0 +1,134 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","newsom-bucks-cdc-americans",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","newsom-bucks-cdc-americans","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","newsom-bucks-cdc-americans","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T39bb,<h1 id="gavin-newsom-bucks-the-cdc-while-majority-of-americans-agree">Gavin Newsom Bucks the CDC While Majority of Americans Agree</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"There is a way which seemeth right unto a man, but the end thereof are the ways of death." — Proverbs 14:12</p>
+</blockquote>
+<p>When King Rehoboam inherited the throne of Israel, the people came to him and asked that he lighten the heavy yoke his father Solomon had placed upon them. Rehoboam consulted the elders, who advised him to serve the people. He rejected their counsel. He consulted his young advisors, who told him to make the yoke heavier. He followed the young men's advice, declared that his little finger was thicker than his father's loins, and promised to add scorpions to the whips.</p>
+<p>The kingdom split in two. Ten tribes departed under Jeroboam, and only Judah and Benjamin remained loyal to Rehoboam. The king who rejected the counsel of the wise and doubled down on tyranny lost the majority of his kingdom.</p>
+<p>As the Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a> reveals, the adversary's most effective disguise is the appearance of moral authority — the claim to be protecting the people while oppressing them, the insistence on following "the science" while suppressing the scientists who disagree.</p>
+<p>Gavin Newsom has chosen to defy the CDC's updated guidance. He has chosen to make the yoke heavier. And the majority of Americans have chosen the other path.</p>
+<hr>
+<h2 id="newsoms-defiance">Newsom's Defiance</h2>
+<p>California Governor Gavin Newsom announced that the state of California would not follow the CDC's updated guidance on COVID-19 vaccination and public health protocols. Instead, California would maintain its existing policies — policies that reflect the pre-reform CDC's recommendations and the pharmaceutical industry's preferred approach to public health.</p>
+<p>Newsom's defiance encompasses several specific policy areas:</p>
+<p><strong>Vaccination recommendations:</strong> While the reformed CDC has updated its guidance to reflect new safety data and risk-benefit analyses, California continues to follow the prior recommendations, maintaining aggressive vaccination promotion for all age groups.</p>
+<p><strong>School vaccination requirements:</strong> California maintains its stringent school-entry vaccination requirements, including provisions that were expanded during the COVID-19 pandemic.</p>
+<p><strong>Healthcare worker mandates:</strong> California continues to enforce vaccination requirements for healthcare workers in state-regulated facilities.</p>
+<p><strong>Public health messaging:</strong> California's Department of Public Health continues to promote COVID-19 vaccination using messaging that reflects the pre-reform CDC's positions, including characterizations of updated federal guidance as "politically motivated."</p>
+<h3 id="the-political-calculation">The Political Calculation</h3>
+<p>Newsom's defiance is, at its foundation, a political calculation. California's pharmaceutical industry — headquartered in the biotech corridors of San Francisco, San Diego, and Los Angeles — represents one of the state's largest economic sectors and one of the governor's most significant donor constituencies.</p>
+<p>Karen Kingston has documented in The Kingston Report (karenkingston.substack.com) that California's political leadership has the deepest financial ties to the pharmaceutical industry of any state government. "California is not defying the CDC to protect public health," Kingston has written. "It is defying the CDC to protect pharmaceutical revenue. The state's biotech industry — Gilead, Amgen, Genentech, Illumina, and dozens of smaller firms — depends on a regulatory environment that promotes pharmaceutical products without questioning their safety. Newsom's defiance is a service to his donors, not his constituents."</p>
+<hr>
+<h2 id="what-americans-actually-think">What Americans Actually Think</h2>
+<p>The most significant dimension of Newsom's defiance is that it contradicts the expressed views of the American public. Polling data consistently shows that the majority of Americans now support:</p>
+<p><strong>Reform of federal health agencies:</strong> Over 60% of Americans believe the CDC, FDA, and NIH need fundamental reform to address conflicts of interest and restore public trust.</p>
+<p><strong>Transparency in vaccine safety data:</strong> Over 70% of Americans believe that all clinical trial data for vaccines should be publicly available, including data that pharmaceutical companies have sought to keep confidential.</p>
+<p><strong>An end to vaccine mandates:</strong> Over 55% of Americans oppose government or employer vaccine mandates, a dramatic shift from the pandemic period when slim majorities supported them.</p>
+<p><strong>Investigation of COVID-19 origins:</strong> Over 65% of Americans believe the federal government should fully investigate the origins of COVID-19, including the possibility of a laboratory leak.</p>
+<p><strong>Accountability for pharmaceutical companies:</strong> Over 50% of Americans believe pharmaceutical companies should face legal accountability for COVID-19 vaccine injuries, including modification of the PREP Act liability shield.</p>
+<p>These numbers represent a seismic shift in American public opinion. During the height of the pandemic, the CDC was one of the most trusted institutions in American public life. Today, trust in the CDC has collapsed to historic lows — and the public overwhelmingly supports the reforms that Newsom opposes.</p>
+<hr>
+<h2 id="the-state-vs-federal-conflict">The State vs. Federal Conflict</h2>
+<p>Newsom's defiance sets up a constitutional conflict between state and federal health authority. Under the Tenth Amendment, states retain broad police powers over public health within their borders. However, the Supremacy Clause establishes that federal law — and the actions of federal agencies operating under federal statutory authority — supersedes conflicting state law.</p>
+<p>The resolution of this conflict depends on the specific mechanisms involved. The CDC's recommendations are not, in themselves, legally binding. They become binding when adopted by state legislatures, state health departments, or when tied to federal funding conditions. If the federal government conditions federal healthcare funding (Medicaid, Medicare, CHIP) on compliance with updated CDC guidance, California would face the choice between defiance and the loss of billions in federal healthcare dollars.</p>
+<p>The track <a href="https://zzzdaily.zzzdaily.com/tracks/en/125-Illuminati_Founding_Fathers.mp4">Illuminati Founding Fathers</a> documents how the tension between federal and state power has been a feature of the American system since its inception — and how that tension has consistently been exploited by powerful interests to maintain control regardless of which level of government they operate through.</p>
+<hr>
+<h2 id="the-pharmakeia-state">The Pharmakeia State</h2>
+<p>California's relationship with the pharmaceutical industry transcends normal political donation and lobbying patterns. The state has become, in effect, a subsidiary of the pharmaceutical industry:</p>
+<p><strong>SB 277 (2015):</strong> California eliminated the personal belief exemption for childhood vaccination, becoming one of the strictest vaccination mandate states in the nation. The bill was championed by state senator Richard Pan, a physician who received significant campaign contributions from pharmaceutical companies.</p>
+<p><strong>AB 2098 (2022):</strong> California passed a law designating the dissemination of "misinformation" about COVID-19 by licensed physicians as "unprofessional conduct" subject to disciplinary action, including license revocation. The law was later blocked by a federal court as a likely First Amendment violation.</p>
+<p><strong>SB 866 (2022):</strong> California allowed minors aged 12 and older to consent to vaccination without parental permission, removing one of the last safeguards between pharmaceutical companies and children.</p>
+<p>Kingston has characterized California as the "Pharmakeia State" — a jurisdiction in which pharmaceutical industry interests have been so thoroughly embedded in the legislative, regulatory, and political infrastructure that the state government functions as a pharmaceutical enforcement mechanism rather than a public health authority.</p>
+<hr>
+<h2 id="the-prophetic-parallel">The Prophetic Parallel</h2>
+<blockquote>
+<p>"Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked." — Revelation 3:17</p>
+</blockquote>
+<p>The church at Laodicea believed it was prosperous and had need of nothing. Christ declared it wretched, miserable, poor, blind, and naked. The gap between self-perception and reality was total.</p>
+<p>California, under Newsom's leadership, presents itself as the nation's leader in science, public health, and progressive governance. But the reality is a state captured by pharmaceutical interests, governed by politicians funded by those interests, and enforcing policies that prioritize pharmaceutical revenue over the health and liberty of its citizens.</p>
+<p>The majority of Americans see this clearly. Newsom does not — or chooses not to.</p>
+<hr>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>
+<p>California Governor's Office — Policy announcements and executive actions</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Karen Kingston's analysis of California's pharmaceutical industry ties, legislative capture, and state-level policy analysis</p>
+</li>
+<li>
+<p>Polling data — Public opinion on CDC reform, vaccine mandates, and pharmaceutical accountability</p>
+</li>
+<li>
+<p>SB 277, AB 2098, SB 866 — California Legislature records</p>
+</li>
+<li>
+<p>Proverbs 14:12, Revelation 3:17 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/125-Illuminati_Founding_Fathers.mp4">Illuminati Founding Fathers</a> — Power structures exploiting federal-state tensions</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — State-level compliance with the pharmaceutical beast system</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/91-The_Kinsey_Corruption.mp4">The Kinsey Corruption</a> — How corrupted science becomes state policy</li>
+</ul>
+<p>From the Confliction album (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/09-Satans_Disguise.mp4">Satan's Disguise</a> — Moral authority as the adversary's most effective mask</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — Leaders who claim to protect while they exploit</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/rfk-cleans-house-cdc/?lang=en">RFK Jr. Cleans House at the CDC</a> — The federal reforms Newsom opposes</li>
+<li><a href="/cdc-gone-media-exodus/?lang=en">The CDC is Gone: Media Reports Mass Exodus</a> — The institutional transformation Newsom seeks to reverse</li>
+<li><a href="/florida-ends-vaccine-mandates/?lang=en">Florida Surgeon General Announces End to ALL Vaccine Mandates</a> — The opposite approach to state-level health policy</li>
+<li><a href="/cdc-updates-childhood-vaccine-reimbursement/?lang=en">CDC Updates Government Reimbursement for Childhood Vaccines</a> — The financial mechanisms driving vaccination policy</li>
+</ul>
+<hr>
+<p><em>Gavin Newsom has chosen to defy the CDC's reforms, clinging to the pharmaceutical industry's preferred policies while the majority of Americans move in the opposite direction. Rehoboam made the same choice — he doubled down on the heavy yoke while the people cried for relief. The result was a divided kingdom. California, under Newsom's pharmaceutical governance, is becoming a kingdom unto itself — rich in biotech revenue, poor in public trust, and blind to the reckoning that approaches. "Pride goeth before destruction, and an haughty spirit before a fall" (Proverbs 16:18). The polls have spoken. The people have moved. Whether California moves with them or falls alone is Newsom's choice — and his consequence.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Gavin Newsom Bucks the CDC While Majority of Americans Agree"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"California Governor Gavin Newsom defies updated CDC guidance as polling shows the majority of Americans support the agency's reform under new federal leadership."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-15T10:00:00Z","children":"May 15, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Gavin-Newsom",{"href":"/en/tag/Gavin-Newsom/","className":"tag-pill","children":["#","Gavin-Newsom"]}],["$","a","CDC",{"href":"/en/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","California",{"href":"/en/tag/California/","className":"tag-pill","children":["#","California"]}],["$","a","public-opinion",{"href":"/en/tag/public-opinion/","className":"tag-pill","children":["#","public-opinion"]}],["$","a","health-policy",{"href":"/en/tag/health-policy/","className":"tag-pill","children":["#","health-policy"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/newsom-bucks-cdc-americans/","title":"Gavin Newsom Bucks the CDC While Majority of Americans Agree"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/newsom-bucks-cdc-americans/","title":"Gavin Newsom Bucks the CDC While Majority of Americans Agree"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Gavin Newsom Bucks the CDC While Majority of Americans Agree | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"California Governor Gavin Newsom defies updated CDC guidance as polling shows the majority of Americans support the agency's reform under new federal leadership."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Gavin-Newsom, CDC, California, public-opinion, health-policy"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/newsom-bucks-cdc-americans/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/newsom-bucks-cdc-americans/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/newsom-bucks-cdc-americans/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/newsom-bucks-cdc-americans/"}],["$","meta","10",{"property":"og:title","content":"Gavin Newsom Bucks the CDC While Majority of Americans Agree"}],["$","meta","11",{"property":"og:description","content":"California Governor Gavin Newsom defies updated CDC guidance as polling shows the majority of Americans support the agency's reform under new federal leadership."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/newsom-bucks-cdc-americans/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/newsom-bucks-cdc-americans.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Gavin Newsom Bucks the CDC While Majority of Americans Agree"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Gavin Newsom Bucks the CDC While Majority of Americans Agree"}],["$","meta","25",{"name":"twitter:description","content":"California Governor Gavin Newsom defies updated CDC guidance as polling shows the majority of Americans support the agency's reform under new federal leadership."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/newsom-bucks-cdc-americans.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

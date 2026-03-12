@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","nanopass-fda-approved-investment",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","nanopass-fda-approved-investment","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","nanopass-fda-approved-investment","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3719,<h1 id="awz-capital-intelligence-investment-in-fda-approved-nanopass">AWZ Capital Intelligence Investment In FDA-Approved NanoPass</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows." -- 1 Timothy 6:10</p>
+</blockquote>
+<p>The nanotechnology agenda is not only a technological project and a military operation -- it is an investment opportunity. Behind every injectable nanotechnology platform, every biosensor system, and every human augmentation technology stands a financial architecture that channels capital from investors to developers to deployers. The money trail reveals the true priorities: not health, not safety, not human welfare, but return on investment from the technological colonization of the human body.</p>
+<p>AWZ Capital's investment in NanoPass Technology -- an FDA-approved microneedle delivery platform -- opens a window into this financial architecture. It reveals how intelligence-connected capital funds the development of nanotechnology delivery systems that bypass traditional injection methods, creating pathways for nanotechnology deployment that are painless, unobtrusive, and ultimately invisible.</p>
+<p>As <a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> from the Confliction album warns, deception follows the money. And as <a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> declares, every violation of sacred boundaries has a price -- and someone is always willing to pay it.</p>
+<hr>
+<h2 id="nanopass-technology">NanoPass Technology</h2>
+<h3 id="what-is-nanopass">What Is NanoPass?</h3>
+<p>NanoPass Technology Ltd. is an Israeli biotechnology company that has developed the MicroPyramid platform -- a microneedle-based drug delivery system that uses arrays of microscopic needles to deliver pharmaceutical agents through the skin without the pain or invasiveness of traditional hypodermic injection.</p>
+<p>The MicroPyramid system features:</p>
+<ul>
+<li><strong>Arrays of microneedles</strong> -- tiny pyramidal structures (less than 1mm in height) that penetrate only the outermost layer of skin (stratum corneum) without reaching pain receptors</li>
+<li><strong>Painless delivery</strong> -- because the microneedles do not reach nerve endings, the patient feels no pain during administration</li>
+<li><strong>Self-administration capability</strong> -- the microneedle patch can be applied by the individual without medical training, eliminating the need for healthcare infrastructure</li>
+<li><strong>Stability at room temperature</strong> -- unlike conventional vaccines that require cold chain storage, microneedle-delivered products can be stored and distributed at ambient temperature</li>
+</ul>
+<p>The FDA approved NanoPass's MicroPyramid device for use with pharmaceutical products, establishing the regulatory pathway for microneedle delivery of vaccines, drugs, and -- critically -- nanotechnology.</p>
+<h3 id="the-delivery-advantage">The Delivery Advantage</h3>
+<p>Microneedle technology represents the next evolution of nanotechnology delivery. Compared to hypodermic injection:</p>
+<ul>
+<li><strong>No medical infrastructure required</strong> -- patches can be distributed through mail, retail, or community distribution without trained medical personnel</li>
+<li><strong>No visible injection site</strong> -- no needle mark, no bruise, no evidence of administration</li>
+<li><strong>Higher public acceptance</strong> -- needle phobia affects approximately 25% of the population; painless patches eliminate this barrier to adoption</li>
+<li><strong>Potential for covert delivery</strong> -- the painless, invisible nature of microneedle administration creates the possibility of delivery without the recipient's knowledge or active consent</li>
+<li><strong>Mass deployment capability</strong> -- patches can be manufactured, stored, and distributed at scale without cold chain infrastructure, enabling deployment to any population anywhere</li>
+</ul>
+<p>The transition from hypodermic needles to microneedle patches transforms nanotechnology delivery from a medical procedure requiring consent and infrastructure into a consumer product that can be distributed as easily as a Band-Aid.</p>
+<h2 id="the-investment-architecture">The Investment Architecture</h2>
+<h3 id="awz-capital">AWZ Capital</h3>
+<p>AWZ Capital is an investment firm with connections to intelligence and defense sectors. Its investment in NanoPass Technology signals the intelligence community's financial interest in next-generation nanotechnology delivery systems.</p>
+<p>The investment architecture surrounding nanotechnology delivery reveals a pattern:</p>
+<ul>
+<li><strong>Intelligence-connected capital</strong> funds the development of delivery technology</li>
+<li><strong>Military research agencies</strong> (DARPA, BARDA) provide grant funding for the underlying nanotechnology</li>
+<li><strong>Pharmaceutical companies</strong> commercialize the products using the delivery technology</li>
+<li><strong>Regulatory agencies</strong> (FDA) approve the delivery platforms, establishing legal authorization</li>
+<li><strong>Government procurement</strong> purchases the products for mass distribution</li>
+</ul>
+<p>This pipeline -- from intelligence capital to military research to pharmaceutical production to regulatory approval to government procurement -- is the institutional mechanism through which nanotechnology is developed, authorized, and deployed to the population. Every dollar invested by AWZ Capital in NanoPass flows through this pipeline toward the human body.</p>
+<p>Ana Mihalcea, MD, PhD, has documented on her Substack (anamihalceamdphd.substack.com) the financial connections between intelligence-linked investment firms and nanotechnology companies, revealing the economic incentive structure that drives the deployment of injectable nanotechnology. Dr. Mihalcea argues that the financial returns from nanotechnology deployment -- including patents on biosensor data, health monitoring services, and augmentation products -- create an investment thesis that makes the technological colonization of the human body one of the most profitable ventures in history.</p>
+<h3 id="the-patent-portfolio">The Patent Portfolio</h3>
+<p>NanoPass holds an extensive patent portfolio covering microneedle design, manufacturing, and application. These patents create a legal monopoly on certain approaches to painless nanotechnology delivery, ensuring that AWZ Capital and other investors can capture the economic value of the delivery platform.</p>
+<p>The patent system -- originally designed to incentivize innovation -- has become the legal infrastructure for privatizing access to the human body. Patents on delivery technology create property rights over the mechanism of injection. Patents on nanotechnology create property rights over the structures assembled inside the body. And patents on biosensor data create property rights over the information harvested from the body.</p>
+<p>The human body, through the patent system, is being converted from a temple of the Holy Spirit into a platform for proprietary technology owned by shareholders.</p>
+<h2 id="the-prophetic-connection">The Prophetic Connection</h2>
+<h3 id="the-mark-and-commerce">The Mark and Commerce</h3>
+<p>Revelation 13:17 describes a system in which "no man might buy or sell, save he that had the mark." The investment architecture surrounding nanotechnology delivery reveals the commercial dimension of the mark system. The mark is not merely a theological concept -- it is a business model.</p>
+<p>The investors funding nanotechnology delivery expect returns. Those returns come from:</p>
+<ul>
+<li>Licensing fees for delivery technology patents</li>
+<li>Sales of nanotechnology products delivered through the platform</li>
+<li>Data revenue from biosensor information harvested from recipients</li>
+<li>Subscription services for ongoing health monitoring and augmentation</li>
+<li>Economic participation fees in digital currency systems that require biometric verification</li>
+</ul>
+<p>The mark system of Revelation 13 is the most profitable business model in history: a technology that every person on earth must accept in order to participate in the economy, generating continuous revenue from every transaction, every biometric scan, and every data harvest. The investors funding NanoPass and similar technologies are not merely building products. They are building the economic infrastructure of the Beast system.</p>
+<p>The love of money truly is the root of all evil. And the evil now being deployed -- nanotechnology in the blood, biosensors in the body, microneedles in the skin -- is rooted in the profit motive of investors who see the human body as the next frontier of capital deployment.</p>
+<hr>
+<h3 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h3>
+<blockquote>
+<p><em>"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>The ancient warning of 1 Samuel 8 echoes through every government corridor today. When Israel demanded a king like the other nations, God warned them exactly what would happen — their sons taken for war, their daughters for service, their fields and vineyards seized, a tenth of everything confiscated. They chose human government over God's reign, and the tyranny followed exactly as promised. Nothing has changed. The modern political system is two wings of the same bird — left and right, Republican and Democrat — all serving the same hidden power structure. Voting for either side is choosing which wing flaps next while the bird flies in the same direction. The real power has never been on any ballot.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>NanoPass Technology Ltd., MicroPyramid platform documentation and FDA regulatory submissions</p>
+</li>
+<li>
+<p>AWZ Capital investment documentation and portfolio analysis</p>
+</li>
+<li>
+<p>Various microneedle technology patents and academic literature</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, financial architecture analysis</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/109-Biometric_Beast_System.mp4">Biometric Beast System</a> -- The economic infrastructure of biometric control</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> -- The nanoscale delivery system for the mark</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/171-Great_Reset_Rising.mp4">Great Reset Rising</a> -- The financial restructuring behind the technology</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/125-Illuminati_Founding_Fathers.mp4">Illuminati Founding Fathers</a> -- The hidden financial powers</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- Deception following the money</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/47-The_Transgression.mp4">The Transgression</a> -- Violation of sacred boundaries for profit</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/hhs-info-security-nanomedicine/?lang=en">HHS Office of Information Security and Nanomedicine Connection</a> -- The government's role in nanomedicine deployment</li>
+<li><a href="/european-commission-self-amplifying/?lang=en">European Commission Approves Self-Amplifying mRNA Technology</a> -- The regulatory expansion of delivery platforms</li>
+<li><a href="/us-transhumanist-party/?lang=en">The U.S. Transhumanist Party and Political Posthumanism</a> -- The political movement advancing the investment thesis</li>
+</ul>
+<hr>
+<p><em>The money trail leads through investment firms, through military research, through pharmaceutical production, through regulatory approval, and into the human body. Every dollar invested in nanotechnology delivery is a dollar invested in the colonization of human biology. The investors expect returns. The returns come from the body -- from the data it generates, the products it consumes, the economic participation it enables. The love of money has pierced the temple of the Holy Spirit with microneedles and filled it with proprietary technology. But the God who overturned the money changers' tables in the temple of Jerusalem will overturn the financial architecture that has turned the human body into a profit center. The investors may calculate their returns, but God calculates His judgment.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"AWZ Capital Intelligence Investment In FDA-Approved NanoPass"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"AWZ Capital's investment in FDA-approved NanoPass microneedle technology reveals the financial pipeline funding next-generation nanotechnology delivery systems."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-26T10:00:00Z","children":"March 26, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","nanopass",{"href":"/en/tag/nanopass/","className":"tag-pill","children":["#","nanopass"]}],["$","a","fda",{"href":"/en/tag/fda/","className":"tag-pill","children":["#","fda"]}],["$","a","investment",{"href":"/en/tag/investment/","className":"tag-pill","children":["#","investment"]}],["$","a","microneedle",{"href":"/en/tag/microneedle/","className":"tag-pill","children":["#","microneedle"]}],["$","a","nanotechnology",{"href":"/en/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/nanopass-fda-approved-investment/","title":"AWZ Capital Intelligence Investment In FDA-Approved NanoPass"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/nanopass-fda-approved-investment/","title":"AWZ Capital Intelligence Investment In FDA-Approved NanoPass"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"AWZ Capital Intelligence Investment In FDA-Approved NanoPass | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"AWZ Capital's investment in FDA-approved NanoPass microneedle technology reveals the financial pipeline funding next-generation nanotechnology delivery systems."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"nanopass, fda, investment, microneedle, nanotechnology"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/nanopass-fda-approved-investment/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/nanopass-fda-approved-investment/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/nanopass-fda-approved-investment/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/nanopass-fda-approved-investment/"}],["$","meta","10",{"property":"og:title","content":"AWZ Capital Intelligence Investment In FDA-Approved NanoPass"}],["$","meta","11",{"property":"og:description","content":"AWZ Capital's investment in FDA-approved NanoPass microneedle technology reveals the financial pipeline funding next-generation nanotechnology delivery systems."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/nanopass-fda-approved-investment/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/nanopass-fda-approved-investment.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"AWZ Capital Intelligence Investment In FDA-Approved NanoPass"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"AWZ Capital Intelligence Investment In FDA-Approved NanoPass"}],["$","meta","25",{"name":"twitter:description","content":"AWZ Capital's investment in FDA-approved NanoPass microneedle technology reveals the financial pipeline funding next-generation nanotechnology delivery systems."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/nanopass-fda-approved-investment.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

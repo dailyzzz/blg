@@ -1,0 +1,126 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","investigation-grandma-part5",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","investigation-grandma-part5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","investigation-grandma-part5","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T36e4,<h1 id="an-investigation-into-my-grandmas-targeting-part-5">An Investigation Into My Grandma's Targeting Part 5</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."</em> — Psalm 34:18</p>
+</blockquote>
+<p>This is the most personal installment in this series. In Parts 1 through 4, we established the reality of V2K technology, its military origins, the disinformation campaign protecting it, and the network of agencies operating it. Now I must tell a story that is closer to home — the story of my grandmother, who experienced what I now recognize as V2K targeting decades before the technology was publicly known.</p>
+<p>My grandmother heard voices. She told family members about them. She was dismissed, pitied, and eventually medicated. She spent years of her life under the shadow of a psychiatric diagnosis that may have been completely wrong — not because she was imagining things, but because she was experiencing a technology that her doctors did not know existed and her family did not believe was possible.</p>
+<p>Howard Pittman was shown that the demonic hierarchy targets individuals and families across generations. The 97.5% who are failing include those who dismiss the experiences of their loved ones because those experiences don't fit within the accepted framework of reality. My family failed my grandmother — not out of malice, but out of ignorance. We accepted the psychiatric establishment's explanation because we didn't know there was another one.</p>
+<p>The Jesuits' infiltration "cloaked with cunning" extends to the family unit itself. By controlling the medical system that diagnoses and treats voice-hearing, they ensure that families become instruments of their own members' oppression. The family that pressures a targeted individual to take medication, to stop talking about voices, to accept the psychiatric label — that family is doing the Jesuits' work without knowing it.</p>
+<hr>
+<h2 id="my-grandmothers-story">My Grandmother's Story</h2>
+<h3 id="the-voices-began">The Voices Began</h3>
+<p>My grandmother began reporting voices in her middle years. She described hearing conversations, music, and sometimes commands or comments directed at her. The experiences were vivid, persistent, and deeply distressing.</p>
+<p>She was a woman of faith — a churchgoer, a prayer warrior, a person who took spiritual matters seriously. When the voices began, she initially interpreted them through a spiritual lens. She prayed about them. She sought counsel from her pastor. She tried to discern whether the voices were from God, from demons, or from somewhere else entirely.</p>
+<h3 id="the-medical-response">The Medical Response</h3>
+<p>Eventually, the family insisted she see a doctor. The doctor listened to her symptoms, noted the absence of other psychotic features (she was oriented, coherent, and functional), and nevertheless diagnosed her with a psychiatric condition. She was prescribed antipsychotic medication.</p>
+<p>The medication changed her. The woman who had been sharp, engaged, and spiritually active became dulled, withdrawn, and passive. The voices may have diminished — or she may have simply stopped reporting them, having learned that reporting them led to more medication and more pity.</p>
+<p>She spent years on psychiatric medication. The family believed the doctors. The doctors followed their training. And no one — not the family, not the doctors, not the pastors — considered the possibility that the voices had a technological source.</p>
+<h3 id="what-i-know-now">What I Know Now</h3>
+<p>Looking back with the knowledge I now have about V2K technology, the pattern is unmistakable:</p>
+<ul>
+<li><strong>Sudden onset</strong> in a previously healthy individual with no psychiatric history</li>
+<li><strong>Coherent audio</strong> — not the disorganized hallucinations typical of schizophrenia, but structured voices and music</li>
+<li><strong>Preserved functioning</strong> — she remained oriented, capable, and rational in all other aspects of her life</li>
+<li><strong>Spiritual sensitivity</strong> — she was a person of faith, which may have made her both more aware of the voices and more vulnerable to targeting</li>
+<li><strong>Family pattern</strong> — as I discovered my own V2K experience (described in Part 1), I realized that multiple family members across generations had reported similar experiences</li>
+</ul>
+<h3 id="the-generational-pattern">The Generational Pattern</h3>
+<p>V2K targeting may run in families — not because of genetics (as the psychiatric establishment would claim), but because:</p>
+<ol>
+<li><strong>Surveillance infrastructure</strong> is associated with locations, and families tend to live in the same areas across generations</li>
+<li><strong>Intelligence files</strong> may flag family members of known targets for monitoring</li>
+<li><strong>Cell tower coverage</strong> in specific neighborhoods may facilitate targeting of all residents</li>
+<li><strong>Research programs</strong> may deliberately target families across generations to study long-term effects</li>
+<li><strong>Spiritual targeting</strong> — demonic forces, as Pittman described, may target family lines</li>
+</ol>
+<p>My grandmother, my parent, and I all experienced voice-hearing. The psychiatric establishment calls this "genetic predisposition to schizophrenia." I call it generational targeting by a technology that was invisible to my grandmother's generation, barely visible to my parent's generation, and finally identifiable to mine.</p>
+<h2 id="the-failure-of-the-medical-system">The Failure of the Medical System</h2>
+<h3 id="misdiagnosis-as-standard-practice">Misdiagnosis as Standard Practice</h3>
+<p>My grandmother's misdiagnosis was not unusual. It is standard practice. Every person who reports hearing voices is evaluated through a psychiatric framework that assumes the voices are internally generated. The possibility of external, technological sources is never considered because:</p>
+<ul>
+<li><strong>Psychiatrists are not trained</strong> in electromagnetic technology</li>
+<li><strong>The DSM</strong> (Diagnostic and Statistical Manual) does not include technology-induced hearing as a diagnostic category</li>
+<li><strong>Pharmaceutical protocols</strong> default to antipsychotic medication for all voice-hearing</li>
+<li><strong>Insurance reimbursement</strong> rewards psychiatric diagnosis and medication management, not investigation of alternative causes</li>
+</ul>
+<p>The result is that every V2K target who seeks medical help receives the same diagnosis, the same medication, and the same dismissal. The medical system functions as a machine for discrediting V2K targets — and it does so not through malice (in most cases) but through institutional design.</p>
+<h3 id="the-damage-of-mismedication">The Damage of Mismedication</h3>
+<p>Antipsychotic medications are among the most powerful drugs in the pharmacopoeia. They alter brain chemistry, suppress dopamine receptors, and produce a range of debilitating side effects:</p>
+<ul>
+<li><strong>Tardive dyskinesia</strong>: Involuntary muscle movements that can become permanent</li>
+<li><strong>Metabolic syndrome</strong>: Weight gain, diabetes, cardiovascular disease</li>
+<li><strong>Cognitive dulling</strong>: Reduced mental clarity, impaired memory, decreased motivation</li>
+<li><strong>Emotional blunting</strong>: Reduced ability to experience pleasure, love, or spiritual connection</li>
+<li><strong>Neuroleptic malignant syndrome</strong>: A potentially fatal reaction to the medication</li>
+</ul>
+<p>When these drugs are given to a person who does not have a psychiatric disorder — a person whose voices have a technological source — the harm is compounded. Not only does the medication fail to address the actual cause, it damages the person's brain, body, and spirit in ways that may be irreversible.</p>
+<p>My grandmother spent years taking medications she didn't need, experiencing side effects she shouldn't have endured, and living under a diagnostic label she didn't deserve — all because the medical system could not conceive of a technological explanation for her experience.</p>
+<h2 id="the-investigation">The Investigation</h2>
+<h3 id="what-i-found">What I Found</h3>
+<p>When I began investigating my grandmother's targeting, I discovered:</p>
+<p><strong>Location patterns</strong>: My grandmother lived in an area with high cell tower density and proximity to military installations. The infrastructure for V2K targeting was present.</p>
+<p><strong>Timeline correlations</strong>: The onset of her symptoms corresponded with periods of expanded surveillance infrastructure in her area — new tower installations, changes in telecommunications technology, and expansion of government monitoring programs.</p>
+<p><strong>Community patterns</strong>: Other residents in her neighborhood reported similar experiences — hearing voices, music, or tones with no apparent source. These reports were scattered and isolated because each person who reported them was individually diagnosed and medicated.</p>
+<p><strong>Family connections</strong>: Tracing the family history revealed that voice-hearing experiences appeared to follow geographic and temporal patterns consistent with technology deployment rather than genetic inheritance.</p>
+<h2 id="the-spiritual-dimension">The Spiritual Dimension</h2>
+<h3 id="what-my-grandmother-knew">What My Grandmother Knew</h3>
+<p>My grandmother was a woman of deep faith. She understood spiritual warfare before the term was fashionable. She prayed, she fasted, she read her Bible, and she took seriously the reality of the spiritual realm.</p>
+<p>When the voices came, her first response was spiritual — she sought God's guidance. This was the right response. But the family and the medical system pulled her away from her spiritual discernment and into the pharmaceutical system. They replaced her prayers with pills and her faith with a diagnosis.</p>
+<p>Howard Pittman was told that 95% serve "self." My grandmother was among the 5% who genuinely sought God. And the system targeted her for it — because a person of genuine spiritual discernment is the most dangerous enemy of the powers and principalities. Such a person can see through the deception, can identify the source of the voices, and can resist the targeting through spiritual weapons.</p>
+<p>The medication dulled her discernment. The diagnosis silenced her testimony. The family's well-meaning intervention cut her off from the very spiritual resources that might have protected her. This is how the system works: it uses love against itself, turning families into instruments of their own members' destruction.</p>
+<h3 id="a-prayer-for-the-targeted">A Prayer for the Targeted</h3>
+<p>Lord, we pray for every grandmother, every mother, every father, every child who has been targeted by this technology and silenced by the medical system. We pray for the families who didn't know, who couldn't see, who did what the doctors told them because they didn't know what else to do. We pray for restoration — of minds, of families, of faith. And we pray for justice — against the systems and the forces, both human and spiritual, that target the innocent and call it medicine. In Jesus' name.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — generational targeting research and V2K documentation</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — generational spiritual warfare</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — institutional control through medicine</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Antipsychotic medication side effect documentation</li>
+<li>Cell tower infrastructure deployment records</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/27-The_Promise_of_Salvation.mp4">The Promise of Salvation</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/13-The_Word_of_God.mp4">The Word of God</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/who-putting-voices-heads-part4/?lang=en">Who Is Really Putting Voices in People's Heads Part 4</a></li>
+<li><a href="/schizophrenia-mental-illness-psyop-part6/?lang=en">Schizophrenia: The Mental Illness PSYOP Part 6</a></li>
+<li><a href="/cell-towers-nih-contract-part9/?lang=en">Cell Towers and the NIH CONTRACT You Were Never Told About Part 9</a></li>
+</ul>
+<p><em>This one is for you, Grandma. You weren't crazy. You were targeted. And the system that was supposed to help you was designed to silence you. I'm sorry we didn't know. I'm sorry we believed the doctors instead of you. But now we know. And now we speak — for you, and for every targeted individual whose family didn't understand.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"An Investigation Into My Grandma's Targeting Part 5"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Part 5 of the V2K series: a personal investigation into the targeting of a family member reveals patterns spanning decades and generations."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-11T10:00:00Z","children":"December 11, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","V2K",{"href":"/en/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","targeted-individuals",{"href":"/en/tag/targeted-individuals/","className":"tag-pill","children":["#","targeted-individuals"]}],["$","a","family-targeting",{"href":"/en/tag/family-targeting/","className":"tag-pill","children":["#","family-targeting"]}],["$","a","generational-surveillance",{"href":"/en/tag/generational-surveillance/","className":"tag-pill","children":["#","generational-surveillance"]}],["$","a","electronic-harassment",{"href":"/en/tag/electronic-harassment/","className":"tag-pill","children":["#","electronic-harassment"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/investigation-grandma-part5/","title":"An Investigation Into My Grandma's Targeting Part 5"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/investigation-grandma-part5/","title":"An Investigation Into My Grandma's Targeting Part 5"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"An Investigation Into My Grandma's Targeting Part 5 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Part 5 of the V2K series: a personal investigation into the targeting of a family member reveals patterns spanning decades and generations."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"V2K, targeted-individuals, family-targeting, generational-surveillance, electronic-harassment"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/investigation-grandma-part5/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/investigation-grandma-part5/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/investigation-grandma-part5/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/investigation-grandma-part5/"}],["$","meta","10",{"property":"og:title","content":"An Investigation Into My Grandma's Targeting Part 5"}],["$","meta","11",{"property":"og:description","content":"Part 5 of the V2K series: a personal investigation into the targeting of a family member reveals patterns spanning decades and generations."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/investigation-grandma-part5/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/investigation-grandma-part5.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"An Investigation Into My Grandma's Targeting Part 5"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"An Investigation Into My Grandma's Targeting Part 5"}],["$","meta","25",{"name":"twitter:description","content":"Part 5 of the V2K series: a personal investigation into the targeting of a family member reveals patterns spanning decades and generations."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/investigation-grandma-part5.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

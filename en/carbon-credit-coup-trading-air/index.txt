@@ -1,0 +1,170 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","carbon-credit-coup-trading-air",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","carbon-credit-coup-trading-air","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","carbon-credit-coup-trading-air","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3fd9,<h1 id="carbon-credit-coup-trading-the-air-you-breathe">Carbon Credit Coup: Trading the Air You Breathe</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"The earth is the LORD's, and the fulness thereof; the world, and they that dwell therein." — Psalm 24:1</p>
+</blockquote>
+<p>The earth belongs to its Creator. Not to corporations. Not to governments. Not to financial exchanges. Yet the carbon credit system represents the most audacious act of theft in human history — the privatization of the atmosphere itself.</p>
+<p>By creating a financial instrument that assigns monetary value to carbon dioxide emissions, the architects of this system have effectively claimed ownership over the air. Every breath you exhale contains carbon dioxide. Every fire you light, every mile you drive, every meal you cook — all produce the molecule they have decided to tax, trade, and control.</p>
+<p>This is not environmentalism. This is financialization of existence. The same institutions that have strip-mined the earth, polluted the oceans, and poisoned the food supply now claim moral authority to restrict your carbon output while trading carbon credits worth billions on exchanges they own. The Confliction album track <a href="https://confliction.zzzdaily.com/tracks/en/59-The_Deceivers_Lies.mp4">The Deceiver's Lies</a> captures this perfectly — the deceiver wraps his chains in the language of salvation, convincing the prisoner that the shackles are for their own protection.</p>
+<hr>
+<h2 id="the-origin-of-carbon-trading">The Origin of Carbon Trading</h2>
+<p>The concept of carbon trading emerged from the Kyoto Protocol of 1997, which established the first international framework for reducing greenhouse gas emissions through market mechanisms.</p>
+<p>The idea was deceptively simple: assign a measurable limit to carbon emissions, issue permits (credits) for the right to emit, and allow those permits to be traded on open markets.</p>
+<p>The intellectual architecture came from economists who believed that market mechanisms were more efficient than direct regulation. If a company could reduce emissions cheaply, it would do so and sell its surplus credits. If a company could not reduce emissions cheaply, it would buy credits from those who could.</p>
+<p>What actually happened was entirely different.</p>
+<p>Carbon trading created a new financial asset class — one that could be speculated upon, derivatives could be built around, and fortunes could be made without a single molecule of carbon dioxide being removed from the atmosphere.</p>
+<p>The carbon market became a casino, and the house always wins.</p>
+<p>The European Union Emissions Trading System (EU ETS), launched in 2005, became the world's largest carbon market. In its early years, it was plagued by:</p>
+<ul>
+<li>Fraud schemes worth billions of euros</li>
+<li>Dramatic price crashes</li>
+<li>Over-allocation of credits to polluting industries</li>
+<li>Companies receiving free credits, selling them for profit, and continuing to emit at the same levels</li>
+</ul>
+<p>Carbon traders made billions. Emissions barely moved. The planet saw no benefit. The financiers saw enormous profits.</p>
+<hr>
+<h2 id="the-trillion-dollar-market">The Trillion-Dollar Market</h2>
+<p>By 2023, the global carbon market was valued at approximately $950 billion and growing rapidly. Projections suggest it will exceed $2.4 trillion by 2027.</p>
+<p>This is not marginal economic activity. This is a new pillar of the global financial system, growing faster than any other asset class.</p>
+<p>The primary beneficiaries are not environmental organizations or communities affected by pollution. They are banks, hedge funds, and financial institutions:</p>
+<ul>
+<li><strong>Goldman Sachs</strong> — dedicated carbon trading desk</li>
+<li><strong>Morgan Stanley</strong> — major carbon market participant</li>
+<li><strong>JPMorgan Chase</strong> — carbon derivatives and trading operations</li>
+<li><strong>Barclays</strong> — carbon credit trading and advisory</li>
+</ul>
+<p>BlackRock — the world's largest asset manager — has positioned carbon as a core component of its investment strategy, as documented in <a href="/esg-scores-corporate-social-credit/?lang=en">ESG Scores: Corporate Social Credit by Another Name</a>.</p>
+<p>The voluntary carbon market — where companies and individuals purchase credits to "offset" their emissions — is even more opaque.</p>
+<p>Investigations by The Guardian, Bloomberg, and academic researchers have repeatedly found that the vast majority of carbon offset credits represent <strong>phantom reductions</strong>:</p>
+<ul>
+<li>A 2023 investigation found that more than <strong>90% of rainforest carbon offsets</strong> approved by Verra, the world's leading certifier, were worthless</li>
+<li>The trees that were supposedly saved were never in danger</li>
+<li>The emissions reductions that were claimed never materialized</li>
+<li>But the credits were sold, the money changed hands, and the system expanded</li>
+</ul>
+<hr>
+<h2 id="personal-carbon-allowances-the-individual-control-grid">Personal Carbon Allowances: The Individual Control Grid</h2>
+<p>The carbon credit system is not limited to corporations. The architecture for personal carbon allowances — individual carbon budgets assigned to every citizen — has been developed in academic papers, government reports, and policy proposals for over two decades.</p>
+<p>The concept is straightforward:</p>
+<ol>
+<li>Every person is allocated a fixed amount of carbon credits per year</li>
+<li>Every purchase, every trip, every energy use deducts from that allowance</li>
+<li>When your allowance is exhausted, you must either stop consuming or purchase additional credits</li>
+</ol>
+<p>A 2021 paper published in Nature Sustainability explicitly called for personal carbon allowances as a tool for managing climate change. The paper acknowledged that previous attempts had been politically unfeasible but argued that technological developments — particularly smartphone tracking, digital payments, and AI — had made them practical.</p>
+<p>The World Economic Forum has published multiple proposals for individual carbon tracking. In 2022, Alibaba president J. Michael Evans announced at Davos that the company was developing an "individual carbon footprint tracker" to monitor:</p>
+<ul>
+<li>What you eat</li>
+<li>How you travel</li>
+<li>What you buy</li>
+<li>How much energy you consume</li>
+</ul>
+<p>When combined with Central Bank Digital Currencies — as explored in <a href="/cbdc-chains-programmable-money/?lang=en">CBDC Chains: The Programmable Money That Controls You</a> — personal carbon allowances become enforceable at the point of sale. Your CBDC wallet can be programmed to reject transactions that exceed your carbon budget.</p>
+<p>No legislation is required. No police enforcement is needed. The money itself becomes the enforcement mechanism.</p>
+<hr>
+<h2 id="the-carbon-tax-taxation-without-representation">The Carbon Tax: Taxation Without Representation</h2>
+<p>Carbon taxes represent the most direct implementation of the carbon control agenda. Unlike cap-and-trade systems that create markets, carbon taxes simply impose a cost on every unit of carbon dioxide emitted.</p>
+<p>Over 40 countries and numerous subnational jurisdictions have implemented some form of carbon pricing.</p>
+<p>The economic impact falls disproportionately on the poor:</p>
+<ul>
+<li>Carbon taxes increase the cost of <strong>energy, transportation, heating, and food</strong></li>
+<li>These are basic necessities that consume a larger percentage of income for lower-income households</li>
+<li>While the wealthy can absorb a $50-per-ton carbon price without lifestyle changes, the working class cannot</li>
+</ul>
+<p>Carbon taxation is, in practice, a regressive tax that punishes poverty while inconveniencing wealth.</p>
+<p>The revenues from carbon taxes rarely flow to environmental remediation. They flow to:</p>
+<ul>
+<li>Government general funds</li>
+<li>Subsidies for industries favored by policy makers</li>
+<li>The administrative apparatus that manages the carbon system itself</li>
+</ul>
+<p>The tax creates a permanent revenue stream that governments become dependent upon — meaning they have a financial incentive to <strong>maintain</strong> the carbon problem rather than solve it. If carbon emissions actually reached zero, the revenue would disappear.</p>
+<p>Canada's carbon tax has been particularly revealing. Despite government claims that the tax would be "revenue neutral" with rebates returned to citizens, analysis has consistently shown that the economic costs exceed the rebates for most households.</p>
+<p>The tax has driven up costs for food, fuel, and heating while producing negligible measurable impact on national emissions.</p>
+<hr>
+<h2 id="who-benefits-follow-the-money">Who Benefits: Follow the Money</h2>
+<p>The beneficiaries of the carbon credit system are not difficult to identify. They are the same institutions that benefit from every financialized control system:</p>
+<p><strong>Investment banks</strong> profit from trading carbon credits, structuring carbon derivatives, and advising companies on carbon strategy. Carbon trading desks have become significant profit centers.</p>
+<p><strong>Asset managers</strong> like BlackRock and Vanguard use carbon metrics to steer capital flows, rewarding compliant companies and punishing non-compliant ones — as detailed in <a href="/esg-scores-corporate-social-credit/?lang=en">ESG Scores: Corporate Social Credit by Another Name</a>.</p>
+<p><strong>Technology companies</strong> profit from the monitoring, tracking, and verification infrastructure that carbon markets require — satellite monitoring, blockchain verification, IoT sensors, and AI analysis.</p>
+<p><strong>Carbon offset developers</strong> profit from creating credits — often of dubious value — that are sold to corporations and individuals seeking to buy their way out of emissions guilt.</p>
+<p>The offset market is essentially an <strong>indulgence system</strong>: pay money, receive absolution, change nothing.</p>
+<p><strong>Governments</strong> profit from carbon tax revenues and from the regulatory authority that carbon control provides. The ability to regulate carbon is the ability to regulate all human activity, since virtually all activity produces carbon emissions.</p>
+<p>The people who do not benefit are ordinary citizens, who pay higher prices for energy, food, and transportation while watching their freedoms constrained by a system that enriches the already wealthy.</p>
+<hr>
+<h2 id="the-great-reset-connection">The Great Reset Connection</h2>
+<p>The carbon credit system is a core component of the Great Reset agenda promoted by the World Economic Forum, as explored in <a href="/great-reset-fourth-industrial-revolution/?lang=en">The Great Reset: The Fourth Industrial Revolution</a>.</p>
+<p>Klaus Schwab's vision of "stakeholder capitalism" explicitly incorporates carbon metrics as a fundamental measure of economic activity.</p>
+<p>The WEF's "Net Zero" agenda — reaching zero net carbon emissions by 2050 — requires the complete restructuring of the global economy:</p>
+<ul>
+<li>Every industry must be brought within the carbon accounting framework</li>
+<li>Every supply chain must be carbon-audited</li>
+<li>Every household must be carbon-tracked</li>
+</ul>
+<p>This restructuring shifts economic power from producers and consumers to the institutions that define, measure, and enforce carbon compliance.</p>
+<p>The phrase "Build Back Better," adopted by governments worldwide during the COVID-19 pandemic, was explicitly linked to climate objectives. The pandemic was described as an "opportunity" to restructure economies along carbon-neutral lines.</p>
+<p>The crisis became the catalyst. The carbon system became the architecture of the "new normal."</p>
+<hr>
+<h2 id="the-fraud-at-scale">The Fraud at Scale</h2>
+<p>Multiple investigations have documented systemic fraud in carbon markets:</p>
+<p><strong>EU ETS Carousel Fraud.</strong> Criminals exploited VAT tax rules to steal an estimated <strong>5 billion euros</strong> from European governments through carbon credit trading.</p>
+<p><strong>Clean Development Mechanism (CDM).</strong> Thousands of projects in developing countries claimed to reduce emissions. Investigations found that many were business-as-usual activities repackaged as emission reductions. The credits were real. The reductions were imaginary.</p>
+<p><strong>Voluntary Market.</strong> Carbon offset certification has been described by researchers as "largely a fiction." Companies like Disney, Shell, and Gucci purchased offsets to claim carbon neutrality while their actual emissions continued unchanged.</p>
+<p>The entire carbon trading system is, at its foundation, a mechanism for <strong>selling permission to pollute</strong>. It does not reduce pollution. It monetizes it.</p>
+<p>It creates a marketplace where the right to emit carbon dioxide — a byproduct of virtually all human activity — becomes a commodity owned, traded, and controlled by financial institutions.</p>
+<hr>
+<h2 id="biblical-reflection">Biblical Reflection</h2>
+<blockquote>
+<p>"Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!" — Isaiah 5:8</p>
+</blockquote>
+<p>The prophet Isaiah warned of those who would accumulate ownership of everything — land, resources, the very earth itself — until they alone controlled it all.</p>
+<p>The carbon credit system represents the ultimate extension of this ancient greed: the privatization of the atmosphere. When you can own the right to emit a molecule that every living creature exhales, you have claimed ownership over life itself.</p>
+<p>The earth belongs to the Lord, not to carbon exchanges. The air belongs to the Creator, not to Goldman Sachs. The attempt to financialize the atmosphere is not environmentalism — it is idolatry of the highest order, placing human financial systems in the position of God as arbiter of who may breathe freely and who must pay for the privilege.</p>
+<hr>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/163-Carbon_Credit_Coup.mp4">Carbon Credit Coup</a> — Trading the air you breathe</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/223-Sustainable_Development_Trap.mp4">Sustainable Development Trap</a> — The green agenda's hidden chains</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/esg-scores-corporate-social-credit/?lang=en">ESG Scores: Corporate Social Credit by Another Name</a> — How ESG metrics enforce carbon compliance through financial coercion</li>
+<li><a href="/great-reset-fourth-industrial-revolution/?lang=en">The Great Reset: The Fourth Industrial Revolution</a> — The broader agenda that carbon credits serve</li>
+</ul>
+<hr>
+<p><em>They have taken the air that God gave freely and turned it into a commodity. They have measured the breath of every creature and assigned it a price. They have built exchanges to trade permission to exhale and called it progress. But the earth is the Lord's, and its fullness thereof. No carbon credit can purchase what the Creator gave freely, and no trading desk can own what belongs to the One who formed the atmosphere with a word. The air you breathe is not theirs to sell. It never was.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/finance/","className":"category-badge","children":"finance"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Carbon Credit Coup: Trading the Air You Breathe"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Carbon credits are not about saving the planet. They are a financial instrument designed to commodify the air itself, creating a new asset class controlled by the same institutions that caused the environmental destruction they claim to be solving."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-01-23T10:00:00Z","children":"January 23, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","carbon-credits",{"href":"/en/tag/carbon-credits/","className":"tag-pill","children":["#","carbon-credits"]}],["$","a","climate",{"href":"/en/tag/climate/","className":"tag-pill","children":["#","climate"]}],["$","a","taxation",{"href":"/en/tag/taxation/","className":"tag-pill","children":["#","taxation"]}],["$","a","trading",{"href":"/en/tag/trading/","className":"tag-pill","children":["#","trading"]}],["$","a","control",{"href":"/en/tag/control/","className":"tag-pill","children":["#","control"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/carbon-credit-coup-trading-air/","title":"Carbon Credit Coup: Trading the Air You Breathe"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/carbon-credit-coup-trading-air/","title":"Carbon Credit Coup: Trading the Air You Breathe"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Carbon Credit Coup: Trading the Air You Breathe | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Carbon credits are not about saving the planet. They are a financial instrument designed to commodify the air itself, creating a new asset class controlled by the same institutions that caused the environmental destruction they claim to be solving."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"carbon-credits, climate, taxation, trading, control"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/carbon-credit-coup-trading-air/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/carbon-credit-coup-trading-air/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/carbon-credit-coup-trading-air/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/carbon-credit-coup-trading-air/"}],["$","meta","10",{"property":"og:title","content":"Carbon Credit Coup: Trading the Air You Breathe"}],["$","meta","11",{"property":"og:description","content":"Carbon credits are not about saving the planet. They are a financial instrument designed to commodify the air itself, creating a new asset class controlled by the same institutions that caused the environmental destruction they claim to be solving."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/carbon-credit-coup-trading-air/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/carbon-credit-coup-trading-air.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Carbon Credit Coup: Trading the Air You Breathe"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Carbon Credit Coup: Trading the Air You Breathe"}],["$","meta","25",{"name":"twitter:description","content":"Carbon credits are not about saving the planet. They are a financial instrument designed to commodify the air itself, creating a new asset class controlled by the same institutions that caused the environmental destruction they claim to be solving."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/carbon-credit-coup-trading-air.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

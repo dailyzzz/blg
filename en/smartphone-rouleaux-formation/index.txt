@@ -1,0 +1,172 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","smartphone-rouleaux-formation",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","smartphone-rouleaux-formation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","smartphone-rouleaux-formation","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T47e0,<h1 id="smart-phone-exposure-shows-rouleaux-formation-in-live-blood">Smart Phone Exposure Shows Rouleaux Formation in Live Blood</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"There is a way which seemeth right unto a man, but the end thereof are the ways of death." — Proverbs 14:12</p>
+</blockquote>
+<p>The smartphone seems right. It seems essential. It seems like the indispensable tool of modern life — a device so integrated into daily existence that its absence creates genuine distress. Billions of humans carry these devices against their bodies for sixteen or more hours per day, pressing them against their heads for calls, clutching them in their hands, storing them in pockets adjacent to reproductive organs. The device seems right. But the end thereof — as live blood analysis now demonstrates in real time — is damage to the blood itself.</p>
+<p>Under darkfield microscopy, researchers have documented a direct, immediate, and visible effect of smartphone radiation on human blood: rouleaux formation. Within minutes of smartphone exposure, red blood cells that were flowing freely and individually begin to stack together like coins in rolls — losing their individual mobility, reducing their oxygen-carrying surface area, and impairing the microcirculation that delivers life to every tissue in the body.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> speaks to revelation in darkness — and the revelation that the device in your pocket is destroying your blood in real time is a fire that burns comfortable illusions. <a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> warns of the trades the enemy offers — and the smartphone is perhaps the greatest exchange of all: total connectivity in return for biological damage, convenience in exchange for health.</p>
+<hr>
+<h2 id="what-is-rouleaux-formation">What Is Rouleaux Formation?</h2>
+<p>Rouleaux formation is a condition in which red blood cells aggregate into stacks — forming structures that look like rolls of coins when viewed under a microscope. The term comes from the French word for "rolls."</p>
+<h3 id="normal-red-blood-cell-behavior">Normal Red Blood Cell Behavior</h3>
+<p>In healthy blood, red blood cells (erythrocytes) flow as individual, free-moving cells. Each cell is a biconcave disc approximately 6-8 micrometers in diameter, with a negative electrical surface charge (zeta potential) that causes cells to repel each other — maintaining separation and ensuring that each cell moves independently through the bloodstream.</p>
+<p>This individual flow is essential for oxygen delivery. Each red blood cell carries hemoglobin molecules that bind oxygen in the lungs and release it in tissues. The biconcave shape maximizes surface area for gas exchange, and the individual flow ensures that cells can pass through the smallest capillaries — vessels so narrow that red blood cells must deform to squeeze through single-file.</p>
+<h3 id="what-happens-during-rouleaux-formation">What Happens During Rouleaux Formation</h3>
+<p>When the negative surface charge (zeta potential) of red blood cells is disrupted, the cells lose their mutual repulsion and begin to stick together, forming stacks. This aggregation:</p>
+<ul>
+<li><strong>Reduces total surface area</strong> available for oxygen exchange</li>
+<li><strong>Impairs microcirculation</strong> — stacked cells cannot pass through capillaries individually</li>
+<li><strong>Creates relative tissue hypoxia</strong> — reduced oxygen delivery to tissues</li>
+<li><strong>Increases blood viscosity</strong> — the blood becomes thicker and flows more slowly</li>
+<li><strong>Promotes microclot formation</strong> — aggregated cells create conditions favorable for anomalous clotting</li>
+</ul>
+<p>Rouleaux formation is associated with inflammatory conditions, certain cancers, diabetes, and — as research now demonstrates — electromagnetic radiation exposure.</p>
+<h2 id="the-experiment-smartphone-exposure-and-blood">The Experiment: Smartphone Exposure and Blood</h2>
+<p>The experimental protocol is straightforward and reproducible:</p>
+<ol>
+<li>Draw a live blood sample from a subject</li>
+<li>Examine the blood under darkfield microscopy to document baseline red blood cell morphology</li>
+<li>Have the subject hold a smartphone against their body (pocket, hand, or head) for a defined period (typically 10-30 minutes)</li>
+<li>Draw a second blood sample</li>
+<li>Examine the post-exposure sample under identical microscopy conditions</li>
+<li>Compare before and after</li>
+</ol>
+<h3 id="what-researchers-have-found">What Researchers Have Found</h3>
+<p>The results are consistent and dramatic:</p>
+<p><strong>Before smartphone exposure:</strong> Red blood cells appear as individual, well-separated cells with normal biconcave morphology. They move freely in the sample, maintaining individual separation due to intact zeta potential.</p>
+<p><strong>After smartphone exposure:</strong> Red blood cells display significant rouleaux formation — stacking into rolls of 5-20+ cells. Individual cell mobility is dramatically reduced. The blood appears visibly different even to untrained observers. The transformation occurs within minutes of exposure.</p>
+<p>Ana Mihalcea, MD, PhD has documented on her Substack (<a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a>) numerous before-and-after cases showing smartphone-induced rouleaux formation. Her work demonstrates that:</p>
+<ul>
+<li>The effect occurs rapidly — within 10-15 minutes of direct exposure</li>
+<li>The effect is dose-dependent — longer exposure produces more severe rouleaux</li>
+<li>The effect occurs with the phone in standby mode (not actively transmitting)</li>
+<li>The effect is more severe in individuals with higher nanotechnology contamination levels</li>
+<li>Wi-Fi exposure produces similar effects</li>
+</ul>
+<h3 id="the-nanotechnology-connection">The Nanotechnology Connection</h3>
+<p>The most significant finding in Dr. Mihalcea's work is the relationship between smartphone exposure and the self-assembling nanotechnology documented in blood. In individuals with high nanoparticle contamination:</p>
+<ul>
+<li>Smartphone exposure accelerates the self-assembly process</li>
+<li>Nanoparticles display more aggressive migration behavior during exposure</li>
+<li>Structure formation occurs more rapidly</li>
+<li>The combined effect of rouleaux formation and accelerated nanotech assembly produces more severe blood quality degradation than either factor alone</li>
+</ul>
+<p>This suggests that the self-assembling nanotechnology in blood is not only present but is electromagnetically activated — that the telecommunications infrastructure (4G, 5G, Wi-Fi) is not merely a communications system but a potential activation system for the nanotechnology already deployed in the blood supply.</p>
+<h2 id="the-electromagnetic-grid">The Electromagnetic Grid</h2>
+<p>The average person in the developed world is surrounded by electromagnetic radiation at all times:</p>
+<ul>
+<li><strong>Smartphones</strong> — carried on the body 16+ hours per day, emitting radiation in the 700 MHz to 6 GHz range (4G/LTE) and 24-39 GHz range (5G mmWave)</li>
+<li><strong>Wi-Fi routers</strong> — present in virtually every home, office, and public space, emitting at 2.4 GHz and 5 GHz continuously</li>
+<li><strong>Cell towers</strong> — irradiating populated areas with continuous RF coverage</li>
+<li><strong>Smart meters</strong> — installed on homes, emitting pulsed microwave radiation</li>
+<li><strong>Bluetooth devices</strong> — earbuds, watches, speakers, and other devices emitting at 2.4 GHz in close proximity to the body</li>
+<li><strong>5G small cells</strong> — being deployed on utility poles at intervals of every few hundred feet in urban areas</li>
+</ul>
+<p>The cumulative electromagnetic exposure in a modern environment is billions of times greater than the natural electromagnetic background in which the human body evolved and was designed to function.</p>
+<h3 id="the-5g-variable">The 5G Variable</h3>
+<p>The rollout of 5G infrastructure is particularly significant in the context of blood nanotechnology activation:</p>
+<ul>
+<li><strong>Higher frequencies</strong> (millimeter wave, 24-39 GHz) penetrate the body differently than lower frequencies, with most energy absorbed in the skin and superficial tissues — including the blood flowing through superficial vessels</li>
+<li><strong>Beam-forming technology</strong> concentrates electromagnetic energy in narrow beams directed at individual devices, creating localized high-intensity exposure</li>
+<li><strong>Dense infrastructure</strong> (small cells every few hundred feet) ensures that there is no gap in coverage — and therefore no gap in exposure</li>
+<li><strong>Higher data throughput</strong> means more electromagnetic energy transmitted per unit of time</li>
+</ul>
+<p>If the nanotechnology in blood is electromagnetically activated, then 5G infrastructure provides an unprecedented activation capability — targeted, continuous, and inescapable in urban environments.</p>
+<h2 id="the-firmament-and-the-electromagnetic-cage">The Firmament and the Electromagnetic Cage</h2>
+<p>The firmament described in Genesis 1 — the dome over the habitable world — is itself a boundary. Everything beneath it exists within an enclosed electromagnetic environment. The natural electromagnetic radiation of the sun, filtered through the firmament, provides the energy that sustains life. But the artificial electromagnetic radiation produced by human technology — or more precisely, by the technology designed by entities that operate through human instruments — creates an electromagnetic cage within the firmament.</p>
+<p>The fallen angels imprisoned under the dome do not merely observe. They engineer. The telecommunications grid — sold to humanity as connectivity, convenience, and progress — may serve a dual purpose: both communication and activation. If the blood of humanity is saturated with electromagnetically responsive nanotechnology, then the electromagnetic grid becomes the control system — the means by which the technology inside the blood is directed, organized, and activated.</p>
+<p>This is the mark of the Beast infrastructure. Revelation 13 describes a system that controls economic participation — "no man might buy or sell save he that had the mark." Such a system requires both internal technology (inside the body) and external infrastructure (in the environment) to function. The nanotechnology assembles inside. The electromagnetic grid activates outside. Together, they form the Beast system — a system being built in plain sight while the great delusion tells the world it is merely telecommunications.</p>
+<h2 id="the-spiritual-dimension-of-electromagnetic-control">The Spiritual Dimension of Electromagnetic Control</h2>
+<p>The smartphone is not merely a device. In the economy of spiritual warfare, it is a mechanism of both surveillance and biological control. The entities described in Ephesians 2:2 as the "prince of the power of the air" operate through the very medium that smartphones use to communicate — the air, the electromagnetic spectrum, the invisible waves that permeate every cubic meter of inhabited space beneath the firmament.</p>
+<p>The blood that carries the life of the flesh (Leviticus 17:11) is being directly affected by the electromagnetic emissions that saturate the air under the dome. The firmament — the impenetrable barrier of glass-like material described in Genesis 1 and Job 37 — ensures that all electromagnetic radiation remains within the enclosed system. Nothing escapes above the dome. Every signal broadcast, every Wi-Fi emission, every cellular transmission reverberates within the bounded space beneath the firmament, accumulating in intensity as infrastructure expands.</p>
+<p>The prince of the power of the air has literal dominion over the medium through which these signals travel. The practical outcome is clear: the air is weaponized, the blood is damaged, and the device that mediates the damage is held willingly — lovingly, even — by the very people it harms.</p>
+<p>This is the great exchange in its most personal form. Humanity trades biological health for digital connectivity. The device that connects you to every piece of information in the world simultaneously disconnects your red blood cells from each other, stacking them into rolls that cannot deliver oxygen to the tissues God designed them to serve. The connection to the digital world comes at the cost of disconnection within the biological world.</p>
+<h2 id="what-you-can-do">What You Can Do</h2>
+<h3 id="reduce-smartphone-exposure">Reduce Smartphone Exposure</h3>
+<ul>
+<li>Never carry a smartphone directly against the body — use a bag or place it on a surface</li>
+<li>Use speakerphone or wired earbuds (not wireless Bluetooth) for calls</li>
+<li>Enable airplane mode when the phone is not actively needed</li>
+<li>Do not sleep with a smartphone near your head</li>
+<li>Limit total daily phone use</li>
+</ul>
+<h3 id="reduce-overall-emf-exposure">Reduce Overall EMF Exposure</h3>
+<ul>
+<li>Turn off Wi-Fi routers at night</li>
+<li>Use wired Ethernet connections instead of Wi-Fi when possible</li>
+<li>Keep distance from smart meters</li>
+<li>Avoid wireless Bluetooth devices worn on the body (earbuds, watches)</li>
+<li>Spend time in nature, away from telecommunications infrastructure</li>
+</ul>
+<h3 id="support-blood-health">Support Blood Health</h3>
+<ul>
+<li>EDTA chelation to reduce metallic nanoparticle burden</li>
+<li>Grounding/earthing — direct skin contact with the earth's surface helps restore the body's natural electromagnetic charge</li>
+<li>Antioxidant support — vitamin C, glutathione, and selenium to address oxidative stress from EMF exposure</li>
+<li>Hydration with clean, filtered water</li>
+</ul>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>Ana Mihalcea, MD, PhD — Live blood analysis and EMF research: <a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a></li>
+<li>Pall ML. "Microwave frequency electromagnetic fields (EMFs) produce widespread neuropsychiatric effects." Journal of Chemical Neuroanatomy, 2016</li>
+<li>Havas M. "Radiation from wireless technology affects the blood, the heart, and the autonomic nervous system." Reviews on Environmental Health, 2013</li>
+<li>The Master's Voice Prophecy Blog: <a href="https://themastersvoice.wordpress.com">themastersvoice.wordpress.com</a></li>
+</ul>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a> — The electromagnetic signals detected from human bodies</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> — Nanotechnology activated by electromagnetic fields</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/37-Mesogen_Microchip.mp4">Mesogen Microchip</a> — Electromagnetic-responsive technology in the blood</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/61-Synthetic_Biology.mp4">Synthetic Biology</a> — The merging of synthetic technology with human biology</li>
+</ul>
+<p>From the Confliction album:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> — Truth illuminating what convenience has hidden</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/93-The_Great_Exchange.mp4">The Great Exchange</a> — The trade of health for connectivity</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/self-assembling-nanotech-live-blood/?lang=en">Self Assembling Nanotechnology Documented in Live Blood Analysis</a> — What EMF activation does to nanotechnology in blood</li>
+<li><a href="/darkfield-microscopy-self-assembly/?lang=en">Darkfield Microscopy Shows Self Assembly Nanotechnology in Human Blood</a> — The baseline blood contamination being activated</li>
+<li><a href="/vaccinated-amyloid-microclots/?lang=en">ALL C19 Vaccinated Have Amyloid Microclots in Their Blood</a> — How rouleaux and microclots combine to impair circulation</li>
+</ul>
+<hr>
+<p><em>The device in your pocket is destroying your blood. Not slowly, not theoretically, not in some distant future — right now, in real time, visible under the microscope. Within minutes of exposure, your red blood cells lose their individual freedom and stack into rolls that cannot deliver oxygen to the tissues God designed them to serve. The thing that seems right — the indispensable smartphone, the essential tool of modern life — is an instrument of biological damage operating through electromagnetic frequencies that the human body was never designed to endure. There is a way that seems right to a man. But the live blood analysis tells the truth that convenience conceals: the end thereof is the corruption of the river of life. Turn it off. Put it down. Your blood is not a battery, and your body is not an antenna. It is a temple, and the God who built it did not design it for irradiation.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Smart Phone Exposure Shows Rouleaux Formation in Live Blood"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Live blood analysis reveals smartphone radiation causes rouleaux formation, with red blood cells stacking abnormally after minutes of direct phone exposure."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-01T10:00:00Z","children":"March 1, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","smartphone",{"href":"/en/tag/smartphone/","className":"tag-pill","children":["#","smartphone"]}],["$","a","rouleaux-formation",{"href":"/en/tag/rouleaux-formation/","className":"tag-pill","children":["#","rouleaux-formation"]}],["$","a","emf-radiation",{"href":"/en/tag/emf-radiation/","className":"tag-pill","children":["#","emf-radiation"]}],["$","a","live-blood",{"href":"/en/tag/live-blood/","className":"tag-pill","children":["#","live-blood"]}],["$","a","electromagnetic",{"href":"/en/tag/electromagnetic/","className":"tag-pill","children":["#","electromagnetic"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/smartphone-rouleaux-formation/","title":"Smart Phone Exposure Shows Rouleaux Formation in Live Blood"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/smartphone-rouleaux-formation/","title":"Smart Phone Exposure Shows Rouleaux Formation in Live Blood"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Smart Phone Exposure Shows Rouleaux Formation in Live Blood | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Live blood analysis reveals smartphone radiation causes rouleaux formation, with red blood cells stacking abnormally after minutes of direct phone exposure."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"smartphone, rouleaux-formation, emf-radiation, live-blood, electromagnetic"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/smartphone-rouleaux-formation/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/smartphone-rouleaux-formation/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/smartphone-rouleaux-formation/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/smartphone-rouleaux-formation/"}],["$","meta","10",{"property":"og:title","content":"Smart Phone Exposure Shows Rouleaux Formation in Live Blood"}],["$","meta","11",{"property":"og:description","content":"Live blood analysis reveals smartphone radiation causes rouleaux formation, with red blood cells stacking abnormally after minutes of direct phone exposure."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/smartphone-rouleaux-formation/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/smartphone-rouleaux-formation.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Smart Phone Exposure Shows Rouleaux Formation in Live Blood"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Smart Phone Exposure Shows Rouleaux Formation in Live Blood"}],["$","meta","25",{"name":"twitter:description","content":"Live blood analysis reveals smartphone radiation causes rouleaux formation, with red blood cells stacking abnormally after minutes of direct phone exposure."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/smartphone-rouleaux-formation.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","garments-of-skin-blood-sacrifice",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","garments-of-skin-blood-sacrifice","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","garments-of-skin-blood-sacrifice","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4b84,<h1 id="garments-of-skin-the-first-blood-sacrifice">Garments of Skin: The First Blood Sacrifice</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p>"Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them." — Genesis 3:21</p>
+</blockquote>
+<p>One verse. Twenty words in English. Thirteen in Hebrew. Yet this single sentence contains the entire gospel in embryonic form. After the Fall, after the serpent's deception, after the forbidden fruit, after the shame and the hiding and the blame — God did something that Adam and Eve could not do for themselves. He killed an animal, took its skin, and clothed them.</p>
+<p>The fig leaves they had sewn were insufficient. Their own effort to cover their nakedness — their shame, their sin, their separation from God — was rejected. Not because fig leaves are intrinsically inadequate, but because self-covering is the wrong principle. Sin cannot be covered by the sinner's own effort. It can only be covered by a substitute — an innocent life given in place of the guilty. This is the principle of atonement, and it was established in the first act God performed after the Fall.</p>
+<p>The Confliction track <a href="https://confliction.zzzdaily.com/tracks/en/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> captures this moment in all its devastating tenderness. The God who created animals now kills one. The God who made Adam and Eve in perfect beauty now covers their corruption with bloody skins. The first death in the universe occurred not because of natural causes but because of sin — and God Himself performed it, establishing a principle that would govern all of redemptive history: without the shedding of blood, there is no remission of sins (Hebrews 9:22).</p>
+<hr>
+<h2 id="before-the-garments-the-fig-leaves">Before the Garments: The Fig Leaves</h2>
+<p>To understand what God did in Genesis 3:21, we must first understand what Adam and Eve tried to do in Genesis 3:7:</p>
+<blockquote>
+<p>"And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons."</p>
+</blockquote>
+<p>The first act of fallen humanity was self-covering. They recognized their nakedness — their exposure, their vulnerability, their shame — and they attempted to remedy it themselves. Fig leaves. Sewn together. An apron to hide what was now unbearable to reveal.</p>
+<p>This is the template for every human religion, every self-help philosophy, every moral improvement program, and every works-based salvation system in human history. Humanity recognizes its brokenness and attempts to fix it with its own resources. We sew fig leaves of good works, moral effort, religious ritual, philosophical sophistication, and spiritual practice — and we present ourselves to God dressed in our own achievements, hoping they will suffice.</p>
+<p>They never suffice.</p>
+<p>Fig leaves wither. They dry, crack, and crumble. They are temporary by nature — a covering that deteriorates with time. Every human effort to cover sin follows the same trajectory: initial confidence, gradual deterioration, eventual exposure. The alcoholic's promises. The addict's resolutions. The moralist's self-righteousness. The religious person's rituals. All fig leaves. All withering. All insufficient.</p>
+<p>God did not comment on the fig leaves. He did not critique them or improve them. He replaced them entirely with something of a completely different nature — garments made from the skin of a slain animal. The principle was not improvement but substitution. Not enhancement but replacement. Not the sinner's effort but the Creator's sacrifice.</p>
+<hr>
+<h2 id="the-first-death">The First Death</h2>
+<p>Before Genesis 3:21, death did not exist. God had created a world without death — a world where animals lived, where humans lived, where nothing died. The penalty for eating the forbidden fruit was clear: "in the day that thou eatest thereof thou shalt surely die" (Genesis 2:17). Adam and Eve ate. They did not physically die on that day — but something died. They died spiritually, separated from God, expelled from His presence.</p>
+<p>And then something died physically. An animal — unspecified in the text, but likely a lamb based on the later sacrificial system — was killed by God Himself. This animal had done nothing wrong. It had not sinned. It had not eaten forbidden fruit. It was innocent. And its innocent blood was shed so that its skin could cover the guilty.</p>
+<p>This was the first death in the history of creation. And it was performed by God Himself — not by Adam, not by Eve, not by an angel. God killed the animal. God shed the blood. God made the garments. God clothed the sinners.</p>
+<p>The theological implications are staggering:</p>
+<ol>
+<li>
+<p><strong>God initiates atonement.</strong> Humanity did not ask for the garments. God provided them unilaterally. Salvation is not a human idea. It is a divine initiative.</p>
+</li>
+<li>
+<p><strong>Innocent blood is required.</strong> The animal was innocent. The humans were guilty. The transfer of covering from the innocent to the guilty establishes the principle of substitutionary atonement — the foundation of the entire sacrificial system and, ultimately, of the Cross.</p>
+</li>
+<li>
+<p><strong>Self-effort is rejected.</strong> The fig leaves were replaced, not supplemented. God did not add animal skins over fig leaves. He removed the fig leaves and replaced them with skins. Grace does not improve human effort. It replaces it.</p>
+</li>
+<li>
+<p><strong>Death is the consequence of sin.</strong> The first death occurred because of sin. Every death since — human and animal — traces back to this moment. "The wages of sin is death" (Romans 6:23) was demonstrated before it was articulated.</p>
+</li>
+</ol>
+<hr>
+<h2 id="the-blood-principle">The Blood Principle</h2>
+<p>The garments of skin established the blood principle that runs through the entire Bible like a scarlet thread:</p>
+<p><strong>Abel's offering</strong> (Genesis 4:4) — Abel offered "the firstlings of his flock and of the fat thereof," and God had respect for his offering. He had learned the principle from Genesis 3:21: approach God through blood sacrifice, not through the works of your hands. Cain offered the fruit of his own labor — fig leaves in agricultural form — and was rejected.</p>
+<p><strong>Noah's altar</strong> (Genesis 8:20) — After the Flood, Noah's first act was to build an altar and offer burnt offerings. The blood principle survived the Flood because it was God's principle, not humanity's invention.</p>
+<p><strong>Abraham's covenant</strong> (Genesis 15:9-18) — God's covenant with Abraham was sealed by passing between divided animal carcasses. The covenant was cut — <em>karath berith</em> — in blood. Abraham provided the animals. God provided the fire. The covenant was God's initiative, sealed by blood, guaranteed by God's own passage through the sacrifice.</p>
+<p><strong>The Passover</strong> (Exodus 12) — Israel was delivered from Egypt by the blood of a lamb applied to the doorposts. "When I see the blood, I will pass over you" (Exodus 12:13). The blood was not optional. It was the difference between life and death.</p>
+<p><strong>The Levitical system</strong> (Leviticus 1-7, 16-17) — The entire sacrificial system prescribed by God through Moses was an elaborate expansion of the principle established in Genesis 3:21. Daily sacrifices. Sin offerings. Guilt offerings. Burnt offerings. Peace offerings. The Day of Atonement. All of it — millions of animals over fifteen centuries — pointed back to the first animal slain in Eden and forward to the final Lamb slain on Calvary.</p>
+<p><strong>Hebrews 9:22</strong> — "And almost all things are by the law purged with blood; and without shedding of blood is no remission."</p>
+<p>The blood principle is not arbitrary. It reflects a deep spiritual reality: life is in the blood (Leviticus 17:11), and the forfeiture of life (death) is the just consequence of sin. When innocent blood is shed on behalf of the guilty, the penalty is satisfied — not annulled, not ignored, but satisfied through substitution. The innocent dies so the guilty may live. This is not cruelty. This is justice tempered by mercy. And it was established in the very first act God performed after the Fall.</p>
+<hr>
+<h2 id="from-eden-to-calvary">From Eden to Calvary</h2>
+<p>The garments of skin in Genesis 3:21 are the beginning of a line that runs directly to the Cross. Every element of the Eden sacrifice finds its fulfillment in the sacrifice of Christ:</p>
+<table>
+<thead>
+<tr>
+<th>Eden (Genesis 3:21)</th>
+<th>Calvary (The Gospels)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>God kills an innocent animal</td>
+<td>God gives His innocent Son</td>
+</tr>
+<tr>
+<td>The animal's skin covers the sinner</td>
+<td>Christ's righteousness covers the believer</td>
+</tr>
+<tr>
+<td>Adam and Eve are clothed by God</td>
+<td>Believers are "clothed with Christ" (Galatians 3:27)</td>
+</tr>
+<tr>
+<td>The fig leaves of self-effort are removed</td>
+<td>Works-based righteousness is replaced by grace</td>
+</tr>
+<tr>
+<td>Blood is shed for the first time</td>
+<td>"The blood of Jesus Christ his Son cleanseth us from all sin" (1 John 1:7)</td>
+</tr>
+<tr>
+<td>One animal dies for two sinners</td>
+<td>One Lamb dies for the sins of the world</td>
+</tr>
+<tr>
+<td>God initiates the covering</td>
+<td>"God so loved the world that He gave" (John 3:16)</td>
+</tr>
+</tbody>
+</table>
+<p>The parallels are not coincidental. They are typological — a deliberate pattern established by God in Genesis and fulfilled by Christ. The garments of skin are the first gospel message: you cannot cover yourself; God must cover you; and the covering requires the death of an innocent substitute.</p>
+<p>Isaiah 61:10 makes the connection explicit: "I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness." The garments of salvation are not sewn by human hands. They are provided by God — purchased with blood, applied by grace, received by faith.</p>
+<hr>
+<h2 id="the-lamb-slain-from-the-foundation-of-the-world">The Lamb Slain From the Foundation of the World</h2>
+<blockquote>
+<p>"The Lamb slain from the foundation of the world." — Revelation 13:8</p>
+</blockquote>
+<p>This phrase reveals something extraordinary: in God's eternal plan, the sacrifice of Christ was determined before creation itself. God did not respond to the Fall with an improvised solution. He anticipated the Fall and prepared the remedy before the first atom was formed.</p>
+<p>The garments of skin in Eden were not a temporary fix. They were the first visible expression of an eternal plan. The lamb slain in Eden was a preview of the Lamb slain on Calvary — and both were determined "from the foundation of the world." God created the universe knowing that sin would enter, that death would result, that blood would be required, and that His own Son would provide the final sacrifice.</p>
+<p>This means that the Cross was not an afterthought. It was the plan. God did not create, watch things go wrong, and then scramble to fix them. He created with full knowledge of the Fall, the Flood, the exile, the Cross, the resurrection, and the restoration. Every animal sacrificed from Eden to the Temple was a rehearsal for the one sacrifice that would end all sacrifices.</p>
+<p>"For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us: Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others; For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself." — Hebrews 9:24-26</p>
+<hr>
+<h2 id="the-modern-fig-leaves">The Modern Fig Leaves</h2>
+<p>The principle of Genesis 3 is alive and active in the modern world. Humanity is still sewing fig leaves — still attempting to cover its nakedness through self-effort — and God is still rejecting them:</p>
+<p><strong>Moral relativism</strong> is a fig leaf. The claim that there is no absolute right and wrong is an attempt to eliminate the category of sin altogether. If there is no sin, there is no nakedness, and no covering is required. But the shame remains. The guilt remains. The sense of exposure remains. Renaming sin does not remove it.</p>
+<p><strong>Self-help and positive thinking</strong> are fig leaves. The billion-dollar industry of self-improvement promises that you can fix yourself through effort, mindset, and technique. But fallen human nature cannot be improved into righteousness. The fig leaf withers because the disease is not behavioral but spiritual.</p>
+<p><strong>Religious ritual without blood</strong> is a fig leaf. Many modern churches have removed the blood from their theology. They preach morality, community, self-actualization, and social justice — but not substitutionary atonement. They offer fig leaves and call them garments. But without the blood, there is no covering.</p>
+<p><strong>Transhumanism</strong> is the ultimate fig leaf. As explored in <a href="/ye-shall-be-as-gods-transhumanism/?lang=en">Ye Shall Be as Gods: The Ancient Lie Behind Transhumanism</a>, the promise of transcending human limitations through technology is the serpent's original promise in silicon form: "ye shall be as gods." It is the fig leaf of technology — the attempt to cover human mortality, human frailty, and human fallenness with artificial enhancement rather than divine redemption.</p>
+<p>Every human substitute for the blood of Christ is a fig leaf. And every fig leaf will wither.</p>
+<hr>
+<h2 id="the-scarlet-thread">The Scarlet Thread</h2>
+<p>The garments of skin in Genesis 3:21 begin a scarlet thread that runs through the entire Bible — visible in every major narrative, every covenant, every sacrifice, every prophecy:</p>
+<ul>
+<li><strong>Genesis 3:21</strong> — God clothes Adam and Eve in animal skins</li>
+<li><strong>Genesis 4:4</strong> — Abel offers a blood sacrifice accepted by God</li>
+<li><strong>Genesis 22:13</strong> — God provides a ram as a substitute for Isaac</li>
+<li><strong>Exodus 12:13</strong> — The Passover lamb's blood delivers Israel</li>
+<li><strong>Leviticus 16</strong> — The Day of Atonement scapegoat bears Israel's sins</li>
+<li><strong>Isaiah 53:7</strong> — "He is brought as a lamb to the slaughter"</li>
+<li><strong>John 1:29</strong> — "Behold the Lamb of God, which taketh away the sin of the world"</li>
+<li><strong>Hebrews 9:22</strong> — "Without shedding of blood is no remission"</li>
+<li><strong>Revelation 5:6</strong> — The Lamb standing as though slain opens the scroll of history</li>
+<li><strong>Revelation 7:14</strong> — The redeemed have "washed their robes, and made them white in the blood of the Lamb"</li>
+</ul>
+<p>From the first animal slain in Eden to the Lamb on the throne in Revelation, the blood principle is unbroken. The scarlet thread connects every book, every covenant, every era of biblical history. It is the central theme of Scripture — not an appendix, not a footnote, but the main plot. God covers sinners with the blood of the innocent. He always has. He always will. And the ultimate innocent — the Lamb slain from the foundation of the world — is Jesus Christ.</p>
+<hr>
+<h2 id="clothed-in-christ">Clothed in Christ</h2>
+<blockquote>
+<p>"For as many of you as have been baptized into Christ have put on Christ." — Galatians 3:27</p>
+</blockquote>
+<p>The garments of skin find their ultimate fulfillment not merely in the Cross but in the believer's union with Christ. To be "in Christ" is to be clothed in His righteousness — covered not with fig leaves of self-effort but with the garments that God Himself has provided through the blood of His Son.</p>
+<p>This covering is permanent. Fig leaves wither. Animal skins deteriorate. But the righteousness of Christ is eternal. "For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him" (2 Corinthians 5:21). The exchange is complete: our sin placed on Him, His righteousness placed on us. Our fig leaves removed, His garments applied. Our nakedness covered, not by what we have done, but by what He has done.</p>
+<p>The garments of skin in Genesis 3:21 are the first chapter of this story. The Cross is the climax. The white robes of Revelation 7:14 are the conclusion. And the God who killed the first animal in Eden to cover two sinners is the same God who gave His Son on Calvary to cover all who believe.</p>
+<hr>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<p>These tracks from ZZZ Daily explore the themes in this article:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/249-Wake_Up_And_Build.mp4">Wake Up And Build</a> — The ancient covenant pattern</li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/fallen-angels-book-of-enoch/?lang=en">Fallen Angels and the Book of Enoch: The Forbidden History</a> — The deeper history of the corruption that made the blood sacrifice necessary</li>
+<li><a href="/ye-shall-be-as-gods-transhumanism/?lang=en">Ye Shall Be as Gods: The Ancient Lie Behind Transhumanism</a> — The modern fig leaves of technological self-salvation</li>
+</ul>
+<hr>
+<p><em>In a garden, in the cool of the day, God killed an animal and clothed two sinners. It was the first death. The first blood. The first sacrifice. And it was God's own hands that performed it — the Creator becoming the first priest, the first to shed innocent blood for the guilty. The fig leaves lay discarded on the ground. The garments of skin covered what self-effort could not. And from that moment to this, the principle has never changed: you cannot cover yourself. Your best efforts wither. Your righteousness is filthy rags. But the Lamb was slain from the foundation of the world, and His blood covers everything the fig leaves cannot. Every religion, every philosophy, every self-help program that says "try harder" is sewing fig leaves. Only the blood of the Lamb provides garments that never decay, never fade, and never fail. The question is not whether you are naked. You are. The question is what you are wearing — your fig leaves or His garments.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/origins/","className":"category-badge","children":"origins"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Garments of Skin: The First Blood Sacrifice"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Genesis 3:21 records the moment God clothed Adam and Eve in animal skins — the first blood sacrifice in history. This act established the foundational principle that sin can only be covered by the shedding of innocent blood, pointing directly to the Cross."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-12T10:00:00Z","children":"February 12, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","garments-of-skin",{"href":"/en/tag/garments-of-skin/","className":"tag-pill","children":["#","garments-of-skin"]}],["$","a","blood-sacrifice",{"href":"/en/tag/blood-sacrifice/","className":"tag-pill","children":["#","blood-sacrifice"]}],["$","a","genesis",{"href":"/en/tag/genesis/","className":"tag-pill","children":["#","genesis"]}],["$","a","covenant",{"href":"/en/tag/covenant/","className":"tag-pill","children":["#","covenant"]}],["$","a","atonement",{"href":"/en/tag/atonement/","className":"tag-pill","children":["#","atonement"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/garments-of-skin-blood-sacrifice/","title":"Garments of Skin: The First Blood Sacrifice"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/garments-of-skin-blood-sacrifice/","title":"Garments of Skin: The First Blood Sacrifice"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Garments of Skin: The First Blood Sacrifice | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Genesis 3:21 records the moment God clothed Adam and Eve in animal skins — the first blood sacrifice in history. This act established the foundational principle that sin can only be covered by the shedding of innocent blood, pointing directly to the Cross."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"garments-of-skin, blood-sacrifice, genesis, covenant, atonement"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/garments-of-skin-blood-sacrifice/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/garments-of-skin-blood-sacrifice/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/garments-of-skin-blood-sacrifice/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/garments-of-skin-blood-sacrifice/"}],["$","meta","10",{"property":"og:title","content":"Garments of Skin: The First Blood Sacrifice"}],["$","meta","11",{"property":"og:description","content":"Genesis 3:21 records the moment God clothed Adam and Eve in animal skins — the first blood sacrifice in history. This act established the foundational principle that sin can only be covered by the shedding of innocent blood, pointing directly to the Cross."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/garments-of-skin-blood-sacrifice/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/garments-of-skin-blood-sacrifice.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Garments of Skin: The First Blood Sacrifice"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Garments of Skin: The First Blood Sacrifice"}],["$","meta","25",{"name":"twitter:description","content":"Genesis 3:21 records the moment God clothed Adam and Eve in animal skins — the first blood sacrifice in history. This act established the foundational principle that sin can only be covered by the shedding of innocent blood, pointing directly to the Cross."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/garments-of-skin-blood-sacrifice.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

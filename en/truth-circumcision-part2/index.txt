@@ -1,0 +1,165 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","en","truth-circumcision-part2",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":[["slug","truth-circumcision-part2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","truth-circumcision-part2","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T45ee,<h1 id="the-truth-about-circumcision-they-dont-want-you-to-know-part-2">The Truth About Circumcision They Don't Want You to Know Part 2</h1>
+<h2 id="the-ancient-pattern">The Ancient Pattern</h2>
+<blockquote>
+<p><em>"I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well."</em> — Psalm 139:14</p>
+</blockquote>
+<p>In Part 1, we examined the communist infiltration of American medicine and how circumcision became embedded in the medical system as a tool of ideological control. Now we go deeper — into the specific medical claims used to justify the procedure, the devastating psychological impact on circumcised males, and the institutional machinery that keeps this practice alive despite overwhelming evidence against it.</p>
+<p>Every claim used to justify routine infant circumcision has been debunked. Every European medical organization that has evaluated the practice has concluded it is not medically necessary. And yet it continues — because the forces that drive it are not medical but spiritual, ideological, and financial.</p>
+<p>Howard Pittman was shown during his NDE that the spiritual realm is the true reality and that the physical world is merely its shadow. The words spoken by medical authorities — "it's routine," "it's cleaner," "it prevents disease" — carry spiritual weight. They are incantations that override parental instinct, silence maternal intuition, and normalize the mutilation of God's creation. Pittman learned that 95% serve "self" rather than God, and the medical system that profits from infant circumcision serves self above all.</p>
+<p>The Jesuits' practice of "every species of vice" in service of their order, their infiltration "cloaked with cunning," their pursuit of what Napoleon called "absolute power" — all of these characteristics describe the circumcision industry with eerie precision. John Adams's warning about the "Society of Loyola's" deserving "eternal damnation" applies equally to institutions that profit from the suffering of newborns.</p>
+<hr>
+<h2 id="debunking-the-medical-claims">Debunking the Medical Claims</h2>
+<h3 id="claim-1-circumcision-prevents-penile-cancer">Claim 1: Circumcision Prevents Penile Cancer</h3>
+<p>This was one of the earliest medical justifications and is still cited today. The claim is that circumcision reduces the risk of penile cancer. Here are the facts:</p>
+<ul>
+<li>Penile cancer is <strong>extremely rare</strong> — it affects approximately 1 in 100,000 men annually in the United States</li>
+<li>The incidence of penile cancer in <strong>Denmark</strong> (where circumcision is virtually nonexistent) is <strong>lower</strong> than in the United States</li>
+<li>The American Cancer Society has stated that circumcision should <strong>not</strong> be recommended as a prevention strategy for penile cancer</li>
+<li>Risk factors for penile cancer include <strong>smoking, HPV infection, phimosis</strong> (which can be treated without circumcision), and <strong>poor hygiene</strong> — not the presence of a foreskin</li>
+</ul>
+<p>Using cancer prevention to justify routine infant surgery on a body part that develops cancer at a rate of 0.001% is like justifying the removal of all breast tissue from infant girls to prevent breast cancer — which has an incidence rate <strong>140 times higher</strong> than penile cancer.</p>
+<h3 id="claim-2-circumcision-prevents-utis">Claim 2: Circumcision Prevents UTIs</h3>
+<p>Studies have claimed that circumcised males have a lower risk of urinary tract infections in the first year of life. Even if this claim is accepted at face value:</p>
+<ul>
+<li>The absolute risk reduction is approximately <strong>1%</strong> — from about 1.5% to 0.5%</li>
+<li>UTIs in infant males are easily treated with <strong>antibiotics</strong></li>
+<li><strong>Girls</strong> have a much higher rate of UTIs than boys, and no one suggests surgically altering female anatomy to prevent them</li>
+<li>The studies showing UTI reduction have been criticized for <strong>methodological flaws</strong>, including failure to account for confounding variables like breastfeeding (which independently reduces UTI risk)</li>
+</ul>
+<p>To prevent one UTI, approximately <strong>100 circumcisions</strong> must be performed. This means 99 boys are subjected to unnecessary surgery — with its attendant risks of bleeding, infection, adhesions, scarring, and worse — to potentially prevent one easily treatable infection.</p>
+<h3 id="claim-3-circumcision-prevents-hiv">Claim 3: Circumcision Prevents HIV</h3>
+<p>This is the most recent and most heavily promoted claim, based on three randomized controlled trials conducted in Africa between 2005 and 2007. These trials claimed that circumcision reduced female-to-male HIV transmission by approximately 60%.</p>
+<p>The problems with these studies are profound:</p>
+<ul>
+<li><strong>Early termination</strong>: All three trials were stopped early, which is known to inflate effect sizes in clinical trials</li>
+<li><strong>Confounding variables</strong>: Circumcised men in the trials received medical care, condoms, and health education that uncircumcised men did not receive — making it impossible to isolate the effect of circumcision</li>
+<li><strong>Lead-time bias</strong>: Circumcised men were told to abstain from sex during their recovery period (6-8 weeks), giving them less time at risk compared to the control group</li>
+<li><strong>Absolute vs. relative risk</strong>: The "60% reduction" is a relative risk figure. The absolute risk reduction was approximately <strong>1.3%</strong> — from 2.5% to 1.2% over the study period</li>
+<li><strong>No protection for women</strong>: Studies on female-to-male transmission do not apply to male-to-female transmission, and subsequent studies found <strong>no protective effect</strong> for women</li>
+<li><strong>Contradicted by population data</strong>: The United States has the highest circumcision rate in the developed world AND the highest HIV rate. If circumcision prevented HIV, the opposite should be true</li>
+</ul>
+<p>These African trials were funded by organizations with financial ties to the circumcision industry and were promoted by agencies seeking to justify mass circumcision programs in Africa — programs worth billions of dollars in international aid money.</p>
+<h3 id="claim-4-circumcision-is-hygienic">Claim 4: Circumcision Is Hygienic</h3>
+<p>The hygiene argument is the most common justification cited by American parents. It is also the most easily debunked:</p>
+<ul>
+<li>The foreskin is <strong>self-cleaning</strong> — it produces smegma, a natural lubricant that contains lysozyme (an antimicrobial enzyme) and serves a protective function</li>
+<li>Intact males in Europe, Asia, and South America do not have higher rates of genital infections than circumcised American males</li>
+<li>Teaching a boy to wash is <strong>simpler, safer, and cheaper</strong> than surgically removing a body part</li>
+<li>The hygiene argument could be applied to any body part — ears, belly buttons, between toes — and no one suggests removing those structures for cleanliness</li>
+</ul>
+<p>The hygiene argument is not medicine. It is cultural conditioning — the same cultural conditioning that once justified foot-binding, corsets, and other forms of body modification imposed on the young by the old.</p>
+<h2 id="the-foreskin-what-they-dont-tell-you">The Foreskin: What They Don't Tell You</h2>
+<h3 id="anatomy-and-function">Anatomy and Function</h3>
+<p>The foreskin is not a vestigial remnant or a "flap of skin." It is a complex, functional organ containing:</p>
+<ul>
+<li><strong>Over 20,000 nerve endings</strong> — making it the most sensitive part of the male body</li>
+<li><strong>Meissner's corpuscles</strong> — fine-touch nerve receptors found in the fingertips and lips</li>
+<li><strong>The frenulum</strong> — one of the most erogenous zones of the male anatomy, often partially or completely removed during circumcision</li>
+<li><strong>The ridged band</strong> — a specialized structure at the tip of the foreskin with unique sensory properties</li>
+<li><strong>Immunological tissue</strong> — including Langerhans cells that play a role in the body's defense processes</li>
+<li><strong>Dartos muscle</strong> — smooth muscle that allows the foreskin to expand and contract</li>
+</ul>
+<p>The foreskin serves multiple functions:</p>
+<ul>
+<li><strong>Protection</strong>: Keeps the glans (head) of the penis moist and sensitive throughout life</li>
+<li><strong>Sensation</strong>: Provides a unique form of sensory feedback during intimate contact</li>
+<li><strong>Lubrication</strong>: Facilitates natural lubrication, reducing friction</li>
+<li><strong>Immunological function</strong>: Produces antimicrobial compounds that protect against pathogens</li>
+</ul>
+<p>Removing the foreskin removes approximately <strong>50% of the penile skin</strong>, eliminates the most sensitive tissue, and exposes the glans to constant friction from clothing, causing progressive keratinization (thickening and drying) that reduces sensitivity over a lifetime.</p>
+<h3 id="what-circumcision-actually-removes">What Circumcision Actually Removes</h3>
+<p>The average circumcision removes <strong>15 square inches</strong> of tissue from an adult male penis — tissue that would have contained over 20,000 specialized nerve endings. This is not a "minor" procedure. It is the amputation of a functional organ from a non-consenting patient.</p>
+<h2 id="the-psychological-impact">The Psychological Impact</h2>
+<h3 id="neonatal-trauma">Neonatal Trauma</h3>
+<p>Research on neonatal circumcision has revealed disturbing effects on infant development:</p>
+<ul>
+<li><strong>Altered pain response</strong>: Circumcised infants show heightened pain responses to subsequent medical procedures (such as vaccination), suggesting that the trauma alters neurological pain processing</li>
+<li><strong>Disrupted breastfeeding</strong>: Many infants have difficulty breastfeeding after circumcision due to pain, stress, and disrupted bonding</li>
+<li><strong>Sleep disruption</strong>: Circumcised infants show altered sleep patterns in the days and weeks following the procedure</li>
+<li><strong>Cortisol spikes</strong>: Cortisol levels during circumcision reach levels associated with extreme physiological stress</li>
+<li><strong>PTSD-like responses</strong>: Some researchers have identified behavioral patterns in circumcised infants consistent with post-traumatic stress responses</li>
+</ul>
+<h3 id="adult-psychological-effects">Adult Psychological Effects</h3>
+<p>A growing body of research documents psychological effects in adult men who become aware of their circumcision:</p>
+<ul>
+<li>Feelings of violation, loss, and grief</li>
+<li>Anger toward parents and the medical system</li>
+<li>Difficulty with intimacy and trust</li>
+<li>Sense of bodily incompleteness</li>
+<li>Depression and anxiety related to the loss</li>
+</ul>
+<p>These effects are dismissed by the medical establishment as "psychological problems" rather than legitimate responses to an irreversible bodily violation. This dismissal is itself a form of gaslighting — telling victims that their suffering is their own fault rather than the fault of the system that harmed them.</p>
+<h2 id="the-institutional-machinery">The Institutional Machinery</h2>
+<h3 id="the-aaps-conflicted-position">The AAP's Conflicted Position</h3>
+<p>The American Academy of Pediatrics (AAP) issued a policy statement in 2012 declaring that "the health benefits of newborn male circumcision outweigh the risks." This statement was immediately condemned by medical organizations worldwide:</p>
+<ul>
+<li>A group of <strong>38 European physicians</strong> from 16 countries published a response calling the AAP statement "culturally biased" and noting that no European medical organization recommends routine circumcision</li>
+<li>The <strong>Royal Dutch Medical Association</strong> called circumcision a "violation of children's rights to autonomy and physical integrity"</li>
+<li>The <strong>British Medical Association</strong> stated that circumcision is "not generally justified on health grounds"</li>
+<li>The <strong>Canadian Paediatric Society</strong> does not recommend routine circumcision</li>
+</ul>
+<p>The AAP's position is an outlier among developed nations — and the AAP has extensive financial ties to the medical industry that profits from circumcision. Members of the AAP task force that produced the 2012 statement included researchers with documented conflicts of interest.</p>
+<h3 id="the-insurance-industrys-role">The Insurance Industry's Role</h3>
+<p>Insurance coverage drives medical practice in America. As long as insurance companies cover routine infant circumcision, hospitals will continue to offer it, doctors will continue to perform it, and parents will continue to accept it. Several states have removed Medicaid coverage of circumcision, and circumcision rates in those states have declined — demonstrating that the practice is driven more by financial accessibility than by medical demand.</p>
+<h2 id="the-spiritual-reality">The Spiritual Reality</h2>
+<h3 id="gods-design-is-not-a-mistake">God's Design Is Not a Mistake</h3>
+<p>The human body was designed by the Creator — "fearfully and wonderfully made," as the Psalmist declares. The foreskin is part of that design. It is not a manufacturing defect. It is not a mistake that requires surgical correction. To claim that a healthy body part must be removed from every male infant is to claim that God's design is flawed — and that human surgeons know better than the Creator.</p>
+<p>This is the fundamental arrogance that drives the medical establishment: the belief that man can improve upon God. It is the same arrogance that drove Lucifer to rebel against Heaven, and it is the same arrogance that the Jesuit order embodies in its pursuit of "absolute power" over every aspect of human life.</p>
+<p>Howard Pittman was told that the spiritual realm is the true reality. The physical alteration of infant bodies has spiritual consequences that extend beyond what we can measure with medical instruments. When a society normalizes the mutilation of its children, it has crossed a spiritual threshold — it has accepted the principle that institutional authority supersedes divine design.</p>
+<h3 id="breaking-free">Breaking Free</h3>
+<p>The path to freedom begins with awareness. If you are a parent, educate yourself before making an irreversible decision about your child's body. If you are a man who was circumcised without consent, know that your grief is valid and your anger is justified. If you are a medical professional, examine the evidence with honest eyes and ask whether you are serving your patients or your profession.</p>
+<p>The truth is clear: routine infant circumcision is not medically necessary, not supported by the evidence, and not consistent with basic medical ethics. It persists because of cultural momentum, institutional profit, and the spiritual blindness that prevents people from seeing the obvious.</p>
+<h2 id="find-out-more">Find Out More</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — investigative research on circumcision and medical system corruption</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — spiritual warfare and divine design</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — institutional infiltration and control</li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- AAP Policy Statement on Circumcision (2012) and international responses</li>
+<li>African HIV circumcision trials and critiques</li>
+<li>Neonatal pain and trauma research</li>
+</ul>
+<h2 id="listen-while-you-read">Listen While You Read</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/41-Shedding_Proof.mp4">Shedding Proof</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/en/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/27-The_Promise_of_Salvation.mp4">The Promise of Salvation</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/en/117-The_Burning_of_Sin.mp4">The Burning of Sin</a></li>
+</ul>
+<h2 id="explore-further">Explore Further</h2>
+<ul>
+<li><a href="/communist-takeover-medicine-circumcision-part1/?lang=en">THE COMMUNIST TAKEOVER OF US MEDICINE: Circumcision Part 1</a></li>
+<li><a href="/big-pharma-bloodlust-torture/?lang=en">Big Pharma's BLOODLUST: The Hidden History of Medical Torture</a></li>
+<li><a href="/making-murderers-vivisection-schools/?lang=en">Making Murderers: The Secret Vivisection Programs in Public Schools</a></li>
+</ul>
+<p><em>God made you whole. Man took a piece of you before you could say no. The lie they told your parents — that it was routine, that it was better, that it was nothing — was a lie born in the same darkness that has lied to humanity since the Garden. You are fearfully and wonderfully made. Every part of you.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/en/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"The Truth About Circumcision They Don't Want You to Know Part 2"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Part 2 exposes the debunked medical claims behind circumcision, the psychological damage, and the institutional forces keeping this practice alive."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-11-15T10:00:00Z","children":"November 15, 2025"}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","circumcision",{"href":"/en/tag/circumcision/","className":"tag-pill","children":["#","circumcision"]}],["$","a","medical-fraud",{"href":"/en/tag/medical-fraud/","className":"tag-pill","children":["#","medical-fraud"]}],["$","a","bodily-autonomy",{"href":"/en/tag/bodily-autonomy/","className":"tag-pill","children":["#","bodily-autonomy"]}],["$","a","neonatal-trauma",{"href":"/en/tag/neonatal-trauma/","className":"tag-pill","children":["#","neonatal-trauma"]}],["$","a","rockefeller-medicine",{"href":"/en/tag/rockefeller-medicine/","className":"tag-pill","children":["#","rockefeller-medicine"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/en/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/truth-circumcision-part2/","title":"The Truth About Circumcision They Don't Want You to Know Part 2"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/en/truth-circumcision-part2/","title":"The Truth About Circumcision They Don't Want You to Know Part 2"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"The Truth About Circumcision They Don't Want You to Know Part 2 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Part 2 exposes the debunked medical claims behind circumcision, the psychological damage, and the institutional forces keeping this practice alive."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"circumcision, medical-fraud, bodily-autonomy, neonatal-trauma, rockefeller-medicine"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/en/truth-circumcision-part2/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/truth-circumcision-part2/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/truth-circumcision-part2/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/truth-circumcision-part2/"}],["$","meta","10",{"property":"og:title","content":"The Truth About Circumcision They Don't Want You to Know Part 2"}],["$","meta","11",{"property":"og:description","content":"Part 2 exposes the debunked medical claims behind circumcision, the psychological damage, and the institutional forces keeping this practice alive."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/en/truth-circumcision-part2/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/truth-circumcision-part2.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"The Truth About Circumcision They Don't Want You to Know Part 2"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"The Truth About Circumcision They Don't Want You to Know Part 2"}],["$","meta","25",{"name":"twitter:description","content":"Part 2 exposes the debunked medical claims behind circumcision, the psychological damage, and the institutional forces keeping this practice alive."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/truth-circumcision-part2.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"
