@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","hospital-murder-covid-death-jury",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","hospital-murder-covid-death-jury","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","hospital-murder-covid-death-jury","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T50ac,<h1 id="убийство-в-больнице-помеченное-как-смерть-covid-19-теперь-идет-в-суд-присяжных">Убийство в больнице, помеченное как смерть COVID-19, теперь идет в суд присяжных</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Не убивай." — Исход 20:13</p>
+</blockquote>
+<p>Заповедь абсолютна. Она не содержит исключений для чрезвычайных ситуаций общественного здравоохранения, приказов правительства или институциональной политики. Когда государство издает политику, которая приводит к смерти тех, которых оно поклялось защищать — пожилых, уязвимых, беззащитных — моральный вес этой заповеди падает на каждого официального лица, которое разработало, реализовало и защищало эту политику.</p>
+<p>Как выявляет трек Confliction "Проклятие змея" (The Serpent's Curse), проклятие работает через системы, которые трансформируют защитников в predators — системы, в которых учреждения, доверенные с заботой уязвимых, становятся инструментами их разрушения.</p>
+<p>Политика COVID-19 больницы Нью-Йорка направила размещение COVID-положительных пациентов в дома престарелых — учреждения, жилые наиболее уязвимые население для болезни. Результат был катастрофическим смертным припаиванием среди пожилых. Республиканцы в палате требуют ответственности за то, что может быть одним из наиболее последствиальных отказов политики в американской истории.</p>
+<hr>
+<h2 id="директива-дома-престарелых-нью-йорка">Директива дома престарелых Нью-Йорка</h2>
+<p>25 марта 2020 года Департамент здравоохранения штата Нью-Йорк выдал директиву, требующую домам престарелых принять пациентов, которые тестировались положительно на COVID-19 или подозревались в наличии COVID-19. Директива указана: "Никакой житель не должна быть отказана в повторном поступлении или поступлении в дом престарелых исключительно на основе подтвержденного или подозреваемого диагноза COVID-19."</p>
+<p>Директива была издана под руководством администрации губернатора Andrew Cuomo, которая оправдала политику как необходимую для сохранения больничной емкости. Больницы лечили пациентов COVID-19 и нуждались в кроватях. Дома престарелых, так рассуждение шло, были надлежащей обстановкой для пациентов, которые были стабильными достаточно, чтобы оставить больницу, но еще не очищены от вируса.</p>
+<p>Последствие было предсказуемым и предсказанным. Медицинские эксперты предупредили, что размещение COVID-положительных пациентов в домах престарелых — закрытые окружающие среды, жилые пожилые жители с несколькими comorbidities и ослабленными иммунными системами — вызвало бы массовую смерть. Они были права.</p>
+<p>Оценивается 15,000 или больше жителей дома престарелых в Нью-Йорке умер от COVID-19 в течение первого года пандемии. Фактическое число остается spited, потому что администрация Cuomo позже была обнаружена, чтобы undercounted дома престарелых смерти, скольку до 50%, исключая жителей, которые были переданы в больницы перед умиранием из count "дом престарелых смерти."</p>
+<p>Karen Kingston проанализировала дом престарелых бедствие в The Kingston Report: "Директива дома престарелых была не политической ошибкой. Это была политика, которая была предсказуемой в ее последствиях, предупреждена медицинскими профессионалами, реализована над возражениями и затем скрыта, когда те последствия материализовались. Вопрос не в том, создают ли официальные лица ошибку — вопрос в том, совершили ли они преступление."</p>
+<hr>
+<h2 id="укрытие">Укрытие</h2>
+<p>Администрация Cuomo не просто реализовала смертельную политику — она скрыла результаты. Офис генерального прокурора штата Нью-Йорк выдал доклад в январе 2021, обнаружив, что администрация Cuomo undercounted COVID-19 смерти среди жителей дома престарелых приблизительно 50%.</p>
+<p>Undercounts была не случайной. Это было достигнуто путем исключения из дома престарелых смертельной счета любого жителя, который был перемещен из дома престарелых в больницу перед умиранием. По этому методу бухгалтерского учета, житель дома престарелых, который заключил COVID-19 в доме престарелых, был перемещен в больницу и умер в больнице, не был учтен как смерть дома престарелых — хотя инфекция была приобретена в доме престарелых как прямой результат политики размещения.</p>
+<p>Эта манипуляция бухгалтерского учета служила политической цели: она скрыла масштаб бедствия и защитила губернатора от ответственности. Cuomo использовал искусственно низкие номера смерти дома престарелых, чтобы спорить, что его политика была эффективной и написать книгу, праздничной его лидерства пандемии.</p>
+<hr>
+<h2 id="расследование-конгресса">Расследование конгресса</h2>
+<p>Республиканцы в палате начали формальное расследование в политику COVID-19 дома престарелых Нью-Йорка. Расследование ищет:</p>
+<p><strong>Документы:</strong> Все коммуникации между кабинетом губернатора, Департаментом здравоохранения штата Нью-Йорк, администраторами дома престарелых и федеральными агентствами, связанными с директивой размещения дома престарелых.</p>
+<p><strong>Свидетельство:</strong> Свидетельское показание под присягой от государственных должностных лиц, вовлеченных в создание, реализацию и сокрытие политики дома престарелых.</p>
+<p><strong>Данные:</strong> Точные, неманипулируемые данные на смерти дома престарелых, включая жителей, которые были переданы в больницы перед умиранием.</p>
+<p><strong>Ответственность:</strong> Идентификация лиц, ответственных за директиву, undercounts и любое препятствие предыдущим расследованиям.</p>
+<p>Расследование сталкивается с значительными правовыми и политическими препятствиями. Официальные лица штата Нью-Йорк исторически сопротивлялись федеральному надзору политики здравоохранения штата, ссылаясь на federalism и государственный суверенитет. Однако федеральная юрисдикция установлена ​​использованием федерального финансирования Medicaid — дома престарелых, получающие платежи Medicaid, подлежат федеральному надзору, и неправильное управление учреждениями, финансируемыми Medicaid, создает федеральную ответственность.</p>
+<hr>
+<h2 id="национальный-образец">Национальный образец</h2>
+<p>Нью-Йорк не был один. По крайней мере пять штатов — Нью-Йорк, Нью-Джерси, Мичиган, Пенсильвания и Калифорния — реализовали подобные директивы размещения дома престарелых в течение ранних месяцев пандемии. Каждый штат испытал повышенные смертные припаивания дома престарелых. Объединенный смертельный припайание по этим штатам представляет значительную долю коэффициента U.S. COVID-19 смерти в 2020.</p>
+<hr>
+<h2 id="пророческое-измерение">Пророческое измерение</h2>
+<blockquote>
+<p>"Проклята рука, которая сторожит брата своего; все люди скажут: аминь. Проклята рука, которая ослепляет слепого; все люди скажут: аминь." — Второзаконие 27:17-18</p>
+</blockquote>
+<p>Писание размещает специальное проклятие на тех, кто использует уязвимых — тех, кто удаляет слепых из безопасности, кто лишает беззащитных защиты, кто использует их авторитет причинить вред тем, кто не может сопротивляться. Жители дома престарелых Нью-Йорка были среди наиболее уязвимых людей в американском обществе — пожилые, infirm, зависимые от институциональной помощи, неспособные выступать за себя или избежать опасности, помещенной в их в центре.</p>
+<p>Официальные лица, которые направили COVID-положительных пациентов в их дома, одержимые авторитетом государства. Официальные лица, которые скрыли смертельный припайание, одержимые авторитетом данных. Ни один авторитет не выдержит перед судом Бога.</p>
+<hr>
+<h2 id="предупреждение-из-1-царств-8">Предупреждение из 1 Царств 8</h2>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: слушайся голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отзывается в каждом правительственном коридоре сегодня. Когда Израиль потребовал царя, как у других народов, Бог предупредил его точно, что произойдет — его сыновей возьмут на войну, его дочерей в услужение, его поля и виноградники отберут, десятину всего конфискуют. Они выбрали человеческое правительство вместо царства Божьего, и тирания последовала точно так, как было обещано. Ничего не изменилось. Современная политическая система — два крыла одной птицы — левое и правое, республиканцы и демократы — все служат одной скрытой структуре власти. Голосование за ту или другую сторону — это выбор, какое крыло будет махать дальше, пока птица летит в том же направлении. Реальная власть никогда не была на избирательном бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>Расследование Республиканцев Палаты — записи слушания Конгресса и документация повестки</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — анализ Karen Kingston директив дома престарелых, многогосударственной координации и манипуляции данных</p>
+</li>
+<li>
+<p>Генеральный прокурор Нью-Йорка — Доклад на undercounting смерти дома престарелых</p>
+</li>
+<li>
+<p>Департамент здравоохранения Нью-Йорка — 25 марта 2020 директива</p>
+</li>
+<li>
+<p>Исход 20:13, Второзаконие 27:17-18 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных царей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a> — программы правительства, обращающие с уязвимыми популяциями как расходные</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — коррупция учреждения, скрывающая последствия решений политики</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — многогосударственная координация смертельных политик</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> — защитники становятся predators</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — манипуляция данных, скрывающая правду массовой смерти</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/fauci-covid-emails-disclosed/?lang=ru">Will Fauci's COVID-19 Emails Finally Be Disclosed</a> — федеральные коммуникации, связанные с политикой пандемии</li>
+<li><a href="/federal-government-pfizer-data-fraud/?lang=ru">Is It a Crime? Federal Government Assisted Pfizer in Data Fraud</a> — участие правительства в скрывании вреда</li>
+<li><a href="/doctors-vacate-prep-act/?lang=ru">Over 100,000 Doctors Pave Way to Vacate PREP Act Immunity</a> — медицинская профессия требует ответственности</li>
+<li><a href="/fda-ended-emergency-use-authorizations/?lang=ru">FDA Just Ended Emergency Use Authorizations for COVID-19</a> — окончание чрезвычайной рамки, которая включила эти политики</li>
+</ul>
+<hr>
+<p><em>Пятнадцать тысяч пожилых душ погибли в домах престарелых Нью-Йорка — помещены в опасность официальные лица, поклялись их защитить, их смерти скрыта манипуляторами данных, которые служили политическим интересам выше человеческой жизни. "Господь будет судить народ Свой" (Евреям 10:30). Расследование конгресса ищет суд человеческого закона. Но суд, который важен — суд, что никакое политическое маневрирование, никакая манипуляция данных и никакая институциональная защита не могут избежать — это суд того, кто видит все, знает все и будет проводить все официальные лица ответственными за каждую жизнь, доверенную их заботе и потерянную через их небрежность, их arrogance и их готовность пожертвовать уязвимыми для сохранения мощных.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/media/","className":"category-badge","children":"media"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Убийство в больнице, помеченное как смерть COVID-19, теперь идет в суд присяжных"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Убийство в больнице, замаскированное как смерть COVID-19, направляется на суд присяжных. Этот случай может раскрыть смертельные больничные протоколы, убившие тысячи."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-07-06T10:00:00Z","children":"6 июля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","hospital murder",{"href":"/ru/tag/hospital murder/","className":"tag-pill","children":["#","hospital murder"]}],["$","a","COVID death",{"href":"/ru/tag/COVID death/","className":"tag-pill","children":["#","COVID death"]}],["$","a","jury trial",{"href":"/ru/tag/jury trial/","className":"tag-pill","children":["#","jury trial"]}],["$","a","remdesivir",{"href":"/ru/tag/remdesivir/","className":"tag-pill","children":["#","remdesivir"]}],["$","a","hospital protocols",{"href":"/ru/tag/hospital protocols/","className":"tag-pill","children":["#","hospital protocols"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/hospital-murder-covid-death-jury/","title":"Убийство в больнице, помеченное как смерть COVID-19, теперь идет в суд присяжных"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/hospital-murder-covid-death-jury/","title":"Убийство в больнице, помеченное как смерть COVID-19, теперь идет в суд присяжных"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Убийство в больнице, помеченное как смерть COVID-19, теперь идет в суд присяжных | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Убийство в больнице, замаскированное как смерть COVID-19, направляется на суд присяжных. Этот случай может раскрыть смертельные больничные протоколы, убившие тысячи."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"hospital murder, COVID death, jury trial, remdesivir, hospital protocols"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/hospital-murder-covid-death-jury/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/hospital-murder-covid-death-jury/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/hospital-murder-covid-death-jury/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/hospital-murder-covid-death-jury/"}],["$","meta","10",{"property":"og:title","content":"Убийство в больнице, помеченное как смерть COVID-19, теперь идет в суд присяжных"}],["$","meta","11",{"property":"og:description","content":"Убийство в больнице, замаскированное как смерть COVID-19, направляется на суд присяжных. Этот случай может раскрыть смертельные больничные протоколы, убившие тысячи."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/hospital-murder-covid-death-jury/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/hospital-murder-covid-death-jury.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Убийство в больнице, помеченное как смерть COVID-19, теперь идет в суд присяжных"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Убийство в больнице, помеченное как смерть COVID-19, теперь идет в суд присяжных"}],["$","meta","25",{"name":"twitter:description","content":"Убийство в больнице, замаскированное как смерть COVID-19, направляется на суд присяжных. Этот случай может раскрыть смертельные больничные протоколы, убившие тысячи."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/hospital-murder-covid-death-jury.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","biotech-safety-government-lies",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","biotech-safety-government-lies","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","biotech-safety-government-lies","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T68ef,<h1 id="государственные-заверения-о-безопасности-биотехнологии-бесполезны">Государственные заверения о безопасности биотехнологии бесполезны</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Не полагайтесь на князей и на сыновей человеческих, у которых нет спасения." -- Псалом 146:3</p>
+</blockquote>
+<p>Предупреждение псалмопевца — это не просто духовный совет — это практическая мудрость, извлечённая из тысячелетий наблюдения за поведением земных правителей. Князья лгут. Правительства обманывают. Институции авторитета последовательно приоритизируют своё собственное выживание, своё финансирование и свои повестки над благополучием людей, которых они претендуют служить. Это не цинизм. Это документированная история.</p>
+<p>Каждое поколение нам говорят, что текущая биотехнология безопасна. Каждое поколение слишком поздно обнаруживает, что заверения были ложны. От ДДТ к талидомиду, от Agent Orange к Vioxx, от вакцин полиомиелита, контаминированных SV40, к нанотехнологии мРНК, паттерн разбит: правительство объявляет безопасность, население принимает, ущерб происходит, истина появляется десятилетиями позже, и никто не несёт ответственность.</p>
+<p>Как <a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> из альбома Confliction объявляет, отец лжи работает через системы институционального авторитета. И как <a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpents Curse</a> предупреждает, проклятие, входящее через обман, усложняется через поколения.</p>
+<hr>
+<h2 id="исторический-рекорд">Исторический рекорд</h2>
+<h3 id="ддт-безопасен-как-ваш-кухонный-стол">ДДТ: "Безопасен, как ваш кухонный стол"</h3>
+<p>В 1940-х и 1950-х годах правительство Соединённых Штатов и химическая индустрия агрессивно продвигали ДДТ как безопасный для человеческого контакта. Правительственные фильмы показали детей, непосредственно опрыскиваемых ДДТ. Объявления показали улыбающихся домохозяек, применяющих ДДТ на кухнях. USDA объявил ДДТ безопасным для сельскохозяйственного использования на пищевых культурах.</p>
+<p>К 1960-м годам доказательства разрушительных эффектов ДДТ были неоспоримы: рак, репродуктивный отказ, нарушение эндокринной системы и экологическое уничтожение. "Молчаливая весна" Рейчел Карсон (1962) задокументировала ущерб. ДДТ был запрещён в Соединённых Штатах в 1972 — почти три десятилетия после того, как государственные органы объявили его безопасным.</p>
+<p>Паттерн: правительство объявляет безопасность. Население принимает. Ущерб происходит. Истина появляется десятилетиями позже. Никто не несёт ответственность.</p>
+<h3 id="талидомид-безопасен-для-утренней-тошноты">Талидомид: "Безопасен для утренней тошноты"</h3>
+<p>В конце 1950-х годов талидомид был назначен беременным женщинам для утренней тошноты, одобрен регулирующими органами в нескольких странах как безопасный. К 1961 году тысячи детей родились с серьёзными врождёнными дефектами — отсутствующими конечностями, деформированными органами и неврологическим ущербом. Более 10 000 детей были затронуты во всём мире.</p>
+<p>Отказ FDA одобрить талидомид в Соединённых Штатах (благодаря настойчивости проверяющего FDA Фрэнсис Келси) считается историей успеха. Но более широкий урок состоит в том, что регулирующие органы в нескольких странах одобрили продукт, вызывающий разрушительные врождённые дефекты — и продолжили бы одобрять его, если бы ущерб не был столь визуально неоспоримым.</p>
+<h3 id="agent-orange-безопасен-для-военного-использования">Agent Orange: "Безопасен для военного использования"</h3>
+<p>Во время войны во Вьетнаме американская армия распылила приблизительно 20 миллионов галлонов Agent Orange — гербицида, содержащего токсичный загрязнитель диоксин — над Вьетнамом. Государственные заверения о том, что Agent Orange безопасен для военного персонала, были однозначны. Солдатам сказали, что они могут обращаться с химикатом без защитного снаряжения.</p>
+<p>Десятилетиями позже, Agent Orange был связан с раком, диабетом, врождёнными дефектами и неврологическими нарушениями у американских ветеранов и вьетнамских гражданских лиц. VA теперь признаёт более 14 заболеваний как связанные с Agent Orange. Миллионы людей были подвергнуты воздействию на основании государственных заверений о безопасности.</p>
+<h3 id="vioxx-безопасен-для-управления-болью">Vioxx: "Безопасен для управления болью"</h3>
+<p>В 1999 году Vioxx компании Merck (rofecoxib) был одобрен FDA как безопасное противовоспалительное средство. Внутренние документы Merck, позже раскрытые в судебных разбирательствах, показали, что компания знала о сердечно-сосудистых рисках до одобрения, но скрыла данные. FDA одобрил продукт и поддерживал его классификацию безопасности в течение пяти лет.</p>
+<p>К тому времени, когда Vioxx был снят с производства в 2004 году, приблизительно 60 000 американцев умерли от связанных с Vioxx сердечных приступов и инсультов. Собственный проверяющий безопасность FDA, доктор Дэвид Грэм, свидетельствовал перед Конгрессом, что FDA был "неспособен защитить Америку" от небезопасных лекарств.</p>
+<h3 id="загрязнение-вакцины-полиомиелита-sv40">Загрязнение вакцины полиомиелита SV40</h3>
+<p>Как документируется в нашей статье о SV40, между 1955 и 1963 годами миллионы американцев получили вакцины полиомиелита, загрязнённые SV40 — вирусом, вызывающим рак обезьян. Правительство знало о загрязнении к 1960 году, но не предприняло никаких публичных действий. Никакого отзыва не было выпущено. Никакого уведомления не было произведено. Загрязнённые вакцины продолжали вводиться в течение трёх дополнительных лет.</p>
+<p>Государственное заверение о безопасности: абсолютное. Действительная безопасность: вирус, вызывающий рак, внедрённый в миллионы.</p>
+<h2 id="продукты-covid-19-мрнк">Продукты COVID-19 мРНК</h2>
+<h3 id="повествование-о-безопасности">Повествование о безопасности</h3>
+<p>Вакцины COVID-19 мРНК были объявлены "безопасными и эффективными" с интенсивностью и единообразием сообщений, беспрецедентными в истории фармацевтики. Государственные органы, медийные организации, технологические платформы и учреждения здравоохранения говорили одним голосом: вакцины были безопасны, побочные эффекты были мягкими и временными, и кто-либо ставящий под сомнение безопасность распространял "дезинформацию".</p>
+<p>Реальность, задокументированная исследователями, включая Ану Миалцеа, доктор медицины, доктор философии (anamihalceamdphd.substack.com), стоит в резком контрасте с повествованием о безопасности:</p>
+<ul>
+<li><strong>Самостоятельно собирающаяся нанотехнология</strong> обнаружена в ампулах вакцины и человеческой крови — недискрыто, непроверено, не одобрено</li>
+<li><strong>ДНК, вызывающая рак SV40</strong> обнаружена в продуктах вакцины — недискрыто, превышая нормативные лимиты на порядки величины</li>
+<li><strong>Массивные сигналы неблагоприятных событий</strong> в VAERS, системе Yellow Card и другых базах данных отчётности — отклонены, минимизированы или приписаны другим причинам</li>
+<li><strong>Избыточная смертность</strong> в сильно вакцинированных популяциях — необъяснена, не исследована и не признана органами здравоохранения</li>
+<li><strong>Сердечные события, неврологический ущерб, ускорение рака</strong> — задокументированы тысячами клиницистов, но отрицаются органами, которые одобрили продукты</li>
+</ul>
+<p>Государственное заверение о безопасности продуктов мРНК следует идентичному паттерну, установленному ДДТ, талидомидом, Agent Orange, Vioxx и загрязнённой SV40 вакциной полиомиелита. Заверение является энергичным. Доказательство вреда подавляется. Ущерб накапливается. И истина появится — не потому что институции выбирают прозрачность, но потому что ущерб становится неоспоримым.</p>
+<h3 id="регулирующий-захват">Регулирующий захват</h3>
+<p>Причина, по которой государственные заверения о безопасности бесполезны, структурна: регулирующие органы, ответственные за оценку безопасности, захвачены индустриями, которые они регулируют.</p>
+<ul>
+<li><strong>FDA</strong> получает приблизительно 45% своего бюджета от сборов фармацевтической индустрии. Индустрия финансирует орган, который её регулирует.</li>
+<li><strong>Члены совещательного комитета CDC</strong> имеют задокументированные финансовые конфликты интересов с производителями вакцин. Люди, которые рекомендуют принятие вакцины, имеют финансовые отношения с компаниями, которые их производят.</li>
+<li><strong>Вращающаяся дверь</strong> между регулирующими органами и фармацевтическими компаниями означает, что чиновники, оценивающие безопасность лекарств сегодня, завтра будут руководителями индустрии (и наоборот).</li>
+<li><strong>Классификация и органы национальной безопасности</strong> защищают фармацевтические продукты, разработанные в соответствии с военными контрактами, от обычного регулирующего анализа. Продукты, развёрнутые под разрешением на чрезвычайное использование, обходят стандартное тестирование безопасности.</li>
+</ul>
+<p>Регулирующий захват означает, что органы существуют для служения индустрии, а не общественности. Их заверения о безопасности отражают интересы отрегулированных, а не регуляторов. И общественность, доверяя этим учреждениям, принимает продукты, которые эти учреждения были оплачены, чтобы одобрить.</p>
+<h2 id="духовное-измерение">Духовное измерение</h2>
+<h3 id="фармакея-древнее-предупреждение">Фармакея: Древнее предупреждение</h3>
+<p>Откровение 18:23 предупреждает, что "вашей фармакеей все народы были обмануты". Греческое слово фармакея — от которого мы производим "фармацию" — означает колдовство или волшебство, практикуемое через лекарства и зелья. Библейское предупреждение конкретно: фармацевтический обман будет механизмом, через который все нации будут введены в заблуждение.</p>
+<p>Это пророчество исполнилось с ужасающей точностью. Все нации — каждая страна на земле — участвовали в кампании вакцинации COVID-19. Все нации приняли заверения о безопасности фармацевтических компаний и регулирующих органов. Все нации вводили продукты, содержащие недискрытую нанотехнологию своим популяциям. Обман был фармацевтическим. Охват был глобальным. Пророчество было точным.</p>
+<p>Паттерн государственной безопасности, лежащий в основе документированной в этой статье, не является просто институциональной коррупцией. Это операционный механизм пророчества фармакеи. Система фармацевтического обмана, описанная в Откровении, работает через те же учреждения, те же нормативные фреймворки и те же отношения доверия, которые произвели каждый отказ безопасности, задокументированный выше.</p>
+<h3 id="завет-крови-под-атакой">Завет крови под атакой</h3>
+<p>Каждый из отказов безопасности, задокументированных в этой статье, включал введение вредных веществ в человеческое тело — в кровь, в ткань, в ДНК. Последовательная цель — человеческое тело само: храм Святого Духа, жилище дыхания Божьего, сосуд завета.</p>
+<p>Государственные заверения о безопасности — это упаковка вокруг атаки. Они — механизм согласия — слова, которые вызывают людей добровольно представить свои руки для инъекции, добровольно потребить загрязнённые продукты, добровольно подвергнуть себя токсическим химикатам. Ложь не случайна для вреда. Они — механизм доставки вреда.</p>
+<p>Завет крови между Богом и человечеством систематически под атакой через фармацевтическую сорцерию, и государственные заверения о безопасности — щит, за которым эта атака проводится.</p>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всём, что они говорят тебе; ибо не тебя они отвергли, но Меня отвергли, чтоб Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 эхом звучит через каждый правительственный коридор сегодня. Когда Израиль потребовал царя, как другие нации, Бог предупредил их точно, что произойдёт — их сыновей взяты для войны, их дочерей для обслуживания, их поля и виноградники захвачены, десятина всего конфискована. Они выбрали человеческое правительство над правлением Бога, и тирания последовала точно, как обещано. Ничего не изменилось. Современная политическая система — это два крыла одной птицы — левые и правые, республиканцы и демократы — все служат одной и той же скрытой структуре власти. Голосование за любую сторону — это выбор, какое крыло хлопает дальше, пока птица летит в том же направлении. Реальная власть никогда не была на каком-либо балльоте.</p>
+<h2 id="ссылки-на-источники">Ссылки на источники</h2>
+<ul>
+<li>
+<p>Carson, R., "Silent Spring," Houghton Mifflin, 1962</p>
+</li>
+<li>
+<p>Stellman, J.M., et al., "The extent and patterns of usage of Agent Orange and other herbicides in Vietnam," Nature, 2003</p>
+</li>
+<li>
+<p>Graham, D.J., FDA testimony before Senate Finance Committee on Vioxx, 2004</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, regulatory analysis</p>
+</li>
+<li>
+<p>Various VAERS, EudraVigilance, and Yellow Card adverse event reports</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных царей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> -- Фармацевтическая платформа системы Зверя</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> -- Заранее спланированный ответ на пандемию</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> -- Скоординированный глобальный ответ</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/171-Great_Reset_Rising.mp4">Great Reset Rising</a> -- Повестка дня позади повествования о безопасности</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- Институциональный обман как система</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpents Curse</a> -- Проклятие, усложняющееся через поколения</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/victory-future-generation/?lang=ru">Victory For Our Future Generation Against Medical Tyranny</a> -- Борьба против фармацевтической тирании</li>
+<li><a href="/swiss-criminal-complaint-authorities/?lang=ru">Swiss Scientists File Criminal Complaint Against Authorities Over mRNA</a> -- Правовая ответственность за отказы безопасности</li>
+<li><a href="/mrna-bioweapons-prohibition/?lang=ru">The mRNA Bioweapons Prohibition Case</a> -- Классификация продуктов мРНК как биооружия</li>
+</ul>
+<hr>
+<p><em>ДДТ был безопасен. Талидомид был безопасен. Agent Orange был безопасен. Vioxx был безопасен. Вакцины полиомиелита, загрязнённые SV40, были безопасны. И нанотехнология мРНК безопасна. Паттерн не нарушен, лжи последовательны, и ущерб совокупен. Не полагайтесь на князей. Не полагайтесь на регулирующие органы. Не полагайтесь на фармацевтические компании, которые финансируют органы, одобряющие их продукты. Доверяйте вместо этого Богу, который не может лгать, чьё Слово пребывает вечно, и чьё предупреждение о фармакее было дано две тысячи лет до того, как был изобретён шприц — потому что Он знал точно, что идёт, и точно, кто будет обманут.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Государственные заверения о безопасности биотехнологии бесполезны"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Документированная история, доказывающая, что государственные заверения о безопасности биотехнологии систематически ложны, от ДДТ к развёртыванию нанотехнологии мРНК."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-19T10:00:00Z","children":"19 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","government-lies",{"href":"/ru/tag/government-lies/","className":"tag-pill","children":["#","government-lies"]}],["$","a","biotech-safety",{"href":"/ru/tag/biotech-safety/","className":"tag-pill","children":["#","biotech-safety"]}],["$","a","regulatory-capture",{"href":"/ru/tag/regulatory-capture/","className":"tag-pill","children":["#","regulatory-capture"]}],["$","a","vaccines",{"href":"/ru/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","history",{"href":"/ru/tag/history/","className":"tag-pill","children":["#","history"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/biotech-safety-government-lies/","title":"Государственные заверения о безопасности биотехнологии бесполезны"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/biotech-safety-government-lies/","title":"Государственные заверения о безопасности биотехнологии бесполезны"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Государственные заверения о безопасности биотехнологии бесполезны | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Документированная история, доказывающая, что государственные заверения о безопасности биотехнологии систематически ложны, от ДДТ к развёртыванию нанотехнологии мРНК."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"government-lies, biotech-safety, regulatory-capture, vaccines, history"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/biotech-safety-government-lies/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/biotech-safety-government-lies/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/biotech-safety-government-lies/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/biotech-safety-government-lies/"}],["$","meta","10",{"property":"og:title","content":"Государственные заверения о безопасности биотехнологии бесполезны"}],["$","meta","11",{"property":"og:description","content":"Документированная история, доказывающая, что государственные заверения о безопасности биотехнологии систематически ложны, от ДДТ к развёртыванию нанотехнологии мРНК."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/biotech-safety-government-lies/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/biotech-safety-government-lies.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Государственные заверения о безопасности биотехнологии бесполезны"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Государственные заверения о безопасности биотехнологии бесполезны"}],["$","meta","25",{"name":"twitter:description","content":"Документированная история, доказывающая, что государственные заверения о безопасности биотехнологии систематически ложны, от ДДТ к развёртыванию нанотехнологии мРНК."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/biotech-safety-government-lies.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

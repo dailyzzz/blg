@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","viruses-first-appear-military-bases",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","viruses-first-appear-military-bases","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","viruses-first-appear-military-bases","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5830,<h1 id="почему-вирусы-всегда-сначала-появляются-на-военных-базах">Почему вирусы всегда сначала появляются на военных базах</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p><em>"Нечестивые обнажили меч и согнули лук свой, чтобы поразить бедного и нищего и убить правосердных."</em> — Псалом 37:14</p>
+</blockquote>
+<p>Есть образец так последовательный, так неоспоримый и так обвиняющий, что однажды вы его видите, вы не можете его развидеть: крупные вирусные вспышки последовательно происходят на или рядом с военными установками. Испанский грипп 1918 года начался в Fort Riley, Kansas. Многочисленные вспышки были прослежены Fort Detrick, Maryland — первичные биооружейные исследования США. Образец повторяется в течение десятилетий и по континентам, но медицинское установление настаивает, что каждая новая вспышка — естественное событие.</p>
+<p>Вероятность, что этот образец случайный, исчезающе мал. Гораздо более вероятное объяснение состояние в том, что эти вспышки — результат — ли намеренный или случайный — военных биооружейных исследований. И военно-промышленный комплекс, со своей задокументированной историей экспериментирования на гражданских популяциях без согласия, имеет все причины скрыть эту связь.</p>
+<p>Говард Питтман был показан, что духовная область организована для войны. Ефесянам 6:12 описывает борьбу "против принципалов, против сил, против правителей тьмы этого мира." Биооружейные программы — физические проявления этой духовной войны — оружие спроектированное не просто убить тела, но создать страх, зависимость и подчинение в целых популяциях. Те 97.5% которые терпят неудачу, которые "никогда не сделали Иисус Господом," — совершенные цели: они верят учреждениям, они подчиняются органам власти и они никогда не спрашивают кто извлекает выгоду из их страдания.</p>
+<p>Наполеон называл иезуитов "военной организацией" — и биооружейные программы — военные операции с глубокими связями к сообществу разведки, который сам имеет глубокие связи к сети Иезуитов через учреждения, как Georgetown University. Catholic Confidential фильм раскрывает инфильтрацию "замаскированная с хитростью" и "каждый вид порока." Биологическая война — возможно, окончательный порок — и её проведена с окончательной хитростью.</p>
+<hr>
+<h2 id="образец-военные-базы-и-вирусные-вспышки">Образец: военные базы и вирусные вспышки</h2>
+<h3 id="испанский-грипп-1918--fort-riley-kansas">Испанский грипп (1918) — Fort Riley, Kansas</h3>
+<p>Наиболее разрушительная пандемия в современной истории — что убила оценочный 50-100 миллион человек по всему миру — начала в Camp Funston, Fort Riley, Kansas, в марте 1918. Первые случаи появились среди солдат, которые были подчинены экспериментальной бактериальной вакцине менингита, разработанной Rockefeller Institute for Medical Research.</p>
+<p>Ключевые факты:</p>
+<ul>
+<li>Вспышка началась <strong>среди вакцинированных солдат</strong>, не в общей популяции</li>
+<li>Rockefeller Institute проводила <strong>экспериментальные испытания вакцины</strong> на военном персонале в Fort Riley</li>
+<li>Болезнь распространилась от Fort Riley к <strong>другим военным базам</strong> перед достижением гражданских популяций</li>
+<li>Болезнь была наиболее смертельной среди <strong>молодых, здоровых взрослых</strong> (возраст 20-40) — демография наиболее тяжело вакцинированная — а не старики и очень молодые</li>
+<li>"Испанский" грипп не происходил в Испании; название было артефактом военной цензуры, которая подавила отчёты вспышки в боевых национальностях, пока нейтральная Испания сообщила свободно</li>
+</ul>
+<p>Доказательство сильно предполагает, что 1918 пандемия была вызвана экспериментальной вакцинацией — не естественно возникающим вирусом. Участие Rockefeller Institute, военное происхождение и демографичный образец всё указать к ятрогенной (медически вызванной) катастрофе.</p>
+<h3 id="fort-detrick--биооружейная-столица-америки">Fort Detrick — Биооружейная столица Америки</h3>
+<p>Fort Detrick, расположен в Frederick, Maryland, был центром американских биологических исследований оружия со 100 года. Объект работал с:</p>
+<ul>
+<li>Сибирская язва</li>
+<li>Бруцеллёз</li>
+<li>Венесуэльский конский энцефалит</li>
+<li>Различные оружие бактерии и вирусы</li>
+<li>Системы поставки для биологических агентов</li>
+</ul>
+<p>Хотя США официально завершили его наступательное биооружейное программа в 1969, Fort Detrick продолжает работать как "защитный" объект биооборону под Армия США Medical Research Institute of Infectious Diseases (USAMRIID). Различие между "наступательным" и "защитным" биооружейным исследованием — в основном семантично — вы должны поняли как создать биологическое оружие чтобы защитить от него.</p>
+<p>Fort Detrick был связан многочисленным подозрительным вспышкам и случаям:</p>
+<ul>
+<li><strong>2001 сибирская язва атаки</strong> были прослежены сибирская язва от Fort Detrick собственных запасов</li>
+<li>Таинственное <strong>закрытие лаб</strong> в 2019 подняло вопросы о какие эксперименты пошли неправильно</li>
+<li>Объект близость к Washington, D.C., делает его стратегической центру для биологического исследования с национальными проблемами безопасности</li>
+</ul>
+<h3 id="дополнительные-вспышки-военного-происхождения">Дополнительные вспышки военного происхождения</h3>
+<p>Образец расширяет далеко за пределы Fort Riley и Fort Detrick:</p>
+<ul>
+<li><strong>Хантавирус</strong> вспышки были связаны военным объектом</li>
+<li><strong>Болезнь легионеров</strong> (1976) сначала появилась в конвенции американского легиона в Philadelphia — американский легион быть военной организацией ветерана</li>
+<li><strong>ВИЧ/СПИД</strong> появился в популяциях соединён военным программам вакцины (испытания вакцины гепатита B среди гомосексуальных мужчин в New York и San Francisco в поздних 1970х были проводили через CDC с военными связями)</li>
+<li><strong>Свиной грипп</strong> вспышки имеют связи военной базы</li>
+<li>Различные вспышки в развивающихся странах произошли рядом с США военные установки или следующей военной кампании вакцинации</li>
+</ul>
+<h2 id="история-биооружейной-программы">История биооружейной программы</h2>
+<h3 id="история-гражданского-экспериментирования">История гражданского экспериментирования</h3>
+<p>США военный имеет задокументированную историю тестирования биологических агентов на гражданских популяциях:</p>
+<p><strong>Операция Sea-Spray (1950)</strong>: Флот США распылял бактерии Serratia marcescens по San Francisco, подвергающей воздействию 800,000 жителей без их знания. По крайней мере один человек умер, и многие разработали респираторные инфекции.</p>
+<p><strong>Операция Big Buzz (1955)</strong>: Военный выпустил 300,000 неинфицированных москитов в Georgia, чтобы протестировать ли москиты могли быть использованы как биологические системы поставки оружия.</p>
+<p><strong>Операция Drop Kick (1956)</strong>: Военный выпустил заражённые москиты в Savannah, Georgia и Avon Park, Florida, чтобы протестировать их эффективность как болезнь векторы.</p>
+<p><strong>Проект 112 / Проект SHAD (1962-1973)</strong>: Военный проводил биологические и химические испытания войны на тысячах США военный персонал без их информированного согласия, подвергающей их агентам, включая VX нервный газ, зарин и биологические агенты.</p>
+<p><strong>Сент-Луис (1953-1954)</strong>: Армия США распыляла сульфид кадмия цинка по низко доходным и расовых кварталов в Сент-Луисе, Missouri, имитируя биологическое оружие рассеивание. Жители не были информированы. Ставки рака в затронутых кварталах впоследствии увеличены.</p>
+<p>Это не утверждения — они задокументированы в рассекреченных правительственных записях, конгресс расследования и судебные разбирательства. Военный США многократно продемонстрировал его готовность использовать гражданские популяции как подчинён для биологических агентов.</p>
+<h2 id="связь-теории-микробов">Связь теории микробов</h2>
+<h3 id="сделанные-болезни-для-сделанного-парадигма">Сделанные болезни для сделанного парадигма</h3>
+<p>Военное происхождение образец поднимает фундаментальный вопрос: если болезни естественно возникающие, почему они так последовательно появляются сначала в военных окружениях? Стандартное объяснение — что переполненные военные условия облегчают передачу болезни — недостаточна. Гражданские окружения (города, школы, офисы) одинаково переполнены, но крупные вспышки непропорционально происходят из военных установок.</p>
+<p>Больше связного объяснение состояние в том, что многие болезни приписаны естественной вирусной эволюции фактически продукты лабораторного исследования — спроектированные или увеличенные патогены, что спасённые (или выпущены) от военных объектов. Это объяснение последовательно с:</p>
+<ul>
+<li>Военным происхождением образец</li>
+<li>Задокументированную историю биооружейного исследования</li>
+<li>Задокументированную историю гражданского экспериментирования</li>
+<li>Gain-of-function программы исследования, что были публично признаны</li>
+<li>Последовательный примечание военного участия в происхождениях вспышки</li>
+</ul>
+<h2 id="духовное-войны-размерность">Духовное войны размерность</h2>
+<h3 id="оружие-против-творения-бога">Оружие против творения Бога</h3>
+<p>Биологическое оружие представляет окончательное осквернение творения Бога. Они берут биологические процессы, что Бог спроектировал для жизни — репликацию, адаптацию, иммунный ответ — и оружие их против очень существ они были спроектированы поддержку. Это — Сатанинская инверсия на его наиболее экстремальном: использование творения Бога, чтобы уничтожить детей Бога.</p>
+<p>Говард Питтман был показан, что демоничная иерархия организована для ровно этого вида войны. Принципалы и силы Ефесянам 6:12 не борются физическим оружием — они борются осквернением творения, извращением истины и поворачиванием подарков Бога против Его людей. Биооружейные программы — физическое проявление этой духовной войны.</p>
+<p>95% кто служит "себе" — статистика Питтмана — те, кто принимает правительственные заверения без вопроса, кто подчиняется принудительной вакцинации без исследования их происхождение и кто верит учреждениям, что повторно продемонстрировали их готовность экспериментировать на них.</p>
+<h3 id="иезуитская-военная-связь">Иезуитская военная связь</h3>
+<p>Иезуитская связь ордена военным операциям расширяет спину к его основанию. Ignatius of Loyola был солдатом перед он основал Общество Иисуса. Ордена была структурирована как военная организация от его начала — с "Превосходящим Генеральным" командование абсолютное послушание от его членов.</p>
+<p>Современное сообщество разведки — CIA, MI6, Mossad и их союзы — сохраняет обширные связи к Иезуитской сети. Georgetown University, главное Иезуитское учреждение в Америке, произвело больше операторов разведки чем любая другая школа. Биооружейные программы работали этими органами отражают Иезуитское мышление: конца оправдывает средства, абсолютное послушание превосходит индивидуальную совесть и "каждый вид порока" разрешен в услуге миссии.</p>
+<p>Общее Tambulini управления "половина мира" расширяет через эти сети. Pope Clement XIV был отравлен для противостоять им. John Adams предупредил, что они заслужили "вечное проклятие." Биооружейные программы они влияют представляют, вероятно, наиболее ломающий аспект их операций — оружие жизни сама против человечества.</p>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — исследование на военных биооружениях и происхождениях вспышки</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — духовная война и оружие творения</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Иезуитские военные связи</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Рассекреченные документы на операции Sea-Spray, Big Buzz, Drop Kick и Проекта 112</li>
+<li>Конгресс слушания на военных биооружениях тестирования</li>
+</ul>
+<h2 id="слушайте-пока-читаете">Слушайте, пока читаете</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/179-Engineering_Contagion.mp4">Engineering Contagion</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/41-Shedding_Proof.mp4">Shedding Proof</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">The Enemy Within</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/lyme-disease-tick-transmission/?lang=ru">LYME DISEASE: The Tick Transmission Studies That Don't Add Up</a></li>
+<li><a href="/nih-vaccine-truth/?lang=ru">The NIH Vaccine Truth They Buried for Decades</a></li>
+<li><a href="/blood-money-secrets-blood-donation/?lang=ru">Blood Money: The Dark Secrets Behind Blood Donation</a></li>
+</ul>
+<p><em>Каждый раз новый вирус появляется, спрашивайте: где он начал? Следуйте тропе и вы найдёте военную базу, правительственную лабораторию или учреждение исследования с классифицированными программами. Образец не совпадение. Это политика. И политика служит принципалам и силам, что ведут войну против человечества из духовной области.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Почему вирусы всегда сначала появляются на военных базах"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"От испанского гриппа к COVID, крупные вирусные вспышки последовательно происходят из военных баз. Этот образец указывает на биооружие, не естественное возникновение."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-03T10:00:00Z","children":"3 декабря 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","military-bases",{"href":"/ru/tag/military-bases/","className":"tag-pill","children":["#","military-bases"]}],["$","a","bioweapons",{"href":"/ru/tag/bioweapons/","className":"tag-pill","children":["#","bioweapons"]}],["$","a","spanish-flu",{"href":"/ru/tag/spanish-flu/","className":"tag-pill","children":["#","spanish-flu"]}],["$","a","virus-origins",{"href":"/ru/tag/virus-origins/","className":"tag-pill","children":["#","virus-origins"]}],["$","a","fort-detrick",{"href":"/ru/tag/fort-detrick/","className":"tag-pill","children":["#","fort-detrick"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/viruses-first-appear-military-bases/","title":"Почему вирусы всегда сначала появляются на военных базах"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/viruses-first-appear-military-bases/","title":"Почему вирусы всегда сначала появляются на военных базах"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Почему вирусы всегда сначала появляются на военных базах | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"От испанского гриппа к COVID, крупные вирусные вспышки последовательно происходят из военных баз. Этот образец указывает на биооружие, не естественное возникновение."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"military-bases, bioweapons, spanish-flu, virus-origins, fort-detrick"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/viruses-first-appear-military-bases/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/viruses-first-appear-military-bases/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/viruses-first-appear-military-bases/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/viruses-first-appear-military-bases/"}],["$","meta","10",{"property":"og:title","content":"Почему вирусы всегда сначала появляются на военных базах"}],["$","meta","11",{"property":"og:description","content":"От испанского гриппа к COVID, крупные вирусные вспышки последовательно происходят из военных баз. Этот образец указывает на биооружие, не естественное возникновение."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/viruses-first-appear-military-bases/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/viruses-first-appear-military-bases.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Почему вирусы всегда сначала появляются на военных базах"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Почему вирусы всегда сначала появляются на военных базах"}],["$","meta","25",{"name":"twitter:description","content":"От испанского гриппа к COVID, крупные вирусные вспышки последовательно происходят из военных баз. Этот образец указывает на биооружие, не естественное возникновение."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/viruses-first-appear-military-bases.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

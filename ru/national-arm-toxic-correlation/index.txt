@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","national-arm-toxic-correlation",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","national-arm-toxic-correlation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","national-arm-toxic-correlation","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T57c6,<h1 id="national-arm-раскрывает-токсичную-корреляцию-между-вакцинами-и-травмами">National ARM раскрывает токсичную корреляцию между вакцинами и травмами</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"По их плодам узнаете их." -- Матфей 7:20</p>
+</blockquote>
+<p>Дерево известно по его плодам. Продукт известен по его результатам. Медицинское вмешательство известно по его действиям на тех, кто его получает. Плод развертывания вакцины мРНК теперь измеримо, документируемо и неоспоримо: всплеск травм, инвалидности и смертности, которые соотносятся с математической точностью со сроком, распределением и дозировкой продуктов.</p>
+<p>National ARM (Adverse Reaction Monitoring) собрала статистические доказательства, которые медицинское учреждение отказывается изучать. Их анализ демонстрирует то, что раскрывает микроскопия темного поля и что переживают пациенты: вакцины наносят вред в масштабе, который ни один фармацевтический продукт в истории никогда не приближался.</p>
+<p>Как объявляет <a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpents Curse</a> из альбома Confliction, плод предложения змеи всегда смерть. И как предупреждает <a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a>, обман всегда обещает пользу, оставляя разрушение.</p>
+<hr>
+<h2 id="статистические-доказательства">Статистические доказательства</h2>
+<h3 id="системы-отчетности-о-неблагоприятных-событиях">Системы отчетности о неблагоприятных событиях</h3>
+<p>Множество национальных систем отчетности о неблагоприятных событиях уловили беспрецедентные объемы отчетов после вакцинации COVID-19:</p>
+<p><strong>VAERS (система отчетности о неблагоприятных событиях вакцин, США)</strong></p>
+<p>База данных VAERS США, совместно управляемая CDC и FDA, получила больше отчетов о неблагоприятных событиях для вакцин COVID-19, чем для всех других вакцин вместе взятых за всю более чем 30-летнюю историю системы отчетности. Отчеты включают:</p>
+<ul>
+<li>Более 35,000 отчетов о смерти</li>
+<li>Более 200,000 отчетов о госпитализации</li>
+<li>Более 60,000 отчетов о постоянной инвалидности</li>
+<li>Более 45,000 отчетов о угрожающих жизни событиях</li>
+<li>Более 17,000 отчетов о миокардите/перикардите</li>
+<li>Более 15,000 отчетов об инфаркте миокарда</li>
+</ul>
+<p>Опубликованные исследования оценивают, что VAERS захватывает только 1-10% фактических неблагоприятных событий (коэффициент "недоотчетности"), что означает, что истинные цифры могут быть в 10-100 раз выше, чем указанные цифры.</p>
+<p><strong>EudraVigilance (Европейский Союз)</strong></p>
+<p>База данных неблагоприятных событий Европы зафиксировала миллионы отчетов о неблагоприятных событиях, включая десятки тысяч смертельных исходов.</p>
+<p><strong>Yellow Card (Великобритания)</strong></p>
+<p>Система отчетности Великобритании отражает закономерности, наблюдаемые в VAERS и EudraVigilance, с непропорциональной отчетностью о неблагоприятных событиях для вакцин COVID-19.</p>
+<h3 id="анализ-national-arm">Анализ National ARM</h3>
+<p>National ARM проведала тщательный статистический анализ этих баз данных о неблагоприятных событиях, перекрестно ссылаясь с данными развертывания вакцинации, демографическими данными и записями о смертности от всех причин. Их ключевые выводы включают:</p>
+<p><strong>Временная корреляция</strong></p>
+<p>Неблагоприятные события группируются плотно вокруг дат вакцинации. Наибольшая концентрация отчетов происходит в течение 48 часов после инъекции, со вторичным пиком на 7-14 дней. Это временное группирование является признаком причинности -- оно демонстрирует, что события напрямую связаны с продуктом, а не случайные фоновые события.</p>
+<p><strong>Отношение доза-ответ</strong></p>
+<p>Риск неблагоприятных событий увеличивается с каждой последующей дозой. Люди, получившие три или более доз, показывают значительно более высокие уровни серьезных неблагоприятных событий, чем те, кто получил одну или две дозы. Это отношение доза-ответ является классическим указателем токсичной причинности.</p>
+<p><strong>Вариативность партии</strong></p>
+<p>Различные производственные партии (партии) одного и того же продукта показывают драматически различные уровни неблагоприятных событий. Некоторые партии связаны с сотнями отчетов о неблагоприятных событиях, в то время как другие показывают почти нулевые отчеты. Эта вариативность предполагает либо непоследовательное качество производства, либо преднамеренное изменение -- образец, соответствующий исследованиям определения дозы, проведенным на неизвещенном населении.</p>
+<p><strong>Возраст и гендерные паттерны</strong></p>
+<p>Молодые мужчины показывают наивысшие показатели миокардита, в то время как женщины показывают более высокие показатели аутоиммунных и репродуктивных неблагоприятных событий. Эти демографические паттерны согласны с известными биологическими эффектами спайкового белка и распределения липидных наночастиц в разных типах телосложения.</p>
+<p><strong>Корреляция смертности от всех причин</strong></p>
+<p>Смертность от всех причин в высоковакцинированных странах показывает статистически значимые увеличения, которые коррелируют с сроком кампаний вакцинации. Эти увеличения сохраняются за начальный период вакцинации, согласуясь с продолжающимися биологическими эффектами от постоянной нанотехнологии и/или самоусиливающейся деятельности мРНК.</p>
+<p>Ана Михалча, доктор медицины, доктор наук, опубликовала на своем Substack (anamihalceamdphd.substack.com) клинические доказательства, которые напрямую связывают статистические паттерны, определенные National ARM, с физическими доказательствами загрязнения нанотехнологией в крови пациента. Неблагоприятные события, задокументированные в базах данных, коррелируют с нагрузкой нанотехнологии и деятельностью самосборки, задокументированной под микроскопией темного поля, обеспечивая физический механизм для статистических паттернов.</p>
+<h2 id="подавление-доказательств">Подавление доказательств</h2>
+<h3 id="как-сигнал-скрывается">Как сигнал скрывается</h3>
+<p>Несмотря на беспрецедентный объем и серьезность отчетов о неблагоприятных событиях, сигнал был систематически подавлен:</p>
+<p><strong>Манипуляция определением</strong></p>
+<p>Определение "вакцинированного" было манипулировано, чтобы исключить людей в течение 14 дней от инъекции из вакцинированной когорты. Поскольку наивысшая концентрация неблагоприятных событий происходит в этом окне, этот трюк с определением переводит наиболее серьезные события, вызванные вакциной, в категорию "невакцинированные", создавая ложное впечатление, что вакцины снижают, а не увеличивают неблагоприятные события.</p>
+<p><strong>Манипуляция базой данных</strong></p>
+<p>Отчеты в VAERS и других базах данных были retroактивно изменены, переклассифицированы или удалены. Исследователи, которые контролировали определенные отчеты со временем, задокументировали исчезновение отчетов из системы.</p>
+<p><strong>Отрицание причинности</strong></p>
+<p>Несмотря на соответствие каждому классическому эпидемиологическому критерию причинности (временная связь, доза-ответ, биологическая правдоподобность, согласованность в различных популяциях), сигнал неблагоприятного события был отклонен как "совпадение" нормативными агентствами, которые отказываются проводить причинные исследования, которые подтвердили бы то, что данные уже демонстрируют.</p>
+<p><strong>Подавление СМИ</strong></p>
+<p>Освещение в СМИ неблагоприятных событий вакцин было систематически подавлено посредством цензуры в социальных сетях, дерекинга в поисковых системах и институционального давления на журналистов и публикации.</p>
+<h2 id="пророческая-связь">Пророческая связь</h2>
+<h3 id="pharmakeia-и-подсчет-тел">Pharmakeia и подсчет тел</h3>
+<p>Данные о неблагоприятных событиях, задокументированные National ARM, - это подсчет тел pharmakeia. Откровение 18:23 предупреждает, что все народы будут обмананы фармацевтическим волшебством. Обман включает не только скрытие нанотехнологии в продуктах, но и скрытие вреда, который эти продукты причиняют.</p>
+<p>Статистические доказательства -- это форма свидетельства -- цифры, которые говорят за тех, кто больше не может говорить сами. Каждый отчет о смерти в VAERS представляет человека. Каждый отчет об инвалидности представляет жизнь, уменьшенную. Каждый отчет о госпитализации представляет страдание, которое было вызвано продуктом, который был объявлен безопасным учреждениями, которые знали или должны были знать лучше.</p>
+<p>Коррупция кровавого договора, задокументированная по всему нашему исследованию, имеет подсчет тел. National ARM его считает. И Бог его записывает.</p>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушай голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, а Меня отвергли, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отзывается сквозь каждый коридор правительства сегодня. Когда Израиль потребовал царя, подобного другим народам, Бог точно предупредил их, что произойдет -- их сыновья взяты на войну, их дочери на службу, их поля и виноградники захвачены, десятина всего конфискована. Они выбрали человеческое правительство над царствованием Бога, и тирания следовала точно так, как обещано. Ничто не изменилось. Современная политическая система -- два крыла одной птицы -- левое и правое, республиканское и демократическое -- все служащие той же скрытой структуре власти. Голосование за любую сторону -- выбор того, какое крыло взмахнет дальше, пока птица летит в том же направлении. Реальная власть никогда не была на любом бюллетене.</p>
+<h2 id="ссылки-на-источники">Ссылки на источники</h2>
+<ul>
+<li>
+<p>Данные VAERS (система отчетности о неблагоприятных событиях вакцин)</p>
+</li>
+<li>
+<p>Данные неблагоприятных событий EudraVigilance и Yellow Card</p>
+</li>
+<li>
+<p>Анализ и публикации National ARM</p>
+</li>
+<li>
+<p>Lazarus, R., et al., "Electronic Support for Public Health-Vaccine Adverse Event Reporting System (ESP:VAERS)," Harvard Pilgrim Health Care, Inc., 2010 (задокументирование недостаточной отчетности VAERS)</p>
+</li>
+<li>
+<p>Ана Михалча, доктор медицины, доктор наук, anamihalceamdphd.substack.com, клиническая корреляция со статистическими данными</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных королей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушай-пока-читаешь">Слушай, пока читаешь</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> -- Фармацевтический продукт, вызывающий травмы</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> -- Предварительно спланированная пандемия и ее продукты</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> -- Скоординированное глобальное развертывание</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/179-Engineering_Contagion.mp4">Engineering Contagion</a> -- Инженерный биологический вред</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpents Curse</a> -- Плод предложения змеи - смерть</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- Обещана пользу, разрушение доставляется</li>
+</ul>
+<h2 id="дальнейшие-исследования">Дальнейшие исследования</h2>
+<ul>
+<li><a href="/physical-harm-death-warning/?lang=ru">Official Warning About Physical Harm And Death From Nanotechnology</a> -- Предупреждение о вреде нанотехнологии</li>
+<li><a href="/biotech-safety-government-lies/?lang=ru">Government Assurances of Biotech Safety Are Worthless</a> -- История ложных заявлений о безопасности</li>
+<li><a href="/swiss-criminal-complaint-authorities/?lang=ru">Swiss Scientists File Criminal Complaint Against Authorities Over mRNA</a> -- Судебное действие, основанное на доказательствах вреда</li>
+</ul>
+<hr>
+<p><em>По их плодам узнаете их. Плод развертывания вакцины мРНК считается в отчетах о неблагоприятных событиях: десятки тысяч мертвых, сотни тысяч госпитализированных, десятки тысяч постоянно инвалидизированных. Это не числа. Это люди -- люди, которые верили своим правительствам, верили своим врачам, верили слову "безопасное". National ARM посчитала плоды. Дерево известно. И Бог, который знает каждый волос на каждой голове, который записывает каждого воробья, который падает, также считал -- не в базах данных, которые можно манипулировать, а в Книге Жизни, которую ни один алгоритм не может изменить. Токсичная корреляция реальна. Вред реален. Мертвые реальны. И суд над теми, кто посадил отравленное дерево и назвал его плод хорошим, также реален -- столь же определен, как статистическая корреляция, столь же неизбежен, как урожай.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"National ARM раскрывает токсичную корреляцию между вакцинами и травмами"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Статистический анализ National ARM раскрывает неотрицаемую токсичную корреляцию между вакцинами COVID-19 и всплеском травм, инвалидности и смертности во всем мире."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-04T10:00:00Z","children":"4 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","national-arm",{"href":"/ru/tag/national-arm/","className":"tag-pill","children":["#","national-arm"]}],["$","a","vaccine-injury",{"href":"/ru/tag/vaccine-injury/","className":"tag-pill","children":["#","vaccine-injury"]}],["$","a","statistics",{"href":"/ru/tag/statistics/","className":"tag-pill","children":["#","statistics"]}],["$","a","correlation",{"href":"/ru/tag/correlation/","className":"tag-pill","children":["#","correlation"]}],["$","a","adverse-events",{"href":"/ru/tag/adverse-events/","className":"tag-pill","children":["#","adverse-events"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/national-arm-toxic-correlation/","title":"National ARM раскрывает токсичную корреляцию между вакцинами и травмами"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/national-arm-toxic-correlation/","title":"National ARM раскрывает токсичную корреляцию между вакцинами и травмами"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"National ARM раскрывает токсичную корреляцию между вакцинами и травмами | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Статистический анализ National ARM раскрывает неотрицаемую токсичную корреляцию между вакцинами COVID-19 и всплеском травм, инвалидности и смертности во всем мире."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"national-arm, vaccine-injury, statistics, correlation, adverse-events"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/national-arm-toxic-correlation/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/national-arm-toxic-correlation/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/national-arm-toxic-correlation/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/national-arm-toxic-correlation/"}],["$","meta","10",{"property":"og:title","content":"National ARM раскрывает токсичную корреляцию между вакцинами и травмами"}],["$","meta","11",{"property":"og:description","content":"Статистический анализ National ARM раскрывает неотрицаемую токсичную корреляцию между вакцинами COVID-19 и всплеском травм, инвалидности и смертности во всем мире."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/national-arm-toxic-correlation/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/national-arm-toxic-correlation.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"National ARM раскрывает токсичную корреляцию между вакцинами и травмами"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"National ARM раскрывает токсичную корреляцию между вакцинами и травмами"}],["$","meta","25",{"name":"twitter:description","content":"Статистический анализ National ARM раскрывает неотрицаемую токсичную корреляцию между вакцинами COVID-19 и всплеском травм, инвалидности и смертности во всем мире."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/national-arm-toxic-correlation.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

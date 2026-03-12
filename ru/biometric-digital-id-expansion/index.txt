@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","biometric-digital-id-expansion",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","biometric-digital-id-expansion","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","biometric-digital-id-expansion","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5175,<h1 id="расширение-биометрической-национальной-цифровой-идентификации-охватывает-земной-шар">Расширение биометрической национальной цифровой идентификации охватывает земной шар</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"И был один язык и одно наречие у всех." -- Бытие 11:1</p>
+</blockquote>
+<p>До Вавилонской башни человечество было объединено -- один язык, одна речь, одна система. Они могли координировать идеально. Они могли построить что-либо. Они могли организовать в масштабе, который угрожал границам, которые Бог установил. Ответ Бога состоял в том, чтобы рассеять их, разбить их единство, сделать координацию сложной путем введения лингвистических и культурных барьеров.</p>
+<p>Биометрическая цифровая идентификация является отменой этого рассеивания. Это переассемблирование единого языка - не через произнесенные слова, а через универсальный цифровой протокол. Когда каждая нация на земле использует взаимодействующие системы биометрической цифровой идентификации, человечество снова объединяется в одну систему, говорящую один цифровой язык, координируемую под одной инфраструктурой. Барьеры, которые Бог воздвиг в Вавилонской башне -- национальные границы, культурные различия, лингвистические разделения -- становятся неработающими универсальным протоколом идентификации, который рассматривает каждого человеческого существа как точку данных в единой глобальной базе данных.</p>
+<p>Башня строится заново. Язык был воссоединен. И строители верят, что некому их рассеивать.</p>
+<hr>
+<h2 id="глобальный-взмах-нация-за-нацией">Глобальный взмах: нация за нацией</h2>
+<p>Системы биометрической цифровой идентификации не реализуются в нескольких пилотных странах. Они реализуются везде, одновременно, с скоординированным финансированием из международных учреждений. Это не органичное технологическое внедрение. Это управляемое глобальное развертывание.</p>
+<h3 id="индия-шаблон-14-миллиарда-зарегистрированных">Индия: Шаблон (1,4 миллиарда зарегистрированных)</h3>
+<p>Система Aadhaar Индии остается золотым стандартом для глобальной цифровой идентификации. Более 1,4 миллиарда зарегистрированных, это демонстрирует, что биометрическая идентификация в масштабе популяции технически достижима. Aadhaar связывает отпечатки пальцев, сканирование радужной оболочки и фотографии лиц с уникальным 12-значным номером, требуемым для:</p>
+<ul>
+<li>Банковских и финансовых услуг</li>
+<li>Распределения государственных пособий</li>
+<li>Подачи налогов</li>
+<li>Активации мобильного телефона</li>
+<li>Регистрации больницы</li>
+<li>Зачисления в школу</li>
+</ul>
+<p>Опыт Индии -- включая его неудачи (нарушения биометрической базы данных, исключение маргинализированных популяций из услуг, неправильная идентификация) -- предоставляет как шаблон, так и предупреждение. Система работает для контроля. Она терпит неудачу для уязвимых.</p>
+<h3 id="европейский-союз-цифровые-бумажники-450-миллионов">Европейский союз: Цифровые бумажники (450 миллионов)</h3>
+<p>Регулирование eIDAS 2.0 Европейского союза требует, чтобы каждое государство-член предоставило гражданам цифровой кошелек идентификации к 2026 году. Эти кошельки - приложения на смартфонах - будут хранить:</p>
+<ul>
+<li>Государственный цифровой идентификатор</li>
+<li>Водительское удостоверение</li>
+<li>Медицинские страховые учетные данные</li>
+<li>Сертификаты образования и профессиональные квалификации</li>
+<li>Проверка возраста</li>
+<li>Цифровые подписи для юридических документов</li>
+</ul>
+<p>Кошелек становится единственной точкой аутентификации как для государственных услуг, так и для частных секторных взаимодействий. Банковское дело, путешествие, здравоохранение, занятость и даже доступ к веб-сайтам, ограниченным возрастом, будут направляться через кошелек цифровой идентификации.</p>
+<h3 id="африка-континентальное-зачисление-14-миллиарда-целевых">Африка: Континентальное зачисление (1,4 миллиарда целевых)</h3>
+<p>Африканский союз, поддерживаемый программой World Bank's ID4D, Фондом Билла и Мелинды Гейтс и Фондом Рокфеллера, реализует цифровую идентификацию на всем континенте:</p>
+<ul>
+<li><strong>Нигерия:</strong> Национальный идентификационный номер (NIN), связанный с биометрией, требуется для банковского дела, активации SIM-карты и государственных услуг.</li>
+<li><strong>Кения:</strong> Система биометрии Huduma Namba, регистрирующая всех граждан и жителей.</li>
+<li><strong>Эфиопия, Гана, Сенегал, Руанда, Танзания:</strong> Программы цифровой идентификации на различных этапах реализации, все следуя структуре World Bank/ID4D.</li>
+</ul>
+<p>Молодое население Африки и быстрое внедрение мобильных телефонов делают его приоритетной целью для регистрации цифровой идентификации. Континент регистрируется быстрее, чем любой другой регион.</p>
+<h3 id="америки-расширение-по-полушарию">Америки: Расширение по полушарию</h3>
+<ul>
+<li><strong>Мексика:</strong> Обязательная биометрическая цифровая идентификация сейчас реализуется.</li>
+<li><strong>Бразилия:</strong> Цифровой CPF (Cadastro de Pessoas Fisicas), расширяющий включение биометрической проверки.</li>
+<li><strong>Аргентина, Колумбия, Перу, Чили:</strong> Программы модернизации цифровой идентификации, финансируемые Межамериканским банком развития и Всемирным банком.</li>
+<li><strong>Соединенные Штаты:</strong> Хотя федеральная биометрическая цифровая идентификация не существует еще, требования Real ID, мобильные водительские удостоверения и инициативы цифровой идентификации на уровне штатов строят инфраструктуру.</li>
+<li><strong>Канада:</strong> Программы цифровой идентификации на провинциальном и федеральном уровнях разрабатываются.</li>
+</ul>
+<h3 id="азиатско-тихоокеанский-регион-продвинутая-реализация">Азиатско-Тихоокеанский регион: продвинутая реализация</h3>
+<ul>
+<li><strong>Китай:</strong> Наиболее всеобъемлющая система наблюдения-идентификации на земле, объединяющая распознавание лиц, рейтинги социального кредита и цифровую идентификацию в бесшовную инфраструктуру контроля.</li>
+<li><strong>Сингапур:</strong> National Digital Identity (Singpass), используемая 97% граждан для государственных и частных услуг.</li>
+<li><strong>Австралия:</strong> Система цифровой идентификации, расширяющаяся от государственных услуг к частному сектору.</li>
+<li><strong>Япония, Южная Корея, Филиппины, Индонезия:</strong> Программы цифровой идентификации на различных этапах реализации.</li>
+</ul>
+<hr>
+<h2 id="координирующие-учреждения">Координирующие учреждения</h2>
+<p>Это глобальное расширение не является совпадением. Оно координируется конкретными учреждениями с явными мандатами:</p>
+<h3 id="цель-устойчивого-развития-оон-169">Цель устойчивого развития ООН 16.9</h3>
+<p>Цель устойчивого развития 16.9 гласит: "К 2030 году предоставить правовую идентификацию всем, включая регистрацию рождения." Этот мандат ООН предоставляет политическую структуру, которую каждая нация ссылает при реализации цифровой идентификации.</p>
+<h3 id="world-bank-id4d">World Bank ID4D</h3>
+<p>Инициатива World Bank's Identification for Development предоставляет финансирование, технические стандарты и руководство по реализации для развивающихся нацией. ID4D выплатила миллиарды долларов на программы цифровой идентификации и устанавливает стандарты взаимодействия, которые обеспечивают национальные системы могут общаться друг с другом.</p>
+<h3 id="id2020-alliance">ID2020 Alliance</h3>
+<p>Основанный в 2016 году, ID2020 Alliance -- с основополагающими партнерами, включая Microsoft, Accenture, Gavi (Vaccine Alliance), Фонд Рокфеллера и IDEO -- явно стремится предоставить "цифровую идентификацию для всех" к 2030 году. Модель ID2020 интегрирует цифровую идентификацию с записями о вакцинации -- связывая соответствие здравоохранения с проверкой идентификации.</p>
+<h3 id="world-economic-forum">World Economic Forum</h3>
+<p>Инициативы WEF по "Known Traveller Digital Identity" и более широкие инициативы цифровой идентификации продвигают биометрическую идентификацию как сущностную для четвертой промышленной революции. Публикации WEF явно описывают цифровую идентификацию как инфраструктуру для "капитализма заинтересованного лица" -- экономической модели, где участие требует цифровой проверки.</p>
+<hr>
+<h2 id="доктор-ана-миалцеа-биологический-слой-идентификации">Доктор Ана Миалцеа: Биологический слой идентификации</h2>
+<p>Ана Мария Миалцеа, врач, PhD, задокументировала на своем Substack доказательства, что биометрическая цифровая идентификация может расширяться позади внешних документов и устройств в само человеческое тело.</p>
+<p>MAC адреса Bluetooth, обнаруженные у человеческих субъектов, представляют уникальные цифровые идентификаторы, передаваемые из внутренних биосенсоров. Если самоассемблирующаяся нанотехнология создает электромагнитные трансиверы внутри тела, каждый человек становится идущим, трансляционным узлом биометрической идентификации -- идентифицируемым не карточкой или телефоном, а электромагнитной подписью своего тела.</p>
+<p>Этот биологический слой идентификации сделал бы внешние системы цифровой идентификации избыточными для целей идентификации (хотя внешние системы остались бы необходимыми для бюрократической и правовой структуры). Вы не должны представлять вашу цифровую идентификацию на контрольной точке. Ваше тело транслировало бы это автоматически. Идентификация была бы непроизвольной, непрерывной и неизбежной.</p>
+<p>Исследования доктора Миалцеа связывают движение биометрической цифровой идентификации с загрязнением нанотехнологией, которое она задокументировала. Внешняя система предоставляет правовую структуру. Внутренняя система предоставляет физическую реализацию. Вместе они создают инфраструктуру идентификации, которая является как юридически требуемой, так и биологически обеспеченной.</p>
+<hr>
+<h2 id="что-вы-можете-сделать">Что вы можете сделать</h2>
+<ol>
+<li><strong>Отображать локальную реализацию.</strong> Понять, какие системы цифровой идентификации реализуются в вашей юрисдикции и на каком этапе.</li>
+<li><strong>Стратегически задержать регистрацию.</strong> Где обязательная регистрация еще не была реализована, не добровольно рано.</li>
+<li><strong>Поддерживать физические документы идентификации.</strong> Верификация идентификации на основе бумаги остается действительной в большинстве юрисдикций. Сохраняйте и защищайте физические документы.</li>
+<li><strong>Выступить против обязательной биометрической регистрации.</strong> Обязательный характер этих систем является критической чертой. Добровольные системы сохраняют выбор. Обязательные системы устраняют его.</li>
+<li><strong>Знайте вашу идентификацию во Христе.</strong> "Но вы - род избранный, царственное священство, народ святой, люди, взятые в удел" (1 Петра 2:9). Ваша идентичность была установлена до того, как какая-либо база данных существовала.</li>
+</ol>
+<hr>
+<h2 id="дополнительная-информация">Дополнительная информация</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/471-Beast_System_Bluetooth.mp4">Beast System Bluetooth</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/469-Antichrist_Algorithm.mp4">Antichrist Algorithm</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/497-Tribulation_Tech.mp4">Tribulation Tech</a></li>
+</ul>
+<hr>
+<p><em>В Вавилонской башне Бог дал человечеству много языков для предотвращения объединенной амбиции от превышения божественных границ. На протяжении тысяч лет эти лингвистические и культурные барьеры держались. Нации сформировались. Границы затвердели. Координация на глобальном масштабе оставалась невозможной. Теперь биометрическая цифровая идентификация предоставляет новый универсальный язык -- не слов, а данных. Отпечатки пальцев говорят одним языком везде. Сканирование радужной оболочки не нуждаются в переводе. Распознавание лиц пересекает каждую границу. Рассеивание переворачивается. Единый язык восстанавливается. Башня перестраивается.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Расширение биометрической национальной цифровой идентификации охватывает земной шар"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Системы биометрической цифровой идентификации расширяются на каждом континенте одновременно, создавая глобальную инфраструктуру идентификации, которая выполняет пророчество Откровение 13."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-12T10:00:00Z","children":"12 февраля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","biometric-id",{"href":"/ru/tag/biometric-id/","className":"tag-pill","children":["#","biometric-id"]}],["$","a","digital-identity",{"href":"/ru/tag/digital-identity/","className":"tag-pill","children":["#","digital-identity"]}],["$","a","global-surveillance",{"href":"/ru/tag/global-surveillance/","className":"tag-pill","children":["#","global-surveillance"]}],["$","a","beast-system",{"href":"/ru/tag/beast-system/","className":"tag-pill","children":["#","beast-system"]}],["$","a","ID2020",{"href":"/ru/tag/ID2020/","className":"tag-pill","children":["#","ID2020"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/biometric-digital-id-expansion/","title":"Расширение биометрической национальной цифровой идентификации охватывает земной шар"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/biometric-digital-id-expansion/","title":"Расширение биометрической национальной цифровой идентификации охватывает земной шар"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Расширение биометрической национальной цифровой идентификации охватывает земной шар | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Системы биометрической цифровой идентификации расширяются на каждом континенте одновременно, создавая глобальную инфраструктуру идентификации, которая выполняет пророчество Откровение 13."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"biometric-id, digital-identity, global-surveillance, beast-system, ID2020"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/biometric-digital-id-expansion/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/biometric-digital-id-expansion/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/biometric-digital-id-expansion/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/biometric-digital-id-expansion/"}],["$","meta","10",{"property":"og:title","content":"Расширение биометрической национальной цифровой идентификации охватывает земной шар"}],["$","meta","11",{"property":"og:description","content":"Системы биометрической цифровой идентификации расширяются на каждом континенте одновременно, создавая глобальную инфраструктуру идентификации, которая выполняет пророчество Откровение 13."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/biometric-digital-id-expansion/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/biometric-digital-id-expansion.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Расширение биометрической национальной цифровой идентификации охватывает земной шар"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Расширение биометрической национальной цифровой идентификации охватывает земной шар"}],["$","meta","25",{"name":"twitter:description","content":"Системы биометрической цифровой идентификации расширяются на каждом континенте одновременно, создавая глобальную инфраструктуру идентификации, которая выполняет пророчество Откровение 13."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/biometric-digital-id-expansion.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

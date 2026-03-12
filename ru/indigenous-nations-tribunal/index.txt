@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","indigenous-nations-tribunal",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","indigenous-nations-tribunal","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","indigenous-nations-tribunal","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5d4c,<h1 id="альянс-коренных-наций-международный-трибунал-против-биологического-оружия">Альянс коренных наций Международный трибунал против биологического оружия</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Господь совершает правосудие и справедливость для всех угнетаемых." -- Псалом 103:6</p>
+</blockquote>
+<p>Коренные народы подвергались биологическому нападению на протяжении веков. От одеял, зараженных оспой, распределяемых коренным американцам в 18 веке, до принудительных программ стерилизации в 20 веке, паттерн биологического нападения на коренное население задокументирован, признан и неоспорим. Развертывание нанотехнологии мРНК представляет последнюю главу этого многовекового нападения — биологический агент, развернутый против коренного населения во всем мире под прикрытием общественного здравоохранения.</p>
+<p>Но угнетенные восстают. Коренные нации, опираясь на столетия опыта биологического нападения и вооруженные доказательствами загрязнения нанотехнологией, теперь задокументированными исследователями во всем мире, проводят международные трибунальные разбирательства против ответственных за последнее развертывание биологического оружия.</p>
+<p>Как объявляет <a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">The Overcoming</a> из альбома Confliction, обещание победы принадлежит тем, кто отказывается подчиняться. И как провозглашает <a href="https://confliction.zzzdaily.com/tracks/ru/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a>, Голова, которая раздавливает змею, борется на стороне всех, кто призывает Его имя.</p>
+<hr>
+<h2 id="исторический-контекст-биологическое-нападение-на-коренные-народы">Исторический контекст: Биологическое нападение на коренные народы</h2>
+<h3 id="паттерн-нападения">Паттерн нападения</h3>
+<p>Биологическое нападение на коренные народы находится среди наиболее хорошо задокументированных паттернов колониального насилия:</p>
+<p><strong>Распределение оспы (18-19 век)</strong></p>
+<p>Британские военные командиры, включая лорда Джеффри Амхерста, задокументировали намеренное распределение одеял, зараженных оспой, коренному американскому населению во время войны французов и индейцев. Это биологическое нападение способствовало истреблению коренного населения по всей Северной Америке.</p>
+<p><strong>Программы принудительной стерилизации (20 век)</strong></p>
+<p>Правительство США через Индийскую службу здравоохранения принудительно стерилизовало предположительно 25-50% женщин коренного американского детородного возраста между 1970 и 1976 годами. Эта программа, проводимая без информированного согласия, составляла геноцид согласно Конвенции ООН о предупреждении и наказании преступления геноцида.</p>
+<p><strong>Добыча урана и ядерные испытания</strong></p>
+<p>Земли коренных народов систематически использовались для добычи урана и ядерных испытаний, подвергая коренное население уровням радиации, которые вызывали рак, врожденные дефекты и генетические повреждения. Нация навахо, западные шошоны, жители маршаллских островов и абориген австралийцы среди наиболее серьезно пострадавших.</p>
+<p><strong>Медицинское экспериментирование</strong></p>
+<p>Коренное население подвергалось медицинскому экспериментированию без согласия на протяжении всей колониальной истории, включая исследование сифилиса Tuskegee (которое включало коренных американцев), питательные эксперименты на канадских детях первых наций в интернатных школах и фармацевтическое тестирование в коренных сообществах по всей Латинской Америке и Африке.</p>
+<p>Развертывание мРНК нанотехнологии следует за этим паттерном точно: биологический агент, развернутый против коренного населения без адекватного информированного согласия, без полного раскрытия компонентов продукта и с институциональными механизмами, спроектированными для подавления доказательств вреда.</p>
+<h2 id="трибунал">Трибунал</h2>
+<h3 id="формирование-альянса">Формирование альянса</h3>
+<p>Коренные нации из нескольких континентов сформировали альянс, чтобы провести международные трибунальные разбирательства против виновных в развертывании биологического оружия мРНК. Альянс включает:</p>
+<ul>
+<li>Первые нации Канады и коренные нации Соединенных Штатов</li>
+<li>Коренное население Латинской Америки, включая нации амазонки</li>
+<li>Народ абориген и жители островов Торреса Австралии</li>
+<li>Маори Аотеароа (Новая Зеландия)</li>
+<li>Коренное население Африки</li>
+<li>Коренное население островов Тихого океана</li>
+</ul>
+<p>Эти нации поделяют общую правовую структуру: коренной суверенитет. Как суверенные нации с врожденными правами, предшествующими колониальным конституциям, коренные народы имеют право проводить разбирательства согласно международному праву независимо от национальных государств, которые в настоящее время занимают их территории.</p>
+<h3 id="обвинения">Обвинения</h3>
+<p>Обвинения трибунала включают:</p>
+<ol>
+<li><strong>Геноцид</strong> -- Развертывание биологических агентов (нанотехнология, ДНК SV40, самоамплифицирующаяся мРНК) против коренного населения без информированного согласия, вызывающие смерть и серьезные телесные повреждения</li>
+<li><strong>Нарушение Конвенции о биологическом оружии</strong> -- Разработка и развертывание биологических агентов без оправданной профилактической цели</li>
+<li><strong>Нарушение Декларации ООН о правах коренных народов</strong> -- которая гарантирует коренным народам право на свободное, предварительное и информированное согласие относительно любого медицинского вмешательства</li>
+<li><strong>Нарушение Нюрнбергского кодекса</strong> -- Неконсенсуальные медицинские эксперименты над коренным населением</li>
+<li><strong>Экологический геноцид</strong> -- Загрязнение земель, воды и продовольственных систем коренных народов нанотехнологией через экологические векторы</li>
+</ol>
+<p>Ана Михалча, MD, PhD, внесла научные доказательства в разбирательства трибунала через ее обширное документирование на ее Substack (anamihalceamdphd.substack.com), предоставляя доказательства микроскопии в темном поле от членов коренных сообществ, показывающие загрязнение нанотехнологией, соответствующее выводам в общей популяции.</p>
+<h3 id="база-доказательств">База доказательств</h3>
+<p>Доказательства трибунала включают:</p>
+<ul>
+<li>Документирование микроскопией в темном поле нанотехнологии в крови членов коренных сообществ</li>
+<li>Спектроскопический анализ флаконов вакцин, введенных в коренные сообщества</li>
+<li>Эпидемиологические данные, показывающие паттерны нежелательных событий в коренном населении</li>
+<li>Историческое документирование биологического нападения на коренные народы</li>
+<li>Экспертное свидетельство от врачей, ученых и специалистов по биологическому оружию</li>
+<li>Традиционное знание и пророчество от коренных старейшин относительно загрязнения крови</li>
+</ul>
+<h2 id="коренное-пророчество-и-библейское-пророчество">Коренное пророчество и библейское пророчество</h2>
+<h3 id="сходимость-предупреждений">Сходимость предупреждений</h3>
+<p>Многие коренные традиции содержат пророчества, параллельные библейским предупреждениям о загрязнении крови и порче земли в последние дни:</p>
+<ul>
+<li><strong>Пророчество хопи</strong> описывает время, когда "реки будут красные" и "воздух будет отравлен" -- соответствие загрязнению нанотехнологией водных систем и атмосферному геоинженерству</li>
+<li><strong>Пророчество лакота</strong> говорит о времени, когда "паутина жизни разорвана" и "все живые существа связаны с болезнью" -- соответствие самораспространяющейся нанотехнологии, которая загрязняет взаимосвязанную биологическую паутину</li>
+<li><strong>Пророчество времени сновидений абориген</strong> описывает нарушения в самой земле -- земля, изменяемая на уровне глубже поверхности</li>
+</ul>
+<p>Эти коренные пророческие традиции сходятся с библейским предупреждением Откровения 18:23 -- что все нации будут обмануты волшебством. Коренные нации, которые были целями фармацевтического нападения на протяжении веков, рано признали обман и теперь возглавляют правовое сопротивление.</p>
+<h3 id="твердь-в-коренной-космологии">Твердь в коренной космологии</h3>
+<p>Многие коренные космологии включают концепцию, параллельную библейской тверди -- куполу или навесу над землей, который определяет границу созданного мира:</p>
+<ul>
+<li>Концепция хопи о "потолке неба"</li>
+<li>Концепция абориген неба как твердого свода</li>
+<li>Многочисленные традиции коренных американцев, описывающие небо как купол или покрытие</li>
+</ul>
+<p>Эти космологические понимания выравниваются с библейским описанием тверди в Бытии 1:6-8 -- твердое вместилище, помещенное над землей, чтобы отделить и защитить созданное царство. Коренное понимание мира как замкнутого защищенного пространства под куполом выравнивается с библейской космологией, которую современная материалистическая наука отвергла.</p>
+<p>Сетка электромагнитной частоты, строящаяся внутри этого купола -- башни 5G, спутники, наземные передатчики -- представляет, в как коренной, так и библейской космологии, нарушение священного пространства. Купол был помещен для защиты. Сетка частоты преобразует его в тюрьму.</p>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: услышь голос народа во всем, что они говорят тебе; ибо не тебя они отвергли, а Меня отвергли, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царства 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отзывается через каждый коридор правительства сегодня. Когда Израиль потребовал царя, как другие нации, Бог предупредил их именно том, что произойдет — их сыновья взяты на войну, их дочери на служение, их поля и виноградники захвачены, десятина всего конфискована. Они выбрали человеческое правительство над правлением Бога, и тирания последовала ровно как было обещано. Ничего не изменилось. Современная политическая система — это два крыла одной и той же птицы — левое и правое, республиканец и демократ — все служащие одной и той же скрытой структуре власти. Голосование за одну сторону — это выбор, какое крыло бьет дальше, пока птица летит в том же направлении. Реальная власть никогда не была на бюллетене.</p>
+<h2 id="ссылки-на-источники">Ссылки на источники</h2>
+<ul>
+<li>
+<p>Декларация ООН о правах коренных народов (UNDRIP), 2007</p>
+</li>
+<li>
+<p>Lawrence, J., "The Indian Health Service and the Sterilization of Native American Women," American Indian Quarterly, 2000</p>
+</li>
+<li>
+<p>Различные трибунальные разбирательства коренных народов и документация альянса</p>
+</li>
+<li>
+<p>Ана Михалча, MD, PhD, anamihalceamdphd.substack.com, анализ крови коренного сообщества</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царства 8 — Предупреждение против земных царей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство почти-смертельного опыта Ховарда Питтмана — Предупреждение о конце времен, которое Бог ему дал</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католический конфиденциал: раскрытые позорные иезуитские секреты</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">То, что в подвале Ватикана, может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Вакцина зверя</a> -- Биологическое оружие, развернутое на коренные народы</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">В ногу со зверем</a> -- Глобальная координация, нацеленная на все нации</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/179-Engineering_Contagion.mp4">Инженерия заражения</a> -- Инженерный агент, пересекающий все границы</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/293-Arrows_In_The_Sky.mp4">Стрелы в небе</a> -- Атмосферный удар на земли коренных народов</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">Преодоление</a> -- Победа для тех, кто отказывается подчиняться</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/89-The_Serpent_Crusher.mp4">Змеиный раздавливатель</a> -- Раздавливание биологического оружия змеи</li>
+</ul>
+<h2 id="исследовать-далее">Исследовать далее</h2>
+<ul>
+<li><a href="/mrna-bioweapons-prohibition/?lang=ru">Дело о запрещении биологического оружия мРНК</a> -- Правовая основа для классификации биологического оружия</li>
+<li><a href="/victory-future-generation/?lang=ru">Победа для нашего будущего поколения против медицинской тирании</a> -- Более широкое движение сопротивления</li>
+<li><a href="/geoengineering-mitigation-experiment/?lang=ru">Эксперимент намерения смягчения геоинженерии во всем мире</a> -- Загрязнение окружающей среды земель коренных народов</li>
+</ul>
+<hr>
+<p><em>Коренные народы земли пережили столетия биологического нападения -- одеяла оспы, принудительная стерилизация, ядерное загрязнение и теперь инъекция нанотехнологии. Каждое нападение сопровождалось уверениями в безопасности или отрицаниями вреда. Каждое нападение было в конце концов задокументировано как намеренное. И каждое нападение усилило решимость наций, которые пережили все, что колониальная система развернула против них. Альянс коренных наций, стоящий перед международным трибуналом, несет не только юридические аргументы, но моральный авторитет народов, которые были канарейки в угольной шахте биологического нападения в течение пятисот лет. Их свидетельство пророческое. Их мужество историческое. И их Бог -- Творец, признанный коренными народами задолго до прибытия миссионеров -- это же Бог, который совершает справедливость и праведность для всех угнетаемых.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Альянс коренных наций Международный трибунал против биологического оружия"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Коренные нации во всем мире объединяются, чтобы провести международные трибунальные разбирательства против развертывания биологического оружия на основе мРНК против их суверенного населения."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-23T10:00:00Z","children":"23 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","indigenous-nations",{"href":"/ru/tag/indigenous-nations/","className":"tag-pill","children":["#","indigenous-nations"]}],["$","a","tribunal",{"href":"/ru/tag/tribunal/","className":"tag-pill","children":["#","tribunal"]}],["$","a","bioweapons",{"href":"/ru/tag/bioweapons/","className":"tag-pill","children":["#","bioweapons"]}],["$","a","sovereignty",{"href":"/ru/tag/sovereignty/","className":"tag-pill","children":["#","sovereignty"]}],["$","a","international-law",{"href":"/ru/tag/international-law/","className":"tag-pill","children":["#","international-law"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/indigenous-nations-tribunal/","title":"Альянс коренных наций Международный трибунал против биологического оружия"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/indigenous-nations-tribunal/","title":"Альянс коренных наций Международный трибунал против биологического оружия"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Альянс коренных наций Международный трибунал против биологического оружия | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Коренные нации во всем мире объединяются, чтобы провести международные трибунальные разбирательства против развертывания биологического оружия на основе мРНК против их суверенного населения."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"indigenous-nations, tribunal, bioweapons, sovereignty, international-law"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/indigenous-nations-tribunal/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/indigenous-nations-tribunal/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/indigenous-nations-tribunal/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/indigenous-nations-tribunal/"}],["$","meta","10",{"property":"og:title","content":"Альянс коренных наций Международный трибунал против биологического оружия"}],["$","meta","11",{"property":"og:description","content":"Коренные нации во всем мире объединяются, чтобы провести международные трибунальные разбирательства против развертывания биологического оружия на основе мРНК против их суверенного населения."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/indigenous-nations-tribunal/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/indigenous-nations-tribunal.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Альянс коренных наций Международный трибунал против биологического оружия"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Альянс коренных наций Международный трибунал против биологического оружия"}],["$","meta","25",{"name":"twitter:description","content":"Коренные нации во всем мире объединяются, чтобы провести международные трибунальные разбирательства против развертывания биологического оружия на основе мРНК против их суверенного населения."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/indigenous-nations-tribunal.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

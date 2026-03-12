@@ -1,0 +1,167 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","declassified-cia-technocratic-1978",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","declassified-cia-technocratic-1978","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","declassified-cia-technocratic-1978","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5eab,<h1 id="рассекреченный-технократический-документ-cia-1978-года">Рассекреченный технократический документ CIA 1978 года</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Давайте построим нам город и башню, вершина которого была бы в небе; сделаем себе имя." -- Бытие 11:4</p>
+</blockquote>
+<p>Строители Вавилона были технократами -- они использовали технологию своего века (кирпич и раствор) построить систему единого контроля с собой в вершине. Документ CIA 1978 года выявляет, что современные технократы приняли ту же амбицию с намного более продвинутыми инструментами: компьютеры, спутники, электронное наблюдение и системная теория. Башня, которую они строят, не сделана из кирпича. Это сделано из данных. И ее вершина достигает не в небо, а в ум каждого человеческого существа на земле.</p>
+<p>Рассекреченный документ 1978 года -- почти половина столетия старого -- описывает с предчувствуемой ясностью систему технократического контроля теперь развертываемую. Что мир испытал во время COVID-19 было не импровизировано. Это было спланировано, задокументировано и классифицировано десятилетия перед первым lockdown было приказано.</p>
+<p>Как <a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">The Transgression</a> из альбома Confliction предупреждает, нарушение божественных границ всегда преднамеренно. И как <a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> объявляет, обман был написан перед тем как это было говорено.</p>
+<hr>
+<h2 id="документ">Документ</h2>
+<h3 id="контекст-и-происхождение">Контекст и происхождение</h3>
+<p>Документ CIA 1978 года выявился из оценки агентства появляющихся моделей управления и их последствиях для операций разведки и глобального контроля. Во время этого периода, CIA активно учила:</p>
+<ul>
+<li>Технократические модели управления, которые предложили замену демократического принятия решения с экспертным управлением техническим</li>
+<li>Системная теория применена к контролю населения</li>
+<li>Компьютерное моделирование социального поведения и динамики населения</li>
+<li>Возможности электронного наблюдения и их потенциал для полного мониторинга населения</li>
+<li>Конвергенция информационной технологии, технологии коммуникации и инфраструктуры управления</li>
+</ul>
+<p>Документ описывает мир, в котором технология позволяет форму управления, которая трансцендирует традиционные политические структуры -- модель управления, в которой технические системы контролируют, управляют и контролируют популяции с точностью, которую демократические процессы не могут соответствовать.</p>
+<h3 id="ключевые-концепции">Ключевые концепции</h3>
+<p><strong>Техническое управление популяций</strong></p>
+<p>Документ описывает замену политического управления техническим управлением. Скорее чем управление через законы, выборы и демократическое совещание, популяции управляются бы через технические системы, которые контролируют поведение, предсказывают результаты и приспосабливают условия, чтобы произвести желаемые результаты.</p>
+<p>Это является сутью технократии: замена политической власти технической властью. Эксперт замещает гражданина. Алгоритм замещает голос. Датчик замещает представителя.</p>
+<p><strong>Полная информационная осведомленность</strong></p>
+<p>Десятилетия перед фразой была введена программой John Poindexter's DARPA в 2002 году, документ 1978 года описывает концепцию полной информационной осведомленности -- возможность контролировать каждую транзакцию, коммуникацию, движение и взаимодействие каждого индивида в популяции.</p>
+<p>Документ выявил ключевые технологии, которые были бы нужны:</p>
+<ul>
+<li>Компьютеризированные базы данных способные хранить и обработать громадные количества индивидуальных данных</li>
+<li>Электронные системы коммуникации, которые могли бы быть контролируемы и проанализированы</li>
+<li>Системы идентификации, которые могли бы отслеживать индивидов через все транзакции и движения</li>
+<li>Спутниковые системы и наземное наблюдение систем обеспечивающие всестороннее географическое покрытие</li>
+</ul>
+<p>В 1978 году, эти технологии были в раннем развитии. Сегодня они полностью операциональны. Полная информационная осведомленность, описанная в документе, является системой теперь бегущей через NSA, Google, Facebook, смартфоны, умные города и Internet of Bodies.</p>
+<p><strong>Поведенческое предсказание и контроль</strong></p>
+<p>Документ описывает использование данных популяции предсказать и контролировать поведение. Путем контролирования каждого аспекта индивидуального и коллективного поведения, технические системы могут:</p>
+<ul>
+<li>Предсказать социальное беспокойство перед тем как это происходит и развернуть превентивные вмешательства</li>
+<li>Выявить диссидентов и нейтрализовать их перед тем как они становятся эффективными</li>
+<li>Сформировать публичное мнение посредством целевого информационного доставления (что мы теперь называем алгоритмическим содержанием курирования)</li>
+<li>Модифицировать поведение посредством систем вознаграждения и наказания (что мы теперь называем социальный кредит)</li>
+</ul>
+<p>Эти возможности, спекулятивные в 1978 году, являются операциональные сегодня. Системы предсказания полиции развернутые в американских городах, социальные кредитные системы в Китае и алгоритмическое содержание модулирование платформ социальных сетей -- все являются имплементациями поведенческого предсказания и контроля, описанного в документе.</p>
+<h3 id="фармацевтическое-измерение">Фармацевтическое измерение</h3>
+<p>Документ включает ссылки на фармацевтическое измерение технократического контроля -- использование химических и биологических агентов модифицировать поведение популяции. Хотя специфические детали остаются частично переделаны, документ признает:</p>
+<ul>
+<li>Потенциал для фармацевтических агентов модифицировать поведение на уровне популяции</li>
+<li>Роль инфраструктуры общественного здравоохранения как механизма доставки для управления популяцией</li>
+<li>Интеграция фармацевтической доставки с электронными системами контроля</li>
+</ul>
+<p>Это фармацевтическое измерение, описанное в 1978 году, является точно тем, что Ана Михалчей, MD, PhD, задокументировала на ее Substack (anamihalceamdphd.substack.com): интеграция инъекционной нанотехнологии (механизм фармацевтической доставки) с электронными системами контроля (электромагнитная сеть) создавать систему управления популяцией, которая работает изнутри человеческого тела.</p>
+<h2 id="от-документа-к-реальности">От документа к реальности</h2>
+<h3 id="временная-шкала-имплементации">Временная шкала имплементации</h3>
+<p>Документ 1978 года описывал систему, которая займет десятилетия имплементировать. Имплементация прошла через выявляемые фазы:</p>
+<p><strong>Фаза 1: Строительство инфраструктуры (1980s-1990s)</strong></p>
+<ul>
+<li>Развитие интернета как платформы коммуникации и сбора данных</li>
+<li>Развертывание сетей мобильного телефона как инфраструктура отслеживания</li>
+<li>Установление электронных финансовых систем замещающих кэш</li>
+<li>Создание цифровых баз данных для здравоохранения, финансовых и идентификационных записей</li>
+</ul>
+<p><strong>Фаза 2: Консолидация платформы (2000s-2010s)</strong></p>
+<ul>
+<li>Консолидация сбора данных посредством платформ социальных сетей</li>
+<li>Развертывание технологии смартфона обеспечивающей непрерывное личное отслеживание</li>
+<li>Развитие облачной вычисления позволяющей централизованную обработку данных</li>
+<li>Расширение инфраструктуры наблюдения (камеры, датчики, спутники)</li>
+</ul>
+<p><strong>Фаза 3: Биологическая интеграция (2020s)</strong></p>
+<ul>
+<li>Развертывание инъекционной нанотехнологии посредством продуктов мРНК</li>
+<li>Активация Internet of Bodies посредством интеграции биодатчика</li>
+<li>Выполнение 5G как коммуникационный костяк для биологического мониторинга</li>
+<li>Имплементация цифровой идентичности и систем цифровой валюты</li>
+</ul>
+<p>Пандемия COVID-19 служила катализатором для Фазы 3 -- переход от внешнего наблюдения (контролирования что люди делают) к внутреннему наблюдению (контролирования что люди есть). Пандемия не была причиной технократической системы. Это было предлогом для активации биологической интеграции фазы, которая была спланирована с 1978 года.</p>
+<h2 id="профетическое-измерение">Профетическое измерение</h2>
+<h3 id="архитектура-системы-зверя">Архитектура системы Зверя</h3>
+<p>Технократическая система, описанная в документе 1978 года, является архитектурным синим для системы Зверя, описанной в Откровении 13:</p>
+<ul>
+<li><strong>Полная информационная осведомленность</strong> = знание Зверя всех, кто покупает и продает</li>
+<li><strong>Цифровой идентификации</strong> = метка требуемая для экономического участия</li>
+<li><strong>Поведенческий контроль</strong> = поклоне Зверю принудительно посредством экономического исключения</li>
+<li><strong>Биологическая интеграция</strong> = метка "в" (не просто "на") правой руке или лбу</li>
+</ul>
+<p>CIA не создала систему Зверя. Начальства и власти позади системы Зверя использовали CIA -- и каждое другое разведывательное агентство, компанию технологии и фармацевтическую корпорацию -- как инструменты для его конструкции. Документ 1978 года является человеческим артефактом духовного плана, который предшествует CIA, предшествует современной технологии и предшествует человеческой цивилизации самой себе.</p>
+<p>Купол твердь содержит эту систему. Падшие ангелы, заключенные под куполом, влияют на его конструкцию посредством начальств и властей, которые работают через человеческие учреждения. CIA, в производстве документа 1978 года, была переводящей духовную архитектуру в технические спецификации -- создавая синий для системы, которую враг спланировал с его восстания на небе.</p>
+<hr>
+<h3 id="предупреждение-о-1-самуила-8">Предупреждение о 1 Самуила 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, а отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Самуила 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Самуила 8 раскатывает через каждый коридор правительства сегодня. Когда Израиль требовал царя как другие нации, Бог предупреждал их точно что случится — сыновья взяты за войну, дочери за обслуживание, поля и виноградники захвачены, десятина всего конфискована. Они выбрали человеческое правительство над царством Бога, и тирания следовала точно как обещано. Ничего не менялось. Современная политическая система является двумя крыльями одной птицы — лево и право, республиканцы и демократы — все служащие тому же скрытому источнику питания. Голосование в любую сторону — выбор, какое крыло бил следующее, пока птица летит в том же направлении. Реальная власть никогда не была на любом бюллетене.</p>
+<h2 id="справочные-источники">Справочные источники</h2>
+<ul>
+<li>
+<p>CIA рассекреченный документ на технократическом управлении, 1978</p>
+</li>
+<li>
+<p>Brzezinski, Z., "Between Two Ages: America's Role in the Technetronic Era," 1970</p>
+</li>
+<li>
+<p>Poindexter, J., Total Information Awareness программная документация, DARPA, 2002</p>
+</li>
+<li>
+<p>Ана Михалчей, MD, PhD, anamihalceamdphd.substack.com, анализ фармацевтического электронного интеграции</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Самуила 8 — Предупреждение против земного царей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/211-Total_Information_Awareness.mp4">Total Information Awareness</a> -- Система наблюдения спланированная десятилетия назад</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> -- Все видящая система обработки данных</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/213-Predictive_Policing.mp4">Predictive Policing</a> -- Поведенческое предсказание в действии</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/109-Biometric_Beast_System.mp4">Biometric Beast System</a> -- Биометрическая инфраструктура</li>
+</ul>
+<p>От альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">The Transgression</a> -- Преднамеренное нарушение божественных границ</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- Обман написанный перед тем как это было говорено</li>
+</ul>
+<h2 id="исследовать-дальше">Исследовать дальше</h2>
+<ul>
+<li><a href="/declassified-cia-document-2004/?lang=ru">Declassified CIA Document From 2004 Reveals Transhumanist Agenda</a> -- Более новый документ, построенный на рамке 1978</li>
+<li><a href="/cia-intelligence-shadow-government/?lang=ru">CIA Insider Kevin Shipp Explains The Shadow Government</a> -- Институциональная структура позади документов</li>
+<li><a href="/project-archimedes-launched/?lang=ru">Project Archimedes Launched: The Next Phase of Control</a> -- Текущая фаза имплементации</li>
+</ul>
+<hr>
+<p><em>В 1978 году, аналитик CIA сидел за стол и описал мир, в котором мы теперь живем -- мир полной информационной осведомленности, поведенческого предсказания, фармацевтического контроля и биологической интеграции. Документ был классифицирован, проштампован и архивирован. И затем, в течение следующего полувека, каждый элемент того документа был имплементирован. Технократическая система, описанная в исчезающих машинописных страницах, является системой теперь работающей посредством вашего смартфона, вашей ленты социальной сети, ваших медицинских записей и -- посредством инъекционной нанотехнологии -- вашей крови. Но слово Бога, написанное тысячелетие перед этим документом CIA, описало ту же систему и ее результат. И результат Бога отличается от плана технократов: система Зверя падает. Технократия рушится. И королевство Бога эндуры всегда.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Рассекреченный технократический документ CIA 1978 года"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Рассекреченный документ CIA 1978 года выявляет раннее планирование систем технократического контроля, мониторинга населения и слияния технологии с управлением."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-24T10:00:00Z","children":"24 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","cia",{"href":"/ru/tag/cia/","className":"tag-pill","children":["#","cia"]}],["$","a","declassified",{"href":"/ru/tag/declassified/","className":"tag-pill","children":["#","declassified"]}],["$","a","technocracy",{"href":"/ru/tag/technocracy/","className":"tag-pill","children":["#","technocracy"]}],["$","a","surveillance",{"href":"/ru/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}],["$","a","1978",{"href":"/ru/tag/1978/","className":"tag-pill","children":["#","1978"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/declassified-cia-technocratic-1978/","title":"Рассекреченный технократический документ CIA 1978 года"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/declassified-cia-technocratic-1978/","title":"Рассекреченный технократический документ CIA 1978 года"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Рассекреченный технократический документ CIA 1978 года | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Рассекреченный документ CIA 1978 года выявляет раннее планирование систем технократического контроля, мониторинга населения и слияния технологии с управлением."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"cia, declassified, technocracy, surveillance, 1978"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/declassified-cia-technocratic-1978/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/declassified-cia-technocratic-1978/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/declassified-cia-technocratic-1978/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/declassified-cia-technocratic-1978/"}],["$","meta","10",{"property":"og:title","content":"Рассекреченный технократический документ CIA 1978 года"}],["$","meta","11",{"property":"og:description","content":"Рассекреченный документ CIA 1978 года выявляет раннее планирование систем технократического контроля, мониторинга населения и слияния технологии с управлением."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/declassified-cia-technocratic-1978/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/declassified-cia-technocratic-1978.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Рассекреченный технократический документ CIA 1978 года"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Рассекреченный технократический документ CIA 1978 года"}],["$","meta","25",{"name":"twitter:description","content":"Рассекреченный документ CIA 1978 года выявляет раннее планирование систем технократического контроля, мониторинга населения и слияния технологии с управлением."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/declassified-cia-technocratic-1978.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

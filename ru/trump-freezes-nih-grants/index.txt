@@ -1,0 +1,137 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","trump-freezes-nih-grants",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","trump-freezes-nih-grants","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","trump-freezes-nih-grants","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5c66,<h1 id="трамп-морозит-nih-утверждения-и-гранты-исследования">Трамп морозит NIH утверждения и гранты исследования</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Верный в малом верен и во многом; неправедный в малом неправедник и во многом." — Люк 16:10</p>
+</blockquote>
+<p>Когда Неемия вернулся в Иерусалим и обнаружил, что левиты были изгнаны из Храма, потому что десятины были отвлечены, он не просто восстановил десятины. Он противостоял должностным лицам, которые позволили отвлечение, очистил камеры и установил новый надзор. Деньги были неправильно распределены — не внешним врагам, но внутренней коррупцией. Те же фонды, означенные поддерживать дом Бога, были переориентированы служить приватным интересам.</p>
+<p>Как раскрывает трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a>, запретное знание всегда несёт цену — и цена всегда платится теми, кто не выбирал его преследовать. Система гранта исследования NIH потратила десятилетия направляя деньги налогоплательщика в программы исследования, которые продвинули интересы промышленности фармацевтических, тогда как пренебрегаете фундаментальными вопросами о общественном здоровье, что агентство было создано ответить.</p>
+<p>Заморозка наступила. Десятины были остановлены. И должностные лица, которые отвлекли их, спрашивают почему.</p>
+<hr>
+<h2 id="машина-гранта-nih">Машина гранта NIH</h2>
+<p>Национальные институты здоровья это наиболее большой публичный финансиер биомедицинского исследования в мире, с годовым бюджетом превышающим $47 миллиардов. Подавляющее большинство этого бюджета — приблизительно $32 миллиардов — распределено через гранты исследования университетам, медицинским школам, учреждениям исследования и отдельным учёным по всей стране и вокруг мира.</p>
+<p>Система гранта NIH формирует американское биомедицинское исследование в его целостности. Темы исследования, которые получают финансирование NIH, преследуются. Темы, которые не получают финансирование NIH, отказано. Учёные, которые выравнивают их исследование с приоритетами NIH, получают финансирование, пребывание должности и престиж. Учёные, которые преследуют вопросы за пределами приоритетов NIH, сталкиваются с стагнацией карьеры.</p>
+<p>Эта система даёт NIH — и подставкой, должностные лица, которые контролируют приоритеты финансирования NIH — эффективную власть вето над направлением американской биомедицинской науки. Если NIH решает, что вопрос не должен быть изучен, не будет изучен. Если NIH решает, что подход исследования должен быть приоритизирован, это будет приоритизировано. Агентство не просто финансирует науку — это направляет её.</p>
+<p>Карен Кингстон задокументировала в The Kingston Report (karenkingston.substack.com), что приоритеты финансирования NIH были систематически выравнены с интересами промышленности фармацевтических: "NIH не финансирует исследование, которое угрожает фармацевтическому доходу. Это не финансирует сравнительные исследования вакцинированных vs. невакцинированных популяций. Это не финансирует исследование в естественный иммунитет. Это не финансирует расследования в коренные причины хронического заболевания, которое могло бы вовлечь фармацевтические продукты. Это финансирует исследование, которое поддерживает разработку, маркетинг и развёртывание фармацевтических продуктов — потому что должностные лица, которые устанавливают приоритеты финансирования, соединены с промышленностью, которая выигрывает от них."</p>
+<h3 id="проблема-роялти">Проблема роялти</h3>
+<p>Критический и неподчёркиваемый аспект коррупции NIH -- это система роялти. Учёные NIH — включая те в лидерских позициях, которые влияют на решения финансирования — право получать персональные платежи роялти от фармацевтических компаний, которые коммерциализируют технологии развитые с поддержкой NIH.</p>
+<p>Между 2010 и 2020, учёные NIH получили оценённую $350 миллионов в платежах роялти от фармацевтических и биотехнологических компаний. Эти платежи были сделаны отдельным учёным — не агентству — и не были публично раскрыты до принудительной FOIA судебной тяжбы.</p>
+<p>Конфликт интереса потрясающий. Учёные NIH, которые получают роялти от фармацевтических компаний, те же учёные, которые:</p>
+<ul>
+<li>Устанавливают приоритеты финансирования исследования</li>
+<li>Рассматривают применение гранта от других исследователей</li>
+<li>Служат на рекомендательных комитетах, которые влияют на политику препарата и вакцины</li>
+<li>Делают решения о том, какие вопросы исследования не стоит преследовать</li>
+</ul>
+<p>Учёный, получающий персональные роялти от Moderna, имеет финансовый интерес в исследовании, которое поддерживает продукты Moderna — и финансовый стимул противодействия финансировать исследование, которое могло бы вопрос им.</p>
+<hr>
+<h2 id="заморозка">Заморозка</h2>
+<p>Заморозка президента Трампа на утверждениях гранта NIH и финансировании исследования останавливает поток деньги налогоплательщика через систему, которая задокументирована работать с распространённых конфликтов интереса и неадекватного надзора. Заморозка охватывает:</p>
+<p><strong>Новые утверждения гранта:</strong> Нет новых грантов исследования NIH будут утверждены во время периода заморозки.</p>
+<p><strong>Обновления гранта:</strong> Существующие гранты не будут возобновлены до комплексного рассмотрения приоритетов финансирования NIH и политик конфликта-интереса завершено.</p>
+<p><strong>Внутреннее исследование:</strong> Исследование, проведённое в собственных лабораториях NIH, предмет рассмотрения для выравнивания с переформированными приоритетами агентства.</p>
+<p><strong>Международные гранты:</strong> Финансирование NIH, текущее к международным учреждениям исследования — включая учреждения, вовлечённые в исследование усиления функций — морозиться в ожидании рассмотрения.</p>
+<p>Заморозка не затрагивает гранты, которые уже были распределены или исследование, которое в настоящее время проводится в соответствии с существующим финансированием. Это затрагивает трубопровод — следующий раунд грантов, обновления и утверждения.</p>
+<hr>
+<h2 id="ответ">Ответ</h2>
+<p>Научное учреждение реагировало с беспрецедентной тревогой. Администраторы университета предупредить закрытия лаборатории. Руководители отделения предупредить отпускания исследователя. Научные журналы публикуют редакционные статьи чтение "политизации науки". Нобелевские лауреаты подписывают открытые письма требующие восстановления финансирования.</p>
+<p>Но тревога выборочна. То же научное учреждение, которое теперь требует восстановления финансирования налогоплательщика:</p>
+<ul>
+<li>Не поднимало тревогу, когда приоритеты финансирования NIH были выравнены с интересами промышленности фармацевтических</li>
+<li>Не требовало прозрачности, когда учёные NIH получили сотни миллионов в персональных роялти от компаний они были предполагаться наблюдать</li>
+<li>Не выразили возражение, когда финансирование NIH поддержало разработку продуктов развёрнутых в соответствии с Чрезвычайным авторизацией использования без завершённых клинических испытаний</li>
+<li>Не протестировали, когда финансирование NIH было использовано поддержать исследование усиления функций в иностранных лабораториях</li>
+<li>Не требовало ответственности, когда NIH подавило исследование раннего лечения, которое угрожало структуре EUA</li>
+</ul>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> документирует, как потоки финансирования, соединяющие федеральные учреждения, подрядчиков защиты и фармацевтические компании, создают самоустойчивую экосистему, в которой те же деньги, циклирующие через те же учреждения, производящие те же результаты, независимо от публичного интереса.</p>
+<p>Кингстон заметила: "Научное учреждение не встревожено, потому что исследование остановится. Это встревожено, потому что деньги остановятся. Система гранта NIH не просто механизм финансирования — это система покровительства. Университеты зависят от косвенных платежей стоимости NIH (косвенная стоимость), которые финансируют их администрацию, их здания и их расширение. Исследователи зависят от грантов NIH для их зарплат, их сроков имущества и их престижа. Заморозка угрожает не научному прогрессу, но институциональному доходу."</p>
+<hr>
+<h2 id="пророческая-линза">Пророческая линза</h2>
+<blockquote>
+<p>"Будет ли человек обкрадывать Бога? Но вы обкрадываете Меня и говорите: "в чём мы обкрадываем Тебя?" В десятинах и приношениях." — Малахия 3:8</p>
+</blockquote>
+<p>NIH был создан служить американцам — использовать деньги налогоплательщика продвинуть знание, которое защищает и улучшает человеческое здоровье. Вместо этого, агентство служило фармацевтической промышленности — используя деньги налогоплательщика разработать продукты, которые генерируют приватный прибыль, пока оставляя публика нести расходы и последствия.</p>
+<p>Это форма кражи. Десятины американцев — их налоговые доллары — были предложены для цели здоровья. Они были отвлечены к цели прибыли. Заморозка попытка восстановить оригинальную цель приношения.</p>
+<hr>
+<h3 id="предупреждение-1-сэмюэля-8">Предупреждение 1 Сэмюэля 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всём, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Сэмюэля 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Сэмюэля 8 отзывается через каждый коридор правительства сегодня. Когда Израиль потребовал царя, как другие нации, Бог предупредил их точно что произойдёт — их сыновья взяты для войны, их дочери для услуги, их поля и виноградники захвачены, десятая часть всего конфискована. Они выбрали человеческое правительство над реймом Бога и тирания последовала точно, как обещано. Ничего не изменилось. Современная политическая система две крылья того же птицы — левый и правый, республиканец и демократ — все служащие той же скрытой степени структуры мощности. Голосование для одной стороны выбирающие, какое крыло хлопает далее, тогда как птица летит в том же направлении. Реальная мощь никогда не была на каком-нибудь бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>NIH.gov — Бюджет, документация программы гранта и финансовая статистика</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Анализ Карен Кингстон конфликтов финансирования NIH, документация платежа роялти и захват учреждения через систему гранта</p>
+</li>
+<li>
+<p>Open The Books — Раскрытия платежа роялти NIH, полученные через FOIA</p>
+</li>
+<li>
+<p>Офис внешреннего исследования NIH — Политики управления грантом</p>
+</li>
+<li>
+<p>Люк 16:10, Малахия 3:8 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Сэмюэля 8 — Предупреждение против земных королей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство близости к смерти Ховарда Питтмана — предупреждение о конце времён</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что может быть в подвале Ватикана!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> — Федеральные потоки финансирования, соединяющие учреждения и промышленность</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/171-Great_Reset_Rising.mp4">Great Reset Rising</a> — Институциональная экосистема угрожала реформой</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — Финансовые приговоры связывающие учреждения к коррупции</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> — Запретное знание финансировано украденными десятинами</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">The Transgression</a> — Пересечение границы между публичной услугой и приватным прибылью</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/hhs-pulls-mrna-research-funding/?lang=ru">HHS Pulls $500 Million in mRNA Research Funding</a> — Сокращение финансирования, специфичное для mRNA</li>
+<li><a href="/trump-bans-gain-of-function/?lang=ru">Trump Executive Order Bans Gain-of-Function Research</a> — Запрещение исследования, которое NIH финансировал за границей</li>
+<li><a href="/hhs-maha-transformation/?lang=ru">HHS Announces MAHA Transformation of Healthcare</a> — Более широкое видение реформы</li>
+<li><a href="/fauci-covid-emails-disclosed/?lang=ru">Will Fauci's COVID-19 Emails Finally Be Disclosed</a> — Путь коммуникации от руководства NIH</li>
+</ul>
+<hr>
+<p><em>Неемия обнаружил, что десятины, означенные для Храма, были отвлечены к приватным интересам, левиты были изгнаны и дом Бога стоял пренебречён. Годовой бюджет NIH $47 миллиардов — финансировано десятинами налогоплательщика американца — был отвлечён к прибыли промышленности фармацевтической, подлинное исследование безопасности было изгнано и дом общественного здоровья стоит пренебречён. Заморозка -- противостояние Неемии — требование, что деньги вернётся к предопределённой цели. "Принесите всю десятину в сокровищницу, чтобы было довольствие в доме Моём, и испытайте Меня в этом, говорит Господь Саваоф, не открою ли Я вам окна небесные" (Малахия 3:10). Десятины были неправильно направлены в течение десятилетий. Заморозка требует их восстановления.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Трамп морозит NIH утверждения и гранты исследования"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Президент Трамп морозит утверждения гранта NIH и финансирование исследования, разрывая финансовый трубопровод, который соединил деньги налогоплательщика фармацевтической промышленности прибыль."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-19T10:00:00Z","children":"19 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Trump",{"href":"/ru/tag/Trump/","className":"tag-pill","children":["#","Trump"]}],["$","a","NIH",{"href":"/ru/tag/NIH/","className":"tag-pill","children":["#","NIH"]}],["$","a","исследование-гранты",{"href":"/ru/tag/исследование-гранты/","className":"tag-pill","children":["#","исследование-гранты"]}],["$","a","финансирование-заморозка",{"href":"/ru/tag/финансирование-заморозка/","className":"tag-pill","children":["#","финансирование-заморозка"]}],["$","a","реформа",{"href":"/ru/tag/реформа/","className":"tag-pill","children":["#","реформа"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/trump-freezes-nih-grants/","title":"Трамп морозит NIH утверждения и гранты исследования"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/trump-freezes-nih-grants/","title":"Трамп морозит NIH утверждения и гранты исследования"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Трамп морозит NIH утверждения и гранты исследования | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Президент Трамп морозит утверждения гранта NIH и финансирование исследования, разрывая финансовый трубопровод, который соединил деньги налогоплательщика фармацевтической промышленности прибыль."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Trump, NIH, исследование-гранты, финансирование-заморозка, реформа"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/trump-freezes-nih-grants/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/trump-freezes-nih-grants/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/trump-freezes-nih-grants/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/trump-freezes-nih-grants/"}],["$","meta","10",{"property":"og:title","content":"Трамп морозит NIH утверждения и гранты исследования"}],["$","meta","11",{"property":"og:description","content":"Президент Трамп морозит утверждения гранта NIH и финансирование исследования, разрывая финансовый трубопровод, который соединил деньги налогоплательщика фармацевтической промышленности прибыль."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/trump-freezes-nih-grants/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/trump-freezes-nih-grants.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Трамп морозит NIH утверждения и гранты исследования"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Трамп морозит NIH утверждения и гранты исследования"}],["$","meta","25",{"name":"twitter:description","content":"Президент Трамп морозит утверждения гранта NIH и финансирование исследования, разрывая финансовый трубопровод, который соединил деньги налогоплательщика фармацевтической промышленности прибыль."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/trump-freezes-nih-grants.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

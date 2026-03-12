@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","hhs-orders-cdc-stop-flu-vaccine",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","hhs-orders-cdc-stop-flu-vaccine","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","hhs-orders-cdc-stop-flu-vaccine","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4fd9,<h1 id="министерство-здравоохранения-приказывает-cdc-остановить-программу-вакцины-от-гриппа-дикий-слабый">Министерство здравоохранения приказывает CDC остановить программу вакцины от гриппа 'дикий-слабый'</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Берегитесь лжепророков, которые приходят к вам в овечьей шкуре, а внутри суть волки хищные." — Матфей 7:15</p>
+</blockquote>
+<p>Змей в Саду не представил себя хищником. Он представился советником — предлагая мудрость, знание и улучшение. "Вы будете как боги, знающие добро и зло" (Бытие 3:5). Обещание было сформулировано как усовершенствование. Реальность была разрушением.</p>
+<p>Как выявляет трек Confliction "Маска сатаны" (Satan's Disguise), наиболее опасные операции противника — это те, что скрыты в языке выгоды. Программа, описываемая как превращение дикого вируса в мягкий, звучит защитно. Но при внимательном рассмотрении процесс преобразования дикого патогена в кандидата на "мягкую" вакцину включает ту же манипуляцию характеристик патогена, которая определяет исследование усиления функциональности — она просто применяет противоположный ярлык.</p>
+<p>Министерство здравоохранения приказало CDC остановить эту программу. Волки, скрывавшиеся в овечьей шкуре, были идентифицированы.</p>
+<hr>
+<h2 id="программа-дикий-слабый">Программа 'дикий-слабый'</h2>
+<p>Программа вакцины от гриппа 'дикий-слабый' CDC была разработана для получения циркулирующих в природе вирусов гриппа и их ослабления — снижения их вирулентности — для создания кандидатов в вакцины. Процесс включал серийный проход диких вирусов через культуры клеток, отбирающие варианты с пониженной патогенностью при сохранении иммунногенности.</p>
+<p>Хотя программа была позиционирована как разработка вакцины, критики — включая экспертов по биобезопасности и исследователей усиления функциональности — указывали, что манипуляция характеристиками патогена в лаборатории включает те же методы, те же учреждения и те же риски, что и исследование усиления функциональности. Различие между "усилением" патогена и "ослаблением" его — это различие намерения, а не методики. Обе включают преднамеренное изменение характеристик патогена через лабораторное манипулирование.</p>
+<p>Карен Кингстон задокументировала в The Kingston Report, что "программа 'дикий-слабый' работала в серой зоне между разработкой вакцины и исследованием усиления функциональности. Лабораторные методы идентичны. Риски биобезопасности идентичны. Единственное различие — в каком направлении вы толкаете патоген — к большей вирулентности или меньшей. Но лабораторная эволюция непредсказуема. Ослабленные вирусы могут вернуть вирулентность. Мутации могут произвести неожиданные фенотипы. Каждое лабораторное манипулирование патогеном создает риск, независимо от предполагаемого результата."</p>
+<h3 id="проблема-живой-ослабленной-вакцины">Проблема живой ослабленной вакцины</h3>
+<p>Продукты программы 'дикий-слабый' предназначались для использования в качестве живых ослабленных вакцин от гриппа (LAIВ) — вакцин, содержащих ослабленный, но живой вирус. LAIВ имеют известный риск, которого нет у традиционных инактивированных вакцин: ослабленный вирус может потенциально вернуть более вирулентную форму, особенно у иммунокомпрометированных лиц.</p>
+<p>Оральная полиомиелитная вакцина (OПВ), живая ослабленная вакцина, была снята с использования в Соединенных Штатах именно из-за этого риска. Полиомиелит, полученный от вакцины (ВДПВ) — полиомиелит, вызванный вернувшейся к вирулентности вакциной — стал более распространенной причиной параличного полиомиелита, чем дикий полиовирус. ВОЗ задокументировала сотни случаев полиомиелита, полученного от вакцины, во всем мире.</p>
+<p>Применение подобной живой аттенуированной технологии к гриппу — вирусу с гораздо большей генетической изменчивостью и скоростью эволюции, чем полиовирус — вызывает усиленные опасения по поводу реверсии и непредвиденной патогенной эволюции.</p>
+<hr>
+<h2 id="приказ-и-его-последствия">Приказ и его последствия</h2>
+<p>Приказ Министерства здравоохранения об остановке программы 'дикий-слабый' соответствует более широкой политике администрации по ограничению лабораторного манипулирования опасными патогенами. Приказ:</p>
+<ul>
+<li>Прекращает все исследовательские мероприятия CDC, связанные с программой</li>
+<li>Замораживает финансирование, выделенное на операции программы</li>
+<li>Требует комплексной проверки деятельности программы, включая аудит всех патогенов, манипулируемых, хранившихся или распределяемых через программу</li>
+<li>Запрещает передачу материалов программы другим федеральным агентствам, академическим учреждениям или международным партнерам, пока идет проверка</li>
+</ul>
+<p>Последствия приказа выходят за рамки конкретной программы. Он устанавливает прецедент, что любое лабораторное манипулирование характеристиками патогена — независимо от заявленного намерения — подпадает под запрет администрации на исследование усиления функциональности, если специально не исключено через процесс проверки, который еще не определен.</p>
+<p>Этот прецедент может повлиять на программы разработки вакцин по всему федеральному правительству, включая разработку вакцин от гриппа, исследования вакцин RSV и другие программы, включающие лабораторное манипулирование патогенами.</p>
+<hr>
+<h2 id="более-широкий-образец">Более широкий образец</h2>
+<p>Программа 'дикий-слабый' — один компонент более широкого образца, задокументированного в нескольких статьях этой серии: операции федерального правительства по исследовательским программам, которые размывают границу между защитой общественного здравоохранения и созданием биологической угрозы.</p>
+<p>Трек DARPA Dark Winter задокументирует военное происхождение программ подготовки к пандемии. Трек Event 201 Came True задокументирует конвейер от симуляции к реальности. Трек Lockstep With The Beast задокументирует синхронизированное институциональное соответствие, которое позволяет этим программам работать без ответственности.</p>
+<p>Kingston связывает эти программы с бизнес-моделью фармацевтики: "Биозащитное учреждение создает угрозы. Фармацевтическая промышленность продает противодействие. Органы регулирования одобряют продукты. Средства массовой информации продают страх. Цикл самоустойчив, потому что каждый узел зависит от других в финансировании, авторитете и оправдании своего существования. Разрыв одного звена — как это сделало Министерство здравоохранения с программой 'дикий-слабый' — нарушает всю цепь."</p>
+<hr>
+<h2 id="пророческое-предупреждение">Пророческое предупреждение</h2>
+<blockquote>
+<p>"Ибо они сеют ветер, и пожнут бурю." — Осия 8:7</p>
+</blockquote>
+<p>Лабораторное манипулирование патогенами — будь то усиление функциональности, ослабление или разработка вакцин — это сеяние ветра. Обещание — контроль — способность манипулировать природой для человеческой выгоды. Но природа, созданная Богом и управляемая Его законами, не подчиняется человеческому контролю. Ослабленные вирусы возвращают вирулентность. Лабораторные аварии высвобождают сконструированные патогены. Манипулируемые организмы эволюционируют непредсказуемыми путями.</p>
+<p>Программа 'дикий-слабый' сеяла ветер. Министерство здравоохранения приказало остановить ее, прежде чем она пожнет бурю.</p>
+<hr>
+<h2 id="предупреждение-из-1-царств-8">Предупреждение из 1 Царств 8</h2>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: слушайся голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отзывается в каждом правительственном коридоре сегодня. Когда Израиль потребовал царя, как у других народов, Бог предупредил его точно, что произойдет — его сыновей возьмут на войну, его дочерей в услужение, его поля и виноградники отберут, десятину всего конфискуют. Они выбрали человеческое правительство вместо царства Божьего, и тирания последовала точно так, как было обещано. Ничего не изменилось. Современная политическая система — два крыла одной птицы — левое и правое, республиканцы и демократы — все служат одной скрытой структуре власти. Голосование за ту или другую сторону — это выбор, какое крыло будет махать дальше, пока птица летит в том же направлении. Реальная власть никогда не была на избирательном бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>Министерство здравоохранения — приказ об остановке программы CDC 'дикий-слабый'</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — анализ Карен Кингстон методологии программы 'дикий-слабый', параллели усиления функциональности и проблемы биобезопасности</p>
+</li>
+<li>
+<p>CDC — программы исследований вакцин от гриппа</p>
+</li>
+<li>
+<p>ВОЗ — документация по полиомиелиту, полученному от вакцины</p>
+</li>
+<li>
+<p>Матфей 7:15, Осия 8:7 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных царей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> — Военное происхождение программ манипулирования патогенами</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> — Конвейер от симуляции к реальности</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Институциональное соответствие, позволяющее опасным программам работать</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/09-Satans_Disguise.mp4">Satan's Disguise</a> — Опасные операции, скрытые в языке выгоды</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> — Запретное знание манипулирования патогенами</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/trump-bans-gain-of-function/?lang=ru">Trump Executive Order Bans Gain-of-Function Research</a> — Приказ, установивший рамки для этой остановки</li>
+<li><a href="/trump-blow-bird-flu-surveillance/?lang=ru">Trump Delivers Shocking Blow to Bird Flu Surveillance Program</a> — Параллельный демонтаж инфраструктуры пандемии</li>
+<li><a href="/hhs-pulls-mrna-research-funding/?lang=ru">HHS Pulls $500 Million in mRNA Research Funding</a> — Разрыв финансовых каналов</li>
+<li><a href="/trump-obliterates-who-h5n1/?lang=ru">Trump Obliterates WHO Plans for H5N1 Pandemic</a> — Противодействие следующему нарративу о пандемии</li>
+</ul>
+<hr>
+<p><em>Змей в Саду предложил знание, одетое в выгоду. Программа 'дикий-слабый' предложила разработку вакцины, одетую в общественное здравоохранение — но методы были неразличимы от исследования усиления функциональности, риски были идентичны, и потенциальные последствия были катастрофичны. Министерство здравоохранения узнало волка под овечьей шкурой и приказало программе остановиться. "Все испытывайте, хорошее держите" (1 Фессалоникийцам 5:21). Программа была испытана и найдена недостаточной. То, что остается доказать, — может ли федеральное правительство постоянно сопротивляться институциональному давлению возобновить манипулирование патогенами под каким бы ни было новым ярлыком, который придумает следующее поколение колдунов.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Министерство здравоохранения приказывает CDC остановить программу вакцины от гриппа 'дикий-слабый'"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Министерство здравоохранения приказало CDC приостановить спорную программу вакцины от гриппа 'дикий-слабый', которую критики называли скрытой программой усиления функциональности под видом общественного здравоохранения."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-23T10:00:00Z","children":"23 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","HHS",{"href":"/ru/tag/HHS/","className":"tag-pill","children":["#","HHS"]}],["$","a","CDC",{"href":"/ru/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","flu-vaccine",{"href":"/ru/tag/flu-vaccine/","className":"tag-pill","children":["#","flu-vaccine"]}],["$","a","gain-of-function",{"href":"/ru/tag/gain-of-function/","className":"tag-pill","children":["#","gain-of-function"]}],["$","a","public-health",{"href":"/ru/tag/public-health/","className":"tag-pill","children":["#","public-health"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/hhs-orders-cdc-stop-flu-vaccine/","title":"Министерство здравоохранения приказывает CDC остановить программу вакцины от гриппа 'дикий-слабый'"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/hhs-orders-cdc-stop-flu-vaccine/","title":"Министерство здравоохранения приказывает CDC остановить программу вакцины от гриппа 'дикий-слабый'"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Министерство здравоохранения приказывает CDC остановить программу вакцины от гриппа 'дикий-слабый' | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Министерство здравоохранения приказало CDC приостановить спорную программу вакцины от гриппа 'дикий-слабый', которую критики называли скрытой программой усиления функциональности под видом общественного здравоохранения."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"HHS, CDC, flu-vaccine, gain-of-function, public-health"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/hhs-orders-cdc-stop-flu-vaccine/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/hhs-orders-cdc-stop-flu-vaccine/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/hhs-orders-cdc-stop-flu-vaccine/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/hhs-orders-cdc-stop-flu-vaccine/"}],["$","meta","10",{"property":"og:title","content":"Министерство здравоохранения приказывает CDC остановить программу вакцины от гриппа 'дикий-слабый'"}],["$","meta","11",{"property":"og:description","content":"Министерство здравоохранения приказало CDC приостановить спорную программу вакцины от гриппа 'дикий-слабый', которую критики называли скрытой программой усиления функциональности под видом общественного здравоохранения."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/hhs-orders-cdc-stop-flu-vaccine/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/hhs-orders-cdc-stop-flu-vaccine.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Министерство здравоохранения приказывает CDC остановить программу вакцины от гриппа 'дикий-слабый'"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Министерство здравоохранения приказывает CDC остановить программу вакцины от гриппа 'дикий-слабый'"}],["$","meta","25",{"name":"twitter:description","content":"Министерство здравоохранения приказало CDC приостановить спорную программу вакцины от гриппа 'дикий-слабый', которую критики называли скрытой программой усиления функциональности под видом общественного здравоохранения."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/hhs-orders-cdc-stop-flu-vaccine.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

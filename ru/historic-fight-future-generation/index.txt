@@ -1,0 +1,157 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","historic-fight-future-generation",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","historic-fight-future-generation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","historic-fight-future-generation","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T615e,<h1 id="историческая-борьба-за-нашего-будущего-поколения">Историческая борьба за нашего будущего поколения</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Научи отрока по пути его, по которому он должен идти, и когда состарится, не уклонится от него." -- Притчи 22:6</p>
+</blockquote>
+<p>Обучение детей — это священный долг родителей — не правительств, не фармацевтических компаний, не глобальных организаций с трансгуманистской повесткой. Будущее поколение принадлежит Богу и семьям, которые Он создал, чтобы управлять ими. Историческая борьба, разворачивающаяся сейчас, о том, кто владеет детьми: родители, которые их родили, или система, которая ищет их модифицировать.</p>
+<p>Каждая тиранная система в истории нацеливалась на молодых. Фараон убил еврейских детей. Ирод убил младенцев Вифлеема. Современная система не убивает открыто — она впрыскивает тихо, модифицирует молча и захватывает технологически. Полем боя является кровоток. Оружием является игла. И призом является неповрежденная биология следующего поколения.</p>
+<p>Как напоминает нам трек "Слово, ставшее плотью" (The Word Made Flesh) из альбома Confliction, Бог стал ребенком — Он вошел в этот мир как младенец, уязвимый, зависимый и доверенный человеческим родителям. Атаковать детей — значит атаковать саму форму, через которую Бог решил войти в творение. И как объявляет "Преодоление" (The Overcoming), те, кто борется за уязвимых, наследуют победу.</p>
+<hr>
+<h2 id="цель-дети">Цель: дети</h2>
+<h3 id="педиатрическая-кампания-мрнк">Педиатрическая кампания мРНК</h3>
+<p>Несмотря на то, что дети сталкиваются со статистически почти нулевым риском от COVID-19, регулирующие органы во всем мире авторизовали инъекции мРНК для детей в возрасте от шести месяцев. Эта авторизация была основана на:</p>
+<ul>
+<li>Клинических испытаниях с размерами выборки, слишком малыми для обнаружения редких нежелательных явлений</li>
+<li>Конечных точках эффективности, которые измеряли уровни антител, а не клинические результаты</li>
+<li>Периодах наблюдения, слишком коротких для обнаружения среднесрочного или долгосрочного вреда</li>
+<li>Отсутствии оценки содержания нанотехнологии или поведения самовизуализации</li>
+</ul>
+<p>Авторизация продуктов мРНК для детей представляет расширение платформы развертывания нанотехнологии на самых молодых и уязвимых членов населения. Развивающиеся тела, иммунные системы и неврологическая архитектура детей особенно подвержены нарушениям иностранной нанотехнологией.</p>
+<p>Др. Ana Mihalcea, MD, PhD, выразила серьезное беспокойство в своем Substack относительно последствий нанотехнологии у развивающихся детей. Др. Mihalcea отмечает, что развивающаяся нервная ткань, быстро делящиеся клетки и незрелая иммунная система создают условия, при которых интеграция нанотехнологии может быть более обширной и более постоянной, чем у взрослых получателей.</p>
+<h3 id="график-детской-вакцинации">График детской вакцинации</h3>
+<p>Платформа мРНК теперь интегрируется в более широкий график детской вакцинации. Продукты на основе мРНК находятся в разработке для RSV, гриппа и других детских болезней. Каждый новый продукт мРНК несет ту же платформу нанотехнологии — липидные наночастицы, потенциальное загрязнение графеном, самосборные компоненты — которая была задокументирована в вакцинах COVID-19.</p>
+<p>Стратегия ясна: нормализовать технологию мРНК для детей через существующий график вакцинации, сделав инъекцию нанотехнологии рутинной частью детской медицинской помощи. Каждый ребенок, получающий продукт мРНК, присоединяется к сети. Каждая инъекция добавляет узлы к внутренней инфраструктуре биосенсоров. К тому времени, когда эти дети достигнут взрослого возраста, технология будет неотъемлемой частью их биологии — вплетена в их кровь, их ткани и потенциально в их нейронную архитектуру с младенчества.</p>
+<h2 id="исторический-параллель">Исторический параллель</h2>
+<h3 id="нюрнбергский-кодекс">Нюрнбергский кодекс</h3>
+<p>Нюрнбергский кодекс был установлен в 1947 году в ответ на ужасные медицинские эксперименты, проведенные нацистскими врачами в концентрационных лагерях. Его принципы являются фундаментальными для медицинской этики:</p>
+<ol>
+<li><strong>Добровольное согласие абсолютно необходимо.</strong> Задействованное лицо должно иметь юридическую способность дать согласие, должно осуществлять свободную власть выбора и должно иметь достаточные знания предмета, чтобы принять информированное решение.</li>
+<li><strong>Эксперимент должен дать результаты для общего блага, недостижимые другими средствами.</strong></li>
+<li><strong>Эксперимент должен избежать всех ненужных физических и умственных страданий.</strong></li>
+<li><strong>Ни один эксперимент не должен проводиться, когда есть причины верить, что произойдет смерть или инвалидизирующее ранение.</strong></li>
+</ol>
+<p>Развертывание содержащих нанотехнологию продуктов мРНК для детей нарушает каждый принцип Нюрнбергского кодекса:</p>
+<ul>
+<li>Дети не могут дать добровольное согласие. Родители не могут дать информированное согласие, когда компоненты нанотехнологии не были раскрыты.</li>
+<li>Результаты могли быть достигнуты другими средствами (естественный иммунитет, раннее лечение).</li>
+<li>Страдания не только не избегают — они документируются исследователями по всему миру.</li>
+<li>Существует обильные доказательства смерти и инвалидизирующего ранения от продуктов мРНК.</li>
+</ul>
+<p>Нюрнбергский кодекс был создан именно для предотвращения того, что происходит сейчас. Его принципы нарушаются в глобальном масштабе, нацеливаясь на самую уязвимую популяцию: детей.</p>
+<h3 id="декларация-юнеско-по-биоэтике">Декларация ЮНЕСКО по биоэтике</h3>
+<p>Всемирная декларация ЮНЕСКО по биоэтике и правам человека (2005 г.) подтверждает, что "интересы и благосостояние личности должны иметь приоритет над единственным интересом науки или общества" и что "любое профилактическое, диагностическое и терапевтическое медицинское вмешательство должно проводиться только с предварительного, свободного и информированного согласия затронутого лица."</p>
+<p>Развертывание неразглашенной нанотехнологии через фармацевтические продукты для детей нарушает эту декларацию комплексно. Интересы отдельного ребенка подчинены интересам фармацевтико-военно-разведывательного комплекса. Согласие невозможно, потому что раскрытие никогда не было произведено.</p>
+<h2 id="сопротивление">Сопротивление</h2>
+<h3 id="движение-за-права-родителей">Движение за права родителей</h3>
+<p>Борьба за будущее поколение катализировала наиболее мощное движение за права родителей в современной истории. Родители по всему миру:</p>
+<ul>
+<li>Выводят детей из школьных систем, требующих фармацевтического соответствия</li>
+<li>Создают кооперативы домашнего обучения и сети альтернативного образования</li>
+<li>Подают иски для защиты родительского авторитета над решениями по медицинской помощи детей</li>
+<li>Организуют политические кампании для избрания представителей, поддерживающих медицинскую свободу</li>
+<li>Создают параллельные системы здравоохранения, которые приоритизируют информированное согласие и прозрачную медицину</li>
+</ul>
+<p>Это движение пересекает каждую политическую, расовую, религиозную и социально-экономическую границу. Родители из каждого происхождения объединены одним императивом: защитить детей.</p>
+<h3 id="законодательное-действие">Законодательное действие</h3>
+<p>Законодатели в нескольких штатах и странах внесли или приняли законодательство для защиты детей от принудительной биотехнологии:</p>
+<ul>
+<li>Запреты на мандаты вакцинации для посещения школы</li>
+<li>Требования информированного согласия, которые включают полное раскрытие всех компонентов продукта</li>
+<li>Запрет экспериментальных медицинских продуктов для детей без явного согласия родителей</li>
+<li>Законодательные расследования в отношении безопасности фармацевтических препаратов и нормативных процессов</li>
+</ul>
+<p>Эти законодательные действия создают правовую базу, которая защитит будущее поколение от следующей волны развертывания нанотехнологии.</p>
+<h3 id="научное-сопротивление">Научное сопротивление</h3>
+<p>Ученые и врачи, которые отказываются участвовать в коррупции биологии детей, строят альтернативную научную инфраструктуру:</p>
+<ul>
+<li>Независимые лаборатории, проводящие анализ фармацевтических продуктов вне захваченной нормативной системы</li>
+<li>Платформы публикации, обходящие цензурируемые рецензируемые журналы</li>
+<li>Клинические сети, которые делятся протоколами лечения загрязнения нанотехнологией</li>
+<li>Исследовательские сотрудничества, которые документируют нежелательные события, подавленные официальными системами отчетности</li>
+</ul>
+<p>Эта альтернативная научная инфраструктура является основой честной медицины — медицины, которая служит пациенту, а не фармацевтической системе.</p>
+<h2 id="духовная-борьба">Духовная борьба</h2>
+<h3 id="пусть-маленькие-дети-приходят-ко-мне">Пусть маленькие дети приходят ко мне</h3>
+<p>Иисус сказал: "Пустите детей приходить ко Мне и не препятствуйте им, ибо таких есть Царство Божие" (Марк 10:14). Дети — это особое наследие Царства. Коррумпировать их биологию неразглашенной нанотехнологией — значит нападать на само Царство.</p>
+<p>Духовная борьба за будущее поколение не является метафорической. Это продолжение древней войны против генетической линии человечества, которая началась в Бытии 6, когда сыновья Божьи испортили человеческий геном через запретное союз. Нанотехнология, нацеливаемая на детей сейчас, является современной формой этой коррупции — не смешивание генов с павшими ангелами, но технологическая коррупция через инъекционные платформы, которые изменяют биологию детей с младенчества.</p>
+<p>Небосвод держит. Купол, который Бог поместил над землей, содержит поле боя. И в этом пространстве борьба за будущее поколение — это самая важная битва нашего времени. Те, кто борется за детей, борются за Царство. Те, кто защищает невинных, стоят с Богом, который стал младенцем Сам и доверил свое детство человеческим родителям.</p>
+<hr>
+<h2 id="предупреждение-из-1-царств-8">Предупреждение из 1 Царств 8</h2>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: слушайся голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отзывается в каждом правительственном коридоре сегодня. Когда Израиль потребовал царя, как у других народов, Бог предупредил его точно, что произойдет — его сыновей возьмут на войну, его дочерей в услужение, его поля и виноградники отберут, десятину всего конфискуют. Они выбрали человеческое правительство вместо царства Божьего, и тирания последовала точно так, как было обещано. Ничего не изменилось. Современная политическая система — два крыла одной птицы — левое и правое, республиканцы и демократы — все служат одной скрытой структуре власти. Голосование за ту или другую сторону — это выбор, какое крыло будет махать дальше, пока птица летит в том же направлении. Реальная власть никогда не была на избирательном бюллетене.</p>
+<h2 id="ссылки-на-источники">Ссылки на источники</h2>
+<ul>
+<li>
+<p>Нюрнбергский кодекс, Нюрнбергский военный трибунал, 1947</p>
+</li>
+<li>
+<p>Всемирная декларация ЮНЕСКО по биоэтике и правам человека, 2005</p>
+</li>
+<li>
+<p>Различное законодательство штата и национального уровня по медицинской свободе и правам родителей</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, проблемы педиатрической нанотехнологии</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных царей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> -- платформа инъекции, нацеленная на детей</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/91-The_Kinsey_Corruption.mp4">The Kinsey Corruption</a> -- история нацеливания на детей через институциональные системы</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> -- скоординированное глобальное нападение</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/339-The_New_Man.mp4">The New Man</a> -- трансгуманистический редизайн, нацеленный на молодых</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/81-The_Word_Made_Flesh.mp4">The Word Made Flesh</a> -- Бог вошел в мир как ребенок</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">The Overcoming</a> -- Победа обещана тем, кто борется</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/victory-future-generation/?lang=ru">Victory For Our Future Generation Against Medical Tyranny</a> -- задокументированные победы в борьбе</li>
+<li><a href="/mrna-bioweapons-prohibition/?lang=ru">The mRNA Bioweapons Prohibition Case</a> -- судебное действие для остановки развертывания мРНК</li>
+<li><a href="/biotech-safety-government-lies/?lang=ru">Government Assurances of Biotech Safety Are Worthless</a> -- почему заявления о безопасности правительства не могут быть доверены</li>
+</ul>
+<hr>
+<p><em>Дети — это приз. Каждая система тирании это знала. Каждая система контроля нацеливалась на молодых. И каждое поколение, которое не защитило своих детей, потеряло будущее. Но это поколение не потерпит неудачи. Родители восстают. Ученые говорят. Юристы борются. И Бог, который стал ребенком Сам — кто доверил свое собственное младенчество человеческим рукам — не молчит. Он защитник сирот, покровитель невинных и судья тех, кто вредит малым. Лучше было бы ему, если бы вокруг его шеи была повязана жернов и он был брошен в море, чем причинить вред одному из этих малых. Борьба за будущее поколение — это борьба нашей жизни. И это борьба, которую мы не потерпим — и по благодати Божьей не потеряем.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Историческая борьба за нашего будущего поколения"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Историческая борьба за защиту будущих поколений от принудительной нанотехнологии, фармацевтической тирании и трансгуманистической повестки, нацеленной на детей."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-21T10:00:00Z","children":"21 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","future-generation",{"href":"/ru/tag/future-generation/","className":"tag-pill","children":["#","future-generation"]}],["$","a","children",{"href":"/ru/tag/children/","className":"tag-pill","children":["#","children"]}],["$","a","medical-freedom",{"href":"/ru/tag/medical-freedom/","className":"tag-pill","children":["#","medical-freedom"]}],["$","a","resistance",{"href":"/ru/tag/resistance/","className":"tag-pill","children":["#","resistance"]}],["$","a","transhumanism",{"href":"/ru/tag/transhumanism/","className":"tag-pill","children":["#","transhumanism"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/historic-fight-future-generation/","title":"Историческая борьба за нашего будущего поколения"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/historic-fight-future-generation/","title":"Историческая борьба за нашего будущего поколения"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Историческая борьба за нашего будущего поколения | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Историческая борьба за защиту будущих поколений от принудительной нанотехнологии, фармацевтической тирании и трансгуманистической повестки, нацеленной на детей."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"future-generation, children, medical-freedom, resistance, transhumanism"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/historic-fight-future-generation/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/historic-fight-future-generation/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/historic-fight-future-generation/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/historic-fight-future-generation/"}],["$","meta","10",{"property":"og:title","content":"Историческая борьба за нашего будущего поколения"}],["$","meta","11",{"property":"og:description","content":"Историческая борьба за защиту будущих поколений от принудительной нанотехнологии, фармацевтической тирании и трансгуманистической повестки, нацеленной на детей."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/historic-fight-future-generation/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/historic-fight-future-generation.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Историческая борьба за нашего будущего поколения"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Историческая борьба за нашего будущего поколения"}],["$","meta","25",{"name":"twitter:description","content":"Историческая борьба за защиту будущих поколений от принудительной нанотехнологии, фармацевтической тирании и трансгуманистической повестки, нацеленной на детей."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/historic-fight-future-generation.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

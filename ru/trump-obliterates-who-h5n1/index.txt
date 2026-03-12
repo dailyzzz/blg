@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","trump-obliterates-who-h5n1",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","trump-obliterates-who-h5n1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","trump-obliterates-who-h5n1","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4b09,<h1 id="президент-трамп-уничтожает-планы-who-по-пандемии-h5n1">Президент Трамп уничтожает планы WHO по пандемии H5N1</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Господь разрушает совет язычников; Он уничтожает замыслы народов." — Сэмюэль 33:10</p>
+</blockquote>
+<p>Когда короли земли собрались против Израиля, они верили их числа и их координация сделала победу определённой. Они советовались вместе, выравнивали свои армии, синхронизировали свои стратегии. Но Бог рассеял их совет и сделал их устройства ничтожными. Коалиция могущества была сломана не большей армией, но суверенным вмешательством Одного, кто управляет над всей земной властью.</p>
+<p>Как раскрывает трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/31-Satans_Hosts.mp4">Satan's Hosts</a>, операции противника глобальные зависят от координации — синхронизированного движения наций, учреждений и организаций в направлении обычной цели. Когда эта координация сломана, операция свёртывается.</p>
+<p>Планы WHO для пандемии H5N1 представляли координированную международную рамку — системы наблюдения, объявления чрезвычайного, трубопроводы развёртывания вакцины и протоколы цензуры, выравненные по десяткам наций. Президент Трамп уничтожил эту рамку для Соединённых Штатов.</p>
+<hr>
+<h2 id="руководство-h5n1-who">Руководство H5N1 WHO</h2>
+<p>Мировая организация здоровья наращивалась в направлении объявления пандемии H5N1 через систематическую эскалацию уровней тревоги, деятельности наблюдения и коммуникаций подготовки. Руководство следовало тому же паттерну задокументированному в Event 201 и ответе COVID-19:</p>
+<p><strong>Шаг 1: Эскалация наблюдения.</strong> WHO расширила программы мониторинга H5N1, отслеживая птичий грипп в животных популяциях и флагирующего каждого человеческого случая — независимо от клинического тяжести — как свидетельство эскалирующей угрозы.</p>
+<p><strong>Шаг 2: Повышение риска.</strong> WHO периодически повышала свою оценку риска, характеризируя H5N1 как представляющий "увеличивающуюся" угрозу передачи человек-человек — вопреки отсутствию устойчивой передачи человек-человек в течение более чем двух десятилетий циркуляции H5N1.</p>
+<p><strong>Шаг 3: Требования подготовки.</strong> WHO требовала от государств-членов инвестировать в резервные хранилища вакцины H5N1, приобретение противовирусного и инфраструктуру наблюдения — создавая финансовый трубопровод от финансирования налогоплательщика к фармацевтическим компаниям.</p>
+<p><strong>Шаг 4: Рычажок договора.</strong> Предложенный договор WHO даст Генеральному директору обязательный авторитет объявить PHEIC и направить ответы государств-членов — включая обязательное развёртывание контрмер, ограничения на путешествие и торговлю и цензуру "дезинформации".</p>
+<p>Карен Кингстон анализировала стратегию H5N1 WHO в The Kingston Report (karenkingston.substack.com): "Руководство H5N1 это Event 201 повторенный. Те же учреждения, те же потоки финансирования, те же правовые рамки и те же фармацевтические компании позиционируются для следующего объявления пандемии. Единственная переменная -- патоген — и патоген вторичен. Инфраструктура первична. Как только инфраструктура построена и правовой авторитет защищен, любой патоген может быть повышен оправдать его активацию."</p>
+<hr>
+<h2 id="действия-трампа">Действия Трампа</h2>
+<p>Разборка президента Трампа планов H5N1 WHO охватывает множественные координированные действия:</p>
+<p><strong>Отзыв WHO:</strong> Отзыв Соединённых Штатов из WHO удаляет нацию из международной рамки, которая позволила бы WHO-направленный ответ пандемии H5N1.</p>
+<p><strong>Финансирование программы наблюдения:</strong> Разборка программ наблюдения птичьего гриппа в доме разрывает трубопровод данных, которые кормят оценки риска WHO.</p>
+<p><strong>Отмена резервного запаса вакцины:</strong> Федеральные контракты для резервного хранилища вакцины H5N1 были отменены или приостановлены, удаляя финансовый стимул для фармацевтических компаний лоббировать объявление чрезвычайного H5N1.</p>
+<p><strong>Запрещение усиления функций:</strong> Исполнительный приказ, запрещающий исследование усиления функций, исключает программы лаборатории дома, которые могли бы инженер варианты H5N1 с улучшенной передачей человеку — точно исследование, которое критики утверждают, создаёт угрозу, которую это утверждает изучать.</p>
+<p><strong>Международное некосотрудничество:</strong> Отказ Соединённых Штатов участвовать в упражнениях подготовки пандемии, управляемых WHO и соглашениях совместного использования данных, удаляет мировую наиболее большую военную, экономическую и фармацевтическую мощность из структуры ответа пандемии.</p>
+<p>Вместе, эти действия разбирают узел U.S. глобального аппарата пандемии H5N1. Без участия Соединённых Штатов — его финансирования, его производственной мощности фармацевтического, его инфраструктуры военной логистики и его нормативного авторитета — способность WHO предпринять глобальный ответ пандемии значительно скомпрометирована.</p>
+<hr>
+<h2 id="паттерн-event-201-переразобран">Паттерн Event 201 переразобран</h2>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> документирует паттерн симуляции-к-реальности, который характеризовал современный ответ пандемии:</p>
+<ul>
+<li>Dark Winter (2001) симулировал биологическое нападение — следовал сибирской язвой</li>
+<li>Crimson Contagion (2019) симулировал пандемию гриппа из Китая — следовал COVID-19</li>
+<li>Event 201 (2019) симулировал пандемию коронавируса — следовал COVID-19</li>
+<li>SPARS (опубликовано 2017) симулировал пандемию коронавируса 2025-2028</li>
+</ul>
+<p>Вопрос ли повествование H5N1 представляет следующую итерацию этого паттерна — угрозу производимую, отслеживаемую и эскалируемую через ту же институциональную машинерию, которая произвела ответ COVID-19.</p>
+<p>Действия Трампа отвергают этот паттерн. Разбирая инфраструктуру дома для ответа пандемии H5N1, администрация отказалась участвовать в следующей репетиции — и подставкой, следующем развёртывании.</p>
+<hr>
+<h2 id="пророческое-измерение">Пророческое измерение</h2>
+<blockquote>
+<p>"Почему мятутся язычники, и племена замышляют тщетное? Восстают цари земли, и князья совещаются вместе против Господа и против Помазанника Его." — Сэмюэль 2:1-2</p>
+</blockquote>
+<p>Планы пандемии WHO представляют совет управляющих — координированный, международный и направленный против суверенности отдельных наций и свободы отдельных людей. Планы воображают тщетная вещь: что через наблюдение, объявления чрезвычайного и развёртывание фармацевтического, управляющие могут применить господство над телами, движениями и экономическим участием глобального населения.</p>
+<p>Действие Трампа рассеивает этот совет. Ли это остаётся рассеянной зависит на долговечности политической воли позади это — и на суверенности Бога, который в конечном счёте определяет судьбу наций.</p>
+<hr>
+<h3 id="предупреждение-1-сэмюэля-8">Предупреждение 1 Сэмюэля 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всём, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Сэмюэля 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Сэмюэля 8 отзывается через каждый коридор правительства сегодня. Когда Израиль потребовал царя, как другие нации, Бог предупредил их точно что произойдёт — их сыновья взяты для войны, их дочери для услуги, их поля и виноградники захвачены, десятая часть всего конфискована. Они выбрали человеческое правительство над реймом Бога и тирания последовала точно, как обещано. Ничего не изменилось. Современная политическая система две крылья того же птицы — левый и правый, республиканец и демократ — все служащие той же скрытой степени структуры мощности. Голосование для одной стороны выбирающие, какое крыло хлопает далее, тогда как птица летит в том же направлении. Реальная мощь никогда не была на каком-нибудь бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>WhiteHouse.gov — Исполнительные действия на отзыв WHO, финансирование наблюдения и отмену резервного запаса вакцины</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Анализ Карен Кингстон стратегии H5N1 WHO, документация паттерна Event 201 и инфраструктура пандемии</p>
+</li>
+<li>
+<p>WHO — оценки риска H5N1 и рекомендации подготовки</p>
+</li>
+<li>
+<p>Сэмюэль 33:10, Сэмюэль 2:1-2 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Сэмюэля 8 — Предупреждение против земных королей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство близости к смерти Ховарда Питтмана — предупреждение о конце времён</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что может быть в подвале Ватикана!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> — Паттерн симуляции-к-реальности, применённый к H5N1</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Глобальная координация для ответа пандемии</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/155-Cyber_Polygon_Prophecy.mp4">Cyber Polygon Prophecy</a> — Смоделированные катастрофы репетирующие реальные</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/31-Satans_Hosts.mp4">Satan's Hosts</a> — Глобальная координация сил противника</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — Разрыв координированных планов врага</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/us-withdraws-world-health-organization/?lang=ru">United States Withdraws from the World Health Organization</a> — Отзыв, который разорвал авторитет WHO над U.S. политикой здоровья</li>
+<li><a href="/trump-blow-bird-flu-surveillance/?lang=ru">Trump Delivers Shocking Blow to Bird Flu Surveillance Program</a> — Разборка триггера наблюдения для следующей пандемии</li>
+<li><a href="/hhs-orders-cdc-stop-flu-vaccine/?lang=ru">HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program</a> — Закрытие программы манипуляции патогена гриппа</li>
+<li><a href="/trump-bans-gain-of-function/?lang=ru">Trump Executive Order Bans Gain-of-Function Research</a> — Исключение исследования, которое создаёт угрозы</li>
+</ul>
+<hr>
+<p><em>Короли земли прияли совет вместе и их совет был следующей пандемией — координированной через WHO, финансировано деньги налогоплательщика, оборудовано инфраструктурой наблюдения и вооружено правовым авторитетом блокировать вниз наций, мандат инъекции и цензура несогласие. Трамп рассеял этот совет для Соединённых Штатов. "Он, Сидящий на небесах, посмеется; Господь посмеется над ними" (Сэмюэль 2:4). Планы WHO были уничтожены — не большей армией, но отказом одной нации участвовать в следующем организованном кризисе. Ли другие нации следуют или ли Соединённые Штаты стоят одни, паттерн был сломан — и Бог, кто рассеял совет язычников в Вавилоне может рассеять его снова.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Президент Трамп уничтожает планы WHO по пандемии H5N1"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Президент Трамп разбирает планы, выравненные с WHO для пандемии птичьего гриппа H5N1, отвергая международную рамку, спроектированную предпринять следующий глобальный блокировать."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-28T10:00:00Z","children":"28 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Trump",{"href":"/ru/tag/Trump/","className":"tag-pill","children":["#","Trump"]}],["$","a","WHO",{"href":"/ru/tag/WHO/","className":"tag-pill","children":["#","WHO"]}],["$","a","H5N1",{"href":"/ru/tag/H5N1/","className":"tag-pill","children":["#","H5N1"]}],["$","a","птичий-грипп",{"href":"/ru/tag/птичий-грипп/","className":"tag-pill","children":["#","птичий-грипп"]}],["$","a","пандемия",{"href":"/ru/tag/пандемия/","className":"tag-pill","children":["#","пандемия"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/trump-obliterates-who-h5n1/","title":"Президент Трамп уничтожает планы WHO по пандемии H5N1"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/trump-obliterates-who-h5n1/","title":"Президент Трамп уничтожает планы WHO по пандемии H5N1"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Президент Трамп уничтожает планы WHO по пандемии H5N1 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Президент Трамп разбирает планы, выравненные с WHO для пандемии птичьего гриппа H5N1, отвергая международную рамку, спроектированную предпринять следующий глобальный блокировать."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Trump, WHO, H5N1, птичий-грипп, пандемия"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/trump-obliterates-who-h5n1/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/trump-obliterates-who-h5n1/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/trump-obliterates-who-h5n1/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/trump-obliterates-who-h5n1/"}],["$","meta","10",{"property":"og:title","content":"Президент Трамп уничтожает планы WHO по пандемии H5N1"}],["$","meta","11",{"property":"og:description","content":"Президент Трамп разбирает планы, выравненные с WHO для пандемии птичьего гриппа H5N1, отвергая международную рамку, спроектированную предпринять следующий глобальный блокировать."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/trump-obliterates-who-h5n1/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/trump-obliterates-who-h5n1.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Президент Трамп уничтожает планы WHO по пандемии H5N1"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Президент Трамп уничтожает планы WHO по пандемии H5N1"}],["$","meta","25",{"name":"twitter:description","content":"Президент Трамп разбирает планы, выравненные с WHO для пандемии птичьего гриппа H5N1, отвергая международную рамку, спроектированную предпринять следующий глобальный блокировать."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/trump-obliterates-who-h5n1.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

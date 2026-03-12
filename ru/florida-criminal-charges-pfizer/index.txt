@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","florida-criminal-charges-pfizer",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","florida-criminal-charges-pfizer","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","florida-criminal-charges-pfizer","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5903,<h1 id="как-жители-флориды-могут-предъявить-уголовные-обвинения-pfizer">Как Жители Флориды Могут Предъявить Уголовные Обвинения Pfizer</h1>
+<h2 id="древний-паттерн">Древний Паттерн</h2>
+<blockquote>
+<p>"Не делайте неправды на суде; не будь лицеприятен к нищему и не угождай лицу великого; по правде суди ближнего твоего." — Левит 19:15</p>
+</blockquote>
+<p>Когда Давид согрешил с Вирсавией и организовал смерть её мужа Урии, ни одна человеческая институция не привлекла его к ответственности. Он был царём — выше закона по земным меркам. Но Бог послал пророка Нафана, который рассказал Давиду притчу о богатом человеке, который украл единственного ягнёнка бедняка. Давид вынес приговор богачу, и Нафан заявил: "Ты — тот человек." Самая могущественная личность в стране была привлечена к ответственности — не институцией большей власти, а истиной, произнесённой тем, кто боялся Бога больше, чем царя.</p>
+<p>Как провозглашает трек из альбома Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/101-Fight_of_Faith.mp4">Борьба Веры</a>, борьба за справедливость требует мужества — готовности противостоять могущественным, назвать преступление и добиваться ответственности независимо от шансов. Pfizer — самая богатая фармацевтическая компания на Земле. PREP Act защищает её от федеральной ответственности. Но правовая структура Флориды предлагает путь, который обходит федеральную крепость.</p>
+<hr>
+<h2 id="проблема-prep-act-и-решение-штата">Проблема PREP Act и Решение Штата</h2>
+<p>PREP Act предоставляет федеральный иммунитет производителям "покрытых контрмер" во время объявленных чрезвычайных ситуаций в области общественного здравоохранения. Этот иммунитет был основным препятствием для привлечения Pfizer к ответственности за травмы, причинённые её инъекцией COVID-19.</p>
+<p>Однако юридические учёные и практики Флориды выявили потенциальные пути в соответствии с законодательством штата, которые могут не быть отменены PREP Act:</p>
+<p><strong>Уголовное законодательство штата не отменено.</strong> PREP Act предоставляет иммунитет от гражданской ответственности — судебных исков о денежной компенсации. Он явно не предоставляет иммунитет от уголовного преследования штата. Если поведение Pfizer составило нарушение уголовных статутов Флориды — включая мошенничество, нанесение побоев, непредумышленное убийство или рэкет — гражданский иммунитет PREP Act может не применяться.</p>
+<p><strong>Мошенничество аннулирует иммунитет.</strong> Юридическая доктрина гласит, что мошенничество аннулирует (делает недействительными) все соглашения, контракты и правовые защиты, полученные через мошенничество. Если Pfizer получила своё EUA через мошеннические данные клинических испытаний — как утверждает информатор Брук Джексон и задокументировано через документы, выпущенные FOIA — тогда правовые защиты, связанные с этим EUA, включая иммунитет PREP Act, могут быть аннулированы.</p>
+<p><strong>Законы о защите потребителей штата.</strong> Закон Флориды о недобросовестных и обманных торговых практиках (FDUTPA) предоставляет защиту от мошеннических деловых практик, которые могут действовать независимо от федеральной отмены.</p>
+<p>Карен Кингстон предоставила обширный юридический анализ в The Kingston Report (karenkingston.substack.com): "PREP Act — это федеральный щит гражданской ответственности. Он никогда не был разработан для — и конституционно не может — защиты корпорации от уголовного преследования штата. Если Pfizer совершила мошенничество при получении своего EUA, если она сознательно распространяла продукт, который причинял вред без адекватного предупреждения, если она скрывала данные о безопасности, которые изменили бы расчёт риска и пользы для отдельных пациентов — это уголовные деяния по законодательству Флориды, и PREP Act не предоставляет иммунитет от уголовного преследования."</p>
+<hr>
+<h2 id="уголовные-пути">Уголовные Пути</h2>
+<h3 id="1-мошенничество-статут-флориды-раздел-817">1. Мошенничество (Статут Флориды Раздел 817)</h3>
+<p>Статуты Флориды о мошенничестве криминализируют сознательное и преднамеренное искажение существенных фактов с целью получения выгоды (включая денежную выгоду) или причинения вреда. Если Pfizer:</p>
+<ul>
+<li>Исказила данные клинических испытаний для FDA для получения разрешения на экстренное использование</li>
+<li>Исказила профиль безопасности своего продукта для общественности, медицинских работников и пациентов</li>
+<li>Скрыла данные о неблагоприятных событиях, которые изменили бы индивидуальные решения о риске и пользе</li>
+<li>Представила продукт как "вакцину", когда он не соответствовал традиционному определению (предотвращение инфекции и передачи)</li>
+</ul>
+<p>Каждое из этих действий может составлять уголовное мошенничество по законодательству Флориды.</p>
+<h3 id="2-тяжкие-побои-статут-флориды-раздел-784045">2. Тяжкие Побои (Статут Флориды Раздел 784.045)</h3>
+<p>По законодательству Флориды побои — это преднамеренное прикосновение или нанесение удара другому человеку против его воли, или преднамеренное причинение телесного вреда. Тяжкие побои включают использование смертельного оружия или преднамеренное или сознательное причинение тяжкого телесного вреда.</p>
+<p>Если Pfizer сознательно распространяла продукт, который причинял тяжкий телесный вред — и если "согласие", полученное от получателей, было аннулировано существенными искажениями о безопасности продукта — тогда введение каждой дозы может составлять побои.</p>
+<h3 id="3-непредумышленное-убийство-статут-флориды-раздел-78207">3. Непредумышленное Убийство (Статут Флориды Раздел 782.07)</h3>
+<p>Статут Флориды о непредумышленном убийстве охватывает убийство человека актом, обеспечением или виновной небрежностью другого лица, без законного обоснования. Если продукт Pfizer причинил смерти, и если поведение Pfizer в сокрытии данных о безопасности или искажении продукта составило виновную небрежность, могут быть предъявлены обвинения в уголовном непредумышленном убийстве.</p>
+<h3 id="4-rico-статут-флориды-раздел-895">4. RICO (Статут Флориды Раздел 895)</h3>
+<p>Закон Флориды о организациях, подверженных влиянию рэкетиров и коррупции (RICO), предусматривает уголовные наказания за ведение дел предприятия через паттерн рэкетирской деятельности. Если Pfizer участвовала в паттерне мошеннического поведения — включая мошенничество в клинических испытаниях, нормативное мошенничество и мошенничество с потребителями — по всей своей программе вакцинации от COVID-19, обвинения RICO могут охватывать всё предприятие.</p>
+<hr>
+<h2 id="процесс-для-жителей-флориды">Процесс для Жителей Флориды</h2>
+<p>Жители Флориды, стремящиеся предъявить уголовные обвинения против Pfizer, могут следовать следующим путям:</p>
+<p><strong>Петиция большого жюри:</strong> По законодательству Флориды граждане могут подать петицию в суд для созыва большого жюри для расследования потенциального преступного поведения. Большое жюри имеет полномочия повестки, может принуждать к показаниям и может выдавать обвинительные заключения.</p>
+<p><strong>Жалоба прокурору штата:</strong> Жители Флориды могут подать уголовные жалобы в офис своего местного прокурора штата, представляя доказательства преступного поведения и требуя расследования и судебного преследования.</p>
+<p><strong>Направление генеральному прокурору:</strong> Жалобы могут быть направлены в офис генерального прокурора Флориды, который имеет юрисдикцию по всему штату и ресурсы для преследования сложных уголовных дел против корпоративных ответчиков.</p>
+<p><strong>Частное уголовное преследование:</strong> Законодательство Флориды разрешает частное уголовное преследование при определённых обстоятельствах, позволяя отдельным лицам привлекать частных адвокатов для преследования уголовных дел с одобрения суда.</p>
+<hr>
+<h2 id="пророческое-измерение">Пророческое Измерение</h2>
+<blockquote>
+<p>"Повсюду ходят нечестивые, когда ничтожные из сынов человеческих возносятся." — Псалом 12:8</p>
+</blockquote>
+<p>Нечестивые ходят свободно, когда система правосудия защищает их от ответственности. PREP Act был разработан, чтобы позволить нечестивым ходить свободно — вводить экспериментальные продукты миллиардам людей и не сталкиваться с последствиями независимо от причинённого вреда.</p>
+<p>Уголовное законодательство Флориды представляет иную справедливость — такую, которую PREP Act не был разработан достигать. Вопрос в том, обладает ли правовая система Флориды мужеством и честностью применить свои уголовные статуты к самой могущественной фармацевтической компании на Земле.</p>
+<hr>
+<hr>
+<h3 id="предупреждение-из-1-царств-8">Предупреждение из 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушай голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтоб Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (SYNO)</a></p>
+</blockquote>
+<p>Древнее предупреждение из 1 Царств 8 эхом отдаётся в каждом правительственном коридоре сегодня. Когда Израиль потребовал царя, как у других народов, Бог предупредил их точно, что произойдёт — их сыновья будут взяты на войну, их дочери на службу, их поля и виноградники конфискованы, десятая часть всего изъята. Они выбрали человеческое правительство вместо царствования Бога, и тирания последовала точно так, как было обещано. Ничего не изменилось. Современная политическая система — это два крыла одной и той же птицы — левое и правое, республиканцы и демократы — все служат одной и той же скрытой структуре власти. Голосование за любую сторону — это выбор, какое крыло взмахнёт следующим, пока птица летит в том же направлении. Настоящая власть никогда не была ни в одном бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>Статуты Флориды — Разделы 817 (Мошенничество), 784.045 (Тяжкие побои), 782.07 (Непредумышленное убийство), 895 (RICO)</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Юридический анализ Карен Кингстон государственных уголовных путей, ограничений отмены PREP Act и доктрины аннулирования иммунитета мошенничеством</p>
+</li>
+<li>
+<p>Brook Jackson v. Pfizer — Документы судебного процесса по Закону о ложных требованиях</p>
+</li>
+<li>
+<p>PREP Act — 42 U.S.C. Раздел 247d-6d (положения о гражданском иммунитете)</p>
+</li>
+<li>
+<p>Левит 19:15, Псалом 12:8 (SYNO)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение Против Земных Царей (SYNO)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте Больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-пока-читаете">Слушайте Пока Читаете</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — Корпоративный иммунитет, защищённый захваченными правовыми структурами</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Правовые системы маршируют в защиту корпораций</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/125-Illuminati_Founding_Fathers.mp4">Illuminati Founding Fathers</a> — Правовые структуры, разработанные для защиты могущественных</li>
+</ul>
+<p>Из альбома Confliction (Пещера Сокровищ):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/101-Fight_of_Faith.mp4">Fight of Faith</a> — Мужество противостоять корпоративному Голиафу</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — Разрушение правовых защит, которые оберегают змея</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте Дальше</h2>
+<ul>
+<li><a href="/doctors-vacate-prep-act/?lang=ru">Более 100 000 Врачей Прокладывают Путь к Отмене Иммунитета PREP Act</a> — Национальные усилия по разрушению федерального щита ответственности</li>
+<li><a href="/pfizer-case-government-not-interested/?lang=ru">Судебная Подача в Деле Pfizer: Правительство НЕ Заинтересовано в Справедливости</a> — Отказ федеральной системы от преследования ответственности</li>
+<li><a href="/federal-government-pfizer-data-fraud/?lang=ru">Это Преступление? Федеральное Правительство Помогло Pfizer в Мошенничестве с Данными</a> — Мошенничество, которое аннулирует иммунитет</li>
+<li><a href="/florida-ends-vaccine-mandates/?lang=ru">Главный Хирург Флориды Объявляет Конец ВСЕХ Мандатов на Вакцинацию</a> — Более широкое отвержение Флоридой фармацевтического аппарата</li>
+</ul>
+<hr>
+<p><em>Нафан указал на Давида и сказал: "Ты — тот человек." Самая могущественная личность в стране была названа, обвинена и привлечена к ответственности тем, кто боялся Бога больше, чем царя. Уголовные статуты Флориды предлагают путь, которого PREP Act не достигает — путь, через который Pfizer может быть названа, обвинена и привлечена к ответственности за поведение, которое федеральная система защищала. "Господь творит правду и суд всем обиженным" (Псалом 103:6). Поднимется ли правовая система Флориды к этому случаю, определит, служит ли система правосудия угнетённым — или продолжает служить угнетателю.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Как Жители Флориды Могут Предъявить Уголовные Обвинения Pfizer"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Юридические эксперты излагают, как жители Флориды могут преследовать уголовные обвинения против Pfizer в соответствии с законодательством штата, полностью обходя федеральный щит ответственности PREP Act."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-30T10:00:00Z","children":"30 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Florida",{"href":"/ru/tag/Florida/","className":"tag-pill","children":["#","Florida"]}],["$","a","Pfizer",{"href":"/ru/tag/Pfizer/","className":"tag-pill","children":["#","Pfizer"]}],["$","a","criminal-charges",{"href":"/ru/tag/criminal-charges/","className":"tag-pill","children":["#","criminal-charges"]}],["$","a","legal-strategy",{"href":"/ru/tag/legal-strategy/","className":"tag-pill","children":["#","legal-strategy"]}],["$","a","accountability",{"href":"/ru/tag/accountability/","className":"tag-pill","children":["#","accountability"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/florida-criminal-charges-pfizer/","title":"Как Жители Флориды Могут Предъявить Уголовные Обвинения Pfizer"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/florida-criminal-charges-pfizer/","title":"Как Жители Флориды Могут Предъявить Уголовные Обвинения Pfizer"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Как Жители Флориды Могут Предъявить Уголовные Обвинения Pfizer | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Юридические эксперты излагают, как жители Флориды могут преследовать уголовные обвинения против Pfizer в соответствии с законодательством штата, полностью обходя федеральный щит ответственности PREP Act."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Florida, Pfizer, criminal-charges, legal-strategy, accountability"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/florida-criminal-charges-pfizer/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/florida-criminal-charges-pfizer/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/florida-criminal-charges-pfizer/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/florida-criminal-charges-pfizer/"}],["$","meta","10",{"property":"og:title","content":"Как Жители Флориды Могут Предъявить Уголовные Обвинения Pfizer"}],["$","meta","11",{"property":"og:description","content":"Юридические эксперты излагают, как жители Флориды могут преследовать уголовные обвинения против Pfizer в соответствии с законодательством штата, полностью обходя федеральный щит ответственности PREP Act."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/florida-criminal-charges-pfizer/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/florida-criminal-charges-pfizer.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Как Жители Флориды Могут Предъявить Уголовные Обвинения Pfizer"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Как Жители Флориды Могут Предъявить Уголовные Обвинения Pfizer"}],["$","meta","25",{"name":"twitter:description","content":"Юридические эксперты излагают, как жители Флориды могут преследовать уголовные обвинения против Pfizer в соответствии с законодательством штата, полностью обходя федеральный щит ответственности PREP Act."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/florida-criminal-charges-pfizer.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

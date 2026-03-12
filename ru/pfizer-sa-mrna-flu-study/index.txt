@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","pfizer-sa-mrna-flu-study",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","pfizer-sa-mrna-flu-study","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-sa-mrna-flu-study","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T70c6,<h1 id="что-произошло-с-участниками-исследования-гриппа-sa-mrna-pfizer">Что произошло с участниками исследования гриппа sa-mRNA Pfizer</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"И они победили его кровью Агнца и словом своего свидетельства; и не любили жизни своей до смерти." — Откровение 12:11</p>
+</blockquote>
+<p>Свидетельство свидетелей изменяет историю. В Писании свидетельство несет завет вес — свидетель говорит то, что они видели, и их слова стоят как доказательство перед Богом и человеком. Участники испытания са-mRNA гриппа Pfizer — это свидетели. Их тела несут свидетельство того, что делает са-mRNA внутри человеческих существ. Их неблагоприятные события, их госпитализации, их исходы — это свидетельства, написанные не в словах, а в плоти и крови.</p>
+<p>Фармацевтическая промышленность предпочитала бы, чтобы эти свидетельства оставались запечатанными в базах данных клинических испытаний, резюмированные в статистических аннотациях и затемненные за эвфемизмами, такими как "неблагоприятные события, представляющие особый интерес." Но кровь кричит из земли (Бытие 4:10). Свидетельство тела не может быть молчано.</p>
+<p>Трек ZZZ Daily <a href="https://zzzdaily.zzzdaily.com/tracks/ru/179-Engineering_Contagion.mp4">Engineering Contagion</a> раскрывает, как болезнь и её лечение сконструированы как часть единой системы. И трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/95-The_Valley_of_Death.mp4">The Valley of Death</a> говорит о пути тех, кто прошел в тень экспериментальной медицины.</p>
+<hr>
+<h2 id="исследование-фон">Исследование: фон</h2>
+<h3 id="программа-са-mrna-против-гриппа-pfizer">Программа са-mRNA против гриппа Pfizer</h3>
+<p>Pfizer, в партнерстве с BioNTech, разрабатывала кандидаты на вакцину са-mRNA против гриппа в рамках более широкой стратегии замены традиционных вакцин продуктами на основе mRNA. Программа са-mRNA против гриппа представляет одно из первых применений технологии самоусиливающегося к болезни за пределами COVID-19.</p>
+<p>Рационал, представленный Pfizer, простой:</p>
+<ul>
+<li>Текущие вакцины против гриппа относительно неэффективны на лучшее (обычно 40-60% эффективности в хороший год)</li>
+<li>Технология mRNA позволяет быстрое обновление штаммов вакцины</li>
+<li>Самоусиливающийся характер sa-mRNA означает нижние дозы и потенциально более сильные иммунные ответы</li>
+<li>Успешная вакцина sa-mRNA против гриппа захватила бы массивный годовой рынок (сотни миллионов доз глобально)</li>
+</ul>
+<h3 id="дизайн-исследования">Дизайн исследования</h3>
+<p>Исследование са-mRNA гриппа Pfizer привлекло участников через многочисленные клинические сайты. Исследование оценило:</p>
+<ul>
+<li>Безопасность и переносимость при различных уровнях доз</li>
+<li>Иммуногенность (антительный ответ) против штаммов гриппа</li>
+<li>Реактогенность (немедленные побочные эффекты, такие как боль, лихорадка, усталость)</li>
+<li>Неблагоприятные события, представляющие особый интерес</li>
+<li>Серьёзные неблагоприятные события</li>
+</ul>
+<p>Участники были взрослыми добровольцами, которые согласились получить экспериментальный самоусиливающийся конструкт mRNA — генетическую программу, разработанную для репликации внутри их клеток и производства поверхностных белков гриппа.</p>
+<hr>
+<h2 id="что-произошло-с-участниками">Что произошло с участниками</h2>
+<h3 id="реактогенность-немедленные-ответы">Реактогенность: Немедленные ответы</h3>
+<p>Участники исследования са-mRNA гриппа испытали значительно более высокие темпы реактогенности в сравнении с традиционными вакцинами против гриппа:</p>
+<ul>
+<li><strong>Лихорадка:</strong> Существенный процент участников разработал лихорадку после инъекции — темпы выше, чем те, которые видны с традиционными вакцинами mRNA и резко выше, чем традиционные прививки от гриппа</li>
+<li><strong>Усталость:</strong> Тяжелая усталость, длящаяся несколько дней, была обычно сообщена</li>
+<li><strong>Боль в месте инъекции:</strong> Более интенсивная и длительная продолжительность, чем традиционные вакцины</li>
+<li><strong>Миалгия (мышечная боль):</strong> Распространенные боли в теле, превышающие то, что видно со стандартной вакцинацией против гриппа</li>
+<li><strong>Головная боль:</strong> Тяжелые головные боли, требующие лекарства</li>
+<li><strong>Озноб и дрожь:</strong> Встряхивающие озноб согласно значительному системному воспалительному ответу</li>
+</ul>
+<p>Эти симптомы указывают на более интенсивную иммунную активизацию, чем традиционные вакцины производят — согласующийся с самоусиливающимся конструктом, генерирующим более высокие уровни антигена в течение более продолжительного периода.</p>
+<h3 id="неблагоприятные-события-представляющие-особый-интерес">Неблагоприятные события, представляющие особый интерес</h3>
+<p>За пределами стандартной реактогенности, исследование сообщило о неблагоприятных событиях, которые поднимают серьёзные проблемы безопасности:</p>
+<p><strong>Сердечные события:</strong> Отчеты боли в груди, сердцебиения и сердечных симптомов среди участников. Учитывая задокументированную связь между белком шипа и миокардитом (и тот факт, что поверхностные белки гриппа, производимые са-mRNA, могут запустить сходное повреждение миокарда, опосредованное иммунитетом), сердечные события в испытании вакцины от гриппа являются тревожными.</p>
+<p><strong>Неврологические симптомы:</strong> Участники сообщили о неврологических симптомах, включая тяжелые головные боли, головокружение, парестезию (пощипывание и онемение) и когнитивные сложности. Эти симптомы параллельны неврологическим неблагоприятным событиям, задокументированным с вакцинами COVID-19 mRNA, и предполагают, что сама платформа са-mRNA — не просто белок шипа — может способствовать неврологическому вреду.</p>
+<p><strong>Продолжительные симптомы:</strong> Некоторые участники испытали симптомы, длящиеся неделями — далеко дольше, чем "1-3 дня," обычно связанные с реактогенностью вакцины. Продолжительность симптома согласуется с самоусиливающейся природой конструкта: потому что mRNA продолжает репликироваться и производить белок, иммунный ответ продолжает быть стимулированным.</p>
+<p><strong>Зависимость от доз Эффективность:</strong> Неблагоприятные события были более тяжелы на более высоких уровнях доз — паттерн согласующийся с большей начальной трансфекцией, ведущей к большему усилению и большему производству белка. Однако даже группы нижних доз испытали значительные неблагоприятные события, предполагая, что механизм усиления делает даже малые дозы биологически мощными.</p>
+<h3 id="серьёзные-неблагоприятные-события">Серьёзные неблагоприятные события</h3>
+<p>Исследование записало серьёзные неблагоприятные события (SAEs) — события, требующие госпитализации, приводящие к инвалидности или считающиеся жизнеугрожающими. Хотя точные детали и количество SAEs подлежит тому, что Pfizer выбирает раскрытие и способ, который регуляторы их классифицируют, появление SAEs в здоровой взрослой популяции, получающей вакцину от гриппа, это красный флаг, который требует проверки.</p>
+<hr>
+<h2 id="отчет-kingston-соединение-точек">Отчет Kingston: Соединение точек</h2>
+<p>Анализ Карен Кингстон через <a href="https://karenkingston.substack.com">The Kingston Report</a> соединяет исходы исследования са-mRNA гриппа Pfizer с более широким паттерном риска технологии са-mRNA.</p>
+<h3 id="проблема-усиления">Проблема усиления</h3>
+<p>Кингстон задокументировала, что фундаментальная проблема са-mRNA — это не антиген (независимо от того, белок ли шипа или гемагглютинин гриппа), но сам механизм самоусиливающегося:</p>
+<p><strong>Неконтролируемое усиление:</strong> Конструкт репликирует внутри организма без какого-либо внешнего контроля над тем, сколько копий производится. Индивидуальная вариация в клеточной поглощении, статусе иммунитета и эффективности репликазы означает, что фактический опыт дозы варьируется дико среди индивидов. Один человек может производить умеренное количество белка; другой может производить порядки величин больше.</p>
+<p><strong>Смерть клетки от перепроизводства:</strong> Клетки, которые производят чрезмерные количества инородного белка, могут подвергаться апоптозу (программированной смерти клетки) или некрозу (неконтролируемой смерти клетки). Когда это происходит в мышечной ткани, это вызывает миалгию. Когда это происходит в сердечной ткани, это вызывает миокардит. Когда это происходит в нервной ткани, это вызывает неврологические симптомы. Механизм самоусиливающегося увеличивает риск перегрузки клеток через все типы тканей.</p>
+<p><strong>Иммунное истощение:</strong> Расширенная продолжительность производства антигена может привести к истощению иммунитета — истощению Т-клеточных популяций, которые постоянно активированы. Иммунное истощение связано с хроническими инфекциями и раком и представляет фундаментально нездоровое иммунное состояние.</p>
+<h3 id="что-исследование-гриппа-раскрывает-о-продукте-covid">Что исследование гриппа раскрывает о продукте COVID</h3>
+<p>Кингстон нарисовала критическую связь: если вакцина са-mRNA гриппа Pfizer — продукт явно разработанный с технологией самоусиливающегося — вызывает эти неблагоприятные события, и если продукт COVID-19 содержал компоненты самоусиливающегося (как предложено патентными заявками и документами производства), то профиль неблагоприятных событий продукта COVID может быть ведомым, по крайней мере, отчасти, самоусилением, которое было никогда не раскрыто.</p>
+<p>Исследование гриппа, в действительности, обеспечивает контролируемый взгляд на то, что делает самоусиление — и результаты согласуются с тем, что было наблюдено в неконтролируемой, развернутой на массу кампании вакцинации COVID.</p>
+<hr>
+<h2 id="этика-экспериментирования-человека-самоусиливающегося">Этика экспериментирования человека самоусиливающегося</h2>
+<h3 id="кодекс-нюрнберга">Кодекс Нюрнберга</h3>
+<p>Кодекс Нюрнберга (1947) — установлен после медицинских экспериментов нацистов — устанавливает принципы для этического человеческого экспериментирования. Принцип 1 состояние: "Добровольное согласие человеческого субъекта абсолютно существенно." Принцип 4 состояние: "Эксперимент должен быть проводимым, чтобы избежать всех неопираемых физических и психических страданий и травм."</p>
+<p>Технология самоусиливающейся mRNA, по своей природе, создает условия, которые вызывают вызов этим принципам:</p>
+<ul>
+<li><strong>Согласие скомпрометировано</strong>, потому что участник не может знать фактическую дозу, которую они испытают (так как конструкт усиливает непредсказуемо)</li>
+<li><strong>Страдание внутренне</strong>, потому что механизм усиления производит более высокие уровни антигена и более интенсивные иммунные ответы, чем традиционные подходы</li>
+<li><strong>Эксперимент не может быть остановлен</strong> однажды инъекция администрирована — нет пути остановить процесс самоусиливающегося</li>
+</ul>
+<h3 id="участники-испытания-как-канарейки">Участники испытания как Канарейки</h3>
+<p>Участники исследования са-mRNA гриппа Pfizer — это канарейки в угольной шахте. Их опыты предпросмотр того, что произойдет, если самоусиливающейся mRNA стане стандартной платформой для годовой вакцинации. Если здоровые взрослые в контролируемом испытании испытали значительные неблагоприятные события, что произойдет, когда:</p>
+<ul>
+<li>Пожилые люди со слабыми иммунными системами получают са-mRNA?</li>
+<li>Дети с развивающимися иммунными системами получают са-mRNA?</li>
+<li>Иммунокомпрометированные люди получают са-mRNA?</li>
+<li>Беременные женщины получают са-mRNA?</li>
+<li>Общая популяция получает са-mRNA ежегодно, с кумулятивным воздействием год за годом?</li>
+</ul>
+<hr>
+<h2 id="библейское-предупреждение">Библейское предупреждение</h2>
+<blockquote>
+<p>"Мой народ гибнет за недостаток знания." — Осия 4:6</p>
+</blockquote>
+<p>Участники исследования Pfizer добровольно участвовали. Они подписали формы согласия. Они поверили, что они содействовали медицинскому прогрессу. Но какое знание было им дано? Был ли им сказан, что конструкт будет репликираться внутри их клеток? Был ли им сказан, что процесс усиления не может быть остановлен? Был ли им сказан, что долгосрочные эффекты самокопирующихся генетических конструктов в человеческих телах полностью неизвестны?</p>
+<p>Разрушение, о котором Осия предупреждал, приходит от отсутствия знания — не из отсутствия добрых намерений. Участники могли иметь лучшие намерения. Но без полного знания того, что они получали, их согласие было построено на неполной истине.</p>
+<p>Твердь — защитный купол, который Бог поместил над землей — существует, чтобы разделить то, что выше, от того, что ниже, чтобы защитить творение от разрушительных сил. Иммунная система служит той же функции в организме. Самоусиливающейся mRNA нарушает эту биологическую твердь, вводя самокопирующийся процесс, который защиты организма не могут контролировать или выключить.</p>
+<hr>
+<h2 id="что-люди-должны-знать">Что люди должны знать</h2>
+<ol>
+<li><strong>Участники исследования за-mRNA гриппа испытали значительно более хуже неблагоприятные события</strong> чем получатели традиционной вакцины от гриппа.</li>
+<li><strong>Неблагоприятные события были зависимы от дозы</strong>, но произошли даже при низких дозах из-за механизма усиления.</li>
+<li><strong>Продолжительные симптомы</strong> согласуются с расширенной продолжительностью производства белка из самоусиливающихся конструктов.</li>
+<li><strong>Серьёзные неблагоприятные события были записаны</strong> в здоровых взрослых, получающих прививку от гриппа.</li>
+<li><strong>Механизм самоусиливающегося — это основной фактор риска</strong> — изменение антигена от белка шипа к гемагглютинину гриппа не исключает риски, внутренние для платформы.</li>
+<li><strong>Годовые вакцины са-mRNA гриппа разрабатываются для массового рынка.</strong> Опыт участников испытания — это предпросмотр того, что может стать годовым медицинским событием для общей популяции.</li>
+</ol>
+<hr>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Анализ исходов клинического испытания са-mRNA.</li>
+<li>Данные клинического испытания вакцины са-mRNA гриппа Pfizer</li>
+<li>Публикации платформы BioNTech са-mRNA</li>
+<li>Клинические данные Arcturus Therapeutics ARCT-154</li>
+<li>Кодекс Нюрнберга (1947)</li>
+<li>Опубликованное исследование иммунологии самоусиливающейся РНК</li>
+</ul>
+<hr>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство НБО Ховарда Питмана — Предупреждение об окончании времени, которое Бог ему дал</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки от ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/179-Engineering_Contagion.mp4">Engineering Contagion</a> — Болезнь и лечение, сконструированные как одна система</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> — Самокопирующихся системы в организме</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> — Инфраструктура массовой инъекции</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/95-The_Valley_of_Death.mp4">The Valley of Death</a> — Ходящие в тень экспериментальной медицины</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">The Enemy Within</a> — Самокопирующийся агент внутри</li>
+</ul>
+<hr>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/biontech-self-amplifying-mrna/?lang=ru">BioNTech Presentations Confirm Self-Amplifying mRNA Technology</a> — Раскрытия технологии BioNTech sa-mRNA</li>
+<li><a href="/pfizer-documents-self-amplifying/?lang=ru">Pfizer Documents Confirm COVID-19 Shots Contained Self-Amplifying mRNA</a> — Доказательства из собственных заявок Pfizer</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=ru">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — Полный объяснитель са-mRNA</li>
+<li><a href="/mrna-faulty-genes-myocarditis/?lang=ru">mRNA Technology Can Add Faulty Genes Leading to Myocarditis</a> — Механизм повреждения сердца</li>
+</ul>
+<hr>
+<p><em>Они добровольно предложили свои тела науке. Они подписали формы и свернули вверх рукава. Они не знали, что конструкт, введенный в их руки, будет репликироваться внутри их клеток, производя белки, которых они никогда не согласились носить, запускающие иммунные ответы, которые они не могли остановить. Их свидетельство написано в плоти. И Бог, который читает свидетельство крови — Бог, который услышал кровь Авеля, кричащую из земли — слышит их свидетельство тоже. "Близок Господь к сокрушенным сердцем и спасает сокрушенных духом" (Псалом 34:18).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Что произошло с участниками исследования гриппа sa-mRNA Pfizer"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Рассмотрение исходов и неблагоприятных событий, сообщенных в клиническом испытании вакцины против гриппа с самоусиливающейся mRNA от Pfizer и что это раскрывает о безопасности sa-mRNA."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-20T10:00:00Z","children":"20 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Pfizer",{"href":"/ru/tag/Pfizer/","className":"tag-pill","children":["#","Pfizer"]}],["$","a","са-mRNA",{"href":"/ru/tag/са-mRNA/","className":"tag-pill","children":["#","са-mRNA"]}],["$","a","грипп",{"href":"/ru/tag/грипп/","className":"tag-pill","children":["#","грипп"]}],["$","a","клиническое-испытание",{"href":"/ru/tag/клиническое-испытание/","className":"tag-pill","children":["#","клиническое-испытание"]}],["$","a","неблагоприятные-события",{"href":"/ru/tag/неблагоприятные-события/","className":"tag-pill","children":["#","неблагоприятные-события"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/pfizer-sa-mrna-flu-study/","title":"Что произошло с участниками исследования гриппа sa-mRNA Pfizer"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/pfizer-sa-mrna-flu-study/","title":"Что произошло с участниками исследования гриппа sa-mRNA Pfizer"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Что произошло с участниками исследования гриппа sa-mRNA Pfizer | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Рассмотрение исходов и неблагоприятных событий, сообщенных в клиническом испытании вакцины против гриппа с самоусиливающейся mRNA от Pfizer и что это раскрывает о безопасности sa-mRNA."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Pfizer, са-mRNA, грипп, клиническое-испытание, неблагоприятные-события"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/pfizer-sa-mrna-flu-study/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-sa-mrna-flu-study/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-sa-mrna-flu-study/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-sa-mrna-flu-study/"}],["$","meta","10",{"property":"og:title","content":"Что произошло с участниками исследования гриппа sa-mRNA Pfizer"}],["$","meta","11",{"property":"og:description","content":"Рассмотрение исходов и неблагоприятных событий, сообщенных в клиническом испытании вакцины против гриппа с самоусиливающейся mRNA от Pfizer и что это раскрывает о безопасности sa-mRNA."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/pfizer-sa-mrna-flu-study/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-sa-mrna-flu-study.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Что произошло с участниками исследования гриппа sa-mRNA Pfizer"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Что произошло с участниками исследования гриппа sa-mRNA Pfizer"}],["$","meta","25",{"name":"twitter:description","content":"Рассмотрение исходов и неблагоприятных событий, сообщенных в клиническом испытании вакцины против гриппа с самоусиливающейся mRNA от Pfizer и что это раскрывает о безопасности sa-mRNA."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-sa-mrna-flu-study.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

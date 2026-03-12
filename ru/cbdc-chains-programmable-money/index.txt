@@ -1,0 +1,195 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","cbdc-chains-programmable-money",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","cbdc-chains-programmable-money","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cbdc-chains-programmable-money","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T63d8,<h1 id="цепи-cbdc-программируемые-деньги-которые-контролируют-вас">Цепи CBDC: Программируемые деньги, которые контролируют вас</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Никто не может служить двум господам: ибо или одного будет ненавидеть, а другого любить; или одному станет усердствовать, а о другом нерадеть. Не можете служить Богу и маммоне." — Матфея 6:24</p>
+</blockquote>
+<p>Иисус не просто предостерегал от жадности. Он определил маммону — систему богатства и материальной зависимости — как соперничающего господина, поддельного владыку, требующего той же преданности, которая принадлежит только Богу.</p>
+<p>Цифровая валюта центрального банка — это усовершенствованная маммона. Это деньги, которые являются не просто средством обмена, но механизмом послушания — программируемые, условные, отменяемые и предназначенные для работы как операционная система человеческого поведения.</p>
+<p>Когда ваши деньги могут быть проинструктированы, что покупать, когда истекать и кого исключать, маммона стала вашим господином в самом буквальном смысле.</p>
+<p>Переход от физических денег к программируемой цифровой валюте — это не эволюция. Это революция — замена инструмента, который вы контролируете, на инструмент, который контролирует вас.</p>
+<p>Трек с альбома Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/51-The_Covenant_Blood.mp4">Кровь завета</a> говорит об истинном завете — запечатанном не в цифровых токенах, а в крови Христа. Поддельный завет, который строится, требует не веры, а соответствия, не поклонения, а подчинения, и его валюта — не благодать, а программируемое послушание.</p>
+<hr>
+<h2 id="что-такое-cbdc">Что такое CBDC?</h2>
+<p>Цифровая валюта центрального банка — это цифровая форма фиатной валюты нации, выпущенная и контролируемая непосредственно центральным банком.</p>
+<p>Ключевые отличия:</p>
+<ul>
+<li>В отличие от <strong>депозитов коммерческих банков</strong> (которые являются обязательствами частных банков), CBDC является прямым обязательством самого центрального банка</li>
+<li>В отличие от <strong>криптовалюты</strong> (которая децентрализована), CBDC полностью централизована — разработана, выпущена, контролируется и управляется институтом, который контролирует денежную политику</li>
+<li>В отличие от <strong>наличных</strong> (которые анонимны), CBDC отслеживается, программируется и отменяется</li>
+</ul>
+<p>По состоянию на 2024 год более 130 стран, представляющих 98% мирового ВВП, изучали или разрабатывали CBDC. Банк международных расчётов (BIS) — центральный банк центральных банков — координирует разработку CBDC в разных юрисдикциях.</p>
+<p>Активные развёртывания и пилоты включают:</p>
+<ul>
+<li><strong>Цифровой юань Китая (e-CNY)</strong> — более 260 миллионов кошельков, десятки пилотных городов</li>
+<li><strong>eNaira Нигерии</strong> — запущен в 2021 году</li>
+<li><strong>Sand Dollar Багамских островов</strong> — запущен в 2020 году</li>
+<li><strong>Европейский центральный банк</strong> — разрабатывает цифровое евро</li>
+<li><strong>Банк Англии</strong> — разрабатывает цифровой фунт</li>
+<li><strong>Федеральная резервная система</strong> — опубликовала исследовательские работы о цифровом долларе</li>
+</ul>
+<p>Это не спекулятивная технология. Она находится в активной разработке и развёртывании по всему миру.</p>
+<hr>
+<h2 id="оружие-программируемости">Оружие программируемости</h2>
+<p>Определяющая особенность CBDC — особенность, которая отличает её от каждой предыдущей формы денег — это <strong>программируемость</strong>. CBDC — это не просто цифровые деньги. Это деньги с встроенным кодом — кодом, который определяет, как, когда, где и кем они могут использоваться.</p>
+<p>Консультационный документ Банка Англии 2023 года о цифровом фунте прямо обсуждал программируемость, различая между:</p>
+<ul>
+<li><strong>Программируемые деньги</strong> — условия, встроенные в саму валюту</li>
+<li><strong>Программируемые платежи</strong> — условия, применяемые посредниками</li>
+</ul>
+<p>Оба достигают одного и того же результата: деньги, которые подчиняются правилам, написанным кем-то другим, а не лицом, владеющим ими.</p>
+<p>Задокументированные и предложенные функции программируемости включают:</p>
+<p><strong>Даты истечения.</strong> CBDC может быть запрограммирована на истечение после установленного периода. Пилот цифрового юаня Китая тестировал это, выпуская стимулирующие платежи, которые должны были быть потрачены в течение ограниченного времени. Это устраняет способность сберегать — фундаментальную экономическую свободу.</p>
+<p><strong>Ограничения на траты.</strong> CBDC может быть закодирована для разрешения или запрета определённых категорий покупок. Правительство могло бы запрограммировать CBDC для запрета алкоголя, табака, огнестрельного оружия, определённых продуктов питания или топлива сверх углеродной квоты. Сами деньги обеспечивают ограничение.</p>
+<p><strong>Географические ограничения.</strong> CBDC может быть ограничена определёнными областями. Ваши деньги могут работать только в пределах вашего города или 15-минутной зоны — как исследуется в <a href="/smart-city-prison-15-minute-trap/?lang=ru">Тюрьма умного города: Ловушка 15 минут</a>.</p>
+<p><strong>Условный доступ.</strong> Доступ к CBDC может быть обусловлен соответствием — статусом вакцинации, баллом социального кредита, налоговым соответствием, углеродной квотой. Система социального кредита Китая уже ограничивает покупки для граждан с низкими баллами. CBDC автоматизирует это.</p>
+<p><strong>Отрицательные процентные ставки.</strong> Ваш баланс уменьшается со временем, заставляя тратить и предотвращая сбережение. Это спроектированная зависимость.</p>
+<hr>
+<h2 id="слой-надзора">Слой надзора</h2>
+<p>Каждая транзакция CBDC по замыслу видима выпускающему центральному банку. В отличие от наличных — которые анонимны — CBDC даёт центральному банку представление о каждой транзакции в экономике в реальном времени.</p>
+<p>Это не побочный эффект. Это заявленная цель.</p>
+<p>BIS опубликовал множество работ, описывающих "возможности данных", которые предоставляет CBDC. Рабочий документ BIS 2021 года отметил, что CBDC может позволить центральным банкам:</p>
+<ul>
+<li>"Наблюдать поток денег в реальном времени"</li>
+<li>"Реализовывать денежную политику на индивидуальном уровне"</li>
+</ul>
+<p>Подумайте, что означает "денежная политика на индивидуальном уровне":</p>
+<ul>
+<li>Разные процентные ставки для разных людей на основе поведения</li>
+<li>Стимулирование трат в определённых демографических группах путём более быстрого истечения их денег</li>
+<li>Отговаривание определённых покупок путём снижения ценности денег для этих покупок</li>
+<li>Вознаграждение соответствующих граждан бонусами</li>
+<li>Наказание несоответствующих вычетами</li>
+</ul>
+<p>Это не денежная политика. Это поведенческая инженерия, выполняемая через денежную массу.</p>
+<p>Надзор выходит за рамки экономики. Данные транзакций CBDC раскрывают:</p>
+<ul>
+<li>Каждое пожертвование политической причине</li>
+<li>Каждую покупку в оружейном магазине</li>
+<li>Каждый платёж адвокату</li>
+<li>Каждое посещение медицинского учреждения</li>
+<li>Каждую подписку на медиа-канал</li>
+</ul>
+<p>Всё видимо в реальном времени центральному банку и любому правительственному агентству с доступом.</p>
+<hr>
+<h2 id="китай-чертёж">Китай: Чертёж</h2>
+<p>Цифровой юань Китая предоставляет самую ясную картину CBDC как механизма контроля. Ключевые особенности:</p>
+<ul>
+<li><strong>Регистрация по реальному имени</strong> требуется для кошельков выше самого низкого уровня</li>
+<li><strong>Лимиты транзакций</strong> привязаны к уровню верификации идентичности</li>
+<li><strong>Оффлайн-возможность</strong>, которая всё же записывает транзакции для последующей загрузки</li>
+<li><strong>Функциональность смарт-контрактов</strong>, обеспечивающая программируемые условия</li>
+<li><strong>Интеграция с баллами социального кредита</strong></li>
+</ul>
+<p>Китайские граждане с низкими баллами социального кредита уже сталкиваются с:</p>
+<ul>
+<li>Невозможностью покупать авиабилеты</li>
+<li>Невозможностью покупать билеты первого класса на поезд</li>
+<li>Дросселированным доступом в интернет</li>
+<li>Ограниченными финансовыми услугами</li>
+</ul>
+<p>Цифровой юань систематизирует эти ограничения и делает их автоматическими. Никакой человеческий бюрократ не обрабатывает наказание. Код обеспечивает его.</p>
+<p>Китайская модель не уникальна для Китая. Это шаблон.</p>
+<p>BIS, МВФ и Всемирный банк опубликовали структуры CBDC, включающие верификацию идентичности, мониторинг транзакций и программируемость. Язык отличается — "финансовая инклюзия" вместо "социального кредита", "защита потребителей" вместо "контроля поведения" — но архитектура идентична.</p>
+<hr>
+<h2 id="интеграция-с-цифровым-id">Интеграция с цифровым ID</h2>
+<p>CBDC не может функционировать без цифровой идентичности. Каждая транзакция требует аутентификации — подтверждения того, кто её инициирует.</p>
+<p>Это связывает CBDC напрямую с инфраструктурой цифровой идентичности, как исследуется в <a href="/digital-id-global-identity-prison/?lang=ru">Цифровой ID: Глобальная тюрьма идентичности</a> и <a href="/mark-of-the-beast-digital-id/?lang=ru">Начертание зверя и цифровая идентичность</a>.</p>
+<p>Интеграция создаёт полную архитектуру Откровения 13:</p>
+<ul>
+<li>Система, требующая <strong>проверяемой идентичности</strong> для покупки и продажи</li>
+<li>Идентичность, связанная со <strong>статусом соответствия</strong></li>
+<li>Нет идентичности = нет денег</li>
+<li>Несоответствующая идентичность = нет денег</li>
+</ul>
+<p>Начертание — какую бы форму оно ни приняло — это механизм аутентификации, связывающий ваше тело с вашим кошельком CBDC и ваш кошелёк с системой соответствия.</p>
+<p>Это не интерпретация. Это опубликованная спецификация дизайна каждого крупного проекта CBDC.</p>
+<hr>
+<h2 id="предпосылка-безналичного-общества">Предпосылка безналичного общества</h2>
+<p>Контрольные функции CBDC эффективны только в безналичной среде. Пока существуют физические наличные, граждане могут отказаться.</p>
+<p>Стремление устранить наличные — задокументированное в <a href="/cashless-society-trap/?lang=ru">Ловушка безналичного общества</a> — поэтому является предпосылкой.</p>
+<p>Последовательность ясна и преднамеренна:</p>
+<ol>
+<li><strong>Сократить использование наличных</strong> через стимулы удобства</li>
+<li><strong>Стигматизировать наличные</strong> как инструмент преступников</li>
+<li><strong>Ввести CBDC</strong> как превосходную альтернативу</li>
+<li><strong>Устранить наличные</strong>, как только CBDC достигнет критической массы</li>
+<li><strong>Активировать программируемость</strong>, как только наличные больше не доступны</li>
+</ol>
+<p>Каждый шаг выглядит добровольным и безобидным в изоляции. Вместе они представляют собой строительство финансовой тюрьмы без выхода.</p>
+<hr>
+<h2 id="глобальная-координация">Глобальная координация</h2>
+<p>Разработка CBDC координируется через международные институты:</p>
+<p><strong>Банк международных расчётов (BIS)</strong> — управляет Инновационным хабом, координирующим исследования CBDC по всему миру. Проекты включают:</p>
+<ul>
+<li><strong>mBridge</strong> — трансграничный CBDC между Китаем, Гонконгом, Таиландом и ОАЭ</li>
+<li><strong>Project Helvetia</strong> — оптовый CBDC в Швейцарии</li>
+<li><strong>Dunbar</strong> — мульти-CBDC платформа для Сингапура, Малайзии, Австралии и Южной Африки</li>
+</ul>
+<p><strong>Международный валютный фонд (МВФ)</strong> — опубликовал структуры для интероперабельности CBDC, выступая за CBDC для "финансовой инклюзии".</p>
+<p><strong>Всемирный экономический форум (ВЭФ)</strong> — созывает управляющих центральных банков, руководителей технологических компаний и политиков для структур управления CBDC.</p>
+<p>Координация обеспечивает, что когда CBDC полностью развёрнут, он будет интероперабельным через границы — глобальная финансовая система, где каждая транзакция видима и подчинена программируемым контролям.</p>
+<p>Система строится не как национальный проект, а как глобальная инфраструктура.</p>
+<hr>
+<h2 id="библейское-размышление">Библейское размышление</h2>
+<blockquote>
+<p>"И он сделает то, что всем, малым и великим, богатым и нищим, свободным и рабам, положено будет начертание на правую руку их или на чело их, и что никому нельзя будет ни покупать, ни продавать, кроме того, кто имеет это начертание, или имя зверя, или число имени его." — Откровение 13:16-17</p>
+</blockquote>
+<p>Пророчество описывает систему с тремя характеристиками:</p>
+<ul>
+<li><strong>Универсальное применение</strong> — "всем, малым и великим"</li>
+<li><strong>Биометрическая аутентификация</strong> — "начертание на правую руку их или на чело их"</li>
+<li><strong>Тотальный коммерческий контроль</strong> — "никому нельзя будет ни покупать, ни продавать"</li>
+</ul>
+<p>CBDC, интегрированный с цифровой идентичностью и развёрнутый в безналичной экономике, выполняет все три с инженерной точностью.</p>
+<p>Вопрос больше не в том, возможна ли такая система. Она строится.</p>
+<p>Вопрос больше не в том, будет ли она развёрнута. Она развёртывается.</p>
+<p>Единственный вопрос, который остаётся, — примете ли вы условия новых денег, когда они потребуют вашего соответствия как цену участия.</p>
+<hr>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/161-CBDC_Chains.mp4">Цепи CBDC</a> — Программируемые деньги, которые контролируют вас</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/229-Digital_Dollar_Dragnet.mp4">Облава цифрового доллара</a> — Облава цифровой валюты</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/cashless-society-trap/?lang=ru">Ловушка безналичного общества: Когда наличные исчезают, умирает свобода</a> — Предпосылочная повестка, которая делает контроль CBDC возможным</li>
+<li><a href="/digital-id-global-identity-prison/?lang=ru">Цифровой ID: Глобальная тюрьма идентичности</a> — Слой идентичности, который аутентифицирует транзакции CBDC</li>
+<li><a href="/mark-of-the-beast-digital-id/?lang=ru">Начертание зверя и цифровая идентичность</a> — Пророческая структура для системы биометрической аутентификации</li>
+</ul>
+<hr>
+<p><em>Деньги в вашем кармане подчиняются вам. Они идут туда, куда вы их отправляете, покупают то, что вы выбираете, и не задают вопросов. Деньги, которые они строят, подчиняются им. Они идут туда, куда они разрешают, покупают то, что они позволяют, и сообщают обо всём, что вы делаете. Это не улучшение. Это замена — вашего суверенитета их контролем, вашей свободы их кодом, ваших денег их цепями. Не можете служить Богу и маммоне. Но программируемая маммона не даёт вам выбора. Она служит себе.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/finance/","className":"category-badge","children":"finance"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Цепи CBDC: Программируемые деньги, которые контролируют вас"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Цифровые валюты центральных банков — это не улучшение денег. Это программируемые токены контроля, которые могут истекать, ограничивать покупки, обеспечивать соответствие и отменяться по желанию — финансовая архитектура Откровения 13, ставшая реальностью."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-01-29T10:00:00Z","children":"29 января 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CBDC",{"href":"/ru/tag/CBDC/","className":"tag-pill","children":["#","CBDC"]}],["$","a","programmable-money",{"href":"/ru/tag/programmable-money/","className":"tag-pill","children":["#","programmable-money"]}],["$","a","central-bank",{"href":"/ru/tag/central-bank/","className":"tag-pill","children":["#","central-bank"]}],["$","a","digital-currency",{"href":"/ru/tag/digital-currency/","className":"tag-pill","children":["#","digital-currency"]}],["$","a","control",{"href":"/ru/tag/control/","className":"tag-pill","children":["#","control"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/cbdc-chains-programmable-money/","title":"Цепи CBDC: Программируемые деньги, которые контролируют вас"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/cbdc-chains-programmable-money/","title":"Цепи CBDC: Программируемые деньги, которые контролируют вас"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Цепи CBDC: Программируемые деньги, которые контролируют вас | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Цифровые валюты центральных банков — это не улучшение денег. Это программируемые токены контроля, которые могут истекать, ограничивать покупки, обеспечивать соответствие и отменяться по желанию — финансовая архитектура Откровения 13, ставшая реальностью."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CBDC, programmable-money, central-bank, digital-currency, control"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/cbdc-chains-programmable-money/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cbdc-chains-programmable-money/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cbdc-chains-programmable-money/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cbdc-chains-programmable-money/"}],["$","meta","10",{"property":"og:title","content":"Цепи CBDC: Программируемые деньги, которые контролируют вас"}],["$","meta","11",{"property":"og:description","content":"Цифровые валюты центральных банков — это не улучшение денег. Это программируемые токены контроля, которые могут истекать, ограничивать покупки, обеспечивать соответствие и отменяться по желанию — финансовая архитектура Откровения 13, ставшая реальностью."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/cbdc-chains-programmable-money/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cbdc-chains-programmable-money.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Цепи CBDC: Программируемые деньги, которые контролируют вас"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Цепи CBDC: Программируемые деньги, которые контролируют вас"}],["$","meta","25",{"name":"twitter:description","content":"Цифровые валюты центральных банков — это не улучшение денег. Это программируемые токены контроля, которые могут истекать, ограничивать покупки, обеспечивать соответствие и отменяться по желанию — финансовая архитектура Откровения 13, ставшая реальностью."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cbdc-chains-programmable-money.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

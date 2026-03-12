@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","presidents-warned-jesuits-danger",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","presidents-warned-jesuits-danger","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","presidents-warned-jesuits-danger","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T591e,<h1 id="каждый-президент-предупреждавший-об-иезуитах-был-проигнорирован--или-убит">Каждый президент, предупреждавший об иезуитах, был проигнорирован — или убит</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p><em>"Премудрый услышит и приумножит учение, и разумный приобретет мудрые советы."</em> — Притчи 1:5</p>
+</blockquote>
+<p>Писание говорит нам, что мудрость начинается с готовностью слушать — получать совет, учиться у тех, кто видел больше, обращать внимание на предупреждения опытных. Но что происходит, когда самые мудрые люди своего времени выпускают предупреждения и вся цивилизация отказывается их слушать? Что происходит, когда президенты, генералы, императоры и даже папы определяют одну и ту же угрозу, описывают ее в почти идентичных терминах, и мир игнорирует каждого из них?</p>
+<p>История иезуитских предупреждений — это история намеренной глухоты. С восемнадцатого века дальше самые мощные и наиболее информированные люди западного мира — люди с доступом к разведывательным сетям, дипломатической корреспонденции и внутренним работам правительства — определили Общество Иисуса как наиболее опасную организацию на земле. Они не шептали эти предупреждения в частном порядке. Они писали их в письма, говорили их в открытом, и в некоторых случаях ставили свои репутации и жизни на правду того, что они сказали. И каждый из них был проигнорирован. Некоторые были убиты.</p>
+<p>Документальный фильм <em>Catholic Confidential</em> составляет эти предупреждения в опустошающий портрет организации, которая была определена, выставлена и предупреждена самыми доверенными свидетелями в истории — и которая пережила каждое разоблачение, потому что мир отказывается верить тому, что его собственные лидеры рассказали ему.</p>
+<video controls>
+  <source src="https://zzzdaily.zzzdaily.com/tracks/ru/125-Illuminati_Founding_Fathers.mp4" type="video/mp4">
+</video>
+<p><em>Illuminati Founding Fathers — из альбома ZZZ Daily</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4" type="video/mp4">
+</video>
+<p><em>The Deceiver's Lies — из альбома Confliction</em></p>
+<hr>
+<h2 id="джон-адамс-вечное-осуждение-на-земле-и-в-аду">Джон Адамс: "Вечное осуждение на земле и в аду"</h2>
+<h3 id="предупреждение-отца-основателя">Предупреждение отца-основателя</h3>
+<p>Джон Адамс, второй президент Соединенных Штатов, был одним из самых ученых людей в американской истории. Юрист, дипломат и политический философ, Адамс посвятил свою жизнь изучению правительства, власти и сил, которые угрожают свободе. Его личная переписка раскрывает человека, который понимал угрозу иезуитов с необыкновенной ясностью.</p>
+<p>В письме 1816 года Томасу Джефферсону — письмо между двумя бывшими президентами, двумя людьми, которые возглавляли американскую революцию и сформировали новую республику — Адамс писал с срочностью, которая все еще поражает два столетия спустя:</p>
+<p><em>"Моя история иезуитов не написана красноречиво, но она поддерживается неоспоримыми авторитетами, является очень подробной и очень ужасной. Их восстановление действительно является шагом к темноте, жестокости, деспотизму, смерти."</em></p>
+<p>Адамс ссылался на восстановление иезуитского ордена Папой Пием VII в 1814 году, всего два года перед этим письмом. Орден был подавлен Папой Климентом XIV в 1773 году — подавлен самим папой, человеком, который должен был быть его верховным авторитетом. И теперь это было восстановлено. Адамс увидел это восстановление не как незначительный церковный ход, а как цивилизационную катастрофу — "шаг к темноте, жестокости, деспотизму, смерти."</p>
+<p>Его оценка самих иезуитов была еще более разрушительной:</p>
+<p><em>"Мне не нравится внешний вид иезуитов. Если когда-либо было тело мужчин, которые заслуживали вечного осуждения на земле и в аду, это Общество Лойолы."</em></p>
+<p>Это не язык сектантского предубеждения. Это рассмотренное суждение одного из самых осторожных умов в американской истории, человека, который взвешивал его слова с юридической точностью. Адамс не сказал, что иезуиты были неправильно направлены. Он не сказал, что они были чрезмерно энтузиастичны. Он сказал, что они заслуживают вечного осуждения — на земле и в аду. Он использовал самый сильный возможный язык, потому что верил, что угроза оправдывала это.</p>
+<hr>
+<h2 id="наполеон-бонапарт-власть-контролировать-мир">Наполеон Бонапарт: "Власть контролировать мир"</h2>
+<h3 id="оценка-императора">Оценка императора</h3>
+<p>Наполеон Бонапарт не был теологом. Он был военным гением, политическим стратегом и хозяином империи, которая простиралась от Испании до России. Его оценка иезуитов не была основана на религиозном предубеждении, а на военном анализе — анализе человека, который понимал власть лучше, чем почти кто-либо, кто когда-либо жил:</p>
+<p><em>"Иезуиты — это военная организация, а не религиозный орден. Их главой является генерал армии, а не просто отец-аббат монастыря. И целью этой организации является власть — абсолютная власть, универсальная власть, власть контролировать мир волей одного человека."</em></p>
+<p>Наполеон понимал то, что большинство людей пропускают: Общество Иисуса не является в первую очередь религиозной организацией. Это военная организация, которая использует религию как свое прикрытие. Его структура является военной — генерал, командующий офицерами, командующими солдатами. Его дисциплина является военной — абсолютное послушание, беспрекословное выполнение приказов. Его стратегия военная — инфильтрация, сбор разведки, манипуляция противников и терпеливое накопление решающего преимущества.</p>
+<hr>
+<h2 id="авраам-линкольн-зловещее-влияние-иезуитов">Авраам Линкольн: "Зловещее влияние иезуитов"</h2>
+<h3 id="президент-назвавший-своих-убийц">Президент, назвавший своих убийц</h3>
+<p>Авраам Линкольн запомнен как президент, который сохранил Союз и освободил рабов. То, что не запомнено — что было систематически подавлено — так это то, что Линкольн определил иезуитов как силу, стоящую за гражданской войной, и предсказал свое собственное убийство в их руках.</p>
+<p>Слова Линкольна, как задокументировано в <em>Catholic Confidential</em> и сохранено в исторических записях, неоспоримы:</p>
+<p><em>"Эта война никогда не была бы возможна без зловещего влияния иезуитов."</em></p>
+<p>Гражданская война в Америке — кровавейший конфликт в американской истории, война, убившая более 600 000 мужчин — была не, по словам сидящего президента Соединенных Штатов, естественным результатом политического разногласия. Она была спроектирована. Она была сделана возможной "зловещим влиянием" конкретной организации. Линкольн не приписал войну одному рабству, или праве штатов, или экономическим различиям между Севером и Югом. Он приписал это преднамеренным махинациям Общества Иисуса.</p>
+<hr>
+<h2 id="маркиз-де-лафайет-самые-коварные-опасные-враги">Маркиз де Лафайет: "Самые коварные, опасные враги"</h2>
+<h3 id="предупреждение-французского-героя">Предупреждение французского героя</h3>
+<p>Маркиз де Лафайет, французский герой американской революции, человек, который сражался рядом с Вашингтоном для установления американской свободы, издал собственное предупреждение об угрозе иезуитов этой свободе:</p>
+<p><em>"Если свободы этой страны уничтожены, это будет по тонкости католического священника-иезуита, ибо они — самые коварные, опасные враги гражданской и религиозной свободы."</em></p>
+<p>Лафайет не сказал, что свободы Америки <em>могут</em> быть уничтожены иезуитами. Он сказал, что если они уничтожены, это будет иезуитами. Он определил их как единственную наиболее опасную угрозу всему, что американская революция достигла — более опасную, чем любая иностранная армия, более опасную, чем любая внутренняя фракция, более опасную, чем любое политическое движение.</p>
+<hr>
+<h2 id="папа-климент-xiv-это-подавление-будет-моей-смертью">Папа Климент XIV: "Это подавление будет моей смертью"</h2>
+<h3 id="когда-даже-папа-не-был-в-безопасности">Когда даже папа не был в безопасности</h3>
+<p>Наиболее экстраординарный свидетель против иезуитов — это папа, который попытался их остановить. Папа Климент XIV, после лет давления со стороны католических монархов Европы — все из которых уже изгнали иезуитов из своих территорий — подписал папскую булу <em>Dominus ac Redemptor</em> 21 июля 1773 года, официально подавляя Общество Иисуса.</p>
+<p>Это было наиболее драматическим актом папского авторитета в современной истории. Папа — верховный главе католической церкви — объявил, что орден, основанный для служения папству, стал столь опасным, что его нужно растворить полностью. Каждый иезуитский дом должен быть закрыт. Каждый иезуит должен быть освобожден от его обетов. Общество Иисуса должно перестать существовать.</p>
+<p>Климент знал, что этот акт будет его стоить. Он сказал:</p>
+<p><em>"Подавление достигнуто. Я не раскаялся в этом... Но это подавление будет моей смертью."</em></p>
+<p>Он был прав. 22 сентября 1774 года Папа Климент XIV умер. Обстоятельства его смерти указывали на отравление. Его тело разлагалось с необычной скоростью — признак, в то время, отравления. Человек, который осмелился подавить иезуитов, заплатил за свою смелость с его жизнью.</p>
+<p>Подумайте о том, что это означает. Папа — человек, иезуиты были теоретически поклялись повиноваться — был убит организацией, которую он попытался растворить. Викарий Христа, верховный понтифик, Епископ Рима — убитый потому, что бросил вызов власти Общества Иисуса. Если папа сам не был в безопасности от иезуитов, кто?</p>
+<hr>
+<h2 id="образец-молчания">Образец молчания</h2>
+<h3 id="почему-предупреждения-были-проигнорированы">Почему предупреждения были проигнорированы</h3>
+<p>Наиболее возмущающий аспект этой истории — это не сами предупреждения, а молчание, которое последовало за ними. Джон Адамс предупредил, и Америка продолжала приветствовать иезуитские учреждения. Наполеон предупредил, и Европа продолжала размещать иезуитские сети. Линкольн предупредил и был застрелен. Лафайет предупредил и был забыт. Климент XIV предупредил и был отравлен.</p>
+<p>Почему? Как самые доверенные свидетели в истории могут издать самые срочные предупреждения и иметь эти предупреждения полностью проигнорированы?</p>
+<p>Ответ лежит в самом иезуитском методе. Организация, которая работает через невидимую инфильтрацию, гарантирует, что учреждения, ответственные за коммуникацию предупреждений — средства массовой информации, университеты, издательства — уже находятся под ее влиянием. Предупреждение не может быть услышано, потому что каналы коммуникации уже были захвачены. Тревога не может быть звучена, потому что система тревоги уже была отключена.</p>
+<p>Это гений иезуитской стратегии. Они не просто инфильтрируют учреждения власти. Они инфильтрируют учреждения информации. Они контролируют не только то, что происходит, но и то, что людям разрешено знать о том, что происходит. Каждый президент, который предупредил об иезуитах, говорил общественности, которая уже была обусловлена — иезуитским образованием, средствами массовой информации и культурой — отклонить такие предупреждения как теория заговора, антикатолический предрассудок или историческая паранойя.</p>
+<hr>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=4mZ9c9GnJig">PLACEBO: Wake Up Church! Howard Pittman</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католическая конфиденциальность: выявленные позорные секреты иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=I11L71PD3Lw">Ex Satan Worshipper John Ramirez Testimony</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<video controls>
+  <source src="https://zzzdaily.zzzdaily.com/tracks/ru/125-Illuminati_Founding_Fathers.mp4" type="video/mp4">
+</video>
+<p><em>Illuminati Founding Fathers — из альбома ZZZ Daily</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4" type="video/mp4">
+</video>
+<p><em>The Deceiver's Lies — из альбома Confliction</em></p>
+<video controls>
+  <source src="https://zzzdaily.zzzdaily.com/tracks/ru/151-One_Nation_Under_Blackmail.mp4" type="video/mp4">
+</video>
+<p><em>One Nation Under Blackmail — из альбома ZZZ Daily</em></p>
+<video controls>
+  <source src="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4" type="video/mp4">
+</video>
+<p><em>The Fallen Angels — из альбома Confliction</em></p>
+<video controls>
+  <source src="https://zzzdaily.zzzdaily.com/tracks/ru/103-MKUltra_Never_Ended.mp4" type="video/mp4">
+</video>
+<p><em>MKUltra Never Ended — из альбома ZZZ Daily</em></p>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/jesuit-oath-obedience-unto-death/?lang=ru">The Jesuit Oath: "I Will Believe White Is Black If the Church Defines It"</a></li>
+<li><a href="/lincoln-napoleon-jesuit-wars/?lang=ru">Lincoln and Napoleon Both Named the Same Enemy — The Jesuits</a></li>
+<li><a href="/black-pope-jesuit-general-rules-world/?lang=ru">The Black Pope: "From This Chamber I Govern the World"</a></li>
+<li><a href="/constitution-secret-constitution-part5/?lang=ru">The Constitution and the Secret Constitution Part 5</a></li>
+</ul>
+<p><em>Адамс написал это. Наполеон это сказал. Линкольн это объявил. Лафайет это предсказал. Климент XIV умер за это. Пять самых мощных и наиболее информированных людей в истории западного мира пришли к одному и тому же заключению об одной и той же организации — и мир закопал их свидетельство под двумя столетиями изготовленного молчания. Предупреждения не скрыты. Они находятся в письмах, речах, официальных записях. Проблема была никогда не отсутствием доказательств. Проблема — отсутствие смелости слышать то, что говорят доказательства.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/history/","className":"category-badge","children":"history"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Каждый президент, предупреждавший об иезуитах, был проигнорирован — или убит"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Джон Адамс, Авраам Линкольн, Наполеон и Лафайет все предупреждали об иезуитской власти. Один был убит. Один был отравлен. Все были проигнорированы."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2026-01-08T10:00:00Z","children":"8 января 2026 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","jesuits",{"href":"/ru/tag/jesuits/","className":"tag-pill","children":["#","jesuits"]}],["$","a","presidents",{"href":"/ru/tag/presidents/","className":"tag-pill","children":["#","presidents"]}],["$","a","john adams",{"href":"/ru/tag/john adams/","className":"tag-pill","children":["#","john adams"]}],["$","a","abraham lincoln",{"href":"/ru/tag/abraham lincoln/","className":"tag-pill","children":["#","abraham lincoln"]}],["$","a","napoleon",{"href":"/ru/tag/napoleon/","className":"tag-pill","children":["#","napoleon"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/presidents-warned-jesuits-danger/","title":"Каждый президент, предупреждавший об иезуитах, был проигнорирован — или убит"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/presidents-warned-jesuits-danger/","title":"Каждый президент, предупреждавший об иезуитах, был проигнорирован — или убит"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Каждый президент, предупреждавший об иезуитах, был проигнорирован — или убит | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Джон Адамс, Авраам Линкольн, Наполеон и Лафайет все предупреждали об иезуитской власти. Один был убит. Один был отравлен. Все были проигнорированы."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"jesuits, presidents, john adams, abraham lincoln, napoleon"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/presidents-warned-jesuits-danger/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/presidents-warned-jesuits-danger/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/presidents-warned-jesuits-danger/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/presidents-warned-jesuits-danger/"}],["$","meta","10",{"property":"og:title","content":"Каждый президент, предупреждавший об иезуитах, был проигнорирован — или убит"}],["$","meta","11",{"property":"og:description","content":"Джон Адамс, Авраам Линкольн, Наполеон и Лафайет все предупреждали об иезуитской власти. Один был убит. Один был отравлен. Все были проигнорированы."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/presidents-warned-jesuits-danger/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/presidents-warned-jesuits-danger.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Каждый президент, предупреждавший об иезуитах, был проигнорирован — или убит"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Каждый президент, предупреждавший об иезуитах, был проигнорирован — или убит"}],["$","meta","25",{"name":"twitter:description","content":"Джон Адамс, Авраам Линкольн, Наполеон и Лафайет все предупреждали об иезуитской власти. Один был убит. Один был отравлен. Все были проигнорированы."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/presidents-warned-jesuits-danger.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

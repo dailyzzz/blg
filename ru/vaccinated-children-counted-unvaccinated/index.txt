@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","vaccinated-children-counted-unvaccinated",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","vaccinated-children-counted-unvaccinated","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","vaccinated-children-counted-unvaccinated","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T572c,<h1 id="привитые-дети-считаются-непривитыми-в-вспышке-кори-в-техасе">Привитые дети считаются непривитыми в вспышке кори в Техасе</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Лжесвидетель не останется ненаказанным, и тот, кто говорит ложь, не убежит." — Притчи 19:5</p>
+</blockquote>
+<p>Когда фарисеи привели женщину, поймавшейся в прелюбодеянии, перед Иисусом, они представили то, что казалось открытым и закрытым случаем. Доказательства были четкими. Закон был четким. Но Иисус задал вопрос, который раскрыл коррупцию свидетелей: "Кто из вас без греха, первый да бросит в нее камень" (Иоанна 8:7). Обвинители уходили. Случай рухнул -- не потому, что доказательства были изготовлены, а потому что свидетели были развращены.</p>
+<p>Как раскрывает трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a>, наиболее эффективные обманы оружейны данные -- считая праведных как нечестивых, послушных как непослушных, привитых как непривитых. Когда сами данные развращены, каждый вывод, сделанный из них, служит цели обманщика.</p>
+<p>Привитые дети считаются непривитыми во вспышке кори в Техасе. Лжесвидетель был обнаружен. Но ущерб правде -- и детей, пойманных между развращенными данными и развращенными учреждениями -- продолжается.</p>
+<hr>
+<h2 id="вспышка-кори-в-техасе">Вспышка кори в Техасе</h2>
+<p>Вспышка кори в Техасе вызвала национальное медиа-освещение, предупреждения CDC и возобновленные призывы к обязательной вакцинации. Повествование было последовательным и категоричным: непривитые дети вызывали вспышку, нежелание вакцинировать было на вине, и решение было увеличение показателей вакцинации -- включая устранение религиозного и философского исключений.</p>
+<p>Это повествование зависело от критического предположения: что различие между "привитыми" и "непривитыми" случаями было точно поддержано в данных вспышки. Это предположение было подорвано доказательствами того, что дети, которые получили одну или более доз вакцины MMR (корь, паротит, краснуха), классифицировались как "непривитые" в количестве случаев.</p>
+<h3 id="как-привитые-дети-становятся-непривитыми">Как привитые дети становятся "непривитыми"</h3>
+<p>Неправильная классификация происходит через несколько механизмов:</p>
+<p><strong>Определение полного ряда:</strong> CDC рассматривает ребенка "полностью привитым" против кори только после получения двух доз вакцины MMR -- первая в 12-15 месяцев и вторая в 4-6 лет. Ребенок, который получил одну дозу, но не вторую, классифицируется как "непривитый" или "не полностью привитый" -- несмотря на получение дозы вакцины, которую сам CDC заявляет, обеспечивает примерно 93% защиты.</p>
+<p><strong>Временные окна:</strong> Дети, которые получают вакцину в течение 14 дней перед началом симптомов, классифицируются как "непривитые" -- потому что вакцина считается требующей 14 дней для производства иммунитета. Это означает, что ребенок, который был привит, заразился корью во время окна развития иммунитета и стал симптоматичным, считается непривитым случаем кори.</p>
+<p><strong>Пробелы в записи:</strong> Дети, чьи записи о вакцинации неполные, недоступные или не предоставленные исследователям общественного здравоохранения, переводятся в статус "непривитые" -- независимо от их фактической истории вакцинации.</p>
+<p><strong>Классификация отказа вакцины:</strong> Дети, которые получили обе дозы вакцины MMR и все еще заразились корью (случаи отказа вакцины), иногда классифицируются отдельно от счета "привитые" -- появляясь в данных как ни привитые, ни непривитые, или быть поглощенными в счет "непривитые" через несоответствующие практики отчетности.</p>
+<p>Карен Кингстон анализировала проблему классификации данных в The Kingston Report (karenkingston.substack.com): "Система классификации разработана для завышения количества непривитых случаев и уменьшения количества привитых случаев. Каждая серая область -- неполный ряд, временные окна, пробелы в записи, отказы вакцины -- разрешается в направлении, которое делает непривитые популяции более опасными и привитые популяции более защищенными. Это не нейтральный сбор данных. Это защита маскируется эпидемиологией."</p>
+<hr>
+<h2 id="политизация-вспышки-данных">Политизация вспышки данных</h2>
+<p>Неправильная классификация привитых детей как непривитых служит определенной политической цели: она завышает очевидный риск быть непривитым, укрепляет случай для обязательной вакцинации и подрывает аргументы в пользу исключений -- религиозного, философского или медицинского.</p>
+<p>Когда медийные розетки сообщают, что "X% случаев кори произошли в непривитых дети," общественность разумно заключает, что вакцинация обеспечивает надежную защиту и что непривитые дети представляют непропорциональный риск. Но если значительная часть "непривитых" случаев на самом деле получила один или более доз вакцины, вывод другой: эффективность вакцины может быть ниже, чем рекламируется, и профиль риска истинно непривитых лиц может быть завышен.</p>
+<p>Это имеет значение, потому что:</p>
+<p><strong>Законодательство об исключении</strong> обсуждается на основе данных о вспышке. Штаты, рассматривающие устранение религиозного или философского исключений, цитируют количество случаев вспышки -- и пропорцию случаев в "непривитых" популяциях -- как обоснование.</p>
+<p><strong>Реализация мандата</strong> зависит от общественного восприятия, что непривитые популяции представляют опасность. Неправильно классифицированные данные завышают это восприятие.</p>
+<p><strong>Уверенность в вакцине</strong> зависит от точных данных об эффективности. Если привитые дети заражают корью на более высоких показателях, чем сообщается -- потому что их случаи переклассифицированы от "привитого" счета -- общественность дается ложная картина эффективности вакцины.</p>
+<hr>
+<h2 id="более-широкий-кризис-целостности-данных">Более широкий кризис целостности данных</h2>
+<p>Неправильная классификация в Техасе не является изолированным происшествием. Это отражает более широкий кризис целостности данных общественного здравоохранения, который распространяется по всей программе вакцинации:</p>
+<p><strong>Классификация смертей от COVID-19:</strong> Во время пандемии смерти классифицировались как "смерти от COVID-19", если умерший тестировался положительно в течение определенного периода перед смертью -- независимо от того, был ли COVID-19 основной причиной. Это завышало смертность COVID-19 путем включения смертей от других причин у пациентов, которые произошли получить положительный тест.</p>
+<p><strong>Недолаговка побочных эффектов вакцины COVID-19:</strong> VAERS захватывает менее 1% побочных событий (в соответствии с исследованием Harvard Pilgrim Healthcare), означая, что профиль вреда вакцины драматически недолагаюется.</p>
+<p><strong>Классификация госпитализации COVID-19:</strong> Пациентов, госпитализированных "с" COVID-19 (случайные положительные), считали идентично пациентам, госпитализированным "для" COVID-19 (основной диагноз), завышая цифры госпитализации, приписываемые болезни.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/211-Total_Information_Awareness.mp4">Total Information Awareness</a> задокументировать, как системы данных, контролируемые учреждениями с финансовыми интересами в конкретных результатах, будут производить данные, которые поддерживают эти результаты. Система классификации не является нейтральной -- она разработана для производства результатов, которые поддерживают институциональное повествование.</p>
+<hr>
+<h2 id="пророческое-измерение">Пророческое измерение</h2>
+<blockquote>
+<p>"Мера и мера, различные -- оба они мерзость Господу." — Притчи 20:10</p>
+</blockquote>
+<p>Бог требует честного измерения. Система классификации, которая считает привитых детей непривитыми, -- это различная мера -- ложная мера, разработанная для получения заранее определенного результата. Это мерзость -- не просто статистическая ошибка, а моральная коррупция данных, от которой зависит здоровье детей.</p>
+<p>Когда данные искажены, каждое решение по политике, основанное на этих данных, развращено. Мандаты, основанные на ложных данных, -- это ложные мандаты. Устранение исключений, основанных на завышенном риске, -- это несправедливые устранения. И дети -- как привитые, так и непривитые -- несут последствия решений, принятых на основе лжи.</p>
+<hr>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всем, что он говорит тебе; ибо не тебя они отвергли, но Меня отвергли, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (КЖВ)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отражается через каждый коридор правительства сегодня. Когда Израиль потребовал царя, как и другие народы, Бог предупредил их точно, что произойдет -- их сыновья взяты на войну, их дочери на служение, их поля и виноградники отняты, десятая часть всего конфискована. Они выбрали человеческое правление вместо Божьего царства, и тирания последовала точно, как было обещано. Ничего не изменилось. Современная политическая система -- два крыла одной птицы -- левое и правое, республиканцы и демократы -- все служат одной скрытой структуре власти. Голосование за любую сторону -- это выбор того, какое крыло будет хлопать следующим, пока птица летит в одном направлении. Истинная власть никогда не была на бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>Texas Department of State Health Services -- Данные о вспышке кори и классификация случаев</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) -- Анализ Карен Кингстон классификации данных о вспышке, неправильной категоризации привитых-непривитых и политизации данных общественного здравоохранения</p>
+</li>
+<li>
+<p>CDC -- График вакцинации MMR и определения классификации случаев</p>
+</li>
+<li>
+<p>Притчи 19:5, Притчи 20:10 (КЖВ)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 -- Предупреждение против земных царей (КЖВ)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство Ховарда Питтмана о предсмертном опыте -- Предупреждение об конце времени, которое дал ему Бог</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католические доверительные: раскрытые позорные секреты иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/211-Total_Information_Awareness.mp4">Total Information Awareness</a> — Системы данных, разработанные для производства институциональных повествований</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Манипуляция данных, служащая скоординированным целям политики</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/91-The_Kinsey_Corruption.mp4">The Kinsey Corruption</a> — Развращенные данные, формирующие политику, затрагивающую детей</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — Данные, оружейные для служения цели обманщика</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">The Enemy Within</a> — Коррупция, встроенная в саму систему сбора данных</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/cdc-updates-childhood-vaccine-reimbursement/?lang=ru">CDC Updates Government Reimbursement for Childhood Vaccines</a> — Переструктурирование финансовых стимулов за вакцинацией</li>
+<li><a href="/rfk-worldwide-cause-autism/?lang=ru">RFK Jr. Announces Worldwide Effort to Determine Cause of Autism</a> — Исследование результатов здравоохранения с неискаженными данными</li>
+<li><a href="/cdc-postpones-vaccine-advisory/?lang=ru">CDC Postpones Vaccine Advisory Committee Meeting</a> — Комитет, который зависит от этих данных для его рекомендаций</li>
+<li><a href="/florida-ends-vaccine-mandates/?lang=ru">Florida Surgeon General Announces End to ALL Vaccine Mandates</a> -- Отказ от мандатов, построенных на сомнительных данных</li>
+</ul>
+<hr>
+<p><em>Лжесвидетель не останется ненаказанным. Данные, которые считают привитых детей непривитыми, -- это лжесвидетель -- дающий свидетельство в суде общественного мнения, в залах законодательных органов и в офисах администраторов школ, что непривитые дети -- опасность. Но свидетель ложен. Данные развращены. И политики, построенные на этой коррупции -- мандаты, устранение исключений, публичное унижение колеблющихся родителей -- построены на лжи. "Не произноси ложного свидетельства на ближнего твоего" (Исход 20:16). Девятая заповедь применяется к данным, как она применяется к речи. И Бог, который требует честных весов и честных мер, будет держать ответственным каждое учреждение, которое положило свой большой палец на масштаб.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Привитые дети считаются непривитыми в вспышке кори в Техасе"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Взрывные данные раскрывают, что привитые дети считаются непривитыми во вспышке кори в Техасе, завышающие количество непривитых случаев для продвижения мандатов."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-06-04T10:00:00Z","children":"4 июня 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","vaccinated",{"href":"/ru/tag/vaccinated/","className":"tag-pill","children":["#","vaccinated"]}],["$","a","unvaccinated",{"href":"/ru/tag/unvaccinated/","className":"tag-pill","children":["#","unvaccinated"]}],["$","a","Texas",{"href":"/ru/tag/Texas/","className":"tag-pill","children":["#","Texas"]}],["$","a","measles",{"href":"/ru/tag/measles/","className":"tag-pill","children":["#","measles"]}],["$","a","data-manipulation",{"href":"/ru/tag/data-manipulation/","className":"tag-pill","children":["#","data-manipulation"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/vaccinated-children-counted-unvaccinated/","title":"Привитые дети считаются непривитыми в вспышке кори в Техасе"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/vaccinated-children-counted-unvaccinated/","title":"Привитые дети считаются непривитыми в вспышке кори в Техасе"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Привитые дети считаются непривитыми в вспышке кори в Техасе | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Взрывные данные раскрывают, что привитые дети считаются непривитыми во вспышке кори в Техасе, завышающие количество непривитых случаев для продвижения мандатов."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"vaccinated, unvaccinated, Texas, measles, data-manipulation"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/vaccinated-children-counted-unvaccinated/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/vaccinated-children-counted-unvaccinated/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/vaccinated-children-counted-unvaccinated/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/vaccinated-children-counted-unvaccinated/"}],["$","meta","10",{"property":"og:title","content":"Привитые дети считаются непривитыми в вспышке кори в Техасе"}],["$","meta","11",{"property":"og:description","content":"Взрывные данные раскрывают, что привитые дети считаются непривитыми во вспышке кори в Техасе, завышающие количество непривитых случаев для продвижения мандатов."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/vaccinated-children-counted-unvaccinated/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/vaccinated-children-counted-unvaccinated.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Привитые дети считаются непривитыми в вспышке кори в Техасе"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Привитые дети считаются непривитыми в вспышке кори в Техасе"}],["$","meta","25",{"name":"twitter:description","content":"Взрывные данные раскрывают, что привитые дети считаются непривитыми во вспышке кори в Техасе, завышающие количество непривитых случаев для продвижения мандатов."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/vaccinated-children-counted-unvaccinated.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

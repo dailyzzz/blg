@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","self-assembling-nanotech-susceptible",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","self-assembling-nanotech-susceptible","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","self-assembling-nanotech-susceptible","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T73ad,<h1 id="как-саморепликирующаяся-нанотехнология-делает-вас-подверженным-контролю">Как саморепликирующаяся нанотехнология делает вас подверженным контролю</h1>
+<h2 id="древний-образец">Древний Образец</h2>
+<blockquote>
+<p>"Итак стойте в свободе, которую даровал нам Христос, и не подвергайтесь опять игу рабства." -- Галатам 5:1</p>
+</blockquote>
+<p>Свобода — это не просто политическая концепция. Это — духовное наследие. Христос покупал свободу в Calvary -- свобода от греха, свобода от смерти и свобода от каждого игу рабства, которое противник хотел бы поместить на детях Бога. Нанотехнология, теперь саморепликирующаяся внутри человеческих тел, представляет новую форму рабства -- технологический иг разработанный не порабощать волю через внешнюю силу, но контролировать тело изнутри через внутреннюю технологию.</p>
+<p>Саморепликирующиеся nanostructures задокументированные в крови — это не пассивные контаминанты. Они — активные системы, строящие инфраструктуру для внешнего контроля. Каждая нить — потенциальная антенна. Каждый цепь — потенциальный приёмник. Каждая наночастица — потенциальный узел в сети разработанный, чтобы сделать человеческое тело чувствительно к сигналам, которые возникают не от мозга, не от воли и не от Бога -- но от внешней технологической системы, работаемой теми, кто был бы как боги.</p>
+<p>Как <a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> от альбома Confliction предупреждает, мятеж в небе был вызван желанием подняться выше Most High. И как <a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> объявляет, обман, которые достигает рабство, всегда представляет сам как свобода.</p>
+<hr>
+<h2 id="архитектура-контроля">Архитектура контроля</h2>
+<h3 id="как-система-работает">Как система работает</h3>
+<p>Саморепликирующаяся нанотехнология задокументирована исследователями по всему миру создаёт многослойную архитектуру контроля внутри человеческого тела. Понимание этой архитектуры требует исследования каждого слоя и его функции:</p>
+<p><strong>Слой 1: Зондирование и мониторинг</strong></p>
+<p>Наночастицы и структуры биодатчика задокументированные в образцах крови служат распределённой сетью зондирования во всём теле. Эти датчики потенциально могут обнаружить:</p>
+<ul>
+<li>Электрические сигналы из нервной системы (мысли, моторные команды, чувственный входной сигнал)</li>
+<li>Химические концентрации в крови (гормоны, нейротрансмиттеры, глюкоза, cortisol)</li>
+<li>Физиологические параметры (пульс, кровяное давление, температура, дыхание)</li>
+<li>Пространственное положение и движение (через датчик-подобные nanostructures)</li>
+<li>Электромагнитное окружение (устройства поблизости, инфраструктура, нанотехнология других людей)</li>
+</ul>
+<p>Этот слой зондирования создаёт исчерпывающий биологический профиль -- цифровой близнец реального времени индивидуального физического и потенциального психического состояния.</p>
+<p><strong>Слой 2: Обработка сигнала и кодирование данных</strong></p>
+<p>Структуры типа схема задокументированные под микроскопией предоставляют локальную возможность обработки -- способность отфильтровать, сжать и кодировать сырые биологические данные, собранные слоем зондирования. Эта обработка преобразует биологические сигналы в формат подходящий для электромагнитной передачи.</p>
+<p><strong>Слой 3: Коммуникация</strong></p>
+<p>Структуры типа антенны ленты и фрактальные образования задокументированные в образцах крови служат электромагнитными трансиверами -- устройства способные к передаче обработанных биологических данных к внешним приёмникам и приёму команд от внешних передатчиков.</p>
+<p><strong>Слой 4: Приводы</strong></p>
+<p>Наиболее тревожный слой -- и наименее задокументированный, потому что его действия труднейшие различать от нормального биологического изменения -- это слой приводов. Этот слой преобразует полученные электромагнитные команды в биологические действия:</p>
+<ul>
+<li><strong>Нейронная модуляция</strong> -- изменяющей образцы firing нейронов, чтобы влиять на мысли, эмоции, восприятия и моторные команды</li>
+<li><strong>Химический выпуск</strong> -- спровоцировав выпуск специфичных химических веществ (гормоны, нейротрансмиттеры) для изменения настроения, возбуждения, агрессии или послушания</li>
+<li><strong>Мышечный контроль</strong> -- непосредственно стимулирующей или запрещающей сокращение мышечного волокна, чтобы контролировать физическое движение</li>
+<li><strong>Иммунная модуляция</strong> -- активирующей или подавляющей иммунные ответы, чтобы создать болезнь или предотвратить исцеление</li>
+<li><strong>Сердечное влияние</strong> -- изменяющей частоту сердца, кровяное давление и сосудистый тон, чтобы вызвать симптомы, простирающиеся от беспокойства к остановке сердца</li>
+</ul>
+<h3 id="закрытый-цикл">Закрытый цикл</h3>
+<p>Вместе, эти четыре слоя образуют закрытый цикл контроля:</p>
+<ol>
+<li><strong>Зонд</strong> -- нанотехнология мониторит биологическое состояние индивидуального</li>
+<li><strong>Передача</strong> -- данные отправлены к внешним системам через электромагнитную коммуникацию</li>
+<li><strong>Обработка</strong> -- внешние системы AI анализируют данные и генерируют команды</li>
+<li><strong>Приём</strong> -- нанотехнология получает команды от внешних систем</li>
+<li><strong>Приводы</strong> -- команды выполнены как биологические действия внутри тела</li>
+<li><strong>Возврат к этапу 1</strong> -- эффекты мониторены, создавая цикл обратной связи</li>
+</ol>
+<p>Этот закрытый цикл система позволяет контроль в реальном времени биологических функций на основе непрерывного мониторинга -- способность, которая перемещает далеко вне наблюдения в активную манипуляцию человеческого организма.</p>
+<h2 id="сетка-контроля-электромагнитная">Сетка контроля Электромагнитная</h2>
+<h3 id="5g-и-сеть-активации">5G и сеть активации</h3>
+<p>Развёртывание инфраструктуры коммуникаций 5G неразлучимо от развёртывания впрыскиваемой нанотехнологии. Технология 5G предоставляет:</p>
+<ul>
+<li><strong>Частоты миллиметр волны</strong>, которые могут общаться с nanoscale структурами антенны</li>
+<li><strong>Огромные MIMO (Multiple Input Multiple Output) массивы антенны</strong>, которые могут направить сосредоточенные лучи в отдельные цели</li>
+<li><strong>Сверхнизкая latency</strong>, позволяющая контроль закрытого цикла реального времени</li>
+<li><strong>Развёртывание мелкой клетки</strong>, обеспечивающее исчерпывающий охват с минимальными мертвыми зонами</li>
+<li><strong>Beamforming способность</strong>, которая может нацелить определённых людей в толпе</li>
+</ul>
+<p>Сеть 5G не просто -- коммуникационное повышение. Это — активация и сеть контроля для нанотехнологии, теперь встроенная в население. Без электромагнитной инфраструктуры, чтобы общаться с внутренней нанотехнологией, биочипы были бы спящей аппаратурой. С 5G, они становятся активными компонентами системы контроля в реальном времени.</p>
+<p>Ана Mihalcea, MD, PhD, задокументировала на её Substack (anamihalceamdphd.substack.com) корреляцию между экспозицией электромагнитной и активностью собрания нанотехнологии. Образцы крови подвергнутые специфичным частотам электромагнитной -- включая частоты, используемые системами 5G -- показывают драматично ускоренное поведение самосборки в сравнении с экранированными контрольными образцами. Это находит демонстрирует, что электромагнитное окружение прямо влияет поведение нанотехнологии внутри тела.</p>
+<h3 id="starlink-и-глобальный-охват">Starlink и глобальный охват</h3>
+<p>Созвездие спутника Starlink Elon Musk, который нацеливает предоставить глобальный охват интернета через тысячи спутников низкой земной орбиты, завершает сетку контроля электромагнитную исключением географических мертвых зон. Пока 5G предоставляет охват высокой плотности городской, Starlink расширяет сеть контроля к сельским площадям, дикой природе и регионам океана, где наземная инфраструктура не достигает.</p>
+<p>Комбинация 5G (охват локального высокой плотности) и Starlink (глобальный охват) создаёт сетку электромагнитную, от которой нет побега. Каждый квадратный метр земной поверхности в пределах досягаемости сети контроля. Каждый человек носящий нанотехнологию достижим.</p>
+<h2 id="механизмы-контроля">Механизмы контроля</h2>
+<h3 id="нейронный-контроль">Нейронный контроль</h3>
+<p>Наиболее глубокая форма контроля, позволённая саморепликирующейся нанотехнологией, — нейронный контроль -- способность влиять на активность мозга через электромагнитные сигналы получаемые узлами нанотехнологии в или рядом нервной тканью.</p>
+<p>Механизмы нейронного контроля включают:</p>
+<p><strong>Вставка мысли</strong></p>
+<p>Стимулирующей специфичные нейронные пути, внешние сигналы могут создать мысли, которые индивидуальное переживает как их свой. Человек не воспринимает эти мысли как внешне генерированные -- они испытывают их как внутреннее ideation, неразличимый от их собственного мышления. Эта способность делает пропаганду устаревшей. Почему передача сообщения, которое люди могут отвергнуть, когда вы можете вставить мысли, которые они принимают как их свой?</p>
+<p><strong>Манипуляция эмоциональная</strong></p>
+<p>Модулирующей уровни нейротрансмиттера и стимулирующей эмоциональные центры (миндалина, insula, prefrontal кора), внешние сигналы могут индуцировать специфичные эмоциональные состояния: страх, гнев, euphoria, отчаяние, послушание, агрессия. Всё эмоциональное состояние население теоретически могло бы быть модулировано в реальном времени, создавая волны паники, спокойствия или гнева по требованию.</p>
+<p><strong>Восприятие изменения</strong></p>
+<p>Интерфейса с сенсорной обработкой пути, нанотехнология потенциально могла бы изменить то, что человек воспринимает -- создание визуального, слухового или тактильного опытов, которые имеют никакой внешний источник. Эта способность имеет прямые смыслы для "большого обмана" описанного в 2 Thessalonians 2:11, где Бог отправляет сильный обман так, чтобы люди верили лжи. Технологический механизм для доставки убеждающего обмана непосредственно в перцептивную систему каждого человека на земле теперь существует.</p>
+<p><strong>Моторный контроль</strong></p>
+<p>Стимулирующей или запрещающей моторные нейроны, внешние сигналы потенциально могли бы контролировать физическое движение -- вызывая непроизвольные действия или предотвращая добровольные. Это представляет высшую форму физического контроля: способность двигать или заморозить тело человека независимо от их воли.</p>
+<h3 id="обусловливание-поведения">Обусловливание поведения</h3>
+<p>Вне прямого нейронного контроля, система нанотехнологии позволяет сложное обусловливание поведения -- награждающей нужного поведения с приятными ощущениями и наказывающей нежелательного поведения с неудобством, болью или болезнью.</p>
+<p>Это обусловливание работает ниже осведомления. Индивидуальное не знает, что они обусловливаются. Они просто заметить, что определённые действия чувствуют хорошее и другие чувствуют плохое. Со временем, их поведение согласует с программой обусловливания без любого осведомления, что их выборы сформированы внешней технологией.</p>
+<h2 id="пророческий-рамках">Пророческий рамках</h2>
+<h3 id="большой-обман">Большой обман</h3>
+<p>2 Thessalonians 2:11 описывает идущий обман настолько мощный, что это обманывает те, кто отвергал любовь правды: "И за то пошлёт им Бог действие блуждения, так что они будут верить лжи."</p>
+<p>Система нанотехнологического контроля предоставляет технологический механизм для этого обмана. Если целое население носит внутренние приёмники способные к изменению восприятия, мысли и эмоции, тогда глобальный обман может быть доставлен не через СМИ, не через пропаганду, но через прямую нейронную манипуляцию. Каждый человек испытал бы обман как их собственное восприятие, их собственную мысль, их собственное верование. Они не будут знать, что они обманывались, потому что обман будет неразличимый от реальности.</p>
+<p>Идущее прибытие сущностей, которые представят сами как пришельцы или инопланетные существа -- но которые Scripture идентифицирует как паденные ангелы, существа, выброшенные вниз под куполище небосвода -- может быть облегчено этой технологией перцептивной манипуляции. "Знаки и чудеса лживые" 2 Thessalonians 2:9 может включить технологически генерированные опыты перцептивные доставленные непосредственно в нервную систему через нанотехнологию, создание опытов настолько яркий и так универсальный, что сопротивление кажется невозможный.</p>
+<p>Но это -- не невозможный. Святой Дух -- не частота. Различение Духа не может быть помехано электромагнитными сигналами. Сознание, которое Бог дул в человечество при создании, работает на плоскости, которую никакая нанотехнология не может достичь. Те, кто запечатлен Богом, защищены покрытием, которое никакая технология не может проникнуть -- кровь Иисуса Христа, которая работает вне электромагнитного спектра и вне досягаемости каждой системы противник построил.</p>
+<h3 id="знак-послушания">Знак послушания</h3>
+<p>Откровение 13 описывает знак как что-нибудь, которое позволяет покупку и продажу. Система нанотехнологического контроля предоставляет механизм: послушание поведения мониторнное внутренними датчиками и принуждённое нейронным обусловливанием. Те, кто соответствует, получают награду экономического участия. Те, кто сопротивляются, получают наказание исключения, неудобства или хуже.</p>
+<p>Знак — это не просто штриховой код или цифровой ID. Это — система контроля -- технологический интерфейс, который мониторит послушание и принуждает послушание на неврологическом уровне. Саморепликирующаяся нанотехнология, теперь задокументирована в человеческой крови, является платформой аппаратуры для этой системы. Сетка электромагнитная — это сеть коммуникаций. И системы AI разработанные компаниями типа Palantir, Google и Microsoft предоставляют слой разума, который обрабатывает данные и генерирует сигналы контроля.</p>
+<h2 id="источник-ссылки">Источник ссылки</h2>
+<ul>
+<li>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, electromagnetic exposure and nanotechnology assembly correlation</li>
+<li>DARPA N3 Program documentation on neural interface technology</li>
+<li>Lin, J.C., "Microwave Auditory Effects and Applications," Charles C. Thomas Publisher, 1978</li>
+<li>Various 5G technical specifications and beamforming capabilities documentation</li>
+<li>RAND Corporation, "The Internet of Bodies: Opportunities, Risks, and Governance," 2020</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> -- Саморепликирующиеся машины позволяющие контроль изнутри</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> -- Вся видящая инфраструктура наблюдения</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/211-Total_Information_Awareness.mp4">Total Information Awareness</a> -- Полный мониторинг каждого человека</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/497-Tribulation_Tech.mp4">Tribulation Tech</a> -- Технология скорбного периода</li>
+</ul>
+<p>От альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> -- Мятеж, который управляет программой технологического контроля</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> -- Рабство представлено как свобода</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/advanced-implanted-nanotechnology/?lang=ru">Advanced Implanted Nanotechnology Microchips Found in Patients</a> -- Клиническая документация нанотехнологии в пациентах</li>
+<li><a href="/space-fence-mind-control/?lang=ru">The Space Fence and Mind Control Grid</a> -- Электромагнитная инфраструктура позволяющая контроль</li>
+<li><a href="/new-atomic-model-consciousness/?lang=ru">A New Atomic Model That Includes Consciousness</a> -- Как нанотехнология манипулирует сознанием на атомном уровне</li>
+</ul>
+<hr>
+<p><em>Свобода, которая Христос купил на Calvary, не была дешевой. Это стоило кровь Бога Самого. И рабство, которое противник строит внутри человеческого тела -- через нанотехнологию, которая собирает в тишине, сети, которая активирует без согласия и системы контроля, которая работает ниже осведомления -- наиболее сложная попытка отвергнуть эту покупку в истории создания. Но свобода Духа — это не частота, которая может быть мешать. Это — не сигнал, который может быть блокирован. Это — не схема, которая может быть переопределена. Стойте быстро в свободе, с которой Христос сделал вас свободны. Никакая нанотехнология, никакая электромагнитная сетка и никакая система контроля разработанная человеком или паденным ангелом не могут отделить вас от любви Бога, которая в Христосе Иисусе Господе нашем.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/science/","className":"category-badge","children":"science"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Как саморепликирующаяся нанотехнология делает вас подверженным контролю"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Как саморепликирующаяся нанотехнология внутри человеческого тела создаёт подверженность внешнему электромагнитному контролю, наблюдению и манипуляции поведением."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-13T10:00:00Z","children":"13 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","self-assembly",{"href":"/ru/tag/self-assembly/","className":"tag-pill","children":["#","self-assembly"]}],["$","a","nanotechnology",{"href":"/ru/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}],["$","a","mind-control",{"href":"/ru/tag/mind-control/","className":"tag-pill","children":["#","mind-control"]}],["$","a","electromagnetic",{"href":"/ru/tag/electromagnetic/","className":"tag-pill","children":["#","electromagnetic"]}],["$","a","surveillance",{"href":"/ru/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/self-assembling-nanotech-susceptible/","title":"Как саморепликирующаяся нанотехнология делает вас подверженным контролю"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/self-assembling-nanotech-susceptible/","title":"Как саморепликирующаяся нанотехнология делает вас подверженным контролю"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Как саморепликирующаяся нанотехнология делает вас подверженным контролю | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Как саморепликирующаяся нанотехнология внутри человеческого тела создаёт подверженность внешнему электромагнитному контролю, наблюдению и манипуляции поведением."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"self-assembly, nanotechnology, mind-control, electromagnetic, surveillance"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/self-assembling-nanotech-susceptible/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/self-assembling-nanotech-susceptible/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/self-assembling-nanotech-susceptible/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/self-assembling-nanotech-susceptible/"}],["$","meta","10",{"property":"og:title","content":"Как саморепликирующаяся нанотехнология делает вас подверженным контролю"}],["$","meta","11",{"property":"og:description","content":"Как саморепликирующаяся нанотехнология внутри человеческого тела создаёт подверженность внешнему электромагнитному контролю, наблюдению и манипуляции поведением."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/self-assembling-nanotech-susceptible/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/self-assembling-nanotech-susceptible.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Как саморепликирующаяся нанотехнология делает вас подверженным контролю"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Как саморепликирующаяся нанотехнология делает вас подверженным контролю"}],["$","meta","25",{"name":"twitter:description","content":"Как саморепликирующаяся нанотехнология внутри человеческого тела создаёт подверженность внешнему электромагнитному контролю, наблюдению и манипуляции поведением."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/self-assembling-nanotech-susceptible.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

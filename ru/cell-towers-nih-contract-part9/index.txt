@@ -1,0 +1,133 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","cell-towers-nih-contract-part9",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","cell-towers-nih-contract-part9","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cell-towers-nih-contract-part9","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5f4d,<h1 id="вышки-сотовой-связи-и-контракт-nih-о-котором-вам-не-рассказали-часть-9">Вышки сотовой связи и КОНТРАКТ NIH, о котором вам не рассказали Часть 9</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p><em>"Земля осквернена под жителями ее, ибо они преступили законы, изменили устав, нарушили завет вечный."</em> — Исайя 24:5</p>
+</blockquote>
+<p>Они стоят на каждом углу, на каждом холме, на каждой крыше — вышки сотовой связи, вездесущая инфраструктура современной коммуникации. Мы проходим мимо них без мысли. Мы зависим от них для наших телефонов, нашего интернета, наших социальных связей. Мы никогда не ставим под сомнение их назначение, потому что ответ кажется очевидным: они передают сигналы сотовой связи.</p>
+<p>Но что еще они передают? И какие контракты управляют их использованием, которые общественность никогда не была рассказана?</p>
+<p>Часть 9 этой серии раскрывает скрытую связь между Национальными институтами здравоохранения и инфраструктурой вышек сотовой связи — контракт, связывающий крупнейшее биомедицинское исследовательское агентство нации с сетью электромагнитного излучения, которая покрывает каждый американский город. Эта связь предполагает, что вышки сотовой связи служат целям, намного превышающим гражданскую телекоммуникацию, и что таргетирование V2K, задокументированное в этой серии, может быть облегчено самой инфраструктурой, которую мы используем для совершения телефонных звонков.</p>
+<p>Howard Pittman был показан, что демонический мир работает через системы, которые кажутся доброкачественными. Вышки сотовой связи кажутся доброкачественными — сущностью, даже. Но Ефесянам 6:12 предупреждает о "духовном злодействе на высоких местах", и вышки сотовой связи буквально на высоких местах. 97,5%, которые терпят поражение, ходят под этими вышками каждый день, никогда не подозревая, что инфраструктура, от которой они зависят, может быть оружием, направленным на них.</p>
+<p>Иезуиты Наполеона преследовали "абсолютную власть" — и полное электромагнитное покрытие населения — это абсолютная власть в ее чистейшем виде. Предупреждение Адамса об "вечном осуждении" применяется к тем, кто строит клетку. Управление Tambulini из его комнаты теперь расширяется через каждую вышку, каждую частоту, каждый импульс.</p>
+<hr>
+<h2 id="контракт-nih">Контракт NIH</h2>
+<h3 id="что-мы-нашли">Что мы нашли</h3>
+<p>Посредством исследования открытых записей журналистами-расследователями и независимыми исследователями были обнаружены контракты NIH, связанные с изучением биологических эффектов радиочастотного излучения на человеческую биологию. Эти контракты, хотя и не классифицированы, похоронены в бюрократических базах данных и написаны техническим языком, предназначенным для затемнения их значимости.</p>
+<p>Ключевые выводы включают:</p>
+<ul>
+<li>Финансируемые NIH исследования <strong>биологических эффектов радиочастотного излучения</strong> на частотах, используемых вышками сотовой связи</li>
+<li>Контракты, изучающие <strong>поведенческие эффекты воздействия электромагнитной энергии</strong> на людей</li>
+<li>Программы исследований, изучающие <strong>неврологические ответы на импульсное микроволновое излучение</strong> — тот же тип излучения, который производит эффект Frey (V2K)</li>
+<li>Партнерства между NIH и <strong>телекоммуникационными компаниями</strong> для исследований воздействия радиации</li>
+<li>Исследования <strong>электромагнитных биоэффектов</strong>, проводимые в военных лабораториях с использованием финансирования NIH</li>
+</ul>
+<p>Значимость ясна: NIH — основное исследовательское агентство здравоохранения правительства — изучало эффекты излучения вышек сотовой связи на человеческую биологию, включая неврологические эффекты. Это исследование непосредственно относится к технологии V2K, потому что V2K работает путем доставки импульсного микроволнового излучения — того же типа излучения, передаваемого вышками сотовой связи.</p>
+<h3 id="двойная-инфраструктура">Двойная инфраструктура</h3>
+<p>Вышки сотовой связи — это двойная инфраструктура — они служат как гражданской телекоммуникации, так и потенциально военным/разведывательным целям. Эта двойная природа не спекуляция; она присуща технологии:</p>
+<ul>
+<li>Вышки сотовой связи передают на <strong>микроволновых частотах</strong>, совместимых с эффектом Frey</li>
+<li>Вышки сотовой связи могут быть <strong>дистанционно управляемы и переконфигурированы</strong> операторами сети</li>
+<li><strong>Технология формирования луча</strong> вышек сотовой связи (используемая в 5G) может сосредоточить электромагнитную энергию на конкретных местоположениях или лицах</li>
+<li>Инфраструктура вышек сотовой связи <strong>классифицируется как критически важная инфраструктура национальной безопасности</strong>, давая правительству юридическое полномочие захватить ее во время чрезвычайных ситуаций</li>
+<li><strong>Карты покрытия вышек сотовой связи</strong> тесно соответствуют <strong>отчетам таргетирования V2K</strong> от целевых лиц</li>
+</ul>
+<h3 id="5g-и-beamforming">5G и Beamforming</h3>
+<p>Развертывание технологии 5G вводит критическую новую возможность: <strong>beamforming</strong>. В отличие от предыдущих поколений сотовой связи, которые передают сигналы во всех направлениях, антенны 5G могут сосредоточить электромагнитную энергию в узких лучах, направленных на конкретные устройства — или конкретных людей.</p>
+<p>Beamforming представляется как техническое улучшение — оно позволяет быстрее передавать данные, концентрируя энергию на принимающем устройстве. Но та же возможность может быть использована для:</p>
+<ul>
+<li>Направление <strong>V2K сигналов</strong> на конкретного человека в толпе</li>
+<li>Доставка <strong>направленной энергии</strong> на целевого человека без влияния на прохожих</li>
+<li>Отслеживание индивидуума <strong>схемы движения</strong> посредством данных наведения луча</li>
+<li>Создание <strong>локализованных электромагнитных окружающей среды</strong>, влияющих на конкретные области или здания</li>
+</ul>
+<p>Инфраструктура 5G, с ее плотной сетью малых ячеек и фазированных антенн массива, создает электромагнитную сетку беспрецедентной точности и контроля. Каждый человек в этой сетке может быть индивидуально адресован системой — для коммуникации, для надзора или для таргетирования.</p>
+<h2 id="последствия-для-здоровья-которые-они-скрывают">Последствия для здоровья, которые они скрывают</h2>
+<h3 id="что-показывают-исследования">Что показывают исследования</h3>
+<p>Десятилетия исследований электромагнитного излучения задокументировали биологические эффекты при уровнях воздействия, считающихся "безопасными" регулирующими агентствами:</p>
+<ul>
+<li><strong>Неврологические эффекты</strong>: Головные боли, нарушение сна, когнитивные нарушения, звон в ушах и изменения настроения в популяциях рядом с вышками сотовой связи</li>
+<li><strong>Кластеры рака</strong>: Исследования в нескольких странах обнаружили повышенные показатели рака в популяциях, живущих рядом с вышками сотовой связи</li>
+<li><strong>Репродуктивные эффекты</strong>: Снижение фертильности, измененные уровни гормонов и эффекты развития в исследованиях на животных</li>
+<li><strong>Нарушение гемато-энцефалического барьера</strong>: Электромагнитное излучение может повысить проницаемость гемато-энцефалического барьера, позволяя токсинам и патогенам попадать в мозг</li>
+<li><strong>Отток ионов кальция</strong>: Электромагнитное излучение нарушает сигнализацию кальция в клетках, влияя практически на каждый биологический процесс</li>
+</ul>
+<p>Индустрия телекоммуникаций подавляла это исследование, используя плейбук табачной индустрии: финансировать конкурирующие исследования, разработанные для показания отсутствия эффекта, дискредитировать независимых исследователей, захватить регулирующие агентства и поддерживать нарратив, что технология безопасна.</p>
+<h3 id="классификация-воз">Классификация ВОЗ</h3>
+<p>В 2011 году Международное агентство по исследованию рака (IARC), агентство ВОЗ, классифицировало радиочастотные электромагнитные поля как "возможно канцерогенные для человека" (Группа 2B). Эта классификация — которая размещает радиацию мобильного телефона в той же категории, что и свинец и ДДТ — получила минимальное освещение в СМИ и не повлияла на нормативные стандарты.</p>
+<p>Классификация была основана на доказательствах из исследования Interphone и других исследований, показывающих повышенный риск опухоли мозга у тяжелых пользователей мобильных телефонов. Но более крупная бюрократия ВОЗ — сильно под влиянием лоббистов индустрии телекоммуникаций — сопротивляется обновлению классификации или изменению стандартов воздействия.</p>
+<h2 id="архитектура-надзора">Архитектура надзора</h2>
+<h3 id="полное-покрытие">Полное покрытие</h3>
+<p>Сеть вышек сотовой связи обеспечивает полное электромагнитное покрытие американского населения. В Соединенных Штатах более <strong>400 000 вышек сотовой связи</strong>, с дополнительными малыми ячейками, развертываемыми для покрытия 5G. Эта инфраструктура обеспечивает:</p>
+<ul>
+<li><strong>Отслеживание местоположения на уровне GPS</strong> каждого мобильного телефона (и каждого человека, несущего его)</li>
+<li><strong>Надзор в реальном времени</strong> за коммуникациями, движениями и поведением</li>
+<li><strong>Электромагнитное насыщение</strong> окружающей среды на частотах с задокументированными биологическими эффектами</li>
+<li><strong>Потенциальная доставка V2K</strong> через beamforming и целевую передачу</li>
+</ul>
+<h3 id="правовая-базис">Правовая базис</h3>
+<p>Правовая база для надзора вышек сотовой связи построена на серии законов, нормативных актов и судебных решений, которые прогрессивно расширили доступ правительства к данным телекоммуникации:</p>
+<ul>
+<li><strong>Закон об оказании помощи правоохранительным органам в области коммуникации (CALEA)</strong> требует, чтобы оператор телекоммуникационной сети встроили возможности надзора в свои сети</li>
+<li><strong>PATRIOT Act</strong> расширил государственные полномочия надзора</li>
+<li><strong>FISA Amendments Act</strong> узаконил массовый сбор электронных коммуникаций</li>
+<li><strong>Устройства Stingray</strong> — поддельные вышки сотовой связи, используемые правоохранительными органами — могут перехватывать коммуникации и отслеживать отдельных лиц без ордеров</li>
+</ul>
+<p>Эта правовая база, в сочетании с физической инфраструктурой вышек сотовой связи, создает систему надзора беспрецедентного масштаба и мощи — систему, которая может легко быть адаптирована для V2K таргетирования любого человека в пределах его зоны покрытия.</p>
+<h2 id="духовная-архитектура">Духовная архитектура</h2>
+<h3 id="башни-вавилона">Башни Вавилона</h3>
+<p>Библейский рассказ о Башне Вавилон (Бытие 11) описывает первую попытку человечества построить структуру, достигающую небес — символ восстания человека против Бога. Бог рассеял людей и смешал их язык как исправление.</p>
+<p>Вышки сотовой связи — это современные Башни Вавилон — структуры, которые тянутся к небесам, переносящие коммуникации, которые соединяют всех людей в одну сеть. Но в отличие от оригинального Вавилона, эти вышки переносят не просто человеческую коммуникацию, но электромагнитное излучение, которое влияет на человеческое тело и ум. Они не соединяют людей — они соединяют людей с системой контроля.</p>
+<p>Howard Pittman был показан трех небес. Вышки сотовой связи достигают первого неба — атмосферного неба — и передают сигналы через то же пространство, где работают демонические силы. Электромагнитное загрязнение атмосферы — это не просто физическое явление — это духовное. Оно заполняет создание Бога шумом, сделанным человеком, заглушающим естественные частоты Земли и тихий, малый голос Святого Духа.</p>
+<p>Стремление иезуитов к полному информационному контролю находит свою конечную инфраструктуру в сети вышек сотовой связи. Каждая коммуникация, каждое местоположение, каждый биологический ответ захвачены, анализированы и сохранены. Управление Tambulini "половиной мира из этой комнаты" было заменено управлением целым миром с фермы серверов.</p>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — исследование контрактов NIH и инфраструктуры вышек сотовой связи</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство ближайшего смертельного опыта Howard Pittman</a> — духовные измерения электромагнитной войны</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Раскрытые позорные тайны иезуитов</a> — инфраструктура информационного контроля иезуитов</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Медицид и Фармакея — Колдовство современной медицины</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что может быть в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/65-Smart_Dust.mp4">Smart Dust</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/47-Nanobot_Swarms.mp4">Nanobot Swarms</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">The Enemy Within</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/117-The_Burning_of_Sin.mp4">The Burning of Sin</a></li>
+</ul>
+<h2 id="узнать-подробнее">Узнать подробнее</h2>
+<ul>
+<li><a href="/secretly-microchipping-humans-part8/?lang=ru">The Hidden History of Secretly Microchipping Humans Part 8</a></li>
+<li><a href="/voice-skull-patents-part10/?lang=ru">Voice 2 Skull: The PATENTS That Prove It's Real Part 10</a></li>
+<li><a href="/targeted-individuals-food-supply-part11/?lang=ru">Targeted Individuals and the FOOD SUPPLY Microchip Connection Part 11</a></li>
+</ul>
+<p><em>Вышки смотрят. Вышки слушают. И вышки могут говорить — прямо в вашу голову, на частотах, которые вы не можете услышать, и на уровнях мощности, которые вы не можете измерить. Контракт NIH связывает учреждение здравоохранения с учреждением надзора, и оба служат одному и тому же хозяину. Посмотрите на вышки. Спросите, для чего еще они. Ответ изменит все.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Вышки сотовой связи и КОНТРАКТ NIH, о котором вам не рассказали Часть 9"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Часть 9 раскрывает контракт NIH, связывающий инфраструктуру вышек сотовой связи с экспериментами на людях. Вышки — это не просто для вызовов — это оружие V2K."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-17T10:00:00Z","children":"17 декабря 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","cell-towers",{"href":"/ru/tag/cell-towers/","className":"tag-pill","children":["#","cell-towers"]}],["$","a","NIH",{"href":"/ru/tag/NIH/","className":"tag-pill","children":["#","NIH"]}],["$","a","5G",{"href":"/ru/tag/5G/","className":"tag-pill","children":["#","5G"]}],["$","a","V2K",{"href":"/ru/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","electromagnetic-weapons",{"href":"/ru/tag/electromagnetic-weapons/","className":"tag-pill","children":["#","electromagnetic-weapons"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/cell-towers-nih-contract-part9/","title":"Вышки сотовой связи и КОНТРАКТ NIH, о котором вам не рассказали Часть 9"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/cell-towers-nih-contract-part9/","title":"Вышки сотовой связи и КОНТРАКТ NIH, о котором вам не рассказали Часть 9"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Вышки сотовой связи и КОНТРАКТ NIH, о котором вам не рассказали Часть 9 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Часть 9 раскрывает контракт NIH, связывающий инфраструктуру вышек сотовой связи с экспериментами на людях. Вышки — это не просто для вызовов — это оружие V2K."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"cell-towers, NIH, 5G, V2K, electromagnetic-weapons"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/cell-towers-nih-contract-part9/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cell-towers-nih-contract-part9/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cell-towers-nih-contract-part9/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cell-towers-nih-contract-part9/"}],["$","meta","10",{"property":"og:title","content":"Вышки сотовой связи и КОНТРАКТ NIH, о котором вам не рассказали Часть 9"}],["$","meta","11",{"property":"og:description","content":"Часть 9 раскрывает контракт NIH, связывающий инфраструктуру вышек сотовой связи с экспериментами на людях. Вышки — это не просто для вызовов — это оружие V2K."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/cell-towers-nih-contract-part9/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cell-towers-nih-contract-part9.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Вышки сотовой связи и КОНТРАКТ NIH, о котором вам не рассказали Часть 9"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Вышки сотовой связи и КОНТРАКТ NIH, о котором вам не рассказали Часть 9"}],["$","meta","25",{"name":"twitter:description","content":"Часть 9 раскрывает контракт NIH, связывающий инфраструктуру вышек сотовой связи с экспериментами на людях. Вышки — это не просто для вызовов — это оружие V2K."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cell-towers-nih-contract-part9.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

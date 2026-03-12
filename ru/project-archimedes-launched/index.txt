@@ -1,0 +1,175 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","project-archimedes-launched",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","project-archimedes-launched","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","project-archimedes-launched","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5eaf,<h1 id="проект-архимед-запущен-следующий-этап-контроля">Проект Архимед запущен: следующий этап контроля</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Дайте мне точку опоры, и я сдвину мир." -- Приписывается Архимеду</p>
+</blockquote>
+<p>Исторический Архимед понимал рычаг - принцип, что небольшая сила, надлежащим образом приложенная через правильный механизм, может двигать объекты, намного большие, чем сама себя. Архитекторы Проекта Архимед понимают тот же принцип, применённый к человеческим популяциям: небольшое число контролёров, работающих через правильный технологический механизм, может двигать и контролировать весь мир.</p>
+<p>Проект Архимед представляет консолидацию каждой технологии контроля, задокументированной в нашем исследовании - нанотехнологии, электромагнитных сеток, управления искусственным интеллектом, цифровой идентичности и биологического мониторинга - в единую унифицированную платформу. Это уровень интеграции. Операционная система. Рычаг, который двигает мир.</p>
+<p>Как <a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">Нарушение</a> из альбома Confliction предупреждает, желание полного контроля является определяющим нарушением противника. И как <a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">Падшие ангелы</a> объявляет, восстание на небесах было в фундаментальности о том, кто будет контролировать создание - и это восстание продолжается через каждую систему, которая стремится заменить управление Бога технологическим управлением.</p>
+<hr>
+<h2 id="что-такое-проект-архимед">Что такое Проект Архимед?</h2>
+<h3 id="уровень-интеграции">Уровень интеграции</h3>
+<p>Проект Архимед - это не одна технология или одна программа. Это интеграционный каркас, который соединяет ранее раздельные системы контроля в единую операционную платформу:</p>
+<p><strong>Входной слой: полный надзор</strong></p>
+<ul>
+<li>Биологические данные из инъектируемых нанотехнологий (интернет тел)</li>
+<li>Коммуникационные данные из телекоммуникационного надзора (АНБ, GCHQ, Five Eyes)</li>
+<li>Финансовые данные из цифровых систем платежей (CBDCs, цифровые кошельки)</li>
+<li>Данные о местоположении из смартфонов, устройств IoT и спутникового отслеживания</li>
+<li>Поведенческие данные из социальных сетей, поисковых систем и активности в интернете</li>
+<li>Экологические данные из датчиков умных городов, спутников и мониторинга атмосферы</li>
+</ul>
+<p><strong>Уровень обработки: управление искусственным интеллектом</strong></p>
+<ul>
+<li>Системы искусственного интеллекта, которые обрабатывают объединённые потоки данных в реальном времени</li>
+<li>Предиктивные алгоритмы, которые моделируют поведение индивидов и популяций</li>
+<li>Двигатели принятия решений, которые генерируют действия управления на основе предсказанных результатов</li>
+<li>Системы машинного обучения, которые непрерывно улучшают точность предсказания</li>
+<li>Квантовые вычислительные платформы, которые позволяют обработку в масштабах, невозможных для классических компьютеров</li>
+</ul>
+<p><strong>Выходной слой: механизмы контроля</strong></p>
+<ul>
+<li>Электромагнитные сигналы, передаваемые нанотехнологии внутри организма (биологический контроль)</li>
+<li>Модуляция контента на цифровых платформах (информационный контроль)</li>
+<li>Авторизация или отказ в транзакциях (экономический контроль)</li>
+<li>Регулировка инфраструктуры умных городов (экологический контроль)</li>
+<li>Активация направленного энергетического оружия (физический контроль)</li>
+<li>Действия правового и нормативного обеспечения (институциональный контроль)</li>
+</ul>
+<p>Проект Архимед соединяет эти слои в замкнутую систему: надзор генерирует данные, искусственный интеллект обрабатывает данные и генерирует сигналы контроля, механизмы контроля выполняют сигналы, и эффекты контролируются посредством надзора - создавая непрерывный цикл обратной связи полного контроля.</p>
+<h3 id="принцип-архимеда-применён">Принцип Архимеда применён</h3>
+<p>Название проекта не случайно. Принцип рычага Архимеда демонстрирует, что небольшая сила, надлежащим образом приложенная, может сдвинуть большую массу. "Рычаг" Проекта Архимед - это искусственный интеллект. "Точка опоры" - это глобальная технологическая инфраструктура. И "масса", движимая, - это вся человеческая популяция.</p>
+<p>Небольшое число операторов - потенциально так мало как несколько сотен индивидов на вершине системы - может, через управление искусственным интеллектом глобальной инфраструктурой, управлять миллиардами людей с точностью и зернистостью, которые ни одна человеческая бюрократия никогда не могла достичь. Это технократическая мечта, описанная в документе ЦРУ 1978 года, теперь реализованная через технологии, которые не существовали, когда мечта была впервые задокументирована.</p>
+<p>Ана Михалча, М.Д., Ph.D., задокументировала на её Substack (anamihalceamdphd.substack.com), как нанотехнология в человеческой крови обеспечивает входной слой биологии для ровно этого типа интегрированной системы контроля. Самособирающиеся биосенсоры, задокументированные в крови, - не автономные устройства - они являются конечными точками в сети, которая, когда соединена с системами управления искусственным интеллектом через электромагнитную сетку, позволяет тип полного биологического мониторинга и контроля, который представляет Проект Архимед.</p>
+<h2 id="реализация">Реализация</h2>
+<h3 id="поэтапное-развёртывание">Поэтапное развёртывание</h3>
+<p>Проект Архимед развёртывается не сразу. Он реализуется в фазах, каждая строится на инфраструктуре, установленной предыдущей фазой:</p>
+<p><strong>Фаза 1: инфраструктура (2000-2020)</strong></p>
+<ul>
+<li>Развёртывание инфраструктуры цифровых коммуникаций (интернет, смартфоны, социальные сети)</li>
+<li>Конструирование систем надзора (массовый надзор АНБ, сети видеокамер)</li>
+<li>Установление цифровых финансовых систем (электронное банковское дело, цифровые платежи)</li>
+<li>Развитие способностей искусственного интеллекта и машинного обучения</li>
+</ul>
+<p><strong>Фаза 2: биологическая интеграция (2020-2025)</strong></p>
+<ul>
+<li>Массовое развёртывание инъектируемых нанотехнологий через мРНК вакцины</li>
+<li>Загрязнение окружающей среды через геоинженерию, воду и продовольственное снабжение</li>
+<li>Развёртывание 5G как биологической коммуникационной спины</li>
+<li>Реализация цифровых систем идентичности и паспортов здоровья</li>
+</ul>
+<p><strong>Фаза 3: управление искусственным интеллектом (2025-2030)</strong></p>
+<ul>
+<li>Активирование систем управления искусственным интеллектом, которые обрабатывают объединённые потоки данных</li>
+<li>Интеграция биологических данных с поведенческими, финансовыми и данными о местоположении</li>
+<li>Реализация предиктивных алгоритмов контроля</li>
+<li>Переход от человеческого управления к управлению, опосредованному искусственным интеллектом</li>
+</ul>
+<p><strong>Фаза 4: полная операционная готовность (2030+)</strong></p>
+<ul>
+<li>Управление в реальном времени искусственным интеллектом всей человеческой популяции</li>
+<li>Автоматизированное обеспечение посредством электромагнитного и биологического контроля</li>
+<li>Исключение наличных денег, приватности и анонимности</li>
+<li>Полная интеграция каждого индивида в контролируемую систему</li>
+</ul>
+<h3 id="связь-повестки-дня-2030">Связь повестки дня 2030</h3>
+<p>Временная шкала Проекта Архимед выровнена с Целями устойчивого развития Организации Объединённых Наций (SDGs) и Повесткой дня 2030. 17 SDGs, хотя и представленные как гуманитарные цели, создают институциональный каркас для:</p>
+<ul>
+<li>Глобальной цифровой идентичности (SDG 16.9)</li>
+<li>Универсального финансового включения посредством цифровых систем (SDG 8)</li>
+<li>Комплексного мониторинга здоровья (SDG 3)</li>
+<li>Реализации умного города (SDG 11)</li>
+<li>Глобального обмена данными и управления (SDG 17)</li>
+</ul>
+<p>Повестка дня 2030 - это открытое лицо каркаса управления, который Проект Архимед опосредует посредством технологии. SDGs обеспечивают оправдание политики. Проект Архимед обеспечивает технологическую реализацию. Вместе они составляют систему зверя, описанную в Откровении 13.</p>
+<h2 id="пророческая-архитектура">Пророческая архитектура</h2>
+<h3 id="система-зверя-функциональна">Система зверя функциональна</h3>
+<p>Откровение 13 описывает систему со специфическими способностями:</p>
+<ul>
+<li><strong>Универсальная идентификация</strong> (все получают отметку) = входной слой биологического мониторинга Проекта Архимед</li>
+<li><strong>Экономический контроль</strong> (никто не может ни купить, ни продать без отметки) = уровень финансового контроля Проекта Архимед</li>
+<li><strong>Обеспечение</strong> (те, кто отказывается, убиваются) = уровень физического контроля Проекта Архимед</li>
+<li><strong>Требование поклонения</strong> (все поклоняются зверю) = уровень поведенческого контроля Проекта Архимед</li>
+</ul>
+<p>Проект Архимед - это операционная реализация системы зверя. Это не пророчество, исполняемое метафорически. Это пророчество, исполняемое технологически - через системы, которые задокументированы, финансируются, развёртываются и теперь интегрируются в унифицированную платформу.</p>
+<p>Рычаг, который двигает мир, размещается. Точка опоры находится в позиции. И сила - искусственный интеллект, работающий через глобальную инфраструктуру - прилагается. Мир движется. Но Бог, который создал мир, не движется рычагами. Он не используется в рычаг технологией. Он не управляется алгоритмами. И Его царство - которое не может быть потрясено - переживёт каждую систему, которую Архимед, DARPA, ЦРУ или любая власть когда-либо задумала.</p>
+<hr>
+<h3 id="предупреждение-1-самуила-8">Предупреждение 1 Самуила 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушай голоса народа во всём, что они говорят тебе; потому что не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Самуила 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Самуила 8 отзывается через каждый коридор правительства сегодня. Когда Израиль требовал царя, как у других наций, Бог предупреждал их, ровно что бы произойдёт - их сыновей возьмут на войну, их дочерей на службу, их поля и виноградники отняты, десятина всего конфискована. Они выбрали человеческое правление над правлением Бога, и тирания следовала ровно, как обещано. Ничто не изменилось. Современная политическая система - две крыла одной птицы - левое и правое, республиканское и демократическое - все служат той же скрытой структуре власти. Голосование за каждую сторону - это выбор, какое крыло будет бить дальше, в то время как птица летит в одном направлении. Реальная власть никогда не была на каком-либо бюллетене.</p>
+<h2 id="справочные-источники">Справочные источники</h2>
+<ul>
+<li>
+<p>Различная документация программ интеллекта и защиты по управлению искусственным интеллектом</p>
+</li>
+<li>
+<p>ООН, Повестка дня 2030 и Цели устойчивого развития</p>
+</li>
+<li>
+<p>Мировой экономический форум, документация четвёртой промышленной революции</p>
+</li>
+<li>
+<p>Ана Михалча, М.Д., Ph.D., anamihalceamdphd.substack.com, анализ интеграции систем</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Самуила 8 — предупреждение против земных царей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство о близком опыте смерти Говарда Питтмана — предупреждение о конце времён</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католический конфиденциально: раскрытие позорных тайн иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">Правда о жизни на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Великая гора служения на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/211-Total_Information_Awareness.mp4">Полная осведомлённость информации</a> -- входной слой надзора</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/157-Palantir_Panopticon.mp4">Паноптикон Palantir</a> -- уровень обработки искусственного интеллекта</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/171-Great_Reset_Rising.mp4">Great Reset Rising</a> -- каркас управления</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/109-Biometric_Beast_System.mp4">Система зверя биометрическая</a> -- уровень биологического контроля</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">Нарушение</a> -- желание полного контроля</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">Падшие ангелы</a> -- восстание за системой контроля</li>
+</ul>
+<h2 id="изучите-дальше">Изучите дальше</h2>
+<ul>
+<li><a href="/declassified-cia-technocratic-1978/?lang=ru">Рассекреченный технократический документ ЦРУ из 1978</a> -- оригинальный план технократического контроля</li>
+<li><a href="/space-fence-mind-control/?lang=ru">Космический забор и сетка контроля разума</a> -- электромагнитный компонент системы</li>
+<li><a href="/us-transhumanist-party/?lang=ru">Партия трансгуманистов США и политический постхуманизм</a> -- политическое измерение полного контроля</li>
+</ul>
+<hr>
+<p><em>Рычаг находится в месте. Точка опоры установлена. Сила применяется. Проект Архимед - интеграция каждой системы надзора, каждого механизма контроля и каждого биологического интерфейса в единую платформу, управляемую искусственным интеллектом - это наиболее амбициозная попытка контролировать человеческую популяцию, когда-либо задуманная. Но Архимед забыл что-то. Рычаг работает, только если точка опоры удерживается. И точка опоры каждой человеческой системы покоится на земле, которая принадлежит Богу. Когда Он двигается - когда земля трясётся в Его присутствии, когда горы плавятся, как воск, когда каждое колено сгибается и каждый язык исповедует - ни один рычаг не будет удерживать, ни одна точка опоры не будет стоять, и ни один проект, названный в честь смертного человека, не переживёт суд бессмертного Бога.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Проект Архимед запущен: следующий этап контроля"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Проект Архимед представляет следующий этап глобального контроля, интегрируя управление искусственным интеллектом, предиктивные алгоритмы и биологический мониторинг в единую систему."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-01T10:00:00Z","children":"1 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","project-archimedes",{"href":"/ru/tag/project-archimedes/","className":"tag-pill","children":["#","project-archimedes"]}],["$","a","ai-governance",{"href":"/ru/tag/ai-governance/","className":"tag-pill","children":["#","ai-governance"]}],["$","a","control",{"href":"/ru/tag/control/","className":"tag-pill","children":["#","control"]}],["$","a","predictive-algorithms",{"href":"/ru/tag/predictive-algorithms/","className":"tag-pill","children":["#","predictive-algorithms"]}],["$","a","surveillance",{"href":"/ru/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/project-archimedes-launched/","title":"Проект Архимед запущен: следующий этап контроля"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/project-archimedes-launched/","title":"Проект Архимед запущен: следующий этап контроля"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Проект Архимед запущен: следующий этап контроля | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Проект Архимед представляет следующий этап глобального контроля, интегрируя управление искусственным интеллектом, предиктивные алгоритмы и биологический мониторинг в единую систему."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"project-archimedes, ai-governance, control, predictive-algorithms, surveillance"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/project-archimedes-launched/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/project-archimedes-launched/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/project-archimedes-launched/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/project-archimedes-launched/"}],["$","meta","10",{"property":"og:title","content":"Проект Архимед запущен: следующий этап контроля"}],["$","meta","11",{"property":"og:description","content":"Проект Архимед представляет следующий этап глобального контроля, интегрируя управление искусственным интеллектом, предиктивные алгоритмы и биологический мониторинг в единую систему."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/project-archimedes-launched/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/project-archimedes-launched.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Проект Архимед запущен: следующий этап контроля"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Проект Архимед запущен: следующий этап контроля"}],["$","meta","25",{"name":"twitter:description","content":"Проект Архимед представляет следующий этап глобального контроля, интегрируя управление искусственным интеллектом, предиктивные алгоритмы и биологический мониторинг в единую систему."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/project-archimedes-launched.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,103 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","satanic-science-smallpox-vaccine",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","satanic-science-smallpox-vaccine","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","satanic-science-smallpox-vaccine","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T3c59,<h1 id="сатанинская-наука-ужасающая-правда-о-вакцине-против-оспы">Сатанинская наука: Ужасающая правда о вакцине против оспы</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p><em>"И низвергнут большой дракон, древний змей, называемый диаволом и сатаною, обольщающий весь мир."</em> — Откровение 12:9</p>
+</blockquote>
+<p>История вакцины против оспы — это основополагающий миф современной медицины. Это история, которая подтверждает каждую вакцину, которая последовала, каждое фармацевтическое вмешательство, каждый мандат общественного здравоохранения. История заходит вот так: Эдвард Дженнер обнаружил, что дойные мастера, которые заразились коровьей оспой, были невосприимчивы к оспе, он тестировал его теорию, прививая мальчика материалом коровьей оспы, мальчик стал невосприимчив, и вакцинация была рождена — спасая миллионы жизней и в конечном итоге уничтожая оспу с лица земли.</p>
+<p>Это красивая история. Это также полна лжи, упущений и искажений настолько глубоких, что истинная история читается как ужасный роман, написанный садистом. Истинная история вакцины против оспы связана с инъекцией детей животным гноем, широко распространённой смерти и болезни, вызванной самой вакциной, намеренным подавлением доказательств, показывающих, что вакцина была неэффективна и опасна, и прикрытием, разработанным медицинскими и политическими учреждениями с глубокими связями с иезуитским орденом и тайными обществами.</p>
+<p>Говард Питтман был показано три небеса и сказано, что 97,5% христиан были отвергнуты. История вакцины против оспы — это один из лжей, который держит их отвергнутыми — ложный чудо, который заменяет веру в Бога верой в медицину, и доверие божественному исцелению зависимостью от фармацевтических продуктов. Ефесянам 6:12 описывает войну "против начальств, против властей" — и нарратив оспы — это начальство медицинского царства, неоспоримая догма, которая требует веру и наказывает ересь.</p>
+<p>Иезуиты' "абсолютная власть" (Наполеон), их "вечное проклятие" (Адамс), их управление "половиной мира" (Тамбурини) — всё находит выражение в мандате вакцины. Фильм "Католические тайны" показывает их инфильтрацию "скрытой хитростью" и их готовность практиковать "любой вид порока". Инъекция детей с заражённым животным материалом, в то время как утверждая защитить их, — это порок наивысшего порядка.</p>
+<hr>
+<h2 id="истинный-эдвард-дженнер">Истинный Эдвард Дженнер</h2>
+<h3 id="не-врач-не-учёный">Не врач, не учёный</h3>
+<p>Эдвард Дженнер не был обученным врачом в современном смысле. Он получил свою медицинскую степень от Университета Святого Эндрюса в Шотландии — степень, купленная за 15 гиней, без экзамена, без посещения лекций и без клинического опыта. Это было, по стандартам его собственного времени, купленное полномочие.</p>
+<p>Дженнер был натуралистом и деревенским хирургом. Его интерес к коровьей оспе и оспе был основан на местном фольклоре — народной вере, что дойные мастера, которые заразились коровьей оспой, были невосприимчивы к оспе. Он не провёл строгое научное расследование. Он собрал анекдоты, провёл горстку сырых экспериментов и опубликовал свои находки в самостоятельно опубликованном памфлете после того как Королевское общество отклонило его газету.</p>
+<h3 id="эксперимент-на-джеймсе-фиппсе">Эксперимент на Джеймсе Фиппсе</h3>
+<p>14 мая 1796 года Дженнер взял материал из поражения коровьей оспы на руке дойной мастера по имени Сара Нелмс и царапал его в руку восьмилетнего мальчика по имени Джеймс Фиппс — сына садовода Дженнера. Позже он прививал Фиппса материалом оспы, чтобы тестировать, был ли мальчик невосприимчив.</p>
+<p>Этот эксперимент был проведён:</p>
+<ul>
+<li>На <strong>ребёнке</strong>, который не мог дать информированное согласие</li>
+<li>Мужчиной с <strong>купленной медицинской степенью</strong></li>
+<li>Используя <strong>заражённый животный материал</strong>, соскребанный из человеческого поражения</li>
+<li>Без какого-либо понимания <strong>теории микробов</strong>, вирусологии или иммунологии</li>
+<li>Без <strong>этического надзора</strong>, без экспертной оценки и без протоколов безопасности</li>
+</ul>
+<p>По современным стандартам медицинской этики, этот эксперимент считался бы уголовным. По стандартам своего собственного времени, это было рассмотрено как безрассудное многими современниками Дженнера. Но нарратив, который он произвёл — героический доктор, спасающий человечество от чумы — был слишком полезен, чтобы быть поставленным под сомнение.</p>
+<h3 id="что-дженнер-не-рассказал-вам">Что Дженнер не рассказал вам</h3>
+<p>Случаи вакцинации Дженнера были избирательны и вводящий в заблуждение:</p>
+<ul>
+<li>Несколько его оригинальных субъектов вакцинации <strong>заразились оспой</strong> несмотря на вакцинацию</li>
+<li>Его собственный сын, Эдвард Дженнер-младший, был вакцинирован и пострадал от <strong>хронических проблем со здоровьем</strong> на всей его короткой жизни (он умер в возрасте 21)</li>
+<li>Дженнер признал, что вакцинация коровьей оспы <strong>не обеспечивала постоянный иммунитет</strong> — разрушительное признание, которое подорвало его всю теорию</li>
+<li>Случаи "коровьей оспы", используемые для вакцинации, могли фактически быть <strong>лошадиным жиром</strong> (конской оспой) — совсем другое заболевание, вызывающее вопросы о том, что было фактически инъецировано в пациентов</li>
+</ul>
+<h2 id="ужасы-вакцинации-19-века">Ужасы вакцинации 19 века</h2>
+<h3 id="вакцинация-от-руки-к-руке">Вакцинация от руки к руке</h3>
+<p>В десятилетиях после работы Дженнера, вакцинация была распространена через технику "от руки к руке": материал из поражения вакцинированного человека был соскребан и привит в следующего человека рук. Это создало цепь передачи, которая распространяла не только материал вакцины, но любое кровяное заболевание, присутствующее в цепи.</p>
+<p>Результатом была широко распространённая передача:</p>
+<ul>
+<li><strong>Сифилиса</strong>: Документированные случаи передачи сифилиса через вакцинацию были сообщены на протяжении 19 века</li>
+<li><strong>Туберкулёза</strong>: Материал вакцины, загрязнённый туберкулёзными бактериями, вызвал вспышки</li>
+<li><strong>Рожи</strong>: Бактериальная кожная инфекция, распространяющаяся через загрязненный материал вакцины</li>
+<li><strong>Сепсиса</strong>: Кровяное отравление от нестерильных процедур вакцинации убило бесчисленное количество</li>
+</ul>
+<p>Целые семьи заразились сифилисом через вакцинацию. Дети развили мокнущие, некротические поражения на местах вакцинации. Смерть от передаваемых вакциной инфекций была достаточно распространена, что медицинская литература периода полна случаевых докладов.</p>
+<h2 id="что-вы-можете-сделать">Что вы можете сделать</h2>
+<ol>
+<li>
+<p><strong>Понимайте историю.</strong> Нарратив, что вакцинация избавила мир от оспы, — это самое мощное оружие в прикрытии современной вакцины. Но истинная история — это одна об экспериментах на людях, плохой науке и подавлении доказательств.</p>
+</li>
+<li>
+<p><strong>Требуйте полное раскрытие.</strong> Требуйте информированного согласия. Требуйте доступа к полным данным безопасности. Требуйте выплат за травмы вакцины.</p>
+</li>
+<li>
+<p><strong>Защитите своих детей.</strong> Сохраняйте настороженность против мандатов. Знайте риски. Делайте осознанные выборы.</p>
+</li>
+</ol>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — подробная история вакцинации против оспы и её отказов</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство опыта клинической смерти Говарда Питтмана</a> — духовные измерения медицинского обмана</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католические тайны: Выявленные позорные секреты иезуитов</a> — Иезуитское участие в глобальных программах вакцинации</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Медицид и Фармакея — Колдовство современной медицины</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что может быть в подвалах Ватикана!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<h2 id="слушайте-пока-читаете">Слушайте, пока читаете</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/179-Engineering_Contagion.mp4">Engineering Contagion</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpents Curse</a></li>
+</ul>
+<hr>
+<p><em>Вакцина против оспы не была медициной — она была кровяным ритуалом, наложенным по силе на миллионы неохотных субъектов. Она передала болезнь, вызвала смерть и установила прецедент, что государство владеет вашим телом. Основанный миф современной медицины — ложь. И всё построенное на этой лжи построено на песке.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Сатанинская наука: Ужасающая правда о вакцине против оспы"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"История вакцины против оспы — основополагающий миф медицины. Подлинная история связана с животным гноем, экспериментами на детях и иезуитским обманом."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-11-23T10:00:00Z","children":"23 ноября 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","smallpox",{"href":"/ru/tag/smallpox/","className":"tag-pill","children":["#","smallpox"]}],["$","a","vaccines",{"href":"/ru/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","edward-jenner",{"href":"/ru/tag/edward-jenner/","className":"tag-pill","children":["#","edward-jenner"]}],["$","a","medical-history",{"href":"/ru/tag/medical-history/","className":"tag-pill","children":["#","medical-history"]}],["$","a","satanic-science",{"href":"/ru/tag/satanic-science/","className":"tag-pill","children":["#","satanic-science"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/satanic-science-smallpox-vaccine/","title":"Сатанинская наука: Ужасающая правда о вакцине против оспы"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/satanic-science-smallpox-vaccine/","title":"Сатанинская наука: Ужасающая правда о вакцине против оспы"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Сатанинская наука: Ужасающая правда о вакцине против оспы | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"История вакцины против оспы — основополагающий миф медицины. Подлинная история связана с животным гноем, экспериментами на детях и иезуитским обманом."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"smallpox, vaccines, edward-jenner, medical-history, satanic-science"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/satanic-science-smallpox-vaccine/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/satanic-science-smallpox-vaccine/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/satanic-science-smallpox-vaccine/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/satanic-science-smallpox-vaccine/"}],["$","meta","10",{"property":"og:title","content":"Сатанинская наука: Ужасающая правда о вакцине против оспы"}],["$","meta","11",{"property":"og:description","content":"История вакцины против оспы — основополагающий миф медицины. Подлинная история связана с животным гноем, экспериментами на детях и иезуитским обманом."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/satanic-science-smallpox-vaccine/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/satanic-science-smallpox-vaccine.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Сатанинская наука: Ужасающая правда о вакцине против оспы"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Сатанинская наука: Ужасающая правда о вакцине против оспы"}],["$","meta","25",{"name":"twitter:description","content":"История вакцины против оспы — основополагающий миф медицины. Подлинная история связана с животным гноем, экспериментами на детях и иезуитским обманом."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/satanic-science-smallpox-vaccine.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

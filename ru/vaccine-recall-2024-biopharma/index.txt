@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","vaccine-recall-2024-biopharma",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","vaccine-recall-2024-biopharma","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","vaccine-recall-2024-biopharma","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5a94,<h1 id="отзыв-вакцины-2024-года-выпущенный-гигантом-biopharma">Отзыв вакцины 2024 года, выпущенный гигантом BioPharma</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"А если стражник увидит идущий меч и не затрубит в трубу, и народ не остережется, и придет меч и возьмет кого-нибудь из них, то кровь его я взыщу из рук стража." — Иезекииль 33:6</p>
+</blockquote>
+<p>Когда стены Иерихона упали, разрушение было полным, потому что коррупция в этих стенах достигла своего полноты. Бог не отремонтировал стены Иерихона -- Он их уничтожил. Город, который был укреплен против Израиля, был судим не за силу своих защит, но за нечестие, которое они скрывали.</p>
+<p>Как объявляет трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">The Overcoming</a>, преодоление коррупции систем требует, чтобы их продукты -- физические проявления их операций -- были отозваны, удалены и уничтожены. Отзыв вакцины -- фармацевтический эквивалент падения стен Иерихона -- признание того, что крепость "безопасного и эффективного" была пробита изнутри.</p>
+<p>Крупная биофармацевтическая компания выпустила отзыв вакцины. Стена была пробита.</p>
+<hr>
+<h2 id="отзыв">Отзыв</h2>
+<p>Ведущая биофармацевтическая компания инициировала отзыв партий вакцины, распределенных на несколько рынков. Отзыв был вызван сбоями контроля качества, обнаруженными во время тестирования после распределения, включая:</p>
+<p><strong>Проблемы загрязнения:</strong> Тестирование выявило наличие посторонних частиц или загрязняющих веществ в флаконах вакцины из определенных производственных партий.</p>
+<p><strong>Вариации мощности:</strong> Анализ выявил значительные вариации от партии к партии в концентрации активного ингредиента, означая, что некоторые пациенты получили дозы значительно выше или ниже предполагаемого упомянутого.</p>
+<p><strong>Сбои стабильности:</strong> Некоторые партии не прошли тестирование стабильности до истечения сроков годности, предполагая, что вакцины могли деградировать во время хранения или транспортировки, потенциально производя продукты распада с неизвестными эффектами.</p>
+<p><strong>Отклонения процесса производства:</strong> Обзор документации выявил, что процессы производства на одном или более производственных объектах отклонились от утвержденных спецификаций -- означая, что произведенные продукты отличались от продуктов, описанных в нормативном представлении.</p>
+<p>Карен Кингстон задокументировала в The Kingston Report (karenkingston.substack.com), что проблемы качества производства не являются аномалиями в фармацевтической промышленности -- они являются структурными: "Фармацевтическая промышленность работала под нормативной структурой, которая приоритизирует скорость над качеством, объем над безопасностью и прибыль над ответственностью. Отклонения производства являются общими, проверки редки, и действия по обеспечению соответствия редки. Отзыв не является исключением -- это видимый симптом системной проблемы, которая влияет на всю фармацевтическую цепь поставок."</p>
+<hr>
+<h2 id="проблема-производства">Проблема производства</h2>
+<p>Производство вакцин -- одно из наиболее сложных фармацевтических процессов. Биологические продукты являются по своей природе переменными -- в отличие от лекарств, состоящих из малых молекул, которые могут быть точно синтезированы, биологические продукты производятся живыми системами (клетками, бактериями или вирусами), чье поведение варьируется в зависимости от условий.</p>
+<p>Контроль качества при производстве вакцин зависит от:</p>
+<p><strong>Процессные контроли:</strong> Строгое соответствие утвержденным производственным процессам, которые были продемонстрированы для производства последовательных, безопасных продуктов.</p>
+<p><strong>Тестирование в процессе:</strong> Тестирование промежуточных продуктов в нескольких точках во время процесса производства для обеспечения соответствия спецификациям.</p>
+<p><strong>Тестирование конечного продукта:</strong> Всеобщее тестирование готового продукта, включая мощность, чистоту, стерильность, уровни эндотоксинов и стабильность.</p>
+<p><strong>Мониторинг окружающей среды:</strong> Постоянный мониторинг производственной среды для рисков загрязнения.</p>
+<p><strong>Документирование:</strong> Полная, точная документирование каждого этапа процесса производства, создающей отслеживаемую запись, которая позволяет любой проблеме качества быть отслеженной до его источника.</p>
+<p>Во время пандемии COVID-19 эти контроли качества были сжаты, сокращены и в некоторых случаях отменены в соответствии с механизмами разрешения использования и другого учета. Производственные объекты были построены или преобразованы с беспрецедентной скоростью. Сроки проверки качества были сжаты с месяцев до дней. Нормативные проверки были проведены виртуально, а не лично.</p>
+<p>Результатом было глобальное снабжение вакцинами, производимыми в условиях, которые не были бы приемлемы в соответствии с нормальными нормативными стандартами.</p>
+<hr>
+<h2 id="нормативный-сбой">Нормативный сбой</h2>
+<p>FDA отвечает за обеспечение качества, безопасности и эффективности фармацевтических продуктов, производимых и распределяемых в Соединенных Штатах. Эта ответственность включает проверку объектов производства перед одобрением, обзор и одобрение процессов производства, а также наблюдение за качеством продукта после выхода на рынок.</p>
+<p>Во время пандемии COVID-19 надзор производства FDA был скомпрометирован:</p>
+<p><strong>Сроки экстренного случая:</strong> Агентство одобрило производственные объекты и процессы по сжатым графикам, которые не позволили всесторонний обзор, обычно требуемый.</p>
+<p><strong>Дистанционные проверки:</strong> Ограничения в путешествии во время пандемии заставили FDA проводить проверки производства удаленно -- просмотр документов и видеозаписей, а не физически осматривать объекты.</p>
+<p><strong>Зависимость от саморегулярного отчетности производителя:</strong> FDA в значительной степени опиралась на предоставленные производителем данные и саморегулярную сертификацию соответствия производства, уменьшая независимую способность агентства проверить.</p>
+<p><strong>Политическое давление:</strong> Срочность производства и распределения вакцин как можно быстрее создала институциональное давление для одобрения производственных процессов, которые обычно требуют дополнительного обзора.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> задокументировать, как весь ответ пандемии был разработан для скорости -- не безопасности. Качество производства было подчинено скорости распределения, и нормативный надзор, который существует для предотвращения точно выявленных этим отзывом проблем, был намеренно ослаблен.</p>
+<hr>
+<h2 id="масштаб-воздействия">Масштаб воздействия</h2>
+<p>Отозванные партии представляют фракцию от общего количества доз вакцины, распределяемых. Однако последствия простираются за пределы конкретных отозванных лотов:</p>
+<p><strong>Неизвестное воздействие:</strong> Если сбои контроля качества производства произвели загрязненные или недостаточно мощные продукты, и если эти сбои не были обнаружены во время сжатого процесса проверки качества, дополнительные дефектные партии могли быть распределены и введены без выявления.</p>
+<p><strong>Оценка ретроспективного вреда:</strong> Лица, которые получили дозы из отозванных партий, могли быть подвергнуты загрязняющим веществам, продуктам распада или неправильным мощностям. Оценка вреда ретроспективно усложнена отсутствием отслеживания побочных эффектов, относящихся к конкретному лоту.</p>
+<p><strong>Системные проблемы качества:</strong> Если продукты производителя выставили сбои контроля качества, сжатые сроки и уменьшенный надзор, влияющие все производители. Отзыв повышает вопросы о качестве всех продуктов вакцины, производимых при пандемических условиях.</p>
+<p>Кингстон наблюдал: "Отзыв подтверждает то, что независимые аналитики предупредили с начала: продукты, производимые в условиях экстренного случая, со сжатыми сроками, снижение надзора и отменяемые стандарты качества, неизбежно будут включать дефектные партии. Единственный вопрос был, когда дефекты будут выявлены -- и сколько доз будут введены перед этим."</p>
+<hr>
+<h2 id="пророческое-предупреждение">Пророческое предупреждение</h2>
+<blockquote>
+<p>"И купцы земные будут плакать и рыдать о ней; ибо никто уже не покупает их товаров." — Откровение 18:11</p>
+</blockquote>
+<p>Падение Вавилона описано в коммерческих терминах -- купцы плачут, потому что их товар больше не может быть продан. Наибольший страх фармацевтической промышленности -- это не регулирование, не судебное разбирательство, не общественное мнение -- это потеря рынка. Отзыв представляет событие на рынке -- продукт, удаленный из полок, доверие эрозированное, доход потерян.</p>
+<p>Отзыв -- это трещина в фармацевтическом Вавилоне -- публичное признание того, что продукты, продаваемые миллиардам, не были тем, что они были представлены.</p>
+<hr>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всем, что он говорит тебе; ибо не тебя они отвергли, но Меня отвергли, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (КЖВ)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отражается через каждый коридор правительства сегодня. Когда Израиль потребовал царя, как и другие народы, Бог предупредил их точно, что произойдет -- их сыновья взяты на войну, их дочери на служение, их поля и виноградники отняты, десятая часть всего конфискована. Они выбрали человеческое правление вместо Божьего царства, и тирания последовала точно, как было обещано. Ничего не изменилось. Современная политическая система -- два крыла одной птицы -- левое и правое, республиканцы и демократы -- все служат одной скрытой структуре власти. Голосование за любую сторону -- это выбор того, какое крыло будет хлопать следующим, пока птица летит в одном направлении. Истинная власть никогда не была на бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>FDA -- Уведомления об отзыве и записи проверки производства</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) -- Анализ Карен Кингстон качества производства фармацевтики, дефицит надзора производства EUA и последствия отзыва</p>
+</li>
+<li>
+<p>Стандарты производства FDA -- Нормативные документы Текущие надлежащие методы производства (cGMP)</p>
+</li>
+<li>
+<p>Иезекииль 33:6, Откровение 18:11 (КЖВ)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 -- Предупреждение против земных царей (КЖВ)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство Ховарда Питтмана о предсмертном опыте -- Предупреждение об конце времени, которое дал ему Бог</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католические доверительные: раскрытые позорные секреты иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> — Скорость над безопасностью в ответе пандемии</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Нормативные системы, подчиненные целям развертывания</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — Компромиссы качества, защищенные институциональным соучастием</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">The Overcoming</a> — Крепость "безопасного и эффективного" пробита изнутри</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — Качество производства обещано, но не доставлено</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/fda-ended-emergency-use-authorizations/?lang=ru">FDA Just Ended Emergency Use Authorizations for COVID-19</a> — Рамка, которая сжала надзор производства</li>
+<li><a href="/biopharma-exec-sentenced-7-years/?lang=ru">US DOJ Sentences BioPharma Executive to 7 Years in Prison</a> — Уголовная ответственность за сбои производства фармацевтики</li>
+<li><a href="/cvs-bans-covid-shots/?lang=ru">CVS Immediately Bans COVID Shots at Some Pharmacies</a> — Каналы распределения реагирующие на проблемы продукта</li>
+<li><a href="/federal-government-pfizer-data-fraud/?lang=ru">Is It a Crime? Federal Government Assisted Pfizer in Data Fraud</a> — Более широкий контекст фармацевтического мошенничества</li>
+</ul>
+<hr>
+<p><em>Стены Иерихона упали, когда коррупция, которую они скрывали, достигла полноты. Отзыв -- это трещина в фармацевтической крепости -- признание того, что продукты, проданные как "безопасные и эффективные," были произведены в условиях, которые произвели загрязненные, недостаточные мощности или нестабильные продукты. "Будьте уверены, грех ваш найдет вас" (Числа 32:23). Производственные грехи пандемической эры находят свой путь на поверхность -- партия за партией, лот за лотом, отзыв за отзывом. Стражник звучит в трубу. Вопрос в том, услышит ли народ это перед введением следующей партии.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Отзыв вакцины 2024 года, выпущенный гигантом BioPharma"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Крупная биофармацевтическая компания выпускает отзыв вакцины, поднимая срочные вопросы о контроле качества производства и нормативных сбоях, которые позволили распределение."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-06-02T10:00:00Z","children":"2 июня 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","vaccine-recall",{"href":"/ru/tag/vaccine-recall/","className":"tag-pill","children":["#","vaccine-recall"]}],["$","a","biopharma",{"href":"/ru/tag/biopharma/","className":"tag-pill","children":["#","biopharma"]}],["$","a","quality-control",{"href":"/ru/tag/quality-control/","className":"tag-pill","children":["#","quality-control"]}],["$","a","FDA",{"href":"/ru/tag/FDA/","className":"tag-pill","children":["#","FDA"]}],["$","a","safety",{"href":"/ru/tag/safety/","className":"tag-pill","children":["#","safety"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/vaccine-recall-2024-biopharma/","title":"Отзыв вакцины 2024 года, выпущенный гигантом BioPharma"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/vaccine-recall-2024-biopharma/","title":"Отзыв вакцины 2024 года, выпущенный гигантом BioPharma"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Отзыв вакцины 2024 года, выпущенный гигантом BioPharma | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Крупная биофармацевтическая компания выпускает отзыв вакцины, поднимая срочные вопросы о контроле качества производства и нормативных сбоях, которые позволили распределение."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"vaccine-recall, biopharma, quality-control, FDA, safety"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/vaccine-recall-2024-biopharma/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/vaccine-recall-2024-biopharma/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/vaccine-recall-2024-biopharma/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/vaccine-recall-2024-biopharma/"}],["$","meta","10",{"property":"og:title","content":"Отзыв вакцины 2024 года, выпущенный гигантом BioPharma"}],["$","meta","11",{"property":"og:description","content":"Крупная биофармацевтическая компания выпускает отзыв вакцины, поднимая срочные вопросы о контроле качества производства и нормативных сбоях, которые позволили распределение."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/vaccine-recall-2024-biopharma/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/vaccine-recall-2024-biopharma.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Отзыв вакцины 2024 года, выпущенный гигантом BioPharma"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Отзыв вакцины 2024 года, выпущенный гигантом BioPharma"}],["$","meta","25",{"name":"twitter:description","content":"Крупная биофармацевтическая компания выпускает отзыв вакцины, поднимая срочные вопросы о контроле качества производства и нормативных сбоях, которые позволили распределение."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/vaccine-recall-2024-biopharma.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,154 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","europeans-augmentation-mandatory",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","europeans-augmentation-mandatory","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","europeans-augmentation-mandatory","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T6767,<h1 id="европейцы-остерегайтесь-человеческая-аугментация-становится-обязательной">Европейцы остерегайтесь: Человеческая аугментация становится обязательной</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"И он заставляет всех, малых и великих, богатых и нищих, свободных и рабов, принять начертание на правую руку их или на чело их" -- Откровение 13:16</p>
+</blockquote>
+<p>Слово "заставляет" в King James переводе поучительно. Зверь не просто предлагает метку. Он заставляет всех получить её. Механизм принуждения может варьироваться - экономическое давление, юридический мандат, социальное исключение, требования работодателей - но результат один: все получают её. Европейская нормативная система, теперь строящаяся, - это временный механизм, через который это универсальное принуждение реализуется.</p>
+<p>Европейские граждане, которые верят, что человеческая аугментация - добровольный, будущий выбор, неподготовлены к нормативной реальности, собирающейся вокруг них. Требования цифровой идентичности, мандаты данных здоровья, условия занятости и регулирование доступа к финансам сходятся, чтобы создать рамки, в которой аугментация - это не опционально - это цена участия в обществе.</p>
+<p>Как предупреждает <a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> из альбома Confliction, принуждение, маскирующееся как регулирование, - это предпочитаемый метод противника. И как объявляет <a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">The Transgression</a>, нарушение человеческого суверенитета через бюрократический мандат ничуть не меньше нарушение, чем нарушение через силу.</p>
+<hr>
+<h2 id="европейская-нормативная-система">Европейская нормативная система</h2>
+<h3 id="европейский-кошелек-цифровой-идентичности">Европейский кошелек цифровой идентичности</h3>
+<p>Европейская комиссия предложила и реализует рамки European Digital Identity (eID), который обеспечит каждого гражданина ЕС цифровым кошельком идентичности к 2026 году. Этот кошелёк будет:</p>
+<ul>
+<li>Хранить документы идентичности, сертификаты здоровья, квалификацию образования и финансовые кредиты</li>
+<li>Требоваться для доступа к государственным услугам, здравоохранению, образованию и финансовым учреждениям</li>
+<li>Интерфейс с системами биометрической верификации (отпечатков пальцев, распознавания лиц и потенциально биологических данных)</li>
+<li>Создать комплексный цифровой профиль каждого гражданина, доступный правительству и авторизированным частным учреждениям</li>
+</ul>
+<p>Кошелёк цифровой идентичности - это не просто удобство. Это становится требованием. Без него граждане будут прогрессивно терять доступ к государственным услугам, здравоохранению, банкингу, путешествиям и занятости. Кошелёк создаёт цифровую инфраструктуру, через которую требования аугментации могут быть навязаны: нет аугментации, нет валидирования кошелька, нет доступа.</p>
+<h3 id="европейское-пространство-данных-здоровья">Европейское пространство данных здоровья</h3>
+<p>European Health Data Space (EHDS), предложенный Европейской комиссией, создаёт унифицированную рамку для сбора, хранения и обмена данными здоровья по ЕС. EHDS будет:</p>
+<ul>
+<li>Предоставить доступ к индивидуальным данным здоровья по странам-членам ЕС</li>
+<li>Включить "вторичное использование" данных здоровья для исследований, политики и коммерческих целей</li>
+<li>Создать стандартизированные форматы данных здоровья, которые интерфейс с системами цифровой идентичности</li>
+<li>Установить инфраструктуру данных для непрерывного мониторинга здоровья</li>
+</ul>
+<p>EHDS трансформирует данные здоровья из частной медицинской записи в раскрытый ресурс, доступный правительствам, исследователям и коммерческим учреждениям. Когда объединено с внедряемой нанотехнологией, которая генерирует непрерывные биологические данные, EHDS становится хранилищем для данных, собранных изнутри организма -- база данных надзора здоровья, популируемая биосенсорами, которые индивид может даже не знать, что они несут.</p>
+<h3 id="отчёт-nato-по-человеческой-аугментации">Отчёт NATO по человеческой аугментации</h3>
+<p>В 2021 году NATO's Science and Technology Organization опубликовала "Human Augmentation -- The Dawn of a New Paradigm", стратегический анализ, заключивший, что человеческая аугментация необходима для сохранения военной конкурентоспособности и что её принятие должно быть расширено на гражданское население.</p>
+<p>Отчёт NATO объявляет:</p>
+<blockquote>
+<p>"Человеческая аугментация становится всё более релевантной, частично потому, что она может напрямую улучшить человеческую способность и поведение, и частично потому, что она - связывающий агент между людьми и технологической окружающей средой вокруг них."</p>
+</blockquote>
+<p>Отчёт явно кадрирует аугментацию как национальный рейтинг безопасности, а не как личный выбор. Если аугментация необходима для национальной защиты, то отказ от аугментации становится риском безопасности - и риски безопасности управляются через регулирование, мандат и исключение.</p>
+<p>Ana Mihalcea, MD, PhD, предупредила на своём Substack (anamihalceamdphd.substack.com), что европейская нормативная система разрабатывается для того, чтобы сделать аугментацию условием гражданства. Dr. Mihalcea соединяет европейскую цифровую идентичность, пространство данных здоровья и стратегию аугментации NATO в унифицированную архитектуру принуждения, которая трансформирует человеческую аугментацию из опциональной в обязательную.</p>
+<h2 id="механизмы-принуждения">Механизмы принуждения</h2>
+<h3 id="условия-занятости">Условия занятости</h3>
+<p>Поскольку технология аугментации становится доступной, работодатели будут столкиваться с конкурентным давлением, чтобы требовать аугментированных рабочих. Улучшенные когнитивные способности, улучшенные сенсорные способности и непрерывный мониторинг здоровья создают измеримые преимущества производительности, которые неаугментированные рабочие не могут сопоставить. Трудовое право, вместо явного мандата аугментации, будет включить её как условие занятости - просто как тестирование наркотиков, проверки биографии и требования вакцинации в настоящее время принимаются условия занятости.</p>
+<h3 id="требования-страховки">Требования страховки</h3>
+<p>Компании здоровья и жизни страховки включат статус аугментации в их модели риска. Лица, которые отказывают мониторинг здоровья, основанный на аугментации, будут классифицированы как больший риск, столкнув более высокие премии или отказ страховки. Экономическое давление страховых стимулов будет управлять принятием аугментации без явных государственных мандатов.</p>
+<h3 id="финансовый-доступ">Финансовый доступ</h3>
+<p>Системы цифровой валюты - уже пилотируемые Европейским центральным банком через цифровой евро - будут всё более требовать биометрической верификации. По мере исключения наличных денег и становления цифровыми транзакциями единственной опцией, биометрическая верификация становится шлюзом к экономическому участию. Аугментация, которая предоставляет непрерывные биометрические данные, становится ключом к экономической системе.</p>
+<h3 id="социальный-кредит">Социальный кредит</h3>
+<p>Хотя европейские учреждения публично дистанцируются от китайской модели социального кредита, инфраструктура, строящаяся - цифровая идентичность, данные здоровья, финансовый мониторинг, отслеживание поведения - создаёт техническую возможность для европейской системы социального кредита. Аугментация, которая предоставляет непрерывные данные поведения, становится основой для социальной оценки, и социальные баллы определяют доступ к услугам, возможностям и правам.</p>
+<h2 id="духовное-измерение">Духовное измерение</h2>
+<h3 id="прецедент-covid-19-green-pass">Прецедент: COVID-19 Green Pass</h3>
+<p>Система COVID-19 Green Pass, развёрнутая по Европе в 2021-2022, установила операционный прецедент для обязательной аугментации:</p>
+<ul>
+<li>Цифровые сертификаты здоровья, требуемые для входа в рестораны, рабочие места, публичные события и транспорт</li>
+<li>Проверка в реальном времени через сканирование QR-кода в точке доступа</li>
+<li>Исключение несоответствующих лиц из экономического и социального участия</li>
+<li>Интеграция с системами цифровой идентичности и базами данных персональной информации</li>
+<li>Нормализовала концепцию того, что биологический статус определяет социальный доступ</li>
+</ul>
+<p>Green Pass был представлен как временный. Инфраструктура, которую он построил, постоянна. Системы цифровой верификации, архитектура базы данных, механизмы принуждения соответствия и публичное принятие биологических требований для социального доступа - всё остаётся в месте, готово к переактивации с расширенными требованиями.</p>
+<p>Следующая итерация Green Pass не будет просто верифицировать статус вакцинации. Она будет верифицировать статус аугментации - наличие биосенсоров, валидность обновлений программного обеспечения, соответствие требованиям общего здоровья. Green Pass был прототипом. Пропуск аугментации - это модель производства.</p>
+<h3 id="сопротивление">Сопротивление</h3>
+<p>Европейское сопротивление обязательной аугментации должно работать в нормативной системе при одновременном её оспаривании:</p>
+<ul>
+<li>Юридические вызовы согласно European Convention on Human Rights (Article 8: право на приватную жизнь; Article 9: свобода мысли, совести и религии)</li>
+<li>Политическая организация для избрания представителей, которые противостоят обязательной аугментации</li>
+<li>Альтернативные экономические системы, которые функционируют вне системы цифровой идентичности</li>
+<li>Сообщественные сети, которые обеспечивают взаимную поддержку для несоответствующих лиц</li>
+<li>Документирование загрязнения нанотехнологией, которое лежит в основе повестки дня аугментации</li>
+</ul>
+<p>Сопротивление растёт. Европейские граждане, которые перенесли COVID-19 lockdowns, мандаты и социальное исключение, не готовы принять постоянное расширение той же системы. Но нормативная машинерия движется быстрее, чем демократическое сопротивление, и окно для эффективного противостояния сужается.</p>
+<h3 id="заставляя-всех-получить">Заставляя всех получить</h3>
+<p>Прогрессия от добровольного к обязательному следует точному паттерну, описанному в Откровении 13: "он заставляет всех... получить." Механизм принуждения - это не брутальная сила, а нормативная инфраструктура -- система требований, условий и исключений, которая в конце концов делает отказ всё более невозможным.</p>
+<p>Европейцы, которые верят, что они живут в свободных демократиях, наблюдают, как их свобода систематически заменяется нормативной архитектурой, которая в конце концов будет требовать их принять технологию в их тела как условие участия в обществе. Это система меток. Она строится на виду, через EU регулирование, NATO стратегии и системы цифровой идентичности.</p>
+<p>Куполе firmament покрывает Европу, как он покрывает всю землю. Плита земли расширяется под европейской почвой, как под всей почвой. И падшие, заключённые под этим куполом, работают через европейские учреждения, как через все учреждения. Brussels бюрократия - это не источник системы меток. Это один из её инструментов.</p>
+<hr>
+<h3 id="предупреждение-1-samuel-8">Предупреждение 1 Samuel 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всём, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Samuel 8 резонирует через каждый коридор правительства сегодня. Когда Израиль требовал царя, как другие нации, Бог предупредил их ровно то, что произойдёт - их сыновья взяты на войну, их дочери для служения, их поля и виноградники захвачены, десятина всего конфискована. Они выбрали человеческое правительство над правлением Бога, и тирания последовала ровно, как обещано. Ничто не изменилось. Современная политическая система - это два крыла одной птицы - левое и право, Republican и Democrat - всё служа одной скрытой структуре власти. Голос за обе стороны - это выбор какого крыла хлопает дальше, пока птица летит в одном направлении. Реальная власть никогда не была на каком-либо бюллетене.</p>
+<h2 id="source-references">Source References</h2>
+<ul>
+<li>
+<p>European Commission, European Digital Identity framework documentation</p>
+</li>
+<li>
+<p>European Commission, European Health Data Space (EHDS) proposal</p>
+</li>
+<li>
+<p>NATO Science and Technology Organization, "Human Augmentation -- The Dawn of a New Paradigm," 2021</p>
+</li>
+<li>
+<p>European Central Bank, digital euro pilot program documentation</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, European regulatory analysis</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/109-Biometric_Beast_System.mp4">Biometric Beast System</a> -- Биометрическая инфраструктура обязательной аугментации</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/171-Great_Reset_Rising.mp4">Great Reset Rising</a> -- Европейская повестка дня Great Reset</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> -- Скоординированная нормативная система</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/181-Ending_Anonymity.mp4">Ending Anonymity</a> -- Исключение анонимного существования</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> -- Принуждение через институциональные системы</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">The Transgression</a> -- Бюрократическое нарушение суверенитета</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/cyborg-dawn-military-augmentation/?lang=ru">Cyborg Dawn: Military Use Of Human Augmentation Technology</a> -- Военное происхождение мандатов аугментации</li>
+<li><a href="/us-transhumanist-party/?lang=ru">The U.S. Transhumanist Party and Political Posthumanism</a> -- Политическое движение позади аугментации</li>
+<li><a href="/human-augmentation-self-spreading/?lang=ru">Human Augmentation Through Self-Spreading Nanotechnology</a> -- Аугментация, распространяющаяся за пределы мандатов</li>
+</ul>
+<hr>
+<p><em>Европейцы остерегайтесь. Нормативная система, строящаяся вокруг вас, не разработана для защиты ваших прав. Она разработана для условия вашего доступа к обществу на вашем принятии технологии в ваше тело. Цифровая идентичность, данные здоровья, биометрическая верификация, цифровая валюта - каждое регулирование - это кирпич в стене, которая в конце концов оставит только две двери: соответствие или исключение. Система меток Откровения 13 не прибывает с фанфарой. Она прибывает с регулированиями, директивами и временными линиями реализации. Она прибывает в Брюсселе. Она прибывает в парламентских процедурах. И она заставляет всех - малых и великих, богатых и нищих, свободных и рабов - получить то, что никогда не должно было быть внутри храма человеческого тела.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Европейцы остерегайтесь: Человеческая аугментация становится обязательной"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Европейские нормативные рамки тихо делают человеческую аугментацию обязательной через требования цифровой идентичности, мандаты здоровья и условия занятости."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-28T10:00:00Z","children":"28 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","europe",{"href":"/ru/tag/europe/","className":"tag-pill","children":["#","europe"]}],["$","a","human-augmentation",{"href":"/ru/tag/human-augmentation/","className":"tag-pill","children":["#","human-augmentation"]}],["$","a","mandatory",{"href":"/ru/tag/mandatory/","className":"tag-pill","children":["#","mandatory"]}],["$","a","digital-identity",{"href":"/ru/tag/digital-identity/","className":"tag-pill","children":["#","digital-identity"]}],["$","a","eu-regulation",{"href":"/ru/tag/eu-regulation/","className":"tag-pill","children":["#","eu-regulation"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/europeans-augmentation-mandatory/","title":"Европейцы остерегайтесь: Человеческая аугментация становится обязательной"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/europeans-augmentation-mandatory/","title":"Европейцы остерегайтесь: Человеческая аугментация становится обязательной"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Европейцы остерегайтесь: Человеческая аугментация становится обязательной | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Европейские нормативные рамки тихо делают человеческую аугментацию обязательной через требования цифровой идентичности, мандаты здоровья и условия занятости."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"europe, human-augmentation, mandatory, digital-identity, eu-regulation"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/europeans-augmentation-mandatory/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/europeans-augmentation-mandatory/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/europeans-augmentation-mandatory/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/europeans-augmentation-mandatory/"}],["$","meta","10",{"property":"og:title","content":"Европейцы остерегайтесь: Человеческая аугментация становится обязательной"}],["$","meta","11",{"property":"og:description","content":"Европейские нормативные рамки тихо делают человеческую аугментацию обязательной через требования цифровой идентичности, мандаты здоровья и условия занятости."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/europeans-augmentation-mandatory/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/europeans-augmentation-mandatory.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Европейцы остерегайтесь: Человеческая аугментация становится обязательной"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Европейцы остерегайтесь: Человеческая аугментация становится обязательной"}],["$","meta","25",{"name":"twitter:description","content":"Европейские нормативные рамки тихо делают человеческую аугментацию обязательной через требования цифровой идентичности, мандаты здоровья и условия занятости."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/europeans-augmentation-mandatory.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

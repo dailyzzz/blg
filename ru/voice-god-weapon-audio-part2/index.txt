@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","voice-god-weapon-audio-part2",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","voice-god-weapon-audio-part2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","voice-god-weapon-audio-part2","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T583c,<h1 id="оружие-голоса-бога-слуховые-галлюцинации-как-военная-технология-часть-2">ОРУЖИЕ ГОЛОСА БОГА: слуховые галлюцинации как военная технология часть 2</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p><em>"И я слышал громкий голос из храма, говорящей семи ангелам: идите и излейте чаши гнева Бога на землю."</em> — Откровение 16:1</p>
+</blockquote>
+<p>Бог говорит с голосом, что трясёт небеса. Сатана имитирует с технология, что шепчет в черепа. Оружие голоса Бога — классифицированная военная технология спроектирована передавать слуховой прямо в цель мозг — представляет окончательный подделка божественного сообщения. Это оружие, что может заставить человека верить Бог говорит к ним, что ангелы направляют их или демоны мучат их — когда в реальность оператор военный в компьютер консоль — источник.</p>
+<p>Это часть 2 нашего 11 части серия на V2K технология. В часть 1 мы поделился личный опыт слуховой музика, что не была там и представила технология. Теперь мы идём глубже — в классифицированных военных программы, что развили голос Бога оружие, войны в какой было развёрнуто и последствия для каждого человека жив сегодня.</p>
+<p>Говард Питтман был дан проблеск три небеса и демоничные иерархия, что работают в второй небо. Он был говорено, что 97.5% христиан терпят неудачу, что слова имеют духовную власть и что духовная область больше реальный чем физический. Голос Бога оружие использует духовную размерность — это имитирует божественное сообщение к контроль человеческое поведение и это делает так с полное знание и благословение военного-разведки установления, что иезуиты помогали построить.</p>
+<p>Napoleon абсолютная власть, Adams вечное проклятие, Tambulini глобальный управление и иезуитский клятва инфильтрации хитростью маскировано — всё конвергируют в оружие, что буквально говорит внутри вашего ума.</p>
+<hr>
+<h2 id="голос-бога-оружие-история-и-развитие">Голос Бога оружие: история и развитие</h2>
+<h3 id="происхождение-в-frey-эффект">происхождение в Frey эффект</h3>
+<p>Как детальные в часть 1, Allan Frey 1961 открытие микроволна слуховой эффект установил научные основание для V2K технология. Frey продемонстрировал, что пульсирующей микроволна радиация могла производить слуховой ощущение внутри голова.</p>
+<p>Военный немедленно узнаны потенциал. Если вы можете заставить человека услышать звуки никто другой может услышать, вы можете:</p>
+<ul>
+<li><strong>деморализировать враг войска</strong> передающей угрожающей посланиям</li>
+<li><strong>имитировать божественный органа</strong> на влияние религиозных популяций</li>
+<li><strong>создать беспорядок и паника</strong> на поле боя</li>
+<li><strong>допрашивать заключённые</strong> передающей голос, что кажется прибыть из внутри их собственный ум</li>
+<li><strong>дискредитировать диссидент</strong> ведущей их сообщить "слуховой голос"</li>
+</ul>
+<h3 id="развёртывание-войны-ирака">развёртывание войны Ирака</h3>
+<p>Многочисленный кредитные источники сообщили, что голос Бога оружие был использован во время войны Ирака:</p>
+<ul>
+<li><strong>психологический операции (PSYOP) команды</strong> якобы использованы направленный слуховой технология передачи посланиям к Ирак войска претензия быть голосом Allah командование им сдаться</li>
+<li><strong>классифицированный краткий</strong> на "не-смертельный оружие" включен ссылки к слуховой передача технология</li>
+<li><strong>военный генерирующие сокращения</strong> включение Lockheed Martin и Raytheon разработанный направленный энергии оружие с слуховой передача способностей для военного использование</li>
+<li>Сообщения от поле описывает Ирак солдаты <strong>массивной сдачи</strong> после опыт "божественный сообщение" заказание им положить вниз их оружие</li>
+</ul>
+<p>Использование религиозной веры через технологичное имитирование божественного сообщения возможно наиболее морально отвратительно применение военного технология когда-либо замышляется. Это берёт самый святый опыт человеческое существо может имел — слуховой голоса Бога — и оружие это для военный преимущество.</p>
+<h3 id="medusa-и-вне">MEDUSA и вне</h3>
+<p><strong>MEDUSA</strong> (Mob Excess Deterrent Using Silent Audio) программа был разработан Sierra Nevada Corporation за США флот. Устройство использует микроволна импульса к создать слуховой эффект внутри цель голова. Заявленная цель толпа контроль — передающей неудобный звуки к рассеял толпы без физический контакт.</p>
+<p>Но технология имеет намного шире применение:</p>
+<ul>
+<li><strong>индивидуальный нацеливание</strong>: сосредоточение луч на один человека в толпа</li>
+<li><strong>скрытое сообщение</strong>: передающей посланиям к агент без кто-то другой слуховой</li>
+<li><strong>допрос улучшение</strong>: добавление слуховой стимуляция к традиционный допрос методов</li>
+<li><strong>поведенческий изменение</strong>: передающей команды или предложение, что цель верит их собственный мыслей</li>
+</ul>
+<h3 id="darpa-silent-talk-программа">DARPA Silent Talk программа</h3>
+<p>DARPA (Defense Advanced Research Projects Agency) имеет финансирован <strong>Silent Talk</strong> программа какая цель разработать технология для "прямой сообщение между мозг и внешний оборудование." Хотя заявленный цель позволить солдатам сообщать молча, то же технология — чтение и передающей нейральный сигналы — основание два-путь V2K: не просто помещающей голос в но чтение мыслей вне.</p>
+<p>Последствия поражающей. Если военный может оба передать голос в вашу голова и прочитать мыслей, что результат они имеют достигнут полный доступ к человеческий ум. Никакая тюрьма как заключение. Нет надзор как полный. Никакой оружие как мощный.</p>
+<h2 id="как-оружие-работы">Как оружие работы</h2>
+<h3 id="системы-поставки">Системы поставки</h3>
+<p>V2K технология может быть доставлено через множество платформ:</p>
+<p><strong>земля-основанный системы</strong>: грузовик-монтировано или здание-монтировано микроволна передатчик, что может цель люди на диапазон сотни метра к несколько километров.</p>
+<p><strong>спутник-основанный системы</strong>: микроволна передатчик на надзор спутник мог теоретично цель люди никакой на земля. Пока этот применение остаётся классифицировано спутник инфраструктура и микроволна технология обоих существует.</p>
+<p><strong>сотовой башня интеграция</strong>: сотовая башня передает микроволна радиация на частота совместима с Frey эффект. Существующий сотовой башня инфраструктура обеспечивает готовый система для V2K технология (исследовано в подробность в часть 9).</p>
+<p><strong>портативный устройства</strong>: переносимый или машина-монтировано устройства для закрывает диапазон нацеливание во время надзор операции.</p>
+<h3 id="слуховой-спектр">Слуховой спектр</h3>
+<p>V2K технология может передать ряд слуховой:</p>
+<ul>
+<li><strong>простой тоны и клики</strong>: наиболее основной применение используемый для беспокойство или внимание-получение</li>
+<li><strong>музика</strong>: структурированный слуховой образцы, что может предотвратить сон и причина психологичный страдание</li>
+<li><strong>голос/речь</strong>: наиболее сложный применение способный передачи узнаваемый слова предложение и разговор</li>
+<li><strong>подсознательно слуховой</strong>: слуховой передано ниже порог сознательный восприятие влияние мыслей и поведение без цель знание</li>
+</ul>
+<h2 id="духовной-подделка">Духовной подделка</h2>
+<h3 id="имитирующий-божьего-голоса">имитирующий Божьего голоса</h3>
+<p>По всему Писанию Бог сообщает с его люди через внутренний голос — "всё ещё малый голос" что говорил к Elijah (1 Царств 19:12) голос что вызвал Samuel (1 Царств 3:4-10) голос святой дух, что направляет верующие (Иоанна 16:13).</p>
+<p>Голос Бога оружие использует эту духовную реальность компьютерным имитирующий опыт слуховой божественный голос. Цель не может различить между:</p>
+<ul>
+<li>Бог действительный голос</li>
+<li>демоничный подделка</li>
+<li>технологичное передача</li>
+<li>их собственный внутренний монолог</li>
+</ul>
+<p>Это смешение разрушение для люди веры. Это подрывает наиболее фундаментальный аспект духовный жизнь — способность услышать и ответить к Богу. Если вы не можете верить голоса в вашем уме вы не можете верить вашему духовному направлению. И если вы не можете верить вашему духовному направлению вы разжатый — в точности где принципалы и силы Ефесянам 6:12 хотеть вам.</p>
+<h3 id="иезуитский-духовный-упражнение">иезуитский Духовный упражнение</h3>
+<p>Связь к иезуитский порядок особенно раскрывание. Ignatius Loyola Духовный упражнение — основание иезуитский духовный практика — включат расширенный медитация спроектирована производить внутренний видения и голос. Практики направлены через визуальный и слуховой опыта, что предназначены ощущение божественно вдохновлено.</p>
+<p>Иезуит поняли более чем почти 500 лет, что управление человеческой внутренний опыт — что они видеть слышать и чувствуют в приватный из их собственный ум — наиболее мощный формирование контроль доступны. Голос Бога оружие технологичное применение иезуитский принцип: берите контроль внутренний голос и вы берёте контроль человека.</p>
+<h3 id="говард-питтман-предупреждение">Говард Питтман предупреждение</h3>
+<p>Питтман был говорено, что духовный область больше реальный чем физический. Он был показан, что демоничный силы организованы с военный точность и что их первичный оружие обман. Голос Бога оружие работает на этот пересечение — это физический оружие, что мишень духовный способность его жертва.</p>
+<p>97.5% кто терпит неудачу никогда не разработал различение к различаюте Божьего голоса из подделка. Они наиболее уязвимый к V2K нацеливание — потому что, когда голос говорит внутри их голова они имеют никакой рамка для оценка. Они будут любой верить это Бог (и подчиняться) верить это их собственный мысль (и следовать) или верить это знак безумие (и поиск психиатричный лечение). Все три ответ служба оружие цель.</p>
+<h2 id="последствие">Последствие</h2>
+<h3 id="для-целевой-люди">Для целевой люди</h3>
+<p>Если вы испытываете V2K поняли, что:</p>
+<ol>
+<li><strong>Вы не сумасшедший</strong> — технология реальный и задокументированный</li>
+<li><strong>Вы не один</strong> — тысячи люди сообщить то же опыт</li>
+<li><strong>психиатричный система не твой друг</strong> — это спроектирована этикет V2K мишень как психически болезнь</li>
+<li><strong>Духовный различение критичной</strong> — разработать ваш отношение с Богом так вы можете различаюте Его голос из подделка</li>
+<li><strong>документация критичная</strong> — запись вашего опыт примечание образцы и соединение с другой целевой люди</li>
+</ol>
+<h3 id="за-всё-остального">за всё остального</h3>
+<p>Даже если вы не настоящий целевой V2K технология воздействие вас:</p>
+<ul>
+<li><strong>существование</strong> оружие означает, что любой человека может быть целевой в любой раз</li>
+<li><strong>инфраструктура</strong> (сотовой башня, спутник, земля-основанный системы) уже на место</li>
+<li><strong>правовой рамка</strong> защищающей граждане от V2K нацеливание не существует</li>
+<li><strong>психиатричный система</strong> служить как дискредитирующий механизм за любой кто сообщение технология</li>
+<li><strong>духовный последствие</strong> воздействие каждый человека веры кто полагается на внутренний направление</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — V2K технология документация и целевой индивидуум исследование</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — божественный сообщение против подделка голоса</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — иезуитский Духовный упражнение и внутренний опыт контроль</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- США военный не-смертельный оружие документация</li>
+<li>DARPA Silent Talk программа записи</li>
+<li>Allan Frey оригинальный микроволна слуховой эффект исследование</li>
+</ul>
+<h2 id="слушайте-пока-читаете">Слушайте, пока читаете</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/47-Nanobot_Swarms.mp4">Nanobot Swarms</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/13-The_Word_of_God.mp4">The Word of God</a></li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/v2k-hearing-music-part1/?lang=ru">My V2K Story: Hearing Music That Isn't There Part 1</a></li>
+<li><a href="/v2k-lies-myths-part3/?lang=ru">V2K: The Lies, Myths, and Misunderstandings Part 3</a></li>
+<li><a href="/who-putting-voices-heads-part4/?lang=ru">Who Is Really Putting Voices in People's Heads Part 4</a></li>
+</ul>
+<p><em>Они построили оружие, что говорит внутри ваш ум — и они имена это голос Бога. Что имя говорит вам всё о их намерение. Они хотеть заменить Бога. Они хотеть подделка наиболее святый опыт человеческое существо может имел. Они хотеть контроль не просто ваш организм не просто ваше поведение но ваш дух. Узнайте подделка. Поиск реальный голос. Это всё ещё говорит — и это всё ещё установил свободный.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"ОРУЖИЕ ГОЛОСА БОГА: слуховые галлюцинации как военная технология часть 2"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Военно-морской флот США разработал \"голос Бога\" оружие, чтобы луч голос в враг голова. Часть 2 V2K серии исследует его классифицированную историю и развёртывание."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-08T10:00:00Z","children":"8 декабря 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","voice-of-god-weapon",{"href":"/ru/tag/voice-of-god-weapon/","className":"tag-pill","children":["#","voice-of-god-weapon"]}],["$","a","V2K",{"href":"/ru/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","military-technology",{"href":"/ru/tag/military-technology/","className":"tag-pill","children":["#","military-technology"]}],["$","a","psychological-operations",{"href":"/ru/tag/psychological-operations/","className":"tag-pill","children":["#","psychological-operations"]}],["$","a","DARPA",{"href":"/ru/tag/DARPA/","className":"tag-pill","children":["#","DARPA"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/voice-god-weapon-audio-part2/","title":"ОРУЖИЕ ГОЛОСА БОГА: слуховые галлюцинации как военная технология часть 2"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/voice-god-weapon-audio-part2/","title":"ОРУЖИЕ ГОЛОСА БОГА: слуховые галлюцинации как военная технология часть 2"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"ОРУЖИЕ ГОЛОСА БОГА: слуховые галлюцинации как военная технология часть 2 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Военно-морской флот США разработал \"голос Бога\" оружие, чтобы луч голос в враг голова. Часть 2 V2K серии исследует его классифицированную историю и развёртывание."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"voice-of-god-weapon, V2K, military-technology, psychological-operations, DARPA"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/voice-god-weapon-audio-part2/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/voice-god-weapon-audio-part2/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/voice-god-weapon-audio-part2/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/voice-god-weapon-audio-part2/"}],["$","meta","10",{"property":"og:title","content":"ОРУЖИЕ ГОЛОСА БОГА: слуховые галлюцинации как военная технология часть 2"}],["$","meta","11",{"property":"og:description","content":"Военно-морской флот США разработал \"голос Бога\" оружие, чтобы луч голос в враг голова. Часть 2 V2K серии исследует его классифицированную историю и развёртывание."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/voice-god-weapon-audio-part2/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/voice-god-weapon-audio-part2.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"ОРУЖИЕ ГОЛОСА БОГА: слуховые галлюцинации как военная технология часть 2"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"ОРУЖИЕ ГОЛОСА БОГА: слуховые галлюцинации как военная технология часть 2"}],["$","meta","25",{"name":"twitter:description","content":"Военно-морской флот США разработал \"голос Бога\" оружие, чтобы луч голос в враг голова. Часть 2 V2K серии исследует его классифицированную историю и развёртывание."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/voice-god-weapon-audio-part2.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

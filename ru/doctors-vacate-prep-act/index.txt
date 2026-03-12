@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","doctors-vacate-prep-act",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","doctors-vacate-prep-act","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","doctors-vacate-prep-act","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T65ea,<h1 id="более-100-000-врачей-прокладывают-путь-к-отмене-иммунитета-prep-act">Более 100 000 врачей прокладывают путь к отмене иммунитета PREP Act</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Учитесь делать добро; ищите правосудия, спасайте угнетённых, судите сирот, ходатайствуйте за вдов." — Исаия 1:17</p>
+</blockquote>
+<p>Когда судьи Израиля развратились — брали взятки, извращали справедливость, оправдывали виноватых за награду — Бог осудил не только самих судей. Он призвал народ восстать и требовать справедливости. Долг искать справедливость принадлежит не только учреждениям. Когда учреждения дают осечку, бремя падает на отдельных людей, которые сохраняют моральное мужество действовать.</p>
+<p>Как провозглашает трек Confliction "Сокрушитель Змеи", сокрушение головы змеи не достигается только через реформу учреждений, но через верные действия тех, кто отказывается быть сообщником зла.</p>
+<p>Более 100 000 врачей объединились, чтобы оспорить PREP Act — юридическую крепость, которая защищала фармацевтические компании от ответственности за травмы, вызванные инъекциями COVID-19. Эти врачи дали клятву не причинять вреда. Теперь они требуют, чтобы те, кто причинил вред, несли последствия.</p>
+<hr>
+<h2 id="prep-act-крепость-иммунитета">PREP Act: Крепость иммунитета</h2>
+<p>Закон о готовности и чрезвычайной подготовке (PREP Act), подписанный в 2005 году, предоставляет общий иммунитет от ответственности производителям, дистрибьюторам, координаторам программ и квалифицированным лицам, участвующим в администрировании "охватываемых защитных мер" во время объявленного чрезвычайного положения в области здравоохранения.</p>
+<p>4 февраля 2020 года — до того, как в Соединённых Штатах было подтверждено ни одного случая COVID-19 через общее распространение — секретарь HHS Алекс Азар издал декларацию PREP Act, охватывающую защитные меры COVID-19. Эта декларация была впоследствии многократно поправлена, чтобы расширить её охват, распространив иммунитет на производителей вакцин, аптеки, поставщиков медицинских услуг и государственных чиновников, участвующих в программе вакцинации.</p>
+<p>Иммунитет в соответствии с PREP Act почти абсолютен. Его можно преодолеть только в случае "умышленного проступка" — правовой стандарт, настолько высокий, что он никогда не был успешно достигнут ни в одном деле PREP Act. Определение умышленного проступка в соответствии с законом требует доказательства того, что охватываемое лицо действовало "умышленно для достижения неправомерной цели" с "знанием того, что акт незаконен" и в "пренебрежении известным или явным риском, настолько большим, чтобы сделать весьма вероятным, что вред перевесит пользу".</p>
+<p>Единственным механизмом компенсации для тех, кто пострадал от охватываемых защитных мер, является Программа компенсации травм от защитных мер (CICP), администрируемая HHS. CICP не имеет судебного пересмотра, процесса обнаружения, права на судебное представительство, права на апелляцию и одного года для подачи требования. По состоянию на 2024 год, CICP рассмотрела тысячи исков о травмах от вакцин COVID-19 — и компенсировала менее дюжины.</p>
+<p>Карен Кингстон задокументировала в "The Kingston Report" (karenkingston.substack.com), что PREP Act был необходимым предварительным условием для всей программы инъекций COVID-19. "Без PREP Act ни один производитель не согласился бы производить вакцины, ни одна аптека не согласилась бы их вводить, ни один работодатель не согласился бы их требовать", — писала Кингстон. "PREP Act — это не просто щит от ответственности — это основание, на котором был построен весь аппарат принудительной инъекции. Удалите PREP Act, и аппарат рухнет."</p>
+<hr>
+<h2 id="вызов-врачей">Вызов врачей</h2>
+<p>Более 100 000 врачей подписались на законные и законодательные усилия по отмене положений об иммунитете PREP Act в отношении защитных мер COVID-19. Усилия развиваются по нескольким фронтам:</p>
+<h3 id="конституционный-вызов">Конституционный вызов</h3>
+<p>Врачи утверждают, что PREP Act, применяемый к вакцинам COVID-19, нарушает право Седьмой поправки на судебное разбирательство перед присяжными в гражданском деле. Седьмая поправка гарантирует: "В исках по общему праву, когда предмет спора превышает двадцать долларов, право на разбирательство перед присяжными сохраняется." PREP Act полностью исключает это право для лиц, пострадавших от охватываемых защитных мер, заменяя судебное разбирательство административной программой компенсации, которая не предусматривает судебного пересмотра.</p>
+<p>Конституционный вызов также ссылается на положение о надлежащей процедуре Пятой поправки, утверждая, что PREP Act лишает пострадавших лиц их свободы и имущества (включая их право на судебный процесс для получения компенсации) без надлежащей процедуры.</p>
+<h3 id="законодательный-вызов">Законодательный вызов</h3>
+<p>Врачи утверждают, что иммунитет PREP Act не должен применяться к инъекциям мРНК COVID-19, потому что продукты были существенно неправильно представлены общественности. PREP Act защищает "охватываемые защитные меры" — но врачи утверждают, что введённые продукты не были такими, как они были представлены.</p>
+<p>В частности, врачи утверждают, что инъекции мРНК были представлены как "вакцины" — продукты, которые предотвращают инфекцию и передачу — тогда как на самом деле они не предотвращали инфекцию или передачу. Продукты были представлены как "безопасные и эффективные", когда данные клинических испытаний были неполными, контрольная группа была исключена, а сигналы безопасности подавлялись. Продукты были представлены как оставляющиеся в месте инъекции, когда данные биораспределения показывали, что они распространяются по всему телу.</p>
+<p>Если продукты были существенно неправильно представлены, аргумент гласит, то иммунитет PREP Act не применяется, потому что охватываемая защитная мера, которая фактически была введена, не была охватываемой защитной мерой, описанной в разрешении.</p>
+<h3 id="законодательные-усилия">Законодательные усилия</h3>
+<p>Параллельно с законными вызовами врачи добиваются действий Конгресса по изменению или отмене PREP Act. Законодательные усилия сосредоточены на:</p>
+<ul>
+<li>Исключении или значительном снижении стандарта "умышленного проступка"</li>
+<li>Предоставлении пострадавшим лицам права на судебное разбирательство перед присяжными в гражданском деле</li>
+<li>Учреждении независимого трибунала по компенсации с судебным пересмотром</li>
+<li>Требовании производителям поддерживать страховку ответственности как условие разрешения EUA</li>
+<li>Внедрении положения об истечении срока, которое ограничивает иммунитет PREP Act продолжительностью объявленного чрезвычайного положения</li>
+</ul>
+<hr>
+<h2 id="значение-100-000-врачей">Значение 100 000 врачей</h2>
+<p>Это число значимо не просто по масштабам, но по тому, что оно представляет. Это лицензированные врачи — люди, которые окончили медицинский институт, прошли обучение в ординатуре и получили сертификацию совета. Они обладают учётными данными, которые медицинское учреждение использует для охраны авторитета. Их нельзя отклонить как "антиваксеров" или "теоретиков заговора" без подрыва доверия к всей системе аккредитации.</p>
+<p>100 000 врачей представляют примерно 10% от работающего врачебного персонала в Соединённых Штатах. Они включают врачей общей практики, терапевтов, кардиологов, неврологов, онкологов, педиатров, врачей скорой помощи и хирургов. Они практикуют в каждом штате, в каждой системе здравоохранения, в каждой клинической специальности.</p>
+<p>Их единый вызов PREP Act представляет наиболее значительное разногласие внутри медицинской профессии со времён начала пандемии COVID-19. Это демонстрирует, что нарратив о единодушном медицинском консенсусе, поддерживающем программу вакцинации, был всегда ложным — поддерживается не подлинным согласием, а угрозой профессиональных последствий за разногласие.</p>
+<p>Кингстон заметила: "100 000 врачей, которые оспаривают PREP Act, представляют совесть американской медицины. Это врачи, которые видели травмы, сообщили о нежелательных явлениях и им было приказано молчать. Это врачи, которые задали вопросы и были наказаны. Это медицинские работники, которые поставили свою клятву выше своей карьеры — и они больше не готовы принимать юридическую базу, которая препятствует их пациентам добиваться справедливости."</p>
+<hr>
+<h2 id="травмы-за-цифрами">Травмы за цифрами</h2>
+<p>PREP Act существует не в вакууме. Он защищает производителей и администраторов от ответственности за реальные травмы, полученные реальными людьми.</p>
+<p>VAERS — Система регистрации нежелательных явлений вакцины, совместно управляемая CDC и FDA, — получила более 1,6 миллиона отчётов о нежелательных явлениях, связанных с вакцинами COVID-19, включая:</p>
+<ul>
+<li>Более 37 000 отчётов о смертях</li>
+<li>Более 68 000 отчётов о постоянной инвалидности</li>
+<li>Более 213 000 отчётов о госпитализации</li>
+<li>Более 172 000 отчётов о посещениях скорой помощи</li>
+<li>Более 21 000 отчётов о миокардите/перикардите</li>
+<li>Более 16 000 отчётов об инфаркте миокарда</li>
+<li>Более 56 000 отчётов о тяжелой аллергической реакции</li>
+</ul>
+<p>Эти цифры широко признаны — даже CDC — как представляющие значительное занижение данных. Исследование Harvard Pilgrim Healthcare, заказанное HHS, показало, что менее 1% побочных эффектов вакцин сообщаются в VAERS, что предполагает, что фактическое количество нежелательных явлений на порядки выше, чем указанные цифры.</p>
+<p>PREP Act гарантирует, что ни один из этих людей — или их семьи в случае смертей — не может подать в суд на производителей продуктов, которые их ранили. 100 000 врачей, оспаривающих PREP Act, борются за восстановление юридического права этих пострадавших американцев добиваться справедливости через судебную систему.</p>
+<hr>
+<h2 id="система-зверя-и-щит-иммунитета">Система зверя и щит иммунитета</h2>
+<p>Трек ZZZ Daily "Система биометрического зверя" документирует архитектуру системы, в которой соответствие является принудительным, а ответственность невозможна. PREP Act — это юридическое воплощение этой архитектуры — закон, который требует участия (через мандаты), одновременно исключая возможность возмещения (через иммунитет).</p>
+<p>Это суть системы зверя, описанной в Откровении 13: система, которая осуществляет полную власть над телами и экономическим участием населения, оставаясь неподотчётной за последствия осуществления этой власти.</p>
+<p>100 000 врачей, оспаривающих PREP Act, пытаются разбить щит иммунитета — восстановить ответственность в системе, созданной для функционирования без неё.</p>
+<hr>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всём, что он говорит тебе; ибо не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 звучит в коридорах каждого правительства сегодня. Когда Израиль потребовал царя, как у других народов, Бог предупредил их ровно о том, что произойдёт — их сыновей возьмут на войну, их дочерей на служение, их поля и виноградники отберут, десятину всего конфискуют. Они выбрали человеческое правление над царством Бога, и тирания последовала ровно, как было обещано. Ничего не изменилось. Современная политическая система — это два крыла одной птицы — левое и правое, республиканцы и демократы — все служат одной скрытой структуре власти. Голосование за одну из сторон — это выбор того, какое крыло взмахнёт далее, пока птица летит в том же направлении. Настоящая власть никогда не была в избирательном бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>PREP Act — 42 U.S.C. Section 247d-6d</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — анализ Карен Кингстон архитектуры закона PREP Act, стандарта умышленного проступка и отказов программы CICP</p>
+</li>
+<li>
+<p>VAERS (Vaccine Adverse Event Reporting System) — vaers.hhs.gov</p>
+</li>
+<li>
+<p>Harvard Pilgrim Healthcare — "Electronic Support for Public Health–Vaccine Adverse Event Reporting System (ESP:VAERS)"</p>
+</li>
+<li>
+<p>Seventh Amendment, U.S. Constitution</p>
+</li>
+<li>
+<p>Исаия 1:17 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных царей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-пока-читаете">Слушайте, пока читаете</h2>
+<p>Эти треки от ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/109-Biometric_Beast_System.mp4">Biometric Beast System</a> — Принудительное соответствие без ответственности</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Синхронизированная система юридического, медицинского и институционального контроля</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — Институциональная коррупция, защищённая юридической архитектурой</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — Верные люди, которые отказываются быть сообщниками зла</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/101-Fight_of_Faith.mp4">Fight of Faith</a> — Призыв встать против систем, которые требуют безмолвного послушания</li>
+</ul>
+<h2 id="исследовать-далее">Исследовать далее</h2>
+<ul>
+<li><a href="/florida-criminal-charges-pfizer/?lang=ru">How Florida Residents Can Bring Criminal Charges Against Pfizer</a> — Государственные юридические стратегии, обходящие PREP Act</li>
+<li><a href="/pfizer-case-government-not-interested/?lang=ru">Court Filing in Pfizer Case: Government NOT Interested in Justice</a> — Ответ судебной системы на усилия по ответственности фармацевтической компании</li>
+<li><a href="/government-fraud-biopharma/?lang=ru">Is it Legal for the US Government to Commit Fraud with BioPharma</a> — Юридическая база, позволяющая сговору правительства и фарма</li>
+<li><a href="/florida-ends-vaccine-mandates/?lang=ru">Florida Surgeon General Announces End to ALL Vaccine Mandates</a> — Разборка исполнительной ветви системы</li>
+</ul>
+<hr>
+<p><em>Сто тысяч врачей восстали, чтобы оспорить крепость иммунитета, защищающую фармацевтическую промышленность от ответственности. Они несут вес присяги — "прежде всего не навреди" — и бремя того, что видели вред, совершённый другими. PREP Act стоит как памятник институциональной коррупции — закон, который требует участия в медицинской программе, одновременно криминализируя стремление к справедливости для тех, кого эта программа ранила. "Оправдывающий нечестивца и осуждающий праведника — оба мерзость пред Господом" (Притчи 17:15). PREP Act оправдывает нечестивцев и осуждает праведников. Эти 100 000 врачей стремятся восстановить то, что закон извратил — простое право пострадавшего встретиться со своим обидчиком в суде.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Более 100 000 врачей прокладывают путь к отмене иммунитета PREP Act"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Более 100 000 врачей объединяются, чтобы оспорить защиту от ответственности PREP Act, которая защищала фармацевтические компании от исков о вреде от вакцин COVID-19."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-13T10:00:00Z","children":"13 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","PREP-Act",{"href":"/ru/tag/PREP-Act/","className":"tag-pill","children":["#","PREP-Act"]}],["$","a","doctors",{"href":"/ru/tag/doctors/","className":"tag-pill","children":["#","doctors"]}],["$","a","liability",{"href":"/ru/tag/liability/","className":"tag-pill","children":["#","liability"]}],["$","a","vaccines",{"href":"/ru/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","accountability",{"href":"/ru/tag/accountability/","className":"tag-pill","children":["#","accountability"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/doctors-vacate-prep-act/","title":"Более 100 000 врачей прокладывают путь к отмене иммунитета PREP Act"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/doctors-vacate-prep-act/","title":"Более 100 000 врачей прокладывают путь к отмене иммунитета PREP Act"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Более 100 000 врачей прокладывают путь к отмене иммунитета PREP Act | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Более 100 000 врачей объединяются, чтобы оспорить защиту от ответственности PREP Act, которая защищала фармацевтические компании от исков о вреде от вакцин COVID-19."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"PREP-Act, doctors, liability, vaccines, accountability"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/doctors-vacate-prep-act/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/doctors-vacate-prep-act/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/doctors-vacate-prep-act/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/doctors-vacate-prep-act/"}],["$","meta","10",{"property":"og:title","content":"Более 100 000 врачей прокладывают путь к отмене иммунитета PREP Act"}],["$","meta","11",{"property":"og:description","content":"Более 100 000 врачей объединяются, чтобы оспорить защиту от ответственности PREP Act, которая защищала фармацевтические компании от исков о вреде от вакцин COVID-19."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/doctors-vacate-prep-act/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/doctors-vacate-prep-act.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Более 100 000 врачей прокладывают путь к отмене иммунитета PREP Act"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Более 100 000 врачей прокладывают путь к отмене иммунитета PREP Act"}],["$","meta","25",{"name":"twitter:description","content":"Более 100 000 врачей объединяются, чтобы оспорить защиту от ответственности PREP Act, которая защищала фармацевтические компании от исков о вреде от вакцин COVID-19."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/doctors-vacate-prep-act.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

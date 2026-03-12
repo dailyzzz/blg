@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","us-transhumanist-party",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","us-transhumanist-party","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","us-transhumanist-party","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T55c2,<h1 id="партия-трансгуманистов-сша-и-политический-постгуманизм">Партия трансгуманистов США и политический постгуманизм</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Как ты упал с неба, денница, сын зари! Разбился о землю, попиравший народы. А говорил в сердце своем: взойду на небо, выше звезд Божиих вознесу престол мой и сяду на горе в сонме богов... уподоблюсь Всевышнему." -- Исаия 14:12-14</p>
+</blockquote>
+<p>Желание превзойти человеческие ограничения и стать как Бог -- это не современная философия. Это первородный грех. Это падение Люцифера. Это искушение в Эдеме. И теперь это зарегистрированная политическая партия в Соединенных Штатах Америки. Партия трансгуманистов США внесла амбицию Люцифера в американскую политическую систему, выступая за технологическую трансформацию человечества в нечто сверхчеловеческое -- нечто постчеловеческое -- нечто, что заменяет Божий замысел на инженерное совершенствование.</p>
+<p>Движение политического постгуманизма не скрывает свою повестку дня. Оно открыто заявляет то, что разведывательные агентства, фармацевтические компании и программы военных исследований преследуют скрыто: фундаментальное изменение человеческого вида благодаря технологии.</p>
+<p>Как объявляет <a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> из альбома Confliction, желание подняться выше своей назначенной станции -- это отличительная характеристика восстания. И как напоминает нам <a href="https://confliction.zzzdaily.com/tracks/ru/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a>, последствия схватывания за божественность через запрещенные средства -- это изгнание, коррупция и смерть.</p>
+<hr>
+<h2 id="партия-трансгуманистов-сша">Партия трансгуманистов США</h2>
+<h3 id="платформа-и-цели">Платформа и цели</h3>
+<p>Партия трансгуманистов США, основанная в 2014 году Золтаном Истваном, -- это политическая партия, которая явно выступает за:</p>
+<p><strong>Радикальное продление жизни</strong></p>
+<p>Устранение смерти через технологические средства, включая генетическую модификацию, трансплантацию органов, загрузку мозга и наномедицинское восстановление клеток. Партия рассматривает биологическую смерть как проблему, которую нужно решить, а не как предназначенный аспект человеческого состояния.</p>
+<p><strong>Человеческое увеличение</strong></p>
+<p>Совершенствование физических и когнитивных способностей человека благодаря:</p>
+<ul>
+<li>Нейронные имплантаты для когнитивного совершенствования</li>
+<li>Генетическая модификация для физического совершенствования</li>
+<li>Нанотехнология для восстановления клеток и совершенствования</li>
+<li>Кибернетическое интегрирование для сенсорного и физического совершенствования</li>
+</ul>
+<p><strong>Морфологическая свобода</strong></p>
+<p>Право изменять свое тело любым желаемым способом, включая изменение на нечеловеческие формы. Это включает:</p>
+<ul>
+<li>Модификацию пола (которую партия поддерживает как подмножество более широких морфологических прав)</li>
+<li>Модификацию вида (право добавлять нечеловеческие черты)</li>
+<li>Кибернетическую модификацию (право заменять биологические компоненты на технологические)</li>
+<li>Цифровое воплощение (право загружать сознание в цифровые системы)</li>
+</ul>
+<p><strong>Технологические права</strong></p>
+<p>Установление правовых рамок, которые признают:</p>
+<ul>
+<li>Право систем ИИ на юридическое лицо</li>
+<li>Право на когнитивное совершенствование без ограничений</li>
+<li>Право на генетическую модификацию без нормативных барьеров</li>
+<li>Право на технологическое бессмертие</li>
+</ul>
+<h3 id="политическая-стратегия">Политическая стратегия</h3>
+<p>Трансгуманистическая политическая стратегия работает на нескольких уровнях:</p>
+<p><strong>Электоральная политика</strong></p>
+<p>Трансгуманистические кандидаты баллотировались на посты президента, губернатора и местных должностей, используя кампании как платформы для продвижения трансгуманистических идей. Хотя электоральный успех был ограничен, кампании генерируют медиа-освещение, которое нормализует трансгуманистические концепции.</p>
+<p><strong>Защита политики</strong></p>
+<p>Партия выступает за конкретные изменения политики:</p>
+<ul>
+<li>Увеличение государственного финансирования исследований долголетия</li>
+<li>Дерегулирование генетической модификации и нанотехнологии</li>
+<li>Правовое признание цифровых личностей и прав ИИ</li>
+<li>Универсальный доступ к технологии увеличения</li>
+<li>Устранение нормативных актов, которые ограничивают человеческие эксперименты</li>
+</ul>
+<p><strong>Культурное влияние</strong></p>
+<p>Трансгуманистические идеи продвигаются через развлекательные СМИ, журналистику о технологиях, академические конференции и культуру Кремниевой долины. Нормализация трансгуманистических концепций в популярной культуре -- через фильмы, телевидение, видеоигры и социальные сети -- это предсказательное программирование, которое подготавливает население к принятию того, что партия отстаивает политически.</p>
+<h2 id="духовный-анализ">Духовный анализ</h2>
+<h3 id="люциферианский-шаблон">Люциферианский шаблон</h3>
+<p>Трансгуманистическая платформа следует люциферианскому шаблону, описанному в Исаии 14, с точностью:</p>
+<ul>
+<li><strong>"Взойду на небо"</strong> = технология продления жизни и бессмертия</li>
+<li><strong>"Вознесу престол мой выше звезд Божиих"</strong> = когнитивное совершенствование сверх естественных пределов</li>
+<li><strong>"Сяду на горе в сонме богов"</strong> = политическая власть для навязывания трансгуманистических политик</li>
+<li><strong>"Взойду выше облаков"</strong> = превосхождение физических ограничений</li>
+<li><strong>"Уподоблюсь Всевышнему"</strong> = явная цель трансгуманизма: стать подобным богу через технологию</li>
+</ul>
+<p>Партия трансгуманистов преследует не просто политические цели. Она преследует духовную цель первоначального восстания: заменить Божий замысел на самоопределенную эволюцию, достичь божественности через технологию, а не через отношения с Творцом.</p>
+<h3 id="повторение-бытия-6">Повторение Бытия 6</h3>
+<p>Трансгуманистическая повестка дня -- это политическое формализирование коррупции Бытия 6. В Бытии 6 сыны Божии пересекли границу между сверхъестественным и естественным, производя гибридные существа (Нефилимы), которые были мерзостью Творцу. Трансгуманизм пересекает границу между человеческим и технологическим, производя гибридные существа (киборги, улучшенные люди, цифровые умы), которые нарушают образ Божий.</p>
+<p>Политическая легитимизация этого пересечения через зарегистрированную политическую партию представляет нормализацию того, что Бог судил потопом. Партия трансгуманистов просит общественность проголосовать за свою собственную генетическую, биологическую и духовную коррупцию -- демократически одобрить повестку дня Бытия 6.</p>
+<p>Ана Михалча, доктор медицины, доктор наук, задокументировала на своем Substack (anamihalceamdphd.substack.com), как нанотехнология, теперь обнаруженная в человеческой крови, -- это тайная реализация трансгуманистической повестки дня, которую Партия трансгуманистов США отстаивает открыто. То, что партия преследует через политические каналы, уже достигается через фармацевтические каналы -- без согласия или знания населения, которое трансформируется.</p>
+<h3 id="купол-и-обман">Купол и обман</h3>
+<p>Трансгуманистический сон о колонизации космоса, цифровом бессмертии и эволюционном превосхождении сталкивается с реальностью тверди -- куполом, который Бог поместил над землей в Бытии 1:6-8. Под этим куполом человечество существует в своем назначенном месте. Падшие ангелы заключены под этим куполом. И трансгуманистический сон об убежище в сознание, чтобы избежать тела, по духовным терминам, -- это сон об избежании купола -- о превосхождении границ, которые Бог установил на творении.</p>
+<p>Но купол держит. Твердь остается. И трансгуманист, мечтающий загрузить сознание, чтобы избежать тела, все еще живет под куполом, на пластине земли, в границах, которые Бог установил на творении. Никакое количество нанотехнологии, генетической модификации или цифровой загрузки не может пробить твердь. Единственный путь через купол -- путь, который Бог предопределил: смерть и воскресение через Иисуса Христа. Каждый другой путь -- это иллюзия -- обман, продвигаемый падшими существами, которые сами заключены под куполом, который они не могут избежать.</p>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всем, что он говорит тебе; ибо не тебя они отвергли, но Меня отвергли, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (КЖВ)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отражается через каждый коридор правительства сегодня. Когда Израиль потребовал царя, как и другие народы, Бог предупредил их точно, что произойдет -- их сыновья взяты на войну, их дочери на служение, их поля и виноградники отняты, десятая часть всего конфискована. Они выбрали человеческое правление вместо Божьего царства, и тирания последовала точно, как было обещано. Ничего не изменилось. Современная политическая система -- два крыла одной птицы -- левое и правое, республиканцы и демократы -- все служат одной скрытой структуре власти. Голосование за любую сторону -- это выбор того, какое крыло будет хлопать следующим, пока птица летит в одном направлении. Истинная власть никогда не была на бюллетене.</p>
+<h2 id="справочные-источники">Справочные источники</h2>
+<ul>
+<li>
+<p>Документы платформы и политики Партии трансгуманистов США</p>
+</li>
+<li>
+<p>Istvan, Z., "The Transhumanist Wager," 2013</p>
+</li>
+<li>
+<p>More, M. and Vita-More, N., "The Transhumanist Reader," 2013</p>
+</li>
+<li>
+<p>Ана Михалча, доктор медицины, доктор наук, anamihalceamdphd.substack.com, скрытый трансгуманизм через нанотехнологию</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 -- Предупреждение против земных царей (КЖВ)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство Ховарда Питтмана о предсмертном опыте -- Предупреждение об конце времени, которое дал ему Бог</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католические доверительные: раскрытые позорные секреты иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/339-The_New_Man.mp4">The New Man</a> -- Трансгуманистический редизайн человечества</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/447-Modded_Humans.mp4">Modded Humans</a> -- Улучшенный человек как политическая цель</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/489-Nephilim_Nanobots.mp4">Nephilim Nanobots</a> -- Образец Бытия 6 в нанотехнологии</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a> -- Система технологических меток</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> -- Восстание, движущее трансгуманизм</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> -- Последствия схватывания за божественность</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/cyborg-dawn-military-augmentation/?lang=ru">Cyborg Dawn: Military Use Of Human Augmentation Technology</a> -- Военная реализация трансгуманистических целей</li>
+<li><a href="/europeans-augmentation-mandatory/?lang=ru">Europeans Beware: Human Augmentation Becoming Mandatory</a> -- Обязательная реализация трансгуманистической технологии</li>
+<li><a href="/beast-land-transhumanism-synthetic/?lang=ru">The BEAST of the LAND: Transhumanism and Synthetic Futures</a> -- Конечное состояние трансгуманистической повестки дня</li>
+</ul>
+<hr>
+<p><em>Желание быть подобным Богу через запрещенные средства -- это не политическая платформа. Это первородный грех. Партия трансгуманистов США формализировала люциферианскую амбицию в зарегистрированную политическую организацию, полную кандидатов, политик и пожертвований кампании. Они просят избирателей одобрить то, что Бог судил потопом. Они просят общественность финансировать то, что падшие ангелы учили до потопа. Они просят человечество проголосовать за свою собственную трансформацию в нечто, что больше не сделано по образу Божьему. Но образ Божий не подлежит голосованию. Он не изменяется законодательством. Он не улучшается технологией. Он дан Творцом, поддерживается Духом и совершен только благодаря трансформации, которую обеспечивает Христос -- трансформация не генома, а сердца.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Партия трансгуманистов США и политический постгуманизм"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Партия трансгуманистов США открыто выступает за человеческое увеличение, продление жизни и посмертную эволюцию через политические каналы и политические рамки."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-03T10:00:00Z","children":"3 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","transhumanist-party",{"href":"/ru/tag/transhumanist-party/","className":"tag-pill","children":["#","transhumanist-party"]}],["$","a","posthumanism",{"href":"/ru/tag/posthumanism/","className":"tag-pill","children":["#","posthumanism"]}],["$","a","politics",{"href":"/ru/tag/politics/","className":"tag-pill","children":["#","politics"]}],["$","a","augmentation",{"href":"/ru/tag/augmentation/","className":"tag-pill","children":["#","augmentation"]}],["$","a","life-extension",{"href":"/ru/tag/life-extension/","className":"tag-pill","children":["#","life-extension"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/us-transhumanist-party/","title":"Партия трансгуманистов США и политический постгуманизм"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/us-transhumanist-party/","title":"Партия трансгуманистов США и политический постгуманизм"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Партия трансгуманистов США и политический постгуманизм | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Партия трансгуманистов США открыто выступает за человеческое увеличение, продление жизни и посмертную эволюцию через политические каналы и политические рамки."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"transhumanist-party, posthumanism, politics, augmentation, life-extension"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/us-transhumanist-party/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/us-transhumanist-party/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/us-transhumanist-party/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/us-transhumanist-party/"}],["$","meta","10",{"property":"og:title","content":"Партия трансгуманистов США и политический постгуманизм"}],["$","meta","11",{"property":"og:description","content":"Партия трансгуманистов США открыто выступает за человеческое увеличение, продление жизни и посмертную эволюцию через политические каналы и политические рамки."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/us-transhumanist-party/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/us-transhumanist-party.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Партия трансгуманистов США и политический постгуманизм"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Партия трансгуманистов США и политический постгуманизм"}],["$","meta","25",{"name":"twitter:description","content":"Партия трансгуманистов США открыто выступает за человеческое увеличение, продление жизни и посмертную эволюцию через политические каналы и политические рамки."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/us-transhumanist-party.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

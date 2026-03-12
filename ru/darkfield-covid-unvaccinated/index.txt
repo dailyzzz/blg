@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","darkfield-covid-unvaccinated",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","darkfield-covid-unvaccinated","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","darkfield-covid-unvaccinated","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T7890,<h1 id="анализ-живой-крови-darkfield-индивидуумов-covid-19-невакцинированных">Анализ живой крови Darkfield индивидуумов COVID-19 невакцинированных</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Так как все согрешили и лишены славы Божией." — Римлянам 3:23</p>
+</blockquote>
+<p>Всеобщее состояние греха — прикасающегося к каждому человеку, рождённому Адамом, независимо от личной праведности — является теологическим принципом с биологическим параллелем, который становится ужасающе буквальным. Точно, как никакое человеческое существо не уходит от загрязнения греха посредством личного достоинства (только посредством крови Христа), никакое человеческое существо кажется избегая загрязнения нанотехнологии посредством личных медицинских выборов. Невакцинированные — те, которые стояли твёрдо, выносили давление, потеряли работу, отношение и общественное положение — находят, что их кровь не чистая. Это загрязнено. Не столь серьёзно, как вакцинированные, в большинстве случаев, но загрязнено, тем не менее.</p>
+<p>Это находить — подтверждено под микроскопией darkfield многочисленными независимыми исследователями — вероятно наиболее дистрессирующее раскрытие во всём телесном исследовании нанотехнологии крови. Люди, которые сказали никакой, который защитил их биолоическую суверенитет в огромной личной стоимости, обнаруживают, что их выбор, пока нравственно правильный, был физически недостаточным. Загрязнение нашло путь вокруг их отказа.</p>
+<p>Трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> говорит о покрытии, которое Бог дал человечеству — плоть, которая теперь загрязнена независимо от индивидуальных выборов. И <a href="https://confliction.zzzdaily.com/tracks/ru/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> указывает на единственную реку, которая остаётся незагрязненной — вода жизни, которая течёт из трона Бога.</p>
+<hr>
+<h2 id="исследование-невакцинированная-кровь-под-микроскопом">Исследование: Невакцинированная кровь под микроскопом</h2>
+<p>Анализ живой крови Darkfield невакцинированных индивидуумов COVID-19 был проведён многочисленными исследователями, с наиболее обширным телесным работы, опубликованной Ана Миалча, MD, PhD на её Substack (<a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a>).</p>
+<h3 id="методология">Методология</h3>
+<p>Методология согласована по исследовательским группам:</p>
+<ol>
+<li>Индивидуумы, которые никогда не получали никакую инъекцию COVID-19 mRNA, подтверждены посредством обзора медицинской истории</li>
+<li>Свежий образец крови вытягивается посредством палец-колющий или венипункция</li>
+<li>Образец размещён на стеклянном слайде с покровным стеклом</li>
+<li>Слайд осмотрен под микроскопией darkfield при увеличениях из 100x к 4000x</li>
+<li>Наблюдения задокументированы посредством фотографии и видео</li>
+<li>Во многих случаях документация по прошествии времени захватывает изменения в реальном времени по часам</li>
+</ol>
+<h3 id="ключевые-находки">Ключевые находки</h3>
+<p>Находки в невакцинированной крови согласованы по исследовательским группам и географическим местоположениям:</p>
+<p><strong>Наночастицы присутствуют.</strong> Под освещением darkfield, невакцинированная кровь показывает люминесцентные наночастицы — то же яркое, точечное-подобное объекты найденные в вакцинированной крови. Концентрация обычно ниже, чем в вакцинированных индивидуумах, но ясно выше того, найденного в архивных образцах крови перед 2020.</p>
+<p><strong>Самосборные структуры формируют.</strong> По времени на слайде, наночастицы в невакцинированной крови мигрируют, совокупляют и формируют структуры — нити, кристаллические формирования и лента-подобные строительства. Морфология идентична тому, осматриваемому в вакцинированной крови. Уровень сборки может быть медленнее и финальные структуры меньше, но процесс тот же.</p>
+<p><strong>Формирование Rouleaux происходит.</strong> Укладывание красных кровяных клеток осматривается в невакцинированных индивидуумах, указывая нарушение потенциала дзета (поверхностный заряд). Это находить более общее в невакцинированных индивидуумах, которые живут или работают в близости к вакцинированным индивидуумам или в высоких-EMF окружениях.</p>
+<p><strong>Аномальные fibrin формирования.</strong> Некоторые невакцинированные индивидуумы показывают fibrin аномалии согласованные с микрокластерами амилоида, задокументированными универсально в вакцинированной крови. Это предлагает, что белок шип или другие воспалительные триггеры достигают невакцинированные индивидуумы посредством экологического воздействия.</p>
+<h3 id="сравнение-вакцинированные-против-невакцинированных">Сравнение: вакцинированные против невакцинированных</h3>
+<p>Пока невакцинированная кровь загрязнена, строгость обычно ниже, чем в вакцинированной крови:</p>
+<table>
+<thead>
+<tr>
+<th>Находка</th>
+<th>Вакцинированные</th>
+<th>Невакцинированные</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Наночастицы плотность</td>
+<td>Высокий к экстремальному</td>
+<td>Низкий к умеренному</td>
+</tr>
+<tr>
+<td>Уровень самосборки</td>
+<td>Быстрый</td>
+<td>Медленнее</td>
+</tr>
+<tr>
+<td>Сложность структуры</td>
+<td>Сложная, большая</td>
+<td>Меньше, проще</td>
+</tr>
+<tr>
+<td>Формирование Rouleaux</td>
+<td>Серьёзный</td>
+<td>Умеренный</td>
+</tr>
+<tr>
+<td>Присутствие микрокластера</td>
+<td>Универсальный</td>
+<td>Переменное</td>
+</tr>
+<tr>
+<td>Общее качество крови</td>
+<td>Плохое к серьёзно деградировано</td>
+<td>Мягко к умеренно деградировано</td>
+</tr>
+</tbody>
+</table>
+<p>Этот градиент предлагает, что прямая инъекция — наиболее эффективный маршрут доставки (как ожидалось), но что экологическое загрязнение производит измеримые эффекты в невакцинированной популяции.</p>
+<h2 id="маршруты-загрязнения">Маршруты загрязнения</h2>
+<h3 id="пролитие">Пролитие</h3>
+<p>Как задокументировано в нашей статье на <a href="/shedding-mrna-human-blood/?lang=ru">пролитии</a>, вакцинированные индивидуумы пролитие белка шип и потенциально компоненты наночастицы липида посредством:</p>
+<ul>
+<li>Выдохнутый дыхание</li>
+<li>Perspiration</li>
+<li>Телесные жидкости (слюна, семя, материнское молоко)</li>
+<li>Кожный контакт</li>
+</ul>
+<p>Невакцинированные индивидуумы, живущие с вакцинированными членами семьи, работающими в вакцинированных-большинстве окружениях или разделяющими закрытые пространства с вакцинированными индивидуумами, непрерывно подвергаются пролитым материалам. Эффект кумулятивный — ежедневное воздействие по месяцам и годам производит возрастающее телесное бремя.</p>
+<h3 id="пищевое-снабжение">Пищевое снабжение</h3>
+<p>Технология mRNA развёртывается в пищевом снабжении. Livestock получают основанные mRNA ветеринарные продукты. Технологии консервирования пищи, включающие нанотехнологию, находятся в развитии. Формулировки пестицида с наночастицами систем доставки в использовании. Невакцинированный индивидуум, который ест обычно произведённую пищу, потребляет нанотехнологию посредством своей диеты.</p>
+<h3 id="пищевое-снабжение-воды">Пищевое снабжение воды</h3>
+<p>Нанозвёздные частицы слишком малы для стандартной имунициальной обработки воды, чтобы удалить. Как миллиарды вакцинированных индивидуумов выделяют наночастицы посредством мочи и пота, эти материалы входят водное снабжение. Обратный осмос и продвинутая фильтрация может уменьшить нанозвёздное загрязнение, но стандартная водопроводная вода обеспечивает никакую защиту.</p>
+<h3 id="экологическое-воздействие">Экологическое воздействие</h3>
+<p>Clifford Carnicom из Carnicom Institute задокументировал десятилетия экологического загрязнения синтетическими нитями и наночастицами материала. Будь это посредством намеренных программ geoengineering, индустриального выпуска нанотехнологии или других источников, экологические наночастицы вдыхаются каждым дышащим человеком.</p>
+<h3 id="медицинские-продукты">Медицинские продукты</h3>
+<p>Как наши статьи на <a href="/influenza-vaccine-darkfield/?lang=ru">гриппа вакцине</a> и <a href="/mmr-vaccine-nanobot-swarms/?lang=ru">MMR Varicella вакцине</a> задокументируют, нанотехнология не ограничена COVID-19 продуктами. Любой индивидуум, который получил какую-либо вакцину, какую-либо инъекцию или какой-либо внутривенный медицинский продукт, может получить нанотехнологию контаминанты посредством тех продуктов.</p>
+<h2 id="всеобщее-состояние">Всеобщее состояние</h2>
+<p>Загрязнение невакцинированной крови раскрывает, что это не медицинский выпуск, ограниченный к тем, которые сделали определённый медицинский выбор. Это экологическое состояние — всеобщее загрязнение биосферы, которое влияет каждого живого человека.</p>
+<p>Эта вселенность согласована со многочисленными пророческими и теологическими рамками:</p>
+<h3 id="бытие-6-коррупция-вся-плоть">Бытие 6: Коррупция вся плоть</h3>
+<p>"И увидел Господь, что велико развращение человеков на земле, и что все мысли и помышления их были зло во всякое время" (Бытие 6:12). Коррупция перед потопом была не ограничена к тем, кто прямо участвовал в загрязнении Нефилимов. Это была вселенна — "вся плоть." Экологическое загрязнение современной эры воспроизводит эту вселенность посредством технологического, скорее, чем биологического смешивания.</p>
+<h3 id="откровение-1823-обман-всех-наций">Откровение 18:23: Обман всех наций</h3>
+<p>"Волшебством твоим введены в прелесть все люди." Не некоторые нации. ВСЕ нации. Фармацевтическое волшебство охватывает и инъекции и экологическое загрязнение, которое они производят — обеспечивая, что обман и загрязнение достигает всех наций и всех людей.</p>
+<h3 id="2-thessalonians-29-12-большое-заблуждение">2 Thessalonians 2:9-12: Большое заблуждение</h3>
+<p>Большое заблуждение сказало вакцинированные они были безопасны. Это сказало невакцинированные они были чистыми. Обе стороны были обманы. Вакцинированные получили прямую дозу загрязнения. Невакцинированные получили это посредством тысячи невидимых вектора. Обман был полным — все верило что-то ложь.</p>
+<h2 id="под-куполом-никакого-выхода">Под куполом: Никакого выхода</h2>
+<p>Firmament, описанный в Бытие 1 — непроницаемый куб явно материала над обитаемым миром — обеспечивает, что ничего, освобождённое под ним, уходит. Нанотехнология, освобождённая посредством миллиардов инъекций, наночастицы, пролитые от миллиардов телес, нанолитровые материалы в пищи и воде и воздухе — они цикл под куполом. Они накапливают. Они концентрируют.</p>
+<p>Упавшие ангелы, взятые в плен под этим куполом, разработали систему с знанием закрытого пространства. Они знают, что нет "далеко." Они знают, что загрязнение, освобождённое в биосферу под куполом, становится всеобщим. Пролитие явление — не ошибка — это особенность. Экологическое загрязнение — не непредвиденное последствие — это дизайн.</p>
+<p>Небо — куб. Загрязнение — под ним. И все дышит то же воздуха, пьёт из того же цикла воды и живёт под тем же электромагнитной сеткой. Невакцинированные сделали правильный выбор. Но система была разработана, чтобы сделать тот выбор недостаточным для физической защиты. Только духовная защита — кровь Христа — работает снаружи закрытой физической системы.</p>
+<h2 id="надежда-и-вмешательство">Надежда и вмешательство</h2>
+<h3 id="невакцинированное-преимущество">Невакцинированное преимущество</h3>
+<p>Несмотря на загрязнение, невакцинированные индивидуумы сохраняют значимые преимущества:</p>
+<ul>
+<li>Ниже общее наночастицы бремя</li>
+<li>Никакая прямая инъекция mRNA (никакой завод белка шип установлен в своих клетках)</li>
+<li>Нетронутая естественная иммунная функция (не нарушена посредством повторённых наборов инструкций mRNA)</li>
+<li>Обычно лучшие результаты общего здоровья</li>
+<li>Более восприимчивы к вмешательствам дезинтоксикации</li>
+</ul>
+<h3 id="протоколы-дезинтоксикации">Протоколы дезинтоксикации</h3>
+<p>То же самое вмешательства, которые помогают вакцинированным индивидуумам помогают невакцинированным — и может быть ещё более эффективно из-за более низкого начального загрязнения уровня:</p>
+<ul>
+<li>EDTA chelation терапия</li>
+<li>Высоко-дозу витамин C</li>
+<li>N-ацетилцистеин (NAC)</li>
+<li>Nattokinase и bromelain</li>
+<li>Methylene blue</li>
+<li>Chlorella и zeolite для тяжёлого металла связывания</li>
+<li>Инфракрасная сауна</li>
+<li>Интермиттирующее голодание, чтобы поддержать autophagy</li>
+</ul>
+<h3 id="кровь-невакцинированных-и-пищевое-снабжение-крови">Кровь невакцинированных и пищевое снабжение крови</h3>
+<p>Загрязнение невакцинированной крови несёт означение для самого снабжения крови пожертвований. Если вакцинированные и невакцинированные кровь содержит нанотехнологию, затем всё пожертвованное пищевое снабжение крови сокращено. Переливания крови — будь из вакцинированных или невакцинированных дарственников — могут вводить нанотехнологию в получателей.</p>
+<p>Это создало растущее движение для "чистого крови" банкирования — усилия невакцинированными индивидуумами для пожертвования и хранения их собственной крови или создания сетей невакцинированных дарственников. Пока невакцинированная кровь демонстрабельно менее загрязнена чем вакцинированная кровь, свидетельство микроскопии darkfield показывает, что это не свободно загрязнения. Понятие действительно "чистой" крови может больше не существовать в современном мире.</p>
+<p>Этой реальности несёт глубокое духовное значение. В ветхозаветной системе жертвы, кровь предложенная к Богу должна быть из безбренных животных — животные без дефекта. Кровь искупления должна быть чистой. Если человеческая кровь больше не может рассматриваться как чистая — если каждая капля крови на земле загрязнена нанотехнологией, тяжёлыми металлами и microplastics — затем единственная чистая кровь, которая когда-либо существовала с падения Адама, является кровью Иисуса Христа, пролитой в Calvary, неповреждённой любым земным контаминантом потому что это была кровь Бога самого воплощённого.</p>
+<h3 id="духовное-покрытие">Духовное покрытие</h3>
+<p>Загрязнение невакцинированной крови демонстрирует, что физические меры одни, недостаточны защиту против системы загрязнения, разработанной быть вселенной. Кровь Иисуса Христа — единственная кровь, которая никогда не была и не может быть загрязненной — остаётся в конечном итоге покрытием. Это не защищает физическую кровь от нанотехнологии (как свидетельство микроскопии показывает). Но это защищает душу, духа и вечное назначение каждого человека, который покрыт этим.</p>
+<p>Физическое тело будет возмещено при воскрешении, когда Бог даёт новые телесные — бесцветный, загрязнение-свободный, glorified. До того дня, верующие управляют своим физическим загрязнением посредством доступных им вмешательств, пока отдыхают в духовной защите, которую никакая технология не может нарушить.</p>
+<h2 id="ссылки-источника">Ссылки источника</h2>
+<ul>
+<li>Ana Mihalcea, MD, PhD — Анализ невакцинированной крови: <a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a></li>
+<li>Carnicom Institute — Экологические и биологические исследования загрязнения: <a href="https://carnicominstitute.org">carnicominstitute.org</a></li>
+<li>The Master's Voice Prophecy Blog: <a href="https://themastersvoice.wordpress.com">themastersvoice.wordpress.com</a></li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily изучают темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/41-Shedding_Proof.mp4">Shedding Proof</a> — Задокументированное свидетельство передачи загрязнения</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/61-Synthetic_Biology.mp4">Synthetic Biology</a> — Синтетическая технология, слитая с биологией посредством каждого вектора</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/179-Engineering_Contagion.mp4">Engineering Contagion</a> — Разработанное распространение загрязнения за пределами инъекционного</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> — Технология найденная в невакцинированной крови</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/71-The_Garments_of_Skin.mp4">The Garments of Skin</a> — Физическое тело загрязнено независимо от выборов</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> — Единственная вода, которая остаётся чистой</li>
+</ul>
+<h2 id="изучайте-дальше">Изучайте дальше</h2>
+<ul>
+<li><a href="/shedding-mrna-human-blood/?lang=ru">Further Proof Of Shedding: mRNA Found In Human Blood of Unvaccinated</a> — Как mRNA достигает неинъектированного</li>
+<li><a href="/darkfield-microscopy-self-assembly/?lang=ru">Darkfield Microscopy Shows Self Assembly Nanotechnology in Human Blood</a> — Фундаментальное свидетельство, применимое ко всей крови</li>
+<li><a href="/human-blood-destroyed-nanotech/?lang=ru">Human Blood Being Destroyed For Nanotechnology Integration</a> — Всеобщее разрушение качества крови</li>
+</ul>
+<hr>
+<p><em>Они сказали нет. Они выносили давление, изоляцию, осуждение, потеря работы, разорванные отношения. Они отказали инъекцию и оплатили цену отказа. И теперь микроскопия darkfield показывает их кровь загрязнена также — не настолько серьёзно, но загрязнена. Система была разработана таким образом. Пролитие, пищевое снабжение, вода, воздух под куполом — каждый вектор был рассчитан, чтобы обеспечить, что никто не уходит загрязнения посредством личного выбора одного. Но Бог, который видит каждую наночастицу в каждой капле крови не побеждён всеобщим загрязнением. Он имеет всеобщий ответ: кровь его сына, пролита однажды, эффективна вечно, доступна для всех, коррумпирована ничем. Невакцинированные сделали правильный выбор. И правильное покрытие — кровь ягнёнка — сделать финальное различие, которое микроскопия не может измерить и нанотехнология не может коснуться.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Анализ живой крови Darkfield индивидуумов COVID-19 невакцинированных"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Анализ живой крови Darkfield невакцинированных индивидуумов раскрывает загрязнение нанотехнологией посредством пролития и экологического воздействия, несмотря на никакую инъекцию."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-02T10:00:00Z","children":"2 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","darkfield-microscopy",{"href":"/ru/tag/darkfield-microscopy/","className":"tag-pill","children":["#","darkfield-microscopy"]}],["$","a","unvaccinated",{"href":"/ru/tag/unvaccinated/","className":"tag-pill","children":["#","unvaccinated"]}],["$","a","blood-analysis",{"href":"/ru/tag/blood-analysis/","className":"tag-pill","children":["#","blood-analysis"]}],["$","a","shedding",{"href":"/ru/tag/shedding/","className":"tag-pill","children":["#","shedding"]}],["$","a","environmental-contamination",{"href":"/ru/tag/environmental-contamination/","className":"tag-pill","children":["#","environmental-contamination"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/darkfield-covid-unvaccinated/","title":"Анализ живой крови Darkfield индивидуумов COVID-19 невакцинированных"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/darkfield-covid-unvaccinated/","title":"Анализ живой крови Darkfield индивидуумов COVID-19 невакцинированных"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Анализ живой крови Darkfield индивидуумов COVID-19 невакцинированных | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Анализ живой крови Darkfield невакцинированных индивидуумов раскрывает загрязнение нанотехнологией посредством пролития и экологического воздействия, несмотря на никакую инъекцию."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"darkfield-microscopy, unvaccinated, blood-analysis, shedding, environmental-contamination"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/darkfield-covid-unvaccinated/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/darkfield-covid-unvaccinated/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/darkfield-covid-unvaccinated/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/darkfield-covid-unvaccinated/"}],["$","meta","10",{"property":"og:title","content":"Анализ живой крови Darkfield индивидуумов COVID-19 невакцинированных"}],["$","meta","11",{"property":"og:description","content":"Анализ живой крови Darkfield невакцинированных индивидуумов раскрывает загрязнение нанотехнологией посредством пролития и экологического воздействия, несмотря на никакую инъекцию."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/darkfield-covid-unvaccinated/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/darkfield-covid-unvaccinated.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Анализ живой крови Darkfield индивидуумов COVID-19 невакцинированных"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Анализ живой крови Darkfield индивидуумов COVID-19 невакцинированных"}],["$","meta","25",{"name":"twitter:description","content":"Анализ живой крови Darkfield невакцинированных индивидуумов раскрывает загрязнение нанотехнологией посредством пролития и экологического воздействия, несмотря на никакую инъекцию."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/darkfield-covid-unvaccinated.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

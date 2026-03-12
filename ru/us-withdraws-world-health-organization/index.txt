@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","us-withdraws-world-health-organization",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","us-withdraws-world-health-organization","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","us-withdraws-world-health-organization","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T559d,<h1 id="соединенные-штаты-выходят-из-всемирной-организации-здравоохранения">Соединенные Штаты выходят из Всемирной организации здравоохранения</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Выйди из нее, народ Мой, чтобы не участвовать в грехах ее и не подвергнуться язвам ее." — Откровение 18:4</p>
+</blockquote>
+<p>Когда Лот медлил в Содоме, ангелы схватили его за руку и вытащили из города. Команда была не подлежащей обсуждению. Город был развращен сверх реформирования, и любой, кто остался, разделил бы его суд. Уход был не отказом -- это была выживание.</p>
+<p>Как раскрывает трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/31-Satans_Hosts.mp4">Satan's Hosts</a>, армии противника организуют себя в иерархии -- местные, региональные, национальные и глобальные. Всемирная организация здравоохранения представляет глобальный уровень управления здравоохранением -- наднациональный орган, который координирует реакцию на пандемию, устанавливает стандарты политики здравоохранения и стремится к авторитету на основе договора, чтобы отменить суверенитет отдельных наций.</p>
+<p>Соединенные Штаты вышли. Вопрос заключается в том, полный ли выход -- или щупальца глобального управления здравоохранением настолько глубоко внедрились в американские учреждения, чтобы их можно было перерезать исполнительным действием.</p>
+<hr>
+<h2 id="воз-история-захватанного-авторитета">ВОЗ: история захватанного авторитета</h2>
+<p>Всемирная организация здравоохранения была учреждена в 1948 году как специализированное учреждение Организации Объединенных Наций, уполномоченное направлять и координировать международную работу в области здравоохранения. Его первоначальный мандат -- профилактика и контроль эпидемических болезней, улучшение питания, жилищных условий и санитарии, а также продвижение исследований здравоохранения.</p>
+<p>На протяжении последующих десятилетий роль ВОЗ расширилась от координирования к авторитету. Международные медицинские правила (IHR), впервые принятые в 1969 году и существенно переработанные в 2005 году, дали Генеральному директору ВОЗ полномочия объявлять Чрезвычайную ситуацию в области здравоохранения с международным значением (ЧСЗМ) -- объявление, которое активирует предварительно согласованные протоколы реагирования во всех государствах-членах.</p>
+<p>Во время пандемии COVID-19 объявление ЧСЗМ ВОЗ активировало глобальную рамку реагирования, которая привела к синхронизированным блокировкам, закрытию границ, мандатам на вакцинацию и режимам цензуры в десятках стран. Скорость и однородность реагирования продемонстрировали, что авторитет ВОЗ был не просто консультативным -- он был оперативным.</p>
+<p>Карен Кингстон задокументировала в The Kingston Report (karenkingston.substack.com), что авторитет ВОЗ во время COVID-19 простирался на подавление научного инакомыслия. "Позиции ВОЗ по масочным, блокировкам, естественному иммунитету и раннему лечению были приняты платформами социальных сетей в качестве стандарта, по которому измерялась 'дезинформация'," написала Кингстон. "Любая научная позиция, которая противоречила ВОЗ -- даже позиции, которые позже оказались правильными -- была подвергнута цензуре. ВОЗ не просто координировала здравоохранение. Она контролировала информационную среду."</p>
+<h3 id="договор-о-пандемии">Договор о пандемии</h3>
+<p>Наиболее значительная угроза, создаваемая ВОЗ, -- это не ее прошлое использование авторитета, а его будущее расширение. ВОЗ ведет переговоры о Договоре о пандемии (формально "соглашение ВОЗ, конвенция или другой международный инструмент о профилактике пандемии, готовности и реагировании"), который бы:</p>
+<ul>
+<li>Предоставил Генеральному директору ВОЗ обязывающий авторитет объявлять чрезвычайные ситуации в области пандемии и направлять ответы государств-членов</li>
+<li>Установил глобальную сеть наблюдения за угрозами пандемии, включая авторитет доступа к национальным данным здравоохранения</li>
+<li>Создал механизмы справедливого распределения медицинских контрмер, включая авторитет направлять распределение вакцин и терапевтических средств, произведенных государствами-членами</li>
+<li>Реализовал наблюдение "One Health", интегрирующее здравоохранение человека, здравоохранение животных и мониторинг окружающей среды в единую глобальную систему</li>
+<li>Установил механизмы финансирования, требующие от государств-членов вносить процент своих бюджетов здравоохранения на подготовку к пандемии ВОЗ</li>
+</ul>
+<p>Предложенный договор трансформировал бы ВОЗ из координирующего органа в управляющий орган -- с юридическим полномочием направлять внутреннюю политику здравоохранения суверенных наций во время объявленных чрезвычайных ситуаций. Учитывая, что Генеральный директор ВОЗ имеет единственный авторитет объявлять ЧСЗМ, это фактически предоставляет одному неизбранному должностному лицу власть активировать обязывающие международные обязательства для государств-членов.</p>
+<hr>
+<h2 id="выход">Выход</h2>
+<p>Выход Соединенных Штатов из ВОЗ разрывает членство нации в организации, прекращает ее финансовые взносы (США были крупнейшим финансировщиком ВОЗ, вносившим примерно 700 миллионов долларов в год) и удаляет Соединенные Штаты из переговорной рамки для Договора о пандемии.</p>
+<p>Выход был осуществлен посредством исполнительного действия президента, следуя прецеденту, установленному уведомлением о выходе администрации Трампа первого срока в 2020 году (которое было отменено администрацией Байдена в первый день своего пребывания в должности).</p>
+<p>Последствия далеко идущие:</p>
+<p><strong>Финансовые:</strong> Потеря годовых взносов Соединенных Штатов в 700 миллионов долларов представляет примерно 15% от общего бюджета ВОЗ. Это заставит ВОЗ сократить операции, искать альтернативное финансирование (вероятно, от Фонда Билла и Мелинды Гейтс, который уже является вторым по величине финансировщиком ВОЗ), или и то, и другое.</p>
+<p><strong>Политические:</strong> Выход удаляет Соединенные Штаты из переговоров о Договоре о пандемии, обеспечивая, что договор -- если он будет принят -- не будет связывать Соединенные Штаты. Однако другие страны, которые остаются сторонами договора, могут реализовать его положения, создавая рамку глобального управления здравоохранением, которая работает наряду, но не через Соединенные Штаты.</p>
+<p><strong>Оперативные:</strong> Выход удаляет Соединенные Штаты из сетей наблюдения ВОЗ за болезнями, соглашений об обмене данными и скоординированных рамок реагирования. Это создает как риски (сокращенный доступ к международной разведке о болезнях), так и преимущества (свобода от директив ВОЗ, которые могут конфликтовать с национальной политикой здравоохранения).</p>
+<hr>
+<h2 id="система-зверя-на-глобальном-уровне">Система Зверя на глобальном уровне</h2>
+<blockquote>
+<p>"И поклонятся ему все жители земли, которых имена не написаны в книге жизни у Агнца, закланного от создания мира." — Откровение 13:8</p>
+</blockquote>
+<p>Договор о пандемии ВОЗ представляет глобальный уровень системы Зверя, описанной в Откровении 13 -- систему, в которой единственный орган власти имеет господство над "всеми племенами и языками и народами" (Откровение 13:7). Положения договора предоставляют наднациональной организации обязывающий авторитет над политикой здравоохранения суверенных наций, направляемой одним должностным лицом, чей авторитет не может быть оспорен гражданами любого государства-члена.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> задокументировать, как "Сценарии для будущего технологии и международного развития" Фонда Рокфеллера 2010 года описали сценарий "Lock Step", в котором пандемия позволила правительствам по всему миру навязывать авторитарные контроли, которые население принимало и которые сохранялись задолго после окончания пандемии. Реакция ВОЗ на пандемию COVID-19 последовала этому сценарию с замечательной точностью.</p>
+<p>Выход США из ВОЗ удаляет нацию из этой архитектуры глобального управления. Но архитектура продолжает быть построена -- и оставшиеся 193 государства-члена остаются подчиненными ее авторитету.</p>
+<hr>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всем, что он говорит тебе; ибо не тебя они отвергли, но Меня отвергли, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (КЖВ)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отражается через каждый коридор правительства сегодня. Когда Израиль потребовал царя, как и другие народы, Бог предупредил их точно, что произойдет -- их сыновья взяты на войну, их дочери на служение, их поля и виноградники отняты, десятая часть всего конфискована. Они выбрали человеческое правление вместо Божьего царства, и тирания последовала точно, как было обещано. Ничего не изменилось. Современная политическая система -- два крыла одной птицы -- левое и правое, республиканцы и демократы -- все служат одной скрытой структуре власти. Голосование за любую сторону -- это выбор того, какое крыло будет хлопать следующим, пока птица летит в одном направлении. Истинная власть никогда не была на бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>WhiteHouse.gov -- Исполнительное действие по выходу из ВОЗ</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) -- Анализ Карен Кингстон структуры авторитета ВОЗ, положений Договора о пандемии и последствий глобального управления здравоохранением</p>
+</li>
+<li>
+<p>ВОЗ -- Международные медицинские правила (2005 г.) и документы переговоров о Договоре о пандемии</p>
+</li>
+<li>
+<p>Фонд Рокфеллера -- "Сценарии для будущего технологии и международного развития" (2010 г.)</p>
+</li>
+<li>
+<p>Откровение 18:4, Откровение 13:7-8 (КЖВ)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 -- Предупреждение против земных царей (КЖВ)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство Ховарда Питтмана о предсмертном опыте -- Предупреждение об конце времени, которое дал ему Бог</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католические доверительные: раскрытые позорные секреты иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — Глобальное управление, следующее сценарию Rockefeller Lock Step</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/171-Great_Reset_Rising.mp4">Great Reset Rising</a> — Строительство наднациональных структур управления</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> — Роль ВОЗ в симуляции пандемии, которая стала реальностью</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/31-Satans_Hosts.mp4">Satan's Hosts</a> — Глобальная иерархия авторитета противника</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> — Наднациональные силы, работающие вне ответственности человека</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/trump-obliterates-who-h5n1/?lang=ru">Trump Obliterates WHO Plans for H5N1 Pandemic</a> — Отказ от следующей повести о пандемии ВОЗ</li>
+<li><a href="/trump-bans-gain-of-function/?lang=ru">Trump Executive Order Bans Gain-of-Function Research</a> — Закрытие внутреннего конвейера исследований</li>
+<li><a href="/trump-blow-bird-flu-surveillance/?lang=ru">Trump Delivers Shocking Blow to Bird Flu Surveillance Program</a> — Демонтаж инфраструктуры наблюдения, согласованной ВОЗ</li>
+<li><a href="/hhs-maha-transformation/?lang=ru">HHS Announces MAHA Transformation of Healthcare</a> — Национальная альтернатива глобальному управлению здравоохранением</li>
+</ul>
+<hr>
+<p><em>Команда "выйти из нее" -- это не предложение. Это императив -- вызванный признанием того, что участие в развращенной системе делает участника соучастником в его коррупции. Соединенные Штаты вышли из ВОЗ. Ангелы схватили нацию за руку и вытащили ее из города. Будет ли она оглядываться -- вернется ли, когда политические ветры переменятся, когда объявляется следующая пандемия, когда давление соответствия глобальному управлению здравоохранением становится неодолимым -- будет определять, является ли выход спасением или просто задержкой. "Помните жену Лота" (Лука 17:32). Она оглянулась и была потеряна.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Соединенные Штаты выходят из Всемирной организации здравоохранения"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Соединенные Штаты официально выходят из ВОЗ, разрывая связи с глобальным органом здравоохранения, который организовал ответ на пандемию и стремится к авторитету на основе договора."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-20T10:00:00Z","children":"20 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","WHO",{"href":"/ru/tag/WHO/","className":"tag-pill","children":["#","WHO"]}],["$","a","withdrawal",{"href":"/ru/tag/withdrawal/","className":"tag-pill","children":["#","withdrawal"]}],["$","a","sovereignty",{"href":"/ru/tag/sovereignty/","className":"tag-pill","children":["#","sovereignty"]}],["$","a","pandemic-treaty",{"href":"/ru/tag/pandemic-treaty/","className":"tag-pill","children":["#","pandemic-treaty"]}],["$","a","global-governance",{"href":"/ru/tag/global-governance/","className":"tag-pill","children":["#","global-governance"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/us-withdraws-world-health-organization/","title":"Соединенные Штаты выходят из Всемирной организации здравоохранения"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/us-withdraws-world-health-organization/","title":"Соединенные Штаты выходят из Всемирной организации здравоохранения"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Соединенные Штаты выходят из Всемирной организации здравоохранения | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Соединенные Штаты официально выходят из ВОЗ, разрывая связи с глобальным органом здравоохранения, который организовал ответ на пандемию и стремится к авторитету на основе договора."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"WHO, withdrawal, sovereignty, pandemic-treaty, global-governance"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/us-withdraws-world-health-organization/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/us-withdraws-world-health-organization/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/us-withdraws-world-health-organization/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/us-withdraws-world-health-organization/"}],["$","meta","10",{"property":"og:title","content":"Соединенные Штаты выходят из Всемирной организации здравоохранения"}],["$","meta","11",{"property":"og:description","content":"Соединенные Штаты официально выходят из ВОЗ, разрывая связи с глобальным органом здравоохранения, который организовал ответ на пандемию и стремится к авторитету на основе договора."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/us-withdraws-world-health-organization/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/us-withdraws-world-health-organization.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Соединенные Штаты выходят из Всемирной организации здравоохранения"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Соединенные Штаты выходят из Всемирной организации здравоохранения"}],["$","meta","25",{"name":"twitter:description","content":"Соединенные Штаты официально выходят из ВОЗ, разрывая связи с глобальным органом здравоохранения, который организовал ответ на пандемию и стремится к авторитету на основе договора."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/us-withdraws-world-health-organization.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

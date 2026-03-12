@@ -1,0 +1,130 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","schizophrenia-mental-illness-psyop-part6",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","schizophrenia-mental-illness-psyop-part6","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","schizophrenia-mental-illness-psyop-part6","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5bd3,<h1 id="шизофрения-психическое-заболевание-psyop-часть-6">Шизофрения: психическое заболевание PSYOP Часть 6</h1>
+<h2 id="древний-образец">Древний Образец</h2>
+<blockquote>
+<p><em>"Сердце обманчиво более всего, и крайне испорчено: кто может понять его?"</em> — Иеремия 17:9</p>
+</blockquote>
+<p>Что если шизофрения — самый страшный психиатрический диагноз в западном мире — вообще не болезнь? Что если это ярлык, разработанный разведывательными агентствами и навязанный психиатрическим истеблишментом, чтобы дискредитировать, молчаливо заклеить и нейтрализовать всех, кто испытывает V2K-нацеливание, духовные явления или любое восприятие, выходящее за пределы материалистского мировоззрения?</p>
+<p>Это не отрицание того, что человеческие страдания существуют. Люди, диагностированные с шизофренией, страдают ужасно. Но вопрос не в том, реальны ли страдания — вопрос в том, что их вызывает. И ответ психиатрического истеблишмента — что шизофрения — это "болезнь мозга", вызванная "химическим дисбалансом" — не поддерживается доказательствами. Это теория. Прибыльная, политически полезная теория, которая никогда не была доказана и служит интересам фармацевтической промышленности и разведывательного сообщества.</p>
+<p>Ховард Питтман был показан, что 97,5% христиан не удаются, и что духовное царство более реально, чем физическое. В мире, где духовные опыты реальны, где демонические сущности могут влиять на человеческое сознание, и где технология может передавать голоса в мозг, психиатрический ярлык "шизофрения" служит брандмауэром против реальности. Он ловит всех, кто воспринимает за пределами материалистской границы, и нейтрализует их лекарствами, диагнозом и социальным стигмой.</p>
+<p>Иезуиты, проникнув "коварно замаскированные" в психиатрическую профессию, преследуют "абсолютную власть" (Наполеон) и практикуют "каждый вид порока" (Catholic Confidential), находя совершенное выражение в медицинской специальности, которая заявляет власть определять саму реальность — и травить лекарствами всех, кто не согласен.</p>
+<hr>
+<h2 id="изобретение-шизофрении">Изобретение шизофрении</h2>
+<h3 id="болезнь-без-причины">Болезнь без причины</h3>
+<p>Шизофрения впервые была описана Эмилем Крепелином в 1893 году (как "dementia praecox") и переименована Ойгеном Блейлером в 1908 году. Несмотря на более чем столетие исследований, психиатрический истеблишмент не смог выявить:</p>
+<ul>
+<li><strong>Биологический маркер</strong> для шизофрении (никакой анализ крови, сканирование мозга или генетический тест не могут её диагностировать)</li>
+<li><strong>Специфическую аномалию мозга</strong>, которая вызывает шизофрению (сканирование мозга показывают статистические различия в популяциях, но не могут диагностировать отдельных лиц)</li>
+<li><strong>Генетическую причину</strong> (несмотря на огромное финансирование, "ген шизофрении" не найден)</li>
+<li><strong>Химический дисбаланс</strong> ("гипотеза дофамина" была неоднократно оспорена и никогда не доказана)</li>
+<li><strong>Патологический процесс</strong> (никто не может описать, как шизофрения развивается на биологическом уровне)</li>
+</ul>
+<p>В каждой другой отрасли медицины диагноз болезни требует выявляемого патологического процесса. Рак имеет опухоли. Диабет имеет измеримые аномалии сахара в крови. Болезнь сердца имеет заметное повреждение артерий. Шизофрения не имеет ничего — только сбор поведенческих симптомов, которые наблюдаются, категоризируются и обозначаются ярлыком психиатром.</p>
+<h3 id="dsm-каталог-мнений">DSM: каталог мнений</h3>
+<p>Диагностическое и статистическое руководство психических расстройств (DSM) — "библия" психиатрии — не определяет болезни. Оно определяет поведенческие категории, согласованные в ходе голосования комитета. Критерии DSM-5 для шизофрении требуют двух или более из следующих симптомов в течение как минимум одного месяца:</p>
+<ol>
+<li>Бредни</li>
+<li>Галлюцинации</li>
+<li>Дезорганизованная речь</li>
+<li>Явно дезорганизованное или кататоническое поведение</li>
+<li>Негативные симптомы (ослабленное эмоциональное выражение или абулия)</li>
+</ol>
+<p>Обратите внимание, что отсутствует: любой биологический тест, любое объективное измерение, любое физическое доказательство. Диагноз полностью субъективен — основан на интерпретации психиатром поведения пациента и самоотчётов. Два психиатра могут обследовать одного и того же пациента и прийти к разным диагнозам. Это не наука — это мнение, одетое в медицинский авторитет.</p>
+<h3 id="миф-о-химическом-дисбалансе">Миф о химическом дисбалансе</h3>
+<p>Теория "химического дисбаланса" шизофрении — утверждение о том, что она вызвана избытком дофамина в мозге — никогда не была более чем теорией, и она была неоднократно подорвана доказательствами:</p>
+<ul>
+<li>Антипсихотические препараты (которые блокируют рецепторы дофамина) часто не облегчают симптомы</li>
+<li>Многие пациенты с "шизофренией" имеют нормальные уровни дофамина</li>
+<li>Теория была спроектирована в обратном направлении от эффектов лекарств (лекарства блокируют дофамин, поэтому болезнь должна быть вызвана избытком дофамина — логическая ошибка)</li>
+<li>Недавние исследования поставили под сомнение гипотезу дофамина полностью</li>
+</ul>
+<p>В 2022 году знаменательный обзор, опубликованный в Molecular Psychiatry, пришёл к выводу, что нет <strong>убедительных доказательств</strong> того, что депрессия вызвана низким уровнем серотонина — разрушив теорию химического дисбаланса для депрессии. Та же критика применяется к гипотезе дофамина шизофрении: это была всегда маркетинговая нарративная для фармацевтических продуктов, а не научный вывод.</p>
+<h2 id="функция-psyop">Функция PSYOP</h2>
+<h3 id="как-шизофрения-служит-разведывательным-агентствам">Как шизофрения служит разведывательным агентствам</h3>
+<p>Диагноз шизофрения — идеальный инструмент для дискредитации целей V2K, разоблачителей и всех, кто воспринимает реальность иначе, чем одобренная нарративная:</p>
+<p><strong>Автоматическая дискредитация</strong>: Один раз диагностированный с шизофренией, всё, что говорит человек, фильтруется через диагноз. Сообщения о голосах — это "галлюцинации". Сообщения о наблюдении — это "параноидные бредни". Сообщения о нацеливании — это "идеи преследования". Диагноз трансформирует каждое правдивое утверждение в симптом.</p>
+<p><strong>Институциональная нейтрализация</strong>: Диагноз шизофрения может использоваться для обоснования недобровольной изоляции, принудительного медикаментозного лечения, потери опеки, потери трудоустройства, потери прав на управление и изъятия прав на огнестрельное оружие. Это один из самых мощных инструментов социального контроля в американской правовой системе.</p>
+<p><strong>Самомолчание</strong>: Социальный стигма шизофрении настолько суров, что большинство людей будут терпеть любые страдания, а не рисковать диагнозом. Это гарантирует, что цели V2K занимаются самоцензурой — они перестают говорить о своих опытах, прекращают искать помощь и прекращают сопротивляться своему нацеливанию.</p>
+<p><strong>Оружие для семьи</strong>: Семьи диагностированных лиц становятся исполнителями психиатрической нарративной. Они оказывают давление на своих любимых, чтобы те принимали лекарства, перестали говорить о голосах и приняли диагноз. Семья становится инструментом контроля — не из злобы, а из любви, которая была направлена институциональной властью.</p>
+<h3 id="связь-mkultra-психиатрия">Связь MKUltra-Психиатрия</h3>
+<p>Программа MKUltra ЦРУ интенсивно работала с психиатрами. Подпроекты включали:</p>
+<ul>
+<li>Разработку препаратов для <strong>индукции психотических симптомов</strong> у целей</li>
+<li>Исследование <strong>электрической стимуляции мозга</strong>, которая могла бы вызывать галлюцинации</li>
+<li>Изучение <strong>психологических техник</strong> для разрушения личности и индукции послушания</li>
+<li>Разработку <strong>диагностических критериев</strong>, которые могли бы использоваться для институционализации неподдающихся субъектов</li>
+</ul>
+<p>Психиатрическая профессия была не просто соучастником MKUltra — она была партнёром. Ведущие психиатры получали финансирование от ЦРУ, проводили финансируемые ЦРУ эксперименты и помогали разработать инструменты психологического контроля, которые продолжают использоваться сегодня.</p>
+<p>Диагноз шизофрения — один из этих инструментов. Он был усовершенствован в эпоху MKUltra для служения как универсальный ярлык для всех, кто испытывает индуцированные технологией симптомы, и он продолжает служить этой функции сегодня.</p>
+<h2 id="глобальный-образец">Глобальный образец</h2>
+<h3 id="шизофрения-и-культура">Шизофрения и культура</h3>
+<p>Концепция "шизофрении" в значительной степени является западным изобретением. Во многих незападных культурах слухание голосов понимается как духовный опыт — общение с предками, духами или божественным. Люди, которые слышат голоса в этих культурах, часто уважаются как шаманы, целители или пророки, а не лечатся как пациенты.</p>
+<p>Исследования показали, что опыты слухания голосов имеют <strong>лучшие результаты</strong> в развивающихся странах, чем на Западе — не потому, что опыты отличаются, а потому, что культурный ответ отличается. В культурах, которые принимают слухание голосов как значимое, опыт интегрируется в жизнь и сообщество человека. На Западе оно патологизируется, медикаментируется и стигматизируется.</p>
+<p>Это культурное различие раскрывает, что "шизофрения" — это не универсальная болезнь — это культурная конструкция, которая отражает западное материалистическое мировоззрение. В культуре, которая отрицает реальность духовного царства и существование технологии, изменяющей сознание, любое необычное восприятие должно быть "болезнью мозга".</p>
+<h2 id="духовная-реальность">Духовная реальность</h2>
+<h3 id="голоса-в-писании">Голоса в Писании</h3>
+<p>Библия полна людей, которые слышали голоса:</p>
+<ul>
+<li><strong>Моисей</strong> слышал голос Божий из горящего куста</li>
+<li><strong>Самуил</strong> слышал голос Божий, зовущий его в ночи</li>
+<li><strong>Илия</strong> слышал всё ещё малый голос на горе Хорив</li>
+<li><strong>Павел</strong> слышал голос Иисуса на дороге в Дамаск</li>
+<li><strong>Иоанн</strong> слышал голоса на протяжении Откровения</li>
+</ul>
+<p>По современным психиатрическим критериям, каждый пророк в Писании мог быть диагностирован с шизофренией. Слухание голосов, которое характеризует библейское пророчество, неразличимо, по психиатрическим критериям, от "слуховых галлюцинаций", которые характеризуют шизофрению.</p>
+<p>Это не совпадение. Психиатрическая система была разработана для патологизации духовного опыта — чтобы гарантировать, что всех, кто слышит голос Божий, лечат в молчание. Откровение Ховарда Питтмана о трёх небесах и реальности духовного общения — это ровно тот вид истины, который психиатрический истеблишмент разработан для подавления.</p>
+<h3 id="броня-божия">Броня Божия</h3>
+<p>Ефесянам 6 описывает духовную броню, в которой нуждаются верующие: пояс истины, нагрудник праведности, щит веры, шлем спасения, меч Духа. Обратите внимание, что шлем защищает <strong>голову</strong> — ум, седалище сознания, цель V2K-технологии и психиатрического диагноза.</p>
+<p>Шлем спасения защищает ум как от технологических, так и от духовных атак. Он предоставляет различение, чтобы различать голос Божий от демонических подделок и технологических передач. Без него ум незащищён — уязвим для V2K-нацеливания, психиатрического обозначения ярлыком и замешательства, которое возникает, когда человек не может определить источник того, что слышит.</p>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — исследование конструкции шизофрении и связи V2K</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — духовное восприятие в сравнении с психиатрическим диагнозом</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — иезуитский контроль психиатрической профессии</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- Moncrieff et al., "The serotonin theory of depression: a systematic umbrella review" (Molecular Psychiatry, 2022)</li>
+<li>MKUltra declassified documents on psychiatric partnerships</li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/47-Nanobot_Swarms.mp4">Nanobot Swarms</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/investigation-grandma-part5/?lang=ru">An Investigation Into My Grandma's Targeting Part 5</a></li>
+<li><a href="/alien-ufo-psyop-part7/?lang=ru">The Alien UFO PSYOP: What V2K Reveals Part 7</a></li>
+<li><a href="/tin-foil-hat-boston-cia/?lang=ru">THE TIN FOIL HAT: Boston City Hospital and the CIA Connection</a></li>
+</ul>
+<p><em>Шизофрения — это не болезнь. Это ярлык — оружие — разработанное для молчаливого заклеивания всех, кто воспринимает за пределами одобренных границ материалистской реальности. Если вы слышите голоса, вы не автоматически больны. Вы можете быть целью. Вы можете быть духовно чувствительны. Вы можете быть обоим. Но вы не то, что они говорят, что вы. Ищите различение. Ищите истину. Ищите Бога.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Шизофрения: психическое заболевание PSYOP Часть 6"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Шизофрения может быть величайшей psyop в истории медицины — диагноз на все случаи, предназначенный для дискредитации целей V2K и сокрытия электронного преследования."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-12T10:00:00Z","children":"12 декабря 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","schizophrenia",{"href":"/ru/tag/schizophrenia/","className":"tag-pill","children":["#","schizophrenia"]}],["$","a","psyop",{"href":"/ru/tag/psyop/","className":"tag-pill","children":["#","psyop"]}],["$","a","psychiatry",{"href":"/ru/tag/psychiatry/","className":"tag-pill","children":["#","psychiatry"]}],["$","a","V2K",{"href":"/ru/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","mental-illness",{"href":"/ru/tag/mental-illness/","className":"tag-pill","children":["#","mental-illness"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/schizophrenia-mental-illness-psyop-part6/","title":"Шизофрения: психическое заболевание PSYOP Часть 6"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/schizophrenia-mental-illness-psyop-part6/","title":"Шизофрения: психическое заболевание PSYOP Часть 6"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Шизофрения: психическое заболевание PSYOP Часть 6 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Шизофрения может быть величайшей psyop в истории медицины — диагноз на все случаи, предназначенный для дискредитации целей V2K и сокрытия электронного преследования."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"schizophrenia, psyop, psychiatry, V2K, mental-illness"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/schizophrenia-mental-illness-psyop-part6/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/schizophrenia-mental-illness-psyop-part6/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/schizophrenia-mental-illness-psyop-part6/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/schizophrenia-mental-illness-psyop-part6/"}],["$","meta","10",{"property":"og:title","content":"Шизофрения: психическое заболевание PSYOP Часть 6"}],["$","meta","11",{"property":"og:description","content":"Шизофрения может быть величайшей psyop в истории медицины — диагноз на все случаи, предназначенный для дискредитации целей V2K и сокрытия электронного преследования."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/schizophrenia-mental-illness-psyop-part6/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/schizophrenia-mental-illness-psyop-part6.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Шизофрения: психическое заболевание PSYOP Часть 6"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Шизофрения: психическое заболевание PSYOP Часть 6"}],["$","meta","25",{"name":"twitter:description","content":"Шизофрения может быть величайшей psyop в истории медицины — диагноз на все случаи, предназначенный для дискредитации целей V2K и сокрытия электронного преследования."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/schizophrenia-mental-illness-psyop-part6.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

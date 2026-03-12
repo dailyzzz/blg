@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","tin-foil-hat-boston-cia",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","tin-foil-hat-boston-cia","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","tin-foil-hat-boston-cia","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5816,<h1 id="оловянная-шляпа-бостонская-городская-больница-и-связь-цру">ОЛОВЯННАЯ ШЛЯПА: Бостонская городская больница и связь ЦРУ</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p><em>"Горе тем, которые скрывают свой замысел глубоко перед Господом и делают свои дела во мраке, говоря: кто видит нас? и кто узнает нас?"</em> — Исайя 29:15</p>
+</blockquote>
+<p>"Оловянная шляпа" — один из самых эффективных мемов когда-либо развёрнутых против критического мышления. Это стало универсальной стенографией для "безумного человека" — единственный образ, который дискредитирует любую озабоченность электромагнитным наблюдением, контролем разума или направленными оружиями энергии. В момент, когда кто-то поднимает эти темы, мем оловянной шляпы активируется, и разговор закончился.</p>
+<p>Но что, если оловянная шляпа имеет реальное происхождение? Что, если пациенты в определённой больнице были даны металлические экранирующие исследователями, которые знали, что они были подвергнуты электромагнитным экспериментам? Что, если мем был преднамеренно создан и распространён, чтобы дискредитировать кого-либо, который открыл истину об электромагнитных оружиях?</p>
+<p>Это статья прослеживает соединение между Бостонской городской больницей, финансируемыми ЦРУ электромагнитными экспериментами и преднамеренной оружием мема оловянной шляпы против общественного осознания реальной технологии.</p>
+<p>Говард Питтман был показан, что демонические силы работают через системы обмана, настолько распространённые, что даже указание их вызывает насмешку. Мем оловянной шляпы — такая система — она преобразует подлинную озабоченность в комедию, серьёзное исследование в пародию, и реальных жертв в шутки. 97,5%, которые не прошли, смеются над оловянной шляпой, потому что они были запрограммированы смеяться. И в смехе они гарантируют, что технология, нацеленная на них, остаётся скрытой.</p>
+<hr>
+<h2 id="бостонская-городская-больница-и-цру">Бостонская городская больница и ЦРУ</h2>
+<h3 id="больничные-эксперименты">Больничные эксперименты</h3>
+<p>Бостонская городская больница (теперь Бостонский медицинский центр) была одной из многочисленных медицинских учреждений, которые участвовали в финансируемых ЦРУ исследованиях во время холодной войны. Масштаб этих экспериментов включал:</p>
+<ul>
+<li><strong>Эффекты электромагнитного излучения</strong> на человеческих субъектах</li>
+<li><strong>Введение лекарств</strong> без информированного согласия</li>
+<li><strong>Модификация поведения</strong> через физическое и психологическое манипулирование</li>
+<li><strong>Электросокровативная терапия</strong> на экспериментальных параметрах</li>
+</ul>
+<p>Пациенты в больнице — многие из них бедные, меньшинство или психиатрические пациенты, которые не могли отстаивать себя — были подвергнуты экспериментам, которые они не понимали и не согласились. Это была стандартная практика во время эры MKUltra: наиболее уязвимые члены общества были использованы как лабораторные животные самыми мощными учреждениями в Америке.</p>
+<h3 id="соединение-экранирования">Соединение экранирования</h3>
+<p>Во время электромагнитных экспериментов исследователи должны были бы установить исходные уровни — определение эффектов электромагнитного излучения на субъектов с и без экранирования. Металлическая фольга (алюминий или олово) — эффективный электромагнитный экран. Пациенты или субъекты, которым было предоставлено металлическое экранирование как часть экспериментальных протоколов, казалось бы, носили "оловянные шляпы."</p>
+<p>Если пациенты впоследствии сообщили, что металлическое экранирование снизило эффекты электромагнитного целевого назначения — которое это сделало бы, учитывая базовую физику — они были бы высмеяны за это претензию. Высмеивание металлического экранирования как "безумия" служило двойной цели дискредитирования свидетельства пациентов и отдельно других от попытки экранировать себя от электромагнитных оружий.</p>
+<h3 id="оружие-мема">Оружие мема</h3>
+<p>Преднамеренное распространение мема оловянной шляпы следовало стандартной игровой книге сообщества разведки для дискредитирования нежелаемой информации:</p>
+<ol>
+<li><strong>Определить угрозу</strong>: люди, открывающие, что электромагнитные оружия существуют и что металлическое экранирование обеспечивает защиту</li>
+<li><strong>Создать мем</strong>: привязать металлическое экранирование к безумию через СМИ, комедию и культурное повторение</li>
+<li><strong>Распространить широко</strong>: убедить, что мем пронизывает каждый уровень культуры — фильмы, телевидение, социальные сети, случайный разговор</li>
+<li><strong>Автоматическое дискредитирование</strong>: любой человек, который обсуждает электромагнитные оружия, срабатывает мем, заканчивая разговор, прежде чем он начнется</li>
+</ol>
+<p>Этот игровой сценарий был разработан ЦРУ для COINTELPRO и связанных программ. Мем оловянной шляпы — один из его самых успешных продуктов — культурное оружие, которое защитило классифицированную технологию от общественного внимания на протяжении десятилетий.</p>
+<h2 id="наука-электромагнитного-экранирования">Наука электромагнитного экранирования</h2>
+<h3 id="клетки-фарадея-реальны">Клетки Фарадея реальны</h3>
+<p>Электромагнитное экранирование — не псевдонаука. Это установленная физика, используемая:</p>
+<ul>
+<li><strong>Военные объекты</strong>: Чувствительные компартиментированные информационные объекты (SCIFs) используют электромагнитное экранирование, чтобы предотвратить электронное наблюдение</li>
+<li><strong>Агентства разведки</strong>: офисы ЦРУ и НСА используют клетки Фарадея, чтобы защитить от электромагнитного шпионажа</li>
+<li><strong>Корпоративные исследовательские лаборатории</strong>: компании используют электромагнитное экранирование, чтобы защитить собственную информацию</li>
+<li><strong>Объекты MRI</strong>: комнаты MRI экранируются, чтобы предотвратить электромагнитное вмешательство</li>
+<li><strong>Электронное тестирование</strong>: анэхойчные камеры используют электромагнитное экранирование для тестирования электронного оборудования</li>
+</ul>
+<p>Когда государственное учреждение использует электромагнитное экранирование, оно называется "национальной безопасностью." Когда гражданин использует электромагнитное экранирование, он называется "оловянной шляпой." Физика идентична. Социальная обработка противоположна.</p>
+<h3 id="что-экранирование-может-и-не-может-делать">Что экранирование может и не может делать</h3>
+<p>Алюминиевая фольга обеспечивает некоторое электромагнитное экранирование, но его эффективность зависит:</p>
+<ul>
+<li><strong>Частота сигнала</strong>: фольга более эффективна против выше частот</li>
+<li><strong>Покрытие</strong>: частичное покрытие (шляпа) обеспечивает меньше защиты, чем полное замкнутое (клетка Фарадея)</li>
+<li><strong>Заземление</strong>: надлежащее электромагнитное экранирование требует заземления — просто ношение фольги на голове менее эффективно, чем заземлённое замкнутое</li>
+<li><strong>Толщина</strong>: более толстый материал обеспечивает лучшее экранирование</li>
+</ul>
+<p>Надлежащая клетка Фарадея — полностью ограждённое, заземлённое металлическое замкнутое — обеспечивает отличное электромагнитное экранирование. Это почему чувствительные государственные и военные учреждения используют их. "Оловянная шляпа" — грубое приблизительное обеспечивающее ограниченную защиту — но принцип позади неё научно звук.</p>
+<h2 id="более-широкий-паттерн-оружие-насмешка">Более широкий паттерн: Оружие насмешка</h2>
+<h3 id="цру-и-культурная-манипуляция">ЦРУ и культурная манипуляция</h3>
+<p>ЦРУ имеет задокументированную историю культурной манипуляции:</p>
+<ul>
+<li><strong>Operation Mockingbird</strong>: ЦРУ инфильтрировал основные СМИ организации и разместил активы в новостных редакциях, чтобы формировать общественные повествования</li>
+<li><strong>MKUltra и Голливуд</strong>: подключённые к ЦРУ продюсеры и авторы сформировали развлекательные повествования, которые высмеивали теории заговора и продвигали доверие правительству</li>
+<li><strong>Термин "теория заговора"</strong>: документ ЦРУ из 1967 года (распоряжение 1035-960) очертил стратегии дискредитирования критиков отчёта Комиссии Уоррена, включая продвижение использования термина "теория заговора", чтобы отклонить нежелаемые расследования</li>
+</ul>
+<p>Мем оловянной шляпы идеально подходит в эту историю. Это не было органическое культурное развитие — это был произведённый инструмент для дискредитирования кого-либо, кто открыл истину об электромагнитных оружиях.</p>
+<h3 id="как-насмешка-контролирует-поведение">Как насмешка контролирует поведение</h3>
+<p>Насмешка — один из наиболее мощных механизмов социального контроля:</p>
+<ul>
+<li><strong>Страх перед насмешкой</strong> предотвращает людей от исследования запретных тем</li>
+<li><strong>Упреждающая насмешка</strong> дискредитирует идеи, прежде чем они могут быть оценены</li>
+<li><strong>Социальное применение</strong> — сверстники, которые интернализировали насмешку, применяют её к другим</li>
+<li><strong>Самоцензура</strong> — люди, которые открывают истину, выбирают молчание над социальным остракизмом</li>
+</ul>
+<p>Мем оловянной шляпы активирует все эти механизмы одновременно. Просто мышление об электромагнитном экранировании срабатывает мем, который срабатывает страх перед насмешкой, который срабатывает самоцензура. Технология остаётся скрытой не потому, что это секретно, а потому, что любой, кто обсуждает его, автоматически дискредитирован.</p>
+<h2 id="духовное-измерение">Духовное измерение</h2>
+<h3 id="истина-против-насмешка">Истина против насмешка</h3>
+<p>Говард Питтман был рассказан, что духовная область — истинная реальность и что обман — первичное оружие демонической иерархии. Насмешка — форма обмана — она заменяет эмоциональный ответ на рациональную оценку. Мем оловянной шляпы предотвращает рациональную оценку электромагнитных оружий путём срабатывания эмоционального ответа (смех, презрение, смущение) перед доказательством, которое может быть рассмотрено.</p>
+<p>Писание предупреждает против тех, кто "скрывает свой замысел глубоко перед Господом." Электромагнитные программы оружия ЦРУ скрыты глубоко — позади классификации, дезинформации и мема оловянной шляпы. Но предупреждение Исайи применяется: Бог видит то, что они делают в тёмности. И истина, как был показан Питтман, в конечном итоге преобладает.</p>
+<p>Иезуитская практика "каждого вида порока" включает порок насмешки — использование насмешки, чтобы молчать истину. Их инфильтрация "покрытая такой хитростью" использует оловянную шляпу как одну из многих плащей. И 97,5%, которые не проходят, продолжают смеяться над мемом, который был разработан держать их порабощёнными.</p>
+<p>Не боитесь насмешки. Боитесь невежества. Истина об электромагнитных оружиях задокументирована в патентах, военных записях, свидетельстве Конгресса и жизненном опыте тысяч целевых индивидуумов. Мем оловянной шляпы не может стирать эту истину. Это может только отсрочить его признание.</p>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — Boston City Hospital CIA connection and tin foil hat origin research</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — truth vs. ridicule in spiritual warfare</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Jesuit use of ridicule as a control mechanism</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+<li>CIA dispatch 1035-960 (1967) — conspiracy theory discrediting guidelines</li>
+<li>Operation Mockingbird documentation</li>
+<li>MKUltra declassified records</li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/schizophrenia-mental-illness-psyop-part6/?lang=ru">Schizophrenia: The Mental Illness PSYOP Part 6</a></li>
+<li><a href="/voice-skull-patents-part10/?lang=ru">Voice 2 Skull: The PATENTS That Prove It's Real Part 10</a></li>
+<li><a href="/v2k-hearing-music-part1/?lang=ru">My V2K Story: Hearing Music That Isn't There Part 1</a></li>
+</ul>
+<p><em>Оловянная шляпа — это не шутка. Это оружие — культурное оружие, разработанное, чтобы молчать кого-либо, кто открывает истину об электромагнитном целевом назначении. Шутка находится на нас: пока мы смеемся, технология продвигается, целевое назначение продолжается, и истина остаётся скрытой позади мема. Прекратите смеяться. Начните исследование. Патенты реальны. Оружия реальны. И люди, носящие фольгу, были правы.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"ОЛОВЯННАЯ ШЛЯПА: Бостонская городская больница и связь ЦРУ"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Мем 'оловянная шляпа' был рожден не из паранойи — он был рожден в Бостонской городской больнице, где ЦРУ проводило электромагнитные эксперименты на пациентах."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-23T10:00:00Z","children":"23 декабря 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","tin-foil-hat",{"href":"/ru/tag/tin-foil-hat/","className":"tag-pill","children":["#","tin-foil-hat"]}],["$","a","CIA",{"href":"/ru/tag/CIA/","className":"tag-pill","children":["#","CIA"]}],["$","a","boston-city-hospital",{"href":"/ru/tag/boston-city-hospital/","className":"tag-pill","children":["#","boston-city-hospital"]}],["$","a","electromagnetic-shielding",{"href":"/ru/tag/electromagnetic-shielding/","className":"tag-pill","children":["#","electromagnetic-shielding"]}],["$","a","MKUltra",{"href":"/ru/tag/MKUltra/","className":"tag-pill","children":["#","MKUltra"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/tin-foil-hat-boston-cia/","title":"ОЛОВЯННАЯ ШЛЯПА: Бостонская городская больница и связь ЦРУ"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/tin-foil-hat-boston-cia/","title":"ОЛОВЯННАЯ ШЛЯПА: Бостонская городская больница и связь ЦРУ"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"ОЛОВЯННАЯ ШЛЯПА: Бостонская городская больница и связь ЦРУ | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Мем 'оловянная шляпа' был рожден не из паранойи — он был рожден в Бостонской городской больнице, где ЦРУ проводило электромагнитные эксперименты на пациентах."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"tin-foil-hat, CIA, boston-city-hospital, electromagnetic-shielding, MKUltra"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/tin-foil-hat-boston-cia/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/tin-foil-hat-boston-cia/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/tin-foil-hat-boston-cia/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/tin-foil-hat-boston-cia/"}],["$","meta","10",{"property":"og:title","content":"ОЛОВЯННАЯ ШЛЯПА: Бостонская городская больница и связь ЦРУ"}],["$","meta","11",{"property":"og:description","content":"Мем 'оловянная шляпа' был рожден не из паранойи — он был рожден в Бостонской городской больнице, где ЦРУ проводило электромагнитные эксперименты на пациентах."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/tin-foil-hat-boston-cia/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/tin-foil-hat-boston-cia.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"ОЛОВЯННАЯ ШЛЯПА: Бостонская городская больница и связь ЦРУ"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"ОЛОВЯННАЯ ШЛЯПА: Бостонская городская больница и связь ЦРУ"}],["$","meta","25",{"name":"twitter:description","content":"Мем 'оловянная шляпа' был рожден не из паранойи — он был рожден в Бостонской городской больнице, где ЦРУ проводило электромагнитные эксперименты на пациентах."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/tin-foil-hat-boston-cia.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

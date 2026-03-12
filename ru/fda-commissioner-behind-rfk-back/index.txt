@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","fda-commissioner-behind-rfk-back",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","fda-commissioner-behind-rfk-back","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","fda-commissioner-behind-rfk-back","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5811,<h1 id="fda-commissioner-makary-пошёл-позади-rfk-jrs-back">FDA Commissioner Makary Пошёл Позади RFK Jr.'s Back</h1>
+<h2 id="древний-паттерн">Древний Паттерн</h2>
+<blockquote>
+<p>"Двойственный человек нестабилен во всех путях своих." — Иакова 1:8</p>
+</blockquote>
+<p>Когда Иуда сидел на Ужине Господа, он занял позицию доверия в внутреннем кругу. Он был выбран, уполномочен и доверен с казной группы. Его предательство было разрушительно не потому что враг's сила, но потому что предатель's близость. Самое разрушительное нарушение приходит не от без, но от из — из те, кто разделение стол, пока служение различный хозяин.</p>
+<p>Как трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">Враг Внутри</a> раскрывает, инфильтрация — враг's наиболее эффективная стратегия. Фронтальное нападение может быть отражено. Институциональный захват может быть реформирован. Но предательство из — из те, кто носит форму реформы, пока служение интересы старого режима — подрывает основание каждого попытка реформы.</p>
+<p>FDA Commissioner Marty Makary якобы пошёл позади RFK Jr.'s спину — действующий в противоречие к HHS директивам, сохраняя неавторизованные коммуникации с фармацевтическими участниками учреждения и подрыв программы реформы изнутри администрации.</p>
+<hr>
+<h2 id="назначение-и-ожидание">Назначение и Ожидание</h2>
+<p>Д-р Marty Makary, Johns Hopkins хирург и общественный исследователь здоровья, был назначен FDA Commissioner с ожиданием, что он бы осуществлял программу реформы здоровья администрации — включая повышенную прозрачность в фармацевтических данных, реформа одобрения процесса и критическое переопределение продуктов, авторизованных под структурой Emergency Use Authorization.</p>
+<p>Makary имели публично позиционировавший себя как критик определённых политик эры пандемии. Он имел вопрошаемые школьные закрытия, поддержаны естественные признание иммунитета и выступила за прозрачность данных. Эти позиции сделали его выглядеть выравненным с программой реформы и подходящих для роли осуществления этого в FDA.</p>
+<p>Однако, отчёты указывают, что, один раз в офисе, действия Makary отклонены от его публичных позиций и из HHS директив. Определённые обвинения включают:</p>
+<p><strong>Неавторизованные коммуникации учреждения:</strong> Makary якобы сохранил прямые коммуникации с фармацевтическими исполнительными лицами и лоббистами без раскрытия к HHS вождению, обсуждающей нормативные подходы, которые противоречили заявленные цели программы реформы администрации.</p>
+<p><strong>Сопротивление EUA обзор:</strong> Несмотря на направление администрации провести всеобъемлющий обзор всех продуктов, авторизованных под Emergency Use Authorizations, Makary якобы медленно-прошёл процесс обзора и сопротивлялся осуществлению рекомендации, которые имели ограничили или отозвали существующие авторизации.</p>
+<p><strong>Оппозиция к прозрачности мерам:</strong> Makary якобы противостал HHS директивам требованию ускоренного выпуска фармацевтического клинического суда данных, аргументируя, что такие выпуски повредили бы конкурентные интересы фармацевтических компаний и разовьют будущее инвестиция в развитие лекарства.</p>
+<p><strong>Защита Учреждения:</strong> Makary якобы защитил FDA карьеру персонала, кто было идентифицировано для удаления или переназначения как часть более широкого попытки реформы учреждения, позиционируя их в защищённых ролях или переназначая их к позициям, которые изолировали их из процесса реформы.</p>
+<p>Карен Kingston наблюдала в Kingston Report (karenkingston.substack.com): "FDA — учреждение фармацевтического учреждения 'most ценнейший. Это обеспечивает нормативное одобрение фармацевтические продукты требуют достичь рынок, защиты ответственности, которая щит производители из ответственности и институциональной власти, которая преобразует продукты учреждения в рекомендованный стандарт правительства заботы. Любой FDA Commissioner, кто угрожает этому договору будет лицо давления из каждого направления — и давление будет наиболее интенсивно из в FDA себя."</p>
+<hr>
+<h2 id="институциональный-иммунный-ответ">Институциональный Иммунный Ответ</h2>
+<p>Сопротивление FDA к реформе — не просто результат индивидуальной неверности. Это институциональный иммунный ответ — активация учреждения встроенных защит против любой угрозы к фармацевтическим отношениям учреждения, которые определяют её операцию.</p>
+<p>FDA происходит значительная часть его финансирования из фармацевтических пользовательских платежей — платежей пай компаниями производителя лекарства поддерживать обзор их продуктов. Под Prescription Drug User Fee Act (PDUFA), фармацевтические компании платят миллиарды в пользовательских платежах к FDA и эти платежи финансируют приблизительно 65% деятельности обзора лекарства FDA's.</p>
+<p>Этот модель финансирования делает FDA финансово зависимый на учреждении это нормирует. Компании уплачивающие пользовательские платежи — не благотворительные дарители — они клиенты покупающие нормативный сервис. Сервис они ожидают — эффективный обзор и одобрение их продуктов. Любой FDA Commissioner, кто срывает этот сервис — замедляя одобрения, увеличивая исследование или отзывая ранее авторизованные продукты — лица учреждения давление не просто из учреждения, но из в FDA себя, чьё бюджет зависит от учреждения удовлетворения.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> документирует как системы наблюдения — и цифровые и институциональные — работают обнаруживать и нейтрализовать угрозы к установленным структурам власти. Институциональный ответ FDA к реформе работает идентичной принцип: обнаружьте угрозу, идентифицируйте его источник и развёрнуть контрмеры нейтрализовать её — ли через правовой вызов, давление медиа или внутренний саботаж.</p>
+<hr>
+<h2 id="реформа-vs-машина">Реформа vs. Машина</h2>
+<p>Конфликт между RFK Jr. и Makary иллюстрирует фундаментальную проблему институциональной реформы: машина разработана сохранять себя.</p>
+<p>Каждое большое учреждение развивает институциональные интересы отличный из его заявленной миссии. Заявленная миссия FDA — защищать публичное здоровье обеспечивая безопасность и эффективность фармацевтических продуктов. Его институциональный интерес — сохранить его финансирование, его власть, его персонал и его отношения с фармацевтическими компаниями, которые конституируют его нормативный клиентуру.</p>
+<p>Когда заявленная миссия и институциональный интерес отклоняют — как они имеют, экстенсивно и документирована — учреждение будет приоритеты его институциональный интерес. Персонал, кто попытаньте переориентировать учреждение в направлении его заявленной миссии лица сопротивления не просто из индивидуальных неправильных субъектов, но из институциональной структуры себя.</p>
+<p>Это почему попытки реформы, которые полагаются на назначение "правильных люде" к позициям вождения последовательно терпят неудачу. Правильные люде размещены в структуру разработанную развращать их, ограничить их или изгнать их. Структура себя должна быть изменена — финансирование модель, правовые власти, защиты персонала и институциональные стимулы, которые делают захват неизбежный.</p>
+<p>Kingston написал: "FDA не может быть реформирован сменой его Commissioner. Это может только быть реформирован изменяя его структура — устранением фармацевтического пользователя платежа финансирования, запрещением вращающийся дверной занятости между FDA и фармацевтической индустрией, установлением независимых советов обзора безопасности вне авторитета FDA и удалением роли FDA в определении, какие продукты мандатированы для популяции. Любое меньшее — театр."</p>
+<hr>
+<h2 id="пророческий-паттерн">Пророческий Паттерн</h2>
+<blockquote>
+<p>"Никто не может служить двум господам: ибо или одного будет ненавидеть, а другого любить; или одному будет отдан предпочтение, а другого презирать. Не можете служить Богу и мамоне." — Матфей 6:24</p>
+</blockquote>
+<p>Конфликт между RFK Jr. и Makary — в его корне — конфликт хозяев. Программа реформы RFK Jr. служит заявленной миссии FDA — защищение публики из фармацевтического повреждения. Действия Makary, ли через личное убеждение или институциональное давление, служили институциональный интерес — защищение отношения FDA с фармацевтическим учреждением.</p>
+<p>Никто не может служить обе хозяева. FDA не может одновременно защищать публику из фармацевтического повреждения и зависит от фармацевтического учреждения для его финансирования, его персонала трубопровода и его институциональной личности. Попытка служить оба производит точно то Писание предсказывает: нестабильность, duplicity и предательство.</p>
+<hr>
+<h2 id="the-warning-of-1-samuel-8">The Warning of 1 Samuel 8</h2>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всём, что они говорят тебе, ибо не тебя они отвергли, но Меня отвергли, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Samuel 8 отозвало через каждый коридор правительства сегодня. Когда Израиль требовал король подобно другим нациям, Бог предупредил их точно то, что будет происходить — их сыновья взятые для войны, их дочери для услуги, их области и виноградники захватывали, десятая из всего конфисковано. Они выбрали человеческое правительство более Боговского правления и тирания последовала точно как обещано. Ничего не изменилось. Современная политическая система — два крыла той же птицы — влево и вправо, Республиканец и Демократ — всё служение то же скрытой структуре власти. Голосование для любой стороны — выбирающий, какое крыло взмахивает далее, пока птица летит в той же направлении. Реальная власть никогда была на каком-либо биллюте.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>Отчёты о действиях FDA Commissioner и HHS внутренние коммуникации</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Анализ Karen Kingston FDA институциональный захват, пользовательский модель финансирования платежей и требования структурной реформы</p>
+</li>
+<li>
+<p>Prescription Drug User Fee Act (PDUFA) — FDA.gov</p>
+</li>
+<li>
+<p>FDA бюджет — Пользовательский платежный доход и appropriations разбивка</p>
+</li>
+<li>
+<p>James 1:8, Matthew 6:24 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте Больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство Ближневосточного Опыта Говарда Питтмана — Предупреждение об Окончании Времён, Которое Дал Ему Бог</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католические Секреты: Раскрытые Отвратительные Тайны Иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что Может Быть в Подвале Ватикана Может Вас Шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте Во Время Чтения</h2>
+<p>Эти треки от ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> — Институциональные системы наблюдения нейтрализующие угрозы реформы</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/151-One_Nation_Under_Blackmail.mp4">One Nation Under Blackmail</a> — Скомпрометированные индивиды внутри аппарата реформы</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/211-Total_Information_Awareness.mp4">Total Information Awareness</a> — Институциональный сбор разведки защищение укоренённых интересов</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">Враг Внутри</a> — Предательство из внутренний круг</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/09-Satans_Disguise.mp4">Маскировка Сатаны</a> — Реформа credentials скрывающие институциональную верность</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте Дальше</h2>
+<ul>
+<li><a href="/rfk-cleans-house-cdc/?lang=ru">RFK Jr. Чистые Дома в CDC</a> — Параллель попытки реформы в CDC</li>
+<li><a href="/medical-associations-sue-rfk/?lang=ru">6 Медицинские Ассоциации Sue RFK Jr. и HHS Leaders</a> — Внешняя институциональная сопротивления к реформе</li>
+<li><a href="/hhs-maha-transformation/?lang=ru">HHS Объявляет MAHA Преобразование Здравоохранения</a> — Видение Makary якобы подорвал</li>
+<li><a href="/trump-freezes-nih-grants/?lang=ru">Trump Зависает NIH Одобрения и Гранты Исследования</a> — Более широкая федеральная агентство здравоохранения реформа</li>
+</ul>
+<hr>
+<p><em>Иуда сидел в столе. Он сломал хлеб с Хозяином. Он нёс кошель. И когда момент прибыл, он выбрал серебро более верности. FDA Commissioner занял позицию доверия в администрации реформы, нёс власть офиса и — согласно отчётам — выбрал институциональный интерес более мандата реформы. "Ибо нет ничего скрытого, что не открылось бы; и ничего тайного, что не было бы узнано" (Matthew 10:26). Двойственность была раскрыта. Вопрос сейчас — ли администрация будет адресовать структурные условия, которые делают такое предательство неизбежным — или просто заменить одного скомпрометированного индивида с другим, кто будет лицо те же давления и то же искушение.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"FDA Commissioner Makary Пошёл Позади RFK Jr.'s Back"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"FDA Commissioner Marty Makary якобы действовал против директив HHS Secretary RFK Jr., разоблачающих разломы внутри программы реформы здоровья администрации."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-17T10:00:00Z","children":"17 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","FDA",{"href":"/ru/tag/FDA/","className":"tag-pill","children":["#","FDA"]}],["$","a","Makary",{"href":"/ru/tag/Makary/","className":"tag-pill","children":["#","Makary"]}],["$","a","RFK-Jr",{"href":"/ru/tag/RFK-Jr/","className":"tag-pill","children":["#","RFK-Jr"]}],["$","a","HHS",{"href":"/ru/tag/HHS/","className":"tag-pill","children":["#","HHS"]}],["$","a","internal-conflict",{"href":"/ru/tag/internal-conflict/","className":"tag-pill","children":["#","internal-conflict"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/fda-commissioner-behind-rfk-back/","title":"FDA Commissioner Makary Пошёл Позади RFK Jr.'s Back"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/fda-commissioner-behind-rfk-back/","title":"FDA Commissioner Makary Пошёл Позади RFK Jr.'s Back"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"FDA Commissioner Makary Пошёл Позади RFK Jr.'s Back | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"FDA Commissioner Marty Makary якобы действовал против директив HHS Secretary RFK Jr., разоблачающих разломы внутри программы реформы здоровья администрации."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"FDA, Makary, RFK-Jr, HHS, internal-conflict"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/fda-commissioner-behind-rfk-back/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/fda-commissioner-behind-rfk-back/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/fda-commissioner-behind-rfk-back/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/fda-commissioner-behind-rfk-back/"}],["$","meta","10",{"property":"og:title","content":"FDA Commissioner Makary Пошёл Позади RFK Jr.'s Back"}],["$","meta","11",{"property":"og:description","content":"FDA Commissioner Marty Makary якобы действовал против директив HHS Secretary RFK Jr., разоблачающих разломы внутри программы реформы здоровья администрации."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/fda-commissioner-behind-rfk-back/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/fda-commissioner-behind-rfk-back.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"FDA Commissioner Makary Пошёл Позади RFK Jr.'s Back"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"FDA Commissioner Makary Пошёл Позади RFK Jr.'s Back"}],["$","meta","25",{"name":"twitter:description","content":"FDA Commissioner Marty Makary якобы действовал против директив HHS Secretary RFK Jr., разоблачающих разломы внутри программы реформы здоровья администрации."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/fda-commissioner-behind-rfk-back.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","mandatory-digital-id-mexico",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","mandatory-digital-id-mexico","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mandatory-digital-id-mexico","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T6090,<h1 id="обязательный-цифровой-id-для-всех-граждан-начинается-в-мексике">Обязательный цифровой ID для всех граждан начинается в Мексике</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"И он с маленькие свои и с велики, с богаты и с бедны, с свободны и с рабы, положил на них знак на право рук их или на лбы их," — Откровение 13:16</p>
+</blockquote>
+<p>Знак Зверя — это фундаментально система идентификации. Это не просто механизм платежа или значок лояльности. Это идентификатор — знак, имя, число — который определяет, может ли человек участвовать в обществе. Без него, вы исключены. С ним, вы включены. Знак не просто отслеживает транзакции. Он определяет, кто вы есть в системе. Без признания системы, вы не существуете.</p>
+<p>Мексика начала внедрять обязательную биометрическую цифровую идентификацию для всех граждан. Каждый человек — от новорождённого до пожилого — должны быть зарегистрированы в централизованной базе цифровой идентификации, которая связывает биометрические данные (отпечатки пальцев, сканы радужки, распознавание лица) с уникальным цифровым идентификатором. Этот идентификатор становится воротами к государственным услугам, банкингу, здравоохранению, образованию, занятости, путешествиям и в конце концов, каждой транзакции и взаимодействию в мексиканском обществе.</p>
+<p>Это не знак Зверя. Но это инфраструктура знака. Это слой идентичности, на который будет помещён знак. Без этой инфраструктуры, Откровение 13 логистически невозможно. С ней, Откровение 13 логистически тривиально.</p>
+<p>Как альбом Confliction трек <a href="https://confliction.zzzdaily.com/tracks/ru/13-The_Word_of_God.mp4">The Word of God</a> подтверждает, слово Бога идентифицирует его людей по их вере, не по их биометрии. Пастух знает его овец по имени — не по сканированию радужки. <a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">The Overcoming</a> напоминает нам, что те, кто преодолевает, идентифицируются кровью Ягнёнка, не цифровым сертификатом.</p>
+<hr>
+<h2 id="что-мексика-внедряет">Что Мексика внедряет</h2>
+<h3 id="система-curp-цифровой-идентификации">Система CURP цифровой идентификации</h3>
+<p>Существующая система идентификации Мексики, Clave Unica de Registro de Poblacion (CURP), расширяется из простого буквенно-цифрового кода в всеобъемлющую биометрическую цифровую идентификацию. Улучшенная система — предписанная через федеральное законодательство — требует:</p>
+<ul>
+<li><strong>Биометрическая регистрация для всех граждан.</strong> Отпечатки пальцев, сканы радужки и лицевые фотографии, захваченные в центрах регистрации и сохранённые в централизованной федеральной базе.</li>
+<li><strong>Уникальный цифровой идентификатор.</strong> Каждый гражданин получает единственный, непередаваемый цифровой идентификатор, связанный с их биометрическими данными, создавая однозначное соответствие между физическим человеком и его цифровым профилем.</li>
+<li><strong>Обязательное участие.</strong> В отличие от предыдущих систем, где регистрация была технически опциональной (хотя функционально необходима для многих услуг), новый цифровой ID юридически обязателен для всех граждан и законных жителей.</li>
+<li><strong>Интеграция по государственным услугам.</strong> Цифровой ID становится единственным методом аутентификации для доступа к государственным пособиям, здравоохранению, образованию, налоговому декларированию, голосованию и правовым разбирательствам.</li>
+<li><strong>Интеграция банкинга.</strong> Финансовые учреждения требуют проверить идентификацию клиента через систему биометрического цифрового ID, связывая каждый банковский счёт, кредит и финансовую операцию с централизованным идентификатором.</li>
+</ul>
+<h3 id="график">График</h3>
+<p>Реализация Мексики следует агрессивному графику:</p>
+<ul>
+<li><strong>Фаза 1: Регистрация взрослых.</strong> Все взрослые требуют регистрировать биометрические данные и получить цифровые ID в период начального развёртывания.</li>
+<li><strong>Фаза 2: Регистрация несовершеннолетних.</strong> Дети регистрируются при рождении, с биометрическими данными (следы стоп изначально, отпечатки пальцев и лицевые данные обновлены, когда они растут) связанные с цифровыми ID их родителей.</li>
+<li><strong>Фаза 3: Полная интеграция.</strong> Все государственные услуги, финансовые операции, доступ здравоохранения и образовательное зачисление требуют аутентификации цифрового ID. Участие в обществе без цифрового ID становится функционально невозможным.</li>
+</ul>
+<hr>
+<h2 id="глобальный-паттерн-мексика-не-одна">Глобальный паттерн: Мексика не одна</h2>
+<p>Обязательный цифровой ID Мексики не существует изолированно. Это часть координированного глобального движения к универсальной биометрической цифровой идентификации, продвигаемой и финансируемой теми же учреждениями в каждой нации:</p>
+<h3 id="индия-aadhaar">Индия: Aadhaar</h3>
+<p>Система Aadhaar Индии, запущенная в 2009, является крупнейшей в мире программой биометрического ID, охватывающей более 1,3 миллиарда человек. Она связывает отпечатки пальцев, сканы радужки и лицевые фотографии с уникальным 12-значным номером. Aadhaar теперь требуется для банковских счётов, государственных пособий, телефонной услуги, налогового декларирования и расширяющегося списка частных услуг. Модель Индии — шаблон, который другие нации следуют.</p>
+<h3 id="европейский-союз-eidas-20">Европейский союз: eIDAS 2.0</h3>
+<p>Переработанное электронное регулирование идентификации ЕС предписывает, что все государства-члены предоставляют своим гражданам кошельки цифровой идентификации к 2026. Эти кошельки будут хранить учетные данные идентификации, лицензии на вождение, медицинские записи и образовательные сертификаты — создавая единую цифровую идентификацию, доступную в 27 странах.</p>
+<h3 id="африка-толчок-к-континентальному-цифровому-id">Африка: Толчок к континентальному цифровому ID</h3>
+<p>Африканский Союз, поддерживаемый инициативой Всемирного Банка "Identification for Development" (ID4D), внедряет программы цифрового ID по всему континенту. Нигерия, Кения, Эфиопия и десятки других нации находятся на различных этапах биометрической регистрации.</p>
+<h3 id="инициатива-id4d-всемирного-банка">Инициатива ID4D Всемирного Банка</h3>
+<p>Программа ID4D Всемирного Банка явно направлена на "правовую идентичность для всех" к 2030 — Цель устойчивого развития 16.9. Программа предоставляет финансирование, техническую поддержку и рекомендации политики странам, внедряющим системы биометрического цифрового ID. Это не органичное, развитие по нациям. Это координированная глобальная инициатива с централизованным финансированием и стандартизированными требованиями.</p>
+<hr>
+<h2 id="инфраструктура-знака">Инфраструктура знака</h2>
+<h3 id="как-цифровой-id-становится-знаком">Как цифровой ID становится знаком</h3>
+<p>Переход от цифрового ID к знаку Зверя требует только несколько дополнительных шагов, все из которых уже находятся в разработке:</p>
+<ol>
+<li>
+<p><strong>Связать цифровой ID с центральной цифровой валютой банка (CBDC).</strong> Когда все финансовые операции требуют аутентификацию цифрового ID, и вся валюта цифровая и программируемая, цифровой ID становится воротами к экономическому участию. Это Откровение 13:17 в технических терминах: никто не может покупать или продавать без идентификатора.</p>
+</li>
+<li>
+<p><strong>Связать цифровой ID со статусом здоровья.</strong> COVID-19 продемонстрировал концепцию: паспорта вакцины связали статус здоровья с доступом. Системы цифрового ID делают это постоянным — ваше соответствие здоровью (вакцинация, лекарства, генетическое скрининг) определяет ваш доступ к услугам.</p>
+</li>
+<li>
+<p><strong>Связать цифровой ID с социальным соответствием.</strong> Система социального кредита Китая демонстрирует модель: оценка поведения, связанная с цифровой идентификацией, определяет доступ к путешествиям, кредиту, образованию и занятости.</p>
+</li>
+<li>
+<p><strong>Сделать цифровой ID биологически интегрированным.</strong> Переход от ID на основе карты или телефона к биологически интегрированному ID (подкожный чип, мезогеновый микрочип или структура на основе наноструктур) завершает знак. Идентификатор больше не то, что вы носите. Это то, что вы есть.</p>
+</li>
+</ol>
+<p>Каждый шаг независимо оправдан. Каждый шаг инкрементально введён. И каждый шаг приносит систему ближе к полной инфраструктуре, описанной в Откровении 13.</p>
+<hr>
+<h2 id="др-ана-михалча-биологический-слой-id">Др. Ана Михалча: Биологический слой ID</h2>
+<p>Ана Мария Михалча, доктор медицины, доктор философии, задокументировала на своём Substack (anamihalceamdphd.substack.com) доказательства того, что биологическая идентификация может уже быть в развёртывании. MAC-адреса Bluetooth, обнаруженные от человеческих субъектов — уникальные цифровые идентификаторы, передаваемые изнутри тела — представляют слой биологического ID, который работает без какого-либо карты, телефона или внешнего устройства.</p>
+<p>Если самоорганизующиеся наноструктуры в крови функционируют как беспроводные транспондеры, каждый с уникальным идентификатором, тогда каждый человек, несущий эти структуры, уже биологически обозначена. Системы обязательного цифрового ID, внедряемые по всему миру, — это административная основа. Биологический ID — развёрнутый через инъекцию, атмосферный или другие векторы — это оборудование.</p>
+<hr>
+<h2 id="твёрдое-небо-и-глобальная-сетка-id">Твёрдое небо и глобальная сетка ID</h2>
+<p>Под твёрдым небом — твёрдым куполом Бытия 1:6-8 — земля — это замкнутая система. Глобальная сетка цифрового ID, охватывающая всё население, достижима в границах ограниченной среды так, как это может быть на бесконечной плоскости. Каждый человек под куполом может быть перечислен, идентифицирован и отследён. Купол обеспечивает физическую границу. Цифровой ID обеспечивает информационную границу. Вместе, они создают полную идентификацию — каждый человек, каждое место, каждая операция, под куполом и в базе.</p>
+<p>Солнце, луна и звёзды движутся в своих курсах выше твёрдого неба, следуя изношенным бороздкам как иглы на кристальном проигрывателе. Ниже твёрдого неба, человеческим существам теперь назначены цифровые идентификаторы, которые отслеживают их с той же механической точностью. Небесные тела имеют свои курсы. Люди теперь имеют их номера. И оба движутся в системе полного содержания.</p>
+<hr>
+<h2 id="что-вы-можете-сделать">Что вы можете сделать</h2>
+<ol>
+<li><strong>Поймите глобальный паттерн.</strong> Мексика — один узел в всемирной сети. Цифровой ID внедряется везде, одновременно, через координированные международные программы.</li>
+<li><strong>Отложить регистрацию где возможно.</strong> В юрисдикциях, где цифровой ID ещё не обязателен, сопротивляться ранний принятием. Однажды зарегистрированный, извлечение чрезвычайно трудно.</li>
+<li><strong>Сохранять аналоговую документацию идентификации.</strong> Физические документы — свидетельства о рождении, паспорта, бумажные записи — обеспечивают верификацию идентификации вне цифровой системы.</li>
+<li><strong>Использовать наличные.</strong> Наличные операции не требуют аутентификации цифрового ID. Поскольку системы цифрового платежа расширяются, использование наличности становится актом сопротивления.</li>
+<li><strong>Помните вашу истинную идентификацию.</strong> "А тем, которые приняли его, дал он власть быть чадами Божиими, верующим во имя его" (Иоанна 1:12). Ваша идентификация — в Христе, не в базе данных.</li>
+</ol>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/49-Smart_City_Prison.mp4">Smart City Prison</a> -- Город как контролируемая зона идентификации</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/471-Beast_System_Bluetooth.mp4">Beast System Bluetooth</a> -- Беспроводная инфраструктура идентификации</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a> -- Биологическое измерение цифровой идентификации</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/469-Antichrist_Algorithm.mp4">Antichrist Algorithm</a> -- Алгоритм, который решает, кто участвует</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/13-The_Word_of_God.mp4">The Word of God</a> -- Истинная идентификация приходит от слова, не системы</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">The Overcoming</a> -- Преодоление системы через кровь Ягнёнка</li>
+</ul>
+<h2 id="изучите-дальше">Изучите дальше</h2>
+<ul>
+<li><a href="/biometric-digital-id-expansion/?lang=ru">Biometric National Digital ID Expansion Sweeps the Globe</a> -- Всемирное движение цифрового ID</li>
+<li><a href="/smart-big-brother-privacy/?lang=ru">Privacy Is History: SMART Big Brother Is Already Here</a> -- Государство надзора, которое позволяет цифровой ID</li>
+<li><a href="/us-omniverse-under-ai/?lang=ru">Are You Ready For The US Omniverse Under AI Governance</a> -- Рамки управления AI, построенные на цифровой идентификации</li>
+<li><a href="/agenda-2030-un-global-governance/?lang=ru">Agenda 2030: The UN Blueprint for Global Governance</a> -- Международная рамка, предписывающая цифровой ID для всех</li>
+</ul>
+<hr>
+<p><em>Мексика даёт каждому гражданину номер. Индия даёт каждому гражданину номер. Европейский Союз даёт каждому гражданину номер. Африка даёт каждому гражданину номер. Всемирный Банк финансирует систему. Объединённые Нации предписывают цель: правовая идентификация для всех к 2030. "И он делает всем, и мало, и велики, и богаты, и бедны, и свободны и рабы, положить знак на них" (Откровение 13:16). Все. Не некоторые. Не готовые. Все. Обязательный цифровой ID — это всё — универсальное требование, которое не оставляет никого неидентифицированным, никого без номера, никого вне системы. Но Бог считает своих людей по-другому. "Господь знает, которые его" (2 Тимофею 2:19). Он знает их не по сканированию радужки, отпечатку пальца или цифровому сертификату. Он знает их по крови Ягнёнка. И та идентификация — написанная не в базе данных, но в Книге Жизни — не может быть отозвана, не может быть взломана и не может быть предписана никакой правительством на земле.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Обязательный цифровой ID для всех граждан начинается в Мексике"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Мексика внедряет обязательную биометрическую цифровую идентификацию для всех граждан, присоединяясь к глобальной волне систем цифрового ID, которые формируют инфраструктуру полного контроля население."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-11T10:00:00Z","children":"11 февраля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","digital-id",{"href":"/ru/tag/digital-id/","className":"tag-pill","children":["#","digital-id"]}],["$","a","biometrics",{"href":"/ru/tag/biometrics/","className":"tag-pill","children":["#","biometrics"]}],["$","a","Mexico",{"href":"/ru/tag/Mexico/","className":"tag-pill","children":["#","Mexico"]}],["$","a","surveillance",{"href":"/ru/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}],["$","a","population-control",{"href":"/ru/tag/population-control/","className":"tag-pill","children":["#","population-control"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/mandatory-digital-id-mexico/","title":"Обязательный цифровой ID для всех граждан начинается в Мексике"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/mandatory-digital-id-mexico/","title":"Обязательный цифровой ID для всех граждан начинается в Мексике"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Обязательный цифровой ID для всех граждан начинается в Мексике | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Мексика внедряет обязательную биометрическую цифровую идентификацию для всех граждан, присоединяясь к глобальной волне систем цифрового ID, которые формируют инфраструктуру полного контроля население."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"digital-id, biometrics, Mexico, surveillance, population-control"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/mandatory-digital-id-mexico/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/mandatory-digital-id-mexico/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/mandatory-digital-id-mexico/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/mandatory-digital-id-mexico/"}],["$","meta","10",{"property":"og:title","content":"Обязательный цифровой ID для всех граждан начинается в Мексике"}],["$","meta","11",{"property":"og:description","content":"Мексика внедряет обязательную биометрическую цифровую идентификацию для всех граждан, присоединяясь к глобальной волне систем цифрового ID, которые формируют инфраструктуру полного контроля население."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/mandatory-digital-id-mexico/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/mandatory-digital-id-mexico.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Обязательный цифровой ID для всех граждан начинается в Мексике"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Обязательный цифровой ID для всех граждан начинается в Мексике"}],["$","meta","25",{"name":"twitter:description","content":"Мексика внедряет обязательную биометрическую цифровую идентификацию для всех граждан, присоединяясь к глобальной волне систем цифрового ID, которые формируют инфраструктуру полного контроля население."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/mandatory-digital-id-mexico.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","militarized-weather-warfare",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","militarized-weather-warfare","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","militarized-weather-warfare","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5483,<h1 id="милитаризованная-погодная-война-в-действии-доказательства">Милитаризованная погодная война в действии: доказательства</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Он посылает слово Своё на землю; с большею скоростью бежит слово Его. Он дарует снег, как шерсть, разсыпает иней, как пепел. Мёрзлые капли Его, как крошки хлеба; кто может выдержать Его мороз?" — Псалтирь 147:15-17</p>
+</blockquote>
+<p>Погода принадлежит Богу. Он посылает дождь. Он направляет ветер. Он мёрзлые капли выбрасывает. Сезоны, штормы, засухи и урожаи находятся под Его суверенным командованием. Вооружить погоду — это попытка захватить атрибут божественного суверенитета — взять контроль над тем, что Бог командует, и направить его против населений, которые Бог поддерживает.</p>
+<p>Милитаризованная погодная война — это не теория заговора. Это задокументированная военная способность, финансируемая оборонными бюджетами, разрабатываемая в военных лабораториях и развёртываемая в военных операциях. Доказательства, представленные в этой статье, извлечены из рассекреченных военных документов, записей Конгресса и экологических исследований, которые демонстрируют вне разумного сомнения, что погода была вооружена.</p>
+<p>Как <a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">Проклятие Змея</a> из альбома Confliction объявляет, проклятие на земле распространяется на небо. И как <a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">Падшие Ангелы</a> предупреждает, запрещённое знание, преподанное Наблюдателями, включало манипуляцию естественными системами.</p>
+<hr>
+<h2 id="задокументированная-история">Задокументированная история</h2>
+<h3 id="операция-попай-1967-1972">Операция Попай (1967-1972)</h3>
+<p>Самая полностью задокументированная программа погодной войны в истории США — это "Операция Попай" — операция посева облаков, проведённая над Вьетнамом, Лаосом и Камбоджей во время войны во Вьетнаме. Целью операции было расширить сезон муссонов, смягчив поверхности дорог и вызвав оползни для нарушения линий снабжения противника вдоль Тропы Хо Ши Миня.</p>
+<p>"Операция Попай" включала:</p>
+<ul>
+<li>Самолёты C-130, оборудованные посевными аэрозолями облаков</li>
+<li>Йодид серебра и йодид свинца, посевные агенты</li>
+<li>Более 2600 полётов посева облаков на протяжении пяти лет</li>
+<li>Задокументированные увеличения осадков на 30% или более в целевых областях</li>
+</ul>
+<p>Операция была классифицирована до тех пор, пока исследовательский журналист Джек Андерсон не разоблачил её в 1971 году. Последовало расследование Конгресса, и операция была цитирована как основная мотивация для Конвенции по изменению окружающей среды (ENMOD) 1978 года, которая запрещает военное использование методов изменения окружающей среды.</p>
+<p>Однако ENMOD содержит пробелы, которые исключают "мирное" изменение окружающей среды, и механизмы обеспечения в основном отсутствуют. Договор запрещает погодную войну по названию, пока способность продолжает разрабатываться и развёртываться.</p>
+<h3 id="погода-как-множитель-силы-владеть-погодой-в-2025">"Погода как множитель силы: владеть погодой в 2025"</h3>
+<p>В 1996 году ВВС США опубликовали исследовательский документ под названием "Погода как множитель силы: владеть погодой в 2025", который описал видение военных на возможности контроля погоды. Бумага предложила:</p>
+<ul>
+<li><strong>Улучшение осадков и отказ</strong> — управление местом, где идёт дождь, и местом, где он не идёт</li>
+<li><strong>Улучшение бури и модификация</strong> — интенсификация или переадресация штормов для тактического преимущества</li>
+<li><strong>Манипуляция туманом и облаком</strong> — создание или очистка тумана и облаков для пользы военных операций</li>
+<li><strong>Модификация космической погоды</strong> — манипуляция ионосферой и магнитосферой</li>
+</ul>
+<p>Бумага пришла к заключению, что "Соединённые Штаты должны инвестировать в технологию для 'владения' погодой к 2025" и что модификация погоды предлагает "огромную силу, которая может быть эксплуатирована на всём спектре боевой среды."</p>
+<h3 id="haarp-и-манипуляция-ионосферой">HAARP и манипуляция ионосферой</h3>
+<p>Программа активного аврорального исследования высокочастотной (HAARP), расположенная в Гаконе, Аляске, является исследовательским учреждением ионосферы, которое передаёт высокомощные радиоволны в ионосферу. Хотя официально описывается как исследовательская программа для изучения ионосферы, возможности HAARP включают:</p>
+<ul>
+<li>Нагревание определённых областей ионосферы для модификации её электрических свойств</li>
+<li>Создание искусственных магнитных нарушений</li>
+<li>Генерирование чрезвычайно низкочастотных (ELF) сигналов, которые распространяются через землю и океан</li>
+<li>Модификация атмосферных условий, которые влияют на модели погоды</li>
+</ul>
+<p>Связь между ионосферным нагреванием и поверхностной погодой задокументирована в атмосферной науке. Ионосфера влияет на реактивный ток, и реактивный ток управляет поверхностными модели погоды. Путём модификации ионосферы, HAARP может потенциально переадресовать реактивный ток, создавая засухи в одном регионе и наводнения в другом.</p>
+<h2 id="текущие-операции">Текущие операции</h2>
+<h3 id="инженерия-засухи">Инженерия засухи</h3>
+<p>Множество регионов по всему миру испытали беспрецедентные условия засухи, которые коррелируют с паттернами манипуляции атмосферой:</p>
+<ul>
+<li>Стойкие хребты высокого давления, которые блокируют системы, переносящие влагу (согласованно с ионосферным нагреванием, создающим стойкие атмосферные блоки)</li>
+<li>Внезапные переходы от засухи к наводнению (согласованно с выпуском атмосферных блоков)</li>
+<li>Засушливые паттерны, которые выравниваются с геополитическими целями (нехватка воды как инструмент экономического давления)</li>
+</ul>
+<h3 id="направленная-энергия-и-пожар">Направленная энергия и пожар</h3>
+<p>Связь между оружиями направленной энергии и возгоранием лесного пожара стала всё более задокументирована:</p>
+<ul>
+<li>Пожары, которые начинаются одновременно в множестве местоположений без природного источника воспламенения</li>
+<li>Пожары, которые сгорают с температурами и паттернами неконсистентно с естественным поведением лесного пожара</li>
+<li>Избирательное разрушение — дома разрушены, пока соседние деревья остаются стоящими</li>
+<li>Металлический остаток в сайтах огня согласованный с горением, подобным термиту</li>
+<li>Лазер-подобная точность в паттернах разрушения</li>
+</ul>
+<p>Сходимость инженерии засухи (отрицание дождя) и возгорания направленной энергией (начало огня в подготовленных областях) создаёт систему погодной войны, которая может опустошить любой регион: первый, отрицает ему дождь; затем, установи его на огонь. Результат кажется "естественным" неинформированному наблюдателю, но в действительности является скоординированной атакой.</p>
+<p>Анна Михалча, доктор медицины, PhD, соединила на своём Substack (anamihalceamdphd.substack.com) атмосферное металлическое загрязнение от геоинженерии с увеличенной воспламеняемостью растительности. Наночастицы алюминия, отложенные на растительности через атмосферное распыление, увеличивают горючесть растительного материала, преобразуя леса в трутовые коробки, которые оружия направленной энергии могут зажечь.</p>
+<h3 id="манипуляция-ураганом-и-штормом">Манипуляция ураганом и штормом</h3>
+<p>Исследование модификации урагана было проведено с Проекта Stormfury (1962-1983), и подозревается, что современные способности включают:</p>
+<ul>
+<li>Руководство ураганами путём модификации дифференциалов атмосферного давления через ионосферное нагревание</li>
+<li>Интенсификация или ослабление штормов путём модификации температур поверхности моря через океаническое распыление</li>
+<li>Создание или рассеивание систем облаков через операции посева на крупномасштабе</li>
+</ul>
+<p>Способность направлять ураган к определённой цели — городу, прибрежной инфраструктуре, сельскохозяйственному региону — представляет оружие массового разрушения, которое производит повреждение "естественного бедствия," неотличимое от акта Божия.</p>
+<h2 id="пророческий-размер">Пророческий размер</h2>
+<h3 id="кто-командует-погодой">Кто командует погодой?</h3>
+<p>Писание многократно атрибутирует погоду прямому Божественному командованию:</p>
+<ul>
+<li>"Он повелевает солнцу восходить над злыми и добрыми, и посылает дождь на праведных и неправедных" (Матфей 5:45)</li>
+<li>"Огонь, град, снег, и дымная пара, урагановый ветер, исполняющий Его слово" (Псалтирь 148:8)</li>
+<li>Иисус "укоризнял ветер и сказал морю: молчи, утихни" (Марк 4:39)</li>
+</ul>
+<p>Милитаризация погоды — это попытка захватить божественный авторитет над элементами. Это технологический эквивалент объявления: "Мы, а не Бог, будем решать, где идёт дождь, где оно горит и где оно замёрзнет." Это прямой вызов божественному суверенитету — тот же вызов, который Люцифер сделал, когда объявил: "Я буду как Всевышний."</p>
+<p>Под куполом твердежи, вся погода происходит в пределах пространства Бога определён. Дожди падают в пределах купола. Ветры дуют в пределах купола. И погодная война, проведённая военными учреждениями, работает в пределах купола — под Божественным авторитетом, признавают они её или нет. Купол удерживает. Божественный суверенитет над погодой длится. И оружия погодной войны, подобно всем оружиям, сформированным против Его людей, в конечном счёте не будут преуспевать.</p>
+<h2 id="ссылки-на-источники">Ссылки на источники</h2>
+<ul>
+<li>U.S. Senate, "Weather Modification: Programs, Problems, Policy, and Potential," 1978</li>
+<li>U.S. Air Force, "Weather As a Force Multiplier: Owning the Weather in 2025," 1996</li>
+<li>Environmental Modification Convention (ENMOD), United Nations, 1978</li>
+<li>Project Stormfury documentation, NOAA</li>
+<li>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, atmospheric contamination and flammability analysis</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Flat Earth, Science, and NASA — Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZR296RWS0yM&#x26;list=PLm6Vq0bTTCDiPIX2ItdQTQGX7mXQXBxoV">NASA and Space — The Greatest Deception Documentary Playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-пока-читаете">Слушайте, пока читаете</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/351-Broken_Weather.mp4">Broken Weather</a> — Инженерная погода, разрушающая естественные паттерны</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/31-DEW_In_The_Street.mp4">DEW In The Street</a> — Оружия направленной энергии в окружающей среде</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/305-Fire_From_The_Sky.mp4">Fire From The Sky</a> — Огонь, спускающийся с вооруженных небес</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/293-Arrows_In_The_Sky.mp4">Arrows In The Sky</a> — Атмосферное оружие, нацеливающееся на землю</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpents Curse</a> — Проклятие, расширяющееся на небо</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> — Запрещённое знание манипуляции погодой</li>
+</ul>
+<h2 id="исследуйте-глубже">Исследуйте глубже</h2>
+<ul>
+<li><a href="/geoengineering-mitigation-experiment/?lang=ru">Worldwide Geoengineering Mitigation Intention Experiment</a> — Борьба с манипуляцией атмосферой</li>
+<li><a href="/international-panel-geoengineering/?lang=ru">The 1st International Panel on Geoengineering Reveals Agenda</a> — Институциональная рамка для контроля погоды</li>
+<li><a href="/rfk-poisoned-geoengineering/?lang=ru">RFK Confirmed Poisoned Via Geoengineering Exposure</a> — Эффекты здоровья атмосферного загрязнения</li>
+</ul>
+<hr>
+<p><em>Погода принадлежит Богу. Он посылает дождь. Он командует ветром. Он устанавливает границы морей. Военные учреждения, которые вооружили погоду, нарушают божественную территорию — захватывают то, что Бог командует, и направляют его против Его людей. Но Бог, который командует штормом, не смещён йодидом серебра. Он не переигран ионосферными обогревателями. Он не превышен HAARP. Когда Иисус встал в лодку и сказал "Мир, будь тишина," ветер и волны повиновались. Никакая военная программа не имеет этого авторитета. Никакое оружие погоды не имеет этого силы. И Бог, который успокаивает шторм, всё успокоит оружия, которые развратили Его погоду — в Его время, Его словом и с финальностью, которую только Создатель элементов может принести.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/food-environment/","className":"category-badge","children":"food-environment"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Милитаризованная погодная война в действии: доказательства"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Задокументированное доказательство милитаризованной погодной войны, включая посев облаков, манипуляцию ураганами, инженерию засухи и возгорание лесных пожаров направленной энергией."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-06T10:00:00Z","children":"6 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","weather-warfare",{"href":"/ru/tag/weather-warfare/","className":"tag-pill","children":["#","weather-warfare"]}],["$","a","military",{"href":"/ru/tag/military/","className":"tag-pill","children":["#","military"]}],["$","a","cloud-seeding",{"href":"/ru/tag/cloud-seeding/","className":"tag-pill","children":["#","cloud-seeding"]}],["$","a","geoengineering",{"href":"/ru/tag/geoengineering/","className":"tag-pill","children":["#","geoengineering"]}],["$","a","dew",{"href":"/ru/tag/dew/","className":"tag-pill","children":["#","dew"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/militarized-weather-warfare/","title":"Милитаризованная погодная война в действии: доказательства"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/militarized-weather-warfare/","title":"Милитаризованная погодная война в действии: доказательства"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Милитаризованная погодная война в действии: доказательства | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Задокументированное доказательство милитаризованной погодной войны, включая посев облаков, манипуляцию ураганами, инженерию засухи и возгорание лесных пожаров направленной энергией."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"weather-warfare, military, cloud-seeding, geoengineering, dew"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/militarized-weather-warfare/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/militarized-weather-warfare/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/militarized-weather-warfare/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/militarized-weather-warfare/"}],["$","meta","10",{"property":"og:title","content":"Милитаризованная погодная война в действии: доказательства"}],["$","meta","11",{"property":"og:description","content":"Задокументированное доказательство милитаризованной погодной войны, включая посев облаков, манипуляцию ураганами, инженерию засухи и возгорание лесных пожаров направленной энергией."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/militarized-weather-warfare/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/militarized-weather-warfare.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Милитаризованная погодная война в действии: доказательства"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Милитаризованная погодная война в действии: доказательства"}],["$","meta","25",{"name":"twitter:description","content":"Задокументированное доказательство милитаризованной погодной войны, включая посев облаков, манипуляцию ураганами, инженерию засухи и возгорание лесных пожаров направленной энергией."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/militarized-weather-warfare.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

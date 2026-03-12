@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","pfizer-documents-self-amplifying",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","pfizer-documents-self-amplifying","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pfizer-documents-self-amplifying","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T6251,<h1 id="документы-pfizer-подтверждают-что-прививки-covid-19-содержали-самоусиливающуюся-mrna">Документы Pfizer подтверждают, что прививки COVID-19 содержали самоусиливающуюся mRNA</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Не лги ближнему своему." — Исход 20:16</p>
+</blockquote>
+<p>Девятая заповедь запрещает ложное свидетельство. Когда Pfizer сказала регуляторам, поставщикам медицинских услуг и общественности, что её продукт COVID-19 была обычной вакциной mRNA — продукт, который доставит инструкции, произведет белок и деградирует — она свидетельствовала о том, что было в флаконе. Если это свидетельство было ложным — если продукт содержал самоусиливающиеся компоненты, которые не были раскрыты — то девятая заповедь была нарушена в цивилизационном масштабе. Ложное свидетельство было дано против миллиардов соседей, которые доверили это свидетельство своим телам.</p>
+<p>Еврейское слово для свидетельства, <em>ed</em>, несет вес завета. Свидетель в Израиле стоял перед Богом также как перед людьми. Дать ложное свидетельство было вызвать проклятие завета на себя. Когда фармацевтическая корпорация дает ложное свидетельство о содержимом инъекции, введенной миллиардам, коренантальные последствия пропорциональны масштабу обмана.</p>
+<p>Трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> освещает, как истина, заперта в темноте, в конце концов вырывается на волю. И трек ZZZ Daily <a href="https://zzzdaily.zzzdaily.com/tracks/ru/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a> документирует технологические сигнатуры, которые раскрывают то, что была действительно введена.</p>
+<hr>
+<h2 id="документы-что-pfizer-подала">Документы: Что Pfizer подала</h2>
+<h3 id="выпуск-по-судебному-приказу">Выпуск по судебному приказу</h3>
+<p>В январе 2022 года федеральный судья приказал FDA выпустить документы, которые Pfizer подала в поддержку получения аварийного разрешения на использование вакцины COVID-19 — документы, которые FDA и Pfizer первоначально стремились хранить закрытыми в течение 75 лет. Иск, поданный Public Health and Medical Professionals for Transparency (PHMPT), привел к последовательному выпуску сотен тысяч страниц внутренних документов Pfizer.</p>
+<p>Эти документы содержат информацию, которую Pfizer никогда добровольно не раскрывала общественности — информацию о неблагоприятных событиях, процессах производства и, критически, молекулярном составе продукта.</p>
+<h3 id="патентные-заявки-и-язык-самоусиливающегося">Патентные заявки и язык самоусиливающегося</h3>
+<p>Анализ Карен Кингстон через <a href="https://karenkingston.substack.com">The Kingston Report</a> сосредоточился на патентных заявках Pfizer и BioNTech — документах, поданных в Управление США по патентам и товарным знакам (USPTO) и в международные патентные органы, которые описывают технологию mRNA компании на точном техническом языке.</p>
+<p>Кингстон выявила язык патента, описывающий:</p>
+<p><strong>Элементы самокопирующейся РНК:</strong> Патентные заявки описывают конструкции mRNA, способные к "самокопированию" — язык, соответствующий самоусиливающей технологии mRNA. Патенты описывают конструкции РНК, содержащие последовательности, которые кодируют активность РНК-зависимой РНК-полимеразы (RdRp) — фермента, который копирует РНК и является определяющим признаком самоусиливающей mRNA.</p>
+<p><strong>Последовательности, полученные из алфавируса:</strong> Патенты описывают использование последовательности нестациональных белков, полученных из алфавируса — те же компоненты, используемые в признанных продуктах sa-mRNA, таких как ARCT-154. Эти последовательности образуют репликазный комплекс, который позволяет РНК копировать себя внутри человеческих клеток.</p>
+<p><strong>Модифицированные конструкции нуклеозидов с емкостью репликации:</strong> Язык патента описывает модифицированную РНК нуклеозида (то же технология N1-метилпсевдоуридина, используемая в Comirnaty), объединенная с элементами, которые позволяют РНК усиление — предполагая, что модифицированная mRNA в коммерческом продукте может иметь свойства самоусиливающегося, которые не были раскрыты.</p>
+<p><strong>Липидные формулировки наночастиц, разработанные для самоусиливающихся конструктов:</strong> Патенты описывают формулировки LNP, специально оптимизированные для доставки самоусиливающейся РНК — формулировки, которые сходны или идентичны формулировкам LNP, используемым в коммерческом продукте COVID-19.</p>
+<h3 id="документы-процесса-производства">Документы процесса производства</h3>
+<p>Документы, связанные с процессом производства Pfizer, раскрывают детали, которые вызвали значительное беспокойство: переход от <strong>Процесса 1</strong> к <strong>Процессу 2</strong> во время коммерческого производства.</p>
+<p><strong>Процесс 1</strong> использовалась для клинических испытаний. Он произвел mRNA через транскрипцию in vitro, используя линейный шаблон ДНК — метод высокой точности, который производит относительно чистую mRNA.</p>
+<p><strong>Процесс 2</strong> использовалась для коммерческого производства — продукт, который был фактически введен миллиардам людей. Он использовал метод амплификации бактериальной плазмиды — выращивание шаблона ДНК в бактериях E. coli перед использованием для транскрипции mRNA. Этот метод быстрее и дешевле, но вводит риск контаминации ДНК.</p>
+<p>Контаминация ДНК, обнаруженная Kevin McKernan — включая последовательности промотора SV40 — пришла из Процесса 2. Коммерческий продукт отличался от продукта клинического испытания. Общественность получила продукт, который никогда не был напрямую протестирован в клинических испытаниях по изготовлению.</p>
+<p>Кингстон задокументировала, что метод производства Процесса 2, объединенный с патентными заявками, описывающими самоусиливающихся конструктов, повышает возможность того, что коммерческий продукт содержал элементы самоусиливающегося, которые не были присутствуют в продукте клинического испытания — или были присутствуют, но не раскрыты.</p>
+<hr>
+<h2 id="что-означали-бы-самоусиливающиеся-компоненты">Что означали бы самоусиливающиеся компоненты</h2>
+<h3 id="если-прививки-covid-содержали-sa-mrna">Если прививки COVID содержали sa-mRNA</h3>
+<p>Если продукт COVID-19 от Pfizer содержал компоненты самоусиливающейся mRNA — даже частичные или модифицированные версии технологии sa-mRNA — последствия:</p>
+<p><strong>Миллиарды получали самокопирующихся генетических конструктов без согласия.</strong> Информированное согласие требует раскрытия состава продукта и механизма действия. Если продукт самоусиливается и это не было раскрыто, каждая инъекция была администрирована без действительного согласия.</p>
+<p><strong>Продолжительность производства белка шипа была дольше, чем раскрыто.</strong> Pfizer и CDC сказали общественности, что mRNA будет деградировать в течение дней. Если продукт содержал самоусиливающихся компоненты, производство белка шипа может продолжаться в течение недель или месяцев — объясняя задокументированное присутствие белка шипа у привитых лиц задолго до ожидаемого временного окна.</p>
+<p><strong>Опыт дозы был выше, чем введено.</strong> Если mRNA усиливает, фактическое количество генетического материала и белка, произведенного в организме, значительно больше, чем 30 микрограммов за дозу, которые были раскрыты. Организм производил дополнительные дозы внутри себя.</p>
+<p><strong>Потенциал сбрасывания был выше, чем признан.</strong> Самоусиливающихся конструктов производит больше белка, что означает больший потенциал сбрасывания белка шипа не привитым контактам.</p>
+<p><strong>Все неблагоприятные события могли быть усилены.</strong> Каждое задокументированное неблагоприятное событие — миокардит, тромбоз, неврологический ущерб, рак, репродуктивный вред — был бы усилен самокопирующейся mRNA, потому что причинный агент (белок шипа) произведен в большем количестве в течение более продолжительных периодов.</p>
+<hr>
+<h2 id="исторический-прецедент-история-pfizer">Исторический прецедент: История Pfizer</h2>
+<h3 id="соглашение-о-уголовном-урегулировании-в-размере-23-миллиарда">Соглашение о уголовном урегулировании в размере $2.3 миллиарда</h3>
+<p>В 2009 году Pfizer заплатила $2.3 миллиарда, чтобы урегулировать уголовные и гражданские обвинения — самое крупное соглашение о мошенничестве в сфере здравоохранения в США в то время. Обвинения включали:</p>
+<ul>
+<li>Мошеннический маркетинг Bextra (обезболивающее средство) для использования, которое FDA специально отказалось одобрить</li>
+<li>Выплату взяток профессионалам здравоохранения</li>
+<li>Ложные утверждения о безопасности и эффективности нескольких продуктов</li>
+</ul>
+<p>Это было не изолированным инцидентом. Pfizer выплатила миллиарды в дополнительных соглашениях по:</p>
+<ul>
+<li>Мошеннической маркетинге Lipitor, Zoloft и других лекарств</li>
+<li>Подавлении данных о безопасности для Celebrex и Bextra</li>
+<li>Нарушениях окружающей среды</li>
+<li>Зарубежных взяток</li>
+</ul>
+<p>Корпорация, которая выплатила миллиарды в штрафы за ложь о своих продуктах, теперь просит мир доверить её свидетельству о том, что было во флаконах COVID-19. Девятая заповедь весит тяжело.</p>
+<h3 id="паттерн-утаивания">Паттерн утаивания</h3>
+<p>Задокументированный паттерн Pfizer включает:</p>
+<ol>
+<li>Сделать сильные утверждения о безопасности во время запуска продукта</li>
+<li>Подавить или минимизировать данные о неблагоприятных событиях</li>
+<li>Сражаться с раскрытием внутренних документов</li>
+<li>В конце концов быть вынужденной раскрыть через судебное разбирательство</li>
+<li>Заплатить штрафы и продолжить работу</li>
+</ol>
+<p>Попытка запечатать документы вакцины COVID-19 на 75 лет точно соответствует этому паттерну. Если бы документы содержали только доказательства безопасности и эффективности, не было бы причины их скрывать. Запрос на 75 лет секретности подразумевает, что документы содержат информацию, которая повредит продукту, компании или обоим.</p>
+<hr>
+<h2 id="теологическое-измерение-запечатанный-свиток">Теологическое измерение: Запечатанный свиток</h2>
+<h3 id="свиток-который-никто-не-мог-открыть">Свиток, который никто не мог открыть</h3>
+<p>В Откровении 5 Иоанн плачет, потому что "не мог никто открыть свиток... ни посмотреть на него." Запечатанный свиток содержал судьбу творения — информацию слишком мощную для доступа без полномочий Агнца.</p>
+<p>Попытка Pfizer запечатать свои документы на 75 лет — это темное зеркало этого паттерна — информация, запечатанная не божественной властью, но корпоративной властью, не защищать праведных, а защищать виноватых. Документы были распечатаны не Агнцем, а федеральным судьей. Но принцип одинаков: запечатанные документы содержат истину, которую мощные сущности не хотят раскрыть.</p>
+<p>Истина в документах Pfizer — как истина в запечатанном свитке — имеет последствия. Когда печати сломаны, что было скрыто, переформатирует понимание миром того, что произошло. Миллиарды людей могли получить самокопирующихся генетических конструктов без их знания или согласия. Эта истина, однажды распечатанная, не может быть повторно запечатана.</p>
+<hr>
+<h2 id="что-люди-должны-знать">Что люди должны знать</h2>
+<ol>
+<li><strong>Патентные заявки Pfizer описывают технологию самоусиливающейся mRNA</strong> на языке, соответствующем продукту COVID-19.</li>
+<li><strong>Коммерческий продукт (Процесс 2) отличался от продукта клинического испытания (Процесс 1).</strong></li>
+<li><strong>Контаминация ДНК в коммерческом продукте</strong> включает последовательности промотора SV40.</li>
+<li><strong>Pfizer попытался запечатать эти документы на 75 лет.</strong> Они были выпущены только по судебному приказу.</li>
+<li><strong>Pfizer имеет историю уголовного мошенничества в размере $4.7 миллиарда</strong> и задокументированный паттерн подавления данных о безопасности.</li>
+<li><strong>Вопрос самоусиливающегося остается официально неотвеченным</strong> регуляторами — они ни подтвердили, ни отрицали наличие компонентов sa-mRNA в коммерческом продукте.</li>
+</ol>
+<hr>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Анализ патентных заявок Pfizer и выпущенных судом документов.</li>
+<li>Судебные разбирательства PHMPT v. FDA и выпущенные документы</li>
+<li>Патентные заявки Pfizer/BioNTech USPTO</li>
+<li>McKernan, Kevin. Анализ контаминации ДНК</li>
+<li>Записи о расчетах DOJ Pfizer (2009)</li>
+<li>Документация о процессе производства Pfizer</li>
+</ul>
+<hr>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство НБО Ховарда Питмана — Предупреждение об окончании времени, которое Бог ему дал</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки от ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a> — Технологические сигнатуры того, что было введено</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/61-Synthetic_Biology.mp4">Synthetic Biology</a> — Переписка жизни на генетическом уровне</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — Программа инъекции и её скрытые компоненты</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> — Истина, вырывающаяся из темноты</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/93-The_Great_Exchange.mp4">The Great Exchange</a> — Подлинное заменено поддельным</li>
+</ul>
+<hr>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/biontech-self-amplifying-mrna/?lang=ru">BioNTech Presentations Confirm Self-Amplifying mRNA Technology</a> — Раскрытия технологии BioNTech sa-mRNA</li>
+<li><a href="/pfizer-sa-mrna-flu-study/?lang=ru">What Happened to Participants in Pfizer's sa-mRNA Flu Study</a> — Исходы клинических испытаний sa-mRNA</li>
+<li><a href="/self-amplifying-mrna-replicon/?lang=ru">Self-Amplifying mRNA: The Shot That Keeps Replicating</a> — Полный объяснитель sa-mRNA</li>
+<li><a href="/cdc-safety-data-mrna-vaccines/?lang=ru">Updated CDC Safety Data on COVID-19 mRNA Vaccines</a> — Официальные данные о сигналах безопасности</li>
+</ul>
+<hr>
+<p><em>Девятая заповедь была дана на Синае в огне и дыме. "Не лги ближнему своему." Pfizer свидетельствовала регуляторам, врачам и миллиардам человеческих существ о том, что было в её флаконах. Документы — запечатанные на 75 лет, распечатанные судом — начинают раскрывать истину этого свидетельства. Если ложное свидетельство было дано, Бог из Синая не забыл. "Не обманывайтесь; Бог не мокируется: ибо что человек сеет, то и пожнет" (Галатам 6:7).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Документы Pfizer подтверждают, что прививки COVID-19 содержали самоусиливающуюся mRNA"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Выпущенные судом документы Pfizer и патентные заявки раскрывают доказательства того, что прививки COVID-19 содержали самоусиливающиеся компоненты, которые никогда не были раскрыты."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-19T10:00:00Z","children":"19 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Pfizer",{"href":"/ru/tag/Pfizer/","className":"tag-pill","children":["#","Pfizer"]}],["$","a","самоусиливающаяся-mRNA",{"href":"/ru/tag/самоусиливающаяся-mRNA/","className":"tag-pill","children":["#","самоусиливающаяся-mRNA"]}],["$","a","прививки-COVID-19",{"href":"/ru/tag/прививки-COVID-19/","className":"tag-pill","children":["#","прививки-COVID-19"]}],["$","a","патентные-заявки",{"href":"/ru/tag/патентные-заявки/","className":"tag-pill","children":["#","патентные-заявки"]}],["$","a","информированное-согласие",{"href":"/ru/tag/информированное-согласие/","className":"tag-pill","children":["#","информированное-согласие"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/pfizer-documents-self-amplifying/","title":"Документы Pfizer подтверждают, что прививки COVID-19 содержали самоусиливающуюся mRNA"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/pfizer-documents-self-amplifying/","title":"Документы Pfizer подтверждают, что прививки COVID-19 содержали самоусиливающуюся mRNA"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Документы Pfizer подтверждают, что прививки COVID-19 содержали самоусиливающуюся mRNA | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Выпущенные судом документы Pfizer и патентные заявки раскрывают доказательства того, что прививки COVID-19 содержали самоусиливающиеся компоненты, которые никогда не были раскрыты."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Pfizer, самоусиливающаяся-mRNA, прививки-COVID-19, патентные-заявки, информированное-согласие"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/pfizer-documents-self-amplifying/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/pfizer-documents-self-amplifying/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/pfizer-documents-self-amplifying/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/pfizer-documents-self-amplifying/"}],["$","meta","10",{"property":"og:title","content":"Документы Pfizer подтверждают, что прививки COVID-19 содержали самоусиливающуюся mRNA"}],["$","meta","11",{"property":"og:description","content":"Выпущенные судом документы Pfizer и патентные заявки раскрывают доказательства того, что прививки COVID-19 содержали самоусиливающиеся компоненты, которые никогда не были раскрыты."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/pfizer-documents-self-amplifying/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-documents-self-amplifying.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Документы Pfizer подтверждают, что прививки COVID-19 содержали самоусиливающуюся mRNA"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Документы Pfizer подтверждают, что прививки COVID-19 содержали самоусиливающуюся mRNA"}],["$","meta","25",{"name":"twitter:description","content":"Выпущенные судом документы Pfizer и патентные заявки раскрывают доказательства того, что прививки COVID-19 содержали самоусиливающиеся компоненты, которые никогда не были раскрыты."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/pfizer-documents-self-amplifying.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

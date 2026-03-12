@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","trump-blow-bird-flu-surveillance",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","trump-blow-bird-flu-surveillance","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","trump-blow-bird-flu-surveillance","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T547c,<h1 id="трамп-наносит-разительный-удар-по-программе-наблюдения-птичьего-гриппа">Трамп наносит разительный удар по программе наблюдения птичьего гриппа</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Нечестивец бежит, хотя никто не преследует его; а праведник смел, как лев." — Притчи 28:1</p>
+</blockquote>
+<p>Колдуны фараона могли повторить некоторые чудеса Божии — они обратили свои посохи в змей, обратили воду в кровь, созвали лягушек. Но их власть была имитирующей, не творческой. Они могли производить видимость угрозы, но они не могли контролировать последствия. Когда реальные язвы пришли — язвы они не могли повторить — они признали, "Это палец Божий."</p>
+<p>Как раскрывает трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a>, современные колдуны производят угрозы через системы наблюдения, которые спроектированы не для обнаружения подлинных опасностей, но для генерирования данных, которые оправдывают следующее объявление чрезвычайного. Программа наблюдения птичьего гриппа была такой системой — построена найти что это было спроектировано найти, откалибранная для производства тревоги, которая предпринимает ответ, и финансируемая интересами, которые выигрывают от ответа.</p>
+<p>Трамп доставил удар к этой системе. Колдуны встревожены — не потому что угроза реальна, но потому что их способность производить видимость угрозы была нарушена.</p>
+<hr>
+<h2 id="повествование-птичьего-гриппа">Повествование птичьего гриппа</h2>
+<p>Птичий грипп H5N1 был продвинут как следующая угроза пандемии на протяжении больше чем двух десятилетий. С 2003, органы общественного здоровья, фармацевтические компании и средства массовой информации периодически повышали птичий грипп к статусу кризиса — предупреждение потенциальной передачи человек-человек, выпускающее катастрофические смертельные показатели и защита за массивное инвестирование в вакцины и противовирусные лекарства.</p>
+<p>Повествование птичьего гриппа интенсифицировалось в 2024-2025 с обнаружением H5N1 в U.S. молочных стадах скота и небольшого числа случаев человека среди фермерских рабочих. CDC классифицировал риск человека как низкий, но одновременно активировал программы наблюдения, распределённые финансирование для разработки вакцины H5N1 и координированные с WHO на международный мониторинг.</p>
+<p>Карен Кингстон задокументировала в The Kingston Report (karenkingston.substack.com), что программа наблюдения птичьего гриппа следовала тому же паттерну установленному с COVID-19: "Инфраструктура наблюдения не спроектирована для защиты публики. Она спроектирована генерировать данные, которые оправдывают следующее объявление чрезвычайного положения общественного здоровья. Как только PHEIC объявлен, весь аппарат активирует — EUAs, PREP акт иммунитет, мандаты вакцины, координация цензуры. Программа наблюдения -- триггер. Кто бы ни контролировал наблюдение контролирует триггер."</p>
+<h3 id="проблема-pcr">Проблема PCR</h3>
+<p>Критический элемент программы наблюдения птичьего гриппа опирался на PCR (реакция цепи полимеразы) тестирование — та же технология использована во время COVID-19 для обнаружения генетического материала вируса. Во время COVID-19, тест PCR был развёрнут в циклы порога столь высокие, что они генерировали массивные количества ложноположительных результатов — обнаруживая фрагменты РНК вируса, которые не представляли активную инфекцию или передачу.</p>
+<p>Программа наблюдения птичьего гриппа использовала подобные протоколы тестирования, поднимающие те же беспокойства о диагностической точности и раздувании случая, которые характеризовали режим тестирования COVID-19.</p>
+<p>Кингстон примечала: "Тест PCR -- не диагностический инструмент — это производство инструмент. Кэри Муллис, кто выиграл нобелевскую премию за изобретение PCR, заявил явно, что это не должно использоваться для диагностики инфекционного заболевания. Когда вы запускаете PCR в пороги цикла достаточно высокие, вы можете найти что-нибудь в ком-нибудь. Программа наблюдения была откалибрена для поиска птичьего гриппа — и откалибровано инструменты находят что они откалибрены найти."</p>
+<hr>
+<h2 id="инфраструктура-наблюдения">Инфраструктура наблюдения</h2>
+<p>Программа наблюдения птичьего гриппа охватила множественные компоненты:</p>
+<p><strong>Наблюдение животного:</strong> Мониторинг птицы стай, молочных стад и дикой птицы популяции для присутствия H5N1.</p>
+<p><strong>Наблюдение сточных вод:</strong> Мониторинг муниципальных сточных вод для генетического материала H5N1 — техника развитая во время COVID-19 и расширена для покрытия дополнительных патогенов.</p>
+<p><strong>Человеческое наблюдение:</strong> Мониторинг сельскохозяйственных рабочих, ветеринаров и других с подверженностью животного для симптомов H5N1 и инфекции.</p>
+<p><strong>Геномное наблюдение:</strong> Последовательность образцов вируса H5N1 для обнаружения мутаций, которые могут улучшить человеческую передачу.</p>
+<p><strong>Международная координация:</strong> Обмен данными с WHO и международными партнёрами через сети глобального наблюдения.</p>
+<p>Разрушение Трампом этой программы включало прекращение федеральных контрактов с операторами наблюдения, отзыв финансирования для программ мониторинга сточных вод и прекращение федеральной координации с сетями международного наблюдения.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> документирует, как моделирование пандемии устанавливает инфраструктуру, которая затем активируется во время реальных событий. Программа наблюдения птичьего гриппа строила ту же инфраструктуру — системы наблюдения, протоколы тестирования, структуры ответа — которая была бы активирована, когда следующее чрезвычайное было объявлено.</p>
+<hr>
+<h2 id="ответ">Ответ</h2>
+<p>Органы общественного здоровья и фармацевтические компании реагировали с тревогой, предупреждая, что разборка программы наблюдения оставляет нацию слепой к следующей угрозе пандемии. WHO выразила "глубокое беспокойство" об отзыве Соединённых Штатов из сотрудничества глобального наблюдения.</p>
+<p>Но тревога раскрывает её собственную мотивацию. Первичные бенефициары программы наблюдения были не американской публикой, но фармацевтическими компаниями, позиционированными для поставки контрмер, которые система наблюдения была спроектирована предпринять.</p>
+<p>Множественные фармацевтические компании имели уже инвестированы в разработку вакцины H5N1, с продуктами на различных стадиях клинических испытаний. Федеральные контракты для резервного хранилища вакцины H5N1 были переговорены или были в переговорах. Экономический трубопровод от обнаружения наблюдения к объявлению чрезвычайного к авторизации EUA к развёртыванию вакцины уже строился.</p>
+<p>Удар Трампа по программе наблюдения разрывает этот трубопровод в его происхождении — отсекающий механизм обнаружения, который генерирует данные, которые оправдывают чрезвычайное, которое предпринимает развёртывание, которое генерирует доход.</p>
+<hr>
+<h2 id="пророческий-паттерн">Пророческий паттерн</h2>
+<blockquote>
+<p>"Ибо не дал нам Бог духа страха, но духа силы и любви и целомудрия." — 2 Тимофею 1:7</p>
+</blockquote>
+<p>Повествование птичьего гриппа, как повествование COVID-19 прежде, работает через страх. Система наблюдения существует генерировать данные, которые увеличивают страх. Страх оправдывает чрезвычайные меры. Чрезвычайные меры позволяют развёртывание фармацевтических продуктов. Фармацевтические продукты генерируют доход.</p>
+<p>На каждом шаге, страх топливо. И Писание определяет дух страха не как мудрость или благоразумие, но как противоположность разума звука, которая Бог обеспечивает.</p>
+<p>Разборка программы наблюдения -- в духовных условиях, отклонение духа страха — объявление, что нация не будет управляться производимой тревогой, не будет представлять цикл наблюдения-чрезвычайного-послушания, который характеризовал ответ COVID-19 и не будет позволять конструкцию инфраструктуры для следующего производимого кризиса.</p>
+<hr>
+<h3 id="предупреждение-1-сэмюэля-8">Предупреждение 1 Сэмюэля 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всём, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Сэмюэля 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Сэмюэля 8 отзывается через каждый коридор правительства сегодня. Когда Израиль потребовал царя, как другие нации, Бог предупредил их точно что произойдёт — их сыновья взяты для войны, их дочери для услуги, их поля и виноградники захвачены, десятая часть всего конфискована. Они выбрали человеческое правительство над реймом Бога и тирания последовала точно, как обещано. Ничего не изменилось. Современная политическая система две крылья того же птицы — левый и правый, республиканец и демократ — все служащие той же скрытой степени структуры мощности. Голосование для одной стороны выбирающие, какое крыло хлопает далее, тогда как птица летит в том же направлении. Реальная мощь никогда не была на каком-нибудь бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>WhiteHouse.gov — Исполнительные действия на финансирование программы наблюдения</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Анализ Карен Кингстон инфраструктуры наблюдения птичьего гриппа, методология тестирования PCR и экономика трубопровода пандемии</p>
+</li>
+<li>
+<p>CDC — Документация программы наблюдения H5N1</p>
+</li>
+<li>
+<p>WHO — Рамки сотрудничества международного наблюдения</p>
+</li>
+<li>
+<p>Притчи 28:1, 2 Тимофею 1:7 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Сэмюэля 8 — Предупреждение против земных королей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство близости к смерти Ховарда Питтмана — предупреждение о конце времён</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что может быть в подвале Ватикана!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> — Инфраструктура наблюдения как репетиция для следующего развёртывания</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> — Военное происхождение наблюдения пандемии</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/155-Cyber_Polygon_Prophecy.mp4">Cyber Polygon Prophecy</a> — Смоделированные угрозы, которые предпринимают реальные ответы</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — Производимые угрозы из производимых данных наблюдения</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> — Страх как первичное оружие контроля змея</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/trump-obliterates-who-h5n1/?lang=ru">Trump Obliterates WHO Plans for H5N1 Pandemic</a> — Неповиновение структуре пандемии птичьего гриппа международной</li>
+<li><a href="/hhs-orders-cdc-stop-flu-vaccine/?lang=ru">HHS Orders CDC to Stop Wild-to-Mild Flu Vaccine Program</a> — Закрытие программы, относящихся к гриппу фармацевтические</li>
+<li><a href="/trump-bans-gain-of-function/?lang=ru">Trump Executive Order Bans Gain-of-Function Research</a> — Исключение исследования, которое инженер угрозы пандемии</li>
+<li><a href="/us-withdraws-world-health-organization/?lang=ru">United States Withdraws from the World Health Organization</a> — Разрыв связей с координатором глобального наблюдения</li>
+</ul>
+<hr>
+<p><em>Колдуны произвели лягушек и назвали это язву. Система наблюдения произвела данные и назвала это угрозой пандемии. Трамп сломал инструменты колдунов — не потому что угроза инфекционного заболевания воображаемая, но потому что аппарат построенный мониторить его был спроектирован предпринять ответ, который прибыль его архитекторы, чем защита публика. "Страх пред человеком — сеть, но кто уповает на Господа, будет в безопасности" (Притчи 29:25). Программа наблюдения была ловушка — одетая в язык безопасности, спроектированная захватить нацию в следующем цикле страха, послушания и фармацевтического прибыли. Ловушка была сломана.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Трамп наносит разительный удар по программе наблюдения птичьего гриппа"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Президент Трамп разбирает программу наблюдения птичьего гриппа, разрывая инфраструктуру, разработанную для оправдания следующего объявления пандемии и цикла блокировки."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-22T10:00:00Z","children":"22 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Trump",{"href":"/ru/tag/Trump/","className":"tag-pill","children":["#","Trump"]}],["$","a","птичий-грипп",{"href":"/ru/tag/птичий-грипп/","className":"tag-pill","children":["#","птичий-грипп"]}],["$","a","H5N1",{"href":"/ru/tag/H5N1/","className":"tag-pill","children":["#","H5N1"]}],["$","a","наблюдение",{"href":"/ru/tag/наблюдение/","className":"tag-pill","children":["#","наблюдение"]}],["$","a","подготовка-к-пандемии",{"href":"/ru/tag/подготовка-к-пандемии/","className":"tag-pill","children":["#","подготовка-к-пандемии"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/trump-blow-bird-flu-surveillance/","title":"Трамп наносит разительный удар по программе наблюдения птичьего гриппа"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/trump-blow-bird-flu-surveillance/","title":"Трамп наносит разительный удар по программе наблюдения птичьего гриппа"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Трамп наносит разительный удар по программе наблюдения птичьего гриппа | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Президент Трамп разбирает программу наблюдения птичьего гриппа, разрывая инфраструктуру, разработанную для оправдания следующего объявления пандемии и цикла блокировки."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Trump, птичий-грипп, H5N1, наблюдение, подготовка-к-пандемии"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/trump-blow-bird-flu-surveillance/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/trump-blow-bird-flu-surveillance/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/trump-blow-bird-flu-surveillance/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/trump-blow-bird-flu-surveillance/"}],["$","meta","10",{"property":"og:title","content":"Трамп наносит разительный удар по программе наблюдения птичьего гриппа"}],["$","meta","11",{"property":"og:description","content":"Президент Трамп разбирает программу наблюдения птичьего гриппа, разрывая инфраструктуру, разработанную для оправдания следующего объявления пандемии и цикла блокировки."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/trump-blow-bird-flu-surveillance/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/trump-blow-bird-flu-surveillance.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Трамп наносит разительный удар по программе наблюдения птичьего гриппа"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Трамп наносит разительный удар по программе наблюдения птичьего гриппа"}],["$","meta","25",{"name":"twitter:description","content":"Президент Трамп разбирает программу наблюдения птичьего гриппа, разрывая инфраструктуру, разработанную для оправдания следующего объявления пандемии и цикла блокировки."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/trump-blow-bird-flu-surveillance.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

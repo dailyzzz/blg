@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","infant-deaths-measles-vaccines",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","infant-deaths-measles-vaccines","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","infant-deaths-measles-vaccines","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T6504,<h1 id="что-мамы-должны-знать-о-смертях-младенцев-от-вакцин-против-кори">Что мамы должны знать о смертях младенцев от вакцин против кори</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Голос слышен в Рама, плач и вопль великий; Рахиль плачет о детях своих и не хочет утешиться, потому что их нет." — Иеремия 31:15</p>
+</blockquote>
+<p>Плач Рахили отзывается через века. Горе матери, которая потеряла своего ребенка, — это наиболее острое страдание в человеческом опыте — страдание настолько глубокое, что пророк Иеремия, и позже Евангелие Матфея (2:18), использовали его для описания убийства невинных детей государственной властью. Рахиль плачет, потому что ее дети "не были" — они существовали, а затем они не существовали. Потеря абсолютна.</p>
+<p>Мамы плачут сегодня. Их младенцы получили вакцину против кори — продукт, который им сказали, что он необходим, безопасен и ответственный выбор — и их дети умерли. Горе этих мам — это горе Рахили. Институциональная система, которая уверила их в безопасности, — это система Фараона, обещающая уход, но доставляющая вред.</p>
+<p>Трек ZZZ Daily <a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Вакцина зверя</a> говорит о древнем паттерне нацеливания детей через медицинскую систему. И трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/95-The_Valley_of_Death.mp4">Долина смерти</a> дает голос путешествию через тень, которое прошли эти семьи.</p>
+<hr>
+<h2 id="вакцина-против-кори-что-мамам-говорят">Вакцина против кори: Что мамам говорят</h2>
+<h3 id="официальное-повествование">Официальное повествование</h3>
+<p>Мамам говорят:</p>
+<ul>
+<li>Корь — опасное заболевание, которое может вызвать серьезные осложнения и смерть</li>
+<li>Вакцина MMR (корь, паротит, краснуха) безопасна и эффективна</li>
+<li>Серьезные побочные эффекты "чрезвычайно редки"</li>
+<li>Выгода от вакцинации намного превышает риски</li>
+<li>Все дети должны получить две дозы (первая в 12-15 месяцев, вторая в 4-6 лет)</li>
+<li>Отказ от вакцинации ставит под угрозу не только вашего ребенка, но и других детей ("коллективный иммунитет")</li>
+</ul>
+<p>Это повествование доставляется педиатрами, CDC, Американской академией педиатрии, школьными системами и кампаниями по общественному здравоохранению. Это представляется как установленная наука, не подлежащая обсуждению, и мамы, которые ставят под сомнение его, часто называются "антивакцинаторами" — термин, предназначенный для прекращения исследования.</p>
+<h3 id="что-мамам-не-говорят">Что мамам не говорят</h3>
+<p>Мамам обычно не говорят:</p>
+<p><strong>Вакцина MMR имеет задокументированную историю вызывания серьезных нежелательных явлений, включая смерть.</strong> Вкладыш пакета вакцины список смерти как сообщенное нежелательное событие. VAERS содержит тысячи отчетов о серьезных нежелательных событиях после вакцинации MMR, включая отчеты о смерти младенца.</p>
+<p><strong>Смертность от кори снизилась на более чем 98% ДО введения вакцины против кори.</strong> В Соединенных Штатах смертность от кори в 1963 году (год, когда первая вакцина против кори была лицензирована) составляла приблизительно 0,2 на 100,000 — драматическое снижение с доиндустриального времени, достигнутое через улучшение питания, санитарии и здравоохранения, а не вакцинацию.</p>
+<p><strong>Вакцина MMR никогда не была протестирована против истинного плацебо.</strong> Клинические испытания, которые привели к одобрению MMR, сравнили вакцину против других вакцин или реактивных компонентов, а не против инертного физиологического раствора. Базовая линия безопасности была никогда не установлена против истинного неактивного контроля.</p>
+<p><strong>Вакцина MMR содержит живые аттенуированные вирусы</strong>, которые могут и вызывают инфекцию у некоторых получателей. Вакцинный штамм кори был обнаружен у детей, которые развили болезнь, подобную кори, после вакцинации. Вакцина не инертна — она содержит живые биологические агенты.</p>
+<p><strong>VAERS захватывает только фракцию нежелательных событий.</strong> Собственные данные CDC предполагают, что VAERS захватывает 1-10% фактических событий. Это означает, что каждый отчет VAERS о смерти или серьезной травме после вакцинации MMR представляет 10-100 фактических событий.</p>
+<hr>
+<h2 id="отчеты-о-смертях-что-показывает-vaers">Отчеты о смертях: Что показывает VAERS</h2>
+<h3 id="отчеты-о-смертях-в-vaers-после-вакцин-против-кориmmr">Отчеты о смертях в VAERS после вакцин против кори/MMR</h3>
+<p>Система отчета о нежелательных явлениях вакцин содержит отчеты о смертях младенцев после вакцин, содержащих корь. Эти отчеты включают:</p>
+<ul>
+<li>Смерти, произошедшие в течение часов - дней после вакцинации</li>
+<li>Смерти у ранее здоровых младенцев без известных факторов риска</li>
+<li>Смерти, сопровождаемые припадками, высокой лихорадкой или энцефалитной реакцией</li>
+<li>Смерти, приписываемые судебными медиками СДВР (Синдром внезапной детской смерти) — медицинского диагноза "ловушка" для необъясненной детской смерти</li>
+</ul>
+<p>Временная ассоциация — смерть, произошедшая вскоре после вакцинации у ранее здорового младенца — является мощным доказательством, которое требует расследования. В любом другом контексте, если ребенок проглотил вещество и умер в течение часов, это вещество было бы исследовано как причина. Но когда вещество — вакцина, предположение по умолчанию — совпадение.</p>
+<h3 id="связь-сдвр">Связь СДВР</h3>
+<p>Значительное количество детских смертей, о которых сообщается в VAERS после вакцинации, классифицируются как СДВР — Синдром внезапной детской смерти. СДВР не является причиной смерти. Это ярлык, применяемый, когда причина смерти не может быть определена. Это, по определению, диагноз невежества.</p>
+<p>Исследование задокументировало временную кластеризацию смертей СДВР вокруг дат вакцинации — особенно в дни, сразу следующие за вакцинацией. Эта кластеризация предполагает, что, по крайней мере, некоторая доля смертей СДВР связана с вакциной, при этом классификация "неизвестная причина" служит для сокрытия временной ассоциации с вакцинацией.</p>
+<hr>
+<h2 id="отчет-kingston-подавленная-история">Отчет Kingston: Подавленная история</h2>
+<p>Анализ Карен Кингстон через <a href="https://karenkingston.substack.com">The Kingston Report</a> документирует подавленную историю вреда от вакцины против кори, включая институциональные механизмы, которые предотвращают признание смертей, вызванных вакциной.</p>
+<h3 id="закон-о-национальной-вакцине-для-детей-1986">Закон о национальной вакцине для детей (1986)</h3>
+<p>Kingston задокументировала правовую структуру, которая защищает производителей вакцин от ответственности: Закон о национальной вакцине для детей (NCVIA) 1986 года. Этот закон:</p>
+<ul>
+<li><strong>Удалил право родителей подавать в суд на производителей вакцин</strong> за травмы или смерти, вызванные вакцинами в расписании CDC</li>
+<li><strong>Создал Программу компенсации травм от вакцин (VICP)</strong> — беспроигрышную систему, которая компенсирует некоторые травмы от вакцин без привлечения производителей к ответственности</li>
+<li><strong>Установил систему отчета о нежелательных явлениях вакцин (VAERS)</strong> — пассивную систему отчета, которая по замыслу захватывает только фракцию событий</li>
+<li><strong>Стимулировала расширение расписания вакцин</strong> — потому что производители столкнулись с отсутствием ответственности, коммерческий стимул добавлять больше вакцин в расписание увеличился</li>
+</ul>
+<p>NCVIA была принята, потому что производители вакцин угрожали прекратить производство детских вакцин, если они не получат защиту от ответственности. Позиция индустрии была, по сути: "Продукты, которые мы производим, вызывают достаточно травм, что мы не можем себе позволить иски. Защитите нас от ответственности или мы прекратим производство продуктов".</p>
+<p>Это признание индустрией того, что ее продукты вызывают травмы. Защита ответственности не была создана, потому что вакцины безопасны — она была создана, потому что они НЕ достаточно безопасны, чтобы выдержать обычное судебное разбирательство о ответственности за продукт.</p>
+<h3 id="дело-thompson-как-информатора">Дело Thompson как информатора</h3>
+<p>Kingston выделил случай д-ра Уильяма Томпсона, старшего ученого CDC, который в 2014 году предоставил документы Конгрессу, утверждая, что CDC уничтожил данные, связывающие вакцину MMR с увеличением риска аутизма у афроамериканских мальчиков. Thompson заявил, что CDC провел исследование, найденное статистически значимую ассоциацию, и затем манипулировал анализом данных для устранения сигнала.</p>
+<p>Претензии Thompson никогда не были формально исследованы Конгрессом. Документы, которые он предоставил, не были обнародованы через официальные каналы. СМИ отклонили историю. Но претензии Thompson — сделанные учеными CDC, сидящими с доступом к исходным данным — представляют внутреннее свидетельство о том, что CDC активно подавлял сигналы безопасности для вакцины MMR.</p>
+<hr>
+<h2 id="библейская-перспектива-защита-маленьких">Библейская перспектива: Защита маленьких</h2>
+<h3 id="предупреждение-мельницы">Предупреждение мельницы</h3>
+<blockquote>
+<p>"Но кто соблазнит одного из малых сих, верующих в Меня, тому лучше было бы, если бы повесили ему мельничный жернов на шею и потопили его в глубине морской." — Матфей 18:6</p>
+</blockquote>
+<p>Иисус произнес наиболее суровое предупреждение во всем Писании о тех, кто причиняет вред детям. Предупреждение мельницы — не предложение — это божественное провозглашение последствий для тех, кто соблазняет (причиняет вред, создает препятствие для) "маленьких сих".</p>
+<p>Когда младенец умирает после вакцинации — когда родители доверяли учреждению, привели своего здорового ребенка к врачу, и этот ребенок умер — предупреждение мельницы применяется ко всем в цепи: производителю, который произвел продукт, регулятору, который одобрил его, педиатру, который ввел его, и учреждению, которое подавило данные о безопасности, которые могли бы привести родителей к другому решению.</p>
+<h3 id="кровь-невинных">Кровь невинных</h3>
+<blockquote>
+<p>"Ибо шесть дел ненавидит Господь, даже семь мерзко Ему: очи гордые, язык лживый и руки, проливающие кровь невинную." — Притчи 6:16-17</p>
+</blockquote>
+<p>Пролитие невинной крови указано среди главных отвращений Бога. Никакая кровь не является более невинной, чем кровь младенца — существа, которое не совершило греха, не сделало врагов и вошло в мир полностью зависимым от взрослых, возложенных на его защиту. Когда этот младенец умирает от продукта, введенного этими защитниками по рекомендации учреждений, финансируемых производителем продукта, невинная кровь пролита через институциональную систему, которая сделала ответственность невозможной.</p>
+<hr>
+<h2 id="что-мамы-должны-знать">Что мамы должны знать</h2>
+<ol>
+<li><strong>Вкладыш пакета вакцины MMR указывает смерть как сообщенное нежелательное событие.</strong> Это документ производителя.</li>
+<li><strong>VAERS содержит отчеты о смерти младенца после вакцинации против кори.</strong> Эти отчеты захватывают только 1-10% фактических событий.</li>
+<li><strong>Смертность от кори снизилась на более чем 98% до того, как вакцина существовала.</strong> Улучшение питания и санитарии, а не вакцинация, привели снижение.</li>
+<li><strong>Вакцина MMR никогда не была протестирована против истинного плацебо.</strong> Базовая линия безопасности неизвестна.</li>
+<li><strong>Производители вакцин имеют нулевую ответственность</strong> за травмы, вызванные детскими вакцинами согласно NCVIA 1986 года.</li>
+<li><strong>СДВР — это не причина смерти</strong> — это ярлык, применяемый, когда причина не определена, потенциально маскируя смерти, связанные с вакциной.</li>
+<li><strong>Ученый CDC заявил, что агентство уничтожило данные</strong>, связывающие MMR с неблагоприятными исходами.</li>
+<li><strong>Вы имеете право отказать</strong> любую вакцину для вашего ребенка. Знайте законы об исключении вашего штата.</li>
+</ol>
+<hr>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Документирование нежелательных явлений от вакцины против кори и институционального подавления.</li>
+<li>База данных VAERS (доступна на vaers.hhs.gov)</li>
+<li>Вкладыш пакета вакцины MMR (Merck — M-M-R II)</li>
+<li>Закон о национальной вакцине для детей 1986 года</li>
+<li>Thompson, William. Документы информатора CDC</li>
+<li>Исторические данные о смертности от кори (CDC/NCHS)</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство почти-смертельного опыта Ховарда Питтмана — Предупреждение о конце времен, которое Бог ему дал</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католический конфиденциал: раскрытые позорные иезуитские секреты</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Медицид и фармакея — Волшебство современной медицины</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">То, что в подвале Ватикана, может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Вакцина зверя</a> — Нацеливание детей через медицинскую систему</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/129-Rockefeller_Medicine.mp4">Медицина Рокфеллера</a> — Захваченная система здравоохранения</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/317-The_Vaccination_Booths.mp4">Прививочные кабины</a> — Инфраструктура массовой инъекции</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/95-The_Valley_of_Death.mp4">Долина смерти</a> — Путешествие через горе и потерю</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/51-The_Covenant_Blood.mp4">Завет крови</a> — Священная кровь невинных</li>
+</ul>
+<hr>
+<h2 id="исследовать-далее">Исследовать далее</h2>
+<ul>
+<li><a href="/babies-injected-43-vaccine-viruses/?lang=ru">Младенцы вводят до 43 вирусов вакцин к двум годам</a> — Объем детской вакцинации</li>
+<li><a href="/first-increase-infant-deaths-2022/?lang=ru">2022 был первым увеличением детской смертности в десятилетиях</a> — Растущая детская смертность</li>
+<li><a href="/vaccines-infant-deaths-impossible/?lang=ru">Почему невозможно для вакцин не вызвать смерти младенца</a> — Иммунологическая невозможность</li>
+<li><a href="/cdc-childhood-vaccine-schedule-reduced/?lang=ru">График детской вакцины CDC сокращен: что изменилось</a> — Отступление расписания</li>
+</ul>
+<hr>
+<p><em>Рахиль все еще плачет. Ее голос слышен не в Раме, но в больницах, в похоронных бюро, в пустых детских комнатах, где кроватки стоят неиспользованные. Она плачет за детьми, которые были доставлены к врачу здоровыми и пришли домой в гробу — или вообще не пришли домой. Она плачет, потому что учреждение сказало "безопасно", и учреждение солгало. Но Бог, который услышал плач Рахили, не изменился. "Таким образом говорит Господь; удержи голос свой от плача и очи твои от слез; ибо есть награда за труд твой, говорит Господь" (Иеремия 31:16). Награда идет. И расплата идет с ней.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Что мамы должны знать о смертях младенцев от вакцин против кори"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"То, что каждая мама должна знать о задокументированных смертях младенцев, связанных с вакцинами против кори, данные VAERS и подавленной истории нежелательных явлений MMR."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-26T10:00:00Z","children":"26 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","measles-vaccine",{"href":"/ru/tag/measles-vaccine/","className":"tag-pill","children":["#","measles-vaccine"]}],["$","a","infant-deaths",{"href":"/ru/tag/infant-deaths/","className":"tag-pill","children":["#","infant-deaths"]}],["$","a","MMR",{"href":"/ru/tag/MMR/","className":"tag-pill","children":["#","MMR"]}],["$","a","VAERS",{"href":"/ru/tag/VAERS/","className":"tag-pill","children":["#","VAERS"]}],["$","a","pediatric-safety",{"href":"/ru/tag/pediatric-safety/","className":"tag-pill","children":["#","pediatric-safety"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/infant-deaths-measles-vaccines/","title":"Что мамы должны знать о смертях младенцев от вакцин против кори"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/infant-deaths-measles-vaccines/","title":"Что мамы должны знать о смертях младенцев от вакцин против кори"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Что мамы должны знать о смертях младенцев от вакцин против кори | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"То, что каждая мама должна знать о задокументированных смертях младенцев, связанных с вакцинами против кори, данные VAERS и подавленной истории нежелательных явлений MMR."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"measles-vaccine, infant-deaths, MMR, VAERS, pediatric-safety"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/infant-deaths-measles-vaccines/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/infant-deaths-measles-vaccines/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/infant-deaths-measles-vaccines/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/infant-deaths-measles-vaccines/"}],["$","meta","10",{"property":"og:title","content":"Что мамы должны знать о смертях младенцев от вакцин против кори"}],["$","meta","11",{"property":"og:description","content":"То, что каждая мама должна знать о задокументированных смертях младенцев, связанных с вакцинами против кори, данные VAERS и подавленной истории нежелательных явлений MMR."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/infant-deaths-measles-vaccines/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/infant-deaths-measles-vaccines.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Что мамы должны знать о смертях младенцев от вакцин против кори"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Что мамы должны знать о смертях младенцев от вакцин против кори"}],["$","meta","25",{"name":"twitter:description","content":"То, что каждая мама должна знать о задокументированных смертях младенцев, связанных с вакцинами против кори, данные VAERS и подавленной истории нежелательных явлений MMR."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/infant-deaths-measles-vaccines.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

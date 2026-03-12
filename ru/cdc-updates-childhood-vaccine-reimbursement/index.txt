@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","cdc-updates-childhood-vaccine-reimbursement",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","cdc-updates-childhood-vaccine-reimbursement","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cdc-updates-childhood-vaccine-reimbursement","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5ccb,<h1 id="cdc-обновляет-государственное-возмещение-детских-вакцин">CDC обновляет государственное возмещение детских вакцин</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Какая польза человеку, если он приобретет весь мир, а душе своей повредит?" — Марк 8:36</p>
+</blockquote>
+<p>Торговцы в храме не продавали идолов. Они продавали жертвенных животных — голубей, ягнят и быков, требуемых для поклонения. Их продукт был легитимным. Их место было проблемой. Они превратили дом молитвы в рынок, превратив священный долг в коммерческое предприятие. Поклонение Богу стало неотделимым от торговли людей.</p>
+<p>Как раскрывает трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">The Enemy Within</a>, коррупция наиболее опасна, когда она работает через законные каналы — когда язык здоровья, безопасности и защиты используется для скрытия коммерческого предприятия, которое извлекает прибыль из самых уязвимостей, которые оно претендует решить.</p>
+<p>График детской вакцинации CDC — это не просто медицинская рекомендация. Это финансовая архитектура — система, в которой конвергируют ставки государственного возмещения, доходы фармацевтической компании и экономика врачебной практики, создавая стимулы, которые не имеют ничего общего со здоровьем детей и все — с прибыльностью инъекций.</p>
+<p>CDC обновил эту архитектуру. Вопрос в том, реформирует ли обновление систему или просто перекалибрирует ее.</p>
+<hr>
+<h2 id="финансовая-архитектура-детской-вакцинации">Финансовая архитектура детской вакцинации</h2>
+<p>График детской вакцинации в Соединенных Штатах не определяется независимым научным процессом, изолированным от финансовых соображений. Это продукт системы, в которой финансовые стимулы влияют на каждую точку принятия решений — от финансирования исследований до рекомендации до возмещения.</p>
+<p><strong>Программа "Вакцины для детей" (VFC):</strong> Учреждена в 1994 году, программа VFC — это федерально финансируемая программа категорического федерального помощи, которая предоставляет вакцины бесплатно детям, имеющим право на получение медикейда, не застрахованным, застрахованным недостаточно или индейцам/коренным жителям Аляски. CDC закупает вакцины для программы VFC по согласованным контрактным ценам и распределяет их зачисленным поставщикам. В финансовом году 2023 программа VFC закупила более 5 миллиардов долларов вакцин.</p>
+<p><strong>Рекомендации ACIP:</strong> Когда Консультативный комитет по практике иммунизации рекомендует вакцину для графика детства, это вызывает автоматическое включение в программу VFC, требования школьного входа в штат и мандаты страхового покрытия согласно Закону об улучшении здравоохранения. Одно рекомендацию ACIP может генерировать миллиарды доходов производителя.</p>
+<p><strong>Возмещение поставщику:</strong> Врачи, которые вводят детские вакцины, получают возмещение как за стоимость вакцины, так и за плату за введение. Для пациентов Медикейда плата за введение устанавливается программами Медикейда штата. Для застрахованных частным образом пациентов плата переговаривается между поставщиками и страховыми компаниями. Эти платы за введение создают прямой финансовый стимул для поставщиков вводить вакцины — и больше вакцин означает больше платежей.</p>
+<p><strong>Доход производителя:</strong> График детской вакцинации представляет гарантированный рынок для производителей вакцин. Каждый рожденный ребенок в Соединенных Штатах — это потенциальный покупатель каждой вакцины в графике. С более чем 3,6 миллионов рождений в год и более чем 70 рекомендуемыми дозами на ребенка, график детской вакцинации генерирует десятки миллиардов долларов годового дохода для производителей.</p>
+<p>Karen Kingston задокументировала в The Kingston Report (karenkingston.substack.com), что эта финансовая архитектура создает самоусиливающийся цикл: "Фармацевтические компании финансируют исследования, поддерживающие новые вакцины. Исследования рассматриваются членами ACIP с финансовыми связями с производителями. ACIP рекомендует вакцину. Рекомендация вызывает закупки VFC, школьные мандаты и страховое покрытие. Доход возвращается к производителям, которые финансируют больше исследований для новых вакцин. В никакой момент этого цикла независимый, несвязанный объект не оценивает, безопасно ли совокупное расписание — все 70+ доз."</p>
+<hr>
+<h2 id="обновление-возмещения">Обновление возмещения</h2>
+<p>Обновление CDC государственного возмещения детских вакцин переструктурирует финансовую базу несколькими ключевыми способами:</p>
+<p><strong>Разделение плат за введение от количества доз:</strong> Согласно предыдущей системе, врачи получали плату за введение за каждую введенную дозу. Это создало прямой финансовый стимул для введения большего количества доз — чем больше доз введено за один визит, тем выше общее возмещение. Обновленная структура переходит на модель возмещения за визит, которая снижает финансовый стимул максимизировать количество доз.</p>
+<p><strong>Требование документирования информированного согласия:</strong> Обновленная основа возмещения связывает возмещение с задокументированными доказательствами того, что информированное согласие было получено от родителей — включая раскрытие известных рисков, альтернативных расписаний и доступности исключений. Это представляет значительный сдвиг от предыдущей модели, которая требовала только документирования того, что вакцина была введена.</p>
+<p><strong>Реформирование критериев закупок VFC:</strong> Обновленная основа вводит дополнительные критерии для закупок вакцин VFC, включая требования для производителей предоставить комплексные данные о безопасности — включая данные постмаркетного надзора и анализы побочных событий — как условие продолжения участия в программе VFC.</p>
+<p><strong>Корректировка ставок возмещения на основе мониторинга безопасности:</strong> Основа устанавливает механизм для корректировки ставок возмещения в сторону снижения для вакцин с повышенными профилями побочных событий, создавая финансовый стимул для производителей улучшить безопасность продукта.</p>
+<hr>
+<h2 id="ответ">Ответ</h2>
+<p>Фармацевтическая промышленность и ее институциональные союзники ответили с тревогой. Торговые группы промышленности характеризуют изменения как нападение на детскую вакцинацию, которое приведет к снижению показателей иммунизации и возврату детских болезней.</p>
+<p>Эта рамка предполагает, что текущее расписание вакцинации оптимально и что любое изменение представляет угрозу общественному здравоохранению. Но предположение не доказано. Никакое исследование никогда не демонстрировало, что текущее расписание 70+ доз производит лучшие результаты в отношении здоровья, чем модифицированное расписание с меньшим количеством доз. Никакое исследование никогда не сравнивало общее здоровье — включая хроническое заболевание, аутоиммунные состояния, аллергии, нейродевелопментальные расстройства и долгосрочные результаты — полностью вакцинированных детей с полностью непривитыми детьми.</p>
+<p>Отсутствие этого сравнения не является случайностью. Это намеренно. CDC отказалась проводить такое исследование в течение десятилетий и активно отговорила исследователей от его проведения. Указанная причина — что было бы "неэтично" оставлять детей невакцинированными — это циклическое рассуждение, которое предполагает вывод, который оно отказывается проверить.</p>
+<p>Kingston наблюдал: "Ответ фармацевтической промышленности на реформу возмещения раскрывает его истинные приоритеты. Промышленность не возражает против научных требований — она возражает против любого изменения, которое может снизить доход. Каждая доза, удаленная из расписания, каждая плата за введение, сокращенная, каждое требование информированного согласия, добавленное, представляет потерянный доход. Защита промышленностью текущего расписания не является научной — это коммерческая."</p>
+<hr>
+<h2 id="пророческий-взгляд">Пророческий взгляд</h2>
+<blockquote>
+<p>"Смотрите, не презирайте ни одного из малых сих; ибо говорю вам, что Ангелы их на небесах всегда видят лице Отца Моего Небесного." — Матфей 18:10</p>
+</blockquote>
+<p>Дети — наиболее уязвимая популяция в системе вакцинации. Они не могут давать согласие. Они не могут оценить риски. Они не могут выступать за себя. Их защита полностью зависит от честности взрослых и институтов, ответственных за их уход.</p>
+<p>График детской вакцинации вводится детям родителями, которые доверяют своим врачам, врачами, которые доверяют CDC, и CDC, который задокументирован для работы под влиянием производителей, чьи продукты он рекомендует. Когда эта цепь доверия коррумпирована, дети несут последствия.</p>
+<p>Обновление возмещения — это шаг к разрушению финансовых стимулов, которые коррумпировали эту цепь. Достаточна ли она для защиты малых это зависит от того, следует ли она комплексному обзору безопасности, который был необходим — и отказан — в течение десятилетий.</p>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушай голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, а отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 звучит через каждый коридор правительства сегодня. Когда Израиль потребовал царя, как у других народов, Бог предупредил их точно, что будет происходить — их сыновья взяты на войну, их дочери на службу, их поля и виноградники захвачены, одна десятая всего конфискована. Они выбрали человеческое правительство над царством Бога, и тирания последовала ровно так, как было обещано. Ничего не изменилось. Современная политическая система — это две крыла одной птицы — левая и правая, республиканская и демократическая — все служат одной и той же скрытой силовой структуре. Голосование за любую сторону — это выбор того, какое крыло взмахнет дальше, пока птица летит в одном и том же направлении. Реальная власть никогда не была на каком-либо избирательном бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>CDC — Документация программы "Вакцины для детей" и расписания возмещения</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — анализ Kingston финансовой архитектуры детских вакцин, конфликтов ACIP и последствий реформы возмещения</p>
+</li>
+<li>
+<p>Программа VFC — бюджет и данные закупок</p>
+</li>
+<li>
+<p>ACIP — протоколы заседаний и финансовые раскрытия членов</p>
+</li>
+<li>
+<p>Марк 8:36, Матфей 18:10 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных королей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство ближайшего смертельного опыта Говарда Питтмана — предупреждение о конце времени, которое Бог ему дал</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Раскрытые позорные тайны иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что может быть в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/91-The_Kinsey_Corruption.mp4">The Kinsey Corruption</a> — как коррумпированная институциональная наука формирует политику, влияющую на детей</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/109-Biometric_Beast_System.mp4">Biometric Beast System</a> — архитектура соответствия, начинающаяся в детстве</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> — институциональные системы маршируют в фармацевтическом lockstep</li>
+</ul>
+<p>Из альбома Confliction (Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">The Enemy Within</a> — коррупция, работающая через законные институциональные каналы</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — коммерческое предприятие, замаскированное под священный долг</li>
+</ul>
+<h2 id="узнать-подробнее">Узнать подробнее</h2>
+<ul>
+<li><a href="/rfk-worldwide-cause-autism/?lang=ru">RFK Jr. объявляет о всемирных усилиях по определению причины аутизма</a> — исследование результатов в отношении здоровья, которые расписание никогда не было протестировано</li>
+<li><a href="/rfk-cleans-house-cdc/?lang=ru">RFK Jr. Cleans House at the CDC</a> — реформирование агентства, которое контролирует расписание вакцинации</li>
+<li><a href="/vaccinated-children-counted-unvaccinated/?lang=ru">Vaccinated Children Being Counted as Unvaccinated in Texas Measles Outbreak</a> — проблемы с целостностью данных в ведении записей вакцинации</li>
+<li><a href="/hhs-maha-transformation/?lang=ru">HHS объявляет о трансформации здравоохранения MAHA</a> — более широкое видение реформы системы здравоохранения</li>
+</ul>
+<hr>
+<p><em>Торговцы были найдены в храме здоровья детей — не продают идолов, а продают продукты посредством финансовой архитектуры, разработанной для максимизации дохода, а не безопасности. Обновление CDC по возмещению начинает процесс опрокидывания этих столов, но торговцы мощны, их продукты укоренены, и система, которую они создали, генерирует десятки миллиардов годового дохода. "Но кто соблазнит одного из малых сих, верующих в Меня, тому лучше было бы, если бы повесили ему мельничный жернов на шею и потопили его в глубине морской" (Матфей 18:6). Малые дети были поручены системе, которая отдает приоритет прибыли. Мельничный жернов висит на весах.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"CDC обновляет государственное возмещение детских вакцин"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"CDC перестраивает государственное возмещение детских вакцин, переструктурирующей финансовые стимулы, которые побудили расширение графика вакцинации."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-16T10:00:00Z","children":"16 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","CDC",{"href":"/ru/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","childhood-vaccines",{"href":"/ru/tag/childhood-vaccines/","className":"tag-pill","children":["#","childhood-vaccines"]}],["$","a","reimbursement",{"href":"/ru/tag/reimbursement/","className":"tag-pill","children":["#","reimbursement"]}],["$","a","healthcare",{"href":"/ru/tag/healthcare/","className":"tag-pill","children":["#","healthcare"]}],["$","a","ACIP",{"href":"/ru/tag/ACIP/","className":"tag-pill","children":["#","ACIP"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/cdc-updates-childhood-vaccine-reimbursement/","title":"CDC обновляет государственное возмещение детских вакцин"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/cdc-updates-childhood-vaccine-reimbursement/","title":"CDC обновляет государственное возмещение детских вакцин"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"CDC обновляет государственное возмещение детских вакцин | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"CDC перестраивает государственное возмещение детских вакцин, переструктурирующей финансовые стимулы, которые побудили расширение графика вакцинации."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"CDC, childhood-vaccines, reimbursement, healthcare, ACIP"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/cdc-updates-childhood-vaccine-reimbursement/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cdc-updates-childhood-vaccine-reimbursement/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cdc-updates-childhood-vaccine-reimbursement/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cdc-updates-childhood-vaccine-reimbursement/"}],["$","meta","10",{"property":"og:title","content":"CDC обновляет государственное возмещение детских вакцин"}],["$","meta","11",{"property":"og:description","content":"CDC перестраивает государственное возмещение детских вакцин, переструктурирующей финансовые стимулы, которые побудили расширение графика вакцинации."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/cdc-updates-childhood-vaccine-reimbursement/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cdc-updates-childhood-vaccine-reimbursement.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"CDC обновляет государственное возмещение детских вакцин"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"CDC обновляет государственное возмещение детских вакцин"}],["$","meta","25",{"name":"twitter:description","content":"CDC перестраивает государственное возмещение детских вакцин, переструктурирующей финансовые стимулы, которые побудили расширение графика вакцинации."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cdc-updates-childhood-vaccine-reimbursement.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

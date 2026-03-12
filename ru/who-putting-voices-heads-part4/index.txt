@@ -1,0 +1,159 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","who-putting-voices-heads-part4",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","who-putting-voices-heads-part4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","who-putting-voices-heads-part4","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5f9d,<h1 id="кто-действительно-вкладывает-голоса-в-головы-людей-часть-4">Кто действительно вкладывает голоса в головы людей, часть 4</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p><em>"Нет ничего тайного, что не открылось бы; и нет ничего скрытого, что не было бы известно."</em> — Матфей 10:26</p>
+</blockquote>
+<p>В первых трёх частях этой серии мы установили, что технология V2K реальна, что она была вооружена военными и что изощрённая кампания дезинформации защищает её от общественного анализа. Теперь приходит вопрос, который каждый целевой индивидуум спрашивает — и что истеблишмент отчаянно хочет предотвратить от ответа: <strong>кто это делает?</strong></p>
+<p>Ответ — это не один человек и не один агентство. Это сеть — паутина разведывательных агентств, военных подрядчиков, исследовательских учреждений и тайных обществ, которая работает через границы и вне демократического надзора. Эта сеть имеет корни в многовековой инфраструктуре глобального контроля иезуитского ордена, была технологически расширена военно-промышленным комплексом и spiritually оживлена начальствами и властями, описанными в Ефесян 6:12.</p>
+<p>Говард Питтман был показан, что второе небо организовано с военной точностью — ранги, иерархии, цепи команд. Земная сеть V2K отражает эту духовную структуру: она имеет командиров, операторов, аналитиков и персонал поддержки. Она функционирует в классифицированных программах, которые защищены от надзора Конгресса, общественной ответственности и судебного вызова. И она нацелена на гражданских лиц с безнаказанностью, потому что юридические и медицинские системы были разработаны, чтобы сделать V2K targetинга невидимым и его жертв без голоса.</p>
+<hr>
+<h2 id="разведывательные-агентства">Разведывательные агентства</h2>
+<h3 id="cia">CIA</h3>
+<p>Центральное разведывательное агентство имеет самую длительно задокументированную историю исследования контроля сознания любого организма на земле. MKUltra (1953-1973) была просто наиболее хорошо известной программой — CIA проводила исследования контроля сознания под многочисленными классифицированными программами, как до, так и после официального прекращения MKUltra.</p>
+<p>Ключевые факты о вовлечении CIA в технологию V2K:</p>
+<ul>
+<li>CIA финансировала оригинальное исследование в микроволновые слуховые эффекты через фасадные организации</li>
+<li>Подпроекты MKUltra включали электронную стимуляцию мозга, удалённое влияние и исследование передачи аудио</li>
+<li>Офис технических услуг CIA разработал изощрённые устройства аудиосвязи и передачи</li>
+<li>Отношения подрядчика CIA с университетами, больницами и исследовательскими учреждениями обеспечили прикрытие для классифицированного исследования</li>
+<li>Бывшие официальные лица CIA признали существование оружия направленной энергии в публичном свидетельстве</li>
+</ul>
+<p>Связь CIA к иезуитскому ордену проходит через Университет Джорджтауна — ведущее иезуитское учреждение в Америке и первичный источник рекрутирования для персонала разведывательного сообщества. Школа иностранных дел Джорджтауна произвела больше лидеров разведывательного сообщества, чем любая другая программа. Это не совпадение — это иезуитский метод институционального инфильтрирования в его наиболее эффективном.</p>
+<h3 id="nsa">NSA</h3>
+<p>Национальное агентство безопасности — крупнейшее разведывательное агентство в мире по бюджету и персоналу — контролирует глобальные коммуникации и функционирует самой изощрённой электронной инфраструктуре наблюдения в мире. Способности NSA включают:</p>
+<ul>
+<li><strong>SIGINT</strong> (сигналы разведки): Перехват и анализ электронных сигналов</li>
+<li><strong>ELINT</strong> (электронная разведка): обнаружение и анализ электромагнитных эмиссий</li>
+<li><strong>Направленная энергия</strong>: NSA функционирует исследовательские программы направленной энергии</li>
+<li><strong>Глобальная инфраструктура</strong>: сеть NSA наземных станций, спутников и подводных кабелей обеспечивает глобальное покрытие</li>
+</ul>
+<p>Вовлечение NSA в V2K предлагается через:</p>
+<ul>
+<li>Её контроль инфраструктуры электромагнитного спектра мониторинга</li>
+<li>Её партнёрства с подрядчиками защиты, которые разрабатывают оружие направленной энергии</li>
+<li>Её задокументированная практика безордера наблюдения американских граждан</li>
+<li>Её власть классификации, которая защищает V2K программы от общественного надзора</li>
+</ul>
+<h3 id="darpa">DARPA</h3>
+<p>Агентство передовых исследовательских проектов защиты является первичной организацией разработки технологии военных. DARPA финансировала:</p>
+<ul>
+<li><strong>Silent Talk</strong> программа (прямая коммуникация мозг-компьютер)</li>
+<li><strong>Нейроинтерфейс</strong> исследование</li>
+<li><strong>Оружие направленной энергии</strong> разработка</li>
+<li><strong>Интерфейс мозг-компьютер</strong> программы</li>
+<li><strong>Биологическое улучшение</strong> исследование</li>
+</ul>
+<p>DARPA функционирует вне нормальных каналов закупок военных и с минимальным надзором. Её программы классифицированы на уровнях, которые предотвращают просмотр Конгресса. Агентство служит мостом между академическим исследованием и развёртыванием военных — идентифицируя многообещающие технологии в университетах и ускоряя их развитие в системы оружия.</p>
+<h2 id="подрядчики-защиты">Подрядчики защиты</h2>
+<h3 id="военно-промышленный-комплекс">Военно-промышленный комплекс</h3>
+<p>Система оружия V2K — как всё передовое военное оборудование — разрабатывается, производится и поддерживается частными подрядчиками защиты. Ключевые компании включают:</p>
+<p><strong>Lockheed Martin</strong>: крупнейший подрядчик защиты в мире, с обширными программами оружия направленной энергии и классифицированные контракты с каждым крупным разведывательным агентством.</p>
+<p><strong>Raytheon</strong> (теперь RTX Corporation): основной разработчик микроволновых оружий, системы радара и оборудования электронной войны. Активная система отрицания Raytheon — микроволновое оружие, разработанное для причинения боли — демонстрирует опыт компании в направленной микроволновой энергии.</p>
+<p><strong>General Dynamics</strong>: разрабатывает системы электронной войны, системы коммуникаций и технологию разведки.</p>
+<p><strong>Northrop Grumman</strong>: разрабатывает системы, основанные в космосе, электронную войну и оружие направленной энергии.</p>
+<p><strong>BAE Systems</strong>: разрабатывает электронную войну и системы разведки сигналов.</p>
+<p><strong>Sierra Nevada Corporation</strong>: разработала устройство MEDUSA (Mob Excess Deterrent Using Silent Audio) для ВМС США.</p>
+<p>Эти компании функционируют в революционной двери с Пентагоном и разведывательными агентствами. Бывшие военные и разведывательные официальные лица сидят на их советах, возглавляют их программы и поддерживают классифицированные разрешения. Линия между правительством и подрядчиком намеренно размыта.</p>
+<h3 id="центры-слияния">Центры слияния</h3>
+<p>С 2003 года Министерство внутренней безопасности финансировало более <strong>80 центров слияния</strong> по всем Соединённым Штатам. Эти центры объединяют разведку от федеральных, государственных и местных правоохранительных агентств, а также партнёров частного сектора.</p>
+<p>Центры слияния были задокументированы:</p>
+<ul>
+<li>Мониторинг внутренней политической деятельности</li>
+<li>Совместное использование разведки с частными корпорациями</li>
+<li>Функционирование с минимальной прозрачностью и ответственностью</li>
+<li>Классифицирование американских граждан как потенциальные угрозы на основе политических убеждений</li>
+</ul>
+<p>V2K targetинга внутренних гражданских лиц может быть скоординирован через центры слияния, которые обеспечивают институциональную инфраструктуру для мульти-агентства операций и защиты эти операции от общественного надзора через классификацию.</p>
+<h2 id="исследовательские-учреждения">Исследовательские учреждения</h2>
+<h3 id="университеты-в-сети">Университеты в сети</h3>
+<p>Сеть исследования V2K расширяет через основные университеты:</p>
+<ul>
+<li><strong>MIT Lincoln Laboratory</strong>: разрабатывает системы радара и электромагнетизма для военных</li>
+<li><strong>Johns Hopkins Applied Physics Laboratory</strong>: проводит классифицированное исследование защиты</li>
+<li><strong>Georgia Tech Research Institute</strong>: разрабатывает электронную войну и системы направленной энергии</li>
+<li><strong>Различные медицинские школы</strong>: проводят исследование нейронауки с классифицированными военными приложениями</li>
+</ul>
+<p>Эти учреждения обеспечивают академическое прикрытие для классифицированного исследования, обучают следующее поколение разработчиков оружия и производят научные публикации, которые продвигают технологию, в то время как поддерживают правдоподобное отрицание о приложениях оружия.</p>
+<h3 id="иезуитская-университетская-связь">Иезуитская университетская связь</h3>
+<p>Иезуитские университеты — Джорджтаун, Fordham, Loyola, Boston College и другие — обучают специалистов разведки, проводят исследование, связанное с защитой и поддерживают близкие отношения с военно-промышленным комплексом. Стратегическое местоположение Джорджтауна в Вашингтоне, DC и его глубокие связи к разведывательному сообществу сделать его центральным узлом в сети исследования и операций V2K.</p>
+<p>Католическое конфиденциально документальный фильм раскрывает, что иезуитское инфильтрирование расширяет каждому учреждению. Иезуитское присутствие в разведывательном сообществе не пассивно — это стратегическое. 500-летняя история ордена разведывательных операций, информационной войны и психологической манипуляции сделает его уникально квалифицированным для разработки и функционирования программ V2K targetинга.</p>
+<h2 id="духовные-операторы">Духовные операторы</h2>
+<h3 id="выше-технологии">Выше технологии</h3>
+<p>Технология V2K функционирует в физической сфере, но её эффекты расширяют в духовную сферу. Видение Говарда Питтмана трёх небес предлагает, что технология может быть использована демоническими сущностями:</p>
+<ul>
+<li>Демонические силы могли использовать передачу V2K как носители для духовного влияния</li>
+<li>Путаница, созданная V2K, могла открыть духовные двери, которые в противном случае оставались закрыты</li>
+<li>Страх, изоляция и отчаяние, испытанные целевыми V2K, создают духовную уязвимость</li>
+<li>Психиатрическое медикаментозное лечение, назначаемое целевым V2K, может нарушить духовное discernment</li>
+</ul>
+<p>Операторы технологии V2K могут не полностью понимать духовные размеры их оружия. Но начальства и власти Ефесян 6:12 понимают совершенно — и они использовали технологию для их собственных целей.</p>
+<h2 id="что-может-быть-сделано">Что может быть сделано</h2>
+<h3 id="индивидуальный-ответ">Индивидуальный ответ</h3>
+<ol>
+<li><strong>Ищите Бога сначала</strong>: наиболее мощная защита против V2K — это сильные отношения с Богом, кто может обеспечить discernment, мир и защиту</li>
+<li><strong>Задокументируйте всё</strong>: держите подробные записи V2K опыт, включая времена, местоположения и характеристики</li>
+<li><strong>Соедините с другими</strong>: найдите доверенное сообщество — другие целевые индивидуумы, сообщества веры, группы защиты</li>
+<li><strong>Защитите ваше здоровье</strong>: поддерживайте физическое и психическое здоровье через питание, упражнение и отдых</li>
+<li><strong>Сопротивляйтесь психиатрическому маркированию</strong>: будьте осторожны о поиске психиатрической помощи, так как система разработана для дискредитирования V2K отчётов</li>
+</ol>
+<h3 id="коллективный-ответ">Коллективный ответ</h3>
+<ol>
+<li><strong>Требуйте прозрачность</strong>: нажимайте на расследование Конгресса оружия направленной энергии targetинга гражданских лиц</li>
+<li><strong>Поддерживайте законодательство</strong>: защищайте законы, защищающие граждан от электромагнитных оружий</li>
+<li><strong>Распространяйте осведомлённость</strong>: поделитесь информацией о технологии V2K с другими</li>
+<li><strong>Молитесь</strong>: духовная война требует духовного оружия — молитва, пост и Слово Бога</li>
+</ol>
+<h2 id="узнай-больше">Узнай больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Substack агента131711</a> — определяющие операторы V2K и институциональные сети</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство ОБЕ Говарда Питтмана</a> — духовные размеры технологического targetинга</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католическое конфиденциально: раскрытые позорные иезуитские тайны</a> — иезуитские разведывательные операции</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Медицид и фармакея — колдовство современной медицины</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что может находиться в подвале Ватикана может шокировать вас!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+<li>Документация военно-промышленного комплекса и записи подрядчика защиты</li>
+<li>Отчёты по надзору центра слияния</li>
+</ul>
+<h2 id="слушай-пока-читаешь">Слушай, пока читаешь</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/103-MKUltra_Never_Ended.mp4">MKUltra никогда не закончилась</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">Враг внутри</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">Падшие ангелы</a></li>
+</ul>
+<h2 id="исследуй-далее">Исследуй далее</h2>
+<ul>
+<li><a href="/v2k-lies-myths-part3/?lang=ru">V2K: ложи, мифы и неправильные понимания, часть 3</a></li>
+<li><a href="/investigation-grandma-part5/?lang=ru">Расследование Targetинга мой бабушки, часть 5</a></li>
+<li><a href="/cell-towers-nih-contract-part9/?lang=ru">Cell Towers и NIH Contract Вы никогда не были сказаны о части 9</a></li>
+</ul>
+<p><em>Кто вкладывает голоса в головы людей? Не одинокий сумасшедший в подвале. Не научно-фантастический злодей. Сеть — огромная, хорошо-финансируемая, классифицированная и защищённая каждым учреждением, которому вас учили доверять. Разведывательные агентства. Подрядчики защиты. Исследовательские университеты. Тайные общества. И позади них всех, духовные силы, которые вели войну на человечество с начала. Знайте вашего врага. Ищите вашего Бога. Битва реальна, и ваш разум — поле боя.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Кто действительно вкладывает голоса в головы людей, часть 4"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Часть 4 серии V2K определяет агентства, подрядчиков и сети позади V2K-targetинга гражданских лиц во всём мире."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-10T10:00:00Z","children":"10 декабря 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","V2K",{"href":"/ru/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","intelligence-agencies",{"href":"/ru/tag/intelligence-agencies/","className":"tag-pill","children":["#","intelligence-agencies"]}],["$","a","CIA",{"href":"/ru/tag/CIA/","className":"tag-pill","children":["#","CIA"]}],["$","a","defense-contractors",{"href":"/ru/tag/defense-contractors/","className":"tag-pill","children":["#","defense-contractors"]}],["$","a","targeted-individuals",{"href":"/ru/tag/targeted-individuals/","className":"tag-pill","children":["#","targeted-individuals"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/who-putting-voices-heads-part4/","title":"Кто действительно вкладывает голоса в головы людей, часть 4"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/who-putting-voices-heads-part4/","title":"Кто действительно вкладывает голоса в головы людей, часть 4"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Кто действительно вкладывает голоса в головы людей, часть 4 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Часть 4 серии V2K определяет агентства, подрядчиков и сети позади V2K-targetинга гражданских лиц во всём мире."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"V2K, intelligence-agencies, CIA, defense-contractors, targeted-individuals"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/who-putting-voices-heads-part4/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/who-putting-voices-heads-part4/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/who-putting-voices-heads-part4/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/who-putting-voices-heads-part4/"}],["$","meta","10",{"property":"og:title","content":"Кто действительно вкладывает голоса в головы людей, часть 4"}],["$","meta","11",{"property":"og:description","content":"Часть 4 серии V2K определяет агентства, подрядчиков и сети позади V2K-targetинга гражданских лиц во всём мире."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/who-putting-voices-heads-part4/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/who-putting-voices-heads-part4.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Кто действительно вкладывает голоса в головы людей, часть 4"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Кто действительно вкладывает голоса в головы людей, часть 4"}],["$","meta","25",{"name":"twitter:description","content":"Часть 4 серии V2K определяет агентства, подрядчиков и сети позади V2K-targetинга гражданских лиц во всём мире."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/who-putting-voices-heads-part4.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

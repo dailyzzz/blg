@@ -1,0 +1,126 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","investigation-grandma-part5",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","investigation-grandma-part5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","investigation-grandma-part5","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5ba9,<h1 id="расследование-воздействия-на-мою-бабушку-часть-5">Расследование воздействия на мою бабушку. Часть 5</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p><em>"Господь близок к сокрушенным сердцем и спасает сломленных духом."</em> — Псалом 33:19</p>
+</blockquote>
+<p>Это наиболее личный выпуск этой серии. В частях 1-4 мы установили реальность технологии V2K, её военное происхождение, дезинформационную кампанию её защищающую и сеть агентств, её эксплуатирующих. Теперь я должен рассказать историю, более близкую к дому — историю о моей бабушке, которая испытала то, что я теперь признаю как целенаправленное воздействие V2K десятилетиями раньше, чем эта технология стала известна публике.</p>
+<p>Моя бабушка слышала голоса. Она рассказывала членам семьи об этом. Её отвергали, жалели и в конечном итоге лечили медикаментозно. Она провела годы жизни в тени психиатрического диагноза, который, возможно, был совершенно неправильным — не потому, что она что-то воображала, а потому, что она испытывала воздействие технологии, о которой её врачи не знали и в которую её семья не верила, что она возможна.</p>
+<p>Говард Питтман узнал, что демоническая иерархия направляет воздействие на отдельных лиц и семьи в течение поколений. 97,5%, которые терпят неудачу, включают тех, кто отвергает опыт своих близких, потому что этот опыт не соответствует признанной картине мира. Моя семья подвела мою бабушку — не из злобы, а из невежества. Мы приняли объяснение психиатрического истеблишмента, потому что не знали, что есть другое.</p>
+<p>Инфильтрация иезуитов "замаскированная с хитростью" распространяется на саму семейную единицу. Контролируя медицинскую систему, которая диагностирует и лечит слухоговорение, они обеспечивают, что семьи становятся инструментами угнетения собственных членов. Семья, которая давит на целевое лицо, чтобы оно принимало лекарства, переставало говорить о голосах, принимало психиатрический ярлык — эта семья выполняет работу иезуитов, не осознавая этого.</p>
+<hr>
+<h2 id="история-моей-бабушки">История моей бабушки</h2>
+<h3 id="начало-голосов">Начало голосов</h3>
+<p>Моя бабушка начала сообщать о голосах в среднем возрасте. Она описывала слышание разговоров, музыки и иногда команд или комментариев, направленных на неё. Опыт был яркий, настойчивый и глубоко расстраивающий.</p>
+<p>Она была верующей женщиной — прихожанкой, молитвенным воином, человеком, который серьёзно относился к духовным вопросам. Когда появились голоса, она сначала интерпретировала их через духовную призму. Она молилась о них. Она искала совета у своего пастора. Она пыталась разобраться, исходили ли голоса от Бога, от демонов или откуда-то ещё.</p>
+<h3 id="медицинский-ответ">Медицинский ответ</h3>
+<p>В конечном итоге семья настояла, чтобы она обратилась к врачу. Врач прослушал её симптомы, отметил отсутствие других психотических признаков (она была в ясном уме, связна и функциональна), и тем не менее диагностировал у неё психическое расстройство. Ей были назначены нейролептические препараты.</p>
+<p>Лекарство изменило её. Женщина, которая была острой, активной и духовно деятельной, стала вялой, замкнутой и пассивной. Голоса могли уменьшиться — или она могла просто перестать сообщать о них, поняв, что их сообщение привело к большему количеству лекарств и большему сочувствию.</p>
+<p>Она провела годы на психиатрических препаратах. Семья верила врачам. Врачи следовали своей подготовке. И никто — ни семья, ни врачи, ни пасторы — не считал возможным, что голоса имели технологический источник.</p>
+<h3 id="то-что-я-теперь-знаю">То, что я теперь знаю</h3>
+<p>Оглядываясь назад с полученными мною знаниями о технологии V2K, паттерн неоспоримо ясен:</p>
+<ul>
+<li><strong>Внезапное начало</strong> у ранее здорового человека без истории психических болезней</li>
+<li><strong>Связная речь</strong> — не дезорганизованные галлюцинации, типичные для шизофрении, а структурированные голоса и музыка</li>
+<li><strong>Сохранённое функционирование</strong> — она оставалась в здравом уме, способна и рациональна во всех других аспектах её жизни</li>
+<li><strong>Духовная чувствительность</strong> — она была верующей женщиной, что могло сделать её более осведомлённой о голосах и более уязвимой для воздействия</li>
+<li><strong>Семейный паттерн</strong> — когда я обнаружил мой собственный опыт V2K (описанный в части 1), я понял, что члены семьи в разных поколениях сообщали о сходных опытах</li>
+</ul>
+<h3 id="поколенческий-паттерн">Поколенческий паттерн</h3>
+<p>Воздействие V2K может быть семейным — не из-за генетики (как утверждал бы психиатрический истеблишмент), а потому что:</p>
+<ol>
+<li><strong>Инфраструктура наблюдения</strong> связана с местоположением, а семьи имеют тенденцию жить в одних и тех же областях в течение поколений</li>
+<li><strong>Разведывательные файлы</strong> могут помечать членов семьи известных целей для мониторинга</li>
+<li><strong>Покрытие сотовой башней</strong> в определённых районах может облегчить воздействие на всех жителей</li>
+<li><strong>Исследовательские программы</strong> могут целенаправленно воздействовать на семьи в течение поколений, чтобы изучить долгосрочные эффекты</li>
+<li><strong>Духовное воздействие</strong> — демонические силы, как описал Питтман, могут воздействовать на семейные линии</li>
+</ol>
+<p>Моя бабушка, мой родитель и я все испытали слухоговорение. Психиатрический истеблишмент называет это "генетической предрасположенностью к шизофрении". Я называю это поколенческим воздействием технологией, которая была невидима для поколения моей бабушки, едва видима для поколения моего родителя и, наконец, идентифицируемой для моего.</p>
+<h2 id="отказ-медицинской-системы">Отказ медицинской системы</h2>
+<h3 id="неправильный-диагноз-как-стандартная-практика">Неправильный диагноз как стандартная практика</h3>
+<p>Неправильный диагноз моей бабушки был необычен. Это стандартная практика. Каждое лицо, которое сообщает о слухоговорении, оценивается в рамках психиатрической парадигмы, которая предполагает, что голоса внутренне порождены. Возможность внешних, технологических источников никогда не рассматривается, потому что:</p>
+<ul>
+<li><strong>Психиатры не обучены</strong> электромагнитной технологии</li>
+<li><strong>DSM</strong> (Руководство диагностическое и статистическое) не включает технологически индуцированное слухоговорение как диагностическую категорию</li>
+<li><strong>Фармацевтические протоколы</strong> по умолчанию используют нейролептические препараты для всех случаев слухоговорения</li>
+<li><strong>Возмещение страхования</strong> вознаграждает психиатрический диагноз и управление медикаментами, а не исследование альтернативных причин</li>
+</ul>
+<p>Результатом является то, что каждая цель V2K, которая ищет медицинской помощи, получает одинаковый диагноз, одинаковое лекарство и одинаковое отвержение. Медицинская система функционирует как машина для дискредитации целей V2K — и она делает это не из-за злобы (в большинстве случаев), а из-за институционального дизайна.</p>
+<h3 id="вред-неправильного-лечения">Вред неправильного лечения</h3>
+<p>Нейролептические препараты — одни из самых мощных препаратов в фармакопее. Они изменяют химию мозга, подавляют рецепторы дофамина и производят ряд изнурительных побочных эффектов:</p>
+<ul>
+<li><strong>Поздняя дискинезия</strong>: Непроизвольные движения мышц, которые могут стать постоянными</li>
+<li><strong>Метаболический синдром</strong>: Увеличение веса, диабет, сердечно-сосудистые заболевания</li>
+<li><strong>Когнитивное притупление</strong>: Снижение ясности ума, нарушение памяти, сниженная мотивация</li>
+<li><strong>Эмоциональное оцепенение</strong>: Сниженная способность испытывать удовольствие, любовь или духовную связь</li>
+<li><strong>Нейролептический злокачественный синдром</strong>: Потенциально смертельная реакция на препарат</li>
+</ul>
+<p>Когда эти препараты даются лицу, которое не имеет психического расстройства — человеку, чьи голоса имеют технологический источник — вред усугубляется. Не только препарат не устраняет реальную причину, но он наносит ущерб мозгу, телу и духу человека способами, которые могут быть необратимыми.</p>
+<p>Моя бабушка провела годы, принимая препараты, которые ей не были нужны, испытывая побочные эффекты, которые она не должна была терпеть, и живя под диагностическим ярлыком, который она не заслуживала — всё потому, что медицинская система не могла представить технологическое объяснение её опыта.</p>
+<h2 id="расследование">Расследование</h2>
+<h3 id="что-я-обнаружил">Что я обнаружил</h3>
+<p>Когда я начал расследовать воздействие на мою бабушку, я обнаружил:</p>
+<p><strong>Паттерны местоположения</strong>: Моя бабушка жила в районе с высокой плотностью сотовых вышек и близостью к военным установкам. Инфраструктура для воздействия V2K была наличествующей.</p>
+<p><strong>Временные корреляции</strong>: Начало её симптомов совпадало с периодами расширения инфраструктуры наблюдения в её районе — новыми установками башен, изменениями в телекоммуникационной технологии и расширением государственных программ мониторинга.</p>
+<p><strong>Общественные паттерны</strong>: Другие жители её района сообщали о сходных опытах — слухоговорение, музыка или тоны без видимого источника. Эти сообщения были разрозненными и изолированными, потому что каждое лицо, которое о них сообщало, индивидуально диагностировалось и лечилось.</p>
+<p><strong>Семейные связи</strong>: Прослеживание семейной истории выявило, что опыты слухоговорения, похоже, следовали географическим и временным паттернам, согласующимся с развёртыванием технологии, а не с наследственностью.</p>
+<h2 id="духовное-измерение">Духовное измерение</h2>
+<h3 id="то-что-знала-моя-бабушка">То, что знала моя бабушка</h3>
+<p>Моя бабушка была женщиной глубокой веры. Она понимала духовную войну раньше, чем этот термин стал популярным. Она молилась, она постилась, она читала свою Библию, и она серьёзно относилась к реальности духовного царства.</p>
+<p>Когда пришли голоса, её первым ответом было духовное — она искала руководство Бога. Это был правильный ответ. Но семья и медицинская система оттянули её от её духовного различения в фармацевтическую систему. Они заменили её молитвы таблетками и её веру диагнозом.</p>
+<p>Говард Питтман узнал, что 95% служат "себе". Моя бабушка была среди 5%, которые искали Бога. И система воздействовала на неё за это — потому что человек подлинного духовного различения — самый опасный враг властей и начальств. Такой человек может видеть сквозь обман, может идентифицировать источник голосов и может сопротивляться воздействию через духовное оружие.</p>
+<p>Препарат притупил её различение. Диагноз заглушил её свидетельство. Благонамеренное вмешательство семьи отрезало её от самых духовных ресурсов, которые могли бы её защитить. Вот как работает система: она использует любовь против самой себя, превращая семьи в инструменты собственного уничтожения своих членов.</p>
+<h3 id="молитва-за-целевых">Молитва за целевых</h3>
+<p>Господи, мы молимся за каждую бабушку, за каждую мать, за каждого отца, за каждого ребёнка, кто был направлен этой технологией и заглушен медицинской системой. Мы молимся за семьи, которые не знали, которые не могли видеть, которые делали то, что врачи им говорили, потому что не знали, что делать. Мы молимся о восстановлении — ума, семей, веры. И мы молимся о справедливости — против систем и сил, и человеческих, и духовных, которые направляют невинных и называют это медициной. Во имя Иисуса.</p>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Substack Агента131711</a> — исследование поколенческого воздействия и документирование V2K</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство NDE Говарда Питтмана</a> — поколенческая духовная война</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — институциональный контроль через медицину</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a> — Документирование побочных эффектов нейролептических препаратов</li>
+<li>Записи развёртывания инфраструктуры сотовых башен</li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/27-The_Promise_of_Salvation.mp4">The Promise of Salvation</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/13-The_Word_of_God.mp4">The Word of God</a></li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/who-putting-voices-heads-part4/?lang=ru">Who Is Really Putting Voices in People's Heads Part 4</a></li>
+<li><a href="/schizophrenia-mental-illness-psyop-part6/?lang=ru">Schizophrenia: The Mental Illness PSYOP Part 6</a></li>
+<li><a href="/cell-towers-nih-contract-part9/?lang=ru">Cell Towers and the NIH CONTRACT You Were Never Told About Part 9</a></li>
+</ul>
+<p><em>Это для тебя, бабушка. Ты не была сумасшедшей. Ты была объектом воздействия. И система, которая должна была помочь тебе, была разработана, чтобы заглушить тебя. Мне жаль, что мы не знали. Мне жаль, что мы верили врачам вместо того, чтобы верить тебе. Но теперь мы знаем. И теперь мы говорим — за тебя, и за каждого целевого, чья семья не поняла.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Расследование воздействия на мою бабушку. Часть 5"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Часть 5 серии V2K: личное расследование воздействия на члена семьи выявляет закономерности, охватывающие десятилетия и поколения."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-11T10:00:00Z","children":"11 декабря 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","V2K",{"href":"/ru/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","целевые лица",{"href":"/ru/tag/целевые лица/","className":"tag-pill","children":["#","целевые лица"]}],["$","a","воздействие на семью",{"href":"/ru/tag/воздействие на семью/","className":"tag-pill","children":["#","воздействие на семью"]}],["$","a","поколенческое наблюдение",{"href":"/ru/tag/поколенческое наблюдение/","className":"tag-pill","children":["#","поколенческое наблюдение"]}],["$","a","электронное преследование",{"href":"/ru/tag/электронное преследование/","className":"tag-pill","children":["#","электронное преследование"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/investigation-grandma-part5/","title":"Расследование воздействия на мою бабушку. Часть 5"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/investigation-grandma-part5/","title":"Расследование воздействия на мою бабушку. Часть 5"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Расследование воздействия на мою бабушку. Часть 5 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Часть 5 серии V2K: личное расследование воздействия на члена семьи выявляет закономерности, охватывающие десятилетия и поколения."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"V2K, целевые лица, воздействие на семью, поколенческое наблюдение, электронное преследование"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/investigation-grandma-part5/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/investigation-grandma-part5/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/investigation-grandma-part5/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/investigation-grandma-part5/"}],["$","meta","10",{"property":"og:title","content":"Расследование воздействия на мою бабушку. Часть 5"}],["$","meta","11",{"property":"og:description","content":"Часть 5 серии V2K: личное расследование воздействия на члена семьи выявляет закономерности, охватывающие десятилетия и поколения."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/investigation-grandma-part5/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/investigation-grandma-part5.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Расследование воздействия на мою бабушку. Часть 5"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Расследование воздействия на мою бабушку. Часть 5"}],["$","meta","25",{"name":"twitter:description","content":"Часть 5 серии V2K: личное расследование воздействия на члена семьи выявляет закономерности, охватывающие десятилетия и поколения."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/investigation-grandma-part5.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

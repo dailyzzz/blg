@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","operation-warp-speed-chief-ousted",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","operation-warp-speed-chief-ousted","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","operation-warp-speed-chief-ousted","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T683c,<h1 id="главный-специалист-по-вакцинам-операции-warp-speed-отстранён-от-должности">Главный специалист по вакцинам операции Warp Speed отстранён от должности</h1>
+<h2 id="древняя-закономерность">Древняя закономерность</h2>
+<blockquote>
+<p>«И сыновей Седекии царь Вавилонский заколол пред его глазами, и всех князей Иудейских заколол в Ривле. А Седекии выколол глаза, и велел оковать его медными оковами, чтобы отвести его в Вавилон, и посадил его в дом стражи до дня смерти его.» — Иеремия 52:10-11</p>
+</blockquote>
+<p>Когда предстали перед судом вожди Иудеи, суд пал на архитекторов гибели народа — не на рядовых солдат, не на простой народ, а на князей и царя, которые привели народ к катастрофе. Седекия видел смерть своих сыновей прежде, чем ему выкололи глаза — последнее, что он увидел, было следствием его руководства. Суд был пропорционален власти — те, кто обладал наибольшей властью, несли наибольшую ответственность.</p>
+<p>Как показывает трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/31-Satans_Hosts.mp4">Воинство сатаны</a>, операциями противника руководят командиры, а не рядовые солдаты. Архитектор операции несёт большую ответственность, чем её исполнители. Руководитель программы вакцинации операции Warp Speed был архитектором самого быстрого и масштабного развёртывания экспериментальных медицинских продуктов в истории человечества. Его отстранение от федеральной службы представляет собой подотчётность, которую требует Писание от обладающих властью.</p>
+<hr>
+<h2 id="операция-warp-speed-архитектура">Операция Warp Speed: архитектура</h2>
+<p>Операция Warp Speed (OWS) была государственно-частным партнёрством, запущенным в мае 2020 года, объединившим Министерство здравоохранения и социальных служб, Министерство обороны и фармацевтические компании для ускорения разработки, производства и распространения вакцин против COVID-19.</p>
+<p>Заявленной целью программы была поставка 300 миллионов доз безопасных, эффективных вакцин к январю 2021 года — сжатие графика разработки, который обычно занимает 10-15 лет, до менее чем 12 месяцев. Программа выделила более $18 миллиардов налогоплательщиков, распределённых по:</p>
+<ul>
+<li>
+<p><strong>Разработка вакцин:</strong> Миллиарды авансового финансирования Pfizer, Moderna, Johnson &#x26; Johnson, AstraZeneca, Novavax и Sanofi/GSK для исследований вакцин, клинических испытаний и масштабирования производства.</p>
+</li>
+<li>
+<p><strong>Производство:</strong> Миллиарды инвестиций в производство «с риском» — финансирование производства доз вакцин до завершения клинических испытаний, принимая риск того, что продукты могут не получиться и инвестиции будут потеряны.</p>
+</li>
+<li>
+<p><strong>Распространение:</strong> Военная логистическая инфраструктура, развёрнутая через Министерство обороны для распространения вакцин в каждый уголок страны в течение нескольких недель после разрешения.</p>
+</li>
+<li>
+<p><strong>Закупки:</strong> Соглашения о предварительных закупках, обязывающие правительство покупать сотни миллионов доз по согласованным ценам.</p>
+</li>
+</ul>
+<p>Карен Кингстон задокументировала в The Kingston Report (karenkingston.substack.com), что операция Warp Speed не была программой общественного здравоохранения — это была военная операция: «OWS возглавлял четырёхзвёздный генерал (Густав Перна) и руководитель фармацевтической индустрии. Она финансировалась через Министерство обороны. Она осуществлялась с использованием военной логистики. Она закупалась в рамках полномочий по другим сделкам — военных соглашений о закупках. Вакцины были классифицированы как "контрмеры", а не фармацевтические продукты. Это было развёртывание военной контрмеры для гражданского населения, управляемое через военную командную структуру и защищённое юридической защитой военного уровня».</p>
+<hr>
+<h2 id="роль-главного-специалиста-по-вакцинам">Роль главного специалиста по вакцинам</h2>
+<p>Главный специалист по вакцинам операции Warp Speed служил основным координатором программы между федеральным правительством и фармацевтическими компаниями, разрабатывающими вакцины против COVID-19. Эта роль включала:</p>
+<p><strong>Выбор производителей:</strong> Определение того, какие компании получали федеральное финансирование и в каких объёмах, фактически выбирая, какие кандидаты на вакцины будут продвигаться, а какие будут отложены в сторону.</p>
+<p><strong>Установление графиков разработки:</strong> Установление ускоренных графиков, которые сжали годы разработки до месяцев, включая решения о том, какие требования к тестированию безопасности будут сокращены или исключены.</p>
+<p><strong>Ведение переговоров по контрактам:</strong> Структурирование контрактов OTA, в рамках которых продвигалась разработка вакцин, включая условия, освобождающие продукты от стандартных фармацевтических правил.</p>
+<p><strong>Координация с регуляторами:</strong> Связь с FDA для обеспечения того, чтобы регуляторный путь — включая разрешение на экстренное использование — соответствовал графику развёртывания программы.</p>
+<p><strong>Управление распространением:</strong> Надзор за военной логистической операцией, которая распространяла вакцины по пунктам оказания помощи по всей стране.</p>
+<p>Главный специалист по вакцинам обладал большим влиянием на программу вакцинации против COVID-19, чем кто-либо другой — больше, чем комиссар FDA, больше, чем директор CDC, больше, чем любой отдельный руководитель фармацевтической компании. Дизайн программы, её графики, её регуляторный путь и её стратегия распространения — всё проходило через эту роль.</p>
+<hr>
+<h2 id="отстранение">Отстранение</h2>
+<p>Отстранение главного специалиста по вакцинам OWS от федеральной службы представляет собой окончательный разрыв между нынешней администрацией и аппаратом инъекций эпохи пандемии. Отстранение передаёт несколько сообщений:</p>
+<p><strong>Подотчётность начинается с верхушки.</strong> Отстранение архитектора программы — а не нижестоящих функционеров — устанавливает, что подотчётность за реагирование на пандемию распространяется на тех, кто принимал самые важные решения.</p>
+<p><strong>Наследие программы пересматривается.</strong> Отстраняя её главного архитектора, администрация сигнализирует, что операция Warp Speed — это не наследие, которое нужно праздновать, а операция, которую нужно изучать, ставить под вопрос и потенциально преследовать в судебном порядке.</p>
+<p><strong>Военно-фармацевтическая связь разрывается.</strong> Главный специалист по вакцинам представлял человеческую связь между Министерством обороны, HHS и фармацевтической индустрией. Его отстранение разрывает эту связь на самом высоком кадровом уровне.</p>
+<p><strong>Будущие операции сдерживаются.</strong> Отстранение устанавливает, что будущие должностные лица, участвующие в военно-фармацевтических операциях, которые развёртывают экспериментальные продукты для гражданского населения, могут столкнуться с последствиями, прерывающими карьеру.</p>
+<hr>
+<h2 id="вопросы-которые-остаются">Вопросы, которые остаются</h2>
+<p>Отстранение поднимает вопросы, требующие ответов:</p>
+<p><strong>Знал ли главный специалист по вакцинам о нарушениях в клинических испытаниях?</strong> Если обвинения информатора Ventavia точны, и если главному специалисту по вакцинам сообщили о проблемах с целостностью данных в процессе клинических испытаний, его бездействие представляет собой нарушение долга, которое может иметь уголовные последствия.</p>
+<p><strong>Подавлял ли главный специалист по вакцинам альтернативные методы лечения?</strong> Сохранение полномочий EUA требовало отсутствия адекватных одобренных альтернатив. Если главный специалист по вакцинам участвовал в решениях по подавлению доказательств эффективности раннего лечения — прямо или через влияние программы на решения FDA — это представляет собой форму манипулирования рынком, которая подвергала опасности пациентов, которые могли быть вылечены.</p>
+<p><strong>Знал ли главный специалист по вакцинам о неблагоприятных событиях?</strong> Будучи координатором программы, главный специалист по вакцинам находился в положении, позволяющем получать ранние сообщения о неблагоприятных событиях после вакцинации. Если он получал такие сообщения и не предпринял действий по изменению стратегии развёртывания программы, его бездействие может представлять собой как минимум халатность, а в худшем случае — безрассудство.</p>
+<p><strong>Каковы были финансовые конфликты?</strong> Финансовые отношения главного специалиста по вакцинам — предыдущая работа, консультационные соглашения, владение акциями, перспективы будущей работы — с фармацевтическими компаниями, которые он финансировал и с которыми координировался через OWS, должны быть полностью раскрыты и изучены.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/127-Operation_Midnight_Climax.mp4">Операция Midnight Climax</a> документирует историческую закономерность правительственных чиновников, которые разрабатывают и осуществляют программы с катастрофическими последствиями для гражданского населения — и которые в прошлых поколениях не несли никакой ответственности. Отстранение главного специалиста по вакцинам OWS представляет собой разрыв с этой закономерностью — утверждение, что архитекторы сомнительных программ столкнутся с последствиями.</p>
+<hr>
+<h2 id="пророческий-вывод">Пророческий вывод</h2>
+<blockquote>
+<p>«Ибо всякое дело Бог приведёт на суд, и всё тайное, хорошо ли оно, или худо.» — Екклесиаст 12:14</p>
+</blockquote>
+<p>Отстранение — это земной суд — последствие для карьеры, а не уголовный приговор. Последует ли уголовная ответственность, зависит от ведущихся расследований, доказательств, которые они предоставят, и политической воли к судебному преследованию.</p>
+<p>Но отстранение устанавливает принцип, которому фармацевтическая индустрия и её правительственные партнёры сопротивлялись десятилетиями: архитекторы программ, причиняющих вред общественности, будут привлечены к ответственности — если не в этой администрации, то в следующей; если не в этом суде, то в финальном.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/181-Ending_Anonymity.mp4">Прекращение анонимности</a> документирует конец анонимного управления — требование, чтобы те, кто принимает решения, затрагивающие миллиарды людей, были известны, названы и привлечены к ответственности за последствия своих решений.</p>
+<p>Главный специалист по вакцинам операции Warp Speed был назван, отстранён и подвергнут проверке, которой он пытался избежать. Операция, которую он разработал, развернула более 670 миллионов доз экспериментальных продуктов для американского населения. Последствия этого развёртывания всё ещё разворачиваются.</p>
+<hr>
+<hr>
+<h3 id="предупреждение-из-1-царств-8">Предупреждение из 1 Царств 8</h3>
+<blockquote>
+<p><em>«И сказал Господь Самуилу: послушай голоса народа во всём, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтоб Я не царствовал над ними.»</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (Синодальный перевод)</a></p>
+</blockquote>
+<p>Древнее предупреждение из 1 Царств 8 отдаётся эхом в каждом правительственном коридоре сегодня. Когда Израиль потребовал царя, как у других народов, Бог предупредил их в точности о том, что произойдёт — их сыновья будут взяты на войну, их дочери на службу, их поля и виноградники захвачены, десятая часть всего конфискована. Они выбрали человеческое правительство вместо правления Бога, и тирания последовала в точности так, как было обещано. Ничего не изменилось. Современная политическая система — это два крыла одной птицы — левое и правое, республиканцы и демократы — все служат одной и той же скрытой властной структуре. Голосование за любую сторону — это выбор того, какое крыло машет следующим, пока птица летит в том же направлении. Настоящая власть никогда не была ни в одном бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>DOD / HHS — Документация программы операции Warp Speed и кадровые записи</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — Анализ Карен Кингстон структуры программы OWS, архитектуры контрактов OTA, военно-фармацевтической связи и документации роли главного специалиста по вакцинам</p>
+</li>
+<li>
+<p>Операция Warp Speed — Контрактные и финансовые записи</p>
+</li>
+<li>
+<p>Иеремия 52:10-11, Екклесиаст 12:14 (Синодальный перевод)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных царей (Синодальный перевод)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки от ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/127-Operation_Midnight_Climax.mp4">Операция Midnight Climax</a> — Правительственные программы с катастрофическими гражданскими последствиями</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/181-Ending_Anonymity.mp4">Прекращение анонимности</a> — Называние и привлечение к ответственности тех, кто управляет из тени</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/167-DARPA_Dark_Winter.mp4">DARPA тёмная зима</a> — Военное происхождение развёртывания пандемических контрмер</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">В ногу со зверем</a> — Военно-фармацевтическая координация, служащая системе зверя</li>
+</ul>
+<p>Из альбома Confliction (Пещера сокровищ):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/31-Satans_Hosts.mp4">Воинство сатаны</a> — Командиры, которые направляют операции противника</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/89-The_Serpent_Crusher.mp4">Сокрушитель змея</a> — Подотчётность, падающая на архитекторов системы</li>
+</ul>
+<h2 id="изучите-дальше">Изучите дальше</h2>
+<ul>
+<li><a href="/fda-ended-emergency-use-authorizations/?lang=ru">FDA только что прекратило разрешения на экстренное использование для COVID-19</a> — Конец структуры, созданной OWS</li>
+<li><a href="/federal-government-pfizer-data-fraud/?lang=ru">Это преступление? Федеральное правительство помогало Pfizer в мошенничестве с данными</a> — Мошенничество, которое произошло под надзором OWS</li>
+<li><a href="/hhs-pulls-mrna-research-funding/?lang=ru">HHS отзывает $500 миллионов финансирования исследований мРНК</a> — Дефинансирование технологии, развёрнутой OWS</li>
+<li><a href="/trump-bans-gain-of-function/?lang=ru">Указ Трампа запрещает исследования gain-of-function</a> — Устранение исследований, стоящих за продуктами OWS</li>
+</ul>
+<hr>
+<p><em>Царь Вавилона судил князей, которые привели Иудею к гибели. Седекия видел последствия своего руководства прежде, чем его глаза были запечатаны навсегда. Главный специалист по вакцинам операции Warp Speed был отстранён от должности, с которой он руководил развёртыванием экспериментальных продуктов в 670 миллионов доз по всему американскому населению. Отстранение — это не окончательный суд — это первый. «Ибо всякое дело Бог приведёт на суд, и всё тайное, хорошо ли оно, или худо» (Екклесиаст 12:14). Тайные вещи — контракты, коммуникации, решения, принятые за закрытыми дверями, пока нации говорили доверять науке — будут приведены на суд. Архитектор был удалён из здания. Фундамент здания следующий.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Главный специалист по вакцинам операции Warp Speed отстранён от должности"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Главный архитектор программы вакцинации операции Warp Speed отстранён от федеральной службы, что знаменует окончательный разрыв с аппаратом инъекций эпохи пандемии."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-06-05T10:00:00Z","children":"5 июня 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","Operation-Warp-Speed",{"href":"/ru/tag/Operation-Warp-Speed/","className":"tag-pill","children":["#","Operation-Warp-Speed"]}],["$","a","vaccine-chief",{"href":"/ru/tag/vaccine-chief/","className":"tag-pill","children":["#","vaccine-chief"]}],["$","a","ousted",{"href":"/ru/tag/ousted/","className":"tag-pill","children":["#","ousted"]}],["$","a","reform",{"href":"/ru/tag/reform/","className":"tag-pill","children":["#","reform"]}],["$","a","accountability",{"href":"/ru/tag/accountability/","className":"tag-pill","children":["#","accountability"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/operation-warp-speed-chief-ousted/","title":"Главный специалист по вакцинам операции Warp Speed отстранён от должности"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/operation-warp-speed-chief-ousted/","title":"Главный специалист по вакцинам операции Warp Speed отстранён от должности"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Главный специалист по вакцинам операции Warp Speed отстранён от должности | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Главный архитектор программы вакцинации операции Warp Speed отстранён от федеральной службы, что знаменует окончательный разрыв с аппаратом инъекций эпохи пандемии."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"Operation-Warp-Speed, vaccine-chief, ousted, reform, accountability"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/operation-warp-speed-chief-ousted/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/operation-warp-speed-chief-ousted/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/operation-warp-speed-chief-ousted/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/operation-warp-speed-chief-ousted/"}],["$","meta","10",{"property":"og:title","content":"Главный специалист по вакцинам операции Warp Speed отстранён от должности"}],["$","meta","11",{"property":"og:description","content":"Главный архитектор программы вакцинации операции Warp Speed отстранён от федеральной службы, что знаменует окончательный разрыв с аппаратом инъекций эпохи пандемии."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/operation-warp-speed-chief-ousted/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/operation-warp-speed-chief-ousted.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Главный специалист по вакцинам операции Warp Speed отстранён от должности"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Главный специалист по вакцинам операции Warp Speed отстранён от должности"}],["$","meta","25",{"name":"twitter:description","content":"Главный архитектор программы вакцинации операции Warp Speed отстранён от федеральной службы, что знаменует окончательный разрыв с аппаратом инъекций эпохи пандемии."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/operation-warp-speed-chief-ousted.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

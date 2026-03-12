@@ -1,0 +1,115 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","neuralink-telepathy-telekinesis",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","neuralink-telepathy-telekinesis","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","neuralink-telepathy-telekinesis","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T4fa6,<h1 id="neuralink-ищет-телепатию-и-телекинез-комплекс-бога">Neuralink ищет телепатию и телекинез: комплекс Бога</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Ибо кто познал ум Господень? или кто был советником Ему?" -- Римлянам 11:34</p>
+</blockquote>
+<p>Телепатия -- способность узнать мысли другого -- это божественный атрибут. Только Бог знает ум. Только Бог читает мысли. Только Бог общается дух с духом без посредничества слов, жестов или физических сигналов. Когда люди предполагают узнать ум другого, Писание называет это гаданием -- практика явно запрещена в Второзаконии 18:10-12 наряду с колдовством, магией и консультацией с мертвыми.</p>
+<p>Телекинез -- способность двигать физические объекты посредством команды ума -- это божественная сила. Бог говорил вселенную в существование. Его Слово движет материалью. Его воля формирует действительность. Когда люди пытаются двигать материю через ум один, они входят в область сверхъестественного -- область, которую Писание зарезервирует для Бога и предупреждает против человеческого нарушения.</p>
+<p>Названия продуктов Neuralink -- это Телепатия и Телекинез. Не метафорически. Буквально. Первый продукт позволяет связь от мысли к устройству. Продукт следующего поколения нацелен на движение физического контролера мыслью. Илон Маск строит технологическую инфраструктуру для воспроизведения божественных атрибутов и распределения их посредством коммерческих продуктов.</p>
+<p>Это комплекс Бога, сделанный буквальным. Это Бытие 3:5 с картой дорог продукта.</p>
+<p>Как объявляет трек альбома Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">The Transgression</a>, первоначальный грех достигал за божественное знание и силу. <a href="https://confliction.zzzdaily.com/tracks/ru/105-The_Second_Adam.mp4">The Second Adam</a> пришел не захватить божественную силу, а подчиниться божественной воле -- противоположность того, что представляет Neuralink.</p>
+<hr>
+<h2 id="телепатия-чтение-и-передача-мысли">Телепатия: чтение и передача мысли</h2>
+<p>Neuralink назвал свой первый коммерческий продукт "Телепатия". Название не является маркетинговой гиперболой. Он описывает функцию: чип читает сигналы мозга, связанные с предполагаемой коммуникацией и переводит их в цифровой вывод. Пользователь думает, и устройство передает.</p>
+<h3 id="текущая-возможность">Текущая возможность</h3>
+<p>В человеческих испытаниях устройство Telepathy Neuralink продемонстрировало:</p>
+<ul>
+<li><strong>Управление курсором посредством мысли.</strong> Пользователи думают о перемещении курсора, и курсор движется. Никакое физическое ввода требуется.</li>
+<li><strong>Генерирование текста посредством мысли.</strong> Пользователи сочиняют сообщения, думая о буквах или словах, которые устройство переводит в напечатанный текст.</li>
+<li><strong>Управление приложением.</strong> Пользователи навигируют операционными системами, просматривают интернет и взаимодействуют с программным обеспечением посредством нейральных команд.</li>
+<li><strong>Скорость коммуникации, превосходящая физический ввод.</strong> Парализованные пользователи общаются посредством телепатии быстрее, чем они могли бы посредством любой предыдущей вспомогательной технологии.</li>
+</ul>
+<h3 id="траектория-к-истинной-телепатии">Траектория к истинной телепатии</h3>
+<p>Текущий продукт телепатии -- это однонаправленный: мозг к устройству. Мысли пользователя читаются и переводятся в цифровой вывод. Но Маск явно заявил, что главная цель -- коммуникация мозг к мозгу -- истинная телепатия, где мысли одного человека передаются непосредственно в мозг другого человека посредством соединения Neuralink к Neuralink.</p>
+<p>Технические требования для этого:</p>
+<ol>
+<li><strong>Высокопропускной способности чтения мозга.</strong> Электроды N1's 1,024 должны расширяться до десятков тысяч (N2 стремится к 16,000+) для захвата мысли с достаточным разрешением для значимой коммуникации.</li>
+<li><strong>Двунаправленный интерфейс.</strong> Чип должен читать и писать нейральные сигналы -- прием переданных мыслей и стимуляция нейронов приемника для создания соответствующего психического опыта.</li>
+<li><strong>Кодирование/декодирование нейрала.</strong> Система должна разработать универсальный "язык" для нейральных сигналов -- переводя образцы мысли одного человека в нейральную архитектуру другого человека, через индивидуальные разные различия в структуре мозга и связности.</li>
+<li><strong>Низко-задержка сеть.</strong> Связь мысли в реальном времени требует близко-нулевая задержка -- скорости передачи, которые делают разговор ощущаться мгновенным.</li>
+</ol>
+<p>Каждый из этих требований находится в активном разработке. Коммуникация мозг к мозгу была уже продемонстрирована в лабораторных установках на рудиментарных уровнях -- команды просто были переданы между мозгами, используя ЭЭГ и трансчерепную магнитную стимуляцию (TMS) в исследовательских командах в Университете Вашингтона и других учреждениях.</p>
+<p>Технология Neuralink, с ее драматически более высокой числовой электрода и разрешением, представляет квантовый скачок за пределы этих ранних демонстраций. Истинная телепатия -- два ума общающиеся без слов, без звука, без какого-либо физического средства -- не фантазия. Это таблица инженеринга.</p>
+<hr>
+<h2 id="телекинез-перемещение-материи-с-ума">Телекинез: перемещение материи с ума</h2>
+<p>Второй продукт Neuralink, объявленный как "Blindsight" для восстановления видения, но с более широким телекинетическим стремлением, стремится дать пользователям способность контролировать физические объекты посредством мысли один.</p>
+<h3 id="путь-от-курсора-к-объекту">Путь от курсора к объекту</h3>
+<p>Если мозговой чип может двигать курсор на экране, он может двигать что-либо, подключенное к той же цифровой инфраструктуре. Прогрессия прямолинейная:</p>
+<ol>
+<li><strong>Цифровой телекинез.</strong> Перемещение курсоров, управление программным обеспечением, навигация виртуальных окружений -- уже продемонстрировано.</li>
+<li><strong>Роботический телекинез.</strong> Управление роботическими рукавами, дронами, автомобилями и машинами посредством мысли. Продемонстрировано в лабораторных установках с более ранними интерфейсами мозг-компьютер; драматически улучшено разрешением Neuralink.</li>
+<li><strong>Телекинез окружающей среды.</strong> Управление умными домашними устройствами, промышленным оборудованием и инфраструктурными системами посредством мысли. Когда все подключено к интернету вещей, все управляемо посредством чипа мозга.</li>
+<li><strong>Телекинез гуманоидного робота.</strong> Управление роботами Tesla Optimus посредством Neuralink -- дающий пользователю удаленное тело, которое ходит, захватывает, поднимает и взаимодействует с физическим миром полностью посредством команды ума.</li>
+</ol>
+<p>Это не перемещение объектов силой. Это перемещение объектов посредством цифровой инфраструктуры, которая соединяет мозг чип с всем. Но опыту пользователя, опыт неотличим от телекинеза: думаю, и мир движется.</p>
+<hr>
+<h2 id="комплекс-бога-воспроизведение-божественных-атрибутов">Комплекс Бога: воспроизведение божественных атрибутов</h2>
+<h3 id="телепатия--всеведение">Телепатия = Всеведение</h3>
+<p>Истинная телепатия -- способность узнать мысли другого -- это форма всеведения. Если коммуникация мозг к мозгу становится вездесущей (как видит Маск), каждый человек с чипом Neuralink становится частью коллективного сознания, где мысли разделены, где умы сетевиеся, где приватность мысли прекращается.</p>
+<p>Это не просто конец когнитивной свободы. Это технологическое моделирование божественного всеведения -- знающий все мысли, во всех умах, в реальном времени. Это Hive Mind, и это представляется как особенность, не угроза.</p>
+<h3 id="телекинез--всемогущество">Телекинез = Всемогущество</h3>
+<p>Управление физическое манипуляцией посредством команду ума -- перемещение объектов, управление машинами, управления инфраструктурой посредством мысли команда -- это форма всемогущества. Если цифровая инфраструктура соединяет мозг со всем, то мысль управляет всем. Воля становится исполнимой. Воображение становится физической.</p>
+<p>"Ничто не будет воздержано от них, что они замыслили" (Бытие 11:6). Оценка Бога Вавилона применяется точно к видению Neuralink: воображение сделано физической, воля сделана исполнимой, мысль переводится непосредственно в действие. Это сила, Бог определил как опасный -- и рассеял строителей для предотвращения.</p>
+<h3 id="бессмертие--вечная-жизнь">Бессмертие = Вечная жизнь</h3>
+<p>Маск и Куртцвейль оба выступают за цифровое сознание -- загрузка ума на компьютер, спасение памяти в облаке, достижение бессмертия посредством технологии. Это третий божественный атрибут трансгуманисты стремятся воспроизвести: вечная жизнь.</p>
+<p>Телепатия, телекинез и бессмертие. Всеведение, всемогущество и вечная жизнь. Триунские атрибуты Бога, воспроизведенные в кремнии и маркетированные как потребительские продукты. Это не тонко. Это комплекс Бога, объявленный явно его собственными архитекторами.</p>
+<hr>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушай-пока-читаешь">Слушай, пока читаешь</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/35-Neuralink_Telepathy.mp4">Neuralink Telepathy</a> -- Продукт, названный в честь божественного атрибута</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a> -- Оборудование комплекса Бога</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/67-Hive_Mind.mp4">Hive Mind</a> -- Когда телепатия становится коллективным сознанием</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/43-Singularity_2030.mp4">Singularity 2030</a> -- Расписание к слиянию</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/495-Tower_Of_Babel_2.mp4">Tower Of Babel 2</a> -- Древнее стремление перестроено</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">The Transgression</a> -- Достижение за божественность</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/105-The_Second_Adam.mp4">The Second Adam</a> -- Тот, кто пришел не захватить, а служить</li>
+</ul>
+<h2 id="дальнейшие-исследования">Дальнейшие исследования</h2>
+<ul>
+<li><a href="/neuralink-brain-chips-exponential/?lang=ru">Elon Musk's Neuralink Brain Chips Goes Exponential</a> -- Экспоненциальное ускорение технологии мозговых чипов</li>
+<li><a href="/kurzweil-merging-humans-ai/?lang=ru">Ray Kurzweil MIT Speech: Merging Humans With AI by 2030</a> -- Идеологическая структура за комплексом Бога</li>
+<li><a href="/att-patent-surveil-brain/?lang=ru">AT&#x26;T Patent To Surveil and Hack Your Brain Waves</a> -- Корпоративные претензии на когнитивный суверенитет</li>
+<li><a href="/hive-mind-collective-consciousness/?lang=ru">Hive Mind: The End of Individual Consciousness</a> -- Коллективное сознание, которое Neuralink позволяет</li>
+</ul>
+<hr>
+<p><em>Бог всеведущ. Neuralink предлагает телепатию. Бог всемогущ. Neuralink предлагает телекинез. Бог вечен. Трансгуманизм предлагает цифровое бессмертие. Образец неоспорим: каждый божественный атрибут технологически контрфактически и продан как продукт. "Будете как боги" была обещание змеи в Эдене. "Симбиоз с AI" -- это обещание змеи в Кремниевой долине. Слова меняются. Предложение не. И следствие не. Ибо каждый человек, который достигал за божественность -- от Адама до Нимрода к строителям каждой башни, которая попыталась проколоть небеса -- конец был то же самое: изгнание, рассеяние, суд. "Низложил мощных с престолов и вознесенные низкие" (Луки 1:52). Neuralink стремится посадить людей в трон Бога. Бог низложает мощных. И Ему не нужен мозговой чип для того, чтобы это сделать.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Neuralink ищет телепатию и телекинез: комплекс Бога"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Указанные цели Neuralink по телепатии и телекинезу посредством интерфейсов мозг-компьютер раскрывают главное трансгуманистическое стремление к воспроизведению божественных атрибутов посредством технологии."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-10T10:00:00Z","children":"10 февраля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","neuralink",{"href":"/ru/tag/neuralink/","className":"tag-pill","children":["#","neuralink"]}],["$","a","telepathy",{"href":"/ru/tag/telepathy/","className":"tag-pill","children":["#","telepathy"]}],["$","a","telekinesis",{"href":"/ru/tag/telekinesis/","className":"tag-pill","children":["#","telekinesis"]}],["$","a","brain-computer-interface",{"href":"/ru/tag/brain-computer-interface/","className":"tag-pill","children":["#","brain-computer-interface"]}],["$","a","god-complex",{"href":"/ru/tag/god-complex/","className":"tag-pill","children":["#","god-complex"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/neuralink-telepathy-telekinesis/","title":"Neuralink ищет телепатию и телекинез: комплекс Бога"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/neuralink-telepathy-telekinesis/","title":"Neuralink ищет телепатию и телекинез: комплекс Бога"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Neuralink ищет телепатию и телекинез: комплекс Бога | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Указанные цели Neuralink по телепатии и телекинезу посредством интерфейсов мозг-компьютер раскрывают главное трансгуманистическое стремление к воспроизведению божественных атрибутов посредством технологии."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"neuralink, telepathy, telekinesis, brain-computer-interface, god-complex"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/neuralink-telepathy-telekinesis/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/neuralink-telepathy-telekinesis/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/neuralink-telepathy-telekinesis/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/neuralink-telepathy-telekinesis/"}],["$","meta","10",{"property":"og:title","content":"Neuralink ищет телепатию и телекинез: комплекс Бога"}],["$","meta","11",{"property":"og:description","content":"Указанные цели Neuralink по телепатии и телекинезу посредством интерфейсов мозг-компьютер раскрывают главное трансгуманистическое стремление к воспроизведению божественных атрибутов посредством технологии."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/neuralink-telepathy-telekinesis/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/neuralink-telepathy-telekinesis.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Neuralink ищет телепатию и телекинез: комплекс Бога"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Neuralink ищет телепатию и телекинез: комплекс Бога"}],["$","meta","25",{"name":"twitter:description","content":"Указанные цели Neuralink по телепатии и телекинезу посредством интерфейсов мозг-компьютер раскрывают главное трансгуманистическое стремление к воспроизведению божественных атрибутов посредством технологии."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/neuralink-telepathy-telekinesis.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

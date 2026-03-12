@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","rfk-roots-out-cdc-big-tech-ai",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","rfk-roots-out-cdc-big-tech-ai","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rfk-roots-out-cdc-big-tech-ai","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T6a51,<h1 id="рфк-младший-искореняет-руководителей-cdc-связанных-с-big-tech-и-ии">РФК-младший искореняет руководителей CDC, связанных с Big Tech и ИИ</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>«Ибо нет ничего тайного, что не сделалось бы явным, ни сокровенного, что не сделалось бы известным». — Лука 12:2</p>
+</blockquote>
+<p>Царь Ахав не просто поклонялся Ваалу в частном порядке. Он построил институциональную инфраструктуру ложного поклонения — храмы, жрецов, пророков и механизмы принуждения, которые проникли на каждый уровень израильского общества. 450 пророков Ваала и 400 пророков Ашеры ели за столом Иезавели. Они финансировались государством, получали полномочия от государства и защищались государством. Система не была скрыта — но ее связи были затенены за слоями институциональной власти.</p>
+<p>Как показывает трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/09-Satans_Disguise.mp4">Satan's Disguise</a>, противник работает наиболее эффективно не через открытую оппозицию, а через инфильтрацию — надевая форму института, который он стремится развратить, говоря на языке власти, которую он стремится подорвать.</p>
+<p>РФК-младший обнаружил, что руководство CDC включало чиновников с нераскрытыми связями с платформами Big Tech и компаниями искусственного интеллекта — теми же сущностями, которые обеспечивали аппарат цензуры в эпоху пандемии. Пророки современного Ваала сидели не за столом Иезавели, а на пересечении общественного здравоохранения, Силиконовой долины и технологии наблюдения.</p>
+<hr>
+<h2 id="связь-cdc-big-tech">Связь CDC-Big Tech</h2>
+<p>Во время пандемии COVID-19 CDC не просто выдавал рекомендации общественного здравоохранения. Он активно координировался с платформами социальных сетей — Facebook, Twitter, Google, YouTube — для выявления и подавления информации, которая противоречила официальным нарративам. Внутренние коммуникации, полученные через запросы FOIA и обнаружение в судебных разбирательствах, показали, что чиновники CDC:</p>
+<ul>
+<li>Помечали определенные посты в социальных сетях для удаления или подавления</li>
+<li>Идентифицировали конкретных лиц — включая лицензированных врачей и рецензируемых исследователей — для действий по принуждению платформ</li>
+<li>Предоставляли руководство по модерации контента компаниям социальных сетей, указывая, какие утверждения считаются «дезинформацией»</li>
+<li>Участвовали в регулярных координационных звонках с командами модерации контента Big Tech</li>
+<li>Делились данными с технологическими компаниями для поддержки алгоритмического подавления целевого контента</li>
+</ul>
+<p>Эта координация не была импровизационной. Она была структурной. CDC поддерживал формальные и неформальные отношения с технологическими компаниями через множественные каналы, включая Фонд CDC (который получал финансирование от технологических компаний), межведомственные партнерства (через Команду реагирования COVID-19 Белого дома) и прямые связи персонала.</p>
+<p>Карен Кингстон задокументировала в The Kingston Report (karenkingston.substack.com), что координация цензуры CDC распространялась за пределы подавления контента на наблюдение. «CDC не просто просил Big Tech удалять посты», — написала Кингстон. «Он получал доступ к данным — тенденциям поиска, данным о местоположении, поведенческой аналитике — от технологических платформ для мониторинга соблюдения населением рекомендаций общественного здравоохранения. Те же платформы, которые цензурировали несогласие, предоставляли CDC данные наблюдения о поведении, убеждениях и передвижениях населения».</p>
+<h3 id="связь-с-ии">Связь с ИИ</h3>
+<p>Расследование РФК-младшего выявило, что несколько старших чиновников CDC имели нераскрытые связи с компаниями искусственного интеллекта, занимающимися надзором за здоровьем, прогнозной аналитикой и моделированием поведения населения. Эти связи включали:</p>
+<ul>
+<li>Должности в консультативных советах компаний ИИ, разрабатывающих инструменты надзора за пандемией</li>
+<li>Консультационные соглашения с фирмами, заключившими контракт с федеральными агентствами на анализ данных о здоровье с использованием ИИ</li>
+<li>Предыдущее трудоустройство в технологических компаниях, чьи платформы использовались для цензуры в эпоху пандемии</li>
+<li>Финансовые интересы — включая владение акциями и консультационные гонорары — в компаниях, которые получили выгоду от контрактов и партнерств CDC во время пандемии</li>
+</ul>
+<p>Трек ZZZ Daily <a href="https://zzzdaily.zzzdaily.com/tracks/ru/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> документирует роль компаний надзора с использованием ИИ в построении цифрового паноптикума — системы тотального наблюдения, в которой данные о здоровье, местоположении, коммуникациях и социальных взаимодействиях каждого человека захватываются, анализируются и используются для моделирования и прогнозирования поведения.</p>
+<p>Связь CDC с этими компаниями превратила агентство из института общественного здравоохранения в узел сети наблюдения. Данные о здоровье, собранные через программы тестирования, записи вакцинации, системы отчетности больниц и мониторинг сточных вод, были переданы системам ИИ, которые моделировали поведение населения, идентифицировали несоответствующих лиц и сообщества и генерировали стратегии принуждения.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/213-Predictive_Policing.mp4">Predictive Policing</a> исследует, как прогностические модели на основе ИИ — изначально разработанные для правоохранительных органов — были адаптированы для принуждения к соблюдению здоровья, создавая систему, в которой несоблюдение директив здравоохранения может быть предсказано, помечено и упреждающе решено.</p>
+<hr>
+<h2 id="комплекс-цензуры-промышленности">Комплекс цензуры-промышленности</h2>
+<p>Связи, которые раскрыл РФК-младший, являются компонентами того, что было названо «комплексом цензуры-промышленности» — сетью правительственных агентств, технологических компаний, академических учреждений и некоммерческих организаций, которые координируются для контроля потока информации через цифровые платформы.</p>
+<p>Архитектура этой системы включает:</p>
+<p><strong>Правительственные агентства</strong> (CDC, FDA, DHS, Госдепартамент), которые идентифицируют контент для подавления и предоставляют руководство по модерации платформам.</p>
+<p><strong>Технологические компании</strong> (Meta/Facebook, Google/YouTube, Twitter/X, Microsoft), которые реализуют подавление контента через алгоритмическое понижение, удаление контента, приостановку аккаунтов и теневой бан.</p>
+<p><strong>Академические учреждения</strong> (Stanford Internet Observatory, University of Washington Center for an Informed Public), которые предоставляют структуру исследований и категоризацию «дезинформации».</p>
+<p><strong>Некоммерческие организации</strong> (NewsGuard, First Draft, Virality Project), которые служат посредниками между правительственными агентствами и технологическими платформами, предоставляя списки аккаунтов, контента и нарративов для целевого подавления.</p>
+<p><strong>Системы ИИ</strong>, которые автоматизируют идентификацию, категоризацию и подавление целевого контента в масштабе — позволяя операции цензуры, которые были бы невозможны через ручной человеческий обзор.</p>
+<p>Кингстон связала эту инфраструктуру с более широкой системой фармакейи: «Аппарат цензуры существует для защиты рынка фармацевтической промышленности. Каждый врач, который сообщал о неблагоприятных событиях, каждый исследователь, который ставил под сомнение данные об эффективности, каждый журналист, который документировал конфликты интересов — все были нацелены на подавление, потому что их речь угрожала фармацевтическим доходам. Роль CDC заключалась в предоставлении правительственного одобрения цензуре — чтобы заставить это выглядеть как защита общественного здравоохранения, а не защита рынка».</p>
+<hr>
+<h2 id="удаление-скомпрометированных-чиновников">Удаление скомпрометированных чиновников</h2>
+<p>Удаление РФК-младшим чиновников CDC, связанных с Big Tech и ИИ, представляет собой прямое нападение на институциональную инфраструктуру комплекса цензуры-промышленности. Идентифицируя и увольняя чиновников, которые служили точками связи между CDC и технологическими компаниями, действие разрывает связи персонала, которые позволяли координированную цензуру.</p>
+<p>Однако структурные связи остаются. Соглашения CDC об обмене данными с технологическими компаниями, его контракты с фирмами аналитики ИИ и его участие в межведомственных рамках координации цензуры являются институциональными, а не личными. Удаление лиц временно нарушает сеть, но не демонтирует институциональную архитектуру, которая будет стремиться восстановить эти связи под новым руководством.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/211-Total_Information_Awareness.mp4">Total Information Awareness</a> документирует долгосрочный федеральный проект по достижению полного информационного наблюдения за населением — проект, который предшествует COVID-19 на десятилетия и который пандемия просто ускорила и нормализовала.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/243-Cybereason_CIA.mp4">Cybereason CIA</a> раскрывает связи разведывательного сообщества, лежащие в основе технологических компаний, которые обеспечивают инфраструктуру наблюдения — раскрывая, что платформы, которые американцы используют ежедневно для коммуникации, коммерции и информации, были разработаны с участием разведывательного сообщества и служат целям разведывательного сообщества.</p>
+<hr>
+<h2 id="пророческое-предупреждение">Пророческое предупреждение</h2>
+<blockquote>
+<p>«И услышал я иной голос с неба, говорящий: выйди от нее, народ Мой, чтобы не участвовать вам в грехах ее и не подвергнуться язвам ее». — Откровение 18:4</p>
+</blockquote>
+<p>Команда «выйти от нее» — это не просто духовная — это практическая. Система, описанная в Откровении 18, — это коммерческий, технологический и политический аппарат, который ловит тех, кто участвует в нем. Связь CDC-Big Tech является компонентом этой системы — механизмом, через который власть общественного здравоохранения объединяется с технологическим наблюдением и контролем информации для создания системы тотального управления населением.</p>
+<p>Выход требует признания системы такой, какая она есть: не коллекцией благонамеренных институтов, делающих случайные ошибки, а координированным аппаратом, разработанным для мониторинга, манипулирования и контроля. Чиновники, которых удалил РФК-младший, были узлами в этом аппарате. Их удаление необходимо, но недостаточно. Сам аппарат должен быть демонтирован — его контракты прекращены, его соглашения об обмене данными аннулированы, его юридические полномочия отменены, а его институциональная архитектура разрушена.</p>
+<hr>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>«И сказал Господь Самуилу: послушай голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтоб Я не царствовал над ними»</em>. — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (Синодальный перевод)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 эхом звучит через каждый правительственный коридор сегодня. Когда Израиль потребовал царя, как у других народов, Бог предупредил их, что именно произойдет — их сыновья будут взяты на войну, их дочери на службу, их поля и виноградники захвачены, десятина со всего конфискована. Они выбрали человеческое правительство над царствованием Бога, и тирания последовала точно, как было обещано. Ничего не изменилось. Современная политическая система — это два крыла одной птицы — левое и правое, республиканцы и демократы — все служат одной и той же скрытой структуре власти. Голосование за любую сторону — это выбор, какое крыло взмахнет следующим, пока птица летит в том же направлении. Реальная власть никогда не была ни в одном избирательном бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>Управление генерального инспектора HHS — записи финансового раскрытия персонала CDC</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — документация Карен Кингстон о координации CDC-Big Tech, интеграции надзора с использованием ИИ и архитектуре комплекса цензуры-промышленности</p>
+</li>
+<li>
+<p>Missouri v. Biden (теперь Murthy v. Missouri) — документы обнаружения, раскрывающие координацию цензуры правительства и платформ</p>
+</li>
+<li>
+<p>Фонд CDC — записи спонсоров технологических компаний</p>
+</li>
+<li>
+<p>Лука 12:2, Откровение 18:4 (Синодальный перевод)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных царей (Синодальный перевод)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство о предсмертном опыте Говарда Питтмана — Предупреждение о конце времен, данное ему Богом</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католическая конфиденциальность: раскрытые прискорбные секреты иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-пока-читаете">Слушайте, пока читаете</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/157-Palantir_Panopticon.mp4">Palantir Panopticon</a> — Компании надзора с использованием ИИ и цифровой паноптикум</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/211-Total_Information_Awareness.mp4">Total Information Awareness</a> — Федеральный проект полного информационного наблюдения</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/213-Predictive_Policing.mp4">Predictive Policing</a> — Поведенческое прогнозирование на основе ИИ, адаптированное для соблюдения здоровья</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/243-Cybereason_CIA.mp4">Cybereason CIA</a> — Связи разведывательного сообщества, лежащие в основе платформ Big Tech</li>
+</ul>
+<p>Из альбома Confliction (Пещера сокровищ):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/09-Satans_Disguise.mp4">Satan's Disguise</a> — Противник, надевающий форму института, который он стремится развратить</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">The Enemy Within</a> — Инфильтрация как наиболее эффективная стратегия подрыва</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/?lang=ru">РФК-младший проводит чистку в CDC</a> — Более широкая чистка скомпрометированного руководства CDC</li>
+<li><a href="/?lang=ru">CDC исчез: СМИ сообщают о массовом исходе</a> — Институциональный крах после удаления развращенных чиновников</li>
+<li><a href="/?lang=ru">6 медицинских ассоциаций подают в суд на РФК-младшего и руководителей HHS</a> — Юридическая контратака истеблишмента</li>
+<li><a href="/?lang=ru">HHS объявляет о трансформации здравоохранения MAHA</a> — Видение восстановления институтов здравоохранения</li>
+</ul>
+<hr>
+<p><em>Пророки Ваала ели за столом Иезавели, но носили одежды священства Израиля. Чиновники CDC, связанные с Big Tech и ИИ, носили полномочия общественного здравоохранения, но служили аппарату наблюдения, который мониторил, цензурировал и контролировал население во время самого значимого события общественного здравоохранения в современной истории. Их удаление — это необходимый акт институциональной очистки — но стол, за которым они сидели, остается накрытым, и новые пророки цифрового Ваала будут стремиться заполнить пустые стулья. «Трезвитесь, бодрствуйте, потому что противник ваш диавол ходит, как рыкающий лев, ища, кого поглотить» (1 Петра 5:8). Стулья опустели. Останутся ли они пустыми, будет зависеть от того, боится ли следующее поколение лидеров Бога больше, чем Силиконовой долины.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"РФК-младший искореняет руководителей CDC, связанных с Big Tech и ИИ"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"РФК-младший раскрывает и увольняет чиновников CDC с нераскрытыми связями с платформами Big Tech и компаниями надзора с использованием ИИ, которые обеспечивали цензуру в эпоху пандемии."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-09T10:00:00Z","children":"9 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","RFK-Jr",{"href":"/ru/tag/RFK-Jr/","className":"tag-pill","children":["#","RFK-Jr"]}],["$","a","CDC",{"href":"/ru/tag/CDC/","className":"tag-pill","children":["#","CDC"]}],["$","a","Big-Tech",{"href":"/ru/tag/Big-Tech/","className":"tag-pill","children":["#","Big-Tech"]}],["$","a","AI",{"href":"/ru/tag/AI/","className":"tag-pill","children":["#","AI"]}],["$","a","censorship",{"href":"/ru/tag/censorship/","className":"tag-pill","children":["#","censorship"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/rfk-roots-out-cdc-big-tech-ai/","title":"РФК-младший искореняет руководителей CDC, связанных с Big Tech и ИИ"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/rfk-roots-out-cdc-big-tech-ai/","title":"РФК-младший искореняет руководителей CDC, связанных с Big Tech и ИИ"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"РФК-младший искореняет руководителей CDC, связанных с Big Tech и ИИ | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"РФК-младший раскрывает и увольняет чиновников CDC с нераскрытыми связями с платформами Big Tech и компаниями надзора с использованием ИИ, которые обеспечивали цензуру в эпоху пандемии."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"RFK-Jr, CDC, Big-Tech, AI, censorship"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/rfk-roots-out-cdc-big-tech-ai/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/rfk-roots-out-cdc-big-tech-ai/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/rfk-roots-out-cdc-big-tech-ai/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/rfk-roots-out-cdc-big-tech-ai/"}],["$","meta","10",{"property":"og:title","content":"РФК-младший искореняет руководителей CDC, связанных с Big Tech и ИИ"}],["$","meta","11",{"property":"og:description","content":"РФК-младший раскрывает и увольняет чиновников CDC с нераскрытыми связями с платформами Big Tech и компаниями надзора с использованием ИИ, которые обеспечивали цензуру в эпоху пандемии."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/rfk-roots-out-cdc-big-tech-ai/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/rfk-roots-out-cdc-big-tech-ai.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"РФК-младший искореняет руководителей CDC, связанных с Big Tech и ИИ"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"РФК-младший искореняет руководителей CDC, связанных с Big Tech и ИИ"}],["$","meta","25",{"name":"twitter:description","content":"РФК-младший раскрывает и увольняет чиновников CDC с нераскрытыми связями с платформами Big Tech и компаниями надзора с использованием ИИ, которые обеспечивали цензуру в эпоху пандемии."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/rfk-roots-out-cdc-big-tech-ai.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

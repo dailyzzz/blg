@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","big-pharma-bloodlust-torture",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","big-pharma-bloodlust-torture","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","big-pharma-bloodlust-torture","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T592c,<h1 id="кровожадность-big-pharma-скрытая-история-медицинских-пыток">Кровожадность Big Pharma: скрытая история медицинских пыток</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p><em>"Горе вам, называющим зло добром и добро злом, в темноте - свет и в свете - темноту."</em> — Исаия 5:20</p>
+</blockquote>
+<p>Фармацевтическая промышленность представляет себя как величайший союзник человечества - спасающая жизни, излечивающая болезни, продвигающая человеческие знания. Но позади этого благодетельного фасада кроется история медицинских пыток настолько обширная, настолько систематическая и настолько постоянная, что составляет одно из величайших преступлений в человеческой истории.</p>
+<p>От экспериментов по сифилису в Tuskegee до программ контроля разума MKUltra, от принудительной стерилизации до несогласованного тестирования лекарств на заключенных, сиротах и умственно отсталых людях, фармацевтическо-медицинский комплекс рассматривал человеческих существ как лабораторных животных более века. И эксперименты не прекращались. Они просто становились более изощренными, более скрытыми и более глобальными.</p>
+<p>Говард Питтман был показано во время его NDE, что второе небо организовано демоническими иерархиями, чьим основным оружием является обман. Величайшим обманом медицинского учреждения является его образ: белый халат, стерильная лаборатория, обещание исцеления. Позади этого образа, как был сказано Питтману, 97,5% христиан терпят поражение, потому что они "никогда не сделали Иисуса Господом" - они служат себе. И фармацевтическая промышленность - это предельное самослужение учреждение: оно создает болезнь, получает прибыль от страданий и пытает уязвимых в преследовании все больших прибылей.</p>
+<hr>
+<h2 id="каталог-ужасов">Каталог ужасов</h2>
+<h3 id="эксперимент-сифилиса-в-tuskegee-1932-1972">Эксперимент сифилиса в Tuskegee (1932-1972)</h3>
+<p>В течение 40 лет служба общественного здравоохранения США проводила эксперимент на 600 черных мужчин в округе Мейкон, Алабама. Мужчинам было сказано, что они получают бесплатное здравоохранение для "плохой крови". На самом деле:</p>
+<ul>
+<li><strong>399 мужчин с сифилисом</strong> были намеренно оставлены без лечения, чтобы исследователи могли изучать развитие болезни</li>
+<li>Им <strong>никогда не сказали</strong>, что у них был сифилис</li>
+<li>Им были даны <strong>плацебо вместо лечения</strong>, даже после того как пенициллин стал стандартным лекарством в 1940-х годах</li>
+<li>Им активно <strong>препятствовали получать лечение</strong> из других источников</li>
+<li><strong>По крайней мере 128 мужчин умерли</strong> от сифилиса или его осложнений</li>
+<li><strong>40 жен</strong> были инфицированы сифилисом</li>
+<li><strong>19 детей</strong> родились с врожденным сифилисом</li>
+</ul>
+<p>Эксперимент проводился не рогатыми учеными. Его проводило правительство Соединенных Штатов, контролируемое CDC и опубликованное в рецензируемых медицинских журналах. Медицинское учреждение знало об этом и ничего не делало в течение четырех десятилетий.</p>
+<h3 id="гватемальские-эксперименты-по-сифилису-1946-1948">Гватемальские эксперименты по сифилису (1946-1948)</h3>
+<p>В параллельной атрокости, исследователи правительства США намеренно инфицировали сотни гватемальцев - заключенных, психических пациентов, военных и секс-работниц - сифилисом и гонореей без их согласия. Эксперименты финансировались NIH и проводились тем же доктором Джоном Катлером, который был вовлечен в эксперимент Tuskegee.</p>
+<p>Методы включали:</p>
+<ul>
+<li>Прямую инокуляцию с бактериями сифилиса</li>
+<li>Нанимание инфицированных секс-работниц для полового контакта с заключенными</li>
+<li>Нанесение инфицированного материала на глаза, рты и гениталии субъектов</li>
+<li>Соскабливание кожи и нанесение жидкости, содержащей сифилис</li>
+</ul>
+<p>По крайней мере 83 субъекта умерли. Эксперименты были скрыты более 60 лет, пока историк Сьюзан Рэверби не обнаружила их в архивных записях в 2010 году.</p>
+<h3 id="mkultra-и-контроль-разума-1953-1973">MKUltra и контроль разума (1953-1973)</h3>
+<p>Программа MKUltra ЦРУ проводила эксперименты по контролю разума на тысячах неосознающих субъектов, используя:</p>
+<ul>
+<li><strong>LSD и другие галлюциногенные наркотики</strong>, вводимые без согласия</li>
+<li><strong>Электросудорожная терапия</strong> при экстремальных напряжениях</li>
+<li><strong>Сенсорная депривация</strong> на продолжительные периоды</li>
+<li><strong>Гипноз</strong> и <strong>психологическую манипуляцию</strong></li>
+<li><strong>Вызванные наркотиками комы</strong>, длящиеся недели или месяцы</li>
+</ul>
+<p>Субъектами были заключенные, психические пациенты, наркоманы, секс-работницы и члены общей публики, которые были тайно отравлены. По крайней мере один субъект - Фрэнк Олсон, исследователь ЦРУ, - умер после введения LSD без его знания. (ЦРУ утверждает, что он выпрыгнул из окна; его семья верит, что он был убит.)</p>
+<p>Программа MKUltra была напрямую связана с фармацевтической промышленностью через:</p>
+<ul>
+<li><strong>Eli Lilly</strong>: предоставила LSD для экспериментов ЦРУ</li>
+<li><strong>Sandoz Laboratories</strong> (теперь Novartis): оригинальный производитель LSD</li>
+<li><strong>Академические учреждения</strong>: Гарвард, Стэнфорд, Колумбия и десятки других университетов участвовали в исследовании MKUltra, финансируемом через фронт-организации ЦРУ</li>
+</ul>
+<h3 id="operation-paperclip-scientists">Operation Paperclip Scientists</h3>
+<p>После Второй мировой войны правительство США набрало нацистских ученых через Operation Paperclip. Эти ученые - многие из которых проводили ужасные эксперименты на заключенных концентрационных лагерей - были даны новые личности и помещены в американские военные, медицинские и разведывательные учреждения.</p>
+<p>Нацистские эксперименты включали:</p>
+<ul>
+<li><strong>Эксперименты с гипотермией</strong>: погружение заключенных в ледяную воду для изучения холодного воздействия</li>
+<li><strong>Эксперименты на высоте</strong>: помещение заключенных в камеры низкого давления для имитации экстремальной высоты</li>
+<li><strong>Эксперименты с инфекционной болезнью</strong>: намеренное инфицирование заключенных малярией, тифом и другими болезнями</li>
+<li><strong>Эксперименты с сульфаниламидом</strong>: нанесение ранений заключенным и их инфицирование для тестирования антибиотиков</li>
+<li><strong>Эксперименты костей, мышц и нервов</strong>: хирургическое удаление костей, мышц и нервов у заключенных</li>
+</ul>
+<p>Ученые, которые проводили эти эксперименты, были поглощены американским медико-военным комплексом, где их опыт был применен к новым программам человеческой экспериментации.</p>
+<h3 id="willowbrook-state-school-1963-1966">Willowbrook State School (1963-1966)</h3>
+<p>В Willowbrook State School для умственно отсталых детей на Статене-Айленде, Нью-Йорк, исследователь Саул Крюгман намеренно инфицировал детей гепатитом, кормя их экстрактами стула от инфицированных пациентов. Эксперименты были оправданы как предоставление "естественного иммунитета" - но дети, которые не могли дать согласие, были использованы как подопытные кролики.</p>
+<p>Родители были принуждены зачислять своих детей в эксперименты, им было сказано, что школа полна и что допуск был доступен только через программу исследования гепатита. Это производимое искусственное дефицит вынудило родителей выбирать между оставлением своих отсталых детей без ухода или подвергая их намеренному инфицированию.</p>
+<h3 id="эксперименты-holmesburg-prison-1951-1974">Эксперименты Holmesburg Prison (1951-1974)</h3>
+<p>В тюрьме Holmesburg в Филадельфии дерматолог Альберт Кligman (который позже разработал Retin-A и заработал миллионы) проводил эксперименты на заключенных, используя:</p>
+<ul>
+<li>Радиоактивные изотопы</li>
+<li>Диоксин (компонент Agent Orange)</li>
+<li>Различные фармацевтические соединения</li>
+<li>Химикаты, повреждающие кожу</li>
+</ul>
+<p>Кligman описал свой первый визит в Holmesburg: "Все, что я видел перед собой, это акры кожи. Это было похоже на фермера, видящего поле в первый раз." Это суть фармацевтического мышления, сконденсированного в его сущность: человеческие существа как сырой материал, их страдание как возможность.</p>
+<h2 id="современные-эксперименты">Современные эксперименты</h2>
+<h3 id="клинические-испытания-в-развивающихся-странах">Клинические испытания в развивающихся странах</h3>
+<p>Фармацевтическая промышленность все чаще перемещает свои клинические испытания в развивающиеся страны, где:</p>
+<ul>
+<li>Нормативный надзор слабее</li>
+<li>Пациенты отчаяны в любом медицинском уходе</li>
+<li>Стандарты информированного согласия ниже</li>
+<li>Юридическая ответственность минимальна</li>
+<li>Субъекты стоят доли того, что они бы в Соединенных Штатах</li>
+</ul>
+<p>Страны, такие как Индия, Нигерия, Кения, Бразилия и Филиппины, стали испытательными площадками для фармацевтических продуктов. В 1996 году Pfizer тестировала экспериментальный антибиотик (Trovan) на детях во время эпидемии менингита в Кано, Нигерия. Одиннадцать детей умерли, и десятки были инвалидизированы. Pfizer проводила испытание без надлежащего информированного согласия и без нормативного утверждения нигерийских властей.</p>
+<h3 id="текущий-эксперимент">Текущий эксперимент</h3>
+<p>Обращение фармацевтической промышленности с глобальным населением как экспериментальными субъектами не прекратилось - оно было нормализовано. Маркетинг новых лекарств, расширение графиков вакцинации, медикализация нормальных человеческих условий - все это представляет текущие эксперименты, проводимые на популяции, которая обучена доверять хорошим намерениям фармацевтической промышленности.</p>
+<h2 id="духовная-архитектура-медицинских-пыток">Духовная архитектура медицинских пыток</h2>
+<h3 id="почему-они-это-делают">Почему они это делают</h3>
+<p>Вопрос, который преследует каждого информированного человека: как они могут это делать? Как образованные, аккредитованные, уважаемые профессионалы могут намеренно вредить невинным людям?</p>
+<p>Ответ дает NDE Говарда Питтмана: духовное царство реально, и силы, работающие там, организованы для кражи, убийства и разрушения. Мужчины и женщины, которые проводят эти эксперименты, не просто следуют приказам или преследуют прибыль - они служат, сознательно или бессознательно, духовной иерархии, которая противостоит Богу и ненавидит его творение.</p>
+<p>95% служащих "себе" - цифра Питтмана - включает исследователей, которые подавляют свою совесть для карьерного продвижения, руководителей, которые одобряют эксперименты, которые они знают, причинят вред, и регуляторов, которые смотрят в другую сторону, потому что система их платит, чтобы это делать. Они никогда не сделали Иисуса Господом. Они служат себе - и, служа себе, они служат начальствам и властям Ефесян 6:12.</p>
+<h3 id="план-иезуитов">План иезуитов</h3>
+<p>Орден иезуитов предоставляет организационный шаблон для этого зла. Слепое повиновение. Абсолютная иерархия. Подавление индивидуальной совести в пользу институциональных целей. "Всякие виды порока", разрешенные в служении целям ордена. Это характеристики ордена иезуитов, и это характеристики фармацевтической промышленности.</p>
+<p>Клятва иезуитов требует, чтобы агенты инфильтрировали каждое учреждение "скрытой хитростью". Фармацевтическая промышленность инфильтрировала каждое учреждение, управляющее здоровьем человека: FDA, CDC, NIH, ВОЗ, медицинские школы, больницы и страховые компании. Инфильтрация полная. Контроль абсолютный. И эксперименты продолжаются.</p>
+<h2 id="дополнительная-информация">Дополнительная информация</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — обширная документация преступлений фармацевтической промышленности</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — духовные силы позади институционального зла</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — иезуитский метод, применяемый к институциональному контролю</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/117-The_Burning_of_Sin.mp4">The Burning of Sin</a></li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/human-dissection-rockefeller-breeding-farm/?lang=ru">HUMAN Dissection and the Rockefeller BREEDING FARM</a></li>
+<li><a href="/satanic-science-smallpox-vaccine/?lang=ru">Satanic Science: The Horrifying Truth Behind the Smallpox Vaccine</a></li>
+<li><a href="/blood-money-secrets-blood-donation/?lang=ru">Blood Money: The Dark Secrets Behind Blood Donation</a></li>
+</ul>
+<p><em>Они носили белые халаты и назвали это медициной. Они писали статьи и назвали это наукой. Они вводили детей и назвали это прогрессом. Но Бог видит то, что они сделали во тьме. Каждый эксперимент. Каждая уничтоженная жизнь. Каждая украденная душа. Расчет приходит - и никакой институциональный щит не защитит тех, кто пытал невинных.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Кровожадность Big Pharma: скрытая история медицинских пыток"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Фармацевтическая промышленность была построена на человеческих экспериментах и медицинских пытках. От Tuskegee до MKUltra, кровожадность никогда не прекращалась."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-11-21T10:00:00Z","children":"21 ноября 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","big-pharma",{"href":"/ru/tag/big-pharma/","className":"tag-pill","children":["#","big-pharma"]}],["$","a","medical-torture",{"href":"/ru/tag/medical-torture/","className":"tag-pill","children":["#","medical-torture"]}],["$","a","human-experimentation",{"href":"/ru/tag/human-experimentation/","className":"tag-pill","children":["#","human-experimentation"]}],["$","a","tuskegee",{"href":"/ru/tag/tuskegee/","className":"tag-pill","children":["#","tuskegee"]}],["$","a","pharmaceutical-industry",{"href":"/ru/tag/pharmaceutical-industry/","className":"tag-pill","children":["#","pharmaceutical-industry"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/big-pharma-bloodlust-torture/","title":"Кровожадность Big Pharma: скрытая история медицинских пыток"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/big-pharma-bloodlust-torture/","title":"Кровожадность Big Pharma: скрытая история медицинских пыток"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Кровожадность Big Pharma: скрытая история медицинских пыток | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Фармацевтическая промышленность была построена на человеческих экспериментах и медицинских пытках. От Tuskegee до MKUltra, кровожадность никогда не прекращалась."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"big-pharma, medical-torture, human-experimentation, tuskegee, pharmaceutical-industry"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/big-pharma-bloodlust-torture/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/big-pharma-bloodlust-torture/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/big-pharma-bloodlust-torture/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/big-pharma-bloodlust-torture/"}],["$","meta","10",{"property":"og:title","content":"Кровожадность Big Pharma: скрытая история медицинских пыток"}],["$","meta","11",{"property":"og:description","content":"Фармацевтическая промышленность была построена на человеческих экспериментах и медицинских пытках. От Tuskegee до MKUltra, кровожадность никогда не прекращалась."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/big-pharma-bloodlust-torture/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/big-pharma-bloodlust-torture.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Кровожадность Big Pharma: скрытая история медицинских пыток"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Кровожадность Big Pharma: скрытая история медицинских пыток"}],["$","meta","25",{"name":"twitter:description","content":"Фармацевтическая промышленность была построена на человеческих экспериментах и медицинских пытках. От Tuskegee до MKUltra, кровожадность никогда не прекращалась."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/big-pharma-bloodlust-torture.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

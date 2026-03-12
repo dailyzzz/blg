@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","secretly-microchipping-humans-part8",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","secretly-microchipping-humans-part8","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","secretly-microchipping-humans-part8","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T52a1,<h1 id="скрытая-история-втайне-микрочипирования-людей-часть-8">Скрытая история втайне микрочипирования людей Часть 8</h1>
+<h2 id="древний-образец">Древний Образец</h2>
+<blockquote>
+<p><em>"И он велит всем, малым и великим, богатым и рабам, сделать себе начертание на правой руке или на челе. И никому нельзя будет ни покупать, ни продавать, кроме того, кто имеет начертание."</em> — Откровение 13:16-17</p>
+</blockquote>
+<p>Книга Откровения описывает систему, в которой каждый человек отмечен — обозначен, идентифицирован, отслеживаем — и в которой участие в экономике требует этого знака. На протяжении веков христиане удивлялись, как такая система могла бы быть реализована. Сегодня технология существует: RFID-чипы, инъекционные биодатчики, проглатываемые устройства отслеживания и системы идентификации на основе нанотехнологий. И история их скрытого развёртывания на человеческих популяциях намного более обширна, чем сообщалось общественности.</p>
+<p>Это Часть 8 нашей серии V2K. В предыдущих выпусках мы документировали технологию голоса в череп, оружие голоса Бога, кампанию дезинформации, сети нацеливания, psyop шизофрении и связь с НЛО пришельцев. Теперь мы отслеживаем историю скрытого микрочипирования людей — физическое обозначение человеческих тел без согласия — и её связь с V2K-нацеливанием и более широкой программой контроля.</p>
+<p>Видение Ховарда Питтмана о трёх небесах и уровне отказа 97,5% христиан становится ещё более настоятельным при рассмотрении наряду с предупреждением Откровения о знаке. Технология для знака существует. Инфраструктура для его развёртывания строится. И духовные силы позади него — начальства и власти Ефесянам 6:12 — подготавливали человечество к его принятию на протяжении десятилетий обусловливания.</p>
+<p>Иезуитское преследование "абсолютной власти" (Наполеон) достигает своего высшего выражения в системе, которая отмечает каждое человеческое тело и контролирует каждую экономическую транзакцию. "Каждый вид порока" (Catholic Confidential) оправдывается, когда целью является полный контроль. Управление Тамбулини "половиной мира" становится управлением целым миром — через знак в руке или во лбу.</p>
+<hr>
+<h2 id="история-скрытой-имплантации">История скрытой имплантации</h2>
+<h3 id="ранние-эксперименты">Ранние эксперименты</h3>
+<p>История скрытой имплантации людей начинается с тех же военных и разведывательных программ, которые произвели технологию V2K:</p>
+<p><strong>Подпроекты MKUltra</strong>: документы ЦРУ ссылаются на электронные имплантаты, используемые для модификации поведения и отслеживания. Хотя многие записи MKUltra были уничтожены в 1973 году, уцелевшие документы описывают эксперименты с имплантатами мозга, предназначенными для влияния на поведение посредством электрической стимуляции.</p>
+<p><strong>Stimoceiver Хосе Дельгадо</strong>: в 1960-х годах нейробиолог Йельского университета Хосе Дельгадо продемонстрировал радиоуправляемый имплантат мозга ("stimoceiver"), который мог удалённо управлять поведением животных. Дельгадо известен тем, что остановил заряжающего быка, активировав его имплантат мозга с помощью радиопередатчика. Его исследования финансировались Управлением морских исследований и имели очевидные военные применения для человеческого контроля.</p>
+<p><strong>Роберт Г. Хит</strong>: в университете Тулейна психиатр Роберт Хит имплантировал электроды в мозги психиатрических пациентов и заключённых, включая эксперименты, предназначенные для модификации сексуальной ориентации и контроля насильственного поведения. Его исследования были связаны с финансируемыми ЦРУ программами.</p>
+<h3 id="революция-rfid">Революция RFID</h3>
+<p>Технология радиочастотной идентификации (RFID) возникла в 1970-х годах и была быстро адаптирована для отслеживания и идентификации:</p>
+<ul>
+<li><strong>1970-1980</strong>: RFID используется для идентификации животных и управления запасами</li>
+<li><strong>1990</strong>: Миниатюризированные RFID-чипы разработаны для имплантации в домашних животных</li>
+<li><strong>1998</strong>: Кевин Уорвик становится первым человеком, добровольно получившим имплантат RFID</li>
+<li><strong>2004</strong>: FDA одобрил VeriChip, первый RFID-чип, разработанный для человеческой имплантации</li>
+<li><strong>2006</strong>: VeriChip выводится на рынок для доступа к медицинским записям, идентификации пациентов и безопасного входа в объекты</li>
+<li><strong>2010-е-настоящее</strong>: тысячи людей по всему миру получили добровольные имплантаты RFID, в основном в Швеции, и технология продолжает миниатюризацию</li>
+</ul>
+<h3 id="методы-скрытой-имплантации">Методы скрытой имплантации</h3>
+<p>Скрытая имплантация устройств отслеживания не требует хирургии или очевидных медицинских процедур. Методы, которые были задокументированы или технологически осуществимы, включают:</p>
+<p><strong>Инъекционные чипы</strong>: RFID-чипы размером с рисовое зёрнышко могут быть впрыснуты через гипертонический шприц. Любая инъекция — вакцинация, забор крови, стоматологическая процедура — потенциально может доставить имплантат без знания субъекта.</p>
+<p><strong>Проглатываемые датчики</strong>: Proteus Digital Health разработала одобренный FDA проглатываемый датчик, который передаёт данные из внутренней части тела. Хотя выпускается на рынок для мониторинга соблюдения лекарств, технология демонстрирует, что проглатываемые устройства могут передавать сигналы изнутри тела.</p>
+<p><strong>Нанотехнология</strong>: устройства наномасштаба, которые могут быть введены через еду, воду, вдыхаемые частицы или инъекцию, представляют наиболее продвинутый — и наиболее скрытый — метод имплантации. Датчики и передатчики на основе наночастиц активно разрабатываются военными и фармацевтическими исследователями.</p>
+<p><strong>Зубные имплантаты</strong>: стоматологические работы предоставляют возможность для скрытой имплантации в челюсть — близко к мозгу и трудно обнаруживаемо без специализированной визуализации.</p>
+<h2 id="современная-инфраструктура">Современная инфраструктура</h2>
+<h3 id="интернет-тел">Интернет тел</h3>
+<p>Концепция "Интернета тел" (IoB) — подключение человеческих тел к интернету через имплантированные, проглатываемые или носимые устройства — не является теорией заговора. Это активная исследовательская повестка дня, реализуемая:</p>
+<ul>
+<li><strong>DARPA</strong>: через программы типа ElectRx и N3 (Next-Generation Nonsurgical Neurotechnology)</li>
+<li><strong>Всемирный экономический форум</strong>: который проводил обширные исследования по концепции IoB</li>
+<li><strong>Крупные технологические компании</strong>: включая Google, Microsoft и Apple</li>
+<li><strong>Фармацевтические компании</strong>: через платформы цифровой медицины типа Proteus Digital Health</li>
+</ul>
+<p>Инфраструктура IoB, когда объединена с технологией V2K, создаёт комплексную систему для мониторинга и контроля человеческого тела и ума. Имплантированное устройство может получать V2K-передачи, передавать биометрические данные обратно операторам и служить маяком локатора для непрерывного отслеживания.</p>
+<h3 id="умная-пыль-и-нейронная-пыль">Умная пыль и нейронная пыль</h3>
+<p>"Умная пыль" — датчики миллиметрового масштаба или меньше, которые могут быть рассеяны в окружающей среде — и "нейронная пыль" — устройства микромасштаба, предназначенные для взаимодействия с нервной системой — представляют рубеж имплантируемой технологии наблюдения:</p>
+<ul>
+<li>Исследователи <strong>UC Berkeley</strong> разработали устройства нейронной пыли, которые питаются ультразвуком и могут мониторить нейронную активность</li>
+<li><strong>DARPA</strong> финансировал исследования нейронной пыли для военного применения</li>
+<li>Датчики <strong>умной пыли</strong> могут мониторить условия окружающей среды, отслеживать движение и общаться беспроводным образом</li>
+</ul>
+<p>Миниатюризация этих устройств означает, что имплантация может произойти без знания субъекта — через еду, воду, воздух или плановые медицинские процедуры.</p>
+<h2 id="связь-с-откровением">Связь с Откровением</h2>
+<h3 id="знак-зверя">Знак зверя</h3>
+<p>Откровение 13:16-17 описывает знак, который будет требоваться для экономического участия. Греческое слово, переведённое как "знак" (charagma), относится к отпечатанному или гравированному знаку — физическому идентификатору, помещённому на тело.</p>
+<p>Технологическая инфраструктура для реализации этого пророчества существует теперь:</p>
+<ul>
+<li><strong>RFID-чипы</strong> могут хранить данные идентификации и взаимодействовать с платёжными системами</li>
+<li><strong>Биометрическая идентификация</strong> (отпечатки пальцев, сканирование радужной оболочки, распознавание лиц) может быть связана с имплантированными устройствами</li>
+<li><strong>Криптовалюта и цифровые валюты</strong> могут контролироваться через имплантированные платёжные чипы</li>
+<li><strong>Центральные банки цифровых валют (CBDC)</strong> предоставляют денежную инфраструктуру для полного экономического контроля</li>
+<li><strong>5G сети</strong> предоставляют инфраструктуру связи для отслеживания в реальном времени и обмена данных</li>
+</ul>
+<p>Конвергенция этих технологий создаёт систему, функционально идентичную знаку, описанному в Откровении — знаку, без которого "никому нельзя будет ни покупать, ни продавать".</p>
+<h3 id="духовное-предупреждение">Духовное предупреждение</h3>
+<p>Ховард Питтман был показан, что духовное царство — истинная реальность и что физические события имеют духовные причины. Знак зверя — это не просто технологическая система — это духовный союз. Принятие знака представляет духовное подчинение системе зверя и отвержение власти Бога над телом.</p>
+<p>97,5% тех, кто несудачен, кто "никогда не сделал Иисуса Господом", — это те, кто наиболее вероятно примет знак — не потому, что они злые, но потому что они были обусловлены соответствия институциональной власти. Серия V2K документирует процесс обусловливания: технология, контролирующая ум, психиатрия, дискредитирующая диссидентов, и инфраструктура наблюдения, которая не оставляет возможности побега.</p>
+<p>Иезуитская "абсолютная власть" кульминирует в знаке. Их проникновение "коварно замаскированное" построило институциональный рамок. Их практика "каждого вида порока" нормализовала нарушение телесной автономии. И отравление Папы Климента XIV демонстрирует, что никто, кто противостоит этой программе, не является безопасным — не даже папа.</p>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — история скрытого микрочипирования и технология знака зверя</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — духовные измерения физического обозначения</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — иезуитская причастность к инфраструктуре наблюдения и контроля</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a>- DARPA ElectRx and N3 program documentation</li>
+<li>VeriChip/VeriMed FDA approval records</li>
+<li>Jose Delgado stimoceiver research publications</li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/47-Nanobot_Swarms.mp4">Nanobot Swarms</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/65-Smart_Dust.mp4">Smart Dust</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/487-Mark_Of_The_Nanobot.mp4">Mark Of The Nanobot</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpents Curse</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">The Enemy Within</a></li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/alien-ufo-psyop-part7/?lang=ru">The Alien UFO PSYOP: What V2K Reveals Part 7</a></li>
+<li><a href="/cell-towers-nih-contract-part9/?lang=ru">Cell Towers and the NIH CONTRACT You Were Never Told About Part 9</a></li>
+<li><a href="/targeted-individuals-food-supply-part11/?lang=ru">Targeted Individuals and the FOOD SUPPLY Microchip Connection Part 11</a></li>
+</ul>
+<p><em>Знак идёт не в будущем. Знак здесь. Технология существует. Инфраструктура построена. Обусловливание завершено. Единственный вопрос, который остаётся — примете ли вы его — или вы встанете, как приказывает Откровение, и отвергнете зверя. Выбирайте мудро. Выбирайте Бога.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Скрытая история втайне микрочипирования людей Часть 8"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Часть 8 раскрывает задокументированную историю скрытого микрочипирования людей — от военных экспериментов к современным имплантам RFID в еде и медицинском снабжении."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-15T10:00:00Z","children":"15 декабря 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","microchipping",{"href":"/ru/tag/microchipping/","className":"tag-pill","children":["#","microchipping"]}],["$","a","RFID",{"href":"/ru/tag/RFID/","className":"tag-pill","children":["#","RFID"]}],["$","a","implants",{"href":"/ru/tag/implants/","className":"tag-pill","children":["#","implants"]}],["$","a","surveillance",{"href":"/ru/tag/surveillance/","className":"tag-pill","children":["#","surveillance"]}],["$","a","mark-of-the-beast",{"href":"/ru/tag/mark-of-the-beast/","className":"tag-pill","children":["#","mark-of-the-beast"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/secretly-microchipping-humans-part8/","title":"Скрытая история втайне микрочипирования людей Часть 8"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/secretly-microchipping-humans-part8/","title":"Скрытая история втайне микрочипирования людей Часть 8"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Скрытая история втайне микрочипирования людей Часть 8 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Часть 8 раскрывает задокументированную историю скрытого микрочипирования людей — от военных экспериментов к современным имплантам RFID в еде и медицинском снабжении."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"microchipping, RFID, implants, surveillance, mark-of-the-beast"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/secretly-microchipping-humans-part8/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/secretly-microchipping-humans-part8/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/secretly-microchipping-humans-part8/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/secretly-microchipping-humans-part8/"}],["$","meta","10",{"property":"og:title","content":"Скрытая история втайне микрочипирования людей Часть 8"}],["$","meta","11",{"property":"og:description","content":"Часть 8 раскрывает задокументированную историю скрытого микрочипирования людей — от военных экспериментов к современным имплантам RFID в еде и медицинском снабжении."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/secretly-microchipping-humans-part8/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/secretly-microchipping-humans-part8.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Скрытая история втайне микрочипирования людей Часть 8"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Скрытая история втайне микрочипирования людей Часть 8"}],["$","meta","25",{"name":"twitter:description","content":"Часть 8 раскрывает задокументированную историю скрытого микрочипирования людей — от военных экспериментов к современным имплантам RFID в еде и медицинском снабжении."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/secretly-microchipping-humans-part8.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","v2k-hearing-music-part1",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","v2k-hearing-music-part1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","v2k-hearing-music-part1","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T587c,<h1 id="моя-история-v2k-слышать-музыку-которой-нет-часть-1">Моя история V2K: Слышать музыку, которой нет, часть 1</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p><em>"Ибо наша брань не против крови и плоти, но против начальств, против властей, против мироправителей тьмы века сего, против духов злобы поднебесных."</em> — Ефесянам 6:12</p>
+</blockquote>
+<p>Всё началось с музыки. Тихо, сначала -- так тихо, что я думал, что сосед включил радио. Мелодия, играющая прямо на краю восприятия, достаточно четкая, чтобы признать, но достаточно тихая, чтобы сомневаться. Я проверил окна, выключил каждое электронное устройство в доме, вышел на улицу, чтобы слушать. Ничего. Музыка шла из моей головы.</p>
+<p>Это начало истории, которую миллионы людей во всем мире разделяют, но боятся рассказывать. Это история технологии Voice-to-Skull (V2K) -- классифицированного военного оружия, которое может передавать звук непосредственно в мозг человека, обходя уши. Это реально. Это запатентовано. Это развернуто. И каждый, кто сообщает об опыте его, немедленно маркируется как психически больной.</p>
+<p>Ховард Питтман был показан во время своего предсмертного опыта, что духовная область организована в три небес, что демонические силы работают во втором небесе с военной точностью, и что 97,5% христиан терпят неудачу, потому что они "никогда не сделали Иисуса Господом." Опыт V2K находится на пересечении духовного и технологического -- оружие, которое эксплуатирует границу между тем, что реально и что воспринимается, между физическим и духовным, между здравомыслием и безумием.</p>
+<p>Иезуиты понимали власть голосов много веков назад. Их духовные упражнения включают интенсивную медитацию, разработанную для производства внутренних голосов и видений. Наполеон называл их "военной организацией", преследующей "абсолютную власть." Документальный фильм "Catholic Confidential" раскрывает их проникновение "скрытое с коварством." Современное оружие V2K является технологическим расширением принципа иезуитов: контролируйте то, что человек слышит внутри своей собственной головы, и вы контролируете человека.</p>
+<hr>
+<h2 id="что-со-мной-произошло">Что со мной произошло</h2>
+<h3 id="первые-опыты">Первые опыты</h3>
+<p>Музыка пришла первой. Это был всегда одного вида -- структурированный, ритмичный, иногда знакомые мелодии и иногда неизвестные композиции. Она играла наиболее четко в тихих окружениях, особенно ночью. Громкость варьировалась -- иногда едва заметная, иногда достаточно громкая, чтобы предотвратить сон.</p>
+<p>Я не человек с историей психического заболевания. У меня нет семейной истории шизофрении или психотических расстройств. Я был в хорошем физическом здоровье, хорошо питался, нормально спал (пока музыка не началась) и хорошо функционировал в повседневной жизни. Музыка пришла ниоткуда и изменила все.</p>
+<p>Первая реакция была отрицание. Я сказал себе, что это звон в ушах -- звон в ушах, который иногда может проявляться как музыкальные тоны. Но звон в ушах не играет узнаваемые мелодии. Это не меняет песни. Это не реагирует на вашу внимание.</p>
+<p>Вторая реакция была страх. Я теряю ум? Это начало шизофрении? Я выхожу из строя? Страх был парализующим, и он изолировал меня -- потому что кому я мог бы сказать? Момент, когда вы говорите "я слышу музыку, которой нет там," вы находитесь на один шаг от психиатрического диагноза, медикаментозного лечения и постоянного ярлыка "психически болен."</p>
+<p>Третья реакция -- которая потребовала месяцев для достижения -- была исследованием. И исследование изменило все.</p>
+<h3 id="откройте-v2k">Откройте V2K</h3>
+<p>Термин "Voice-to-Skull" (V2K) относится к категории технологий, которые могут передавать звуковые сигналы непосредственно в слуховую кору человека, обходя уши. Технология была задокументирована в:</p>
+<ul>
+<li><strong>Патенты военно-морского флота США</strong> (эффект "Фрея" или микроволновый слуховой эффект, открытый в 1961 году)</li>
+<li><strong>Программы исследований DARPA</strong></li>
+<li><strong>Рассекреченные военные документы</strong></li>
+<li><strong>Научные публикации</strong> о микроволновом слухе и направленной энергии</li>
+<li><strong>Свидетельства тысяч целевых индивидов</strong> по всему миру</li>
+</ul>
+<p>Микроволновый слуховой эффект -- открытый Аланом Фреем в 1961 году -- продемонстрировал, что импульсная микроволновая радиация может производить слышимые щелчки, тоны и даже речь, воспринимаемую внутри головы. Эффект реален, воспроизводим и хорошо задокументирован в научной литературе.</p>
+<p>Военные приложения были немедленно признаны. Оружие, которое может вставить голоса в чью-то голову -- без каких-либо внешних доказательств его использования -- это итоговое психологическое оружие. Оно может:</p>
+<ul>
+<li><strong>Вызывать слуховые галлюцинации</strong>, которые подражают психическому заболеванию</li>
+<li><strong>Передавать команды</strong>, которые мишень верит своим собственным мыслям</li>
+<li><strong>Предотвращать сон</strong> через постоянную передачу звука</li>
+<li><strong>Создавать паранойю</strong>, заставляя мишень верить, что их наблюдают или преследуют</li>
+<li><strong>Дискредитировать мишень</strong> -- каждый, кто сообщает о слышании голосов, предполагается, что психически болен</li>
+</ul>
+<h3 id="образец-объекта">Образец объекта</h3>
+<p>По мере того как я исследовал, я обнаружил, что мой опыт был не уникален. Тысячи людей во всем мире сообщают о замечательно похожих опытах:</p>
+<ul>
+<li><strong>Внезапное начало</strong> неожиданного звука (музыка, голоса, жужжание, щелчки)</li>
+<li><strong>Отсутствие предварительной истории</strong> психического заболевания</li>
+<li><strong>Образцы, согласующиеся с технологией</strong> -- звук реагирует на попытки экранирования, варьируется с местоположением и показывает характеристики, согласующиеся с электромагнитной передачей</li>
+<li><strong>Сопутствующие симптомы</strong> -- головные боли, нарушение сна, тоны, похожие на звон в ушах, трудность концентрации</li>
+<li><strong>Социальная изоляция</strong> -- целевые объекты быстро узнают, что сообщение об их опыте приводит к психиатрической оценке и социальному остракизму</li>
+<li><strong>Gaslighting</strong> -- когда целевые объекты ищут помощь, им говорят, что их опыт не реален</li>
+</ul>
+<h2 id="технология-за-v2k">Технология за V2K</h2>
+<h3 id="микроволновый-слуховой-эффект">Микроволновый слуховой эффект</h3>
+<p>Открытие Алана Фрея в 1961 году продемонстрировало, что импульсная микроволновая радиация на частотах между 200 МГц и 3 ГГц может производить восприятие звука внутри головы. Механизм включает:</p>
+<ol>
+<li>Импульсная микроволновая энергия направлена на голову целевого объекта</li>
+<li>Микроволны вызывают термоупругое расширение мозговой ткани</li>
+<li>Это расширение генерирует волны давления в черепе</li>
+<li>Волны давления обнаруживаются улиткой (внутреннее ухо) как звук</li>
+<li>Мозг обрабатывает эти сигналы как звук</li>
+</ol>
+<p>Это не теория -- это установленная физика, задокументированная в рецензируемых журналах и подтвержденная несколькими независимыми исследователями. Военно-морской флот США признал эффект и инвестировал в его оружейность.</p>
+<h3 id="вне-эффекта-фрея">Вне эффекта Фрея</h3>
+<p>Базовый эффект Фрея производит простые звуки -- щелчки и жужжание. Но более продвинутые исследования исследовали передачу сложного аудио, включая речь:</p>
+<ul>
+<li><strong>Патент США 4,877,027</strong> (1989): "Hearing System" -- устройство, которое преобразует речь в микроволновые сигналы, воспринимаемые как звук целевым объектом</li>
+<li><strong>Патент США 6,587,729</strong> (2003): "Apparatus for Audibly Communicating Speech Using the Radio Frequency Hearing Effect"</li>
+<li><strong>Патент США 6,470,214</strong> (2002): "Method and device for implementing the radio frequency hearing effect"</li>
+</ul>
+<p>Эти патенты являются общественными. Они описывают рабочие устройства. Они подтверждают, что технология для передачи голосов непосредственно в мозг человека существует, была разработана и запатентована.</p>
+<h3 id="военные-приложения">Военные приложения</h3>
+<p>Военно-морской флот США разработал технологию V2K под различными классифицированными программами:</p>
+<ul>
+<li><strong>MEDUSA</strong> (Mob Excess Deterrent Using Silent Audio): Оружие контроля толпы, разработанное для передачи дискомфортного звука в голова целевых объектов</li>
+<li><strong>Voice of God Weapon</strong>: Оружие психологических операций, разработанное для передачи команд, воспринимаемых как божественное вмешательство</li>
+<li><strong>Различные классифицированные программы</strong> в DARPA, Air Force Research Laboratory и других военных исследовательских учреждениях</li>
+</ul>
+<p>Существование этих программ задокументировано в рассекреченных записях, документах бюджета и свидетельствах военных и разведывательных осведомителей.</p>
+<h2 id="духовное-измерение">Духовное измерение</h2>
+<h3 id="голоса-из-второго-неба">Голоса из второго неба</h3>
+<p>Ховард Питтман было показано, что второе небо -- духовная область между атмосферным небом и престолом Бога -- населено демоническими сущностями, организованными в иерархии. Эти сущности имеют способность влиять на человеческие мысли и восприятие.</p>
+<p>Технология V2K создает тревожный параллель слышанию духовного голоса. Если демонические сущности могут вставлять мысли и впечатления в человеческие умы (как постоянно свидетельствуют Писание и духовный опыт), и если технология также может вставлять голоса в человеческие умы, как целевой объект различает между ними?</p>
+<p>Это путаница является по замыслу. Технология V2K стирает границу между технологическим и духовным, делая невозможным для целевого объекта определить источник голосов, которые они слышат. Эта путаница служит как военным операторам (которые хотят отрицание), так и демоническим силам (которые хотят быть ошибочными для технологии или психического заболевания).</p>
+<h3 id="соединение-975">Соединение 97,5%</h3>
+<p>Статистика Питтмана -- 97,5% христиан терпят неудачу -- приобретает новое значение в контексте V2K. Если технология может передавать голоса, которые звучат как Бог, демоны или собственные мысли целевого объекта, то способность различать голос Духа становится критически важной. 95%, которые служат "себе", являются самыми легкими целями -- они никогда не развивали духовное различение, никогда не научились различать голос Бога от других голосов и никогда не построили духовную броню, описанную в Ефесянах 6.</p>
+<p>Технология V2K -- это оружие против самого духовного различения. Наводняя ум целевого объекта искусственными голосами, оно заглушает тихий голос Святого Духа и заменяет божественное руководство военным программированием.</p>
+<h2 id="что-дальше">Что дальше</h2>
+<p>Это часть 1 серии из 11 частей, исследующей технологию V2K, её историю, её развертывание и её духовные последствия. В следующих частях мы осмотрим:</p>
+<ul>
+<li>Военная история оружия Voice of God</li>
+<li>Ложь и мифы, окружающие V2K</li>
+<li>Кто на самом деле вставляет голоса в головы людей</li>
+<li>Объекты моей собственной бабушки</li>
+<li>Психоп шизофрении</li>
+<li>Соединение психоп инопланетян/НЛО</li>
+<li>История тайного микрочипирования</li>
+<li>Сотовые башни и контракт NIH</li>
+<li>Патенты голоса-в-череп</li>
+<li>Связь с пищевым снабжением</li>
+</ul>
+<p>Если вы испытываете V2K, вы не сумасшедший. Вы не одни. И технология реальна.</p>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — Исследование V2K и документирование целевых индивидов</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство Ховарда Питтмана о предсмертном опыте</a> — Духовные голоса и три небес</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католические доверительные: раскрытые позорные секреты иезуитов</a> — Контроль иезуитов над внутренним опытом</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a>- Allan Frey, "Human Auditory System Response to Modulated Electromagnetic Energy" (1962)</li>
+<li>Патенты США 4,877,027 / 6,587,729 / 6,470,214</li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/215-Brain_Machine_Interface.mp4">Brain Machine Interface</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/65-Smart_Dust.mp4">Smart Dust</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/09-Satans_Disguise.mp4">Satan's Disguise</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">The Enemy Within</a></li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/voice-god-weapon-audio-part2/?lang=ru">VOICE OF GOD WEAPON: Audio Hallucinations as Military Technology Part 2</a></li>
+<li><a href="/v2k-lies-myths-part3/?lang=ru">V2K: The Lies, Myths, and Misunderstandings Part 3</a></li>
+<li><a href="/schizophrenia-mental-illness-psyop-part6/?lang=ru">Schizophrenia: The Mental Illness PSYOP Part 6</a></li>
+</ul>
+<p><em>Музыка в моей голове была не галлюцинацией. Это было оружие. И оружие направлено на миллионы людей, которые никогда не узнают, что их ударило -- потому что момент, когда они говорят, они маркируются как сумасшедшие. Этот сериал предназначен для них. Вы не сумасшедший. Технология реальна. И правда освободит вас.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Моя история V2K: Слышать музыку, которой нет, часть 1"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Личный рассказ об опыте технологии V2K -- слышание музыки и голосов без внешнего источника. Это начало исследования из 11 частей."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-07T10:00:00Z","children":"7 декабря 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","V2K",{"href":"/ru/tag/V2K/","className":"tag-pill","children":["#","V2K"]}],["$","a","voice-to-skull",{"href":"/ru/tag/voice-to-skull/","className":"tag-pill","children":["#","voice-to-skull"]}],["$","a","directed-energy",{"href":"/ru/tag/directed-energy/","className":"tag-pill","children":["#","directed-energy"]}],["$","a","targeted-individuals",{"href":"/ru/tag/targeted-individuals/","className":"tag-pill","children":["#","targeted-individuals"]}],["$","a","electronic-harassment",{"href":"/ru/tag/electronic-harassment/","className":"tag-pill","children":["#","electronic-harassment"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/v2k-hearing-music-part1/","title":"Моя история V2K: Слышать музыку, которой нет, часть 1"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/v2k-hearing-music-part1/","title":"Моя история V2K: Слышать музыку, которой нет, часть 1"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Моя история V2K: Слышать музыку, которой нет, часть 1 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Личный рассказ об опыте технологии V2K -- слышание музыки и голосов без внешнего источника. Это начало исследования из 11 частей."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"V2K, voice-to-skull, directed-energy, targeted-individuals, electronic-harassment"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/v2k-hearing-music-part1/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/v2k-hearing-music-part1/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/v2k-hearing-music-part1/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/v2k-hearing-music-part1/"}],["$","meta","10",{"property":"og:title","content":"Моя история V2K: Слышать музыку, которой нет, часть 1"}],["$","meta","11",{"property":"og:description","content":"Личный рассказ об опыте технологии V2K -- слышание музыки и голосов без внешнего источника. Это начало исследования из 11 частей."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/v2k-hearing-music-part1/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/v2k-hearing-music-part1.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Моя история V2K: Слышать музыку, которой нет, часть 1"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Моя история V2K: Слышать музыку, которой нет, часть 1"}],["$","meta","25",{"name":"twitter:description","content":"Личный рассказ об опыте технологии V2K -- слышание музыки и голосов без внешнего источника. Это начало исследования из 11 частей."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/v2k-hearing-music-part1.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

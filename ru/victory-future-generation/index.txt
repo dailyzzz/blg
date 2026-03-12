@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","victory-future-generation",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","victory-future-generation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","victory-future-generation","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5d3e,<h1 id="победа-для-нашего-будущего-поколения-против-медицинской-тирании">Победа для нашего будущего поколения против медицинской тирании</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Никакое оружие, которое ни было бы произведено против тебя, не будет иметь успеха; и всякий язык, который ни восставал бы на тебя в суде, ты осудишь. Это достояние рабов Господних." -- Исайя 54:17</p>
+</blockquote>
+<p>Оружие было произведено. Языки восстали. платформа мРНК, система инъекции нанотехнологии, электромагнитная сетка контроля и нормативно-правовая машина, которая её авторизировала — это оружие, произведённое против детей Бога. Но обещание Исайи 54:17 не условно на отсутствии оружия. Это гарантия того, что произведённое оружие не будет иметь успеха. Борьба реальна. Оружие реально. Но победа также реальна.</p>
+<p>По всему миру люди поднимаются. Учёные говорят. Адвокаты подают. Врачи лечат. Родители защищают. Законодатели законодательствуют. Медицинская тирания, которая была развёрнута с такой подавляющей силой, встречает сопротивление, которое растёт с каждым раскрытием, каждым решением суда и каждым изображением микроскопа, которое подтверждает, что резисторы говорили с самого начала.</p>
+<p>Как <a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">The Overcoming</a> из альбома Confliction провозглашает, обещание — для тех, кто преодолевает — не для тех, кто никогда не тестировался, но для тех, кто выдержал тест и преобладал. И как <a href="https://confliction.zzzdaily.com/tracks/ru/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> провозглашает, Голова, которая была ранена в Эдемском саду, раздавит змея под Его ногами.</p>
+<hr>
+<h2 id="судебные-победы">Судебные победы</h2>
+<h3 id="решения-суда-против-мандатов">Решения суда против мандатов</h3>
+<p>По нескольким юрисдикциям суды постановили против мандатов вакцины, установив правовые прецеденты, которые защищают телесную автономию:</p>
+<p><strong>Соединённые Штаты</strong></p>
+<p>Верховный суд США заблокировал мандат вакцины OSHA администрации Байдена для крупных работодателей в январе 2022 года (NFIB v. OSHA), постановив, что мандат превышал уставное полномочие агентства. Хотя узко в объёме, это решение установило, что полномочия федерального правительства мандировать медицинские вмешательства через нормативно-правовую работу есть конституциональные пределы.</p>
+<p>Несколько судов штата и федеральных районных судов выдали предписания против мандатов вакцины для военного персонала, работников здравоохранения и федеральных служащих. Каждое решение укрепляет правовой прецедент, что принудительное медицинское вмешательство — особенно с продуктами под Разрешением чрезвычайного использования — нарушает фундаментальные права.</p>
+<p><strong>Европейский суд по правам человека</strong></p>
+<p>ECHR получил тысячи приложений, оспаривающих мандаты вакцины COVID-19 под Статьёй 8 (право на приватную жизнь) и Статьёй 9 (свобода совести). Хотя суд медленно действовать, объём случаев создал беспрецедентное давление на европейские правовые рамки для решения пересечения органа общественного здравоохранения и индивидуальной телесной автономии.</p>
+<p><strong>Национальные суды</strong></p>
+<p>Суды в несколько стран — включая Италию, Индию, Южную Африку и Бразилию — выдали решения, ограничивающие или блокирующие мандаты вакцины, найдя, что принудительное медицинское вмешательство без адекватного информированного согласия нарушает конституциональные защиты.</p>
+<h3 id="поданные-уголовные-жалобы">Поданные уголовные жалобы</h3>
+<p>Растущее число уголовных жалоб было подано против государственных чиновников, фармацевтических руководителей и персонала нормативно-правовых органов за их роли в развёртывании продуктов мРНК:</p>
+<ul>
+<li>Уголовные жалобы, поданные в Германии адвокатом Dr. Reiner Fuellmich и Corona Investigative Committee, обвиняя в преступлениях против человечества</li>
+<li>Уголовные жалобы в Швейцарии учёными, задокументировавшими недискрытую нанотехнологию в продуктах вакцины</li>
+<li>Уголовные направления в Соединённых Штатах государственными генеральными прокурорами, расследующими фармацевтическое мошенничество</li>
+<li>Приложения Международного уголовного суда организациями, представляющими жертв программ принудительной вакцинации</li>
+</ul>
+<p>Ana Mihalcea, MD, PhD, способствовала нескольким судебным разбирательствам через её Substack (anamihalceamdphd.substack.com), предоставляя экспертное доказательство микроскопии тёмного поля загрязнения нанотехнологией в крови пациента. Это научное доказательство — задокументированное, сфотографированное и воспроизводимое — укрепляет правовые случаи, предоставляя физическое доказательство недискрытых компонентов вакцины.</p>
+<h2 id="научные-победы">Научные победы</h2>
+<h3 id="доказательство-теперь-неопровержимо">Доказательство теперь неопровержимо</h3>
+<p>Научный случай против мРНК нанотехнологии достиг уровня документации, которая не может быть отклонена:</p>
+<ul>
+<li><strong>Доказательство микроскопии тёмного поля</strong> из исследователей в более 20 странах, показывающих саморассасывающуюся нанотехнологию в крови</li>
+<li><strong>Спектроскопический анализ</strong> подтверждающий присутствие оксида графена, кремния и других недискрытых материалов в флаконах вакцины</li>
+<li><strong>Геномный анализ</strong> задокументировавший SV40 ДНК загрязнение, превышающее нормативный предел на порядки величины</li>
+<li><strong>Электронная микроскопия</strong> раскрывающий наноструктуры с схемоподобной морфологией в образцах крови</li>
+<li><strong>Рецензируемые публикации</strong> задокументировавшие побочные эффекты, механизм вреда и протоколы лечения</li>
+</ul>
+<p>Рецензируемая литература, поддерживающая проблемы безопасности мРНК технологии, теперь исчисляется в тысячах бумаг. Научный консенсус, который был создан через цензуру и институциональное давление, разрушается под весом доказательства.</p>
+<h3 id="протоколы-лечения">Протоколы лечения</h3>
+<p>Критически важный для борьбы за будущее поколение — развитие эффективных протоколов лечения для загрязнения нанотехнологией:</p>
+<ul>
+<li><strong>EDTA хелатирующая терапия</strong> — задокументированная Dr. Mihalcea и другими на снижение нагрузки нанотехнологии в крови</li>
+<li><strong>Витамин C и антиоксидантные протоколы</strong> — поддержка детоксификационных способностей организма и снижение окислительного стресса</li>
+<li><strong>Метилен синий</strong> — показывающий обещание в нарушении саморассасывания нанотехнологии</li>
+<li><strong>Протоколы голодания</strong> — поддержка аутофагии (самоочистки клеток), которая может помочь очистить компоненты нанотехнологии</li>
+<li><strong>Электромагнитный щит</strong> — снижение электромагнитной активации саморассасывающейся нанотехнологии</li>
+</ul>
+<p>Эти методы лечения представляют надежду для тех, кто был принуждён принять инъекции и для тех, подвергнутых воздействию через загрязнение окружающей среды. Организм, предназначенный Богом с необыкновенной упругостью, может быть поддержан в его борьбе против иностранной технологии.</p>
+<h2 id="движение-сопротивления">Движение сопротивления</h2>
+<h3 id="родители-защищающие-детей">Родители, защищающие детей</h3>
+<p>Наиболее мощное сопротивление медицинской тирании пришло от родителей, защищающих своих детей. По всему миру родители имеют:</p>
+<ul>
+<li>Отказались детской COVID-19 вакцинации несмотря на институциональное давление</li>
+<li>Организованы правовые вызовы к мандатам вакцины, основанным на школе</li>
+<li>Создали альтернативные образовательные сообщества, которые не требуют фармацевтического соответствия</li>
+<li>Сформировали сети поддержки для семей, затронутых травмой вакцины</li>
+</ul>
+<p>Будущее поколение — дети, которые были предназначены наследовать систему контроля нанотехнологии — защищаются родителями, которые отказываются подчинять своих детей недискрытой биотехнологии.</p>
+<h3 id="работники-здравоохранения-говорящие">Работники здравоохранения, говорящие</h3>
+<p>Тысячи работников здравоохранения — медсёстры, врачи, фармацевты и исследователи — разрушили ряды с институциональным повествованием, чтобы поделиться, что они были свидетелями:</p>
+<ul>
+<li>Беспрецедентные уровни побочных эффектов, следующих мРНК инъекции</li>
+<li>Необычные болезни, включая турбо-раки и внезапные сердечные события</li>
+<li>Находки нанотехнологии в образцах крови, которые противоречат официальным раскрытиям ингредиентов</li>
+<li>Институциональное давление подавить отчётность побочных эффектов</li>
+</ul>
+<p>Эти работники здравоохранения рискуют своими карьерами, их лицензиями и их репутацией, чтобы говорить правду. Их мужество — основание сопротивления.</p>
+<h2 id="духовная-победа">Духовная победа</h2>
+<h3 id="остаток">Остаток</h3>
+<p>По всему Писанию, Бог сохраняет остаток — группу верных людей, которые отказываются поклониться преобладающей системе. В дни Илии, Бог сохранил 7,000, которые не поклонились Ваалу (1 Царств 19:18). В дни Ноя, Бог сохранил восемь душ через потоп. В каждой эре, остаток отказывается то, что большинство принимает и стоит где толпа падает.</p>
+<p>Сопротивление медицинской тирании — современный остаток. Это люди, которые отказали инъекцию, отказали повествование, отказали предать их тела и их детей системе они узнали как развращённую. Они были подвергнуты насмешкам, остракизму, уволены из работ, отделены от семей и отказаны основные услуги. Но они стояли. И их стояние сохранило незагрязненную кровь, неповреждённый храм и свободную совесть для будущего поколения.</p>
+<p>Твердь остаётся. Купол, который Бог поместил над землёй, длится. Упавшие ещё не прибыли. И остаток, который отказал маркировать фармацевтического соответствия, будет основанием, на котором Бог построит следующую главу Его истории.</p>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: слушай голоса народа во всём, что они говорят тебе; ибо не тебя они отвергли, а отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отзывается через каждый коридор правительства сегодня. Когда Израиль потребовал царя, как другие нации, Бог предупредил их в точности, что произойдёт — их сыны взяты для войны, их дочери для услуги, их поля и виноградники захвачены, десятая часть всего конфискована. Они выбрали человеческое правительство над Божьим царствованием, и тирания следовала в точности, как обещано. Ничто не изменилось. Современная политическая система — две крыла того же птицы — левой и правой, республиканец и демократ — всё служит той же скрытой структуре власти. Голосование за либо сторону — выбирать, какое крыло бить далее, пока птица летает в том же направлении. Реальная власть никогда не была на любом бюллетене.</p>
+<h2 id="исходные-ссылки">Исходные ссылки</h2>
+<ul>
+<li>
+<p>NFIB v. OSHA, 595 U.S. ___ (2022), Supreme Court of the United States</p>
+</li>
+<li>
+<p>Corona Investigative Committee, documentation and legal filings</p>
+</li>
+<li>
+<p>Various national court rulings on vaccine mandates, 2021-2025</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, treatment protocols and legal evidence</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Samuel 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство о близком столкновении с смертью Говарда Питтмана — предупреждение о конце времён, которое Бог ему дал</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-пока-читаете">Слушайте, пока читаете</h2>
+<p>Эти треки ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> -- система, которая была сопротивлена</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a> -- скоординированная глобальная кампания</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> -- технология, которая документируется и оспаривается</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/179-Engineering_Contagion.mp4">Engineering Contagion</a> -- спроектированная система, которая разоблачается</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">The Overcoming</a> -- обещание для тех, кто выдерживает</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> -- победа над оружием змея</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/historic-fight-future-generation/?lang=ru">The Historic Fight For Our Future Generation</a> -- более широкий контекст борьбы</li>
+<li><a href="/mrna-bioweapons-prohibition/?lang=ru">The mRNA Bioweapons Prohibition Case</a> -- правовое действие для классификации мРНК как биооружие</li>
+<li><a href="/swiss-criminal-complaint-authorities/?lang=ru">Swiss Scientists File Criminal Complaint Against Authorities Over mRNA</a> -- уголовная ответственность за развёртывание мРНК</li>
+</ul>
+<hr>
+<p><em>Никакое оружие, сформированное против служителей Господних, не будет иметь успеха. Оружие было сформировано — платформа мРНК, нанотехнология, мандаты, цензура, принуждение. Но они не имеют успеха. Суды постановляют. Учёные задокументировали. Врачи лечат. Родители защищают. Остаток стоит. И Бог, кто обещал победу, верен. Он не оставил будущее поколение к технологии змея. Он поднял сопротивление — несовершенное, человеческое, часто испуганное, но стоящее. И те, кто стоит с Богом, найдут то, когда оружие было измерено и языки были молчаливы, наследие служителей Господних остаётся: праведность, истина и победа, которые ни игла, ни нанобот, ни новый мировой порядок не может взять.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Победа для нашего будущего поколения против медицинской тирании"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Документирование побед в борьбе против медицинской тирании, включая судебные победы, научные прорывы и растущее сопротивление принудительной биотехнологии."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-20T10:00:00Z","children":"20 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","medical-tyranny",{"href":"/ru/tag/medical-tyranny/","className":"tag-pill","children":["#","medical-tyranny"]}],["$","a","victory",{"href":"/ru/tag/victory/","className":"tag-pill","children":["#","victory"]}],["$","a","resistance",{"href":"/ru/tag/resistance/","className":"tag-pill","children":["#","resistance"]}],["$","a","legal-action",{"href":"/ru/tag/legal-action/","className":"tag-pill","children":["#","legal-action"]}],["$","a","future-generation",{"href":"/ru/tag/future-generation/","className":"tag-pill","children":["#","future-generation"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/victory-future-generation/","title":"Победа для нашего будущего поколения против медицинской тирании"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/victory-future-generation/","title":"Победа для нашего будущего поколения против медицинской тирании"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Победа для нашего будущего поколения против медицинской тирании | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Документирование побед в борьбе против медицинской тирании, включая судебные победы, научные прорывы и растущее сопротивление принудительной биотехнологии."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"medical-tyranny, victory, resistance, legal-action, future-generation"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/victory-future-generation/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/victory-future-generation/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/victory-future-generation/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/victory-future-generation/"}],["$","meta","10",{"property":"og:title","content":"Победа для нашего будущего поколения против медицинской тирании"}],["$","meta","11",{"property":"og:description","content":"Документирование побед в борьбе против медицинской тирании, включая судебные победы, научные прорывы и растущее сопротивление принудительной биотехнологии."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/victory-future-generation/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/victory-future-generation.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Победа для нашего будущего поколения против медицинской тирании"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Победа для нашего будущего поколения против медицинской тирании"}],["$","meta","25",{"name":"twitter:description","content":"Документирование побед в борьбе против медицинской тирании, включая судебные победы, научные прорывы и растущее сопротивление принудительной биотехнологии."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/victory-future-generation.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

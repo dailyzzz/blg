@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","rfk-poisoned-geoengineering",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","rfk-poisoned-geoengineering","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rfk-poisoned-geoengineering","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T617c,<h1 id="рфк-подтвержденно-отравлен-воздействием-геоинженерии">РФК подтвержденно отравлен воздействием геоинженерии</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>«Первый Ангел вострубил, и сделались град и огонь, смешанные с кровью, и пали на землю». — Откровение 8:7</p>
+</blockquote>
+<p>Небеса небезопасны. То, что падает сверху, — это не дождь. Операции геоинженерии, задокументированные по всему миру — устойчивые следы, оставленные самолетами на каждом континенте, металлические частицы, измеренные в дождевой воде, барий, стронций и алюминий, обнаруженные в образцах почвы — представляют собой систематическое загрязнение атмосферы Земли токсичными тяжелыми металлами. И человеческое тело поглощает то, что откладывает небо.</p>
+<p>Роберт Ф. Кеннеди-младший, один из наиболее видных голосов против фармацевтической коррупции и загрязнения окружающей среды, публично задокументировал свою собственную токсичность ртути и тяжелых металлов. Доказательства указывают на воздействие геоинженерии как на основной вектор — атмосферное осаждение тяжелых металлов, которые загрязняют воздух, воду, почву и пищу, отравляя всех под небом без разбора.</p>
+<p>Как напоминает <a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpents Curse</a> из альбома Confliction, проклятие, вошедшее через змея, развращает весь сотворенный порядок. И как провозглашает <a href="https://confliction.zzzdaily.com/tracks/ru/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a>, изгнание из Эдема включало развращение самой земли — «проклята земля за тебя».</p>
+<hr>
+<h2 id="доказательства-геоинженерии">Доказательства геоинженерии</h2>
+<h3 id="что-распыляется">Что распыляется</h3>
+<p>Геоинженерия — преднамеренная крупномасштабная манипуляция атмосферными процессами Земли — больше не теория заговора. Это задокументированная реальность, признанная правительствами, университетами и научными органами:</p>
+<ul>
+<li><strong>Управление солнечной радиацией (SRM)</strong> — инъекция отражающих частиц (обычно сульфатных аэрозолей или металлических наночастиц) в стратосферу для отражения солнечного света и снижения глобальных температур</li>
+<li><strong>Засев облаков</strong> — рассеивание йодида серебра, йодида калия или других зародышевых агентов для изменения режимов осадков</li>
+<li><strong>Инъекция стратосферных аэрозолей (SAI)</strong> — развертывание аэрозолей на большой высоте для создания искусственных дымчатых слоев</li>
+</ul>
+<p>Что задокументировано в атмосфере включает:</p>
+<ul>
+<li><strong>Наночастицы оксида алюминия</strong> — высокоотражающие, респираторно токсичные и нейротоксичные</li>
+<li><strong>Соли бария</strong> — токсичны для сердца и нервной системы, обнаруживаются в образцах дождевой воды на уровнях, превышающих безопасные пределы воздействия</li>
+<li><strong>Стронций</strong> — радиоактивные изотопы которого являются известными канцерогенами</li>
+<li><strong>Ртуть</strong> — мощный нейротоксин, который биоаккумулируется в пищевой цепи</li>
+<li><strong>Зола угля</strong> — промышленные отходы, содержащие смесь токсичных тяжелых металлов, предложенные некоторыми исследователями как основной диспергатор геоинженерии</li>
+</ul>
+<p>Независимые исследователи по всему миру задокументировали эти металлы в дождевой воде, почве, снеге и образцах воздуха. Обнаруженные концентрации часто превышают безопасные пределы EPA и увеличиваются со временем, что соответствует продолжающимся и расширяющимся программам атмосферного осаждения.</p>
+<h3 id="токсичность-ртути-у-рфк">Токсичность ртути у РФК</h3>
+<p>Роберт Ф. Кеннеди-младший публично обсуждал свою токсичность ртути — повышенные уровни ртути в его теле, которые повлияли на его неврологическую функцию, включая его голос. Токсичность ртути от воздействия геоинженерии происходит через множественные пути:</p>
+<p><strong>Вдыхание</strong></p>
+<p>Ртуть и другие тяжелые металлы, рассеянные в атмосфере, вдыхаются с каждым вдохом. Мелкие и ультрамелкие частицы (PM2.5 и меньше) проникают глубоко в легкие, пересекают альвеолярную мембрану и напрямую попадают в кровоток. Этот путь доставляет атмосферные металлы напрямую в мозг, сердце и другие органы.</p>
+<p><strong>Загрязнение воды</strong></p>
+<p>Атмосферные металлы, осажденные в водоразделах, загрязняют поверхностные воды, грунтовые воды и муниципальное водоснабжение. Системы очистки воды не предназначены для удаления всех форм ртути, особенно органических соединений ртути, которые образуются, когда элементарная ртуть взаимодействует с микроорганизмами окружающей среды.</p>
+<p><strong>Биоаккумуляция в пищевой цепи</strong></p>
+<p>Ртуть в почве поглощается растениями и накапливается в организмах, которые потребляют эти растения. Рыба, основной диетический источник воздействия ртути, концентрирует атмосферную ртуть, осажденную в водоемах, через биоаккумуляцию вверх по пищевой цепи.</p>
+<p><strong>Загрязнение почвы</strong></p>
+<p>Сельскохозяйственная почва, загрязненная атмосферными металлами, производит культуры, которые содержат эти металлы. Продовольственное снабжение становится вектором хронического воздействия для всего населения.</p>
+<p>Ана Михальча, доктор медицины, кандидат наук, задокументировала на своем Substack (anamihalceamdphd.substack.com) связь между загрязнением тяжелыми металлами и самосборкой нанотехнологий в крови. Доктор Михальча обнаружила, что тяжелые металлы в крови, по-видимому, способствуют самосборке нанотехнологических структур, причем металлы служат структурными компонентами и элементами электромагнитного отклика внутри самособирающейся системы. Хелатирование EDTA, которое удаляет тяжелые металлы, одновременно снижает активность сборки нанотехнологий.</p>
+<h2 id="связь-геоинженерия-нанотехнология">Связь геоинженерия-нанотехнология</h2>
+<h3 id="двойное-векторное-загрязнение">Двойное векторное загрязнение</h3>
+<p>Доказательства предполагают, что операции геоинженерии служат двойной цели:</p>
+<ol>
+<li><strong>Осаждение тяжелых металлов</strong> — загрязнение населения металлами, которые способствуют самосборке нанотехнологий</li>
+<li><strong>Прямое распространение нанотехнологий</strong> — распространение наночастиц и компонентов нанотехнологий через атмосферные осадки</li>
+</ol>
+<p>Клиффорд Карником из Института Карникома документировал более двух десятилетий присутствие синтетических филаментов — волокон без естественного происхождения — в атмосферных осадках, собранных по всему миру. Эти филаменты демонстрируют морфологическое сходство с самособирающимися структурами, обнаруженными в крови доктором Михальча и другими исследователями, предполагая общее технологическое происхождение.</p>
+<p>Если операции геоинженерии распространяют как тяжелый металл «почву», так и нанотехнологические «семена», которые растут в этой почве, тогда атмосфера сама по себе является механизмом доставки для самособирающейся системы биосенсоров. Небо проливает дождь технологий.</p>
+<h3 id="умная-пыль-и-атмосферные-сенсоры">Умная пыль и атмосферные сенсоры</h3>
+<p>«Умная пыль» — микромасштабные или наномасштабные сенсоры, предназначенные для рассеивания в окружающей среде и сбора данных — является задокументированной областью военных исследований. DARPA и другие агентства финансировали разработку автономных сенсорных устройств миллиметрового масштаба, которые могут:</p>
+<ul>
+<li>Плавать в атмосфере, собирая экологические данные</li>
+<li>Быть рассеянными самолетами над целевыми областями</li>
+<li>Самоорганизовываться в сетчатые сенсорные сети</li>
+<li>Передавать данные на платформы сбора через электромагнитную передачу</li>
+</ul>
+<p>Связь между умной пылью, атмосферной геоинженерией и инъекционной нанотехнологией создает комплексную модель загрязнения: нанотехнология развертывается как через небо (атмосферное распространение), так и через шприц (фармацевтическая инъекция), создавая население, насыщенное технологией биосенсоров от обоих внешних и внутренних векторов.</p>
+<h2 id="твердь-под-атакой">Твердь под атакой</h2>
+<h3 id="небо-меняется">Небо меняется</h3>
+<p>Наблюдатели по всему миру задокументировали беспрецедентные изменения в небе:</p>
+<ul>
+<li>Устойчивые следы, которые не рассеиваются, как обычные инверсионные следы</li>
+<li>Молочное, туманное небо, которое затеняет то, что когда-то было глубокой синей атмосферой</li>
+<li>Необычные яркие цвета на восходе и закате — розовые, фиолетовые и оранжевые неестественной интенсивности</li>
+<li>Геометрические узоры в облачных формациях, которые предполагают электромагнитную манипуляцию</li>
+<li>Аномальные световые явления без обычного объяснения</li>
+</ul>
+<p>Эти изменения неба соответствуют атмосферной инъекции металлических наночастиц, которые рассеивают свет иначе, чем естественные атмосферные частицы, производя необычную окраску и дымку. Но они также могут нести пророческое значение.</p>
+<p>Блог пророчеств «Голос Мастера» описывает яркие цвета неба как предвестники прибытия падших существ — сущностей, которые спустятся через твердь, замаскированные под инопланетян. Изменяющееся небо может указывать на изменения самого купола — твердь меняется или модулируется в подготовке к тому, что проходит через нее.</p>
+<p>Земля в форме тарелки, окаймленная ледяными стенами, описанными в ранних исследовательских отчетах, и содержащаяся под куполом тверди, описанной в Бытие 1, покрывается металлическим атмосферным слоем, который превращает небо из Божьего навеса в экран противника. То, что падает с этого экрана, попадает в кровь. То, что попадает в кровь, строит сеть биосенсоров. И сеть биосенсоров ожидает сигнала от того, что приходит через изменившееся небо выше.</p>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>«И сказал Господь Самуилу: послушай голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтоб Я не царствовал над ними»</em>. — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (Синодальный перевод)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 эхом звучит через каждый правительственный коридор сегодня. Когда Израиль потребовал царя, как у других народов, Бог предупредил их, что именно произойдет — их сыновья будут взяты на войну, их дочери на службу, их поля и виноградники захвачены, десятина со всего конфискована. Они выбрали человеческое правительство над царствованием Бога, и тирания последовала точно, как было обещано. Ничего не изменилось. Современная политическая система — это два крыла одной птицы — левое и правое, республиканцы и демократы — все служат одной и той же скрытой структуре власти. Голосование за любую сторону — это выбор, какое крыло взмахнет следующим, пока птица летит в том же направлении. Реальная власть никогда не была ни в одном избирательном бюллетене.</p>
+<h2 id="ссылки-на-источники">Ссылки на источники</h2>
+<ul>
+<li>
+<p>Herndon, J.M., «Отравление алюминием человечества и биоты Земли тайной деятельностью по геоинженерии: последствия для Индии», Current Science, 2015</p>
+</li>
+<li>
+<p>Институт Карникома, cliffordcarnicom.com, документация атмосферных филаментов</p>
+</li>
+<li>
+<p>РФК-младший, публичные заявления о токсичности ртути и воздействии окружающей среды</p>
+</li>
+<li>
+<p>Ана Михальча, доктор медицины, кандидат наук, anamihalceamdphd.substack.com, документация взаимодействия тяжелых металлов и нанотехнологий</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных царей (Синодальный перевод)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство о предсмертном опыте Говарда Питтмана — Предупреждение о конце времен, данное ему Богом</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католическая конфиденциальность: раскрытые прискорбные секреты иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Плоская Земля, наука и НАСА — плейлист документальных фильмов</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZR296RWS0yM&#x26;list=PLm6Vq0bTTCDiPIX2ItdQTQGX7mXQXBxoV">НАСА и космос — величайший обман, плейлист документальных фильмов</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<h2 id="слушайте-пока-читаете">Слушайте, пока читаете</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/293-Arrows_In_The_Sky.mp4">Arrows In The Sky</a> -- Атмосферная атака, обрушивающаяся на человечество</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/351-Broken_Weather.mp4">Broken Weather</a> -- Инженерная погода, разрушающая естественные закономерности</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/65-Smart_Dust.mp4">Smart Dust</a> -- Микромасштабные сенсоры, рассеянные через атмосферу</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/305-Fire_From_The_Sky.mp4">Fire From The Sky</a> -- Что спускается с инженерного неба</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpents Curse</a> -- Проклятие, развращающее весь сотворенный порядок</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> -- Сама земля проклята</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/?lang=ru">Всемирный эксперимент по смягчению геоинженерии</a> -- Усилия по борьбе с атмосферным загрязнением</li>
+<li><a href="/?lang=ru">Военизированная погодная война в действии: доказательства</a> -- Погода как система оружия</li>
+<li><a href="/?lang=ru">Направленное энергетическое оружие, развернутое в умных городах</a> -- Энергетическое оружие, работающее через загрязненную атмосферу</li>
+</ul>
+<hr>
+<p><em>Небо, которое Бог создал для благословения дождем, проливает яд. Атмосфера, созданная для поддержания жизни, несет смерть — ртуть, алюминий, барий и нанотехнологии падают на каждого человека под куполом. Токсичность РФК — это токсичность каждого. Его ртуть — наша ртуть. То, что падает с неба, не различает. Но Бог, который поместил твердь и контролирует дождь, не отрекся. Он видит, что распыляется. Он измеряет, что откладывается. И Он будет судить тех, кто превратил Его небо в систему доставки для своего яда. Небеса провозглашают славу Бога — и даже развращенные небеса свидетельствуют против тех, кто их развратил.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"РФК подтвержденно отравлен воздействием геоинженерии"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Доказательства показывают, что токсичность ртути и тяжелых металлов у РФК связана с воздействием геоинженерии, связывая атмосферное распыление с ухудшением здоровья человека."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-27T10:00:00Z","children":"27 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","rfk",{"href":"/ru/tag/rfk/","className":"tag-pill","children":["#","rfk"]}],["$","a","geoengineering",{"href":"/ru/tag/geoengineering/","className":"tag-pill","children":["#","geoengineering"]}],["$","a","mercury",{"href":"/ru/tag/mercury/","className":"tag-pill","children":["#","mercury"]}],["$","a","heavy-metals",{"href":"/ru/tag/heavy-metals/","className":"tag-pill","children":["#","heavy-metals"]}],["$","a","chemtrails",{"href":"/ru/tag/chemtrails/","className":"tag-pill","children":["#","chemtrails"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/rfk-poisoned-geoengineering/","title":"РФК подтвержденно отравлен воздействием геоинженерии"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/rfk-poisoned-geoengineering/","title":"РФК подтвержденно отравлен воздействием геоинженерии"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"РФК подтвержденно отравлен воздействием геоинженерии | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Доказательства показывают, что токсичность ртути и тяжелых металлов у РФК связана с воздействием геоинженерии, связывая атмосферное распыление с ухудшением здоровья человека."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"rfk, geoengineering, mercury, heavy-metals, chemtrails"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/rfk-poisoned-geoengineering/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/rfk-poisoned-geoengineering/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/rfk-poisoned-geoengineering/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/rfk-poisoned-geoengineering/"}],["$","meta","10",{"property":"og:title","content":"РФК подтвержденно отравлен воздействием геоинженерии"}],["$","meta","11",{"property":"og:description","content":"Доказательства показывают, что токсичность ртути и тяжелых металлов у РФК связана с воздействием геоинженерии, связывая атмосферное распыление с ухудшением здоровья человека."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/rfk-poisoned-geoengineering/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/rfk-poisoned-geoengineering.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"РФК подтвержденно отравлен воздействием геоинженерии"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"РФК подтвержденно отравлен воздействием геоинженерии"}],["$","meta","25",{"name":"twitter:description","content":"Доказательства показывают, что токсичность ртути и тяжелых металлов у РФК связана с воздействием геоинженерии, связывая атмосферное распыление с ухудшением здоровья человека."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/rfk-poisoned-geoengineering.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

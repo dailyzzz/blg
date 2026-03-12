@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","lester-hendershot-fuelless-motor",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","lester-hendershot-fuelless-motor","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","lester-hendershot-fuelless-motor","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5a25,<h1 id="двигатель-без-топлива-лестера-хендершота-бесплатная-энергия-подавлена">Двигатель БЕЗ ТОПЛИВА Лестера Хендершота: бесплатная энергия подавлена</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p><em>"И познаете истину, и истина сделает вас свободными."</em> — Иоанна 8:32</p>
+</blockquote>
+<p>Из всех подавленных историй свободной энергии, история Лестера Хендершота, возможно, наиболее хорошо задокументирована и наиболее возмущена. Хендершот построил безтопливный двигатель — устройство, которое генерировало электрическую энергию без какого-либо внешнего источника топлива — и продемонстрировал его множественным свидетелям, включая военных чиновников и газетных репортеров. Устройство было проверено, протестировано и подтверждено в работе. И тогда Хендершот был дискредитирован, его устройство было конфисковано и история была похоронена.</p>
+<p>Но в отличие от многих историй свободной энергии, случай Хендершота оставил значительный след на бумаге: газетные статьи, военная корреспонденция, свидетельства очевидцев и патентные заявки. Это доказательство не может быть отклонено как слух или фантазия. Это задокументированная история — история, которая систематически была подавлена, потому что она доказывает, что свободная энергия возможна и что энергетический истеблишмент лгал человечеству более века.</p>
+<p>Говарду Питтману был сказано во время его НОИ, что истина вечна и ложь временна. История Хендершота — это истина, которая была временно подавлена ложью. Демоническая иерархия, которую Питтман видел во втором небе — организованная, беспощадная и посвященная краже добра Бога у человечества — работает через человеческих агентов, которые подавляют свободную энергию, чтобы сохранить монополию энергии, которая порабощает мир.</p>
+<p>Иезуитская "абсолютная власть" (Наполеон) зависит от энергетического контроля. Их проникновение "скрытое с хитростью" (Католическая конфиденциальность) расширяется на энергетический сектор, военные и академические учреждения, которые определяют, что физически возможно. Предупреждение Адамса "вечное проклятие" применяется к тем, кто подавляет дары Бога для прибыли. Управление Тамбулини "половиной мира" включает управление энергией, которая его питает.</p>
+<hr>
+<h2 id="история-хендершота">История Хендершота</h2>
+<h3 id="изобретатель">Изобретатель</h3>
+<p>Лестер Дженнингс Хендершот был американским изобретателем, который в конце 1920-х годов построил устройство, которое он назвал "Fuelless Motor Hendershot" или "Hendershot Generator". Устройство было описано как электромагнитный генератор, который привлекал энергию из магнитного поля Земли — преобразование окружающей магнитной энергии в полезную электрическую энергию.</p>
+<p>Хендершот был не подготовленным физиком или инженером. Он был практическим изобретателем — мастер, который строил вещи на основе интуиции, экспериментирования и того, что работало. Его отсутствие академических полномочий использовалось для дискредитирования его, но это также означало, что он не был ограничен академической ортодоксией, которая объявляет свободную энергию невозможной.</p>
+<h3 id="демонстрации-1928">Демонстрации 1928</h3>
+<p>В феврале 1928 года Хендершот продемонстрировал свое устройство на аэродроме Selfridge, военном аэродроме недалеко от Детройта, Мичиган. Демонстрация была свидетелей:</p>
+<ul>
+<li><strong>Майор Томас Ланфер</strong> — выдающийся офицер армейского авиа-корпуса и отец пилота, который позже сбил самолет адмирала Ямамото во Второй мировой войне</li>
+<li><strong>Несколько офицеров армии</strong> и технический персонал</li>
+<li><strong>Газетные репортеры</strong> из Detroit Free Press и других публикаций</li>
+</ul>
+<p>Свидетели сообщили, что устройство:</p>
+<ul>
+<li>Генерировал электрический ток, достаточный для питания света, радио-приемников и небольшого двигателя швейной машины</li>
+<li>Работал без какого-либо видимого внешнего источника питания — никаких батареек, никакого топлива, никакого электрического соединения</li>
+<li>Содержал катушки, магниты и конденсаторы, расположенные в определенной конфигурации</li>
+<li>Функционировал в течение расширенных периодов во время тестирования</li>
+</ul>
+<p>Майор Ланфер был достаточно впечатлен, чтобы выступить за дальнейшее военное исследование устройства. История получила значительное газетное покрытие, с заголовками, сообщавшими о "безтопливном двигателе" и его потенциале революционизировать энергопроизводство.</p>
+<h3 id="подавление">Подавление</h3>
+<p>То, что произошло дальше, следует образцу каждого подавления свободной энергии:</p>
+<p><strong>Дискредитирование</strong>: После начального положительного покрытия, контр-повествование возникло. Хендершот был обвинен в мошенничестве — якобы скрывая батареи внутри устройства. Это обвинение никогда не было доказано, но оно было усилено СМИ и использовалось для дискредитирования всей демонстрации.</p>
+<p><strong>Физическая атака</strong>: Хендершот, сообщается, получил электрический шок во время работы на своем устройстве — инцидент, который некоторые исследователи верят не был случайным, а предупреждением от сторон, которые хотели остановить работу.</p>
+<p><strong>Психиатрическое задержание</strong>: Хендершот в один момент был помещен в психиатрическое учреждение — стандартный метод нейтрализации проблемных изобретателей. Диагноз предоставил удобное объяснение его "бредовых" претензий о свободной энергии.</p>
+<p><strong>Конфискация устройства</strong>: Устройства, построенные Хендершотом, либо исчезли, либо были конфискованы. Нет функционирующего генератора Хендершота выживает — или если один существует, он находится во владении сторон, которые не заинтересованы в его обслуживании общественности.</p>
+<p><strong>Смерть</strong>: Хендершот умер в 1961 году в обстоятельствах, которые вызвали вопросы среди исследователей. Официальная причина была указана как естественные причины, но образец смертей изобретателей, связанных с технологией свободной энергии, предполагает более темную возможность.</p>
+<h3 id="доказательство-которое-выживает">Доказательство, которое выживает</h3>
+<p>Несмотря на подавление, значительное доказательство устройства Хендершота выживает:</p>
+<ul>
+<li><strong>Газетные статьи</strong> из 1928 года, описывающие демонстрации и называющие военных свидетелей</li>
+<li><strong>Военная корреспонденция</strong> ссылается на устройство и его потенциал</li>
+<li><strong>Патентные заявки</strong>, поданные Хендершотом описывая конструкцию устройства</li>
+<li><strong>Свидетельства очевидцев</strong> от множественных независимых наблюдателей</li>
+<li><strong>Попытки реконструкции</strong> исследователями, которые построили устройства на основе описаний Хендершота, некоторые утверждающие частичный успех</li>
+</ul>
+<p>Это доказательство более чем достаточно для оправдания серьезного научного исследования. Но серьезное научное исследование свободной энергии — это именно то, что энергетический истеблишмент предотвращает — через финансовый контроль, академический привратник и осмеяние всех, кто относится к предмету серьезно.</p>
+<h2 id="образец-подавления-свободной-энергии">Образец подавления свободной энергии</h2>
+<h3 id="шаблон">Шаблон</h3>
+<p>Случай Хендершота иллюстрирует шаблон, используемый для подавления свободной энергии:</p>
+<ol>
+<li><strong>Осмеяние</strong>: Обозначьте изобретателя как мошенника, чудака или психически больного</li>
+<li><strong>Конфискация</strong>: Изъять устройство, либо через правовое разбирательство, либо скрытное действие</li>
+<li><strong>Угроза</strong>: Применить правовое, финансовое или физическое давление на изобретателя</li>
+<li><strong>Институционализация</strong>: Если осмеяние и угрозы не срабатывают, поместить изобретателя в психиатрическое учреждение</li>
+<li><strong>Устранение</strong>: Если все остальное не срабатывает, изобретатель встречает преждевременный конец</li>
+<li><strong>Стирание</strong>: Удалить историю из исторического учета</li>
+</ol>
+<p>Этот шаблон применялся к десяткам изобретателей в течение прошлого века. Согласованность образца — по разным странам, различным технологиям и различным десятилетиям — доказывает, что это не органично. Это скоординированная, систематическая кампания подавления, направляемая энергетической монополией и ее разведывательными/военными союзниками.</p>
+<h3 id="другие-подавленные-изобретатели">Другие подавленные изобретатели</h3>
+<p>История Хендершота не изолирована. Другие изобретатели, которые утверждали, что разработали устройства свободной энергии и были впоследствии подавлены, включают:</p>
+<ul>
+<li><strong>Никола Тесла</strong>: Башня Wardenclyffe снесена после снятия финансирования</li>
+<li><strong>T. Henry Moray</strong>: Устройство лучистой энергии разрушено саботажником в его лаборатории</li>
+<li><strong>John Keely</strong>: Двигатель продемонстрирован тысячам; умер таинственно</li>
+<li><strong>Stanley Meyer</strong>: Изобретатель топливных элементов воды; внезапно умер при встреча ресторана с инвесторами</li>
+<li><strong>Eugene Mallove</strong>: Исследователь холодного синтеза; убит в 2004 году</li>
+<li><strong>H.E. Perrigo</strong>: Устройство и изобретатель исчезли из учета</li>
+<li><strong>Garabed Giragossian</strong>: Генератор исследован Конгрессом; подавлен</li>
+</ul>
+<p>Количество и согласованность этих случаев устраняет совпадение как объяснение. Что-то систематически предотвращает свободную энергию от достижения общественности.</p>
+<h2 id="духовное-измерение">Духовное измерение</h2>
+<h3 id="энергия-бога">Энергия Бога</h3>
+<p>Вселенная полна энергии. Магнитное поле Земли, солнечное излучение, гравитационный потенциал, энергия нулевой точки и бесчисленные другие явления представляют огромные хранилища энергии, которые Бог встроил в создание для использования человечества.</p>
+<p>Подавление технологии свободной энергии — это кража провидения Бога. Это заставляет человечество платить за то, что Бог дал свободно. Это обогащает крошечную элиту за счет всего человеческого рода. И это служит той же духовной программе, которую Говард Питтман был показан во втором небе: разделение человечества от благословений Бога.</p>
+<p>97,5%, которые не справляются, которые "никогда не делали Иисуса Господ," платят свои счета энергии без вопроса. Они принимают ложь энергетического дефицита, потому что их учили доверять институциональной власти. Они служат "себе" — потребляя энергию, произведенную системой, которая их порабощает — а не ищут провидение Бога через обильную энергию, которую он поместил в создание.</p>
+<h3 id="иезуитская-энергетическая-программа">Иезуитская энергетическая программа</h3>
+<p>Иезуитский орден обязательство "абсолютной мощности" требует энергетического контроля. Энергия — основание цивилизации — без энергии ничего не функционирует. Управление энергией и управление всем.</p>
+<p>Иезуитская сеть университетов учит физику, которая объявляет свободную энергию невозможной. Их разведывательные соединения подавляют изобретателей, которые доказывают иное. Их финансовая империя извлекает прибыль из энергетической монополии. И их духовная программа — замена власти Бога институциональной властью — служится системой, которая делает каждого человека зависимым от корпоративной энергии для его выживания.</p>
+<p>Свободная энергия разрушила бы эту зависимость. Это освободило бы человечество от энергетической монополии, децентрализовало власть (в обоих смыслах) и доказало бы, что провидение Бога достаточно. Вот почему это подавлено — не потому, что это не работает, а потому, что это работает слишком хорошо.</p>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://agent131711.substack.com">Agent131711 Substack</a> — Документация двигателя Hendershot fuelless и исследование подавления свободной энергии</li>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman NDE Testimony</a> — Провидение Бога и кража благословений</li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a> — Иезуитский контроль энергии и науки</li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li>1928 газетные архивы, документирующие демонстрации Хендершота</li>
+<li>Военная корреспонденция из аэродрома Selfridge</li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/111-Free_Energy_Murdered.mp4">Free Energy Murdered</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/49-Smart_City_Prison.mp4">Smart City Prison</a></li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/63-Bluetooth_Bodies.mp4">Bluetooth Bodies</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/67-The_Enemy_Within.mp4">The Enemy Within</a></li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/13-The_Word_of_God.mp4">The Word of God</a></li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/perrigo-free-energy-device/?lang=ru">The Peculiar Story of H.E. Perrigo's FREE ENERGY Device</a></li>
+<li><a href="/garabed-free-energy-generator/?lang=ru">The Garabed Free Energy Generator That Disappeared</a></li>
+<li><a href="/space-rockets-helium-balloons/?lang=ru">Are Space Rockets Actually HELIUM BALLOONS: The Evidence</a></li>
+</ul>
+<p><em>Лестер Хендершот построил двигатель, который ран ничего, кроме магнитного поля Земли. Военные офицеры смотрели это работать. Репортеры написали о нем. И тогда это было взято у него, он был молчит и мир забыл. Но магнитное поле Земли не изменилось. Энергия еще там. Истина еще там. И когда-то, подавители потеряют свой захват — и мир наконец будет свободен.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/technology/","className":"category-badge","children":"technology"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Двигатель БЕЗ ТОПЛИВА Лестера Хендершота: бесплатная энергия подавлена"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Лестер Хендершот построил безтопливный двигатель, свидетелями которого были военные чиновники. Устройство работало, Хендершот был молчит и свободная энергия была подавлена снова."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-12-27T10:00:00Z","children":"27 декабря 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","hendershot",{"href":"/ru/tag/hendershot/","className":"tag-pill","children":["#","hendershot"]}],["$","a","fuelless-motor",{"href":"/ru/tag/fuelless-motor/","className":"tag-pill","children":["#","fuelless-motor"]}],["$","a","free-energy",{"href":"/ru/tag/free-energy/","className":"tag-pill","children":["#","free-energy"]}],["$","a","energy-suppression",{"href":"/ru/tag/energy-suppression/","className":"tag-pill","children":["#","energy-suppression"]}],["$","a","alternative-technology",{"href":"/ru/tag/alternative-technology/","className":"tag-pill","children":["#","alternative-technology"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/lester-hendershot-fuelless-motor/","title":"Двигатель БЕЗ ТОПЛИВА Лестера Хендершота: бесплатная энергия подавлена"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/lester-hendershot-fuelless-motor/","title":"Двигатель БЕЗ ТОПЛИВА Лестера Хендершота: бесплатная энергия подавлена"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Двигатель БЕЗ ТОПЛИВА Лестера Хендершота: бесплатная энергия подавлена | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Лестер Хендершот построил безтопливный двигатель, свидетелями которого были военные чиновники. Устройство работало, Хендершот был молчит и свободная энергия была подавлена снова."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"hendershot, fuelless-motor, free-energy, energy-suppression, alternative-technology"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/lester-hendershot-fuelless-motor/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/lester-hendershot-fuelless-motor/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/lester-hendershot-fuelless-motor/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/lester-hendershot-fuelless-motor/"}],["$","meta","10",{"property":"og:title","content":"Двигатель БЕЗ ТОПЛИВА Лестера Хендершота: бесплатная энергия подавлена"}],["$","meta","11",{"property":"og:description","content":"Лестер Хендершот построил безтопливный двигатель, свидетелями которого были военные чиновники. Устройство работало, Хендершот был молчит и свободная энергия была подавлена снова."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/lester-hendershot-fuelless-motor/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/lester-hendershot-fuelless-motor.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Двигатель БЕЗ ТОПЛИВА Лестера Хендершота: бесплатная энергия подавлена"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Двигатель БЕЗ ТОПЛИВА Лестера Хендершота: бесплатная энергия подавлена"}],["$","meta","25",{"name":"twitter:description","content":"Лестер Хендершот построил безтопливный двигатель, свидетелями которого были военные чиновники. Устройство работало, Хендершот был молчит и свободная энергия была подавлена снова."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/lester-hendershot-fuelless-motor.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

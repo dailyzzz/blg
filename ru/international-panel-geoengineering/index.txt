@@ -1,0 +1,126 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","international-panel-geoengineering",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","international-panel-geoengineering","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","international-panel-geoengineering","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5b73,<h1 id="1-я-международная-панель-по-геоинженерии-раскрывает-повестку">1-я Международная панель по геоинженерии раскрывает повестку</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Так говорит Господь; проклят человек, который уповает на человека и делает плоть мышцей его, и отступает сердцем его от Господа." -- Иеремия 17:5</p>
+</blockquote>
+<p>1-я Международная панель по геоинженерии представляет институционализацию атмосферного манипулирования -- переход от скрытых военных операций к явной политике управления. Где когда-то геоинженерия была отрицаема, она теперь формализуется. Где геоинженерия когда-то была классифицирована, она теперь нормализуется. Повестка не состоит в том, чтобы остановить геоинженерию. Повестка состоит в том, чтобы легитимизировать ее -- трансформировать атмосферное манипулирование из неавторизованной военной операции в авторизованную программу управления.</p>
+<p>Когда человечество помещает свое доверие в способность человека инженерить климат, а не полномочия Бога над погодой, оно сделало плоть его мышцей. И проклятие обещано Иеремией падает на тех, кто уповает на технологическое манипулирование, а не божественное провизию.</p>
+<p>Как <a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">The Transgression</a> из альбома Confliction предупреждает, институционализация трансгрессии — это наиболее опасная форма. И как <a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers Lies</a> объявляет, наиболее эффективный обман — это один, который приходит с официальным одобрением.</p>
+<hr>
+<h2 id="международная-панель">Международная панель</h2>
+<h3 id="формирование-и-цель">Формирование и цель</h3>
+<p>1-я Международная панель по геоинженерии представляет формирование глобальной структуры управления для атмосферного изменения. Смоделировано на Межправительственную панель по изменению климата (IPCC), эта панель стремится:</p>
+<ul>
+<li>Установить научный консенсус о осуществимости и необходимости геоинженерии</li>
+<li>Разработать рамки управления для авторизации и надзора операций геоинженерии</li>
+<li>Создать международные протоколы для программ атмосферного изменения</li>
+<li>Нормализовать геоинженерию в публичном дискурсе как "необходимый ответ" на изменение климата</li>
+<li>Установить сцену для крупномасштабного развертывания программ управления солнечной радиацией</li>
+</ul>
+<p>Панель включает ученых, политиков и представителей учреждения из нескольких стран, создавая видимость международного научного консенсуса позади того, что исторически была унилатеральной военной операцией, проводимой в основном Соединенными Штатами и его союзниками.</p>
+<h3 id="заявленная-повестка">Заявленная повестка</h3>
+<p>Объявленная повестка панели включает:</p>
+<p><strong>Управление солнечной радиацией (SRM)</strong></p>
+<p>Инъекция отражающих частиц (типично сульфатные аэрозоли, оксид алюминия или карбонат кальция) в стратосферу, чтобы отражать солнечный свет и снизить глобальные температуры. Панель рамки SRM как "потенциальное дополнение" к сокращению эмиссии -- временная мера, чтобы "купить время", в то время как углеводный эмиссии сокращаются.</p>
+<p>Реальность, задокументированная независимыми исследователями, состоит в том, что SRM существовала на протяжении десятилетий без публичного согласия. Роль панели — это не инициировать SRM, но ретроактивно авторизировать то, что уже происходит.</p>
+<p><strong>Морское облачное освещение</strong></p>
+<p>Распыление морских соли частиц в низко-высотные морские облака, чтобы увеличить их отражательность. Эта техника, протестирована у побережья Калифорнии и Австралии, увеличивает облачное альбедо (отражательность), чтобы отражать больше солнечного света обратно в космос.</p>
+<p><strong>Тонкость облаков перистые</strong></p>
+<p>Засев высоко-высотных облаков перистые с материалами, которые заставляют их тонкие или рассеиваться, позволяя больше жара спасаться в космос. Эта техника изменяет радиативный баланс земли, сокращая изолирующий эффект высоких облаков.</p>
+<p><strong>Удаление углекислоты (CDR)</strong></p>
+<p>Технологии, которые удаляют CO2 непосредственно из атмосферы, включая прямой захват воздуха (промышленные объекты, которые извлекают CO2), увеличенное выветривание (распределение минеральных разновидностей, которые реагируют с CO2) и облагаемость кислотностью океана (добавление щелочные материалы к океану, чтобы увеличить всасывание CO2).</p>
+<h3 id="скрытая-повестка">Скрытая повестка</h3>
+<p>Позади заявленной повестки климатического интервенции лежит набор цели, что панель не публикует:</p>
+<p><strong>Контроль производства пищи</strong></p>
+<p>Контролирующие где идут дожди и где это не дождь, программы геоинженерии могут управлять производительностью сельского хозяйства. Области, которые получают дождь, производят пищу. Области, которые не получают дождь, ощущают засуху, отказ урожая и недостаток пищи. Контроль над погодой — это контроль пищи. И контроль пищи — это контроль населения.</p>
+<p><strong>Распределение атмосферной нанотехнологии</strong></p>
+<p>Как задокументировано исследователями, включая те при Carnicom Institute, операции геоинженерии распределяют не только отражающие частицы, но также синтетические материалы, включая компоненты нанотехнологии. Авторизация панелью атмосферных программ распыления обеспечивает институциональное покрытие для атмосферного распределения нанотехнологии.</p>
+<p><strong>Улучшение электромагнитной сетки</strong></p>
+<p>Металлические частицы в атмосфере улучшают электромагнитные свойства атмосферного слоя, улучшая распространение электромагнитных сигналов между наземными передатчиками, спутниками и нанотехнологией внутри человеческих тел. Геоинженерия не просто об климате. Это об создании атмосферной среды, которая поддерживает электромагнитную сетку управления.</p>
+<p>Ана Михалча, MD, PhD, задокументировала на ее Substack (anamihalceamdphd.substack.com) конвергенцию между атмосферным загрязнением от геоинженерии и загрязнением нанотехнологией в крови. Д-р Михалча утверждает, что повестка геоинженерии служит более широкой трансгуманистической повестке управления, создав атмосферные условия, необходимые для электромагнитной сетки, чтобы функционировать оптимально и по распределению компонентов нанотехнологии через атмосферное падение.</p>
+<h2 id="ловушка-управления">Ловушка управления</h2>
+<h3 id="от-отрицания-к-нормативно-правовому-регулированию">От отрицания к нормативно-правовому регулированию</h3>
+<p>Переход от отрицания к нормативно-правовому регулированию следует предсказуемый паттерн:</p>
+<ol>
+<li><strong>Отрицание</strong> (1990s-2010s): "Геоинженерия не происходит. Chemtrails — это теория заговора."</li>
+<li><strong>Признание</strong> (2010s-2020s): "Геоинженерия исследуется. Некоторые мелкие экспериментуры произошли."</li>
+<li><strong>Нормализация</strong> (2020s): "Геоинженерия может быть необходима, чтобы обратиться к изменению климата. Нам нужны рамки управления."</li>
+<li><strong>Авторизация</strong> (2020s-2030s): "Международные панели авторизировали управление солнечной радиацией под конкретными протоколами управления."</li>
+<li><strong>Расширение</strong> (2030s+): "Геоинженерия теперь стандартный инструмент управления. Атмосферное изменение является рутинным."</li>
+</ol>
+<p>Международная панель представляет переход от Этап 3 к Этап 4 -- формализация авторизации для операций, которые произошли скрытно в течение десятилетий. Рамки управления не ограничивают геоинженерию. Это легитимизирует ее.</p>
+<h3 id="проблема-согласия">Проблема согласия</h3>
+<p>Геоинженерия влияет на каждого человека на земле -- каждый дыхание, каждая капля дождя, каждый урожай. Но механизм не существует для получения согласия глобального населения для атмосферного изменения. Международная панель заменяет институциональную авторизацию для демократического согласия -- небольшого число назначенных экспертов авторизирующих операции, которые влияют на миллиарды людей, которые никогда не были проконсультированы.</p>
+<p>Это технократическое управление в самой чистой форме: избранные эксперты, принимающие решения, которые влияют на все человечество без демократического входа, без публичного согласия и без ответственности к популяциям, которые они влияют.</p>
+<h2 id="духовная-рамка">Духовная рамка</h2>
+<h3 id="владычество-против-доминирования">Владычество против доминирования</h3>
+<p>Бог дал человечеству владычество над землей (Бытие 1:28) -- авторитет, чтобы охранять, заботиться и культивировать творение. Владычество — это охрана. Это уход. Это культивирование согласно замыслу Творца.</p>
+<p>Геоинженерия не владычество. Это доминирование. Это насильственное манипулирование атмосферными системами против их естественного замысла, в целях управления, а не охраны. Разница между владычеством и доминированием — это разница между садовником, который заботится о том, что Бог посадил и инженером, который рвет сад и заменяет его машиной.</p>
+<p>Международная панель формализует доминирование и называет это управлением. Она авторизирует замену погоды Бога на погоду человека и называет это управлением климатом. Она легитимизирует загрязнение неба и называет это управлением солнечной радиацией. Но Бог, кто поместил твердь над землей, не делегировал его управление международной панели. Небо принадлежит Ему. И Его суд на тех, кто отравил ее, не требует одобрения панели.</p>
+<p>Земля, обвитая у своих края под куполом твердь, — это пространство, в котором эта драма разворачивается. Небо, манипулируемое, находится под куполом. Металлы, опрыскиваемые, падают в куполе. И Бог, который поместил купол, видит каждую частицу, каждый самолет и каждого члена панели, который авторизировал дефилирование Его творения.</p>
+<h2 id="ссылки-на-источники">Ссылки на источники</h2>
+<ul>
+<li>Различные предложения управления геоинженерией на международном уровне и документирование панели</li>
+<li>Национальная академия наук, "Отражение солнечного света: рекомендации для исследования геоинженерии и управления исследования", 2021</li>
+<li>Royal Society, "Geoengineering the Climate," 2009</li>
+<li>Carnicom Institute, документирование загрязнения атмосферы</li>
+<li>Ана Михалча, MD, PhD, anamihalceamdphd.substack.com, конвергенция геоинженерии и нанотехнологии</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство почти-смертельного опыта Ховарда Питтмана — Предупреждение о конце времен, которое Бог ему дал</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католический конфиденциал: раскрытые позорные иезуитские секреты</a></li>
+<li><a href="https://www.youtube.com/watch?v=8udts8Un4m4&#x26;list=PLm6Vq0bTTCDj8fuDVfqcytiuxbVj_Lyq4">Плоская земля, наука и НАСА — плейлист документация</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZR296RWS0yM&#x26;list=PLm6Vq0bTTCDiPIX2ItdQTQGX7mXQXBxoV">НАСА и космос — наибольший плейлист обмана документация</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">То, что в подвале Ватикана, может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/293-Arrows_In_The_Sky.mp4">Стрелы в небе</a> -- Атмосферный удар теперь институционализируемый</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/351-Broken_Weather.mp4">Сломанная погода</a> -- Инженерная погода, авторизированная панелями</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/135-Food_Price_Shadow_Industry.mp4">Цена теневой промышленности</a> -- Контроль погоды как контроль пищи</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/305-Fire_From_The_Sky.mp4">Огонь с неба</a> -- Институциональная авторизация атмосферной войны</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">Трансгрессия</a> -- Институционализированная трансгрессия</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">Ложь обманщика</a> -- Официально одобренный обман</li>
+</ul>
+<h2 id="исследовать-далее">Исследовать далее</h2>
+<ul>
+<li><a href="/geoengineering-mitigation-experiment/?lang=ru">Во всем мире эксперимент геоинженерии смягчения намерение</a> -- Сопротивление геоинженерии</li>
+<li><a href="/militarized-weather-warfare/?lang=ru">Милитаризованная война погоды в действии: доказательство</a> -- Военная история позади панели</li>
+<li><a href="/rfk-poisoned-geoengineering/?lang=ru">RFK подтверждена отравленная через воздействие геоинженерии</a> -- Эффекты на здоровье человека атмосферного манипулирования</li>
+</ul>
+<hr>
+<p><em>Международная панель собралась. Эксперты говорили. Рамки авторизации строятся. И небо, которое Бог создал -- небеса, которые объявляют Его славу, твердь, которая показывает Его работу -- официально передается технократам, которые инженируют его согласно их собственному замыслу. Но небо не принадлежит панелям. Это не принадлежит правительствам. Это не принадлежит военным агентствам, которые опрыскивают его в течение десятилетий. Небо принадлежит Богу. И Бог, который протянул небеса как занавес и развел их, как палатку, чтобы обитать в, не смещен сульфатными аэрозолями, частицами алюминия нанотехнологии или международными рамками управления. Его погода будет возвращена. Его небо будет восстановлено. И Его суд на тех, кто осквернил ее, будет снизиться столь же уверенно, как металлы, которые они распыляли -- но с финальностью, что никакая панель не может управлять и никакое учреждение не может выжить.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/food-environment/","className":"category-badge","children":"food-environment"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"1-я Международная панель по геоинженерии раскрывает повестку"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Первая Международная панель по геоинженерии раскрывает глобальную повестку, чтобы нормализовать атмосферное манипулирование, управление солнечной радиацией и контроль над погодой."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-07T10:00:00Z","children":"7 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","geoengineering",{"href":"/ru/tag/geoengineering/","className":"tag-pill","children":["#","geoengineering"]}],["$","a","international-panel",{"href":"/ru/tag/international-panel/","className":"tag-pill","children":["#","international-panel"]}],["$","a","solar-radiation",{"href":"/ru/tag/solar-radiation/","className":"tag-pill","children":["#","solar-radiation"]}],["$","a","climate",{"href":"/ru/tag/climate/","className":"tag-pill","children":["#","climate"]}],["$","a","agenda",{"href":"/ru/tag/agenda/","className":"tag-pill","children":["#","agenda"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/international-panel-geoengineering/","title":"1-я Международная панель по геоинженерии раскрывает повестку"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/international-panel-geoengineering/","title":"1-я Международная панель по геоинженерии раскрывает повестку"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"1-я Международная панель по геоинженерии раскрывает повестку | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Первая Международная панель по геоинженерии раскрывает глобальную повестку, чтобы нормализовать атмосферное манипулирование, управление солнечной радиацией и контроль над погодой."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"geoengineering, international-panel, solar-radiation, climate, agenda"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/international-panel-geoengineering/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/international-panel-geoengineering/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/international-panel-geoengineering/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/international-panel-geoengineering/"}],["$","meta","10",{"property":"og:title","content":"1-я Международная панель по геоинженерии раскрывает повестку"}],["$","meta","11",{"property":"og:description","content":"Первая Международная панель по геоинженерии раскрывает глобальную повестку, чтобы нормализовать атмосферное манипулирование, управление солнечной радиацией и контроль над погодой."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/international-panel-geoengineering/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/international-panel-geoengineering.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"1-я Международная панель по геоинженерии раскрывает повестку"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"1-я Международная панель по геоинженерии раскрывает повестку"}],["$","meta","25",{"name":"twitter:description","content":"Первая Международная панель по геоинженерии раскрывает глобальную повестку, чтобы нормализовать атмосферное манипулирование, управление солнечной радиацией и контроль над погодой."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/international-panel-geoengineering.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

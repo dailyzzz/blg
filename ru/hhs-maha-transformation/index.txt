@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","hhs-maha-transformation",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","hhs-maha-transformation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","hhs-maha-transformation","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T616a,<h1 id="hhs-объявляет-maha-преобразование-здравоохранения">HHS объявляет MAHA преобразование здравоохранения</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Вот, Я делаю новое; вот оно выходит; не узнаёте ли вы это? Я даже пути пустыней дам, реки — в пустыне." — Исаия 43:19</p>
+</blockquote>
+<p>Когда Езекия взошел на трон Иудеи, он нашел нацию глубоко в отступничестве. Храм был закрыт, его алтари разграблены, его священники рассеяны. Его отец Ахаз поклонялся чужим богам, жертвовал его собственных детей и закрывал двери дома Господа. Первое действие Езекии было не военная реформа, не экономическая политика, не дипломатический обслуживание. Его первое действие было открыть двери Храма и восстановить их. Он понял, что национальное восстановление начинается с духовного и физического очищения — с удаления коррупции и восстановления то, что было предназначено быть священным.</p>
+<p>Как трек альбома Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">The Overcoming</a> провозглашает, преодоление не просто сопротивление злу — это построение чего-то праведного в его месте. Преобразование MAHA представляет попытку открыть двери Храма американского здравоохранения и восстановить то, что десятилетия фармацевтической коррупции разрушили.</p>
+<hr>
+<h2 id="видение-maha">Видение MAHA</h2>
+<p>Инициатива Make America Healthy Again (MAHA), объявленная секретарем HHS RFK Jr., представляет наиболее полное переструктурирование федеральной политики здравоохранения в современной истории. План охватывает:</p>
+<p><strong>Исключение фармацевтических конфликтов интереса</strong> по всем федеральным агентствам здравоохранения, включая CDC, FDA, NIH и BARDA. Это включает разрыв финансовых отношений между агентствами и фармацевтической отраслью, запрещение вращающейся дверной занятости и исключение финансирования отрасли CDC Foundation.</p>
+<p><strong>Реструктуризация продовольственной системы</strong> для решения корневых причин хронического заболевания, включая удаление токсичных добавок, пестицидов и ультра-обработанных компонентов из американского продовольственного снабжения. Инициатива нацелены на глифосат, искусственные пищевые краски, высокий фруктозный кукурузный сироп и другие вещества связанные с хроническим заболеванием.</p>
+<p><strong>Реформирование графика детской вакцинации</strong> посредством полного обзора безопасности, долгосрочные сравнительные исследования и восстановление информированного согласия как основание решений вакцинации.</p>
+<p><strong>Решение экологических токсинов</strong> включая фторид в питьевой воде, тяжелые металлы в пище, химикаты, нарушающие эндокринную систему в потребительских продуктах и электромагнитное излучение воздействие.</p>
+<p><strong>Восстановление отношения врач-пациента</strong> путем удаления правительства и корпоративных посредников от медицинского принятия решений и обеспечение, что решения лечения производятся врачами в консультации с их пациентами, а не нормативными агентствами в координации с фармацевтическими компаниями.</p>
+<p><strong>Расследование причин хронического заболевания</strong> включая аутизм, аутоиммунные расстройства, аллергии, ожирение, диабет, рак и неврологические состояния, которые увеличили драматически на протяжении последних четырех десятилетий — период, который соответствует расширению графика вакцинации, введением генетически модифицированных организмов в продовольственное снабжение и распространением экологических токсинов.</p>
+<p>Карен Кингстон написала в The Kingston Report: "Инициатива MAHA представляет первый раз в современной истории, что федеральный орган здравоохранения открыто подтвердил, что американская система здравоохранения не спроектирована для производства здоровья — она спроектирована для производства фармацевтического дохода. Полная область инициативы — решение пищи, воды, прививок, экологических токсинов и институциональной коррупции одновременно — отражает понимание, что это не отдельные проблемы, а взаимо-связанные компоненты единственной системы населения отравления."</p>
+<hr>
+<h2 id="пять-столпов-преобразования">Пять столпов преобразования</h2>
+<h3 id="столп-1-чистая-пища">Столп 1: чистая пища</h3>
+<p>Первый MAHA проекты цели американское продовольственное снабжение, которое было прогрессивно загрязнено с веществами, которые привод хроническое заболевание. Ключевые действия включают:</p>
+<ul>
+<li>Запретить или ограничить использование искусственных пищевых краски связанных с проблемами поведения в детях</li>
+<li>Усиление правил на глифосате и других остатках пестицида в пище</li>
+<li>Реформирование процессов одобрения пищевой добавки FDA, которые позволили тысячам химикатов в продовольственное снабжение в соответствии с "Обычно признанной как безопасная" (GRAS) обозначение — само-сертификационный процесс, в котором производители определяют безопасность их собственных добавок</li>
+<li>Обслуживание ультра-обработанного разнообразия пищи в программах обеда школы, службе пищи военного и программах помощи федеральному питанию</li>
+</ul>
+<h3 id="столп-2-чистая-вода">Столп 2: чистая вода</h3>
+<p>Инициатива решает загрязнители в американском водном снабжении, включая:</p>
+<ul>
+<li>Фторид — обновленное руководство CDC по дополнению фторида к питьевой воде (детально в статье компаньона)</li>
+<li>PFAS ("вечные химикаты") — на- и полифторированные alkyl вещества, найденные в муниципальных водных поставках по национальной</li>
+<li>Остатки фармацевтики — следы лекарств, гормонов и других фармацевтических соединений, которые обычное лечение воды не удаляет</li>
+<li>Тяжелые металлы — свинец, мышьяк и другие токсичные металлы, присутствующие в стареющей водной инфраструктуре</li>
+</ul>
+<h3 id="столп-3-чистая-медицина">Столп 3: чистая медицина</h3>
+<p>Компонент реформирования фармацевтики включает:</p>
+<ul>
+<li>Полный обзор безопасности графика детской вакцинации</li>
+<li>Исключение фармацевтического финансирования федеральных агентств здравоохранения</li>
+<li>Реформирование процесса одобрения лекарств, чтобы обеспечить подлинную независимость</li>
+<li>Восстановление ответственности для фармацевтических производителей</li>
+<li>Расследование безопасности технологии мРНК</li>
+</ul>
+<h3 id="столп-4-чистая-окружающая-среда">Столп 4: чистая окружающая среда</h3>
+<p>Реформы экологического здравоохранения решают:</p>
+<ul>
+<li>Электромагнитное излучение воздействие от инфраструктуры 5G, беспроводных устройств и систем питания</li>
+<li>Химикаты, нарушающие эндокринную систему в потребительских продуктах, упаковке и материалах здания</li>
+<li>Воздействие токсичного химиката в сельскохозяйственной, промышленной и жилой установке</li>
+<li>Качество воздуха помещения в школе, место работы и жилищные здания</li>
+</ul>
+<h3 id="столп-5-прозрачные-учреждения">Столп 5: прозрачные учреждения</h3>
+<p>Реформа учреждения включает:</p>
+<ul>
+<li>Исключение фармацевтического конфликта интереса в федеральных агентствах здравоохранения</li>
+<li>Полная прозрачность в данных клинического испытания, сообщении неблагоприятного события и нормативном принятии решений</li>
+<li>Реформирование членства консультативного комитета, чтобы исключить человека с финансовыми связями отрасли</li>
+<li>Завершение вращающейся дверь между федеральными агентствами и фармацевтической отраслью</li>
+</ul>
+<hr>
+<h2 id="сопротивление">Сопротивление</h2>
+<p>Инициатива MAHA сталкивается с сопротивлением от каждого узла фармацевтико-промышленного комплекса:</p>
+<p><strong>Фармацевтические компании</strong> противоположность очищают реформы медицины, которые угрожают их доходу, в частности реформы графика вакцинации детей и восстановление ответственности производителя.</p>
+<p><strong>Производители пищи</strong> противоположность очищают реформы пищи, которые ограничили бы использование прибыльных добавок и требовали переформулирования продуктов.</p>
+<p><strong>Химические компании</strong> противоположность очищают реформы окружающей среды, которые ограничили бы использование прибыльных химикатов в сельскохозяйстве, производстве и потребительских продуктах.</p>
+<p><strong>Медицинские ассоциации</strong> противоположность реформы учреждения, которые угрожают фармацевтическим потокам финансирования, на которых их конференции, журналы и образовательные программы зависят.</p>
+<p><strong>Средства массовой информации</strong> противоположность реформы прозрачности, которые угрожают доходу рекламирования, который они получают от фармацевтических и пищевых спонсоров отрасли.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/171-Great_Reset_Rising.mp4">Great Reset Rising</a> задокументирует как взаимосвязанная сеть корпоративного, государственного и институционального интереса сопротивляется какой-либо реформе, которая угрожает модели дохода, на которой полная система зависит.</p>
+<hr>
+<h2 id="пророческая-надежда">Пророческая надежда</h2>
+<blockquote>
+<p>"Если Мой народ, над которым наречено имя Мое, смирится, будет молиться и искать лица Моего и обратится от злых путей своих, то Я услышу с неба, прощу грехи их и исцелю землю их." — 2 Паралипоменон 7:14</p>
+</blockquote>
+<p>Обещание исцеления условно. Это требует смирения, молитвы, поиска лица Бога и поворота от злых путей. Инициатива MAHA решает физические измерения исцеления — чистая пища, чистая вода, чистая медицина, чистая окружающая среда. Но физическое исцеление без духовного преобразования неполное.</p>
+<p>Болезнь американской системы здравоохранения не просто институциональная — это духовная. Она отражает нацию, которая поклонялась у алтаря фармацевтической удобства, жертвовала здоровьем своих детей для институционального соответствия и торговала даром естественного иммунитета, спроектированного Богом для синтетических продуктов, спроектированных человеком.</p>
+<p>MAHA открывает двери храма. Ли нация входит зависит от того, ли это готова повернуться от путей, которые осквернили его.</p>
+<hr>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 отражается посредством каждого коридора правительства сегодня. Когда Израиль требовал царя подобно другим нациям, Бог предупредил их ровно то, что произойдет — их сыновья взяты на войну, их дочери для обслуживания, их поля и виноградники захвачены, десятина всего конфискована. Они выбрали человеческое правительство над управлением Бога, и тирания последовала ровно как обещано. Ничего не изменилось. Современная политическая система — два крыла того же самого птица — слева и справа, республиканцы и демократы — все служат скрытой силовой структуре. Голосование за одну сторону — это выбор того, какое крыло взмахнет дальше, пока птица летит в том же самом направлении. Подлинная власть никогда не была на любом избирательном бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>HHS.gov — объявления инициативы MAHA и документы политики</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — анализ Карен Кингстон структуры политики MAHA, требования реформирования учреждения и стратегии сопротивления отрасли фармацевтики</p>
+</li>
+<li>
+<p>FDA — процесс обозначения GRAS документация</p>
+</li>
+<li>
+<p>CDC — данные расписания детской вакцинации и программа VFC</p>
+</li>
+<li>
+<p>Исаия 43:19, 2 Паралипоменон 7:14 (KJV)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных царей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="найти-больше-информации">Найти больше информации</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/171-Great_Reset_Rising.mp4">Great Reset Rising</a> — взаимосвязанная сеть интереса, сопротивляющегося реформе</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/109-Biometric_Beast_System.mp4">Biometric Beast System</a> — система MAHA стремится разобрать</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> — запланированная инфраструктура, которая MAHA вызовы</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/127-The_Overcoming.mp4">The Overcoming</a> — построение праведности в месте коррупции</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — обещание сокрушить системы, которые отравляют человечество</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/rfk-cleans-house-cdc/?lang=ru">RFK Jr. Cleans House at the CDC</a> — компонент персонала преобразования MAHA</li>
+<li><a href="/cdc-stop-fluoride-drinking-water/?lang=ru">CDC to Stop Recommending Fluoride Addition to Drinking Water</a> — столп чистой воды в действии</li>
+<li><a href="/trump-bans-gain-of-function/?lang=ru">Trump Executive Order Bans Gain-of-Function Research</a> — столп чистой медицины в действии</li>
+<li><a href="/rfk-worldwide-cause-autism/?lang=ru">RFK Jr. Announces Worldwide Effort to Determine Cause of Autism</a> — расследование то, что старая система отказалась учиться</li>
+</ul>
+<hr>
+<p><em>Езекия открыла двери Храма и нашла их разбитыми, их алтари осквернены, их святыми сосудами рассеяны. Работа восстановления была огромная — она требовала очищения, восстановления, посвящения и удаления каждого чужого алтаря. Инициатива MAHA открывает двери Храма американского здравоохранения и находит этой же опустошение: агентства скоррумпированы, пища отравлена, вода загрязнена, медицина захвачена и учреждения служат фармацевтической прибыли вместо человеческого здоровья. Восстановление началось. Ли оно преуспевает зависит от того, ли нация обладает волей, чтобы завершить то, что Езекия начал — удалить каждый алтарь каждому чужому богу и перестроить то, что было предназначено быть домом исцеления. "И Господь был с Езекией, и куда бы он ни пошел, он преуспевал" (2 Царства 18:7). Может быть то же самое сказано поколения это.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"HHS объявляет MAHA преобразование здравоохранения"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"HHS раскрывает инициативу преобразования Make America Healthy Again, реструктурируя федеральные агентства здравоохранения, чтобы приоритизировать профилактику и исключить захват отрасли."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-18T10:00:00Z","children":"18 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","HHS",{"href":"/ru/tag/HHS/","className":"tag-pill","children":["#","HHS"]}],["$","a","MAHA",{"href":"/ru/tag/MAHA/","className":"tag-pill","children":["#","MAHA"]}],["$","a","healthcare-reform",{"href":"/ru/tag/healthcare-reform/","className":"tag-pill","children":["#","healthcare-reform"]}],["$","a","RFK-Jr",{"href":"/ru/tag/RFK-Jr/","className":"tag-pill","children":["#","RFK-Jr"]}],["$","a","health-freedom",{"href":"/ru/tag/health-freedom/","className":"tag-pill","children":["#","health-freedom"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/hhs-maha-transformation/","title":"HHS объявляет MAHA преобразование здравоохранения"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/hhs-maha-transformation/","title":"HHS объявляет MAHA преобразование здравоохранения"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"HHS объявляет MAHA преобразование здравоохранения | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"HHS раскрывает инициативу преобразования Make America Healthy Again, реструктурируя федеральные агентства здравоохранения, чтобы приоритизировать профилактику и исключить захват отрасли."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"HHS, MAHA, healthcare-reform, RFK-Jr, health-freedom"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/hhs-maha-transformation/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/hhs-maha-transformation/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/hhs-maha-transformation/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/hhs-maha-transformation/"}],["$","meta","10",{"property":"og:title","content":"HHS объявляет MAHA преобразование здравоохранения"}],["$","meta","11",{"property":"og:description","content":"HHS раскрывает инициативу преобразования Make America Healthy Again, реструктурируя федеральные агентства здравоохранения, чтобы приоритизировать профилактику и исключить захват отрасли."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/hhs-maha-transformation/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/hhs-maha-transformation.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"HHS объявляет MAHA преобразование здравоохранения"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"HHS объявляет MAHA преобразование здравоохранения"}],["$","meta","25",{"name":"twitter:description","content":"HHS раскрывает инициативу преобразования Make America Healthy Again, реструктурируя федеральные агентства здравоохранения, чтобы приоритизировать профилактику и исключить захват отрасли."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/hhs-maha-transformation.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

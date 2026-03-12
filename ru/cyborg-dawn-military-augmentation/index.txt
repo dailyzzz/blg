@@ -1,0 +1,169 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","cyborg-dawn-military-augmentation",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","cyborg-dawn-military-augmentation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cyborg-dawn-military-augmentation","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T6453,<h1 id="рассвет-киборга-военное-использование-технологии-человеческого-увеличения">Рассвет киборга: Военное использование технологии человеческого увеличения</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"В то время были на земле исполины, особенно же с того времени, как сыны Божии стали входить к дочерям человеческим, и они рождали им [детей]; это были сильные люди, издревле славные люди." -- Бытие 6:4</p>
+</blockquote>
+<p>Нефилимы были первыми увеличенными существами -- гибридными сущностями, чьи улучшенные способности делали их "сильными людьми" и "людьми славными". Их создание было продуктом несанкционированного смешивания человеческого с нечеловеческим, производящим существа, которые превышали естественные человеческие ограничения, но за стоимость их человечности. Программы военного увеличения, задокументированные в этой статье, преследуют идентичную цель: создание улучшенных существ, которые превышают естественные человеческие ограничения через интеграцию технологии в биологию.</p>
+<p>Видение Пентагона "киборга-солдата" не научная фантастика. Это задокументировано в официальных военных исследованиях, финансировано через оборонные бюджеты и развивается через конвейеры развития, которые приводят непосредственно к человеческому развёртыванию. Рассвет киборга находится на нас, и военные его архитектор.</p>
+<p>Как <a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> из альбома Confliction предупреждает, восстание, которое произвело Нефилимов, продолжается через технологические системы. И как <a href="https://confliction.zzzdaily.com/tracks/ru/81-The_Word_Made_Flesh.mp4">The Word Made Flesh</a> объявляет, Бог вошел в человеческую плоть в её естественной форме -- не увеличена, не улучшена, не слита с технологией -- объявляя немодифицированное человеческое тело священным.</p>
+<hr>
+<h2 id="отчёт-о-киборге-солдате-2050">Отчёт о киборге-солдате 2050</h2>
+<h3 id="официальное-военное-видение">Официальное военное видение</h3>
+<p>В 2019 году U.S. Department of Defense Biotechnologies for Health and Human Performance Council опубликовала "Cyborg Soldier 2050: Human/Machine Fusion and the Implications for the Future of the DOD." Этот отчёт явно описывает видение военных для человеческого увеличения:</p>
+<p><strong>Четыре ключевые технологии</strong></p>
+<p>Отчёт определяет четыре технологии увеличения, которые это рассматривает как достижимые к 2050 году:</p>
+<ol>
+<li>
+<p><strong>Улучшение зрительной способности</strong> -- Технология для улучшения человеческого зрения за пределы естественных способностей, включая ночное видение, увеличение и способность видеть по электромагнитным спектрам, невидимым для естественного глаза. Эта технология вовлекает либо внешние устройства, взаимодействующие с зрительной корой, либо внутренние имплантаты, которые модифицируют способность рецептора глаза.</p>
+</li>
+<li>
+<p><strong>Программное управление мускулами</strong> -- Технология, которая предоставляет прямой контроль над мышечной функцией через нейральные имплантаты или интерфейсы нанотехнологии. Это позволяет улучшенную силу, выносливость и точность физического движения, а также восстановление функции в раненых солдатах. Технология эффективно помещает мускулатуру солдата под программируемый контроль.</p>
+</li>
+<li>
+<p><strong>Улучшение слуха</strong> -- Технология для улучшения слуха за пределы естественных способностей, включая расширенный диапазон частот, направленный слух и способность фильтровать или усиливать определённые звуки в сложных акустических окружениях. Это может вовлекать модификации улитки или технологию нейрального интерфейса.</p>
+</li>
+<li>
+<p><strong>Прямое нейральное улучшение</strong> -- Наиболее важная технология: интерфейсы прямого мозга-компьютера, которые позволяют управление мыслью устройств, улучшенную когнитивную обработку и прямое общение между солдатами без устного языка. Эта технология соединяет мозг солдата с внешними вычислительными системами, создавая гибридный человек-машинный интеллект.</p>
+</li>
+</ol>
+<h3 id="трубопровод-военного-гражданского">Трубопровод военного-гражданского</h3>
+<p>Отчёт о киборге-солдате 2050 явно признаёт, что технологии военного увеличения передадут гражданским популяциям:</p>
+<blockquote>
+<p>"Эти технологии, вероятно, будут приняты гражданами в первую очередь из-за доступности коммерческих версий... Принятие этих технологий гражданами будет представлять новые возможности и риски, которые DOD будет нужно рассмотреть."</p>
+</blockquote>
+<p>Это признание разоблачает стратегию: технология военного увеличения разрабатывается с оборонными бюджетами, протестирована на солдатах, уточнена через военное развёртывание и затем передана гражданским популяциям. Механизм передачи варьирует:</p>
+<ul>
+<li>Прямое коммерческое маркетирование (носимые устройства, имплантаты, продаваемые как продукты здравоохранения)</li>
+<li>Фармацевтическое доставка (нанотехнология, вводимая под прикрытием вакцинации)</li>
+<li>Экологическое распределение (атмосферное, водное и пищевое загрязнение цепи)</li>
+<li>Мандатные институциональные требования (занятость, образование, финансовый доступ, обусловленный увеличением)</li>
+</ul>
+<p>Ана Миалча, MD, PhD, задокументировала на её Substack (anamihalceamdphd.substack.com), как нанотехнология, теперь найденная в гражданской крови, соответствует спецификациям, описанным в военных исследованиях увеличения. Самосборные структуры биодатчика, способности электромагнитного общения и потенциал интерфейса нейрала нанотехнологии в крови соответствуют дорожной карте технологии киборга-солдата 2050.</p>
+<h2 id="программы-увеличения-darpa">Программы увеличения DARPA</h2>
+<h3 id="трубопровод-исследования">Трубопровод исследования</h3>
+<p>DARPA поддерживает крупнейшее и наиболее продвинутое портфельно исследования человеческого увеличения в мире:</p>
+<p><strong>Электрические рецепты (ElectRx)</strong></p>
+<p>Программа ElectRx разрабатывает миниатюризированные устройства интерфейса нейрала, которые модулируют активность периферического нерва для лечения болезни и улучшения производительности. Эти устройства -- достаточно маленькие для инъекции -- взаимодействуют с блуждающим нервом и другими нейральными путями для:</p>
+<ul>
+<li>Регулирование воспаления</li>
+<li>Контроль восприятия боли</li>
+<li>Модулирование иммунной функции</li>
+<li>Влияние функции органа</li>
+</ul>
+<p>Инъекционная форма ElectRx означает, что она может быть развёрнута через стандартную медицинскую инъекцию -- неразличимо от вакцинации.</p>
+<p><strong>Система конструирования нейрального инженеров (NESD)</strong></p>
+<p>NESD разрабатывает высокое разрешение интерфейсы мозга-компьютера, которые переводят деятельность мозга в цифровые сигналы и цифровые сигналы в деятельность мозга. Программа цели для создания интерфейсов с миллион-канальным разрешением -- достаточно для чтения и письма индивидуальной деятельности нейрона в реальном времени.</p>
+<p><strong>Интерфейсы проприоцепции рук и прикосновения (HAPTIX)</strong></p>
+<p>HAPTIX разрабатывает технологию, которая предоставляет тактильную обратную связь через нейральные интерфейсы, позволяя пользователям "чувствовать" через протезные или роботические системы. Эта технология расширяет человеческий сенсорный конверт за пределы физического тела.</p>
+<p><strong>Восстановление активной памяти (RAM)</strong></p>
+<p>Программа RAM разрабатывает технологию для восстановления функции памяти в индивидах с травмой мозга -- и, расширением, для улучшения функции памяти за пределы естественных пределов. Технология вовлекает встроенные нейральные устройства, которые стимулируют память формирования и отзыва.</p>
+<h3 id="программы-суперсолдата-во-всём-мире">Программы суперсолдата во всём мире</h3>
+<p>Соединённые Штаты не одни в преследовании военного человеческого увеличения:</p>
+<ul>
+<li><strong>Китай</strong> инвестирует миллиарды в технологию интерфейса мозга-компьютера, редактирование генов для улучшения солдата и фармацевтические программы увеличения</li>
+<li><strong>Россия</strong> публично признала исследование в программы "генетического солдата", используя CRISPR и другие технологии редактирования генов</li>
+<li><strong>Комитет военной этики Франции</strong> одобрил исследование в увеличенных солдатов в 2020 году</li>
+<li><strong>Соединённое Королевство</strong> опубликовало отчёты о человеческом увеличении как приоритет защиты</li>
+</ul>
+<p>Глобальная гонка военного увеличения обеспечивает, что технология будет разработана, развёрнута и распространена независимо от этических возражений. Никакая нация не может позволить себе одностороннее воздержание, пока противники разрабатывают улучшенных солдатов.</p>
+<h2 id="связь-бытия-6">Связь Бытия 6</h2>
+<h3 id="сильные-люди-древних-времён">Сильные люди древних времён</h3>
+<p>Нефилимы Бытия 6 были "сильными людьми" -- существами, чьи улучшенные способности отделили их от естественных людей. Они были продуктом несанкционированного смешивания человеческого и нечеловеческого элементов.</p>
+<p>Киборг-солдат -- современный Нефилим -- существо, чьи улучшенные способности произведены слиянием человеческой биологии с нечеловеческой технологией. Смешивание различно (технологическое, скорее, чем генетико-ангельское), но образец идентичен:</p>
+<ul>
+<li>Естественные человеческие ограничения рассматриваются как недостаточные</li>
+<li>Внешний источник увеличения введен</li>
+<li>Улучшенное существо превышает человеческие способности</li>
+<li>Улучшенное существо служит повестке дня увеличителя, не Творца</li>
+</ul>
+<p>Военное заявленное цель -- создание солдат, которые сильнее, быстрее, умнее и более устойчивы, чем естественные люди. Это проект Нефилимов в современной форме: создание "сильных людей" через несанкционированное смешивание.</p>
+<h3 id="технология-упавших-ангелов">Технология упавших ангелов</h3>
+<p>Книга Еноха (ссылается в Иуде 14-15 и 2 Петра 2:4) описывает Наблюдателей -- упавших ангелов, которые спустились на земле и преподали человечеству запрещённое знание. Среди их учений были:</p>
+<ul>
+<li>Металлургия и производство оружия (Azazel)</li>
+<li>Чары и фармакология (Semjaza)</li>
+<li>Астрология и небесное знание (Baraqijal)</li>
+<li>Знаки и портенты (Kokabel)</li>
+</ul>
+<p>Эти запрещённые технологии коррумпировали человечество и привели к суду наводнением. Современный параллель неоспорим: нанотехнология, биотехнология и технология интерфейса нейрала являются запрещённым знанием нашего века -- преподано не спускающимися ангелами, но финансируемыми DARPA исследователями, которые служат той же духовной повестке дня.</p>
+<p>Купол firmament содержит упавших ангелов, которые преподали запрещённое знание, и людей, которые его получили. Под этим куполом, та же драма повторяется: запрещённое знание предложено, человечество принимает, коррупция следует и суд приходит. Рассвет киборга -- не прогресс. Это повторение -- коррупция Бытия 6 в лабораторном пальто.</p>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушай голос народа во всём, что он говорит тебе; потому что не тебя они отвергли, но отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 эхо звучит через коридоры каждого правительства сегодня. Когда Израиль требовал короля, как другие нации, Бог предупредил их точно, что произойдёт — их сыны взяты для войны, их дочери для служения, их поля и виноградники захвачены, десятая часть всего конфискована. Они выбрали человеческое правление над царством Бога и тирания последовала точно, как обещано. Ничего не изменилось. Современная политическая система — два крыла одной птицы — левое и правое, республиканское и демократическое — всё служение той же скрытой структуре власти. Голосование за оба стороны выбирает, какое крыло хлопает дальше, пока птица летит в том же направлении. Подлинная власть никогда не была на любом бюллетене.</p>
+<h2 id="ссылки-источника">Ссылки источника</h2>
+<ul>
+<li>
+<p>U.S. DOD Biotechnologies for Health and Human Performance Council, "Cyborg Soldier 2050," 2019</p>
+</li>
+<li>
+<p>DARPA ElectRx, NESD, HAPTIX, and RAM program documentation</p>
+</li>
+<li>
+<p>French Armed Forces Ethics Committee, opinion on augmented soldiers, 2020</p>
+</li>
+<li>
+<p>Ana Mihalcea, MD, PhD, anamihalceamdphd.substack.com, military nanotechnology analysis</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — The Warning Against Earthly Kings (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily изучают темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/447-Modded_Humans.mp4">Modded Humans</a> -- Модифицированный человек как военный актив</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/339-The_New_Man.mp4">The New Man</a> -- Разработанный суперсолдат</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> -- Исследование DARPA, движущее повестку дня увеличения</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/489-Nephilim_Nanobots.mp4">Nephilim Nanobots</a> -- Образец Бытия 6, повторённый с нанотехнологией</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/73-The_Fallen_Angels.mp4">The Fallen Angels</a> -- Восстание, которое движет увеличением</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/81-The_Word_Made_Flesh.mp4">The Word Made Flesh</a> -- Объявление Бога, что немодифицированная плоть священна</li>
+</ul>
+<h2 id="изучайте-дальше">Изучайте дальше</h2>
+<ul>
+<li><a href="/declassified-cia-document-2004/?lang=ru">Declassified CIA Document From 2004 Reveals Transhumanist Agenda</a> -- Планы агентства разведки для увеличения</li>
+<li><a href="/europeans-augmentation-mandatory/?lang=ru">Europeans Beware: Human Augmentation Becoming Mandatory</a> -- Гражданское развёртывание военной технологии</li>
+<li><a href="/human-augmentation-self-spreading/?lang=ru">Human Augmentation Through Self-Spreading Nanotechnology</a> -- Самораспространяющееся измерение увеличения</li>
+</ul>
+<hr>
+<p><em>Рассвет киборга является сумерками человека. Каждое увеличение добавляет способность, но вычитает человечность. Каждое улучшение служит увеличителю больше, чем увеличивает. Каждый шаг в сторону суперсолдата -- это шаг прочь из образа Бога. Нефилимы были сильными людьми славы -- и Бог уничтожил их наводнением. Киборг-солдаты, построенные в лабораториях DARPA, будут сильны также -- улучшены за пределы естественных пределов, контролируемы через нейральные интерфейсы, развёрнуты как оружие. Но Бог, который судил первое увеличение, судит последний. Рассвет киборга закончится, как проект Нефилимов закончился: под весом божественного суда, который никакое увеличение не может выдержать.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Рассвет киборга: Военное использование технологии человеческого увеличения"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Как военные программы разрабатывают и развертывают технологию человеческого увеличения, которая преобразует солдат в киборгов и гражданских в контролируемых субъектов."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-25T10:00:00Z","children":"25 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","cyborg",{"href":"/ru/tag/cyborg/","className":"tag-pill","children":["#","cyborg"]}],["$","a","military",{"href":"/ru/tag/military/","className":"tag-pill","children":["#","military"]}],["$","a","human-augmentation",{"href":"/ru/tag/human-augmentation/","className":"tag-pill","children":["#","human-augmentation"]}],["$","a","darpa",{"href":"/ru/tag/darpa/","className":"tag-pill","children":["#","darpa"]}],["$","a","transhumanism",{"href":"/ru/tag/transhumanism/","className":"tag-pill","children":["#","transhumanism"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/cyborg-dawn-military-augmentation/","title":"Рассвет киборга: Военное использование технологии человеческого увеличения"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/cyborg-dawn-military-augmentation/","title":"Рассвет киборга: Военное использование технологии человеческого увеличения"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Рассвет киборга: Военное использование технологии человеческого увеличения | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Как военные программы разрабатывают и развертывают технологию человеческого увеличения, которая преобразует солдат в киборгов и гражданских в контролируемых субъектов."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"cyborg, military, human-augmentation, darpa, transhumanism"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/cyborg-dawn-military-augmentation/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/cyborg-dawn-military-augmentation/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/cyborg-dawn-military-augmentation/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/cyborg-dawn-military-augmentation/"}],["$","meta","10",{"property":"og:title","content":"Рассвет киборга: Военное использование технологии человеческого увеличения"}],["$","meta","11",{"property":"og:description","content":"Как военные программы разрабатывают и развертывают технологию человеческого увеличения, которая преобразует солдат в киборгов и гражданских в контролируемых субъектов."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/cyborg-dawn-military-augmentation/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/cyborg-dawn-military-augmentation.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Рассвет киборга: Военное использование технологии человеческого увеличения"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Рассвет киборга: Военное использование технологии человеческого увеличения"}],["$","meta","25",{"name":"twitter:description","content":"Как военные программы разрабатывают и развертывают технологию человеческого увеличения, которая преобразует солдат в киборгов и гражданских в контролируемых субъектов."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/cyborg-dawn-military-augmentation.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

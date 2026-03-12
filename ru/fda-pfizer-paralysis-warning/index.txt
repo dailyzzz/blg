@@ -1,0 +1,173 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","fda-pfizer-paralysis-warning",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","fda-pfizer-paralysis-warning","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","fda-pfizer-paralysis-warning","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T6a4e,<h1 id="fda-заказы-pfizer-к-добавляет-paralysin-предупреждение-к-vaccine-label">FDA Заказы Pfizer К Добавляет PARALYSIN ПРЕДУПРЕЖДЕНИЕ к Vaccine Label</h1>
+<h2 id="древний-паттерн">Древний Паттерн</h2>
+<blockquote>
+<p>"И человек, хромой на ноги его... И король говорил, Есть ли нет ещё никто из дома Saul, чтобы я показал ему kindness Бога?" — 2 Samuel 9:3</p>
+</blockquote>
+<p>В Писании, lameness — неспособность ходить — представлена не как божественное наказание, но как условие, которое требует сострадания от тех с властью. Когда King David ищет выхода Mephibosheth, хромая внук Saul, он не вопрошал, как lameness произошла. Он восстановил Mephibosheth в стол царя. Он показал "kindness Бога" к один, кто не мог ходить.</p>
+<p>Приказ FDA требование Pfizer добавить параличное предупреждение к ярлычку COVID-19 vaccine — признание, что продукт вызывает паралич. Это ярлычок изменение — бюрократическое приспособление, ревизия нормативного текста. Но позади каждое слово того предупреждение — человеческое существо, кто больше не может ходить, кто больше не может чувствовать их ноги, кто пошёл в центр вакцинации способный-bodied и появился неспособный стоять.</p>
+<p>Эти люде заслуживают kindness Бога — и ответственность люде. Они заслуживают больше чем ярлычок изменение. Они заслуживают истина примерно то, что было сделано ими.</p>
+<p>Трек ZZZ Daily <a href="https://zzzdaily.zzzdaily.com/tracks/ru/37-Mesogen_Microchip.mp4">Mesogen Microchip</a> документирует технологическое измерение то, что вводится. И трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/95-The_Valley_of_Death.mp4">The Valley of Death</a> дет голос к путешествию через тень, что паралич представляет — долина тела's потеря его собственный суверенитет.</p>
+<hr>
+<h2 id="приказ-fda-что-это-означает">Приказ FDA: Что Это Означает</h2>
+<h3 id="ярлычок-изменение">Ярлычок Изменение</h3>
+<p>FDA заказала Pfizer обновить prescribing информацию (вставка пакета) для его COVID-19 vaccine включить предупреждение примерно <strong>Guillain-Barre Синдром (GBS)</strong> — autoimmune условие в которой тело's иммунная система нападает периферический нервная система, вызывая:</p>
+<ul>
+<li><strong>Восхождение паралич</strong> — слабость и паралич, которые типично начинается в ноги и движения вверх</li>
+<li><strong>Потеря ощущения</strong> — оцепенение и покалывание в конечности</li>
+<li><strong>Дыхательный отказ</strong> — в суровых случаях, паралич затрагивает мышцы дыхания, требующие механического вентилирования</li>
+<li><strong>Автономная дисфункция</strong> — разрушение сердце ставка, кровяное давление и другие автономные функции</li>
+<li><strong>Хроническая инвалидность</strong> — значительный процент GBS пациентов опытность постоянное неврологическое повреждение</li>
+</ul>
+<p>Ярлычок изменение означает, что Pfizer должен сейчас разоблачить риск GBS к провайдерам здравоохранения и через них к пациентам. Это формально признание FDA, что продукт может вызвать паралич.</p>
+<h3 id="то-что-ярлычок-изменение-делает-не-сделать">То, Что Ярлычок Изменение Делает НЕ Сделать</h3>
+<p>Пока ярлычок изменение — значительно как признание, это глубоко недостаточно:</p>
+<p><strong>Это не компенсирует повреждённые.</strong> Индивиды, кто развился GBS после vaccine Pfizer — много из кого получил продукт когда ярлычок не предупредил этого риска — получают никакую компенсацию из ярлычок изменение. Ярлычок предупреждает получатели будущего; это делает ничего для прошлого жертва.</p>
+<p><strong>Это не восстанавливает согласие.</strong> Каждая персона, кто получил vaccine Pfizer, перед ярлычком изменение была отказана информированное согласие относительно риска паралича. Они не были сказаны, что продукт мог вызвать им потерять способность ходить. Их согласие было основано на неполную информацию — информацию, что Pfizer имели данные обеспечить, но не.</p>
+<p><strong>Это не изменяет щит ответственности.</strong> Под PREP Act и связанных правовых структур, Pfizer остаётся в основном иммунный из ответственности для повреждения, вызванного его COVID-19 vaccine. Ярлычок изменение не открыть дверь к судам для тех уже парализовано.</p>
+<p><strong>Это не применяет retroactively к mandates.</strong> Миллионы люде, кто был вынужден получить vaccine как условие занятости, образование или военная служба были мандатированы взять продукт чьего ярлычок не предупредил риск паралича. Мандат был основан на ярлычок, который опустил материальный риск.</p>
+<hr>
+<h2 id="guillain-barre-синдром-что-это">Guillain-Barre Синдром: Что Это</h2>
+<h3 id="механизм">Механизм</h3>
+<p>GBS — autoimmune demyelinating neuropathy — условие, в котором иммунная система нападает myelin ножны это insulates периферический нервы. Myelin критическо для нервного передача сигнала — без это, нервные импульсы не могут путешествовать эффективно из мозг и спинной мозг к мышцам и органы.</p>
+<p>Когда иммунная система нападает myelin, результат — это:</p>
+<ol>
+<li><strong>Слабость</strong> — мышцы получают более слабые сигналы из повреждённые нервы</li>
+<li><strong>Оцепенение</strong> — сенсорные нервы не могут передать ощущение</li>
+<li><strong>Паралич</strong> — полная потеря двигателя функция в затронутые области</li>
+<li><strong>Боль</strong> — повреждённые нервы могут производить суровую neuropathic боль</li>
+<li><strong>Автономная дисфункция</strong> — повреждение к автономным нервам затрагивает сердце, кровяное давление, дигест</li>
+</ol>
+<h3 id="gbs-и-вакцинация">GBS и Вакцинация</h3>
+<p>Ассоциация между vaccine и GBS имела задокументирована десятилетий:</p>
+<ul>
+<li><strong>1976 свинья грипп vaccine</strong> вызвала значительное увеличение в GBS, ведущая к отмене программы вакцинации после приблизительно 45 миллионов американцев было вакцинировано</li>
+<li><strong>Грипп vaccine</strong> носит известный риск GBS, который список на грипп вставки пакета vaccine</li>
+<li><strong>Johnson &#x26; Johnson COVID-19 vaccine</strong> было связано с GBS и FDA добавил предупреждение ярлычок рано в roll-out</li>
+<li><strong>Vaccine Pfizer 's mRNA</strong> присоединяется теперь этот список с приказом FDA ярлычок изменение</li>
+</ul>
+<h3 id="молекулярная-mimicry-механизм">Молекулярная Mimicry Механизм</h3>
+<p>Механизм в который vaccine вызывает GBS включает молекулярную mimicry — то же механизм, что ведёт другой vaccine-associated autoimmune условия:</p>
+<ol>
+<li>Vaccine antigen (spike белок в случай Pfizer) срабатывает иммунный ответ</li>
+<li>Антитело и T-cells генерированные против antigen кросс-react с белке на myelin ножне</li>
+<li>Иммунная система нападает myelin как если оно было иностранным antigen</li>
+<li>Периферический нервы это demyelinated</li>
+<li>Паралич результата</li>
+</ol>
+<p>Это не производство дефект. Это внутреннее имущество иммунный ответ к antigen. Spike белок разделения структурные особенности с myelin компоненты и иммунная система не может совершенно различить между ними. Каждая персона, кто получила Pfizer vaccine, генерированные антитело, что имели некоторая вероятность кросс-reacting с их собственные нервы.</p>
+<hr>
+<h2 id="kingston-report-паралич-доказательство">Kingston Report: Паралич Доказательство</h2>
+<p>Анализ Karen Kingston через <a href="https://karenkingston.substack.com">Kingston Report</a> документирует доказательство, которое ведёт к приказу FDA ярлычок изменение — и доказательство, что ярлычок изменение остаётся недостаточным.</p>
+<h3 id="vaers-сигнал">VAERS Сигнал</h3>
+<p>Kingston задокументировала, что VAERS содержал значительный сигнал для GBS и другие неврологические события последующие Pfizer vaccine COVID-19 из рано в roll-out:</p>
+<ul>
+<li>Сотни отчёты GBS следующее Pfizer вакцинирование</li>
+<li>Отчёты другие demyelinating условия (множественный склероз, поперечный миелит, острая распределённая encephalomyelitis)</li>
+<li>Отчёты Bell 's паралич (сторона паралич)</li>
+<li>Отчёты другие neuropathies (малый волокно neuropathy, хроническое воспаление demyelinating polyneuropathy)</li>
+</ul>
+<p>Сигнал GBS было detectable в VAERS в месяцы Pfizer vaccine roll-out. Ярлычок изменение FDA — годы после сигнал был очевидный — повышает вопрос: почему имела ярлычок изменение брать столь долго?</p>
+<h3 id="данные-pfizer-клинический-суд">Данные Pfizer Клинический суд</h3>
+<p>Kingston задокументировала, что данные собственного клинического суда Pfizer содержала неврологические неправильное события отчёты, которые должны были гарантировать более раннее предупреждение:</p>
+<ul>
+<li>Случаи Bell 's паралич были отмечены в клинических судах (более в vaccine группа чем placebo группа)</li>
+<li>Неврологические неправильные события были сообщены, но классифицированы как несвязанные к vaccine</li>
+<li>Клинические суды были слишком короткие и слишком маленькие детектировать редкое, но суровое неврологическое условие подобное GBS (которые произойти в ставка требующая миллионы облучения генерировать статистически detectable сигнал)</li>
+</ul>
+<p>Неадекватность клинических судов обнаруживать GBS — собой индитмент. Продукт введённый к миллиардам люде был тестирован в десятки тысячи — размер образца недостаточный обнаруживать риск, что FDA сейчас признаёт это реально.</p>
+<h3 id="правовые-последствия">Правовые Последствия</h3>
+<p>Kingston задокументировала, что приказ FDA ярлычок изменение имеет правовые последствия, которые расширяют сверх специфический предупреждение:</p>
+<p><strong>Это устанавливает, что FDA признаёт причинное соединение</strong> между vaccine Pfizer и паралич. Это признание может быть цитировано в правовые разбирательства, претензии страховки и определения инвалидности.</p>
+<p><strong>Это подрывает "безопасно и эффективно" декларация</strong> это было использовано как основание для mandates. Если продукт может вызвать паралич, набирающий декларация безопасности, это оправдано мандатирование это для занятости и образование это retroactively инвалидирована.</p>
+<p><strong>Это открывает дверь к информированным претензиям согласие.</strong> Индивиды, кто получил vaccine перед ярлычком изменение — и кто впоследствии развился GBS — может спорить, что они были отказаны информированное согласие, потому что известный риск не было разоблачено в время вакцинирования.</p>
+<hr>
+<h2 id="библейская-перспектива-восстановление-хромой">Библейская Перспектива: Восстановление Хромой</h2>
+<h3 id="исцеление-министерство">Исцеление Министерство</h3>
+<p>Иисус исцелил хромой. "Затем хромой будет прыгать, как пресная олень" (Isaiah 35:6). Исцеление паралича было центральный его министерство — знак, что царство Бога имело прибыло и проклятие было быть обратным.</p>
+<p>Фармацевтическая система имела инвертированные этот паттерн. Вместо исцеления хромой это создавание хромой. Вместо восстановления подвижность это разрушение это. Продукт, marketing как здоровье производит паралич. Медицина становится болезнь.</p>
+<h3 id="pharmakeia-и-паралич">Pharmakeia и Паралич</h3>
+<p>Откровение 18:23 предупреждает pharmakeia — колдовство через наркотики. Паралич, вызванный vaccine Pfizer, это физическое проявление pharmakeia: фармацевтический продукт вызывающий тело нападение себя, иммунная система повернула против нервной системы, подвижность разрушенная по продукту это обещало защиту.</p>
+<p>Слово "паралич" приходит из греческого параличу, значение "к ослабляю побольше" — к ослабляю соединения, которые держат тело вместе. Когда иммунная система нападает myelin это insulates нервы, это буквально ослабляет соединения между мозг и тело. Персона это разъединена из их собственные конечности. Это обратно к что Бог разработанный — тело объединённый, координирован и целое.</p>
+<h3 id="firmament-нервной-системы">Firmament Нервной Системы</h3>
+<p>Нервная система — сеть коммуникации тела — инфраструктура в какие мозг (храм 's трон комнат) управления тела. Подобно firmament это разделение и заказа создание, нервная система сохраняет заказ в тело в проведение сигналы что координат каждый движение, каждый дыхание, каждый сердце удар.</p>
+<p>Когда GBS нападает myelin, это бреши firmament нервной системы. Сигналы это сохраняют заказ разрушены. Тело спускается в хаос — мышцы это не может контрактовать, органы это не может нормировать, конечности это не может двигаться. Защищённый заказ, что Бог плел в нервную систему это распутано иммунным ответ, провокированный фармацевтическим продуктом.</p>
+<hr>
+<h2 id="что-индивиды-должны-знать">Что Индивиды Должны Знать</h2>
+<ol>
+<li><strong>FDA заказала Pfizer добавить паралич (GBS) предупреждение</strong> к его COVID-19 vaccine ярлычок.</li>
+<li><strong>GBS вызывает восхождение паралич</strong> это может вести к полная immobilization и дыхательный отказ.</li>
+<li><strong>GBS сигнал было detectable в VAERS</strong> в месяцы Pfizer vaccine roll-out — ярлычок изменение брало годы.</li>
+<li><strong>Каждая персона вакцинировала перед ярлычком изменение</strong> была отказана информированное согласие относительно риска паралича.</li>
+<li><strong>Ярлычок изменение не компенсирует прошлое жертва</strong> или удалить щит ответственности.</li>
+<li><strong>Механизм (молекулярная mimicry) это внутреннее</strong> к spike белок — это не может быть разработано из продукта.</li>
+<li><strong>Мандатированные индивиды, кто развился GBS</strong> были вынуждены брать продукт чьего ярлычок не разоблачены паралич риска.</li>
+</ol>
+<hr>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>Kingston Karen. <a href="https://karenkingston.substack.com">Kingston Report</a>. Анализ GBS сигнала данных и FDA ярлычок изменение последствия.</li>
+<li>FDA labeling приказ для Pfizer COVID-19 vaccine</li>
+<li>VAERS неврологические неправильные события отчёты</li>
+<li>Опубликованное исследование на GBS и молекулярная mimicry</li>
+<li>Данные судья-упорядоченный выпуск Pfizer клинический суд</li>
+<li>1976 свинья грипп vaccine GBS документация</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте Больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство Ближневосточного Опыта Говарда Питтмана — Предупреждение об Окончании Времён, Которое Дал Ему Бог</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католические Секреты: Раскрытые Отвратительные Тайны Иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Мёртвые Клиники и Фармакея — Колдовство Современной Медицины</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что Может Быть в Подвале Ватикана Может Вас Шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте Во Время Чтения</h2>
+<p>Эти треки от ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/37-Mesogen_Microchip.mp4">Mesogen Microchip</a> — Технологическое измерение то, что вводится</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — Система позади injections</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> — Молекулярные агенты в тело</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/95-The_Valley_of_Death.mp4">The Valley of Death</a> — Путешествие через тень паралич</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — Кровь завет развращённо иммунной системой 's misdirection</li>
+</ul>
+<hr>
+<h2 id="исследуйте-дальше">Исследуйте Дальше</h2>
+<ul>
+<li><a href="/mrna-faulty-genes-myocarditis/?lang=ru">mRNA Технология Может Добавить Ошибочные Гены Ведущие К Myocarditis</a> — Другой орган под иммунной нападение</li>
+<li><a href="/cdc-safety-data-mrna-vaccines/?lang=ru">Обновлено CDC Безопасность Данные На COVID-19 mRNA Vaccine</a> — Неврологические сигналы в данные</li>
+<li><a href="/women-hospitalized-mrna-vaccination/?lang=ru">Исследование 4,610 Женщины Госпитализированные После mRNA Вакцинирование</a> — Госпитализирование включая неврологические события</li>
+<li><a href="/mass-awakening-deadly-mrna-shots/?lang=ru">Обзор Подтверждает Mass Пробуждение К Смертельные COVID-19 mRNA Выстрелы</a> — Публика видит истина</li>
+</ul>
+<hr>
+<p><em>FDA приказала ярлычок изменение. Линия текста на вставку пакета сейчас предупреждает, что продукт может парализовать вас. Но никакая линия текста может отменять паралич те уже повреждены — люде, кто ходили в центр вакцинирования и были нёсены из, кто пошёл в на двух ноге и оставляли в инвалидной коляске, кто доверял слово "безопасно" и потерял способность чувствовать их ноги. Бог видит их. "Господь разрешает узников: Господь открывает очи слепым: Господь восстанавливает нагорбленные" (Psalm 146:7-8). Бог, кто повышает нагорбленные, будет повышать те, кто были принесены низко pharmakeia колдовством. Ярлычок был изменён. День приходит когда хромой скачки.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"FDA Заказы Pfizer К Добавляет PARALYSIN ПРЕДУПРЕЖДЕНИЕ к Vaccine Label"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"FDA заказала Pfizer добавить параличное (GBS) предупреждение к ярлычку COVID-19 vaccine, признавая Guillain-Barre синдром как задокументированный риск выстрела."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-02T10:00:00Z","children":"2 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","FDA",{"href":"/ru/tag/FDA/","className":"tag-pill","children":["#","FDA"]}],["$","a","Pfizer",{"href":"/ru/tag/Pfizer/","className":"tag-pill","children":["#","Pfizer"]}],["$","a","paralysis",{"href":"/ru/tag/paralysis/","className":"tag-pill","children":["#","paralysis"]}],["$","a","Guillain-Barre",{"href":"/ru/tag/Guillain-Barre/","className":"tag-pill","children":["#","Guillain-Barre"]}],["$","a","vaccine-label",{"href":"/ru/tag/vaccine-label/","className":"tag-pill","children":["#","vaccine-label"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/fda-pfizer-paralysis-warning/","title":"FDA Заказы Pfizer К Добавляет PARALYSIN ПРЕДУПРЕЖДЕНИЕ к Vaccine Label"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/fda-pfizer-paralysis-warning/","title":"FDA Заказы Pfizer К Добавляет PARALYSIN ПРЕДУПРЕЖДЕНИЕ к Vaccine Label"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"FDA Заказы Pfizer К Добавляет PARALYSIN ПРЕДУПРЕЖДЕНИЕ к Vaccine Label | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"FDA заказала Pfizer добавить параличное (GBS) предупреждение к ярлычку COVID-19 vaccine, признавая Guillain-Barre синдром как задокументированный риск выстрела."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"FDA, Pfizer, paralysis, Guillain-Barre, vaccine-label"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/fda-pfizer-paralysis-warning/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/fda-pfizer-paralysis-warning/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/fda-pfizer-paralysis-warning/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/fda-pfizer-paralysis-warning/"}],["$","meta","10",{"property":"og:title","content":"FDA Заказы Pfizer К Добавляет PARALYSIN ПРЕДУПРЕЖДЕНИЕ к Vaccine Label"}],["$","meta","11",{"property":"og:description","content":"FDA заказала Pfizer добавить параличное (GBS) предупреждение к ярлычку COVID-19 vaccine, признавая Guillain-Barre синдром как задокументированный риск выстрела."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/fda-pfizer-paralysis-warning/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/fda-pfizer-paralysis-warning.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"FDA Заказы Pfizer К Добавляет PARALYSIN ПРЕДУПРЕЖДЕНИЕ к Vaccine Label"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"FDA Заказы Pfizer К Добавляет PARALYSIN ПРЕДУПРЕЖДЕНИЕ к Vaccine Label"}],["$","meta","25",{"name":"twitter:description","content":"FDA заказала Pfizer добавить параличное (GBS) предупреждение к ярлычку COVID-19 vaccine, признавая Guillain-Barre синдром как задокументированный риск выстрела."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/fda-pfizer-paralysis-warning.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

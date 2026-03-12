@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","mass-awakening-deadly-mrna-shots",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","mass-awakening-deadly-mrna-shots","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mass-awakening-deadly-mrna-shots","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5f48,<h1 id="опрос-подтверждает-массовое-пробуждение-к-смертельным-выстрелам-мрнк-covid-19">Опрос подтверждает массовое пробуждение к смертельным выстрелам мРНК COVID-19</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"И открылись глаза у них обоих." — Бытие 3:7</p>
+</blockquote>
+<p>Открытие глаз — один из самых мощных мотивов в Священном Писании. В Бытие, глаза Адама и Евы открылись на знание добра и зла — пробуждение, которое несло последствия, которых они не ожидали. В 4 Царств 6:17, Елисей молился, "Господи, открой ему глаза, чтобы он видел", и глаза молодого слуги открылись, чтобы видеть гору, полную коней и колесниц огня — невидимая армия Бога, которая была там всё вдоль.</p>
+<p>Массовое пробуждение находится в процессе. Глаза, которые были закрыты страхом, соответствием, институциональным доверием и социальным давлением, открываются. Данные опроса теперь подтверждают то, что те с открытыми глазами наблюдали в течение лет: общественность пробуждается к реальности, что выстрелы мРНК COVID-19 не безопасны, что они вызвали смерть и серьёзное ранение в массовом масштабе, и что учреждения, которые их продвигали, предали общественное доверие.</p>
+<p>Трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> говорит о моменте, когда тьма разрушается и истина становится видимой. И трек ZZZ Daily <a href="https://zzzdaily.zzzdaily.com/tracks/ru/41-Shedding_Proof.mp4">Shedding Proof</a> представляет доказательство, которое больше не может быть отрицаемо.</p>
+<hr>
+<h2 id="данные-опроса">Данные опроса</h2>
+<h3 id="что-показывают-числа">Что показывают числа</h3>
+<p>Последние данные опроса раскрывают драматический сдвиг в восприятии общественностью выстрелов мРНК COVID-19:</p>
+<p><strong>Вера, что вакцины вызвали смерти</strong>: Значительный и растущий процент общественности верит, что выстрелы COVID-19 вызвали значительное число смертей. Это представляет землетрясение-смену от 2021, когда огромное большинство общественности приняло нарратив "безопасно и эффективно" без вопроса.</p>
+<p><strong>Личное знание травмы</strong>: Вещественный процент респондентов сообщают о личном знании кого-то, кого они верят был ранен или убит выстрелом COVID-19. Это больше не абстрактный статистический дебат — это личное. Когда люди видят неблагоприятные события в своих собственных семьях, рабочих местах и сообществах, институциональные отрицания становятся неубедительными.</p>
+<p><strong>Сожаление среди вакцинированных</strong>: Значимый процент вакцинированных людей теперь сообщают сожаление о своём решении получить вакцину. Это сожаление самое сильное среди тех, кто получил ускорители и среди тех, кто испытал неблагоприятные события или видел их у людей, которых они знают.</p>
+<p><strong>Снижение доверия к государственным учреждениям здоровья</strong>: Доверие к CDC, FDA и NIH упало на исторически низкие уровни. Снижение не ограничено одной политической фракцией — оно пересекает демографические, политические и социоэкономические линии. Институциональный кредит, потраченный на продвижение выстрелов COVID-19, не был пополнен.</p>
+<p><strong>Возросший отказ вакцины по всем категориям</strong>: Скептицизм, генерируемый выстрелами COVID-19, расширяется на все вакцины — включая детские иммунизации. Родители, которые приняли расписание детской вакцины без вопроса до 2020, теперь сомневаются в каждой инъекции. Безрассудное развёртывание фармацевтической промышленностью технологии мРНК подорвало доверие к целому предприятию вакцины.</p>
+<h3 id="демографические-паттерны">Демографические паттерны</h3>
+<p>Пробуждение не единообразно по демографическим данным, но оно широко:</p>
+<ul>
+<li><strong>Молодые взрослые (18-34)</strong>: Высокие уровни скептицизма, обусловленные личным опытом с неблагоприятными событиями (в частности миокардит у молодых мужчин) и обмен информацией в социальных средах</li>
+<li><strong>Родители</strong>: Среди быстро меняющихся демографических данных, обусловленные инстинктом защиты и личным наблюдением неблагоприятных событий у детей</li>
+<li><strong>Работники здравоохранения</strong>: Парадоксально, передовые работники здравоохранения показывают некоторые из самых высоких уровней скептицизма — они видели неблагоприятные события лицом к лицу и многие были ранены сами обязательными инъекциями</li>
+<li><strong>Афроамериканские сообщества</strong>: Высокий и растущий скептицизм, укоренённый в исторической медицинской пагубе (Tuskegee, и т.д.) и усиленный опытом COVID-эры</li>
+<li><strong>Сельские сообщества</strong>: Высокий базовый скептицизм, усиленный COVID мандатами и институциональным переступлением</li>
+</ul>
+<hr>
+<h2 id="the-kingston-report-что-привлекло-пробуждение">The Kingston Report: Что привлекло пробуждение</h2>
+<p>Анализ Карен Кингстон через <a href="https://karenkingston.substack.com">The Kingston Report</a> идентифицирует факторы, которые привели к массовому пробуждению.</p>
+<h3 id="доказательство-стало-неоспоримым">Доказательство стало неоспоримым</h3>
+<p>Кингстон задокументировала каскад доказательства, которое прорвало институциональное подавление:</p>
+<p><strong>Документы Pfizer выпущены.</strong> Суд-приказанный выпуск внутренних документов Pfizer раскрыл данные неблагоприятного события, проблемы производства и отказы эффективности, которые противоречили публичному нарративу. Эти документы были разделены миллионы времён в социальных средах, создавая децентрализованную информационную кампанию, которую институциональные средства не могли подавить.</p>
+<p><strong>Анализ данных VAERS.</strong> Независимые аналитики, которые скачали и анализировали данные VAERS, нашли сигналы для смерти, миокардита, инсульта, тромбов и десятков других серьёзных неблагоприятных событий. В то время как CDC отклонил эти анализы, данные сами были публично доступны и анализы были разделены широко.</p>
+<p><strong>Данные избыточной смертности.</strong> Данные компаний страхования статистика, национальные статистические управления и независимые аналитики задокументировали беспрецедентную избыточную смертность среди людей рабочего возраста, начиная с 2021 — временно коррелирует с кампанией вакцинации. Избыточные смерти не могли быть приписаны COVID-19 одного и были соответствены вакцине-опосредованному вреду.</p>
+<p><strong>Коллапсы спортсменов.</strong> Видимый рост внезапных сердечных событий среди профессиональных и любительских спортсменов — коллапс на поле, смерть во время конкурс — создал вязкий, неоспоримый сигнал, что что-то изменилось в здоровье молодых, подходящих людей. Временная корреляция с массовой вакцинацией была невозможна игнорировать.</p>
+<p><strong>Личные свидетельства.</strong> Самый мощный привлекающий пробуждение был не данные, но свидетельство. Когда люди разделили свои личные опыты с вакцинной травмой — через социальные средства, в собраниях сообщества, в группах церкви — совокупный удар был преобразующим. Каждое свидетельство представляло пробой в институциональном нарративе. Миллионы пробоев стали наводнением.</p>
+<h3 id="институциональный-ответ-отказал">Институциональный ответ отказал</h3>
+<p>Кингстон задокументировала, что институциональный ответ на растущий скептицизм — больше цензуры, больше мандатов, более агрессивный обмен — провалился катастрофически:</p>
+<p><strong>Цензура усиленного недоверия.</strong> Когда платформы социальных средств цензурировала критической к вакцине содержания, она не исключила содержание — это привело его подземелье и дало ему cachet подавленной истины. Люди, которые могли бы приняли институциональные сообщения по номиналу, начали сомневаться в почему правдивые учреждения нуждались бы в цензуре.</p>
+<p><strong>Мандаты генерировали сопротивление.</strong> Принуждение людей выбирать между их работой и инъекцией, которой они не доверяли, не создало соответствие — это создало постоянное противостояние. Каждый человек уволен за отказ вакцины стал активистом.</p>
+<p><strong>"Безопасно и эффективно" стало насмешкой.</strong> Поскольку неблагоприятные события поднялись и эффективность пошла вниз, мантра "безопасно и эффективно" стала символом институциональной нечестности, чем переоценка. Фраза теперь используется саркастически по социальным средствам и популярной культуре.</p>
+<hr>
+<h2 id="библейская-рамка-остаток-пробуждается">Библейская рамка: Остаток пробуждается</h2>
+<h3 id="глаза-открываются-по-земле">Глаза открываются по земле</h3>
+<p>Массовое пробуждение параллелями библейский паттерн остаток сознания — момент, когда значимое меньшинство в пределах населения разрывает свободным от доминирующего обмана и видит ясно:</p>
+<blockquote>
+<p>"И дам им сердце познавать Меня, что я Господь; и они будут Мне народом, и Я буду им Богом; ибо они обратятся ко Мне всем сердцем своим." — Иеремия 24:7</p>
+</blockquote>
+<p>Пробуждение не просто интеллектуальное — это духовное. Люди не просто сомневаются в вакцинах. Они сомневаются в целой системе, которая произвела и предписала их — фармацевтической промышленности, нормативные агентства, средства, правительство, медицинское учреждение. Это всеобъемлющее сомнение приводит, неизбежно, к более глубоким вопросам: Кто имеет власть над моим телом? Кто разработал моё тело? Какова цель моего тела?</p>
+<p>Эти вопросы приводят к Создателю. Массовое пробуждение медицинскому обману — это дверь к духовному пробуждению. Когда институциональное доверие разваливается, поиск подлинной власти начинается — и подлинная власть принадлежит только Богу.</p>
+<h3 id="остаток-паттерна">Остаток паттерна</h3>
+<p>По всему Священному Писанию, те, кто пробуждён, всегда остаток — никогда не большинство:</p>
+<ul>
+<li>Семья Ноя в мире коррупции</li>
+<li>Лот в Содоме</li>
+<li>7,000 в Израиле, которые не поклонились Ваалу</li>
+<li>Верные в Сардис, которые "не запятнали свои одежды"</li>
+</ul>
+<p>Данные опроса показывают, что те, кто пробуждён, растут от маленького меньшинства к значимой части населения. Но даже при 20-30%, те, кто пробуждён, остаются меньшинством. Большинство остаётся или соответствием, неинформированным, или в отрицании. Остаток паттерна держится — те, кто пробуждён, видят то, что большинство отказывает видеть.</p>
+<hr>
+<h2 id="что-пробуждение-означает-идущее-вперед">Что пробуждение означает, идущее вперед</h2>
+<h3 id="для-фармацевтической-промышленности">Для фармацевтической промышленности</h3>
+<p>Массовое пробуждение представляет экзистенциальную угрозу к бизнес-модели вакцины фармацевтической промышленности. Если значимая часть населения отказывает будущие вакцины — включая продукты мРНК для гриппа, RSV и других болезней — проекции дохода, которые оправдывают миллиарды в инвестиции R&#x26;D, разваливаются.</p>
+<h3 id="для-учреждений-государственного-здоровья">Для учреждений государственного здоровья</h3>
+<p>CDC, FDA и WHO сталкиваются с кризисом кредитоспособности, который займёт поколение восстановления — если это может быть восстановлено вообще. Учреждения, которые пожертвовали их кредит для продвижения единственного продукта, не могут перестроить этот кредит через кампании обмена. Перестройка требует структурного изменения: отчётность, прозрачность и восстановление подлинной независимости от влияния фармацевтической промышленности.</p>
+<h3 id="для-людей">Для людей</h3>
+<p>Пробуждение приносит ответственность. Те, кто видел истину, не может видеть её заново. Те, кто пробуждён, имеют ответственность поделиться тем, что они знают — с семьей, друзьями, сообществом и в частности с теми, кто всё ещё делает медицинские решения на основе институционального нарратива.</p>
+<hr>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Analysis of public opinion shifts and the drivers of mass awakening.</li>
+<li>Survey data on COVID-19 vaccine confidence and regret</li>
+<li>V-safe data (court-ordered release)</li>
+<li>Excess mortality data from insurance companies and national statistics offices</li>
+<li>VAERS data analysis</li>
+<li>Published research on vaccine adverse events</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/41-Shedding_Proof.mp4">Shedding Proof</a> — Доказательство, которое не может быть отрицаемо</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/129-Rockefeller_Medicine.mp4">Rockefeller Medicine</a> — Система, которая захвачена теперь оспариваемая</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — Система пробуждение раскрывает</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/33-The_Fire_in_the_Cave.mp4">The Fire in the Cave</a> — Момент истина разрывается свободным</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/89-The_Serpent_Crusher.mp4">The Serpent Crusher</a> — Предельная победа над обманом</li>
+</ul>
+<hr>
+<h2 id="изучите-дальше">Изучите дальше</h2>
+<ul>
+<li><a href="/parents-saying-no-vaccines/?lang=ru">Nearly 1 out of 5 Parents Are Saying NO to Vaccines</a> — Движение родительского отказа</li>
+<li><a href="/cdc-safety-data-mrna-vaccines/?lang=ru">Updated CDC Safety Data on COVID-19 mRNA Vaccines</a> — Данные привлекающие пробуждение</li>
+<li><a href="/covid-vaccine-chief-boosters-ineffective/?lang=ru">COVID-19 Vaccine Chief Laughs at Boosters Being Zero Percent Effective</a> — Внутренний контемпт раскрыт</li>
+<li><a href="/cdc-childhood-vaccine-schedule-reduced/?lang=ru">CDC Childhood Vaccine Schedule Reduced: What Changed</a> — Институциональный отход</li>
+</ul>
+<hr>
+<p><em>Глаза открываются. Не сразу, не полностью, но печати разрывают. Данные опроса — перепись те, кто пробуждён — подсчёт тех, кто видел сквозь pharmakeia и больше не могу быть обманутыми мантрой "безопасно и эффективно." Это остаток восходящий. "Встань, свети, ибо пришёл свет твой, и слава Господня воссияла над тобою; ибо вот, тьма покроет землю, и мрак — народы; но над тобою воссияет Господь, и слава Его явится над тобою" (Исаия 60:1-2).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Опрос подтверждает массовое пробуждение к смертельным выстрелам мРНК COVID-19"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Новые данные опроса подтверждают массовое пробуждение среди общественности к опасностям выстрелов мРНК COVID-19, с беспрецедентными уровнями скептицизма вакцины."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-25T10:00:00Z","children":"25 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","mass-awakening",{"href":"/ru/tag/mass-awakening/","className":"tag-pill","children":["#","mass-awakening"]}],["$","a","survey",{"href":"/ru/tag/survey/","className":"tag-pill","children":["#","survey"]}],["$","a","COVID-19-vaccines",{"href":"/ru/tag/COVID-19-vaccines/","className":"tag-pill","children":["#","COVID-19-vaccines"]}],["$","a","public-opinion",{"href":"/ru/tag/public-opinion/","className":"tag-pill","children":["#","public-opinion"]}],["$","a","vaccine-skepticism",{"href":"/ru/tag/vaccine-skepticism/","className":"tag-pill","children":["#","vaccine-skepticism"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/mass-awakening-deadly-mrna-shots/","title":"Опрос подтверждает массовое пробуждение к смертельным выстрелам мРНК COVID-19"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/mass-awakening-deadly-mrna-shots/","title":"Опрос подтверждает массовое пробуждение к смертельным выстрелам мРНК COVID-19"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Опрос подтверждает массовое пробуждение к смертельным выстрелам мРНК COVID-19 | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Новые данные опроса подтверждают массовое пробуждение среди общественности к опасностям выстрелов мРНК COVID-19, с беспрецедентными уровнями скептицизма вакцины."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"mass-awakening, survey, COVID-19-vaccines, public-opinion, vaccine-skepticism"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/mass-awakening-deadly-mrna-shots/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/mass-awakening-deadly-mrna-shots/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/mass-awakening-deadly-mrna-shots/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/mass-awakening-deadly-mrna-shots/"}],["$","meta","10",{"property":"og:title","content":"Опрос подтверждает массовое пробуждение к смертельным выстрелам мРНК COVID-19"}],["$","meta","11",{"property":"og:description","content":"Новые данные опроса подтверждают массовое пробуждение среди общественности к опасностям выстрелов мРНК COVID-19, с беспрецедентными уровнями скептицизма вакцины."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/mass-awakening-deadly-mrna-shots/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/mass-awakening-deadly-mrna-shots.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Опрос подтверждает массовое пробуждение к смертельным выстрелам мРНК COVID-19"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Опрос подтверждает массовое пробуждение к смертельным выстрелам мРНК COVID-19"}],["$","meta","25",{"name":"twitter:description","content":"Новые данные опроса подтверждают массовое пробуждение среди общественности к опасностям выстрелов мРНК COVID-19, с беспрецедентными уровнями скептицизма вакцины."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/mass-awakening-deadly-mrna-shots.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

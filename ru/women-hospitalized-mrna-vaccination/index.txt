@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","women-hospitalized-mrna-vaccination",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","women-hospitalized-mrna-vaccination","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","women-hospitalized-mrna-vaccination","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T7751,<h1 id="исследование-4-610-женщин-госпитализированных-после-вакцинации-мрнк">Исследование 4 610 женщин, госпитализированных после вакцинации мРНК</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Кто найдет добродетельную жену? цена её выше драгоценных камней." — Притчи 31:10</p>
+</blockquote>
+<p>Писание дает женщинам положение священной чести. Женщина была последним актом творения — завершением Божественного замысла, той, из чьего тела возникла бы вся последующая человеческая жизнь. Ева была названа "матерью всех живых" (Бытие 3:20). Каждый человеческий жизни со времён Адама вошёл в мир через женское тело. Женское тело — это врата жизни.</p>
+<p>Когда это тело повреждено — когда тысячи женщин госпитализированы после получения медицинского препарата, которому им сказали, что он безопасен — это не просто неблагоприятное событие. Это нападение на врата жизни. Госпитализация 4 610 женщин после вакцинации мРНК — это не статистика. Это 4 610 отдельных тел — тела, предназначенные для вынашивания жизни, воспитания детей и поддержания семей — повреждённых продуктом, который был агрессивно продан им как важнейшая здравоохранение.</p>
+<p>Трек <em>Rivers of Living Water</em> из альбома Confliction говорит о жизни, которая должна была течь через тело неконтаминированной. Трек ZZZ Daily <em>The Vaccination Booths</em> разоблачает инфраструктуру массовых инъекций, которая обрабатывала женщин как продукты на конвейере.</p>
+<hr>
+<h2 id="исследование-обзор">Исследование: обзор</h2>
+<h3 id="параметры-исследования">Параметры исследования</h3>
+<p>Клиническое исследование, изучающее события госпитализации после вакцинации COVID-19 мРНК, документировало 4 610 женщин, которым потребился больничный приём в период после их вакцинации. Исследование проанализировало:</p>
+<ul>
+<li><strong>Демография:</strong> распределение по возрасту, предшествующие условия, статус беременности</li>
+<li><strong>Детали вакцинации:</strong> какой продукт мРНК (Pfizer-BioNTech или Moderna), номер дозы (первая, вторая, ревакцина), время между вакцинацией и госпитализацией</li>
+<li><strong>Клинические проявления:</strong> медицинские состояния, которые привели к госпитализации</li>
+<li><strong>Исходы:</strong> длительность госпитализации, поступления в ОИП, проведённые процедуры, статус при выписке, смерти</li>
+</ul>
+<h3 id="основные-выводы">Основные выводы</h3>
+<p>Исследование выявило несколько закономерностей, которые ставят под сомнение нарратив "безопасно и эффективно":</p>
+<p><strong>1. Кардиальные события были выдающимися</strong>
+Значительная часть госпитализаций связана с кардиальными состояниями:</p>
+<ul>
+<li>Миокардит и перикардит</li>
+<li>Острые коронарные события (инфаркты миокарда) у женщин без предшествующей истории сердечных заболеваний</li>
+<li>Аритмии (нарушения сердечного ритма)</li>
+<li>Такоцубо кардиомиопатия ("синдром разбитого сердца")</li>
+<li>Лёгочная эмболия (тромбозы в лёгких)</li>
+</ul>
+<p><strong>2. Неврологические события были широко распространены</strong>
+Неврологические проявления включали:</p>
+<ul>
+<li>Инсульт (как ишемический, так и геморрагический) у молодых женщин</li>
+<li>Синдром Гийена-Барре (восходящий паралич)</li>
+<li>Поперечный миелит (воспаление спинного мозга)</li>
+<li>Паралич Белла и другие параличи черепно-мозговых нервов</li>
+<li>Судороги у женщин без предшествующей истории судорог</li>
+<li>Тяжелые головные боли и внутричерепная гипертензия</li>
+</ul>
+<p><strong>3. Тромботические события были диспропорциональны</strong>
+Расстройства свёртывания крови появлялись с частотой, намного превышающей фоновые уровни:</p>
+<ul>
+<li>Тромбоз глубоких вен (ТГВ)</li>
+<li>Лёгочная эмболия (ЛЭ)</li>
+<li>Церебральный венозный синус тромбоз (ЦВСТ)</li>
+<li>Тромботическая тромбоцитопеническая пурпура (ТТП)</li>
+<li>Вакцин-индуцированный тромбоз и тромбоцитопения (ВИТТ)</li>
+</ul>
+<p><strong>4. Аутоиммунные состояния были спровоцированы</strong>
+Новые-дебютные аутоиммунные состояния появились после вакцинации:</p>
+<ul>
+<li>Обострения системной красной волчанки и новые диагнозы</li>
+<li>Начало ревматоидного артрита</li>
+<li>Аутоиммунный гепатит</li>
+<li>Иммунная тромбоцитопения (ИТП)</li>
+<li>Начало множественного склероза и обострение</li>
+</ul>
+<p><strong>5. Репродуктивные и гинекологические события</strong>
+Женщины испытали специфические репродуктивные нежелательные события:</p>
+<ul>
+<li>Тяжелые менструальные нарушения, требующие госпитализации</li>
+<li>Геморрагические кисты яичников</li>
+<li>Постменопаузальное кровотечение, требующее исследования</li>
+<li>Осложнения беременности (у тех, кто был вакцинирован во время беременности)</li>
+</ul>
+<hr>
+<h2 id="kingston-report-анализ-и-контекст">Kingston Report: Анализ и контекст</h2>
+<p>Анализ Карен Кингстон через <a href="https://karenkingston.substack.com">Kingston Report</a> ставит это исследование в более широкий контекст документированного поражения от вакцин мРНК, особенно поскольку это непропорционально влияет на женщин.</p>
+<h3 id="почему-женщины-непропорционально-страдают">Почему женщины непропорционально страдают</h3>
+<p>Кингстон документировала несколько биологических причин, почему женщины могут испытывать более тяжелые нежелательные события от вакцинации мРНК:</p>
+<p><strong>Различия иммунной системы:</strong> У женщин в среднем более мощный иммунный ответ, чем у мужчин — более высокое исходное производство антител, более сильные T-клеточные реакции и более интенсивные воспалительные реакции. Хотя это обеспечивает большую защиту от многих инфекций, это также означает, что иммунный ответ, вызванный вакцинацией мРНК, более интенсивен у женщин, что приводит к более интенсивному воспалению и большему потенциалу аутоиммунного поражения.</p>
+<p><strong>Гормональные взаимодействия:</strong> Липидные наночастицы, используемые в вакцинах мРНК, накапливаются в яичниках (как показано данными биораспределения Pfizer, представленными японским регуляторам). Взаимодействие между ЛНЧ, мРНК и тканью яичников не было изучено. Гормональные колебания во время менструального цикла влияют на иммунную функцию, и синхронизация вакцинации относительно менструального цикла может влиять на тяжесть иммунного ответа и результирующих нежелательных событий.</p>
+<p><strong>Накопление ЛНЧ в яичниках:</strong> Данные биораспределения, показывающие концентрацию ЛНЧ в яичниковой ткани, особенно беспокоят для женщин. Яичники — это не просто репродуктивные органы — это эндокринные органы, регулирующие гормональный баланс во всём теле. Нарушение функции яичников может каскадно влиять на сердечно-сосудистые, неврологические, иммунные и метаболические системы.</p>
+<p><strong>Предрасположенность к аутоиммунитету:</strong> Женщины уже непропорционально страдают от аутоиммунных состояний (примерно 80% пациентов с аутоиммунными заболеваниями — женщины). Иммунно-стимулирующие свойства вакцинации мРНК могут спровоцировать аутоиммунные каскады у лиц с основной предрасположенностью — и женщины представляют большинство этой восприимчивой популяции.</p>
+<h3 id="менструальный-сигнал">Менструальный сигнал</h3>
+<p>Кингстон специально документировала менструальные нарушения, последовавшие за развёртыванием вакцины — изменения настолько широкого распространения, что их нельзя было игнорировать даже агентствами, пытающимися минимизировать нежелательные события вакцины:</p>
+<ul>
+<li><strong>Тысячи женщин сообщили</strong> о драматических изменениях своих менструальных циклов после вакцинации, включая более обильное кровотечение, пропущенные периоды, нерегулярные циклы и тяжелые спазмы</li>
+<li><strong>Постменопаузальные женщины</strong> сообщили о возобновлении менструального кровотечения — симптом, который обычно вызывает срочное расследование на рак эндометрия</li>
+<li><strong>Девочки-подростки</strong> сообщили об аномальных кровотечениях</li>
+<li><strong>NIH в итоге профинансировала исследование</strong> (после месяцев отклонения отчётов), которое подтвердило менструальные изменения после вакцинации — редкое признание, вынужденное объёмом отчётов</li>
+</ul>
+<p>Менструальный сигнал значим, потому что менструальный цикл — чувствительный показатель системного здоровья. Изменения менструального цикла указывают на нарушение гипоталамо-гипофизарно-яичниковой оси — гормональной системы управления, которая регулирует не только репродукцию, но также плотность костей, сердечно-сосудистую функцию, метаболизм и настроение. Когда 4 610 женщин госпитализированы и тысячи других испытывают менструальные нарушения, сигнал указывает на системное поражение, а не на изолированные нежелательные события.</p>
+<hr>
+<h2 id="разбор-данных-госпитализации">Разбор данных госпитализации</h2>
+<h3 id="распределение-по-возрасту">Распределение по возрасту</h3>
+<p>Исследование выявило, что госпитализации не ограничивались пожилыми или коморбидными женщинами:</p>
+<ul>
+<li>Значительная часть госпитализированных женщин были <strong>в возрасте до 50 лет</strong> — женщины в расцвете их репродуктивного возраста</li>
+<li>Многие <strong>не имели значительных предшествующих состояний</strong> до вакцинации</li>
+<li>Самые молодые госпитализированные пациентки были <strong>подростками</strong>, которые получили вакцину в рамках педиатрической авторизации</li>
+<li>Пожилые женщины также были представлены, часто с более тяжелыми исходами</li>
+</ul>
+<h3 id="доза-реакция-паттерн">Доза-реакция паттерн</h3>
+<p>Данные показали чёткий паттерн, связанный с номером дозы:</p>
+<ul>
+<li><strong>Госпитализации после второй дозы превысили госпитализации после первой дозы</strong> — согласуется с иммунной праймеризацией и усиленным ответом</li>
+<li><strong>Госпитализации после бустера</strong> показали наивысший уровень аутоиммунных и воспалительных проявлений</li>
+<li><strong>Время от вакцинации до госпитализации</strong> варьировалось от часов (анафилаксия, острые кардиальные события) до недель (аутоиммунные состояния, тромботические события)</li>
+</ul>
+<h3 id="тяжесть-исходов">Тяжесть исходов</h3>
+<p>Среди 4 610 госпитализированных женщин:</p>
+<ul>
+<li>Процент потребовал <strong>поступления в ОИП</strong> для угрожающих жизни состояний</li>
+<li>Некоторые потребовали <strong>экстренного хирургического вмешательства</strong> (тромбэктомия, краниотомия при геморрагическом инсульте)</li>
+<li><strong>Смерти были зарегистрированы</strong> в исследуемой популяции</li>
+<li>Многие испытали <strong>продолжительную госпитализацию</strong> сверх типичной длительности приёма для их состояний</li>
+<li><strong>Выписка с постоянной инвалидностью</strong> была задокументирована в подмножестве пациентов</li>
+</ul>
+<hr>
+<h2 id="неудача-информированного-согласия">Неудача информированного согласия</h2>
+<h3 id="что-женщинам-было-сказано">Что женщинам было сказано</h3>
+<p>Женщинам, которые получили вакцины мРНК, было сказано:</p>
+<ul>
+<li>Вакцина "безопасна и эффективна"</li>
+<li>Частые побочные эффекты незначительны: боль в руке, усталость, лихорадка низкой степени</li>
+<li>Серьёзные побочные эффекты "исключительно редки"</li>
+<li>Вакцина рекомендуется для беременных и кормящих женщин</li>
+<li>Преимущества перевешивают риски для всех взрослых</li>
+</ul>
+<h3 id="что-женщинам-не-было-сказано">Что женщинам не было сказано</h3>
+<p>Женщинам не было сказано:</p>
+<ul>
+<li>ЛНЧ накапливаются в яичниках</li>
+<li>Белок шипа, который вырабатывает вакцина, подавляет ген-супрессор опухоли p53</li>
+<li>Антитела, выработанные вакциной, перекрёстно реагируют с плацентарными белками</li>
+<li>Вакцина вызывает измеримое подавление иммунитета (переключение класса IgG4)</li>
+<li>Модифицированная мРНК может сохраняться в течение месяцев</li>
+<li>Менструальные нарушения влияют на значительный процент вакцинированных женщин</li>
+<li>Клинические испытания исключали беременных женщин и не имели адекватных данных о безопасности репродукции</li>
+<li>Компания, выпускающая вакцину, имеет рекорд уголовного мошенничества на $4,7 миллиарда</li>
+</ul>
+<p>Это не информированное согласие. Это информированный обман. Женщинам была дана одна информация и отказано в другой. Полученная ими информация способствовала соответствию. Информация, в которой им было отказано, способствовала отказу.</p>
+<hr>
+<h2 id="библейская-перспектива-женщины-как-цели">Библейская перспектива: женщины как цели</h2>
+<h3 id="паттерн-бытия-3">Паттерн Бытия 3</h3>
+<p>Змей нацелился на Еву в саду. Не потому, что она была слабее — а потому, что она была вратами. Через женщину коррупция вошла бы в человеческий род. Через женщину все будущие поколения были бы затронуты.</p>
+<p>Один и тот же паттерн нацеливания виден в кампании мРНК. Женщины были специально нацелены на сообщения вакцинации:</p>
+<ul>
+<li>Беременные женщины были специально поощрены к вакцинации</li>
+<li>Работники здравоохранения (в основном женская рабочая сила) столкнулись с мандатами</li>
+<li>Учителя (в основном женщины) столкнулись с мандатами</li>
+<li>Кампании социального давления подчёркивали "защиту других" — обращение, непропорционально эффективное среди женщин, которые ориентированы на отношения</li>
+</ul>
+<p>Нацеливание на женщин не случайно. Это стратегично. Когда вы повреждаете врата жизни, вы повреждаете всю будущую жизнь, которая прошла бы через неё.</p>
+<h3 id="предупреждение-фармакеи">Предупреждение фармакеи</h3>
+<p>Откровение 18:23 предупреждает о фармакее — колдовстве через лекарства. Госпитализация 4 610 женщин — это задокументированное следствие этого колдовства. Препарат был представлен как лечение. Он вызвал вред. Чара "безопасно и эффективно" была произнесена, и женщины поверили, и их тела заплатили цену.</p>
+<p>Но Бог видит каждую госпитализированную женщину. Он считает каждое повреждённое сердце, каждый закупоренный сосуд, каждый воспалённый нерв. "Господь исцеляет сокрушённых сердцем и врачует скорби их. Он определяет число звёздам; всех их называет по имени" (Псалом 147:3-4). Бог, который считает звёзды, также считает раненых.</p>
+<hr>
+<h2 id="что-должны-знать-женщины">Что должны знать женщины</h2>
+<ol>
+<li>
+<p><strong>4 610 госпитализаций представляют задокументированный минимум.</strong> Системы отчётности о нежелательных событиях пассивны и захватывают только часть фактических событий. Исследования оценивают, что VAERS захватывает от 1-10% нежелательных событий.</p>
+</li>
+<li>
+<p><strong>Спектр нежелательных событий широк.</strong> Поражены кардиальная, неврологическая, тромботическая, аутоиммунная и репродуктивная системы.</p>
+</li>
+<li>
+<p><strong>Биология женщин делает их более восприимчивыми</strong> к определённым нежелательным событиям вакцины из-за иммунных, гормональных и аутоиммунных факторов.</p>
+</li>
+<li>
+<p><strong>Накопление ЛНЧ в яичниках документировано</strong> в собственных данных биораспределения производителя.</p>
+</li>
+<li>
+<p><strong>Менструальное нарушение — системный сигнал,</strong> не незначительное неудобство. Это указывает на нарушение фундаментальных гормональных и репродуктивных систем.</p>
+</li>
+<li>
+<p><strong>Информированное согласие было систематически отказано.</strong> Женщинам не была дана информация, необходимая для принятия обоснованного решения о продукте, который непропорционально их влияет.</p>
+</li>
+</ol>
+<hr>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>Kingston, Karen. <a href="https://karenkingston.substack.com">The Kingston Report</a>. Анализ половых различий в нежелательных событиях вакцины.</li>
+<li>Clinical study of 4,610 hospitalized women post-mRNA vaccination</li>
+<li>Pfizer Biodistribution Study (Japanese PMDA)</li>
+<li>VAERS data analysis (sex-stratified)</li>
+<li>NIH-funded menstrual cycle study</li>
+<li>Published research on sex differences in immune response to mRNA vaccination</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/317-The_Vaccination_Booths.mp4">The Vaccination Booths</a> — Инфраструктура массовых инъекций</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — Система, нацеленная на уязвимых</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/41-Shedding_Proof.mp4">Shedding Proof</a> — Передача компонентов вакцины</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/97-Rivers_of_Living_Water.mp4">Rivers of Living Water</a> — Жизнь, которая должна была течь неконтаминированной через тело</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — Кровный завет под нападением</li>
+</ul>
+<hr>
+<h2 id="изучите-дальше">Изучите дальше</h2>
+<ul>
+<li><a href="/pfizer-denies-birth-defects/?lang=ru">Pfizer Denies Significant Increased Rate of Birth Defects</a> — Отрицание Pfizer и задокументированная реальность</li>
+<li><a href="/spike-antibodies-fetal-deaths/?lang=ru">Spike Protein ANTIBODIES Increase Fetal Deaths</a> — Как антитела вредят нерожденному</li>
+<li><a href="/mrna-faulty-genes-myocarditis/?lang=ru">mRNA Technology Can Add Faulty Genes Leading to Myocarditis</a> — Механизм кардиального поражения</li>
+<li><a href="/cdc-safety-data-mrna-vaccines/?lang=ru">Updated CDC Safety Data on COVID-19 mRNA Vaccines</a> — Последние сигналы безопасности</li>
+</ul>
+<hr>
+<p><em>За каждой статистикой стоит женщина — мать, дочь, жена, сестра. За 4 610 госпитализациями стоят 4 610 историй предательства доверия, украденного здоровья и тел, повреждённых продуктом, продаваемым как забота. Но Бог, который создал Еву из рёбра Адама — который разработал женское тело как врата жизни — не забывает Своих дочерей. "Может ли женщина забыть грудное дитя своё, чтобы не пожалеть сына чрева своего? но если бы и забыла она, то я не забуду тебя" (Исаия 49:15).</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Исследование 4 610 женщин, госпитализированных после вакцинации мРНК"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Исследование, документирующее 4 610 женщин, госпитализированных после вакцинации COVID-19 мРНК, выявило закономерности поражения, включая кардиальные, неврологические и аутоиммунные события."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-16T10:00:00Z","children":"16 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","women-health",{"href":"/ru/tag/women-health/","className":"tag-pill","children":["#","women-health"]}],["$","a","hospitalization",{"href":"/ru/tag/hospitalization/","className":"tag-pill","children":["#","hospitalization"]}],["$","a","mRNA-vaccines",{"href":"/ru/tag/mRNA-vaccines/","className":"tag-pill","children":["#","mRNA-vaccines"]}],["$","a","adverse-events",{"href":"/ru/tag/adverse-events/","className":"tag-pill","children":["#","adverse-events"]}],["$","a","clinical-study",{"href":"/ru/tag/clinical-study/","className":"tag-pill","children":["#","clinical-study"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/women-hospitalized-mrna-vaccination/","title":"Исследование 4 610 женщин, госпитализированных после вакцинации мРНК"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/women-hospitalized-mrna-vaccination/","title":"Исследование 4 610 женщин, госпитализированных после вакцинации мРНК"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Исследование 4 610 женщин, госпитализированных после вакцинации мРНК | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Исследование, документирующее 4 610 женщин, госпитализированных после вакцинации COVID-19 мРНК, выявило закономерности поражения, включая кардиальные, неврологические и аутоиммунные события."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"women-health, hospitalization, mRNA-vaccines, adverse-events, clinical-study"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/women-hospitalized-mrna-vaccination/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/women-hospitalized-mrna-vaccination/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/women-hospitalized-mrna-vaccination/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/women-hospitalized-mrna-vaccination/"}],["$","meta","10",{"property":"og:title","content":"Исследование 4 610 женщин, госпитализированных после вакцинации мРНК"}],["$","meta","11",{"property":"og:description","content":"Исследование, документирующее 4 610 женщин, госпитализированных после вакцинации COVID-19 мРНК, выявило закономерности поражения, включая кардиальные, неврологические и аутоиммунные события."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/women-hospitalized-mrna-vaccination/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/women-hospitalized-mrna-vaccination.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Исследование 4 610 женщин, госпитализированных после вакцинации мРНК"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Исследование 4 610 женщин, госпитализированных после вакцинации мРНК"}],["$","meta","25",{"name":"twitter:description","content":"Исследование, документирующее 4 610 женщин, госпитализированных после вакцинации COVID-19 мРНК, выявило закономерности поражения, включая кардиальные, неврологические и аутоиммунные события."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/women-hospitalized-mrna-vaccination.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

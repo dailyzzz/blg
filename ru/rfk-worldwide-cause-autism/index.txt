@@ -1,0 +1,130 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","rfk-worldwide-cause-autism",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","rfk-worldwide-cause-autism","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rfk-worldwide-cause-autism","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T5676,<h1 id="рфк-младший-объявляет-о-всемирных-усилиях-по-определению-причины-аутизма">РФК-младший объявляет о всемирных усилиях по определению причины аутизма</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>«Приносили к Нему детей, чтобы Он прикоснулся к ним; ученики же не допускали приносящих. Увидев то, Иисус вознегодовал и сказал им: пустите детей приходить ко Мне и не препятствуйте им, ибо таковых есть Царствие Божие». — Марк 10:13-14</p>
+</blockquote>
+<p>Когда детей приносили к Иисусу, ученики пытались их отвернуть. Они думали, что время Мастера слишком важно, Его миссия слишком велика для забот о детях. Иисус упрекнул их. Он заявил, что Царство Божие принадлежит детям — и что любой, кто препятствует детям прийти к Нему, сталкивается с Его неудовольствием.</p>
+<p>Как показывает трек Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpent's Curse</a>, проклятие змея нацелено на самых уязвимых — а дети являются самыми уязвимыми из всех. Эпидемия неврологической травмы среди детей — это не загадка, которая не поддается расследованию. Это преступление, которое было защищено от расследования институтами, которые должны были расследовать его десятилетия назад.</p>
+<p>РФК-младший объявил о всемирных усилиях по определению причины аутизма. Впервые в истории федеральный чиновник с полномочиями и волей требует ответа на вопрос, который медицинский истеблишмент отказывался задавать.</p>
+<hr>
+<h2 id="эпидемия-аутизма">Эпидемия аутизма</h2>
+<p>В 1970 году распространенность расстройства аутистического спектра (РАС) в Соединенных Штатах оценивалась примерно в 1 на 10 000 детей. К 2000 году она выросла до 1 на 150. К 2010 году — 1 на 68. К 2020 году — 1 на 36. Последние оценки CDC предполагают, что показатель теперь может превышать 1 на 30 детей.</p>
+<p>Это не постепенное увеличение. Это экспоненциальный взрыв — более чем 300-кратное увеличение за пять десятилетий. Никакое генетическое изменение не может произвести 300-кратное увеличение распространенности за два поколения. Причина является экологической — что-то в окружающей среде американских детей резко изменилось с 1970 года, и это изменение производит неврологическую травму в эпидемическом масштабе.</p>
+<p>Ответ медицинского истеблишмента на эту эпидемию состоял в том, чтобы отрицать ее существование, приписывать ее «лучшей диагностике» и отказываться расследовать экологические причины. CDC, который отвечает за мониторинг распространенности аутизма, одновременно:</p>
+<ul>
+<li>Документировал растущие показатели</li>
+<li>Отказывался проводить сравнительные исследования вакцинированных и невакцинированных детей</li>
+<li>Финансировал исследования, сосредоточенные на генетических факторах, а не на экологических воздействиях</li>
+<li>Активно подавлял исследования, связывающие экологические воздействия с аутизмом</li>
+<li>Характеризовал любого, кто ставит под сомнение экологические причины, как «антинаучного»</li>
+</ul>
+<p>Карен Кингстон задокументировала в The Kingston Report (karenkingston.substack.com): «Отказ изучать экологические причины аутизма — это величайший научный скандал в современной истории. У нас есть 300-кратное увеличение неврологического состояния, затрагивающего детей. CDC знает, что показатель растет. CDC отказывается изучать, почему. Единственное логическое объяснение этого отказа — что агентство уже знает — или подозревает — что ответ подразумевает продукты, которые оно рекомендует, отрасли, которые оно защищает, или политики, которые оно реализовало».</p>
+<hr>
+<h2 id="расследование">Расследование</h2>
+<p>Всемирное расследование РФК-младшего будет преследовать несколько направлений запроса одновременно:</p>
+<p><strong>Сравнения вакцинированных и невакцинированных:</strong> Исследование, которое CDC отказывался проводить десятилетиями — комплексное сравнение результатов для здоровья, включая показатели аутизма, между полностью вакцинированными и полностью невакцинированными детьми.</p>
+<p><strong>Анализ временной корреляции:</strong> Детальный анализ корреляции между расширением графика детских прививок, введением конкретных вакцин и ускорением распространенности аутизма.</p>
+<p><strong>Оценка экологических токсинов:</strong> Расследование кумулятивного эффекта экологических воздействий — включая пестициды, тяжелые металлы, пищевые добавки, эндокринные разрушители и фармацевтические остатки — на нейроразвитие.</p>
+<p><strong>Исследование алюминиевого адъюванта:</strong> Изучение неврологических эффектов алюминиевых адъювантов, используемых в детских вакцинах, которые задокументировано накапливаются в мозговой ткани.</p>
+<p><strong>Международные сравнения:</strong> Сравнение показателей аутизма в странах с различными графиками вакцинации, экологическими регуляциями и диетическими моделями для идентификации коррелирующих факторов.</p>
+<p><strong>Анализ регрессии:</strong> Расследование «регрессивного аутизма» — случаев, в которых дети развиваются нормально, а затем теряют языковые, социальные и когнитивные способности — включая временную близость к экологическим воздействиям.</p>
+<p>Расследование будет проводиться через международные партнерства с исследовательскими институтами, независимыми от финансирования фармацевтической промышленности — критическое различие, поскольку большинство исследований аутизма, проведенных в Соединенных Штатах, финансировалось институтами со связями с фармацевтической промышленностью.</p>
+<hr>
+<h2 id="информатор-cdc">Информатор CDC</h2>
+<p>В 2014 году д-р Уильям Томпсон, старший ученый CDC, раскрыл Конгрессу, что он и его коллеги в CDC совершили мошенничество в исследовании 2004 года, изучающем связь между вакциной MMR и аутизмом.</p>
+<p>Томпсон утверждал, что авторы исследования — включая его самого — идентифицировали статистически значимую ассоциацию между вакциной MMR и аутизмом у афроамериканских мальчиков. Вместо того чтобы сообщить это открытие, Томпсон утверждал, авторы встретились и согласились исключить данные, которые произвели ассоциацию. Томпсон утверждал, что ему было приказано уничтожить документы, связанные с оригинальным анализом, хотя он сохранил копии.</p>
+<p>Утверждения Томпсона никогда не расследовались CDC. Его не вызывали для дачи показаний перед Конгрессом, несмотря на то, что он предложил сделать это под присягой. Оригинальное исследование остается в литературе, неисправленное. Данные, которые описал Томпсон, никогда не были независимо рассмотрены.</p>
+<p>Расследование РФК-младшего будет включать обзор утверждений Томпсона и оригинальных данных — потенциально предоставляя первый независимый анализ исследования, которое CDC предположительно манипулировал.</p>
+<hr>
+<h2 id="пророческий-императив">Пророческий императив</h2>
+<blockquote>
+<p>«А кто соблазнит одного из малых сих, верующих в Меня, тому лучше было бы, если бы повесили ему мельничный жернов на шею и потопили его во глубине морской». — Матфей 18:6</p>
+</blockquote>
+<p>Предупреждение о мельничном жернове — это самое суровое суждение, которое Иисус произносит в Евангелиях. Оно зарезервировано для тех, кто вредит детям — кто оскорбляет, заставляет спотыкаться или травмирует малых, доверенных их заботе.</p>
+<p>Если эпидемия аутизма вызвана экологическими факторами, которые институты идентифицировали, но отказались решать — потому что их решение подразумевало бы продукты, которые они рекомендуют, отрасли, которые они защищают, или политики, которые они реализовали, — тогда мельничный жернов висит над каждым чиновником, который знал, каждым исследователем, которого заставили молчать, и каждым институтом, который выбрал доход вместо неврологической целостности поколения детей.</p>
+<p>Трек <a href="https://zzzdaily.zzzdaily.com/tracks/ru/91-The_Kinsey_Corruption.mp4">The Kinsey Corruption</a> документирует, как развращенная наука, нацеленная на детей, становится институциональной политикой — как мошенническое исследование внедряется в регулирующие рамки и защищается институтами, которые зависят от него. Прикрытие аутизма, если оно существует, следует той же схеме.</p>
+<hr>
+<hr>
+<h3 id="предупреждение-1-царств-8">Предупреждение 1 Царств 8</h3>
+<blockquote>
+<p><em>«И сказал Господь Самуилу: послушай голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, но отвергли Меня, чтоб Я не царствовал над ними»</em>. — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8:7 (Синодальный перевод)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Царств 8 эхом звучит через каждый правительственный коридор сегодня. Когда Израиль потребовал царя, как у других народов, Бог предупредил их, что именно произойдет — их сыновья будут взяты на войну, их дочери на службу, их поля и виноградники захвачены, десятина со всего конфискована. Они выбрали человеческое правительство над царствованием Бога, и тирания последовала точно, как было обещано. Ничего не изменилось. Современная политическая система — это два крыла одной птицы — левое и правое, республиканцы и демократы — все служат одной и той же скрытой структуре власти. Голосование за любую сторону — это выбор, какое крыло взмахнет следующим, пока птица летит в том же направлении. Реальная власть никогда не была ни в одном избирательном бюллетене.</p>
+<h2 id="источники">Источники</h2>
+<ul>
+<li>
+<p>HHS — объявление о расследовании аутизма РФК-младшим</p>
+</li>
+<li>
+<p>The Kingston Report (karenkingston.substack.com) — анализ Карен Кингстон эпидемиологии аутизма, подавления исследований CDC и документация воздействия экологических токсинов</p>
+</li>
+<li>
+<p>Данные о распространенности аутизма CDC — Сводки наблюдения MMWR</p>
+</li>
+<li>
+<p>Информатор CDC Уильям Томпсон — документы раскрытия Конгрессу</p>
+</li>
+<li>
+<p>Марк 10:13-14, Матфей 18:6 (Синодальный перевод)</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Царств 8 — Предупреждение против земных царей (Синодальный перевод)</a></p>
+</li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Свидетельство о предсмертном опыте Говарда Питтмана — Предупреждение о конце времен, данное ему Богом</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Католическая конфиденциальность: раскрытые прискорбные секреты иезуитов</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">Что в подвале Ватикана может вас шокировать!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV на YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry на YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions на YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-пока-читаете">Слушайте, пока читаете</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/91-The_Kinsey_Corruption.mp4">The Kinsey Corruption</a> — Развращенная наука, нацеленная на детей, внедренная в институциональную политику</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/103-MKUltra_Never_Ended.mp4">MKUltra Never Ended</a> — Правительственные программы с нераскрытыми неврологическими эффектами на население</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/109-Biometric_Beast_System.mp4">Biometric Beast System</a> — Система, которая мандатирует продукты под расследованием</li>
+</ul>
+<p>Из альбома Confliction (Пещера сокровищ):</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/07-The_Serpents_Curse.mp4">The Serpent's Curse</a> — Проклятие, нацеленное на самых уязвимых</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/59-The_Deceivers_Lies.mp4">The Deceivers' Lies</a> — Институциональное отрицание, защищающее отрасли, которые могли вызвать эпидемию</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/?lang=ru">CDC обновляет государственное возмещение за детские вакцины</a> — Реструктуризация финансовых стимулов графика вакцинации</li>
+<li><a href="/?lang=ru">CDC откладывает заседание консультативного комитета по вакцинам</a> — Реформирование комитета, который устанавливает график под расследованием</li>
+<li><a href="/?lang=ru">CDC прекращает рекомендовать добавление фтора в питьевую воду</a> — Решение экологических нейротоксинов</li>
+<li><a href="/?lang=ru">HHS объявляет о трансформации здравоохранения MAHA</a> — Комплексная рамка реформы</li>
+</ul>
+<hr>
+<p><em>Один из тридцати детей. В триста раз выше показателя пятидесяти лет назад. И ни одного федерального расследования почему — до сих пор. Медицинский истеблишмент называет это «лучшей диагностикой». Писание называет это тем, что это есть: нападение на малых. РФК-младший запустил расследование, которое CDC отказывался проводить. Вопрос, на который он ответит — что вызывает неврологическое опустошение поколения американских детей — подавлялся, отклонялся и высмеивался десятилетиями. «Пустите детей приходить ко Мне» — дети приходят, и они приносят с собой доказательства того, что было сделано с ними. Мельничный жернов ждет тех, кто знал и ничего не сделал.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"РФК-младший объявляет о всемирных усилиях по определению причины аутизма"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"РФК-младший запускает глобальное расследование причин аутизма, напрямую бросая вызов отказу медицинского истеблишмента изучать факторы окружающей среды."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-05-29T10:00:00Z","children":"29 мая 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","RFK-Jr",{"href":"/ru/tag/RFK-Jr/","className":"tag-pill","children":["#","RFK-Jr"]}],["$","a","autism",{"href":"/ru/tag/autism/","className":"tag-pill","children":["#","autism"]}],["$","a","investigation",{"href":"/ru/tag/investigation/","className":"tag-pill","children":["#","investigation"]}],["$","a","vaccines",{"href":"/ru/tag/vaccines/","className":"tag-pill","children":["#","vaccines"]}],["$","a","environmental-toxins",{"href":"/ru/tag/environmental-toxins/","className":"tag-pill","children":["#","environmental-toxins"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/rfk-worldwide-cause-autism/","title":"РФК-младший объявляет о всемирных усилиях по определению причины аутизма"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/rfk-worldwide-cause-autism/","title":"РФК-младший объявляет о всемирных усилиях по определению причины аутизма"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"РФК-младший объявляет о всемирных усилиях по определению причины аутизма | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"РФК-младший запускает глобальное расследование причин аутизма, напрямую бросая вызов отказу медицинского истеблишмента изучать факторы окружающей среды."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"RFK-Jr, autism, investigation, vaccines, environmental-toxins"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/rfk-worldwide-cause-autism/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/rfk-worldwide-cause-autism/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/rfk-worldwide-cause-autism/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/rfk-worldwide-cause-autism/"}],["$","meta","10",{"property":"og:title","content":"РФК-младший объявляет о всемирных усилиях по определению причины аутизма"}],["$","meta","11",{"property":"og:description","content":"РФК-младший запускает глобальное расследование причин аутизма, напрямую бросая вызов отказу медицинского истеблишмента изучать факторы окружающей среды."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/rfk-worldwide-cause-autism/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/rfk-worldwide-cause-autism.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"РФК-младший объявляет о всемирных усилиях по определению причины аутизма"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"РФК-младший объявляет о всемирных усилиях по определению причины аутизма"}],["$","meta","25",{"name":"twitter:description","content":"РФК-младший запускает глобальное расследование причин аутизма, напрямую бросая вызов отказу медицинского истеблишмента изучать факторы окружающей среды."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/rfk-worldwide-cause-autism.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

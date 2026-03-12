@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","first-increase-infant-deaths-2022",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","first-increase-infant-deaths-2022","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","first-increase-infant-deaths-2022","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T2687,<h1 id="2022-год-был-первым-увеличением-смертности-младенцев-за-десятилетия">2022 год был первым увеличением смертности младенцев за десятилетия</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"И велел фараон всему народу своему, говоря: всякого новорождённого сына бросайте в реку, а всякую дочь оставляйте в живых" — Исход 1:22</p>
+</blockquote>
+<p>Государственное убийство младенцев — это древний паттерн. Фараон нацелился на еврейских мальчиков, чтобы прерван кровную линию, из которой придёт Избавитель. Ирод убил младенцев Вифлеема, чтобы уничтожить Мессию. Убийство невинных всегда облекается в институциональный язык — общественная безопасность, национальная безопасность, профилактика болезней — но результат всегда одинаков: дети умирают, а государство не несёт никаких последствий.</p>
+<p>В 2022 году впервые за десятилетия коэффициент смертности младенцев в Соединённых Штатах увеличился. Это прерывание долгосрочного нисходящего тренда произошло в том же году, когда вакцины мРНК COVID-19 были одобрены для детей в возрасте от шести месяцев и в период массовой вакцинации беременных женщин. Совпадение требует расследования. Молчание требует объяснения.</p>
+<hr>
+<h2 id="данные-что-показывают-цифры">Данные: Что показывают цифры</h2>
+<h3 id="исторический-тренд">Исторический тренд</h3>
+<p>Коэффициент смертности младенцев в США снижался на протяжении десятилетий:</p>
+<ul>
+<li><strong>1980:</strong> 12,6 смертей на 1000 живорождений</li>
+<li><strong>1990:</strong> 9,2 на 1000</li>
+<li><strong>2000:</strong> 6,9 на 1000</li>
+<li><strong>2010:</strong> 6,1 на 1000</li>
+<li><strong>2020:</strong> 5,4 на 1000</li>
+<li><strong>2021:</strong> 5,4 на 1000</li>
+</ul>
+<p>Это устойчивое снижение отражало подлинные улучшения в неонатальной помощи, пренатальной медицине, питании и инфраструктуре общественного здравоохранения. Снижение было настолько постоянным, что оно считалось одним из самых надёжных положительных тенденций в американской статистике здравоохранения.</p>
+<h3 id="реверс-2022-года">Реверс 2022 года</h3>
+<p>В 2022 году коэффициент смертности младенцев увеличился — прерывая десятилетний нисходящий тренд. Увеличение было статистически значительным и было отмечено Центром статистики национального здравоохранения CDC (NCHS) в его ежегодном отчёте о смертности.</p>
+<hr>
+<h2 id="что-изменилось-в-2022-году">Что изменилось в 2022 году?</h2>
+<p>Факторы, которые исторически способствовали улучшению смертности младенцев — неонатальная интенсивная помощь, доступ к пренатальной помощи, питание — не ухудшились в 2022 году. Медицинская технология продолжала развиваться. Пренатальная помощь оставалась доступной. Программы питания продолжились.</p>
+<p>Что изменилось, так это введение новых медицинских продуктов в репродуктивную и педиатрическую популяции:</p>
+<ol>
+<li><strong>Массовая вакцинация беременных женщин</strong> вакцинами мРНК COVID-19 в течение 2021 и 2022 годов</li>
+<li><strong>Одобрение вакцин мРНК COVID-19 для детей от 6 месяцев и старше</strong> в июне 2022 года</li>
+<li><strong>Постоянное воздействие беременных женщин и младенцев на спайковый белок</strong> через прямую вакцинацию</li>
+<li><strong>Добавление вакцин COVID-19 в график детской иммунизации</strong> в октябре 2022 года</li>
+</ol>
+<hr>
+<h2 id="библейская-перспектива-кровь-взывает">Библейская перспектива: Кровь взывает</h2>
+<h3 id="кровь-авеля">Кровь Авеля</h3>
+<blockquote>
+<p>"Господь сказал Каину: где Авель, брат твой? Он сказал: не знаю; разве я сторож брату моему? И сказал Господь: что ты сделал? голос крови брата твоего вопиёт ко Мне из земли" — Бытие 4:10</p>
+</blockquote>
+<p>Кровь невинных взывает. Каждый младенец, умерший в 2022 году — каждая смерть, которую можно было предотвратить, если бы истина о рисках вакцины была рассказана, если бы беременные женщины были предупреждены, если бы график был поставлен под сомнение — эти смерти взывают из земли к Богу, который слышит всю кровь.</p>
+<hr>
+<h2 id="что-родители-и-семьи-должны-знать">Что родители и семьи должны знать</h2>
+<ol>
+<li><strong>2022 год был первым увеличением смертности младенцев в США за десятилетия</strong> — прерывание одного из самых надёжных положительных тенденций в здравоохранении.</li>
+<li><strong>Увеличение совпало с массовой вакцинацией беременных женщин</strong> и одобрением вакцин мРНК для младенцев.</li>
+<li><strong>CDC не провёл расследование</strong> того, способствовала ли вакцинация увеличению.</li>
+<li><strong>Задокументированные механизмы существуют</strong>, посредством которых материнская вакцинация может повредить развивающемуся плоду и новорождённому.</li>
+<li><strong>Врождённые аномалии и синдром внезапной детской смерти</strong> показали тревожные тенденции в данных.</li>
+</ol>
+<hr>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/107-Stem_Cell_Harvesting.mp4">Stem Cell Harvesting</a> — Эксплуатация самых уязвимых</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — Система, нацеленная на детей</li>
+</ul>
+<hr>
+<p><em>Впервые за десятилетия больше младенцев умерло. Линия тренда, которая указывала вниз на протяжении поколений, изменила направление — именно в том году, когда новые генетические продукты были введены беременным женщинам и младенцам. Учреждение не провело расследование. Учреждение не спросило почему. Но кровь каждого потерянного младенца взывает из земли, и Бог, который слышит эту кровь, не нуждается в расследовании CDC, чтобы знать причину. "Не судия ли всей земли поступит справедливо?" (Бытие 18:25). Он поступит. И будет.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"2022 год был первым увеличением смертности младенцев за десятилетия"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Впервые за десятилетия коэффициент смертности младенцев увеличился в 2022 году, совпадая с массовой вакцинацией COVID-19 беременных женщин и расширенным графиком вакцинации детей."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-04-28T10:00:00Z","children":"28 апреля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","infant-mortality",{"href":"/ru/tag/infant-mortality/","className":"tag-pill","children":["#","infant-mortality"]}],["$","a","2022",{"href":"/ru/tag/2022/","className":"tag-pill","children":["#","2022"]}],["$","a","COVID-19-vaccines",{"href":"/ru/tag/COVID-19-vaccines/","className":"tag-pill","children":["#","COVID-19-vaccines"]}],["$","a","pregnancy",{"href":"/ru/tag/pregnancy/","className":"tag-pill","children":["#","pregnancy"]}],["$","a","SIDS",{"href":"/ru/tag/SIDS/","className":"tag-pill","children":["#","SIDS"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/first-increase-infant-deaths-2022/","title":"2022 год был первым увеличением смертности младенцев за десятилетия"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/first-increase-infant-deaths-2022/","title":"2022 год был первым увеличением смертности младенцев за десятилетия"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"2022 год был первым увеличением смертности младенцев за десятилетия | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Впервые за десятилетия коэффициент смертности младенцев увеличился в 2022 году, совпадая с массовой вакцинацией COVID-19 беременных женщин и расширенным графиком вакцинации детей."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"infant-mortality, 2022, COVID-19-vaccines, pregnancy, SIDS"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/first-increase-infant-deaths-2022/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/first-increase-infant-deaths-2022/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/first-increase-infant-deaths-2022/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/first-increase-infant-deaths-2022/"}],["$","meta","10",{"property":"og:title","content":"2022 год был первым увеличением смертности младенцев за десятилетия"}],["$","meta","11",{"property":"og:description","content":"Впервые за десятилетия коэффициент смертности младенцев увеличился в 2022 году, совпадая с массовой вакцинацией COVID-19 беременных женщин и расширенным графиком вакцинации детей."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/first-increase-infant-deaths-2022/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/first-increase-infant-deaths-2022.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"2022 год был первым увеличением смертности младенцев за десятилетия"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"2022 год был первым увеличением смертности младенцев за десятилетия"}],["$","meta","25",{"name":"twitter:description","content":"Впервые за десятилетия коэффициент смертности младенцев увеличился в 2022 году, совпадая с массовой вакцинацией COVID-19 беременных женщин и расширенным графиком вакцинации детей."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/first-increase-infant-deaths-2022.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

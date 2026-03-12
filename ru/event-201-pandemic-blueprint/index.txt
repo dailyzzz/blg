@@ -1,0 +1,265 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","event-201-pandemic-blueprint",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","event-201-pandemic-blueprint","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","event-201-pandemic-blueprint","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:Tb3b0,<h1 id="event-201-план-пандемии-который-стал-реальностью">Event 201: План пандемии, который стал реальностью</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Ибо наша брань не против крови и плоти, но против начальств, против властей, против мироправителей тьмы века сего, против духов злобы поднебесных." — Ефесянам 6:12</p>
+</blockquote>
+<p>Падение человека не было спонтанным событием. Змей не споткнулся в Саду и случайно не искусил Еву. Он спланировал. Он ждал. Он изучал местность, выбирал цель, выбирал слова и выполнял свой план с хирургической точностью. Атака на человечество была преднамеренной - спланирована заранее, репетирована в коридорах духовной тьмы и развёрнута в момент максимальной уязвимости.</p>
+<p>Это древний паттерн: хозяева Сатаны планируют свои атаки до их запуска.</p>
+<p>Как раскрывает трек альбома Confliction <a href="https://confliction.zzzdaily.com/tracks/ru/31-Satans_Hosts.mp4">Satan's Hosts</a>, координированные атаки на человечество никогда не импровизированы. Они задуманы, совершенствуются, тестируются, а затем развёрнуты на населении, которое никогда не видело их приходящими - потому что население никогда не должно было их видеть приходящими.</p>
+<p>18 октября 2019 года некоторые из самых мощных учреждений на земле собрались в Нью-Йорк городе для имитации глобальной pandemic coronavirus. Десять недель позже реальная pandemic coronavirus появилась. Имитация предсказала диапазон смертности. Она предсказала экономический коллапс. Она предсказала режим цензуры. Она предсказала стратегию развёртывания вакцины. Она предсказала модель ответа государственно-частного партнёрства, которая переопределила национальный суверенитет.</p>
+<p>Они назвали это Event 201. И всё, что он репетировал, стало реальностью.</p>
+<hr>
+<h2 id="что-был-event-201">Что был Event 201?</h2>
+<p>18 октября 2019 года Johns Hopkins Center for Health Security, в партнёрстве с Bill &#x26; Melinda Gates Foundation и World Economic Forum, провело высокоуровневое упражнение настольного сценария пандемии в Pierre Hotel в Нью-Йорк городе. Упражнение было названо <strong>Event 201</strong>.</p>
+<p>Сценарий: новый зоонозный coronavirus - обозначенный CAPS (Coronavirus Associated Pulmonary Syndrome) - происходящий из летучих мышей, передаваемый через промежуточного хоста животного (свиней) и быстро распространяющийся через передачу от человека к человеку по всему миру. Фиктивный вирус вызвал бы мягкие симптомы в большинстве, но тяжёлое дыхание и смерть у пожилого и immunocompromised. В имитации CAPS в конце концов убил бы 65 миллионов людей по всему миру в течение 18 месяцев.</p>
+<h3 id="участники">Участники</h3>
+<p>Упражнение не было населено среднего уровня бюрократов, проходящих через контрольный список. Стол включал:</p>
+<ul>
+<li><strong>Avril Haines</strong> — бывший Deputy Director of CIA и Deputy National Security Advisor (кто позже становился President Biden's Director of National Intelligence)</li>
+<li><strong>Timothy Evans</strong> — Director of Health, Nutrition, and Population в World Bank Group</li>
+<li><strong>George Gao</strong> — Director-General of Chinese Center for Disease Control and Prevention</li>
+<li><strong>Rear Admiral Stephen Redd</strong> — Director of Office of Public Health Preparedness and Response в U.S. Centers for Disease Control and Prevention</li>
+<li><strong>Adrian Thomas</strong> — Vice President of Global Public Health в Johnson &#x26; Johnson</li>
+<li><strong>Eduardo Martinez</strong> — President of UPS Foundation</li>
+<li><strong>Lavan Thiru</strong> — Chief Representative of Monetary Authority of Singapore</li>
+<li><strong>Hasti Taghi</strong> — Vice President of NBC Universal Media</li>
+<li><strong>Matthew Harrington</strong> — Global Chief Operations Officer of Edelman, мировая крупнейшая фирма по связям с общественностью</li>
+<li><strong>Sofia Borges</strong> — Senior Vice President of United Nations Foundation</li>
+<li><strong>Anita Cicero</strong> — Deputy Director of Johns Hopkins Center for Health Security</li>
+<li><strong>Tom Inglesby</strong> — Director of Johns Hopkins Center for Health Security</li>
+<li><strong>Brad Connett</strong> — President of Henry Schein U.S. Medical Group</li>
+<li><strong>Latoya Abbott</strong> — Senior Director of Risk Management в Marriott International</li>
+<li><strong>Martin Knuchel</strong> — Head of Crisis, Emergency &#x26; Business Continuity Management в Lufthansa Group Airlines</li>
+</ul>
+<p>Разведка. Военные. Фармацевтика. Медиа. Связи с общественностью. Логистика. Центральный банк. ООН. CDC Китая. Всемирный банк. Каждый рычаг глобальной власти был представлен на том столе.</p>
+<h3 id="детали-имитации">Детали имитации</h3>
+<p>Event 201 состоял из пяти модерируемых сегментов, имитирующих прогрессию пандемии:</p>
+<ol>
+<li><strong>Сегмент 1</strong> — Начальная вспышка и ответ здравоохранения</li>
+<li><strong>Сегмент 2</strong> — Торговля, путешествия и экономическое воздействие</li>
+<li><strong>Сегмент 3</strong> — Финансы и каскадное экономическое воздействие пандемии</li>
+<li><strong>Сегмент 4</strong> — Вызовы коммуникации и борьба с "дезинформацией"</li>
+<li><strong>Сегмент 5</strong> — Восстановление после пандемии и выученные уроки</li>
+</ol>
+<p>Каждому сегменту предшествовал сценарий фиктивной трансляции новостей, произведённый для упражнения. Эти сегменты новостей - всё ещё доступные на веб-сайте Johns Hopkins Center for Health Security и YouTube - изображают сцены, которые бы играли почти идентично в реальной жизни всего месяцы позже: переполненные больницы, сбой цепи поставок, публичная паника, conflicting государственная передача информации и отчаянное давление за разработку вакцины.</p>
+<p>Имитация завершилась семь конкретных рекомендаций политики. Каждая из них стала реальной политикой во время COVID-19.</p>
+<hr>
+<h2 id="семь-рекомендаций-которые-стали-реальностью">Семь рекомендаций, которые стали реальностью</h2>
+<p>Event 201 не просто предсказал пандемию. Она предписала ответ. Вот семь ключевых рекомендаций из упражнения и что произошло в реальности:</p>
+<h3 id="1-правительства-и-частный-сектор-должны-присвоить-большую-приоритет-разработке-методов-для-борьбы-с-дезинформацией">1. Правительства и частный сектор должны присвоить большую приоритет разработке методов для борьбы с дезинформацией</h3>
+<p><strong>Имитация сказала:</strong> Правительства должны партнёротать с компаниями социальных сетей и организациями новостей для наполнения информационного пространства "авторитетной" передачей информации и подавления "ложной и неточной" информации.</p>
+<p><strong>Что в действительности произошло:</strong> В течение недель появления COVID-19, Silicon Valley запустила наиболее агрессивную кампанию цензуры в современной истории. Facebook, Twitter, YouTube и Google подавили, лишили доходов, деплатформировали и shadow-забанили каждого, кто оспаривал официальную повествование - включая лицензированных врачей, peer-reviewed исследователей и изобретателей развёрнутых технологий. <a href="/censorship-industrial-complex/?lang=ru">Censorship Industrial Complex</a>, как задокументировано обширно на этом сайте, был активирован в масштабе.</p>
+<p>Белый дом flagged специфичные сообщения социальных сетей для удаления. Trusted News Initiative - коалиция BBC, Reuters, AP, Facebook, Google, Twitter и Microsoft - была установлена для обеспечения "авторитетных источников" доминировала результаты поиска и ленты новостей. Независимые журналисты и медицинские эксперты, которые dissented, были лабелированы "анти-ваксеры" и "теоретики заговора."</p>
+<h3 id="2-международное-сообщество-должно-обеспечить-финансирование-для-заполнения-пробелов-в-пандемической-подготовленности">2. Международное сообщество должно обеспечить финансирование для заполнения пробелов в пандемической подготовленности</h3>
+<p><strong>Имитация сказала:</strong> Многосторонние организации должны создать механизмы массивного финансирования для поддержки пандемической подготовленности.</p>
+<p><strong>Что в действительности произошло:</strong> COVAX, инициатива совместного использования вакцин, соруководимая WHO, Gavi (финансируемая Gates Foundation) и CEPI (также финансируемой Gates Foundation), была запущена. Триллионы долларов потекли от налогоплательщиков к фармацевтическим компаниям в ускоренной авторизации. Всемирный банк создал Pandemic Emergency Financing Facility. G20 установила Financial Intermediary Fund для Pandemic Prevention and Preparedness.</p>
+<h3 id="3-страны-международные-организации-и-глобальные-транспортные-компании-должны-спланировать-вместе-как-они-будут-смягчать-проблемы-путешествий-и-торговли-во-время-серьёзной-пандемии">3. Страны, международные организации и глобальные транспортные компании должны спланировать вместе, как они будут смягчать проблемы путешествий и торговли во время серьёзной пандемии</h3>
+<p><strong>Имитация сказала:</strong> Протоколы lockdown должны быть предкоординированы международно.</p>
+<p><strong>Что в действительности произошло:</strong> Беспрецедентные lockdowns были наложены по всему миру синхронизированным образом. Границы были закрыты. Авиапутешествия были остановлены. Протоколы карантина были реализованы на основе раскрытых международных рамок. Скорость и uniformity ответа по сотням наций предложили предкоординацию, не спонтанное независимое принятие решение.</p>
+<h3 id="4-правительства-должны-предоставить-больше-ресурсов-и-поддержку-для-разработки-и-surge-manufacturing-вакцин-диагностики-и-терапевтики">4. Правительства должны предоставить больше ресурсов и поддержку для разработки и surge manufacturing вакцин, диагностики и терапевтики</h3>
+<p><strong>Имитация сказала:</strong> Правительства должны предварительно финансировать разработку фармацевтической при беспрецедентных уровнях.</p>
+<p><strong>Что в действительности произошло:</strong> Operation Warp Speed обязалась свыше 18 миллиардов долларов US налогоплательщиков денег к фармацевтическим компаниям - до того, как какие-либо данные безопасности существовали. Pfizer, Moderna, Johnson &#x26; Johnson и AstraZeneca получили миллиарды в соглашениях авансовой покупки. Emergency Use Authorizations пропустили стандартные 10-15 лет временные линии одобрения, сжимая их в месяцы. Щиты ответственности под PREP Act обеспечили, что фармацевтические компании не могли быть судились за какой-либо вред, вызванный их продуктами.</p>
+<h3 id="5-глобальный-бизнес-должен-признать-экономическое-бремя-пандемий">5. Глобальный бизнес должен признать экономическое бремя пандемий</h3>
+<p><strong>Имитация сказала:</strong> Корпорации должны построить пандемический ответ в их бизнес-непрерывности планирование.</p>
+<p><strong>Что в действительности произошло:</strong> Каждая крупная корпорация на земле реализовала пандемические протоколы. Инфраструктура удаленной работы была развёрнута почти ночью. Цепи поставок были перестроены. Крупнейший трансфер богатства в человеческую историю произошел, с триллионами текущими от малых бизнесов (которые были принуждены закрыть как "non-essential") к мега-корпорациям, как Amazon, Walmart и tech гигантам (которые были определены как "essential").</p>
+<h3 id="6-международные-организации-должны-приоритизировать-снижение-экономических-воздействий-во-время-пандемий">6. Международные организации должны приоритизировать снижение экономических воздействий во время пандемий</h3>
+<p><strong>Имитация сказала:</strong> Центральные банки должны развернуть массивные финансовые вмешательства.</p>
+<p><strong>Что в действительности произошло:</strong> Федеральный резервный банк вливал свыше 4 триллионов долларов в финансовую систему. Процентные ставки были срублены до нуля. Чеки стимула были распределены населению, пока одновременно обесценивая валюту. Результат был худший инфляцией в четыре десятилетия, дальнейшем эрозией покупательной способности обычных людей, пока имущество оживалось богатых.</p>
+<h3 id="7-правительства-и-частный-сектор-должны-разработать-методы-для-надёжного-обмена-информацией">7. Правительства и частный сектор должны разработать методы для надёжного обмена информацией</h3>
+<p><strong>Имитация сказала:</strong> Централизованная система рамок обмена информацией должна соединить правительства, международные организации и частный сектор.</p>
+<p><strong>Что в действительности произошло:</strong> WHO стала центральным узлом для "официальной" информации пандемии. Руководство WHO - которое сдвигалось повторно и противоречило себе - было обработано как неоспоримая правда платформами социальных сетей. Каждый, кто отклонился от позиции WHO, даже когда WHO была позже доказана неправильной (на масках, на передаче воздушным путём, на естественном иммунитете, на асимптоматичной передаче), был цензурирован.</p>
+<hr>
+<h2 id="платья-репетиции-паттерн-пандемических-упражнений">Платья репетиции: Паттерн пандемических упражнений</h2>
+<p>Event 201 был не изолированным упражнением. Это была последняя в длинной последовательности всё более специфичных пандемических имитаций, проведённых США правительством, военными и аффилированными учреждениями:</p>
+<h3 id="dark-winter-июнь-2001">Dark Winter (июнь 2001)</h3>
+<p>Проведённая в Andrews Air Force Base, это упражнение имитировало скрытую атаку smallpox на США. Участники включали старших государственных чиновников, roleplaying Президента, National Security Council и государственных губернаторов. Упражнение завершилось выводом, что США было катастрофически неподготовлено для биологической атаки и рекомендовало расширение государственных чрезвычайных полномочий, запас вакцин и установление протоколов для карантина и военного положения.</p>
+<p>Dark Winter проходил всего три месяца перед 11 сентября атак и последующих anthrax mailings, которые убили пять человек и террорировали нацию. Как задокументировано в нашей статье на <a href="/darpa-dark-winter-military-origins/?lang=ru">DARPA's Dark Winter</a>, anthrax, использованный в этих атаках, был позже отследен к США правительственной лаборатории в Fort Detrick. Упражнение репетировало кризис, который последовал.</p>
+<h3 id="atlantic-storm-январь-2005">Atlantic Storm (январь 2005)</h3>
+<p>Имитированный международный саммит, отвечающий на биотеррорист smallpox атаку, с участием бывших лидеров государств и старших государственных чиновников из нескольких стран. Упражнение протестировало механизмы международной кооперации и рамки распределения вакцины.</p>
+<h3 id="clade-x-май-2018">Clade X (май 2018)</h3>
+<p>Проведено Johns Hopkins Center for Health Security - тем же учреждением позади Event 201 - Clade X имитировал глобальную пандемию, вызванную умеренно передачей, умеренно летальной патогеном, созданной, используя biotechnology. Упражнение специфично исследовало, как биологическое оружие, созданное, может быть замаскировано, как естественное возникновение и политических ответов требуемых. Участники включали бывшего директора CIA R. James Woolsey и бывшего Senate Majority Leader Tom Daschle.</p>
+<h3 id="crimson-contagion-январьавгуст-2019">Crimson Contagion (январь–август 2019)</h3>
+<p>Массивное, многомесячное федеральное упражнение, организованное USA Department of Health and Human Services, имитирующее influenza pandemic, происходящий из Китая. Упражнение включало 12 федеральных органов, 12 государств правительств, 15 tribal nations, 74 местных органов здравоохранения и 87 больниц. Это завершилось выводом, что USA система здравоохранения будет переполнена и что массивное финансирование требовалось для surge capacity - выводов, которые были классифицированы и только leaked к прессе в 2020 после COVID-19 уже прибыл.</p>
+<p>Crimson Contagion пробегал от января через август 2019. Event 201 проходил в октябре 2019. COVID-19 появился в ноябре-декабре 2019. Три пандемических упражнения в единственном году - каждое более специфичное, чем последнее - culminating в реальном.</p>
+<hr>
+<h2 id="документирование-karen-kingston">Документирование Karen Kingston</h2>
+<p>Karen Kingston, biotech аналитик и бывший Pfizer фармацевтической консультант промышленности, скомпилировал обширное документирование отслеживание юридической, нормативной и контрактной рамки, которая сделала пандемический ответ возможным. В её исследовательском документе озаглавленном <strong>"What Will Determine if History Records COVID-19 as a Global Bioweapon Attack?"</strong>, Kingston документирует:</p>
+<ul>
+<li>
+<p>USA Department of Defense был основной покупателем и распределителем COVID-19 инъекций - не фармацевтические компании. Pfizer, Moderna и Johnson &#x26; Johnson работал под <strong>Other Transaction Authority (OTA)</strong> контрактами, которые военные контракты закупок освобождены от стандартной фармацевтической нормативной системы.</p>
+</li>
+<li>
+<p>Инъекции mRNA были классифицированы как <strong>countermeasures</strong> под PREP Act, не как фармацевтические продукты. Это юридическое различие означало, что они не требовались встречать безопасность или efficacy стандарты нормального FDA-одобренного лекарства.</p>
+</li>
+<li>
+<p>DARPA участие в mRNA технологии predates пандемию по годам. Pandemic Prevention Platform (P3) программа, запущенная DARPA в 2017, цель была разработать возможность производить эффективные countermeasures против любого инфекционного заболевания в течение 60 дней вспышки. Moderna mRNA платформа была разработана с DARPA финансирования.</p>
+</li>
+<li>
+<p><strong>International Health Regulations (2005)</strong>, как изменено, дал WHO Director-General полномочия объявить Public Health Emergency of International Concern (PHEIC), которая запустила предварительно-переговорённые чрезвычайные ответные протоколы поперёк государств-членов - те же протоколы репетировались в Event 201.</p>
+</li>
+</ul>
+<p>Работа Kingston устанавливает, что инфраструктура для пандемического ответа не была построена в реакции на COVID-19. Она была построена заранее, финансирована заранее, юридически структурирована заранее и репетирована заранее. Вирус не был неожиданным кризисом, требующим импровизированного ответа. Ответ существовал сначала, и кризис предоставил оправдание для развёртывания его.</p>
+<p>Как Kingston указала: "Если вы видите контракты, финансирование, юридические рамки и упражнения все preceding событие - и ответ сопоставляет репетицию идеально - вы больше не смотрите на подготовленность. Вы смотрите на план."</p>
+<hr>
+<h2 id="spars-20252028-следующая-пандемическая-имитация">SPARS 2025–2028: Следующая пандемическая имитация</h2>
+<p>В 2017 году Johns Hopkins Center for Health Security опубликовал документ озаглавленный <strong>"The SPARS Pandemic 2025–2028: A Futuristic Scenario for Public Health Risk Communicators."</strong> Этот 89-стр документ описывает фиктивную пандемию, вызванную новой coronavirus, названной SPARS, начинающейся в 2025 и длящейся через 2028.</p>
+<p>Сценарий детализирует:</p>
+<ul>
+<li>Новой coronavirus появляющейся из Southeast Asia</li>
+<li>Начальная публичная путаница и conflicting информация</li>
+<li>Программа ускоренной разработки вакцины (фиктивная вакцина названа "Corovax")</li>
+<li>Распространённое публичное сопротивление вакцинации</li>
+<li>Скоординированная кампания правительства-медиа для борьбы с "vaccine hesitancy"</li>
+<li>Отчёты серьёзных неблагоприятных реакций из вакцины, включая неврологический вред</li>
+<li>Публичный reckoning после пандемии заканчивается, когда истинный масштаб повреждений от вакцины становится неоспоримый</li>
+<li>Государственные усилия восстановить публичное доверие в лице распространённого гнева по вакцинам повреждают</li>
+</ul>
+<p>Документ SPARS читает менее, как гипотетический сценарий и больше, как детальный операционный план. Он предупреждает почти каждую дебату, противоречие и вызов информации, которые в действительности произошли во время COVID-19 - годы перед COVID-19 существованием.</p>
+<p>Документ явно обсуждает как управлять публичным восприятием, когда повреждения от вакцины становятся слишком распространённы отрицать. Это описывает стратегии для признания вреда, пока сохраняя институциональную кредитоспособность. Это даже рассматривает как управлять политическим fallout, когда избранные чиновники, которые продвигали вакцины, столкнуться публичного backlash.</p>
+<p>Сценарий SPARS установлена для начала в 2025 - год, который вы можете читать эту статью. Паттерн имитации-к-реальности, если это держит, предлагает, что те, кто разработал Event 201, уже разработали, что идёт дальше.</p>
+<hr>
+<h2 id="паттерн-имитации-к-реальности">Паттерн имитации к реальности</h2>
+<p>Отступите и видьте полный паттерн:</p>
+<table>
+<thead>
+<tr>
+<th>Упражнение</th>
+<th>Дата</th>
+<th>Что это имитировало</th>
+<th>Что последовало</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Dark Winter</strong></td>
+<td>июнь 2001</td>
+<td>Скрытая биологическая атака на США почвы</td>
+<td>9/11 атаки, anthrax mailings (сентябрь–ноябрь 2001)</td>
+</tr>
+<tr>
+<td><strong>Atlantic Storm</strong></td>
+<td>январь 2005</td>
+<td>Международный биотеррор smallpox ответ</td>
+<td>H5N1 avian паника, расширение WHO полномочий</td>
+</tr>
+<tr>
+<td><strong>Clade X</strong></td>
+<td>май 2018</td>
+<td>Инженерный пандемический pathogen</td>
+<td>Ведущаяся gain-of-function дебаты, Wuhan лаб проблемы</td>
+</tr>
+<tr>
+<td><strong>Crimson Contagion</strong></td>
+<td>январь–август 2019</td>
+<td>Дыхательный pandemic из Китая</td>
+<td>COVID-19 из Китая (ноябрь 2019)</td>
+</tr>
+<tr>
+<td><strong>Event 201</strong></td>
+<td>октябрь 2019</td>
+<td>Novel coronavirus pandemic</td>
+<td>COVID-19 declared pandemic (март 2020)</td>
+</tr>
+<tr>
+<td><strong>SPARS</strong></td>
+<td>Опубликовано 2017</td>
+<td>Coronavirus pandemic 2025–2028</td>
+<td>?</td>
+</tr>
+</tbody>
+</table>
+<p>Одно упражнение могло бы быть prudent планирование. Два могли бы быть diligent подготовленность. Но шесть эскалирующих имитаций - каждое более специфичное, чем последнее, каждое последовав реальным событием мира, которое зеркалит сценарий - составляет паттерн, который никакой честный анализ не может отклонить, как совпадение.</p>
+<p>Военные называют этот процесс <strong>репетиция</strong>. В военной доктрине, вы не репетируете операцию, которую вы не намеревались выполнять. Вы репетируете для определения слабостей, совершенствования координации, тестирования коммуникационных каналов и гарантирования того, что когда операция идёт live, каждый участник знает свою роль.</p>
+<p>Event 201 была репетиция. Участники репетировали их роли: разведка (Avril Haines), фармацевтика (Johnson &#x26; Johnson), медиа (NBC Universal), связи с общественностью (Edelman), логистика (UPS), финансы (World Bank, Monetary Authority of Singapore), публичное здравоохранение (CDC, Chinese CDC) и управление (United Nations Foundation). Когда реальная пандемия прибыла, каждый участник выполнил их репетировал функцию.</p>
+<hr>
+<h2 id="ничего-нового-под-солнцем">Ничего нового под солнцем</h2>
+<blockquote>
+<p>"Что было, то и будет; и что делалось, то и будет делаться, и нет ничего нового под солнцем." — Ecclesiastes 1:9</p>
+</blockquote>
+<p>Враг всегда телеграфирует его планы. Это не дефект в стратегии противника - это особенность его природы. Писание раскрывает, что Сатана - имитатор, не создатель. Он не может принести что-либо из ничего. Он только может скрутить, подделать и портить что-либо существующее. И потому что он связан этим ограничением, он должен построить его операции в структурах, которые видимы для тех, кто имеет глаза видеть.</p>
+<p>Бог объявил конец от начало (Исайя 46:10). Сатана, в его mockery, попытки то же - объявляя его планы заранее через имитации, белые документы, fiction, развлечение и политические документы. Он делает это не потому что он должен, но потому что духовная экономия обмана требует согласие. Население должно быть говорено, даже если косвенно. Ритуал требует это.</p>
+<p>Книга Genesis раскрывает, что змей не просто искусил Еву - он объявил его намерение перед действием. "Вы не найдётесь мёртвыми," он сказал, напрямую противореча Божьему слову. Он телеграфировал ложь перед развёртыванием её. Он сказал человечеству ровно то, что он будет делать - и человечество выбрало не слушать.</p>
+<p>Event 201 сказал миру ровно что идёт. Документ SPARS говорит миру, что идёт дальше. Имитации - это не просто подготовленность - они proclaim. Они - змей в Саду, говоря plainly, полагаясь на глухоту отвлёченного мира.</p>
+<hr>
+<h2 id="ответственность-watchman">Ответственность Watchman</h2>
+<blockquote>
+<p>"Сын человеческий! Я поставил тебя стражом дому Израилева; ты будешь слышать слово из уст Моих и извещать их от Меня." — Ezekiel 33:7</p>
+</blockquote>
+<p>Пророк Ezekiel был сказан, что если watchman видит sword идущим и не наносит trumpet, blood из людей на watchman руки. Но если watchman звонит in alarm и люди не слушают, каждый человек носит ответственность за их судьба.</p>
+<p>Документы публичны. Event 201 видео, рекомендации и списки участников опубликованы открыто. Сценарий SPARS свободно downloadable из Johns Hopkins веб-сайта. Crimson Contagion результаты были получены через FOIA запросы. Исследование Kingston публично доступно. Ничто из этого не скрыто. Это просто проигнорировано.</p>
+<p>Паттерн задокументирован. Репетиции на record. Следующего упражнения сценарий опубликован. Вопрос не является ли информация доступна - это является ли вы будете действовать на это.</p>
+<p>Как пророк Hosea lamented: "Мой народ погибает от недостатка знания" (Hosea 4:6). Но в этом века, разрушение - это не из недостатка знания - документы существуют, упражнения записаны, планы опубликованы. Разрушение из отказа видеть, отказа видеть и отказа действовать на что-либо plainly видимо.</p>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<hr>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/165-Event_201_Came_True.mp4">Event 201 Came True</a> — Пандемическая имитация, которая играл в реальности</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> — Военные упражнения биозащиты и их реальный aftermath</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/55-Extinction_Code-AI_Will_Kill_Us_All.mp4">Extinction Code</a> — Мёртвого человека переключатель и архитектура инженерной катастрофы</li>
+</ul>
+<p>Из альбома Confliction (The Cave of Treasures):</p>
+<ul>
+<li>
+<p><a href="https://confliction.zzzdaily.com/tracks/ru/31-Satans_Hosts.mp4">Satan's Hosts</a> — Скоординированные атаки запланированные заранее, метод древней войны противника</p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/ru/179-Engineering_Contagion.mp4">Engineering Contagion</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/ru/285-Lockstep_With_The_Beast.mp4">Lockstep With The Beast</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/ru/286-Lockstep_With_The_Beast-Alt.mp4">Lockstep With The Beast (Alt)</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/ru/155-Cyber_Polygon_Prophecy.mp4">Cyber Polygon Prophecy</a></p>
+</li>
+<li>
+<p><a href="https://zzzdaily.zzzdaily.com/tracks/ru/156-Cyber_Polygon_Prophecy-Alt.mp4">Cyber Polygon Prophecy (Alt)</a></p>
+</li>
+</ul>
+<h2 id="исследуйте-дальше">Исследуйте дальше</h2>
+<ul>
+<li><a href="/darpa-dark-winter-military-origins/?lang=ru">DARPA's Dark Winter: The Military Origins of Pandemic Response</a> — Как военные упражнения биозащиты предшествовали реальным биологическим событиям</li>
+<li><a href="/bioweapons-gain-of-function/?lang=ru">Bioweapons and Gain-of-Function: Engineering the Next Plague</a> — Программы исследований, которые создают угрозы, которые они претендуют защищать против</li>
+<li><a href="/pfizer-fraud-criminal-case/?lang=ru">The Pfizer Criminal Case</a> — Крупнейший уголовный штраф в истории США и компания, доверённая с вашим здоровьем</li>
+<li><a href="/who-pandemic-treaty-sovereignty/?lang=ru">WHO Pandemic Treaty: The End of National Sovereignty</a> — Как международное управление здоровьем переопределяет демократическое самоопределение</li>
+</ul>
+<hr>
+<p><em>Змей говорил plainly в Саду, и человечество не слушало. Event 201 говорил plainly в октябре 2019, и мир не слушал. Документ SPARS говорит plainly сейчас. Паттерн не изменился с Eden - враг объявляет его планы, полагаясь на слумбер народа и выполняет на расписание. Единственная защита - одна Писание всегда предписан: "Бодрствуйте и молитесь, дабы не впасть в искушение" (Матфей 26:41). Watchman, который видит sword и остаётся в молчание, разделяет вину. Trumpet был звучит. Что вы делаете дальше, остаётся между вами и Богом.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Event 201: План пандемии, который стал реальностью"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Упражнение настольного сценария в октябре 2019 года, проведённое Johns Hopkins, Foundation Gates и World Economic Forum, которое имитировало пандемию coronavirus за недели до появления COVID-19 — совпадение или план?"}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-09T10:00:00Z","children":"9 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","event-201",{"href":"/ru/tag/event-201/","className":"tag-pill","children":["#","event-201"]}],["$","a","pandemic",{"href":"/ru/tag/pandemic/","className":"tag-pill","children":["#","pandemic"]}],["$","a","simulation",{"href":"/ru/tag/simulation/","className":"tag-pill","children":["#","simulation"]}],["$","a","Bill-Gates",{"href":"/ru/tag/Bill-Gates/","className":"tag-pill","children":["#","Bill-Gates"]}],["$","a","Johns-Hopkins",{"href":"/ru/tag/Johns-Hopkins/","className":"tag-pill","children":["#","Johns-Hopkins"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/event-201-pandemic-blueprint/","title":"Event 201: План пандемии, который стал реальностью"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/event-201-pandemic-blueprint/","title":"Event 201: План пандемии, который стал реальностью"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Event 201: План пандемии, который стал реальностью | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Упражнение настольного сценария в октябре 2019 года, проведённое Johns Hopkins, Foundation Gates и World Economic Forum, которое имитировало пандемию coronavirus за недели до появления COVID-19 — совпадение или план?"}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"event-201, pandemic, simulation, Bill-Gates, Johns-Hopkins"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/event-201-pandemic-blueprint/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/event-201-pandemic-blueprint/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/event-201-pandemic-blueprint/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/event-201-pandemic-blueprint/"}],["$","meta","10",{"property":"og:title","content":"Event 201: План пандемии, который стал реальностью"}],["$","meta","11",{"property":"og:description","content":"Упражнение настольного сценария в октябре 2019 года, проведённое Johns Hopkins, Foundation Gates и World Economic Forum, которое имитировало пандемию coronavirus за недели до появления COVID-19 — совпадение или план?"}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/event-201-pandemic-blueprint/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/event-201-pandemic-blueprint.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Event 201: План пандемии, который стал реальностью"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Event 201: План пандемии, который стал реальностью"}],["$","meta","25",{"name":"twitter:description","content":"Упражнение настольного сценария в октябре 2019 года, проведённое Johns Hopkins, Foundation Gates и World Economic Forum, которое имитировало пандемию coronavirus за недели до появления COVID-19 — совпадение или план?"}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/event-201-pandemic-blueprint.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

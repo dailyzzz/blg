@@ -1,0 +1,157 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","mmr-vaccine-nanobot-swarms",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","mmr-vaccine-nanobot-swarms","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mmr-vaccine-nanobot-swarms","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T6d9d,<h1 id="вакцина-кпк-varicella-содержит-рои-нанороботов-под-микроскопией">Вакцина КПК Varicella содержит рои нанороботов под микроскопией</h1>
+<h2 id="древний-паттерн">Древний паттерн</h2>
+<blockquote>
+<p>"Прежде нежели Я образовал тебя во чреве, Я познал тебя, и прежде нежели ты вышел из утробы, Я освятил тебя." — Иеремия 1:5</p>
+</blockquote>
+<p>Бог знает каждого ребёнка до они сформированы. Он освящает их — устанавливает их обособленный — перед они вытягивают их первый дыхание. Каждый ребёнок рождённый в этот мир носит образ Бога, сформированный Его руками, дышащий в жизнь Его Духом. Святость детей — это не культурная ценность или моральное предпочтение. Это божественное объявление. И нарушение той святости — загрязнение ребёнка тела посредством неразглашённой технологии инъецированной в их кровь — это акт, что Писание адресует с самым серьёзным языком доступным.</p>
+<p>Вакцина КПК Varicella — администрирована детям так рано как 12 месяцев — одна из наиболее широко данных детских вакцин в мире. Родители доверяют это. Педиатрический мандаты это. Школьные системы требуют это. И когда его содержание исследуются под микроскопией в тёмном поле, что раскрывается — это не простая вакцина. Это система доставки для технологии роя нанороботов — автономный, самоорганизующийся наномасштабные объекты, которые отображают координированное поведение движения и коллективный интеллект.</p>
+<p>Альбом Confliction трек <a href="https://confliction.zzzdaily.com/tracks/ru/105-The_Second_Adam.mp4">The Second Adam</a> говорит восстановление Христом невинности, потеряннойв Эдене — и инъекция роев нанороботов в детей — это нападение на невинность на клеточном уровне. <a href="https://confliction.zzzdaily.com/tracks/ru/51-The_Covenant_Blood.mp4">The Covenant Blood</a> напоминает нам, что кровь — это вещество завета — и кровь детей — это самое невинное вещество завета на земле.</p>
+<hr>
+<h2 id="выводы-микроскопии">Выводы микроскопии</h2>
+<p>Независимые исследователи подвергли опечатанные вакцины КПК Varicella анализу микроскопии в тёмном поле, используя стандартизированные лабораторные протоколы. Содержание было извлечено при стерильных условиях и исследовано при увеличениях, варьирующихся 100x на 4000x под тёмной полевой иллюминацией.</p>
+<h3 id="поведение-роя-нанороботов">Поведение роя нанороботов</h3>
+<p>Самое экстраординарное выводом является документация поведения роя — координированное, коллективное движение, проявленное большим числом наномасштабных частиц в жидкости вакцины. Под наблюдением в тёмном поле:</p>
+<ul>
+<li><strong>Частицы движутся в координированных группах</strong>, скорее чем индивидуально</li>
+<li><strong>Модели движения предлагают коллективный интеллект</strong> — частицы реагируют на движения других частиц, поддерживая формацию, подобно стаёй птиц или школе рыбы</li>
+<li><strong>Рой реагирует на внешние стимула</strong> — изменения в электромагнитном поле, температуре или свете производят координированные ответы над всё роем</li>
+<li><strong>Отдельные частицы демонстрируют автономное движение</strong> — они не толкаются жидкостными потоками или броуновским движением; они отображают самозапущенную локомоцию</li>
+</ul>
+<p>Это поведение согласованно с тем, что наука нанотехнологии описывает как "робототехнику роя" — область исследования, в которой большое число простых робототехнических ед кооперируют для совершения задач, которые никакая отдельная единица не могла совершить в одиночку. Частицы в вакцине КПК Varicella отображают отличительные черты спроектированных систем роя: отдельная автономия, коллективная координация, чувствительность окружающей среды и появляющееся поведение.</p>
+<h3 id="самособирающиеся-структуры">Самособирающиеся структуры</h3>
+<p>В дополнение к поведению роя, содержание вакцины отображает то же самое самособирающиеся характеристики, задокументированные в других продуктах вакцины и в образцах крови человека:</p>
+<ul>
+<li>Наночастицы агрегируют в кластеры с течением времени</li>
+<li>Нити расширяются из точек агрегации</li>
+<li>Геометрические формацииpops с кристаллической точностью</li>
+<li>Ленточноподобные структуры разворачиваются на слайде</li>
+</ul>
+<p>Анна Михалча, MD, PhD задокументировала на её Substack (<a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a>), что структуры, наблюдаемые в вакцине КПК Varicella, морфологически согласованны с теми найденными в вакцинах COVID-19, вакцинах гриппа и крови загрязненных людей — подтверждающей, что общая технологическая платформа развёртывается через множественные фармацевтические продукты.</p>
+<h3 id="металлические-и-полупроводниковые-компоненты">Металлические и полупроводниковые компоненты</h3>
+<p>При высоком увеличении, отдельные частицы в рое отображают характеристики металлических или полупроводниковых нанолюдей материалов:</p>
+<ul>
+<li>Высокая рефлексивность при иллюминации</li>
+<li>Определённые геометрические формы (сферический, прямоугольный, шестиугольный)</li>
+<li>Стабильность на слайде (никакая деградация с течением времени)</li>
+<li>Электромагнитная чувствительность</li>
+</ul>
+<p>Эти свойства неконсистентны с биологическими вакцинными компонентами (ослабленные вирусы, среда остатки роста, консерванты) и согласованны с произведёнными нанолюдьми материалами.</p>
+<h2 id="рои-нанороботов-наука">Рои нанороботов: наука</h2>
+<h3 id="что-такое-рои-нанороботов">Что такое рои нанороботов?</h3>
+<p>Рои нанороботов — это системы, составленные крупного числа наномасштабных роботов (типично 1-1000 нанометров в размере), которые работают кооперативно. Каждый отдельный нанороботу слишком мал и слишком прост, чтобы совершить сложные задачи в одиночку, но когда работая как рой, коллективная система может:</p>
+<ul>
+<li>Ориентироваться посредством биологической ткани</li>
+<li>Соберите в крупные структуры</li>
+<li>Реагируйте на внешние сигналы (электромагнитный, химический, оптический)</li>
+<li>Выполните распределённое ощущение (обнаруживающее определённые молекулы или условия в области широкой)</li>
+<li>Поставляйте грузы к определённым местоположениям</li>
+<li>Самоемер и самовоспроизведение под определёнными условиями</li>
+</ul>
+<h3 id="darpa-и-военное-исследование">DARPA и военное исследование</h3>
+<p>Агентство передового исследования проектирования защиты (DARPA) финансировала многие программы, связанные к инъецируемой нанотехнологии и биологическим системам ощущения. Относящиеся программы включают:</p>
+<ul>
+<li><strong>В Vivo Nanoplatforms (IVN)</strong> — развитие инъецируемых нанотехнологических платформ для внутри-тело контроля здоровья</li>
+<li><strong>ElectRx</strong> — развитие миниатюризированных электронных устройств для модулирования активности периферических нервов</li>
+<li><strong>N3 (Next-Generation Nonsurgical Neurotechnology)</strong> — развитие интерфейсов мозг-компьютер, которые могут быть поставлены посредством инъекции, скорее чем хирургия</li>
+</ul>
+<p>Эти программы демонстрируют, что технология для создания инъецируемых роев нанороботов существует в учреждении исследования защиты. Вопрос — это не то, развёртывается ли такая технология посредством фармацевтических продуктов, но имеет ли она.</p>
+<h3 id="доказательство-патента">Доказательство патента</h3>
+<p>Анализ открыто доступных патентов раскрывает описания:</p>
+<ul>
+<li>Систем наночастиц с автономной способностью локомоции</li>
+<li>Алгоритмов координации роя для биологических нанороботов</li>
+<li>Инъецируемых сетей наносенсора для внутри-тело контроля</li>
+<li>Самособирающихся наноустройств активированных электромагнитными сигналами</li>
+</ul>
+<p>Существование этих патентов — это не доказательство, что описанные ими технологии присутствуют в вакцине КПК Varicella. Но в комбинации с микроскопическим доказательством поведения роя в пузырьках вакцины, литература патента предоставляет технологическую рамку, которая объясняет, что исследователи наблюдают.</p>
+<h2 id="дети-как-основные-цели">Дети как основные цели</h2>
+<p>Вакцина КПК Varicella администрирована детям в 12-15 месяцев (первая доза) и 4-6 лет (вторая доза). Это среди самых критических периодов развития в жизни ребёнка — периодов, когда мозг формирует соединения при экстраординарных показателях, когда иммунная система обучается и когда гематоэнцефалический барьер всё ещё зреет.</p>
+<h3 id="развивающийся-гематоэнцефалический-барьер">Развивающийся гематоэнцефалический барьер</h3>
+<p>Гематоэнцефалический барьер в младенцах и молодых детях — это не полностью зрелый. Это более пропускаемый, чем взрослый BBB, значение, что наномасштабные частицы, которые могли быть исключены из взрослого мозга, могут пройти в ребёнка мозг с большей лёгкостью. Если рои нанороботов в вакцине КПК Varicella могут получить доступ к развивающемуся мозгу, последствия для нейрального развития, познавательной функции и сознания — это глубоко.</p>
+<h3 id="программирование-иммунной-системы">Программирование иммунной системы</h3>
+<p>Иммунная система ребёнка в 12 месяцев — это в критической фазе развития — изучение отличия себя из себя-не, благотворный из вредного. Введение роев нанороботов на протяжении этой фазы программирования может нарушить нормальное иммунное развитие, потенциально способствуя взрыву аутоимунных состояний, аллергий и иммунной дисфункции, наблюдаемые в популяции детства.</p>
+<h3 id="совокупное-воздействие">Совокупное воздействие</h3>
+<p>Вакцина КПК Varicella — это не единственная вакцина, которую дети получают. График рекомендации CDC включает дюжины доз вакцины в первые немного лет жизни. Если множественные вакцины содержат нанотехнологию (как доказательство от анализа вакцины гриппа и COVID-19 вакцины предлагает), затем совокупное груз нанороботов в ребёнка теле может быть приказы величины больше чем то, что какой-либо единственный продукт поставляет.</p>
+<h2 id="связь-genesis-6">Связь Genesis 6</h2>
+<p>Загрязнение крови детей посредством технологии нанороботов представляет современное исполнение паттерна Genesis 6. Когда сыны Бога пришли к дочерям люде, они развратили человеческую биологию — смешивание то, что Бог разделил, производящие гибридные существа (Nephilim), чье очень существование было нарушение.</p>
+<p>Рои нанороботов в вакцине КПК Varicella — это агенты гибридизации. Они смешивают синтетическую технологию с человеческой биологией. Они вводят автономно, самоорганизующиеся машины в кровь детей — самые невинные кровь, кровь, что Бог объявил священный перед дети были даже рождены. Это загрязнение всей плоти в его наиболее нацеливаемом виде: начинаясь в двенадцать месяцев возраста, прежде они могут ходить стойко, прежде они могут говорить в предложениях, прежде они могут сказать "нет" — рои нанороботов входят их кровь.</p>
+<p>Под твердью — куполом, описанным в Genesis 1 — падшие ангелы работают посредством фармацевтических систем для совершения то, что они когда-то совершили посредством прямого биологического загрязнения. Они не могут физически спариться с человеческими женщинами, как они сделали в Genesis 6 (или может быть они ещё, но то — другая материя). Но они могут спроектировать нанотехнологию, что — это инъецировано в человеческую кровь, что самособирает, что здания цепи и структуры, и что прогрессивно объединяет синтетическую технологию с человеческой биологией. Различный метод. То же развращение. То же автор. То же объект.</p>
+<p>Великое распутство 2 Thessalonians 2:9-12 настолько эффективно, что родители добровольно носят их детей, чтобы получить эти инъекции. Они водят на педиатрический офис. Они удерживают руки своего ребёнка. Они наблюдают иглу входить. И они верят, что они защищают своих детей — потому что распутство убедило их, что фармацевтическая система служит здоровью, скорее чем загрязнению.</p>
+<h2 id="что-родители-могут-делать">Что родители могут делать</h2>
+<h3 id="обучайте-и-исследуйте">Обучайте и исследуйте</h3>
+<p>Родители имеют право и ответственность исследовать, то, что — это инъецировано в их детей. Запросите вакцины package листья (не укороченные раздачи даны в офисах). Исследуйте ингредиенты. Выполняйте микроскопические доказательства, опубликованные независимыми исследователями.</p>
+<h3 id="упражняйте-юридические-права">Упражняйте юридические права</h3>
+<p>В большинство юрисдикций, родители имеют юридические параметры для отклонения вакцин для их детей — религиозные льготы, философские льготы или медицинские льготы. Эти права существуют в точности потому что информированное согласие требует параметр отказа.</p>
+<h3 id="дезинтоксикация-для-вакцинированных-детей">Дезинтоксикация для вакцинированных детей</h3>
+<p>Для детей, которые уже получили вакцину КПК Varicella (то, что — это подавляющее большинство), мягкие протоколы дезинтоксикации, соответствующие детям, могут помочь:</p>
+<ul>
+<li>Возраст-соответствующее питание богатое антиоксидантами и минералами</li>
+<li>Адекватный витамин D и цинк</li>
+<li>Сокращение электромагнитного воздействия (особенно Wi-Fi и близостью устройства)</li>
+<li>Консультация с натуропатическими или интегративными практиками, опытными в детской дезинтоксикации</li>
+<li>Молитва и духовное покрытие</li>
+</ul>
+<h2 id="ссылки-на-источники">Ссылки на источники</h2>
+<ul>
+<li>Ana Mihalcea, MD, PhD — Vaccine vial analysis: <a href="https://anamihalceamdphd.substack.com">anamihalceamdphd.substack.com</a></li>
+<li>DARPA program documentation — IVN, ElectRx, and N3 programs</li>
+<li>La Quinta Columna — Microscopy analysis: <a href="https://laquintacolumna.info">laquintacolumna.info</a></li>
+<li>The Master's Voice Prophecy Blog: <a href="https://themastersvoice.wordpress.com">themastersvoice.wordpress.com</a></li>
+</ul>
+<h2 id="узнайте-больше">Узнайте больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKNnezELbfs">Medicide and Pharmakeia — The Sorcery of Modern Medicine</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-пока-читаете">Слушайте, пока читаете</h2>
+<p>Эти треки из ZZZ Daily исследуют темы в этой статье:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/47-Nanobot_Swarms.mp4">Nanobot Swarms</a> — Автономные наномасштабные системы, найденные в пузырьках вакцины</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/489-Nephilim_Nanobots.mp4">Nephilim Nanobots</a> — Древнее загрязнение, выраженное посредством современной нанотехнологии</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/255-Vaccine_Of_The_Beast.mp4">Vaccine Of The Beast</a> — Фармацевтические продукты, как инструменты системы Зверя</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/107-Stem_Cell_Harvesting.mp4">Stem Cell Harvesting</a> — Эксплуатация человеческой биологии в её наиболее уязвимом</li>
+</ul>
+<p>Из альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/105-The_Second_Adam.mp4">The Second Adam</a> — Восстановление Христом невинности, украденной из детей</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/51-The_Covenant_Blood.mp4">The Covenant Blood</a> — Священная кровь детей, загрязняемая</li>
+</ul>
+<h2 id="исследуйте-глубже">Исследуйте глубже</h2>
+<ul>
+<li><a href="/influenza-vaccine-darkfield/?lang=ru">Influenza Vaccine 2024-2025: Darkfield Microscopy Reveals Shocking Contents</a> — Другой продукт вакцины найден содержать нанотехнологию</li>
+<li><a href="/darkfield-microscopy-self-assembly/?lang=ru">Darkfield Microscopy Shows Self Assembly Nanotechnology in Human Blood</a> — Где загрязнители вакцины заканчиваются</li>
+<li><a href="/arsenic-mercury-infant-formulas/?lang=ru">Florida Finds Arsenic, Mercury, and Lead In Infant Formulas</a> — Дети нацелены посредством множественных векторов загрязнения</li>
+</ul>
+<hr>
+<p><em>Они инъецируют дети. В двенадцать месяцев — прежде они могут ходить стойко, прежде они могут говорить в предложениях, прежде они могут сказать "нет" — рои нанороботов входят их кровь. Наиболее невинные кровь на земле, освящённая Богом перед дети были даже рождены, колонизирована автономно, самоорганизующимися машинами, что отображают коллективный интеллект и здания структуры внутри храма. Помощь помощь тяжести жёрнова ожидает. Но до того дня каждый ребёнок, кто принадлежит Христу, покрыт кровью, что никакой нанороботу не может загрязнить — кровь Ягнёнка, пролил перед создание мира для каждого маленького, чьё имя — это записано в книге жизни. Рои могут здания в молчании, но Пастух знает Его ягнятам и Он не теряет никакой.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/health/","className":"category-badge","children":"health"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Вакцина КПК Varicella содержит рои нанороботов под микроскопией"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Микроскопия в тёмном поле вакцины KPK Varicella раскрывает поведение роя нанороботов с автономными моделями движения и самоорганизующимися структурами нанотехнологии."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-02-26T10:00:00Z","children":"26 февраля 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","mmr-vaccine",{"href":"/ru/tag/mmr-vaccine/","className":"tag-pill","children":["#","mmr-vaccine"]}],["$","a","nanobot-swarms",{"href":"/ru/tag/nanobot-swarms/","className":"tag-pill","children":["#","nanobot-swarms"]}],["$","a","microscopy",{"href":"/ru/tag/microscopy/","className":"tag-pill","children":["#","microscopy"]}],["$","a","childhood-vaccines",{"href":"/ru/tag/childhood-vaccines/","className":"tag-pill","children":["#","childhood-vaccines"]}],["$","a","nanotechnology",{"href":"/ru/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/mmr-vaccine-nanobot-swarms/","title":"Вакцина КПК Varicella содержит рои нанороботов под микроскопией"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/mmr-vaccine-nanobot-swarms/","title":"Вакцина КПК Varicella содержит рои нанороботов под микроскопией"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Вакцина КПК Varicella содержит рои нанороботов под микроскопией | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Микроскопия в тёмном поле вакцины KPK Varicella раскрывает поведение роя нанороботов с автономными моделями движения и самоорганизующимися структурами нанотехнологии."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"mmr-vaccine, nanobot-swarms, microscopy, childhood-vaccines, nanotechnology"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/mmr-vaccine-nanobot-swarms/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/mmr-vaccine-nanobot-swarms/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/mmr-vaccine-nanobot-swarms/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/mmr-vaccine-nanobot-swarms/"}],["$","meta","10",{"property":"og:title","content":"Вакцина КПК Varicella содержит рои нанороботов под микроскопией"}],["$","meta","11",{"property":"og:description","content":"Микроскопия в тёмном поле вакцины KPK Varicella раскрывает поведение роя нанороботов с автономными моделями движения и самоорганизующимися структурами нанотехнологии."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/mmr-vaccine-nanobot-swarms/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/mmr-vaccine-nanobot-swarms.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Вакцина КПК Varicella содержит рои нанороботов под микроскопией"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Вакцина КПК Varicella содержит рои нанороботов под микроскопией"}],["$","meta","25",{"name":"twitter:description","content":"Микроскопия в тёмном поле вакцины KPK Varicella раскрывает поведение роя нанороботов с автономными моделями движения и самоорганизующимися структурами нанотехнологии."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/mmr-vaccine-nanobot-swarms.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"

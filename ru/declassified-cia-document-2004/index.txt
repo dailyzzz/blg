@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:I[6174,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"ThemeProvider"]
+3:I[524,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+4:"$Sreact.suspense"
+5:I[5517,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+6:I[8859,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+7:I[4941,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+8:I[9766,[],""]
+9:I[8924,[],""]
+a:I[8743,["2221","static/chunks/2221-7e6c4e32da135429.js","7177","static/chunks/app/layout-566ab9571eddcabf.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+14:I[7150,[],""]
+:HL["/_next/static/css/91e093b7a73c5956.css","style"]
+0:{"P":null,"b":"1SCAkP9FwT0rta0r4lLXo","p":"","c":["","ru","declassified-cia-document-2004",""],"i":false,"f":[[["",{"children":[["lang","ru","d"],{"children":[["slug","declassified-cia-document-2004","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/91e093b7a73c5956.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"ZZZ Daily Blog RSS","href":"/rss.xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var t=localStorage.getItem('zzzdaily-blog-theme');if(!t)t=window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';if(t==='light')document.documentElement.setAttribute('data-theme','light');})();"}}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"style":{"position":"relative","zIndex":1},"children":["$","$4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","main",null,{"className":"max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-8 page-content","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"text-center py-20","children":[["$","h1",null,{"className":"text-5xl font-bold mb-4","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"404"}],["$","p",null,{"style":{"color":"var(--text-secondary)"},"className":"mb-6 text-lg","children":"Page not found"}],["$","a",null,{"href":"/","className":"btn btn-primary","children":"Go Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}]]}]}]]}]}]]}]]}],{"children":[["lang","ru","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","declassified-cia-document-2004","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$4",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:T650a,<h1 id="рассекреченный-документ-cia-2004-года-выявляет-трансгуманистскую-программу">Рассекреченный документ CIA 2004 года выявляет трансгуманистскую программу</h1>
+<h2 id="древний-образец">Древний образец</h2>
+<blockquote>
+<p>"Что было, то и будет; и что делалось, то и будет делаться, и нет ничего нового под солнцем." -- Экклезиаст 1:9</p>
+</blockquote>
+<p>Трансгуманистская программа, разворачивающаяся перед нашими глазами, была не рождена в конференц-зале Кремниевой долины в 2020 году. Она была спланирована, задокументирована и классифицирована десятилетия назад разведывательными агентствами, которые точно понимали, куда идут технологии, и точно как они будут использоваться. Рассекреченный документ CIA 2004 года выявляет, что интеграция нанотехнологии, биотехнологии, информационной технологии и когнитивной науки в человеческий организм была не просто предчувствена -- она была стратегически спланирована.</p>
+<p>Соломон писал, что нет ничего нового под солнцем. Повестка дня, теперь представляемая как "инновация" и "прогресс", является выполнением планов, отложенных до пандемии COVID-19, до платформы мРНК, до того как общественность когда-либо услышала слово "нанотехнология". След документов понятен. План всегда был там.</p>
+<p>Как <a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">The Transgression</a> из альбома Confliction предупреждает, нарушение божественных границ никогда не случайно -- оно всегда спланировано. И как <a href="https://confliction.zzzdaily.com/tracks/ru/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> напоминает нам, желание стать как Бог посредством запретного знания является древней искушением в творении.</p>
+<hr>
+<h2 id="документ-конвергирующие-технологии">Документ: Конвергирующие технологии</h2>
+<h3 id="nbic-конвергенция">NBIC конвергенция</h3>
+<p>Рассекреченный документ -- часть более широкой оценки разведывательного сообщества "конвергирующих технологий" -- описывает планируемое слияние четырех технологических областей:</p>
+<ul>
+<li><strong>N</strong> -- Нанотехнология: манипуляция материей на атомной и молекулярной шкале</li>
+<li><strong>B</strong> -- Биотехнология: манипуляция живыми системами и биологическими процессами</li>
+<li><strong>I</strong> -- Информационная технология: вычисления, обработка данных и системы коммуникации</li>
+<li><strong>C</strong> -- Когнитивная наука: понимание и манипуляция человеческого ума</li>
+</ul>
+<p>Рамка конвергенции NBIC описывает будущее, в котором эти четыре области сливаются для создания возможностей, которые ни один не смог достичь один. Документ явно описывает:</p>
+<p><strong>Усиление человеческого производительности</strong></p>
+<p>Аугментирование человеческих физических и когнитивных возможностей посредством технологической интеграции. Это включает усиленную силу, выносливость, сенсорное восприятие, память, скорость обработки и эмоциональное регулирование -- достигнуто не посредством тренировки или дисциплины, а посредством установки технологии в или на человеческое тело.</p>
+<p><strong>Интерфейс мозга и машины</strong></p>
+<p>Прямая коммуникация между человеческим мозгом и внешними технологическими системами, позволяя мыслями контролируемыми устройствами, телепатической коммуникацией между людьми и загрузкой и загрузкой информации напрямую в и из мозга.</p>
+<p><strong>Системы медицины на основе нанотехнологии</strong></p>
+<p>Инъекционная нанотехнология, которая контролирует, диагностирует и лечит болезнь изнутри тела. Это включает датчики наномасштаба, системы доставки лекарств и самособирающиеся структуры, которые поддерживают здоровье посредством непрерывного внутреннего мониторинга и вмешательства.</p>
+<p><strong>Когнитивное усиление</strong></p>
+<p>Аугментирование человеческих когнитивных возможностей посредством фармацевтических, генетических и технологических средств. Это включает усиление памяти, внимания, скорости обучения и способности решения проблем -- создание когнитивных возможностей, которые превышают природные человеческие лимиты.</p>
+<h3 id="временная-шкала-2004-года">Временная шкала 2004 года</h3>
+<p>Что делает этот документ особенно значимым, это его дата: 2004. Двадцать лет до массового развертывания нанотехнологии мРНК, разведывательное сообщество уже:</p>
+<ul>
+<li>Выявило технологии, которые будут конвергированы</li>
+<li>Описало возможности, которые конвергенция активирует</li>
+<li>Описало человеческое аугментирование приложений</li>
+<li>Предчувствовало социальные последствия</li>
+<li>Спланировало институциональную рамку для разработки и развертывания</li>
+</ul>
+<p>Пандемия COVID-19 и кампания массовой вакцинации не были ответами на неожиданный кризис. Они были выполнением плана, который развивался в течение, по крайней мере, двух десятилетий -- плана введения нанотехнологии в человеческую популяцию под крышей медицинского кризиса.</p>
+<p>Ана Михалчей, MD, PhD, обширно задокументировала на ее Substack (anamihalceamdphd.substack.com), как нанотехнология, теперь видимая в человеческой крови, соответствует возможностям, описанным в рассекреченных разведывательных документах. Самособирающиеся структуры, функции биосенсора, электромагнитная коммуникация -- все были предчувствованы в документах, которые предшествовали пандемии годами и десятилетиями.</p>
+<h2 id="институциональная-рамка">Институциональная рамка</h2>
+<h3 id="национальная-инициатива-нанотехнологии">Национальная инициатива нанотехнологии</h3>
+<p>В 2000 году -- четыре года до документа CIA -- президент Клинтон запустил National Nanotechnology Initiative (NNI), федеральную программу для координации исследований и разработки нанотехнологии через 20 федеральных агентств. NNI получила совокупное финансирование, превышающее 40 миллиардов долларов -- что делает его одним из крупнейших инвестиций в исследование в американской истории.</p>
+<p>Цели NNI включают:</p>
+<ul>
+<li>Усиление нанотехнологии исследования и разработки</li>
+<li>Поддержка передачи нанотехнологии в коммерческие и военные приложения</li>
+<li>Разработка образования и программ рабочей силы в нанотехнологии</li>
+<li>Поддержка ответственного развития и регулирования</li>
+</ul>
+<p>NNI создала институциональную инфраструктуру для разработки нанотехнологии -- исследовательские лабораториями, механизмы финансирования, нормативные рамки и коммерческие трубопроводы, которые в конечном итоге произведут нанотехнологию, теперь найденную в человеческой крови. Документ CIA был произведен в этом институциональном контексте, описывая не фантазию, а программу, уже под ногами.</p>
+<h3 id="роль-darpa">Роль DARPA</h3>
+<p>Defense Advanced Research Projects Agency была основным источником финансирования для наиболее продвинутых исследований нанотехнологии. Программы DARPA, относящиеся к трансгуманистскому повестка дня, включают:</p>
+<ul>
+<li><strong>BiSTEPS</strong> (Biological Technologies for Stability, Efficiency, and Performance of Soldiers) -- исследование в человеческом аугментировании для военного персонала</li>
+<li><strong>Living Foundries</strong> -- программа разработки возможностей синтетической биологии для производства биологических материалов</li>
+<li><strong>ElectRx</strong> (Electrical Prescriptions) -- исследование в неромодуляционной технологии для лечения болезни и усиления производительности посредством электрической стимуляции периферийных нервов</li>
+<li><strong>N3</strong> (Next-Generation Nonsurgical Neurotechnology) -- инъекционная технология интерфейса нейронов</li>
+<li><strong>Pandemic Prevention Platform (P3)</strong> -- быстрое развитие фармацевтических контрмер, включая технологию мРНК</li>
+</ul>
+<p>Трубопровод DARPA от лаборатории к развертыванию проходит через фармацевтические компании, военные подрядчики и разведывательные агентства -- те же сущности, которые составляют тайное правительство, описанное CIA whistleblower Кевин Шипп. Трансгуманистская программа не является инициативой частного сектора. Это военно-разведывательная программа, выполняемая через фармацевтические каналы.</p>
+<h2 id="духовное-измерение">Духовное измерение</h2>
+<h3 id="образец-запретного-знания">Образец запретного знания</h3>
+<p>Трансгуманистская программа следует образцу запретного знания, установленному в Бытии 3. Искушение змея Еве было явно трансгуманистским: "Вы будете как боги, зная добро и зло." Обещание трансцендирования человеческих лимитов посредством запретного знания -- становление больше, чем человека, становление подобным Богу -- является первоначальным грехом.</p>
+<p>Документ CIA 2004 года артикулирует эту же обещанияе на современном языке: человеческое усиление, когнитивное аугментирование, физическое трансцендирование посредством технологии. Словарь различен. Обещание идентично. И источник тот же духовный импульс, который направлял первое нарушение в Эдене.</p>
+<p>Книга Еноха (на которую ссылаются в Jude 14-15) описывает запретное знание, преподаваемое Watcher fallen ангелам человечеству перед потопом: металлургия, оружие, косметика, чары и астрология. Это запретное знание развращало человечество и было основным фактором в решении Бога привести потоп. Нанотехнология, биотехнология и когнитивная наука являются современными эквивалентами этого запретного знания -- технологии, которые трансцендируют границы Бог расположена между естественным и сверхъестественным, человеческим и божественным, созданным и Создателем.</p>
+<h3 id="купол-и-дерзость">Купол и дерзость</h3>
+<p>Твердь, размещенная Богом над землей в Бытии 1:6-8, является границей -- утверждением божественного суверенитета над созданным царством. Трансгуманистская программа является прямым вызовом этой границе. Она стремится трансцендировать человеческие лимиты не посредством духовного преобразования, а посредством технологического аугментирования -- пробить границу между человеческим и сверхчеловеком без прохождения через ворота, которые Бог установил (спасение через Иисуса Христа).</p>
+<p>Документ CIA раскрывает, что эта дерзость не спонтанна. Она спланирована, финансирована и выполняется через институциональные структуры, которые работают позади классификационных стен. Начальства и власти, описанные в Ефесянам 6:12 -- духовные силы, ведущие эту программу -- работают через бюрократии, бюджеты и черные программы. Они используют разведывательные агентства как их инструменты. Они используют классификацию как их вуаль. И они используют фармацевтические продукты как их механизм доставки.</p>
+<p>Но купол держится. Твердь, которую Бог расположила, остается выше амбиций трансгуманистов, выше секретных программ разведывательных агентств и выше технологии, которую враг развернул. Граница между человеческим и божественным поддерживается Тем, кто ее расположил -- и ни какая NBIC конвергенция, ни DARPA программа и ни какой CIA план не может пробить то, что Бог запечатал.</p>
+<hr>
+<h3 id="предупреждение-о-1-самуила-8">Предупреждение о 1 Самуила 8</h3>
+<blockquote>
+<p><em>"И сказал Господь Самуилу: послушайся голоса народа во всем, что они говорят тебе; ибо не тебя они отвергли, а отвергли Меня, чтобы Я не царствовал над ними."</em> — <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Самуила 8:7 (KJV)</a></p>
+</blockquote>
+<p>Древнее предупреждение 1 Самуила 8 раскатывает через каждый коридор правительства сегодня. Когда Израиль требовал царя как другие нации, Бог предупреждал их точно что случится — сыновья взяты за войну, дочери за обслуживание, поля и виноградники захвачены, десятина всего конфискована. Они выбрали человеческое правительство над царством Бога, и тирания следовала точно как обещано. Ничего не менялось. Современная политическая система является двумя крыльями одной птицы — лево и право, республиканцы и демократы — все служащие тому же скрытому источнику питания. Голосование в любую сторону — выбор, какое крыло бил следующее, пока птица летит в том же направлении. Реальная власть никогда не была на любом бюллетене.</p>
+<h2 id="справочные-источники">Справочные источники</h2>
+<ul>
+<li>
+<p>National Science Foundation, "Converging Technologies for Improving Human Performance: Nanotechnology, Biotechnology, Information Technology and Cognitive Science," 2002</p>
+</li>
+<li>
+<p>CIA рассекреченная оценка NBIC конвергирующих технологий, 2004</p>
+</li>
+<li>
+<p>National Nanotechnology Initiative, годовые отчеты и стратегические планы, 2000-present</p>
+</li>
+<li>
+<p>DARPA программная документация для BiSTEPS, Living Foundries, ElectRx, N3 и P3</p>
+</li>
+<li>
+<p>Ана Михалчей, MD, PhD, anamihalceamdphd.substack.com, рассекреченный анализ документов</p>
+</li>
+<li>
+<p><a href="https://www.biblegateway.com/passage/?search=1%20Samuel%208&#x26;version=KJV">1 Самуила 8 — Предупреждение против земного царей (KJV)</a></p>
+</li>
+</ul>
+<h2 id="узнать-больше">Узнать больше</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EbVGx67pF9o">Howard Pittman Near-Death Experience Testimony — End Time Warning God Gave Him</a></li>
+<li><a href="https://www.youtube.com/watch?v=ypRb8Z3dMRs">Catholic Confidential: Deplorable Jesuit Secrets Revealed</a></li>
+<li><a href="https://www.youtube.com/watch?v=B29Nq9ID4uE">What's In The Vatican Basement May Shock You!</a></li>
+<li><a href="https://www.youtube.com/@theylivetruth">They Live Truth on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">ODD TV on YouTube</a></li>
+<li><a href="https://www.youtube.com/@Truthavision">Great Mountain Ministry on YouTube</a></li>
+<li><a href="https://www.youtube.com/@ShakingMyHeadProductions-j4x">Shaking My Head Productions on YouTube</a></li>
+</ul>
+<h2 id="слушайте-во-время-чтения">Слушайте во время чтения</h2>
+<p>Эти треки из ZZZ Daily исследуют темы этой статьи:</p>
+<ul>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/167-DARPA_Dark_Winter.mp4">DARPA Dark Winter</a> -- Военное агентство исследования позади трансгуманистской программы</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/339-The_New_Man.mp4">The New Man</a> -- Трансгуманистское видение, спланированное десятки лет назад</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/447-Modded_Humans.mp4">Modded Humans</a> -- Аугментированные человека, спланированные в секретных документах</li>
+<li><a href="https://zzzdaily.zzzdaily.com/tracks/ru/211-Total_Information_Awareness.mp4">Total Information Awareness</a> -- Аспект наблюдения трансгуманистской системы</li>
+</ul>
+<p>От альбома Confliction:</p>
+<ul>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/47-The_Transgression.mp4">The Transgression</a> -- Спланированное нарушение божественных границ</li>
+<li><a href="https://confliction.zzzdaily.com/tracks/ru/01-Cast_Out_of_Paradise.mp4">Cast Out of Paradise</a> -- Желание стать как Бог посредством запретного знания</li>
+</ul>
+<h2 id="исследовать-дальше">Исследовать дальше</h2>
+<ul>
+<li><a href="/cia-intelligence-shadow-government/?lang=ru">CIA Insider Kevin Shipp Explains The Shadow Government</a> -- Институциональная структура позади трансгуманистского плана</li>
+<li><a href="/declassified-cia-technocratic-1978/?lang=ru">Declassified Technocratic CIA Document From 1978</a> -- Более ранняя документация планирования технологического контроля</li>
+<li><a href="/cyborg-dawn-military-augmentation/?lang=ru">Cyborg Dawn: Military Use Of Human Augmentation Technology</a> -- Военное измерение человеческого аугментирования</li>
+</ul>
+<hr>
+<p><em>Документ был классифицирован. План был спрятан. Программа была скрыта позади стен секретности два десятилетия перед ее развертыванием на мир. Но Бог, который видит позади каждой классификационной стены, кто читает каждый классифицированный документ перед тем как он был написан, который знает конец с начала -- этот Бог не был удивлен. Он знал план перед планирующие его знают его. И Он уже подготовил ответ: Королевство, которое никакая технология не может усилить, Тело, которое никакая нанотехнология не может развратить и Имя, которое выше каждого имени, которое трансгуманисты дали своим программам.</em></p>b:[["$","div",null,{"className":"lg:flex lg:gap-10","children":[["$","article",null,{"className":"flex-1 min-w-0 max-w-3xl","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-2 mb-3 flex-wrap","children":[["$","a",null,{"href":"/ru/category/government/","className":"category-badge","children":"government"}],false]}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-3","style":{"fontFamily":"'Orbitron', sans-serif","color":"var(--text-heading)"},"children":"Рассекреченный документ CIA 2004 года выявляет трансгуманистскую программу"}],["$","p",null,{"style":{"color":"var(--text-secondary)","fontSize":"1.05rem","lineHeight":1.7},"children":"Рассекреченный документ CIA 2004 года выявляет подробное планирование человеческого аугментирования и интеграции технологий трансгуманизма в гражданские популяции."}],["$","div",null,{"className":"flex gap-4 mt-3 text-sm","style":{"color":"var(--text-muted)"},"children":[["$","time",null,{"dateTime":"2025-03-17T10:00:00Z","children":"17 марта 2025 г."}],["$","span",null,{"children":"zzzdaily-team"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1 mt-3","children":[["$","a","cia",{"href":"/ru/tag/cia/","className":"tag-pill","children":["#","cia"]}],["$","a","declassified",{"href":"/ru/tag/declassified/","className":"tag-pill","children":["#","declassified"]}],["$","a","transhumanism",{"href":"/ru/tag/transhumanism/","className":"tag-pill","children":["#","transhumanism"]}],["$","a","human-augmentation",{"href":"/ru/tag/human-augmentation/","className":"tag-pill","children":["#","human-augmentation"]}],["$","a","nanotechnology",{"href":"/ru/tag/nanotechnology/","className":"tag-pill","children":["#","nanotechnology"]}]]}]]}],["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16"]}],"$L17"]}],"$L18"]
+19:I[2340,["2185","static/chunks/app/%5Blang%5D/%5Bslug%5D/page-a424dc1babd9b142.js"],"default"]
+16:["$","footer",null,{"className":"mt-12 pt-6","style":{"borderTop":"1px solid var(--hr-color)"},"children":["$","a",null,{"href":"/ru/","style":{"color":"var(--accent-link)"},"children":"← Back to all articles"}]}]
+17:["$","div",null,{"className":"hidden lg:block w-72 flex-shrink-0","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/declassified-cia-document-2004/","title":"Рассекреченный документ CIA 2004 года выявляет трансгуманистскую программу"}]}]
+18:["$","div",null,{"className":"lg:hidden mt-8","children":["$","$L19",null,{"url":"https://blog.zzzdaily.com/ru/declassified-cia-document-2004/","title":"Рассекреченный документ CIA 2004 года выявляет трансгуманистскую программу"}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+f:{"metadata":[["$","title","0",{"children":"Рассекреченный документ CIA 2004 года выявляет трансгуманистскую программу | ZZZ Daily Blog | ZZZ Daily Blog"}],["$","meta","1",{"name":"description","content":"Рассекреченный документ CIA 2004 года выявляет подробное планирование человеческого аугментирования и интеграции технологий трансгуманизма в гражданские популяции."}],["$","meta","2",{"name":"author","content":"zzzdaily-team"}],["$","meta","3",{"name":"keywords","content":"cia, declassified, transhumanism, human-augmentation, nanotechnology"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","6",{"rel":"canonical","href":"https://blog.zzzdaily.com/ru/declassified-cia-document-2004/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://blog.zzzdaily.com/en/declassified-cia-document-2004/"}],["$","link","8",{"rel":"alternate","hrefLang":"ru","href":"https://blog.zzzdaily.com/ru/declassified-cia-document-2004/"}],["$","link","9",{"rel":"alternate","hrefLang":"es","href":"https://blog.zzzdaily.com/es/declassified-cia-document-2004/"}],["$","meta","10",{"property":"og:title","content":"Рассекреченный документ CIA 2004 года выявляет трансгуманистскую программу"}],["$","meta","11",{"property":"og:description","content":"Рассекреченный документ CIA 2004 года выявляет подробное планирование человеческого аугментирования и интеграции технологий трансгуманизма в гражданские популяции."}],["$","meta","12",{"property":"og:url","content":"https://blog.zzzdaily.com/ru/declassified-cia-document-2004/"}],["$","meta","13",{"property":"og:site_name","content":"ZZZ Daily Blog"}],["$","meta","14",{"property":"og:locale","content":"ru_RU"}],["$","meta","15",{"property":"og:image","content":"https://blog.zzzdaily.com/images/articles/declassified-cia-document-2004.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Рассекреченный документ CIA 2004 года выявляет трансгуманистскую программу"}],["$","meta","19",{"property":"og:image:type","content":"image/png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:site","content":"@zzzdaily"}],["$","meta","23",{"name":"twitter:creator","content":"@zzzdaily"}],["$","meta","24",{"name":"twitter:title","content":"Рассекреченный документ CIA 2004 года выявляет трансгуманистскую программу"}],["$","meta","25",{"name":"twitter:description","content":"Рассекреченный документ CIA 2004 года выявляет подробное планирование человеческого аугментирования и интеграции технологий трансгуманизма в гражданские популяции."}],["$","meta","26",{"name":"twitter:image","content":"https://blog.zzzdaily.com/images/articles/declassified-cia-document-2004.png"}]],"error":null,"digest":"$undefined"}
+13:"$f:metadata"
